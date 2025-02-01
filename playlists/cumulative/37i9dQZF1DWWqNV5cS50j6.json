@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Alternative indie music etc. Cover: Roy Blair",
+  "description": "Alternative indie music etc. Cover: 2hollis",
   "name": "anti pop",
   "tracks": [
     {
@@ -712,6 +712,28 @@
       "duration_ms": 174972,
       "name": "Adventure (feat. KIRBY)",
       "url": "https://open.spotify.com/track/6dOSdAbu3DW28z4cARUHLf"
+    },
+    {
+      "album": {
+        "name": "afraid (feat. nate sib)",
+        "url": "https://open.spotify.com/album/3wUZg9qN8bFDXHh109BaOv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        },
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178826,
+      "name": "afraid (feat. nate sib)",
+      "url": "https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G"
     },
     {
       "album": {

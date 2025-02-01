@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "The latest and the greatest of CHH!  Cover: Tedashii",
+  "description": "The latest and the greatest of CHH!  Cover: Ryce",
   "name": "The Blaze",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 135724,
       "name": "10 Toes Deep",
       "url": "https://open.spotify.com/track/4wiKbJWZ9d3cGU9YRvx5gq"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 186620,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/4mPdrJA4h0txHWUYQqozw7"
@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Barmageddon",
+        "url": "https://open.spotify.com/album/0F1xLj0ZlfMPVjhsaeqd6K"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139534,
+      "name": "Barmageddon",
+      "url": "https://open.spotify.com/track/0Nl46PVBIorvbXYKCSHw7a"
+    },
+    {
+      "album": {
         "name": "Battlecry",
         "url": "https://open.spotify.com/album/5gAhW1oOx3Bkc0lO5qemRb"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 171000,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/0jbZOl8HyAjIxhF82EzlvJ"
@@ -999,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "BRING HEAVEN DOWN",
+        "url": "https://open.spotify.com/album/1P8B81LHxpW6jvPrUWsDmF"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139711,
+      "name": "BRING HEAVEN DOWN",
+      "url": "https://open.spotify.com/track/73HaBYHGkb2uYTvRmKaf4u"
+    },
+    {
+      "album": {
         "name": "the people we became (reimagined)",
         "url": "https://open.spotify.com/album/60ZhWCsvZzlQZDlSBpPFk0"
       },
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 207000,
       "name": "CHECK",
       "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 171008,
       "name": "CHRISTIAN DRILL IS BACK (CDIB)",
       "url": "https://open.spotify.com/track/2BhTdNsmA9PbmRu8gOKV9Z"
@@ -1382,7 +1418,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 233369,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/21I4CyXu9X3YeB8E7KJG9z"
@@ -1665,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "ETERNAL",
+        "url": "https://open.spotify.com/album/1eesb5NUO2h6RCLNKepuPD"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198171,
+      "name": "ETERNAL",
+      "url": "https://open.spotify.com/track/6xp4ngYJbUKuCbabDlIjmn"
+    },
+    {
+      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/3GDTjDvX5IHRieCs3zPHBr"
       },
@@ -1756,6 +1810,24 @@
       "duration_ms": 179200,
       "name": "Family",
       "url": "https://open.spotify.com/track/6mU05zTrxPkk6zZq7OxIlj"
+    },
+    {
+      "album": {
+        "name": "Tru Talk Tony Vol.5",
+        "url": "https://open.spotify.com/album/4XttfyN23rNVs3WHUJvfCg"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167710,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/6Zi6JsRNoRPzlhHs7awoMl"
     },
     {
       "album": {
@@ -2094,7 +2166,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 229333,
       "name": "FVLL OF ROME",
       "url": "https://open.spotify.com/track/2K7XbkWjPD7lYPti7d5UCn"
@@ -2134,6 +2206,28 @@
       "duration_ms": 221572,
       "name": "Gentrify",
       "url": "https://open.spotify.com/track/7CO1KJ7HVW3Mm2WRjBbn7e"
+    },
+    {
+      "album": {
+        "name": "Get Into It (Remix)",
+        "url": "https://open.spotify.com/album/2lbkvDAhIzQXZpmBb1oBcP"
+      },
+      "artists": [
+        {
+          "name": "Definitely D",
+          "url": "https://open.spotify.com/artist/4Gh8C9Bc8G9r3ntg0XFKIx"
+        },
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130991,
+      "name": "Get Into It - Remix",
+      "url": "https://open.spotify.com/track/5Czk466BVO17ijCbUcBrHJ"
     },
     {
       "album": {
@@ -2574,7 +2668,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 194666,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/7GqYiuS2slxwQ7a4hmxyfV"
@@ -2774,7 +2868,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185273,
       "name": "HEAVEN ON THIS EARTH",
       "url": "https://open.spotify.com/track/5ulRjYlYIqhTH8YzSIy0FY"
@@ -2892,7 +2986,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 158117,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/5Bw1zLcRkhFW9HFGgBhIFW"
@@ -3118,7 +3212,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157857,
       "name": "I.S.W.I.S",
       "url": "https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ"
@@ -3377,6 +3471,28 @@
     },
     {
       "album": {
+        "name": "jesus, jesus",
+        "url": "https://open.spotify.com/album/4l4w4XBmzIBIm1IFgPQrg5"
+      },
+      "artists": [
+        {
+          "name": "Skema Boy",
+          "url": "https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1"
+        },
+        {
+          "name": "KJ TWIN",
+          "url": "https://open.spotify.com/artist/3tAxvSAsf2WJqIL88mpHKB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139169,
+      "name": "jesus, jesus",
+      "url": "https://open.spotify.com/track/0HBfyxUjBI7QZ02A6b4JQa"
+    },
+    {
+      "album": {
         "name": "JOKER CARD",
         "url": "https://open.spotify.com/album/1v2dgCI3lM9AwOhHakTFfC"
       },
@@ -3503,6 +3619,28 @@
     },
     {
       "album": {
+        "name": "Last Supper",
+        "url": "https://open.spotify.com/album/1e8ApkHVRTUgfIIDBXUZ2o"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164973,
+      "name": "Last Supper",
+      "url": "https://open.spotify.com/track/49yVq7ardpNJpBAt3bZPCB"
+    },
+    {
+      "album": {
         "name": "Lay Down (Safe & Sound)",
         "url": "https://open.spotify.com/album/4GwhYSSlg0Ig7rMtTWLQ3R"
       },
@@ -3580,7 +3718,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185441,
       "name": "Let Go Let God (The Anthem)",
       "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
@@ -3816,10 +3954,28 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 179263,
       "name": "Live 03'",
       "url": "https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY"
+    },
+    {
+      "album": {
+        "name": "Live and Learn",
+        "url": "https://open.spotify.com/album/3I1USbc104Q4Md1OhDPB4u"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178312,
+      "name": "Live and Learn",
+      "url": "https://open.spotify.com/track/0688ITMJf3fmsk1hiNgxmH"
     },
     {
       "album": {
@@ -3980,6 +4136,24 @@
       "duration_ms": 209231,
       "name": "Man on Fire",
       "url": "https://open.spotify.com/track/2bHL78eDpNNXfNInDRua1C"
+    },
+    {
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/7Af4F4gcX4Cryglow8Z58V"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126923,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/0W5TeCdNAKn6Y107ZGQ2Us"
     },
     {
       "album": {
@@ -4823,6 +4997,28 @@
     },
     {
       "album": {
+        "name": "OUTSIDE FOREVER",
+        "url": "https://open.spotify.com/album/0APomNir69MyRGhkuSw6a2"
+      },
+      "artists": [
+        {
+          "name": "Fern",
+          "url": "https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp"
+        },
+        {
+          "name": "Derek Winkley",
+          "url": "https://open.spotify.com/artist/74Kd2MgKUMAFfBvegP0YQR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143013,
+      "name": "OUTSIDE FOREVER",
+      "url": "https://open.spotify.com/track/7H57XZ8iLotCv9oX6Etgp6"
+    },
+    {
+      "album": {
         "name": "Outside Wit It",
         "url": "https://open.spotify.com/album/6kkYJaAoE3dAGyS7nll3Lm"
       },
@@ -5128,7 +5324,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137600,
       "name": "Pray",
       "url": "https://open.spotify.com/track/2oMLWTvoArJu6CJee0oBjM"
@@ -5182,7 +5378,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 170152,
       "name": "Press",
       "url": "https://open.spotify.com/track/09nVAPb8lvgHXaaigTbUnW"
@@ -5200,7 +5396,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 164181,
       "name": "Preying",
       "url": "https://open.spotify.com/track/1ySHCTjHaCEarwyTqUa3gf"
@@ -5308,7 +5504,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 228148,
       "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
       "url": "https://open.spotify.com/track/7B7kpLpdgSTluPOUEStmgV"
@@ -5428,6 +5624,24 @@
       "duration_ms": 84598,
       "name": "Reddit",
       "url": "https://open.spotify.com/track/2WN53cOBR4iZicCuocfbDr"
+    },
+    {
+      "album": {
+        "name": "REIGN DOWN",
+        "url": "https://open.spotify.com/album/5FeeI13pXZ5OmixDcj6pQq"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126332,
+      "name": "REIGN DOWN",
+      "url": "https://open.spotify.com/track/55wFmVPoWFRwdyFw3ngSRz"
     },
     {
       "album": {
@@ -5712,7 +5926,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137142,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd"
@@ -5748,7 +5962,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 209748,
       "name": "SINNER",
       "url": "https://open.spotify.com/track/2yrDu0686PDeoZ4XCky6o4"
@@ -5868,7 +6082,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 163943,
       "name": "SO GOOD",
       "url": "https://open.spotify.com/track/05mTzUeJw9SeRaJpbaJEJg"
@@ -5898,6 +6112,28 @@
       "duration_ms": 100520,
       "name": "Speed Racer",
       "url": "https://open.spotify.com/track/1rY5OtQ8yOdh4SixnIOPFI"
+    },
+    {
+      "album": {
+        "name": "Spirit Lead Me",
+        "url": "https://open.spotify.com/album/7eOgEUdAVM4P3cNXWfEdvx"
+      },
+      "artists": [
+        {
+          "name": "CJ Emulous",
+          "url": "https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ"
+        },
+        {
+          "name": "EGR",
+          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156004,
+      "name": "Spirit Lead Me",
+      "url": "https://open.spotify.com/track/2vZxKbv4cMzVQwgCZpYCIK"
     },
     {
       "album": {
@@ -6004,7 +6240,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191278,
       "name": "Stick And Move",
       "url": "https://open.spotify.com/track/3kTbn5SpF23N4QzYcA0tp0"
@@ -6290,7 +6526,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 176197,
       "name": "TELL YOU TWICE",
       "url": "https://open.spotify.com/track/1NzfplpoT4ChGBUafX6BCt"
@@ -6410,7 +6646,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 158709,
       "name": "THE BLOOD",
       "url": "https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe"
@@ -6498,7 +6734,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193044,
       "name": "THE FAMILY PRAYS",
       "url": "https://open.spotify.com/track/3Q4JA4vy2TwBzLaQsohkVR"
@@ -6854,7 +7090,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 241040,
       "name": "Until I\u2019m Gone",
       "url": "https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC"
@@ -6872,7 +7108,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 124235,
       "name": "VIGILANTE",
       "url": "https://open.spotify.com/track/45NzttU3twLdhD44vcrhkw"
@@ -6980,6 +7216,24 @@
       "duration_ms": 126764,
       "name": "Water",
       "url": "https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6"
+    },
+    {
+      "album": {
+        "name": "Iron Will",
+        "url": "https://open.spotify.com/album/3SplGh3yekzyRXdCQzXZjS"
+      },
+      "artists": [
+        {
+          "name": "Shane Kidd",
+          "url": "https://open.spotify.com/artist/0UdYqgh9lUSJSkFvtb36Xi"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Water Style",
+      "url": "https://open.spotify.com/track/3RsBJhSg4J7tBMa485czyN"
     },
     {
       "album": {
@@ -7282,10 +7536,36 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 125948,
       "name": "WHITE ELEPHANT",
       "url": "https://open.spotify.com/track/3C9sUtiSUvAkhwko0kcmas"
+    },
+    {
+      "album": {
+        "name": "WHOLE",
+        "url": "https://open.spotify.com/album/3IyjYf9oSDLYRdqY9gzM0P"
+      },
+      "artists": [
+        {
+          "name": "Cory Ard",
+          "url": "https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb"
+        },
+        {
+          "name": "Tapestry Worship",
+          "url": "https://open.spotify.com/artist/5vSRguAsGm92WB4exbS87g"
+        },
+        {
+          "name": "Lashon Brown Jr.",
+          "url": "https://open.spotify.com/artist/7r82cnR2Q14wQmMIaphYcm"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182983,
+      "name": "WHOLE",
+      "url": "https://open.spotify.com/track/1FtWjz0KfZH1IVRNhwz0h4"
     },
     {
       "album": {
@@ -7442,10 +7722,32 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 181714,
       "name": "Worship Forreal",
       "url": "https://open.spotify.com/track/32GiKCXdkBsBLWON3pkYUw"
+    },
+    {
+      "album": {
+        "name": "Worth the Wait",
+        "url": "https://open.spotify.com/album/7i4394hVIn3h8IiVTH3WhG"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "JStu",
+          "url": "https://open.spotify.com/artist/1XPqOoA9Vz9PbFELTX7gHh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Worth the Wait",
+      "url": "https://open.spotify.com/track/1DifBYAIb7qgouUOAXlnHk"
     },
     {
       "album": {
@@ -7602,7 +7904,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 124571,
       "name": "you love me (it's so good)",
       "url": "https://open.spotify.com/track/3w6VsEc7vSbc0nQyhwk8Op"

@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 313866,
       "name": "44 (Forget Forever)",
       "url": "https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 172437,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188330,
       "name": "BLEU",
       "url": "https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 127342,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
@@ -3413,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "Coraline",
+        "url": "https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169013,
+      "name": "Coraline",
+      "url": "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF"
+    },
+    {
+      "album": {
         "name": "Cougar",
         "url": "https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD"
       },
@@ -4090,7 +4108,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 167809,
       "name": "Different Light",
       "url": "https://open.spotify.com/track/1gnohgYwVShQNUnkvh7XKt"
@@ -5084,7 +5102,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 199749,
       "name": "end of our story",
       "url": "https://open.spotify.com/track/7dTEt6AbWmx1EqLYDH7OuC"
@@ -5276,6 +5294,24 @@
       "duration_ms": 146739,
       "name": "EXPIRED",
       "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
+    },
+    {
+      "album": {
+        "name": "eye2eye (ibiza sunrise mix)",
+        "url": "https://open.spotify.com/album/0N5uG2TdEKsrLnk6Nw0nLK"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286875,
+      "name": "eye2eye - ibiza sunrise mix",
+      "url": "https://open.spotify.com/track/05mnzm6uSNyabdSdr0JL1m"
     },
     {
       "album": {
@@ -8509,6 +8545,28 @@
     },
     {
       "album": {
+        "name": "In Love With A Memory",
+        "url": "https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "In Love With A Memory",
+      "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
+    },
+    {
+      "album": {
         "name": "in my bag",
         "url": "https://open.spotify.com/album/36KqwZRPs3fyGvgcpUMGeq"
       },
@@ -8900,7 +8958,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180000,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
@@ -9753,6 +9811,24 @@
     },
     {
       "album": {
+        "name": "LIKE THAT I LIKE YOU",
+        "url": "https://open.spotify.com/album/5wudHOnjaCavoYLJWGKPno"
+      },
+      "artists": [
+        {
+          "name": "Patinda",
+          "url": "https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "LIKE THAT I LIKE YOU",
+      "url": "https://open.spotify.com/track/76BKLb2dUj11V2cv4pJ7Sk"
+    },
+    {
+      "album": {
         "name": "lofi // HYPHY",
         "url": "https://open.spotify.com/album/1Ht88W58vAoXNVGZ7ugpWu"
       },
@@ -10092,6 +10168,28 @@
       "duration_ms": 178448,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/3jUeRyAxFkC7OAoUMGOlhk"
+    },
+    {
+      "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "album": {
@@ -12129,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj"
+    },
+    {
+      "album": {
         "name": "House on a Hill",
         "url": "https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ"
       },
@@ -13269,6 +13385,24 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/2oT6F7bxEfz3ux45OxVV7m"
+      },
+      "artists": [
+        {
+          "name": "XTINA GG",
+          "url": "https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178653,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/50s3q6Z2a63x0R7L1eblSJ"
+    },
+    {
+      "album": {
         "name": "Right About Love",
         "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
       },
@@ -13776,7 +13910,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 138657,
       "name": "second nature",
       "url": "https://open.spotify.com/track/6I2hjfpdTfwBzqyUaYaaPF"
@@ -14175,6 +14309,24 @@
     },
     {
       "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/4gTbrVIPKpqiwoSW5HIeSM"
+      },
+      "artists": [
+        {
+          "name": "Michele Lu",
+          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235725,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/7LHUThioW8biedbPibBVTj"
+    },
+    {
+      "album": {
         "name": "THE GRATITUDE PROJECT",
         "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
       },
@@ -14516,7 +14668,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180850,
       "name": "Slugger",
       "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
@@ -16516,7 +16668,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 198000,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/4XQ3KhcNJ1FYTVMb4honlK"
@@ -17062,7 +17214,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 134760,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/4P6SImVjdXLhfeGfWzU51q"
@@ -17819,6 +17971,24 @@
     },
     {
       "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
+    },
+    {
+      "album": {
         "name": "WATER COMES OUT OF MY EYES",
         "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
       },
@@ -18186,6 +18356,42 @@
       "duration_ms": 124861,
       "name": "What if I jump from a Bridge?",
       "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
+    },
+    {
+      "album": {
+        "name": "what never lived",
+        "url": "https://open.spotify.com/album/1Gtl6W5pDIdlcsD2wscbC0"
+      },
+      "artists": [
+        {
+          "name": "hannah bahng",
+          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212495,
+      "name": "what never lived",
+      "url": "https://open.spotify.com/track/5smSt2cCnzsyeWcSjIMQq3"
+    },
+    {
+      "album": {
+        "name": "What The Hell Do We Do Now?",
+        "url": "https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193557,
+      "name": "What The Hell Do We Do Now?",
+      "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
-  "description": "Warm, inspirational pop, that's good at heart. ",
-  "num_followers": 42479,
+  "description": "Warm, inspirational pop, that's good at heart. Cover:  James Bay & Jon Batiste",
+  "num_followers": 42601,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MehwAAAADO9FMdhrjQ198dNbNSb1EH",
+  "snapshot_id": "Z5xY6QAAAACEXgebxtefQVbCtm7oCJPb",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Sunshine In The Room",
+        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 182955,
+      "name": "Sunshine In The Room (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
+    },
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
@@ -121,22 +141,6 @@
       "url": "https://open.spotify.com/track/4yAuMf5Nrp9j7CY0NOIaRh"
     },
     {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "WAR IS WON",
-        "url": "https://open.spotify.com/album/17QpkVbAJx97Qtsl6gwSpN"
-      },
-      "artists": [
-        {
-          "name": "FIREROSE",
-          "url": "https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "WAR IS WON",
-      "url": "https://open.spotify.com/track/4pjgIveYr9h0MYKpkhJoB7"
-    },
-    {
       "added_at": "2024-10-11 13:41:50",
       "album": {
         "name": "CHILD OF GOD",
@@ -219,6 +223,22 @@
       "duration_ms": 198626,
       "name": "What a Day",
       "url": "https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/56oxjTQPDqah11iDoxcSXT"
+      },
+      "artists": [
+        {
+          "name": "Madison Watkins",
+          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/1XveQjUn4yVtlDZHP8hWMz"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -1239,22 +1259,6 @@
       "duration_ms": 196187,
       "name": "Don't Give Up On Me - (From \"Five Feet Apart\")",
       "url": "https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 220850,
-      "name": "Head Above Water",
-      "url": "https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe"
     }
   ],
   "unique_name": "shine",

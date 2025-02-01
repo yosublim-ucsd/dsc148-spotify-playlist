@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Edgar Homeros
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,998 likes - 137 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,033 likes - 137 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

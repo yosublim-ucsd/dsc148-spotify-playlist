@@ -561,6 +561,28 @@
     },
     {
       "album": {
+        "name": "Speak of the Devil",
+        "url": "https://open.spotify.com/album/4NnumGJXtPH3g8MxUX42yJ"
+      },
+      "artists": [
+        {
+          "name": "Saint Middleton",
+          "url": "https://open.spotify.com/artist/6wbRCBmxAVoXhUPG5fx0vY"
+        },
+        {
+          "name": "Alisa",
+          "url": "https://open.spotify.com/artist/2noH86g1p2jetkEpO05Fmp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Speak of the Devil",
+      "url": "https://open.spotify.com/track/5oY8aeZ2MqPKMA6fEMglcM"
+    },
+    {
+      "album": {
         "name": "Black Honey (Deluxe)",
         "url": "https://open.spotify.com/album/7AJTVMYgX1xDrufcavMUk1"
       },

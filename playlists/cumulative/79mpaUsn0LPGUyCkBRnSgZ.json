@@ -3513,6 +3513,32 @@
     },
     {
       "album": {
+        "name": "Madvillainy Demos",
+        "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93205,
+      "name": "Do Not Fire! (demo)",
+      "url": "https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql"
+    },
+    {
+      "album": {
         "name": "abc",
         "url": "https://open.spotify.com/album/6FtMqIlKhwju50LBpFXs20"
       },

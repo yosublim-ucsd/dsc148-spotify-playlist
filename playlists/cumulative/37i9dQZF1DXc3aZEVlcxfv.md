@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-187 songs - 13 hr 9 min
+188 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Your Love](https://open.spotify.com/track/49q2fjQoohYGvGbIUylDAx) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW) | [Your Love](https://open.spotify.com/album/2qZPsRyEmKSBb6kudAAN43) | 2:41 | 2024-11-01 |  |
 | [Your ways](https://open.spotify.com/track/1uqsvT2rcni4pa1KxOKPgx) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Eva Swanson](https://open.spotify.com/artist/6xUIcrMr1TuAwBepBySPJZ) | [Your ways](https://open.spotify.com/album/6iUC92Nr82kc5MlPL3kruE) | 1:57 | 2025-01-24 |  |
 | [Your Word](https://open.spotify.com/track/1kHVUbF8xeWcDpuYZzd8ME) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Your Word](https://open.spotify.com/album/0YXffD71HwbKg5MxYqpds3) | 3:12 | 2025-01-10 |  |
+| [Zero Shege](https://open.spotify.com/track/4PlCXCaxZI35ZM8rKHgbL0) | [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk) | [Zero Shege](https://open.spotify.com/album/7E61GP74XnL2Row5lOZFR4) | 1:13 | 2025-01-31 |  |
 | [ZOE](https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ZOE](https://open.spotify.com/album/3H9ke91YEz9p6m3Gj1QI6I) | 3:29 | 2024-11-01 | 2025-01-31 |
 | [Àánú \(Live\)](https://open.spotify.com/track/5sgKNXUfwjMEKBGlTUXy9W) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Àánú / Here By Mercy](https://open.spotify.com/album/7KxQwlSdCYbkR48iWm0ZAR) | 7:42 | 2025-01-24 |  |
 

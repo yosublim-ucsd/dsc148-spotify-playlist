@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: Ravyn Lenae",
-  "num_followers": 34780,
+  "num_followers": 34788,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5gNxAAAAADCf+OZIXgbrdX2WcYaZN2B",
+  "snapshot_id": "Z5zh8QAAAACvgmU1zhMyCHQ8uq613cfi",
   "tracks": [
     {
       "added_at": "2025-01-27 22:50:44",
@@ -23,6 +23,126 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "Pressure Points (feat. Lila Ik\u00e9)",
+        "url": "https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/3cp5AXmGxhU3tgNO6TgD4H"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Pressure Points (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/701oucP6kZjma5iqb7cdX8"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "duration_ms": 132203,
+      "name": "Versions of Me",
+      "url": "https://open.spotify.com/track/6SOCvo8NKJm5tfXqfBG0Uq"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "GIRLS!",
+        "url": "https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 142196,
+      "name": "GIRLS!",
+      "url": "https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "GOLIATH",
+        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "GOLIATH",
+      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "Puni Police",
+        "url": "https://open.spotify.com/album/4YHREA1du2lfRzGtmtrW09"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
+        }
+      ],
+      "duration_ms": 164764,
+      "name": "Puni Police",
+      "url": "https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "Hearts Break and People Change",
+        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Hearts Break and People Change",
+      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
+    },
+    {
+      "added_at": "2025-01-31 14:45:05",
+      "album": {
+        "name": "Valentine's Day (I Ain't Got Time For That)",
+        "url": "https://open.spotify.com/album/2xlbCKwkLJKAO8H0gNdXIe"
+      },
+      "artists": [
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "duration_ms": 162102,
+      "name": "Valentine's Day (I Ain't Got Time For That)",
+      "url": "https://open.spotify.com/track/3oPTYYAi7hS4OI8FqHN197"
     },
     {
       "added_at": "2025-01-27 22:50:44",
@@ -115,22 +235,6 @@
       "duration_ms": 141057,
       "name": "Fat Juicy & Wet",
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Oscar Winning Tears.",
-      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
       "added_at": "2025-01-27 22:50:44",
@@ -451,22 +555,6 @@
     {
       "added_at": "2025-01-27 22:50:44",
       "album": {
-        "name": "ache in my tooth",
-        "url": "https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 143583,
-      "name": "ARE U SERIOUS?",
-      "url": "https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
         "name": "Cry Baby",
         "url": "https://open.spotify.com/album/3ESzkaJUUVHRvClOdjzoNV"
       },
@@ -611,26 +699,6 @@
     {
       "added_at": "2025-01-27 22:50:44",
       "album": {
-        "name": "Stupid Dumb",
-        "url": "https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 164827,
-      "name": "Stupid Dumb",
-      "url": "https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
         "name": "Little Red Car",
         "url": "https://open.spotify.com/album/1ZdroWalq1Na6S8kNq5YUX"
       },
@@ -667,26 +735,6 @@
     {
       "added_at": "2025-01-27 22:50:44",
       "album": {
-        "name": "RIDIN",
-        "url": "https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "RIDIN (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
         "name": "again sometime?",
         "url": "https://open.spotify.com/album/473k5PVlVC3sMsiGoFwf5o"
       },
@@ -699,38 +747,6 @@
       "duration_ms": 225880,
       "name": "I'm Not People",
       "url": "https://open.spotify.com/track/74LrZH69xVWmRyUTCIUbIm"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "Still The Same",
-        "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 194928,
-      "name": "Still The Same",
-      "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "DOLLA",
-        "url": "https://open.spotify.com/album/1Jb8J2kQcOqpY98aqXVMaY"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Jones",
-          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
-        }
-      ],
-      "duration_ms": 153890,
-      "name": "DOLLA",
-      "url": "https://open.spotify.com/track/2ZULSKV0kaXCsBeHWiBksD"
     },
     {
       "added_at": "2025-01-27 22:50:44",
@@ -831,22 +847,6 @@
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "Green Lights (La Luz)",
-        "url": "https://open.spotify.com/album/06mGkV3wuFPcfvUM2MvBhQ"
-      },
-      "artists": [
-        {
-          "name": "Michaela Ja\u00e9",
-          "url": "https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Green Lights (La Luz)",
-      "url": "https://open.spotify.com/track/57MAFQ4tFh7vYefz5hyofN"
     }
   ],
   "unique_name": "Pop Frequency",

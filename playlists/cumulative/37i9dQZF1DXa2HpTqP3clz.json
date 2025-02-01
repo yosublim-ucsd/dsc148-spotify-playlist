@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's Bluegrass and old time favorites. Cover: Wood Box Heroes",
+  "description": "Today's Bluegrass and old time favorites. Cover: Yonder Mountain String Band",
   "name": "Grass Roots",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 222302,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 283000,
       "name": "Donner Pass",
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 292000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157696,
       "name": "Go in Peace",
       "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208226,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 198493,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
@@ -5984,7 +5984,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 216373,
       "name": "Kentucky Gold",
       "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
@@ -6553,6 +6553,28 @@
     },
     {
       "album": {
+        "name": "Looking at the World Through a Windshield",
+        "url": "https://open.spotify.com/album/74A73hlGrA2Io9xS0oSDnw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+        },
+        {
+          "name": "Trey Hensley",
+          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138613,
+      "name": "Looking at the World Through a Windshield",
+      "url": "https://open.spotify.com/track/13OrVs7bSDg6sf4fGGXMNb"
+    },
+    {
+      "album": {
         "name": "Lookout Mountain",
         "url": "https://open.spotify.com/album/2po8HVjL3Nvvgehs0A8Nlp"
       },
@@ -6568,6 +6590,28 @@
       "duration_ms": 228500,
       "name": "Lookout Mountain",
       "url": "https://open.spotify.com/track/4z2nsV1z5gQU4UBXtUoOCG"
+    },
+    {
+      "album": {
+        "name": "Looks Like The End Of The Road",
+        "url": "https://open.spotify.com/album/1EPAD4QiqoDhh5eWtWrwXV"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220393,
+      "name": "Looks Like The End Of The Road",
+      "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
     },
     {
       "album": {
@@ -7016,7 +7060,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Moondancer",
       "url": "https://open.spotify.com/track/5LwpF4SeYFlG4LYSFShvPe"
@@ -7258,7 +7302,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "My Little Girl in Tennessee - Live",
       "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
@@ -9450,7 +9494,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 225946,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0np7pLWzNJcW06dIil3fWp"
@@ -10118,7 +10162,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 206373,
       "name": "The Banker",
       "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
@@ -10318,7 +10362,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 227000,
       "name": "The Drifter",
       "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
@@ -10390,7 +10434,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 207319,
       "name": "The Heart Wants",
       "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
@@ -10556,7 +10600,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 246853,
       "name": "The More I Learn",
       "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
@@ -10910,7 +10954,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 255505,
       "name": "This Valley",
       "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
@@ -11832,7 +11876,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 189086,
       "name": "When It All Falls Apart",
       "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"

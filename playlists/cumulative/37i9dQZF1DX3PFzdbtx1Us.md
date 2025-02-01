@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-368 songs - 14 hr 41 min
+370 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Keepsake](https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Keepsake](https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon) | 2:32 | 2023-11-28 |  |
 | [Keszthely](https://open.spotify.com/track/0GxXg9FfNq1yqwqrrY6W1F) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Keszthely](https://open.spotify.com/album/4pL64wCXuXYe318Z4mZolF) | 2:32 | 2023-05-15 |  |
 | [Kindness](https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Kindness](https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ) | 1:09 | 2024-10-17 |  |
+| [Kindred Spirit](https://open.spotify.com/track/3Sxa7K0sVj5SvK8DPwmZGA) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Kindred Spirit](https://open.spotify.com/album/1vQzaXKZk4UH7MWw7qig95) | 3:23 | 2025-01-31 |  |
 | [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2023-05-15 | 2023-08-16 |
 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 | 2021-06-27 | 2023-05-16 |
 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 | 2024-07-29 |  |
@@ -339,6 +340,7 @@
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2023-05-15 |  |
 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 | 2024-03-19 |  |
 | [The Last Spring](https://open.spotify.com/track/23DarNj68Jdadgb8ETaSV9) | [Elba](https://open.spotify.com/artist/3vyBIFbCPSFdrzamx6G60r) | [The Last Spring](https://open.spotify.com/album/1FQidmEkogespC5aJ6rJe1) | 2:10 | 2021-06-27 | 2023-05-16 |
+| [The Light](https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [The Light](https://open.spotify.com/album/6pgKASOwqNzcedfkVriGIy) | 1:59 | 2025-01-31 |  |
 | [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 | 2024-01-09 |  |
 | [The Ones Left Behind](https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [The Ones Left Behind](https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh) | 2:28 | 2021-06-27 | 2023-05-16 |
 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-15 |  |
@@ -350,7 +352,7 @@
 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 | 2024-04-17 |  |
 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 | 2024-10-15 |  |
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2023-05-15 |  |
-| [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-05-15 |  |
+| [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-05-15 | 2025-02-01 |
 | [Tranquillity](https://open.spotify.com/track/5R3VFevA9XCuAlRlqCazge) | [Conrad Sieverts](https://open.spotify.com/artist/0VMJjZwrZ7LRrSvBMSLuR8) | [Odd Ones](https://open.spotify.com/album/20QMaQsHVDroONJx8aFbfj) | 3:17 | 2021-06-27 | 2023-05-16 |
 | [Tro](https://open.spotify.com/track/1be0V9RlpP8vsE78U54E8f) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Tro](https://open.spotify.com/album/1kfJlORvAGTbj02ns1RmbM) | 3:33 | 2023-05-15 |  |
 | [Trust](https://open.spotify.com/track/1iRrLvRjllhC2zCTNeNoqW) | [Martin Herzberg](https://open.spotify.com/artist/0G0i5Fk40ZZ6JylmVT4rsu), [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Liebe & Tasten](https://open.spotify.com/album/01zK27YlZXwzlf486jjZZt) | 5:25 | 2021-06-27 | 2022-07-29 |

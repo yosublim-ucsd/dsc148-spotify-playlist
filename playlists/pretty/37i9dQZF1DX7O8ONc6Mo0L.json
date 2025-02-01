@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: D\u00e9bora Buzas, Isaias Saad",
-  "num_followers": 323142,
+  "num_followers": 323266,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Deixa (Vers\u00e3o Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0DohlTqh6ybNDw5PWpNeJJ"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 207884,
-      "name": "Deixa (Vers\u00e3o Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/23J7FjnYFgGdVkVP0pd6Xi"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 277160,
       "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Deixa (Vers\u00e3o Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0DohlTqh6ybNDw5PWpNeJJ"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 207884,
+      "name": "Deixa (Vers\u00e3o Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/23J7FjnYFgGdVkVP0pd6Xi"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -299,18 +299,22 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
       },
       "artists": [
         {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
         }
       ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+      "duration_ms": 236013,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -331,22 +335,18 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         }
       ],
-      "duration_ms": 236013,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "De Dentro Pra Fora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 257105,
+      "name": "De Dentro Pra Fora - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "T\u00e1 Tudo Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "De Dentro Pra Fora (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
+        "name": "Quem Te Guarda \u00c9 Deus",
+        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 257105,
-      "name": "De Dentro Pra Fora - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
+      "duration_ms": 193000,
+      "name": "Quem Te Guarda \u00c9 Deus",
+      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -487,22 +503,6 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Quem Te Guarda \u00c9 Deus",
-        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quem Te Guarda \u00c9 Deus",
-      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "Instrumental Acoustic Worship II",
+        "url": "https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Cacilias",
+          "url": "https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV"
+        }
+      ],
+      "duration_ms": 331544,
+      "name": "Ele \u00e9 Exaltado",
+      "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 299008,
       "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
       "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Instrumental Acoustic Worship II",
-        "url": "https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Cacilias",
-          "url": "https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV"
-        }
-      ],
-      "duration_ms": 331544,
-      "name": "Ele \u00e9 Exaltado",
-      "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "Formoso \u00c9s (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 278500,
       "name": "Formoso \u00c9s - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2025-01-17 03:01:12",

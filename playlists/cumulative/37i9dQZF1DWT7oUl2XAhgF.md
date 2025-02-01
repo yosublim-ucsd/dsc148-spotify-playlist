@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-483 songs - 1 day 5 hr 8 min
+484 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-27 | 2024-04-19 |
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 | 2023-10-31 |
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/3jQfjIyAlnIDXJt5956iSZ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/4svoTYb9vSUhLISpZu9IYq) | 3:52 | 2023-10-27 |  |
+| [IDGAF \(but I care\)](https://open.spotify.com/track/17Fg2PKD5iipVst2gm5fJ3) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [IDGAF \(but I care\)](https://open.spotify.com/album/6wmSyW1Ie05cSJwUbgcVFC) | 3:05 | 2025-01-31 |  |
 | [If My Love Was Enough](https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [If My Love Was Enough](https://open.spotify.com/album/5nj8FfDsjGKC3WMPIG900C) | 3:41 | 2021-07-09 | 2022-07-21 |
 | [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 | 2023-04-30 |
 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 | 2023-03-24 | 2023-09-09 |
@@ -437,7 +438,7 @@
 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-01-14 | 2023-02-18 |
 | [Train Wreck](https://open.spotify.com/track/186r8w6faWFUgUeIS1PqcZ) | [The Lady Songbird Jinda](https://open.spotify.com/artist/7bARxuRTtyat6pGGBxQMJ8), [Donnie Ray](https://open.spotify.com/artist/4r3SnXMswiuZZNDD1OzJqv) | [Train Wreck](https://open.spotify.com/album/3BCKshx1X4t3nYFzaG2ItA) | 3:30 | 2023-08-18 | 2023-09-09 |
 | [Trouble](https://open.spotify.com/track/0QrPA1DZnFzbh2sK2Ru6zL) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/1kanCOAOK32Mle4upbv8W0) | 3:39 | 2023-09-01 | 2024-04-19 |
-| [Trouble](https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb) | 3:39 | 2023-07-21 |  |
+| [Trouble](https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb) | 3:39 | 2023-07-21 | 2025-02-01 |
 | [Trust](https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Truth & Soul](https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt) | 4:20 | 2022-05-06 | 2024-07-27 |
 | [Tryin' to Get By](https://open.spotify.com/track/5oKR1mBL3cN7iiGFpovuH4) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Capricorn](https://open.spotify.com/album/34kckA5C2zC6ouE5ncMJfI) | 3:19 | 2023-01-27 | 2023-02-04 |
 | [Tumblin'](https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot](https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY) | 3:44 | 2022-10-07 | 2023-04-09 |

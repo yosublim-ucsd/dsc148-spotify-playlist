@@ -1,51 +1,99 @@
 {
   "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
-  "num_followers": 109366,
+  "num_followers": 109400,
   "original_name": "Prog Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeawAAAACUXSgZ+jx+OkUbhySR2o7/",
+  "snapshot_id": "Z5xZAQAAAAAi0SDKuw2daSV4aCZyLOV+",
   "tracks": [
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/0H8dlO9iQ8uAElGuExdeq4"
       },
       "artists": [
         {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+          "name": "Lilly Legit",
+          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+        }
+      ],
+      "duration_ms": 273750,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/7KBaLm8c7yiPTkVCLbYHAN"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/16aiOyCHraghsWd4l0ss1a"
+      },
+      "artists": [
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/00ZLLJ51l9Ir5gyaGSUYxL"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Silhouette - Extended Version, Remixed & Remastered 2024",
+      "url": "https://open.spotify.com/track/3I5M7VoRW1Kb9Hg1HSOCzm"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "Synaesthesia",
+        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
+      },
+      "artists": [
+        {
+          "name": "Weather Systems",
+          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+        }
+      ],
+      "duration_ms": 551436,
+      "name": "Synaesthesia",
+      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "In the Shadows",
+        "url": "https://open.spotify.com/album/1o9YaCsVQz9QIQND8nuDHy"
+      },
+      "artists": [
+        {
+          "name": "Venamoris",
+          "url": "https://open.spotify.com/artist/4GFSsEAhmyfGlTlXqyoCiW"
         },
         {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+          "name": "Dave Lombardo",
+          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
         }
       ],
-      "duration_ms": 350085,
-      "name": "Ego Death (feat. Steve Vai)",
-      "url": "https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe"
+      "duration_ms": 232093,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/3pnZ1Pc1ZEnYXqK1CrslFf"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
-        "name": "Crosswind",
-        "url": "https://open.spotify.com/album/5EJhgG3arKi7lDDTj2qUam"
+        "name": "You All Look The Same To Me (2024 Remastered Deluxe Edition)",
+        "url": "https://open.spotify.com/album/10CW95eCsMDFh2xg8WMDGl"
       },
       "artists": [
         {
-          "name": "The Arbitrary",
-          "url": "https://open.spotify.com/artist/2a4UGVfNuNA24qJkBO5KTe"
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Crosswind",
-      "url": "https://open.spotify.com/track/1WO4ijmnb5NqgLFPLnkCNd"
+      "duration_ms": 979640,
+      "name": "Again - 2024 Remaster",
+      "url": "https://open.spotify.com/track/0mpRiv2dG8CcFgc76c1Zyy"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "I Can't Stay Here Anymore",
         "url": "https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "A Flare On The Lens (Live)",
         "url": "https://open.spotify.com/album/73v44ExX2MnFSbPQWRoLGt"
@@ -77,43 +125,27 @@
       "url": "https://open.spotify.com/track/0PWj8BEqfzvJw7VS8k2e6N"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
-        "name": "Midnight Messiah",
-        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/115SM9kfY0bkenmPMCpHiO"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 478186,
-      "name": "Midnight Messiah",
-      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Street Midnight Vibe",
-        "url": "https://open.spotify.com/album/4I6OOYFlNUroBb3rAZxaPG"
-      },
-      "artists": [
-        {
-          "name": "Felix Martin",
-          "url": "https://open.spotify.com/artist/3uDBxcooIKOzH5ltdpGb4h"
+          "name": "Andy Summers",
+          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
         },
         {
-          "name": "I Built the Sky",
-          "url": "https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN"
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
         }
       ],
-      "duration_ms": 209080,
-      "name": "Street Midnight Vibe",
-      "url": "https://open.spotify.com/track/7HJol5wD13TW4okLuG4OBB"
+      "duration_ms": 297000,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/4VHthyOaUOGjNvbOifE7eY"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Where Gods Fear To Speak",
         "url": "https://open.spotify.com/album/6Sw62kQP9rbTqt9JmdbcIR"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/6yfdG65UNPpj07tysutthu"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "And You And I (Live)",
         "url": "https://open.spotify.com/album/7dNEhTtxWmtHJNTWc1Liux"
@@ -149,7 +181,59 @@
       "url": "https://open.spotify.com/track/5ayqc9RuUdYUUunKUaL4b8"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 350085,
+      "name": "Ego Death (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "Crosswind",
+        "url": "https://open.spotify.com/album/5EJhgG3arKi7lDDTj2qUam"
+      },
+      "artists": [
+        {
+          "name": "The Arbitrary",
+          "url": "https://open.spotify.com/artist/2a4UGVfNuNA24qJkBO5KTe"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Crosswind",
+      "url": "https://open.spotify.com/track/1WO4ijmnb5NqgLFPLnkCNd"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Machines and Men",
         "url": "https://open.spotify.com/album/55CrAJlqsxryfW0wiscp4v"
@@ -165,7 +249,55 @@
       "url": "https://open.spotify.com/track/1lr87YIenNN9zdmQDACsUj"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "An Evening Of Yes Music Plus (Live, Shoreline Amphitheatre, California, 1989) [2025 Remaster]",
+        "url": "https://open.spotify.com/album/2YTsxE5iBfQUff95KuOy3j"
+      },
+      "artists": [
+        {
+          "name": "Anderson Bruford Wakeman Howe",
+          "url": "https://open.spotify.com/artist/2XTWgA3XVWe1N4qWBTNQei"
+        }
+      ],
+      "duration_ms": 519333,
+      "name": "Roundabout - (Live, Shoreline Amphitheatre, California, 1989) [2025 Remaster]",
+      "url": "https://open.spotify.com/track/5hnfi1rWf003uNGG4JN1KK"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "Changeless",
+        "url": "https://open.spotify.com/album/4JHie1I2y4Ub4vA5Tt4bpi"
+      },
+      "artists": [
+        {
+          "name": "Tom Anello",
+          "url": "https://open.spotify.com/artist/4vk7AwwGqVSHkpMeZOyxmM"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Changeless",
+      "url": "https://open.spotify.com/track/2M2qCttg4c49ibeTGqXw9R"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "Father Fiction",
+        "url": "https://open.spotify.com/album/4lAXRkLNm0BtvrfQA40HnH"
+      },
+      "artists": [
+        {
+          "name": "Jaye Jayle",
+          "url": "https://open.spotify.com/artist/6LHzi75h2Pew5JRGmUluEh"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "Father Fiction",
+      "url": "https://open.spotify.com/track/4sbYqPuSH7w7j0Nq6P98Of"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "All Because Of Me",
         "url": "https://open.spotify.com/album/0d9tJvwp8GFrn9AJ9uVH3K"
@@ -181,7 +313,7 @@
       "url": "https://open.spotify.com/track/70vXJpKTiTpAWohwuvqdmE"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Do Angels Sing Like Rain?",
         "url": "https://open.spotify.com/album/4srkbHQAppZckPsJdnfcuL"
@@ -197,7 +329,7 @@
       "url": "https://open.spotify.com/track/0u3s6lOQUPphFLrDCuLZU4"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/2bK1IwLjERGqKgYU80kAgg"
@@ -213,7 +345,7 @@
       "url": "https://open.spotify.com/track/6aPyXwx65BjLN5ySlYxywT"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/4sTkQGaGbwthXsjM2uq4vk"
@@ -229,7 +361,39 @@
       "url": "https://open.spotify.com/track/48xJvZbgqKyKpaXwetW3vr"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "\u65cb\u5f8b\u8ff7\u5bae",
+        "url": "https://open.spotify.com/album/2qCP80SUHbX3YHF2GUhzme"
+      },
+      "artists": [
+        {
+          "name": "BIGMAMA",
+          "url": "https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k"
+        }
+      ],
+      "duration_ms": 193033,
+      "name": "\u65cb\u5f8b\u8ff7\u5bae",
+      "url": "https://open.spotify.com/track/1qVHRVk9Is0nQfO9RZhiLd"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
+      "album": {
+        "name": "Journey to Voltus B",
+        "url": "https://open.spotify.com/album/4EyOqCekFh9eo81mgeXMgH"
+      },
+      "artists": [
+        {
+          "name": "HENGE",
+          "url": "https://open.spotify.com/artist/5R09pajxQjiwdUH6Fw4yM5"
+        }
+      ],
+      "duration_ms": 334960,
+      "name": "Welcome To Voltus",
+      "url": "https://open.spotify.com/track/0kTITl59lp4vgZONiQbscP"
+    },
+    {
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Harridan",
         "url": "https://open.spotify.com/album/3vjYPAzHWD2jB3SeIpoAp0"
@@ -245,7 +409,7 @@
       "url": "https://open.spotify.com/track/2ixHZTXZwFkPGauOYTLQrW"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/6oLjcbgkrpJjZmPeJwOkZc"
@@ -261,7 +425,7 @@
       "url": "https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Spacekeeper",
         "url": "https://open.spotify.com/album/4txYyPHeF5JsBZP5oZ8Se5"
@@ -277,7 +441,7 @@
       "url": "https://open.spotify.com/track/05zG6HcLop4aepPQGuNby9"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Signals (Volkor X Remix)",
         "url": "https://open.spotify.com/album/4TMeLSX3GtPMh4t2zDzfTA"
@@ -301,23 +465,7 @@
       "url": "https://open.spotify.com/track/7HiKQJaqIq2iEODIG3tzKq"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "You All Look The Same To Me (2024 Remastered Deluxe Edition)",
-        "url": "https://open.spotify.com/album/10CW95eCsMDFh2xg8WMDGl"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 979640,
-      "name": "Again - 2024 Remaster",
-      "url": "https://open.spotify.com/track/0mpRiv2dG8CcFgc76c1Zyy"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Suffering",
         "url": "https://open.spotify.com/album/2N3vxBj5sxogFtGTUU5BIG"
@@ -333,7 +481,7 @@
       "url": "https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Algorithm Is a Dancer",
         "url": "https://open.spotify.com/album/6swrDtwC1LLfGLTHExUs4O"
@@ -349,7 +497,7 @@
       "url": "https://open.spotify.com/track/22cslhDRVR4nr1a4poMv8j"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/6AWm4lugoUoI4OyBENsQgv"
@@ -369,7 +517,7 @@
       "url": "https://open.spotify.com/track/5UYEN39zu5bJaZ8PT7tdlh"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Delusionary",
         "url": "https://open.spotify.com/album/2uPSKVu7Npt22Dh03kFFYT"
@@ -389,7 +537,7 @@
       "url": "https://open.spotify.com/track/0PTTTmIU7HfvzlwU1Lg2ND"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Return Of The Ellington",
         "url": "https://open.spotify.com/album/0Bm3jXwKOJZkawHIwsm34N"
@@ -405,7 +553,7 @@
       "url": "https://open.spotify.com/track/5lkokZ1j4iAdjI2a244LCj"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Eldur",
         "url": "https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN"
@@ -421,7 +569,7 @@
       "url": "https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Betrayal",
         "url": "https://open.spotify.com/album/7A38TRTOl2kXKhssMDzXr7"
@@ -437,7 +585,7 @@
       "url": "https://open.spotify.com/track/635tnKoiWnhhd5lEMSyJjN"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "One of the Near Futures of the Conspiracy",
         "url": "https://open.spotify.com/album/23EcpSrrLymiurL2i1EDJo"
@@ -457,7 +605,7 @@
       "url": "https://open.spotify.com/track/2KzJaCPKiRAt4iy1JPhWo4"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Invisible Monster",
         "url": "https://open.spotify.com/album/1p1GZyBV8zsBEW9I0LBQX7"
@@ -473,7 +621,7 @@
       "url": "https://open.spotify.com/track/6l2ql6PfoDuaTtcjjPYGFL"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Lost (I Miss You) [Remaster 2024]",
         "url": "https://open.spotify.com/album/5uABfZV7NMfIGlfXsuRcJg"
@@ -489,7 +637,7 @@
       "url": "https://open.spotify.com/track/2W34EGBJwCl2XkW2eutQKv"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "MelancHoly",
         "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
@@ -505,7 +653,7 @@
       "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Worlds Beyond (English version)",
         "url": "https://open.spotify.com/album/4zdr9AN102ytgCRNv9umnb"
@@ -521,7 +669,7 @@
       "url": "https://open.spotify.com/track/5MIpqy1hikpfckODOn1E9y"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/56wRI2u3cxOM6CHEG9S9kY"
@@ -537,7 +685,7 @@
       "url": "https://open.spotify.com/track/00gHK05ITKDT2c40WJDevj"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Thrill Seeker: 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
@@ -557,7 +705,7 @@
       "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Live ID.",
         "url": "https://open.spotify.com/album/42vf8uOyBQKkiizxC1RCDL"
@@ -573,7 +721,7 @@
       "url": "https://open.spotify.com/track/1UHO6wM8WJUWUsm0gVD6sK"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "THE SOLUTION",
         "url": "https://open.spotify.com/album/4v5ydnfymXMrETbGoltnNc"
@@ -589,7 +737,7 @@
       "url": "https://open.spotify.com/track/3Js84tBm5HNU8HZSHJqhXa"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Stanley (Tonight's The Night)",
         "url": "https://open.spotify.com/album/218wTgs1LdOYVY2c4JvDJ4"
@@ -605,7 +753,7 @@
       "url": "https://open.spotify.com/track/7IWmXeuQctq8BVA13kLnpo"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Serum",
         "url": "https://open.spotify.com/album/6SMWcw4T5F18Tb9n6UYWxL"
@@ -621,7 +769,7 @@
       "url": "https://open.spotify.com/track/164OJhNV0X9llMV1EKCvUT"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Western Atmosphere",
         "url": "https://open.spotify.com/album/0N7kbuc84YoO4AzfMwQ4qk"
@@ -637,7 +785,7 @@
       "url": "https://open.spotify.com/track/5GwhpGsvpb3aoC4BcTEGmR"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "In The Vanishing Echoes Of Goodbye",
         "url": "https://open.spotify.com/album/6jdczsp7kBGe5NbK7DJfql"
@@ -653,7 +801,7 @@
       "url": "https://open.spotify.com/track/0NKC5QwCu5oC3z9mBDypjw"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "A Better Man",
         "url": "https://open.spotify.com/album/62FfyfSp0eQpKcJ4VF1oRx"
@@ -669,7 +817,7 @@
       "url": "https://open.spotify.com/track/0D5o4zMRiepHDdCwqayx37"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "The Likes of Us",
         "url": "https://open.spotify.com/album/3zjmvbCAxUJ4iXKDLvp9hK"
@@ -685,23 +833,7 @@
       "url": "https://open.spotify.com/track/3pcl2gNKJrTFip2TiQXjWd"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/16aiOyCHraghsWd4l0ss1a"
-      },
-      "artists": [
-        {
-          "name": "Eloy",
-          "url": "https://open.spotify.com/artist/00ZLLJ51l9Ir5gyaGSUYxL"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Silhouette - Extended Version, Remixed & Remastered 2024",
-      "url": "https://open.spotify.com/track/3I5M7VoRW1Kb9Hg1HSOCzm"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Instant Rewards",
         "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
@@ -717,7 +849,7 @@
       "url": "https://open.spotify.com/track/2IYAnNjwqYDXfe9Fl5IMIN"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "AUDIO VERTIGO",
         "url": "https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK"
@@ -733,7 +865,7 @@
       "url": "https://open.spotify.com/track/79MLUDVaih5Rck23zNOUJg"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Life In The Wires",
         "url": "https://open.spotify.com/album/3s1DQqEBI2K2mDDLz2CUr3"
@@ -749,7 +881,7 @@
       "url": "https://open.spotify.com/track/7GMPPM6VMzfXhbotpjxw9E"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "The Long Goodbye",
         "url": "https://open.spotify.com/album/04qrGX5HIteDnpUN2JaISK"
@@ -765,7 +897,7 @@
       "url": "https://open.spotify.com/track/38j95SnduEqEJ12BqISkSk"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Scent Studio Live",
         "url": "https://open.spotify.com/album/7Cwr5WrVfwQBxv3iESsA5W"
@@ -781,7 +913,7 @@
       "url": "https://open.spotify.com/track/0i1I1OVEJKnnRHfv3xKHb1"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Scissorgames",
         "url": "https://open.spotify.com/album/6u0FWnutWcGPGKIxkUN602"
@@ -797,7 +929,7 @@
       "url": "https://open.spotify.com/track/365QftlsJom5yjCPY20Mco"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Jainism",
         "url": "https://open.spotify.com/album/2pplRHhezNgAkNUJ1nXvCZ"
@@ -813,23 +945,7 @@
       "url": "https://open.spotify.com/track/7o3rmtT5FdBISM6L3I9wTn"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Synaesthesia",
-        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
-      },
-      "artists": [
-        {
-          "name": "Weather Systems",
-          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
-        }
-      ],
-      "duration_ms": 551436,
-      "name": "Synaesthesia",
-      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Tannh\u00e4user / Derive",
         "url": "https://open.spotify.com/album/0DC3IujabfOoVst3JeD1iZ"
@@ -845,7 +961,7 @@
       "url": "https://open.spotify.com/track/0gURBZfus0Bt9YV2Q5RtYg"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Don't Succumb To Fear",
         "url": "https://open.spotify.com/album/48cECvVBzQKDlOQHUDYgbi"
@@ -861,7 +977,7 @@
       "url": "https://open.spotify.com/track/0IWlLKgPSJIDxAkd5y8wlt"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "The Century of the Self",
         "url": "https://open.spotify.com/album/2fm83K2Z3EwR9dnPy1iiTw"
@@ -877,27 +993,7 @@
       "url": "https://open.spotify.com/track/1SsCjS2hxhTY0ebE5XAKYu"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "In the Shadows",
-        "url": "https://open.spotify.com/album/1o9YaCsVQz9QIQND8nuDHy"
-      },
-      "artists": [
-        {
-          "name": "Venamoris",
-          "url": "https://open.spotify.com/artist/4GFSsEAhmyfGlTlXqyoCiW"
-        },
-        {
-          "name": "Dave Lombardo",
-          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "In the Shadows",
-      "url": "https://open.spotify.com/track/3pnZ1Pc1ZEnYXqK1CrslFf"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Phantom Island",
         "url": "https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc"
@@ -913,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Snowman",
         "url": "https://open.spotify.com/album/5ieh61odYrWymguX8YM3GK"
@@ -929,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2T8sab0O7vVKxgsi8A8Mw0"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "The Last Will And Testament",
         "url": "https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6"
@@ -945,7 +1041,7 @@
       "url": "https://open.spotify.com/track/42dvQfMObPlPPx4aNY2amf"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Friend Of A Phantom",
         "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
@@ -961,23 +1057,7 @@
       "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/0H8dlO9iQ8uAElGuExdeq4"
-      },
-      "artists": [
-        {
-          "name": "Lilly Legit",
-          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
-        }
-      ],
-      "duration_ms": 273750,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/7KBaLm8c7yiPTkVCLbYHAN"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Siberian Khatru (Live at The Rainbow, London, England, 12/16/1972)",
         "url": "https://open.spotify.com/album/53IXSSLKdnhFYvZbQpSwY7"
@@ -993,7 +1073,7 @@
       "url": "https://open.spotify.com/track/4mF7qSwnRN8m6kFrpHtgSf"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "The Old Peace (2024 Remaster)",
         "url": "https://open.spotify.com/album/61pU9e4BXyseqfdCaAbrpd"
@@ -1013,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4W8KJ5AfVf5O4VIlOwbgTG"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Best of Tobin Mueller's Prog Rock",
         "url": "https://open.spotify.com/album/4JMEjQEsmny2U9wJWduNdB"
@@ -1033,7 +1113,7 @@
       "url": "https://open.spotify.com/track/4D36ReHXc6QIJdza0jvotO"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/64GNZmjJa3CAYjAQR3koe4"
@@ -1049,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0kYKQAOi4Ph6r9YBt8YoOF"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Out Of Place",
         "url": "https://open.spotify.com/album/3p0SdfG2kMyt8cti2mqINP"
@@ -1065,7 +1145,7 @@
       "url": "https://open.spotify.com/track/5evFhtEdAJfj7m8AswhLyE"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Out in the Open, Pt. 1 - Overture",
         "url": "https://open.spotify.com/album/6EyNrb1tgiCGJQUnV2fuPB"
@@ -1081,7 +1161,7 @@
       "url": "https://open.spotify.com/track/0vCKXnx3uideNj9LsOf1um"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "LITHIUM",
         "url": "https://open.spotify.com/album/0eK0vYBCmkjlDwP5qfTCKF"
@@ -1097,7 +1177,7 @@
       "url": "https://open.spotify.com/track/5VK0kYTGxFXeAbBvSbMv3j"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Ain't No Place For You",
         "url": "https://open.spotify.com/album/0YzVD5O3ETY5Grzb1XeVlm"
@@ -1113,23 +1193,7 @@
       "url": "https://open.spotify.com/track/3vAWda1qJ8Gj9VBEaHNm1i"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Live Magic At Trading Boundaries",
-        "url": "https://open.spotify.com/album/7Gs0wtWgpkuabd47D9Fo6u"
-      },
-      "artists": [
-        {
-          "name": "Steve Hackett",
-          "url": "https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ"
-        }
-      ],
-      "duration_ms": 106826,
-      "name": "Horizons - Live at Trading Boundaries",
-      "url": "https://open.spotify.com/track/6s0FpwrEl7LtG1A85QPzLR"
-    },
-    {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "...Returns!",
         "url": "https://open.spotify.com/album/51D4j5A6bClqy2PsKTE6q2"
@@ -1149,23 +1213,7 @@
       "url": "https://open.spotify.com/track/3IpfRVjJIAZtqrCbE8Y1jx"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Afraid to Be Brave",
-        "url": "https://open.spotify.com/album/7F6HgA9fFjkrp2YZHucqi9"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Fingers",
-          "url": "https://open.spotify.com/artist/59VVAHCiPZQzAMFcAYRmnJ"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Afraid to Be Brave",
-      "url": "https://open.spotify.com/track/6T9pSO14FVxPxw1ZROhJJM"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Torn Apart (From \"Bleach\")",
         "url": "https://open.spotify.com/album/0A9b5otbPvl7KKhjID5gnQ"
@@ -1181,75 +1229,7 @@
       "url": "https://open.spotify.com/track/1ZrNwseUVVkTmFyJiJgZgd"
     },
     {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Like The Phoenix I Will Rise",
-        "url": "https://open.spotify.com/album/5RA8SJWi2dIIfj1ro21f8z"
-      },
-      "artists": [
-        {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Like The Phoenix I Will Rise",
-      "url": "https://open.spotify.com/track/2Yqstc9lDyjfB77XM4uUSC"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Mend",
-        "url": "https://open.spotify.com/album/3HcKNLwUqCrMcX0fqqkp7W"
-      },
-      "artists": [
-        {
-          "name": "Eidola",
-          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
-        }
-      ],
-      "duration_ms": 236674,
-      "name": "Revelation: The Infinite Beauty Of Oneness",
-      "url": "https://open.spotify.com/track/71U2oAgK3YRWsSG1Lz9NGa"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Albatross Sunset",
-        "url": "https://open.spotify.com/album/4eWYrlI8Y8FqsWOGjfBIIi"
-      },
-      "artists": [
-        {
-          "name": "Big Leaf",
-          "url": "https://open.spotify.com/artist/1JUUWpP7Wx9WE8ZKmV6Gcb"
-        },
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 145877,
-      "name": "Albatross Sunset",
-      "url": "https://open.spotify.com/track/1EQnfd2pbVtxYK5wrK9jw5"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Someone Who Can",
-        "url": "https://open.spotify.com/album/7t914q200AnbbeomCdJU9L"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "Someone Who Can",
-      "url": "https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
+      "added_at": "2025-01-31 05:00:49",
       "album": {
         "name": "Let The Truth Speak",
         "url": "https://open.spotify.com/album/2E39lOAEkghDFoa6tAzJjG"

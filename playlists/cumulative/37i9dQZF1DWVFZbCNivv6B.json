@@ -123,6 +123,28 @@
     },
     {
       "album": {
+        "name": "888",
+        "url": "https://open.spotify.com/album/4pXNCQjVlCU3qE0CBSRhKv"
+      },
+      "artists": [
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175757,
+      "name": "888",
+      "url": "https://open.spotify.com/track/502n617bm1soJAnUDew5vr"
+    },
+    {
+      "album": {
         "name": "A 120",
         "url": "https://open.spotify.com/album/1d7B2L3w06kkI7Y8WXNYkx"
       },
@@ -1292,7 +1314,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 202204,
       "name": "Baby Glock",
       "url": "https://open.spotify.com/track/4nEDKF5V5eA8cNZjNXWzV9"
@@ -2038,7 +2060,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206524,
       "name": "Calle para Siempre",
       "url": "https://open.spotify.com/track/10DFy6BH4JnIAiqQrFUm9d"
@@ -2122,6 +2144,32 @@
       "duration_ms": 161538,
       "name": "Cara Tapada",
       "url": "https://open.spotify.com/track/6lvrzOxzyWd0SkVLv5zm8z"
+    },
+    {
+      "album": {
+        "name": "Carne Cruda",
+        "url": "https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Carne Cruda",
+      "url": "https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK"
     },
     {
       "album": {
@@ -3663,6 +3711,28 @@
     },
     {
       "album": {
+        "name": "El 3",
+        "url": "https://open.spotify.com/album/6gtATD4kCcrjfnYSchrG0M"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "El 3",
+      "url": "https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD"
+    },
+    {
+      "album": {
         "name": "El Bais\u00f3n (feat. Toser One)",
         "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
       },
@@ -4152,7 +4222,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 189230,
       "name": "El Tatuado",
       "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
@@ -4310,6 +4380,32 @@
       "duration_ms": 198000,
       "name": "En el Blanco",
       "url": "https://open.spotify.com/track/2QnLkjYSKtbzMzjYFXS5TJ"
+    },
+    {
+      "album": {
+        "name": "En la Troca",
+        "url": "https://open.spotify.com/album/39Fg4IINniXB7zQzm3yjWy"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Jarabe kidd",
+          "url": "https://open.spotify.com/artist/5absue45Q798sotcg1d0FD"
+        },
+        {
+          "name": "MNZR",
+          "url": "https://open.spotify.com/artist/3Hq3cjiSLxQGmKqLQASfFQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "En la Troca",
+      "url": "https://open.spotify.com/track/06NdK2H07QVMTqq6Te7Hcd"
     },
     {
       "album": {
@@ -6740,7 +6836,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 200535,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2"
@@ -10589,6 +10685,58 @@
     },
     {
       "album": {
+        "name": "Que Se Arme",
+        "url": "https://open.spotify.com/album/5807tgqqUEmyeVHqLNxnez"
+      },
+      "artists": [
+        {
+          "name": "ZIGO CREW MX",
+          "url": "https://open.spotify.com/artist/6xfdFN91GDBrGzDdSILDK8"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "Young Cza",
+          "url": "https://open.spotify.com/artist/6ETvcLfKNzbsfeNOCXhSkh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Que Se Arme",
+      "url": "https://open.spotify.com/track/5WTHrUFa1t9MT4UumFMnIw"
+    },
+    {
+      "album": {
+        "name": "Que se va hacer?",
+        "url": "https://open.spotify.com/album/0oFiZxPaNWNarfJmZre7VB"
+      },
+      "artists": [
+        {
+          "name": "Dub G",
+          "url": "https://open.spotify.com/artist/5SVHvnw9UIDoLNC745Lt8V"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Flako420",
+          "url": "https://open.spotify.com/artist/7xg5Iq134Xva9pIh90958F"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "Que se va hacer?",
+      "url": "https://open.spotify.com/track/6hE4s5UrxUae4QKBUdj2Br"
+    },
+    {
+      "album": {
         "name": "Que Si Fumo Tanto",
         "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
       },
@@ -11482,7 +11630,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 236883,
       "name": "Se Me Va el Tiempo",
       "url": "https://open.spotify.com/track/5mhWTCGrMMWNelPMgZbuDO"
@@ -14168,7 +14316,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 201653,
       "name": "\u00d3rale",
       "url": "https://open.spotify.com/track/4u7ghAtZA7MvLNdRAR0a8V"

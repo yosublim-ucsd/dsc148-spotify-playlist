@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-221 songs - 16 hr 59 min
+222 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [It's A Fine Day \- Hard Techno Remix](https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY) | [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Grym](https://open.spotify.com/artist/4EyLyiExN1bAKQYWnVok4k), [Moxius](https://open.spotify.com/artist/6JISEm4WN6a2LzWRi8KCrR) | [It's A Fine Day \(Hard Techno Remix\)](https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM) | 2:33 | 2025-01-09 |  |
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2024-11-01 |  |
 | [Kick Bass In Your Face](https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Kick Bass In Your Face](https://open.spotify.com/album/0MKm3xNFKPhhDGc16DoT3G) | 2:44 | 2024-09-27 |  |
+| [Kiss Girl](https://open.spotify.com/track/27rVhCihd0rscnZtoj7ZDO) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Kiss Girl](https://open.spotify.com/album/2KQ17ihgLn28kaKFhcN4az) | 3:08 | 2025-01-24 |  |
 | [Leader Of The Pack](https://open.spotify.com/track/4p0KJzcSeiaihxl3lu6iJW) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack](https://open.spotify.com/album/7uUewrCrnDQ9NE77MGp62p) | 3:58 | 2024-12-13 |  |
 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2024-09-11 |  |
 | [Les kassos](https://open.spotify.com/track/58JZ6rp2DWa5HbKwhneAs3) | [Darktek](https://open.spotify.com/artist/6KjX86OwTOcAlbcVNVcjsh) | [Fuck Off](https://open.spotify.com/album/2X2NdphQiFadhokXq1VqdK) | 4:07 | 2024-04-09 | 2024-05-03 |
@@ -168,7 +169,7 @@
 | [Rave 4 love](https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [Rave 4 love](https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU) | 5:01 | 2024-04-09 |  |
 | [Rave Nation](https://open.spotify.com/track/4aquVCFVojUxZXhVwEj7a9) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Rave Nation](https://open.spotify.com/album/53aj8TSRvB45xOxRXokV24) | 3:03 | 2024-10-24 | 2024-12-18 |
 | [Ready \- Hard Techno Mix](https://open.spotify.com/track/0w3uKrQXk948YwATI7yUbd) | [Roentgen Limiter](https://open.spotify.com/artist/3XhTxLHKPhZrFuBdqmoc2L) | [Ready](https://open.spotify.com/album/5cxJyi502VfvaHBbZqKzOG) | 6:12 | 2024-04-09 | 2024-10-25 |
-| [Real Lies](https://open.spotify.com/track/2gPgg1kOJ3LJZQwwKVCRhh) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Real Lies](https://open.spotify.com/album/1l2mHtjSxVp0BgTlMWugZW) | 5:27 | 2024-04-09 |  |
+| [Real Lies](https://open.spotify.com/track/2gPgg1kOJ3LJZQwwKVCRhh) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Real Lies](https://open.spotify.com/album/1l2mHtjSxVp0BgTlMWugZW) | 5:27 | 2024-04-09 | 2025-02-01 |
 | [Reverse Bitch](https://open.spotify.com/track/0X5SKepXgvauLJRWxS004t) | [BRÅWN](https://open.spotify.com/artist/6ZCwFfoR1cUmb4KR7mPGLt) | [FIRE SERIES Vol\. 2](https://open.spotify.com/album/1CspkKn0omUXfsqzcGnHkN) | 5:46 | 2024-04-09 | 2024-08-04 |
 | [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 | 2024-08-03 |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-04-09 |  |

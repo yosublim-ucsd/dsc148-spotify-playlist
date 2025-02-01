@@ -2,9 +2,9 @@
 
 ### [ฮิตติดกระแส](https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj)
 
-> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: GAVIN:D
+> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Z9, 2K, Saran
 
-309 songs - 18 hr 46 min
+311 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-08-07 | 2024-08-17 |
 | [chemical](https://open.spotify.com/track/4gZYmq12u1dxD8USgIqbT6) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [chemical](https://open.spotify.com/album/68y6P2CuJMBjYhaVx8yPo6) | 3:23 | 2024-08-30 | 2024-10-12 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-06-27 | 2024-09-27 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 |  |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-27 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-19 |  |
@@ -58,6 +59,7 @@
 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 | 2024-09-13 | 2024-10-26 |
 | [Loop \(ฉันจึงวนกลับมา\)](https://open.spotify.com/track/0Fye2qtgBqOzHxb4cPSjWb) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz) | [Loop \(ฉันจึงวนกลับมา\) \- Single](https://open.spotify.com/album/05DGgZgqUX2HbssDax9YoL) | 3:50 | 2024-08-30 |  |
 | [Love & Secret](https://open.spotify.com/track/2Uj75SjWw9utBe64kYbUU8) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [Love & Secret](https://open.spotify.com/album/5Nf4Rf9Xankkmsb4737GM6) | 2:28 | 2024-07-12 | 2024-07-27 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-29 | 2024-12-13 |
 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2024-06-27 | 2024-09-27 |
 | [LYKYOU](https://open.spotify.com/track/3ZzsRE6gMHBblLppHi0ADZ) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [LYKYOU \- Single](https://open.spotify.com/album/2xVexDB5E5bk6BJ2ZoFZMg) | 3:34 | 2024-12-06 | 2024-12-21 |
@@ -102,7 +104,7 @@
 | [SUPER SECRET](https://open.spotify.com/track/1ce3wQmpaMYZjl0zFUFUif) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [SUPER SECRET](https://open.spotify.com/album/7v0R2Et2LvpJLj9wK5uVyW) | 3:16 | 2024-12-06 | 2024-12-21 |
 | [Swag It Out](https://open.spotify.com/track/3P9KhTVZj708BcY8qQCKUM) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr) | [Swag It Out](https://open.spotify.com/album/6Zo01v0FYlJXq3ZdSEEA7N) | 1:49 | 2024-11-01 | 2024-11-16 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-27 | 2024-10-05 |
-| [Tell Me](https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Tell Me](https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D) | 3:48 | 2025-01-16 |  |
+| [Tell Me](https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Tell Me](https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D) | 3:48 | 2025-01-16 | 2025-02-01 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-29 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-09 | 2024-09-14 |
 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 | 2024-10-25 |  |

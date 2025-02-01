@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-313 songs - 17 hr 14 min
+314 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 | 2024-11-14 |  |
 | [Love for yourself](https://open.spotify.com/track/1lTKsqeDQWoPhekp6kbg9e) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [Love for yourself](https://open.spotify.com/album/3x4zpBsAvtU9xXfBlA4c1V) | 4:34 | 2024-01-18 | 2024-02-23 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-07-19 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 |  |
 | [Love It When I Need It](https://open.spotify.com/track/0ssfMVEA0x8ARvoXb8krym) | [Boy Amor](https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love It When I Need It](https://open.spotify.com/album/5surNQCjxrSMVmiJ67H6dk) | 3:23 | 2024-11-28 |  |
 | [Love That Girl](https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP) | 3:04 | 2024-04-18 | 2024-08-30 |
 | [Love x3](https://open.spotify.com/track/5Lpl5YBgiY4SJmMH8y84qs) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Love x3](https://open.spotify.com/album/1jm4KQyGYifQ3DaJXlHp5s) | 3:28 | 2023-09-28 | 2023-11-24 |

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "19.04",
+        "url": "https://open.spotify.com/album/2J8DBQvTFyu5pJqZqf4M5s"
+      },
+      "artists": [
+        {
+          "name": "Bhxa",
+          "url": "https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "19.04",
+      "url": "https://open.spotify.com/track/1G8kioh2qJJiyJqcCPY2l7"
+    },
+    {
+      "album": {
         "name": "analog",
         "url": "https://open.spotify.com/album/3wcz6SGuGPDAktWQc20uBc"
       },
@@ -100,6 +118,28 @@
       "duration_ms": 132096,
       "name": "a lover from the past",
       "url": "https://open.spotify.com/track/3Wghs7ouz3GI8IlJHu8aG4"
+    },
+    {
+      "album": {
+        "name": "a normal day",
+        "url": "https://open.spotify.com/album/36C0KW2K3mPxayu15rB3wu"
+      },
+      "artists": [
+        {
+          "name": "seeparticles",
+          "url": "https://open.spotify.com/artist/1lheefsYyfWIxsQ57sgPQE"
+        },
+        {
+          "name": "oversyncing",
+          "url": "https://open.spotify.com/artist/7spI8g04DQFgq7CFYS5sUf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84035,
+      "name": "a normal day",
+      "url": "https://open.spotify.com/track/6c4SnSOZMY35he7Q47Y2rT"
     },
     {
       "album": {
@@ -350,7 +390,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 124525,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/62k6Tfmb6kUfKJisnZ6SGs"
@@ -444,7 +484,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 131356,
       "name": "Chamber Stone",
       "url": "https://open.spotify.com/track/1nVNYYdWWRSWIwsfzjkKfr"
@@ -568,7 +608,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 123528,
       "name": "could u stay (slowed + reverb)",
       "url": "https://open.spotify.com/track/5PK4eWWXuqMNfCu1pi8J0M"
@@ -771,6 +811,28 @@
     },
     {
       "album": {
+        "name": "dream wrld",
+        "url": "https://open.spotify.com/album/2qHGIyWcMfqBQNLj77EKD3"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        },
+        {
+          "name": "Zamaro",
+          "url": "https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125423,
+      "name": "dream wrld",
+      "url": "https://open.spotify.com/track/0jwkSmVWpsNRE1vea6vc5r"
+    },
+    {
+      "album": {
         "name": "comet",
         "url": "https://open.spotify.com/album/69jEuVVctfJqfL5dahz0AU"
       },
@@ -826,7 +888,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 153305,
       "name": "dreaming of the past",
       "url": "https://open.spotify.com/track/51gucRS87gpBKMWjohXoGx"
@@ -946,7 +1008,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 284342,
       "name": "dull_pleasure.mp3",
       "url": "https://open.spotify.com/track/6dZJqfY8aRqJvWRyr3BCC4"
@@ -1228,7 +1290,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 116885,
       "name": "far off in the distance i see a light.",
       "url": "https://open.spotify.com/track/4ijhrEf1AnKui1vSJAOwyl"
@@ -1294,7 +1356,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 105359,
       "name": "flame inside",
       "url": "https://open.spotify.com/track/5QuEzFuNNW0zh8gw2nWIAq"
@@ -1406,7 +1468,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 122449,
       "name": "force",
       "url": "https://open.spotify.com/track/5ksrt4pQ1ZXCrp883GMyS6"
@@ -1468,7 +1530,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 112298,
       "name": "forgotten thoughts - slowed & reverb",
       "url": "https://open.spotify.com/track/1TbF2VK8UEv0Y92YZHYw0O"
@@ -1606,10 +1668,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 182941,
       "name": "haunted, but it's ambient - deep version",
       "url": "https://open.spotify.com/track/3LqM0DFhsMZMEM1fM0w0ha"
+    },
+    {
+      "album": {
+        "name": "head in the clouds",
+        "url": "https://open.spotify.com/album/0H0IZREayhtANExElPhSBt"
+      },
+      "artists": [
+        {
+          "name": "Mylesxiety",
+          "url": "https://open.spotify.com/artist/4yJrGafkJqgcNXUr8aJ9Da"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118461,
+      "name": "head in the clouds",
+      "url": "https://open.spotify.com/track/60JiGuhVIqHD9TRjiZLURA"
     },
     {
       "album": {
@@ -1801,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "i'm here",
+        "url": "https://open.spotify.com/album/58ftEkov7VSzCvFh03uJim"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144015,
+      "name": "i'm here",
+      "url": "https://open.spotify.com/track/2D2lUMUhMZtmJVEBw6euYb"
+    },
+    {
+      "album": {
         "name": "Studies",
         "url": "https://open.spotify.com/album/1avYb0OATIZgUzbrI2ASYy"
       },
@@ -1874,6 +1972,24 @@
       "duration_ms": 141166,
       "name": "it's going to be alright",
       "url": "https://open.spotify.com/track/3eKw38XZ5N4CQh7OVZnKxD"
+    },
+    {
+      "album": {
+        "name": "Karakara",
+        "url": "https://open.spotify.com/album/0z6RxvvDXIz33aQhLtyFcH"
+      },
+      "artists": [
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Karakara",
+      "url": "https://open.spotify.com/track/04zteh0RRRlTsTp54sId8I"
     },
     {
       "album": {
@@ -2159,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Malam Suci",
+        "url": "https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259795,
+      "name": "Malam Suci",
+      "url": "https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj"
+    },
+    {
+      "album": {
         "name": "maps to nowhere",
         "url": "https://open.spotify.com/album/4PJjDMSopK3Or8D50B4MFy"
       },
@@ -2178,6 +2312,32 @@
       "duration_ms": 124660,
       "name": "maps to nowhere",
       "url": "https://open.spotify.com/track/2wvhy8OLnkBfThXvDwrAlj"
+    },
+    {
+      "album": {
+        "name": "midnight session",
+        "url": "https://open.spotify.com/album/3BBGbRPIohTjPDD5IK2cJX"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        },
+        {
+          "name": "suffershade",
+          "url": "https://open.spotify.com/artist/09erAii23JiJfYwr8MhDLB"
+        },
+        {
+          "name": "Zamaro",
+          "url": "https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "midnight session",
+      "url": "https://open.spotify.com/track/1BQZgeu6kzduKrI5TfqUIM"
     },
     {
       "album": {
@@ -2400,6 +2560,28 @@
     {
       "album": {
         "name": "Nova",
+        "url": "https://open.spotify.com/album/0alk8zJzhETdnniJGQwOub"
+      },
+      "artists": [
+        {
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        },
+        {
+          "name": "Elijah Bisbee",
+          "url": "https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104166,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/0exX2Z6w9fC0ET8w4n0iis"
+    },
+    {
+      "album": {
+        "name": "Nova",
         "url": "https://open.spotify.com/album/7uARZw0iN0XH2ioEgDhK7O"
       },
       "artists": [
@@ -2432,6 +2614,24 @@
       "duration_ms": 113000,
       "name": "novocaine",
       "url": "https://open.spotify.com/track/0LIPLcaQQiHe3OfFV8FI9n"
+    },
+    {
+      "album": {
+        "name": "oblivion",
+        "url": "https://open.spotify.com/album/0uXOAEODkkZcf4WfWluQQh"
+      },
+      "artists": [
+        {
+          "name": "cinar",
+          "url": "https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91264,
+      "name": "oblivion",
+      "url": "https://open.spotify.com/track/03zgNq4xbILY2BcaLywOn0"
     },
     {
       "album": {
@@ -2540,6 +2740,28 @@
       "duration_ms": 138529,
       "name": "our love in june",
       "url": "https://open.spotify.com/track/5ZeYOV8DRW4oZKU7QTPjbw"
+    },
+    {
+      "album": {
+        "name": "hear what I hear",
+        "url": "https://open.spotify.com/album/31sJ3ycfZdcDHNDAxxFTv4"
+      },
+      "artists": [
+        {
+          "name": "an\u0119bu",
+          "url": "https://open.spotify.com/artist/0NwRrmuxl1zetoERsUrEDE"
+        },
+        {
+          "name": "seeyouthere",
+          "url": "https://open.spotify.com/artist/3aspJpj1ZByvp1P16mFeRC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103418,
+      "name": "outside of nowhere",
+      "url": "https://open.spotify.com/track/4n5G3HaDjRig4EueqRDtMT"
     },
     {
       "album": {
@@ -3011,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Shall We Begin",
+        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Shall We Begin",
+      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
+    },
+    {
+      "album": {
         "name": "shaping",
         "url": "https://open.spotify.com/album/4uWpBBELGMfwlCCEKonmRS"
       },
@@ -3062,7 +3302,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 183990,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3y0Cmt1jm5sZs1b7W3gbdp"
@@ -3098,7 +3338,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 96049,
       "name": "SIREN SONG",
       "url": "https://open.spotify.com/track/7noOFONm7sc4WX3IflU0eZ"
@@ -3316,7 +3556,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 207567,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/6Hy8V6m5lyoxUed9C3cXh8"
@@ -3360,6 +3600,24 @@
       "duration_ms": 202811,
       "name": "Synthetic Data Sphere",
       "url": "https://open.spotify.com/track/59ODuG8ttbkZ4coLIZIO55"
+    },
+    {
+      "album": {
+        "name": "take care",
+        "url": "https://open.spotify.com/album/1j8kqbNhJlsUpJsfCI9oxj"
+      },
+      "artists": [
+        {
+          "name": "limbus vita",
+          "url": "https://open.spotify.com/artist/2DkcmEC03cEQNTvw6ZLCVQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103906,
+      "name": "take care",
+      "url": "https://open.spotify.com/track/2WSp8idf2GyUpXGAwm48MK"
     },
     {
       "album": {
@@ -3482,7 +3740,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 232000,
       "name": "this flickering light",
       "url": "https://open.spotify.com/track/3Ndcs7P7vEpzkLis6PCJKb"

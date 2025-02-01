@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: TANJUNG",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Derai",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 313847,
       "name": "Episode",
       "url": "https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 246528,
       "name": "Era",
       "url": "https://open.spotify.com/track/3dRABQtNXJRWaDlake5d9m"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 255000,
       "name": "fianeruuu",
       "url": "https://open.spotify.com/track/79dQWTaS9Ws5xNP5fX7KWp"
@@ -1690,6 +1690,24 @@
       "duration_ms": 227000,
       "name": "Hari Ini",
       "url": "https://open.spotify.com/track/29QfJ5teye2vtL5nmMWM2V"
+    },
+    {
+      "album": {
+        "name": "heart:burn",
+        "url": "https://open.spotify.com/album/2tKJWI9aI9MQdBYklfAdpi"
+      },
+      "artists": [
+        {
+          "name": "The Backdoor Hours",
+          "url": "https://open.spotify.com/artist/3u5XGIc6oD5ZdoyidlX39q"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "heart:burn",
+      "url": "https://open.spotify.com/track/45vUOPII1WGdcLbBZOuDGl"
     },
     {
       "album": {
@@ -2434,6 +2452,24 @@
       "duration_ms": 269000,
       "name": "Langgas",
       "url": "https://open.spotify.com/track/5AcTfKB9WHC5h200wOs8nx"
+    },
+    {
+      "album": {
+        "name": "Lekas",
+        "url": "https://open.spotify.com/album/33Pxh19anFo5M8rwpVTajB"
+      },
+      "artists": [
+        {
+          "name": "Derai",
+          "url": "https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Lekas",
+      "url": "https://open.spotify.com/track/0gO6RgFJZC3UTXJujA68aA"
     },
     {
       "album": {
@@ -3327,6 +3363,46 @@
     },
     {
       "album": {
+        "name": "Potret Jalanan",
+        "url": "https://open.spotify.com/album/0gE1vrkXmJdAk8peARqSlb"
+      },
+      "artists": [
+        {
+          "name": "Susah Tidur",
+          "url": "https://open.spotify.com/artist/25DNQ6DRKKcDW9E4ZiRESv"
+        },
+        {
+          "name": "Adrian Yunan",
+          "url": "https://open.spotify.com/artist/25ex997B5aNaPvmqEO9AsJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285250,
+      "name": "Potret Jalanan",
+      "url": "https://open.spotify.com/track/2uuyJRQiM7RYvkybdqMwZ9"
+    },
+    {
+      "album": {
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/4snPevQGPMdd0nsSX6q45M"
+      },
+      "artists": [
+        {
+          "name": "Showbiz",
+          "url": "https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203096,
+      "name": "Precious Time",
+      "url": "https://open.spotify.com/track/6QCf3ZUBc5oIUjtxR4NPmm"
+    },
+    {
+      "album": {
         "name": "Lebih Dekat",
         "url": "https://open.spotify.com/album/4H5ks1HmVJJI79UQpQXMwc"
       },
@@ -4014,7 +4090,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 200853,
       "name": "Superstitious Night",
       "url": "https://open.spotify.com/track/6t2oMReq5nutRPILQavVFR"

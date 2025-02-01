@@ -1,13 +1,29 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180453,
+  "num_followers": 180445,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5vwQAAAAADmeeMKKEr9Ictw1hXUE5A8",
+  "snapshot_id": "Z519BQAAAAAGR+Ol+2clUyXcxx9yM23C",
   "tracks": [
+    {
+      "added_at": "2025-02-01 01:46:45",
+      "album": {
+        "name": "MARVEL SNAP Vol. 3 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1rMNzLgjGRGgf56sldvPFJ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Alan Grabar",
+          "url": "https://open.spotify.com/artist/6Iqjhmr12uPpkWTLuTKjAp"
+        }
+      ],
+      "duration_ms": 205486,
+      "name": "Rivals",
+      "url": "https://open.spotify.com/track/3Qm2T0JIIxyOsSIVTMY18j"
+    },
     {
       "added_at": "2025-01-25 00:37:17",
       "album": {

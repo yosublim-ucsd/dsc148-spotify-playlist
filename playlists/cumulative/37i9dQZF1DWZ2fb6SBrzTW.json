@@ -4248,7 +4248,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 218571,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/73Aq5VsaJ5qCv8QmdF47HJ"
@@ -6116,6 +6116,28 @@
       "duration_ms": 135482,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8"
+    },
+    {
+      "album": {
+        "name": "Management",
+        "url": "https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "BIGKHALID",
+          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155669,
+      "name": "Management",
+      "url": "https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl"
     },
     {
       "album": {

@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129761,
+      "name": "360 featuring robyn & yung lean",
+      "url": "https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb"
+    },
+    {
+      "album": {
         "name": "Primer Dia de Clases",
         "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
       },
@@ -296,7 +322,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 254142,
       "name": "All You Children",
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
@@ -435,6 +461,28 @@
     },
     {
       "album": {
+        "name": "bastard",
+        "url": "https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136157,
+      "name": "bastard",
+      "url": "https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ"
+    },
+    {
+      "album": {
         "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
         "url": "https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P"
       },
@@ -552,6 +600,24 @@
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "album": {
+        "name": "BRAINS OUT",
+        "url": "https://open.spotify.com/album/6jcWmyj6cZwAOu9btxGLcr"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116472,
+      "name": "BRAINS OUT",
+      "url": "https://open.spotify.com/track/6aOZOwdGDThb7z3BS8JXFr"
     },
     {
       "album": {
@@ -1750,7 +1816,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 230253,
       "name": "Gem Lingo (ovr now)",
       "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
@@ -3524,7 +3590,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 148781,
       "name": "Perfect Pinterest Garden",
       "url": "https://open.spotify.com/track/1VD9irJC3S3cyKrYoq9ymL"
@@ -4359,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/5vaYdxmwVwmKXpXRWX3oQp"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135356,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/4GPlVxGyUFfuuZExYPp4mP"
+    },
+    {
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -4780,7 +4864,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"

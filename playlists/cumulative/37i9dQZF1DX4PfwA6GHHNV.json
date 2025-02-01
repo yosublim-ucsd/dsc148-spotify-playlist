@@ -94,7 +94,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 138666,
       "name": "Abelha",
       "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
@@ -444,6 +444,28 @@
       "duration_ms": 116588,
       "name": "Calma",
       "url": "https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT"
+    },
+    {
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Vidal",
+          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149203,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV"
     },
     {
       "album": {
@@ -666,7 +688,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 152079,
       "name": "COLADINHO",
       "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
@@ -1416,7 +1438,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 209471,
       "name": "Hipnose",
       "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
@@ -2871,6 +2893,32 @@
     },
     {
       "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
+      },
+      "artists": [
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135319,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd"
+    },
+    {
+      "album": {
         "name": "Promessas",
         "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
       },
@@ -3140,6 +3188,28 @@
       "duration_ms": 180512,
       "name": "Que Cal\u00f4",
       "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
+    },
+    {
+      "album": {
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+      },
+      "artists": [
+        {
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "album": {
@@ -4046,6 +4116,28 @@
       "duration_ms": 156000,
       "name": "\u00c1gua",
       "url": "https://open.spotify.com/track/1lOvdRWVCQT2zWRfW96gBx"
+    },
+    {
+      "album": {
+        "name": "Esse \u00c9 Meu Mundo",
+        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201792,
+      "name": "\u00c1gua de Coco",
+      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
     },
     {
       "album": {

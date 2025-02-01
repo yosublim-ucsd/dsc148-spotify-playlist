@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 919724,
+  "num_followers": 920075,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAAnX/lUDJ2E0Rc9EMIINBpP",
+  "snapshot_id": "Z5rBAAAAAABkr6LsOrTHQlx2P2Q3O3hq",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con El Mariachi Vargas",
-        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norte\u00f1o",
         "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 187431,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con El Mariachi Vargas",
+        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/02GT5XJ8SONxqFAY9xW0aI"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "El Primer Tonto - En Vivo",
-      "url": "https://open.spotify.com/track/0JE86Ioa8unmDIhS8bQvIu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 198356,
       "name": "As\u00ed Te Quiero",
       "url": "https://open.spotify.com/track/4u6zS8iQZ7Y6LgW7WXwaLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/02GT5XJ8SONxqFAY9xW0aI"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "El Primer Tonto - En Vivo",
+      "url": "https://open.spotify.com/track/0JE86Ioa8unmDIhS8bQvIu"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "T\u00fa Sabes Quien",
+      "url": "https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 221379,
       "name": "Qu\u00e9 No Te Asombre",
       "url": "https://open.spotify.com/track/0efW8EeMZJJePa39Xt8g23"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "T\u00fa Sabes Quien",
-      "url": "https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH"
     },
     {
       "added_at": null,

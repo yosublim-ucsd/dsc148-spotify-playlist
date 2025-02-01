@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=W4ooKyZsTkKX5ZdKxoaseg\"> Nali </a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5?si=OHPn4a5tS6qr6rNTb6xhLA\"> Isaiah Kaleo</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 180000,
       "name": "+44",
       "url": "https://open.spotify.com/track/4cDnX3cMVIVRg8wKO1fCjW"
+    },
+    {
+      "album": {
+        "name": "0 to 100",
+        "url": "https://open.spotify.com/album/6ceVmdaa9VfbjdOgyjUQj4"
+      },
+      "artists": [
+        {
+          "name": "Isaiah kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "0 to 100",
+      "url": "https://open.spotify.com/track/6E16Jm5hzgZ3P8f8t3jUPv"
     },
     {
       "album": {
@@ -2017,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "All for Nothing",
+        "url": "https://open.spotify.com/album/0Ow6BKIL31eGI3EMVuQl9S"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151483,
+      "name": "All for Nothing",
+      "url": "https://open.spotify.com/track/2fxZFDlHsdTbHeiIS2vS8X"
+    },
+    {
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
       },
@@ -3181,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "AQUARIUS V3",
+        "url": "https://open.spotify.com/album/3VU1cTLiQiRpwxbFqHmPJ8"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "AQUARIUS V3",
+      "url": "https://open.spotify.com/track/0Yffuj7lgxUAbXgEl1MRUR"
+    },
+    {
+      "album": {
         "name": "Are We OK?",
         "url": "https://open.spotify.com/album/5ACwMaN5xjOaUfSWY0deG2"
       },
@@ -4195,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "AT LEAST",
+        "url": "https://open.spotify.com/album/3NzpSybybNhfbHMbkB1A06"
+      },
+      "artists": [
+        {
+          "name": "Cero Ismael",
+          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190380,
+      "name": "BAD NEWS",
+      "url": "https://open.spotify.com/track/6asjST7WN4mKtL6tGbqRpv"
+    },
+    {
+      "album": {
         "name": "BAD OMEN",
         "url": "https://open.spotify.com/album/4f0t92PPkPXZoCi1Z8gnUP"
       },
@@ -4794,6 +4866,28 @@
       "duration_ms": 134022,
       "name": "Bebecita",
       "url": "https://open.spotify.com/track/4XJHEvCpx3ClLZk0lyfsry"
+    },
+    {
+      "album": {
+        "name": "been a minute",
+        "url": "https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p"
+      },
+      "artists": [
+        {
+          "name": "Lily Agnes",
+          "url": "https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ"
+        },
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "been a minute",
+      "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
     },
     {
       "album": {
@@ -6764,6 +6858,28 @@
       "duration_ms": 143305,
       "name": "Breathe - Bonus",
       "url": "https://open.spotify.com/track/7at29evHRwwKNq6tRfWbLJ"
+    },
+    {
+      "album": {
+        "name": "To Hide What's Real",
+        "url": "https://open.spotify.com/album/2mBBhsy7EJez7M9fb14PVL"
+      },
+      "artists": [
+        {
+          "name": "Landon Sears",
+          "url": "https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3"
+        },
+        {
+          "name": "Samual",
+          "url": "https://open.spotify.com/artist/0FtAvXR8ftKt9avwCHAVJ7"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Bring That Money Home",
+      "url": "https://open.spotify.com/track/4fMzbnCcgPbIRnpwEx2xBH"
     },
     {
       "album": {
@@ -9966,6 +10082,24 @@
     {
       "album": {
         "name": "Control",
+        "url": "https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147095,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr"
+    },
+    {
+      "album": {
+        "name": "Control",
         "url": "https://open.spotify.com/album/73tWbljEskyASZXWpmJten"
       },
       "artists": [
@@ -10494,6 +10628,24 @@
       "duration_ms": 197500,
       "name": "crush",
       "url": "https://open.spotify.com/track/6aHp4EdjW0hoUOC61wXRAm"
+    },
+    {
+      "album": {
+        "name": "CRY/ROYAL",
+        "url": "https://open.spotify.com/album/6NB8C6ZEwyfeK2H6O0dk15"
+      },
+      "artists": [
+        {
+          "name": "BL8XE",
+          "url": "https://open.spotify.com/artist/07NrrK9tsLrlAOquqFK8BZ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205544,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/7yFZEWA3PnuBDtNYQLqVWL"
     },
     {
       "album": {
@@ -12718,6 +12870,24 @@
       "duration_ms": 159428,
       "name": "don't shut me out",
       "url": "https://open.spotify.com/track/20z7MCpN5ZnDnJjEnYwbNU"
+    },
+    {
+      "album": {
+        "name": "Don't Sleep",
+        "url": "https://open.spotify.com/album/4BVrqBsgR3X0eoDIQXGwPy"
+      },
+      "artists": [
+        {
+          "name": "A-Lex",
+          "url": "https://open.spotify.com/artist/57d6nBX9AL4PBzXdvWohz3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Don't Sleep",
+      "url": "https://open.spotify.com/track/0FuhdS9vwdT0FwKgsvIBcW"
     },
     {
       "album": {
@@ -19577,6 +19747,24 @@
     },
     {
       "album": {
+        "name": "HAVE FAITH",
+        "url": "https://open.spotify.com/album/26OAcggBt1L0lpitvofSwG"
+      },
+      "artists": [
+        {
+          "name": "A L i C",
+          "url": "https://open.spotify.com/artist/6V3jCCn9VkxtbiofkRnBga"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192816,
+      "name": "HAVE FAITH",
+      "url": "https://open.spotify.com/track/7MubgInf5uPZGJ4ogabU4V"
+    },
+    {
+      "album": {
         "name": "Have It All",
         "url": "https://open.spotify.com/album/4eEwuwdvehyexwQNY5nYps"
       },
@@ -22138,6 +22326,24 @@
       "duration_ms": 171863,
       "name": "I thought",
       "url": "https://open.spotify.com/track/4yuQLTlJk0b4okaYvEFjeU"
+    },
+    {
+      "album": {
+        "name": "i used to lilke you (\u00ac\uff64\u00ac)",
+        "url": "https://open.spotify.com/album/471VEYNVkgJbNZuEtiDdgi"
+      },
+      "artists": [
+        {
+          "name": "Jarren Blair",
+          "url": "https://open.spotify.com/artist/1masDpm7zul13ra4CY3sjy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251892,
+      "name": "i used to lilke you (\u00ac\uff64\u00ac)",
+      "url": "https://open.spotify.com/track/2pB5sNfGG38TdjMb1oewj2"
     },
     {
       "album": {
@@ -29443,6 +29649,24 @@
     },
     {
       "album": {
+        "name": "Meet Me in the Garden",
+        "url": "https://open.spotify.com/album/5gpl2SCSt4Swcty2Ip1ocZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Satch",
+          "url": "https://open.spotify.com/artist/5t5wlydIrp9LiseqKggMJ9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273437,
+      "name": "Meet Me in the Garden",
+      "url": "https://open.spotify.com/track/7wahRNi9QAInFQi5olLwPh"
+    },
+    {
+      "album": {
         "name": "The \"Amexin\" EP",
         "url": "https://open.spotify.com/album/0IwaVdIamwxv2JayfNTZfL"
       },
@@ -30795,6 +31019,24 @@
     },
     {
       "album": {
+        "name": "MOTIONOFLOVE",
+        "url": "https://open.spotify.com/album/1fC3igMC9GWRDVg3atH3va"
+      },
+      "artists": [
+        {
+          "name": "Ar\u00e9",
+          "url": "https://open.spotify.com/artist/5PPLWlqL9BY30EKMmKe1Ix"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202478,
+      "name": "MOTIONOFLOVE",
+      "url": "https://open.spotify.com/track/2bdiyUhFFR9uTgAwaMuyHL"
+    },
+    {
+      "album": {
         "name": "Motions",
         "url": "https://open.spotify.com/album/6S6uqA3uUewPCdR3zepUGK"
       },
@@ -31059,6 +31301,24 @@
     },
     {
       "album": {
+        "name": "MUNI LONG (IDC)",
+        "url": "https://open.spotify.com/album/3sGTGlPioSnEWbRAwpLkHx"
+      },
+      "artists": [
+        {
+          "name": "S\u00e6kyi",
+          "url": "https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178028,
+      "name": "MUNI LONG (IDC)",
+      "url": "https://open.spotify.com/track/60pl5EG7uBGWzovvqVT3ix"
+    },
+    {
+      "album": {
         "name": "Muse (Acoustic Version)",
         "url": "https://open.spotify.com/album/381mV9ExeAUfl3Fk4HHzDm"
       },
@@ -31146,6 +31406,28 @@
       "duration_ms": 168071,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/5SK0wauTkUIDPjYas6aNP5"
+    },
+    {
+      "album": {
+        "name": "My Bad, It\u2019s On Me",
+        "url": "https://open.spotify.com/album/26PCQMKdBL106H9wwqint3"
+      },
+      "artists": [
+        {
+          "name": "IX WULF",
+          "url": "https://open.spotify.com/artist/4YJ3Jfbf78CW0WCNPVNNa2"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "My Bad, It\u2019s On Me",
+      "url": "https://open.spotify.com/track/6sLrwJXquBcc1przj8fZpG"
     },
     {
       "album": {
@@ -34259,6 +34541,24 @@
     },
     {
       "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/23NdVXLSH8akFXVnxdIXmU"
+      },
+      "artists": [
+        {
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/2u3ucpknV0GldgmPnuRFwu"
+    },
+    {
+      "album": {
         "name": "Only 2",
         "url": "https://open.spotify.com/album/05nAkuAyzlbph59Bqsmjfy"
       },
@@ -34274,6 +34574,24 @@
       "duration_ms": 176067,
       "name": "Only 2",
       "url": "https://open.spotify.com/track/5FBZzQJuI1jSNcCpUhjl8f"
+    },
+    {
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj"
     },
     {
       "album": {
@@ -39077,6 +39395,24 @@
     },
     {
       "album": {
+        "name": "Reckless Game",
+        "url": "https://open.spotify.com/album/1ie6YwKOlXpuEvKjSZ6k29"
+      },
+      "artists": [
+        {
+          "name": "Vahn Black",
+          "url": "https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218663,
+      "name": "Reckless Game",
+      "url": "https://open.spotify.com/track/5iTKCZ2AlT1P8TkvT6cVCV"
+    },
+    {
+      "album": {
         "name": "Reconnect",
         "url": "https://open.spotify.com/album/3nfVHvD93P3r2sU7tpiZhw"
       },
@@ -40992,6 +41328,24 @@
       "duration_ms": 243784,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
+    },
+    {
+      "album": {
+        "name": "Say No More",
+        "url": "https://open.spotify.com/album/38jucpZQUktqk8DxvU5KZ4"
+      },
+      "artists": [
+        {
+          "name": "Idele",
+          "url": "https://open.spotify.com/artist/3ISRnAkBjxvDzi4Pe5pAP3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168459,
+      "name": "Say No More",
+      "url": "https://open.spotify.com/track/2rw7YQhhzqeVb42RgZ4DFv"
     },
     {
       "album": {
@@ -46337,6 +46691,24 @@
     },
     {
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/7xjLi7lZXP9F71zJTM4r6t"
+      },
+      "artists": [
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/5HhkcZpWC3LlpIRFBwERF5"
+    },
+    {
+      "album": {
         "name": "Purple BLUE",
         "url": "https://open.spotify.com/album/4n6ueWyNmmeqB9OVBPwbWh"
       },
@@ -48672,6 +49044,24 @@
       "duration_ms": 135348,
       "name": "Tit 4 Tat (All I Know)",
       "url": "https://open.spotify.com/track/4UCCEqkteMu7YqgwjUMDBc"
+    },
+    {
+      "album": {
+        "name": "Title",
+        "url": "https://open.spotify.com/album/3CwQiseFPFFnU7YL7uxFB7"
+      },
+      "artists": [
+        {
+          "name": "Bee-B",
+          "url": "https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150208,
+      "name": "Title",
+      "url": "https://open.spotify.com/track/5xDhnWIZJ9yVnBtVPBO9Uq"
     },
     {
       "album": {
@@ -51660,6 +52050,24 @@
       "duration_ms": 161756,
       "name": "We Can Go Again",
       "url": "https://open.spotify.com/track/7eepRUI31ki6mOiOSvIlzn"
+    },
+    {
+      "album": {
+        "name": "Handle w/ Care",
+        "url": "https://open.spotify.com/album/3a9T7Dg2jBjvaJp4LHFB2o"
+      },
+      "artists": [
+        {
+          "name": "Kay Franklin",
+          "url": "https://open.spotify.com/artist/24EY6rZFOruUXOcoqxUW21"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111360,
+      "name": "We Do",
+      "url": "https://open.spotify.com/track/1u8Vmqvdb0OfSwasPweU9Z"
     },
     {
       "album": {

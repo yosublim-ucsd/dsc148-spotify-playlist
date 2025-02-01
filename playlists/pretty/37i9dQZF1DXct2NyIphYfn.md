@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful love songs in French.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,635 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,667 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baby c'est vous](https://open.spotify.com/track/3td4hXoHSKPLeursSTVeTT) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan, Vol\. 1](https://open.spotify.com/album/4wH7vwZ9bJGV3e9xjvizHN) | 2:41 |
-| 2 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
-| 3 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 |
+| 1 | [Ensemble \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 |
+| 2 | [Baby c'est vous](https://open.spotify.com/track/3td4hXoHSKPLeursSTVeTT) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan, Vol\. 1](https://open.spotify.com/album/4wH7vwZ9bJGV3e9xjvizHN) | 2:41 |
+| 3 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 4 | [Ta reine](https://open.spotify.com/track/3iXhLi33EpUfcOwasC8un1) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:33 |
 | 5 | [Si tu m'aimes demain](https://open.spotify.com/track/14UoUyJ5opQScau6Iw6G0e) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Si tu m'aimes demain](https://open.spotify.com/album/2LjSr9COs39I342Ho6nwtp) | 2:57 |
 | 6 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 49 | [J'aurai cent ans](https://open.spotify.com/track/1lbTcEocbV3CBy4WL6En3B) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Landing](https://open.spotify.com/album/3wsoaba9VUcxW8rMFyIZqt) | 4:52 |
 | 50 | [Chewing\-Gum](https://open.spotify.com/track/52ye3YnY6o4XITA62IzCwI) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 4:26 |
 
-Snapshot ID: `ZpGSmAAAAAACyIAZhdVjk14Et0N9aSk7`
+Snapshot ID: `Z5xY9QAAAAAkU8H3/ukpf2TFOukWD1nh`

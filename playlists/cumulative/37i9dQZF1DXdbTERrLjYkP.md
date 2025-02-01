@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Bex
+> Discover the next wave of talent writing their own songs\. Cover: Bebe Stockwell
 
-797 songs - 1 day 18 hr 28 min
+799 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Almost Loved You](https://open.spotify.com/track/1gCIGVbF00N5toEK0TEmWr) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [part one](https://open.spotify.com/album/7mMRGWSoqwWWwQzCI2eMqh) | 3:40 | 2023-02-03 | 2023-05-06 |
 | [Almost to the Moon](https://open.spotify.com/track/4ZKHMa4ePLnwYmT08LVqkM) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Almost to the Moon](https://open.spotify.com/album/0K4PS1zDoFxTZQCLevcawo) | 3:12 | 2022-01-14 | 2022-04-29 |
 | [Alone in an Uber](https://open.spotify.com/track/5kGgc5oh3CuEjqgzP4ChGJ) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Alone in an Uber](https://open.spotify.com/album/1wNpUkDC3cwJLV94LPIm4b) | 2:23 | 2022-10-28 | 2022-12-24 |
+| [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 | 2025-01-31 |  |
 | [always know the exits](https://open.spotify.com/track/3jX35k5Y0SvCGNMvYysS3p) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [always know the exits](https://open.spotify.com/album/68HRjx3Vpx1VLdVq9uhC5C) | 3:08 | 2024-12-06 | 2025-01-18 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-10 | 2023-03-04 |
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 | 2023-06-17 |
@@ -492,7 +493,7 @@
 | [messy](https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [messy](https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn) | 2:09 | 2023-07-14 | 2023-08-05 |
 | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv) | 3:57 | 2024-02-09 | 2024-08-17 |
 | [Midnight Train From Marylebone](https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o) | [Isaac Stuart](https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE) | [Skyline](https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2) | 3:21 | 2023-05-05 | 2023-11-11 |
-| [Minor Inconveniences](https://open.spotify.com/track/1uLPjjdIKUXvzC3Y2jSdjC) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Minor Inconveniences](https://open.spotify.com/album/0hy2RxRbnzbs9eTgqIEhd0) | 2:32 | 2025-01-24 |  |
+| [Minor Inconveniences](https://open.spotify.com/track/1uLPjjdIKUXvzC3Y2jSdjC) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Minor Inconveniences](https://open.spotify.com/album/0hy2RxRbnzbs9eTgqIEhd0) | 2:32 | 2025-01-24 | 2025-02-01 |
 | [Molly, I'm Coming Around](https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Molly, I’m Coming Around](https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI) | 2:41 | 2024-09-06 | 2025-01-18 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-04-29 |
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-12 | 2022-11-12 |
@@ -594,7 +595,7 @@
 | [Running Wild](https://open.spotify.com/track/7N04vaIHwmsEFIOSOtEzGd) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Running Wild](https://open.spotify.com/album/6R2ai9D2j6WRbQ5r9gE5wM) | 3:27 | 2024-12-20 |  |
 | [Sadtown USA](https://open.spotify.com/track/5L7sbhEYjCagSs6fGdfVbi) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/64nylLzvc9O40yAD3EaJ2G) | 3:10 | 2022-09-09 | 2022-11-19 |
 | [Sadtown USA](https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN) | 3:10 | 2022-07-22 | 2022-10-13 |
-| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-09 |  |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-09 | 2025-02-01 |
 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 | 2022-02-25 | 2022-09-17 |
 | [Same People](https://open.spotify.com/track/3EOEvnYl2v0E899Ov9j0gE) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Same People](https://open.spotify.com/album/4oMlqE0MvhO3yYFHqIvDv6) | 3:07 | 2022-11-25 | 2023-01-28 |
 | [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 | 2022-11-11 | 2022-12-24 |
@@ -652,6 +653,7 @@
 | [SPACE](https://open.spotify.com/track/0oedTfz3uuPFxmrDVwB0Gc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SPACE](https://open.spotify.com/album/212R86ZzivVW2nNLidAvfO) | 2:03 | 2022-01-14 | 2022-03-12 |
 | [Spaceship](https://open.spotify.com/track/2H5swlv8mYd3P6R8mgeAPZ) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Spaceship](https://open.spotify.com/album/6D6ziDPPrgFye3Q0rJ4Bxv) | 3:18 | 2022-06-10 | 2022-10-15 |
 | [Spam Calls](https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Spam Calls](https://open.spotify.com/album/4T7PakYjXie0JjTC6JqfSh) | 2:59 | 2023-01-27 | 2023-05-13 |
+| [Speak Too Soon \(feat\. Hans Williams\)](https://open.spotify.com/track/57xHYfCID32ZMMI6R31vSA) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Speak Too Soon \(feat\. Hans Williams\)](https://open.spotify.com/album/5vc1BN8ua7hlFp5Ohm8YiF) | 2:59 | 2025-01-31 |  |
 | [Special](https://open.spotify.com/track/1mBR4OepAtxwfLwokFhWKC) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 2:43 | 2022-10-21 | 2023-02-04 |
 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2022-10-21 | 2022-12-24 |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2022-12-24 |

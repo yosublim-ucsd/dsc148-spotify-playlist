@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Psyched-out bands from the four corners of the world. Hermanos Guti\u00e9rrez on cover.",
+  "description": "Psyched-out bands from the four corners of the world. Mdou Moctar on cover.",
   "name": "Neo-Psychedelic Rock",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Alquimista",
       "url": "https://open.spotify.com/track/188iyS5xe99axE3wX2pPAD"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 610853,
       "name": "Fault Lines",
       "url": "https://open.spotify.com/track/6gyt6rTwZFGaH85z7Si6Al"
@@ -1904,6 +1904,24 @@
       "duration_ms": 240468,
       "name": "Forever End",
       "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
+    },
+    {
+      "album": {
+        "name": "Funeral for Justice (Injustice Version)",
+        "url": "https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345702,
+      "name": "Funeral for Justice - Injustice Version",
+      "url": "https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX"
     },
     {
       "album": {
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 194720,
       "name": "Out Out Out",
       "url": "https://open.spotify.com/track/1Dx2pfWd8AsLbqWRAbaABP"
@@ -4445,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "S.N.C",
+        "url": "https://open.spotify.com/album/0oaI0qO5yCMuaQ7hcczrmj"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355145,
+      "name": "S.N.C",
+      "url": "https://open.spotify.com/track/335vJ5AwekBqjaj1XjmRnd"
+    },
+    {
+      "album": {
         "name": "Crispy Moon",
         "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
@@ -4474,7 +4510,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 214466,
       "name": "Saku Saku (\u30b5\u30af\u30b5\u30af\uff09",
       "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"

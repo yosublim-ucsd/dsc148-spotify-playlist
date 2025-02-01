@@ -497,6 +497,28 @@
     },
     {
       "album": {
+        "name": "Eccles: The Mad Lover: V. Aire. Ground",
+        "url": "https://open.spotify.com/album/0Cf7YmtUJtDeSmYnXZosw0"
+      },
+      "artists": [
+        {
+          "name": "John Eccles",
+          "url": "https://open.spotify.com/artist/1Vf6J5GaEyalbTE1Jjbeui"
+        },
+        {
+          "name": "Shani Diluka",
+          "url": "https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118066,
+      "name": "Eccles: The Mad Lover: V. Aire. Ground (Arr. Diluka for Piano)",
+      "url": "https://open.spotify.com/track/1UsdgY2x6pstKpHzkI5npY"
+    },
+    {
+      "album": {
         "name": "Il Trionfo di Dori",
         "url": "https://open.spotify.com/album/67VrH3PqfMQzLAVDsqxYSH"
       },
@@ -1434,7 +1456,7 @@
       ],
       "date_added": "2017-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 309240,
       "name": "Mass For Four Voices: 1. Gloria",
       "url": "https://open.spotify.com/track/2PhclxPrZW16t67YAGRYoR"
@@ -2087,6 +2109,40 @@
     },
     {
       "album": {
+        "name": "Pergolesi: Stabat Mater, Laudate pueri & Confitebor",
+        "url": "https://open.spotify.com/album/6KY891prXZa5OvJHljJdro"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Battista Pergolesi",
+          "url": "https://open.spotify.com/artist/08ewVs9B2qQZ2Gy3xfTFyo"
+        },
+        {
+          "name": "Philippe Jaroussky",
+          "url": "https://open.spotify.com/artist/17aC1wctGme2P8YC6LVov2"
+        },
+        {
+          "name": "I Barocchisti",
+          "url": "https://open.spotify.com/artist/1yN4XCQLTaJyBnsLJQECBu"
+        },
+        {
+          "name": "Julia Lezhneva",
+          "url": "https://open.spotify.com/artist/4lXqCIiOQaKszIABIsOyrI"
+        },
+        {
+          "name": "Diego Fasolis",
+          "url": "https://open.spotify.com/artist/4WbEmAwPIeRh1bHcv6uY7U"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Pergolesi: Stabat Mater: I. Stabat mater dolorosa",
+      "url": "https://open.spotify.com/track/7LcypCVM2DeybABIv1Ydaa"
+    },
+    {
+      "album": {
         "name": "El Cancionero De Palacio",
         "url": "https://open.spotify.com/album/5W90v6VMtVMG6x1DSdDxKz"
       },
@@ -2224,7 +2280,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 251467,
       "name": "Regina caeli",
       "url": "https://open.spotify.com/track/5MMb7xNiVNilblN9lZR9rB"
@@ -2387,6 +2443,32 @@
     },
     {
       "album": {
+        "name": "Altre Follie (1500-1750)",
+        "url": "https://open.spotify.com/album/3UAuDhWEmWffV1h6I1okjZ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Jordi Savall",
+          "url": "https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL"
+        },
+        {
+          "name": "Hesp\u00e8rion XXI",
+          "url": "https://open.spotify.com/artist/6P09QK8EvzRliYA86yl6nt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588973,
+      "name": "Sonata \"La Follia\" Op. 1 n. 12 RV 63",
+      "url": "https://open.spotify.com/track/31phRRDd6MwLhE88ZXt8hn"
+    },
+    {
+      "album": {
         "name": "Palestrina Volume 6",
         "url": "https://open.spotify.com/album/7GNu69O7p8m22yb2f3BAuw"
       },
@@ -2410,6 +2492,32 @@
       "duration_ms": 152680,
       "name": "Song of Songs: No. 16 Surge, amica mea, speciosa mea",
       "url": "https://open.spotify.com/track/6taQyTJtq3TW6HTcYPidG0"
+    },
+    {
+      "album": {
+        "name": "Anne Boleyn's Songbook: Music & Passions of a Tudor Queen",
+        "url": "https://open.spotify.com/album/3HiYP4YL0RMczggktEhHHI"
+      },
+      "artists": [
+        {
+          "name": "Josquin des Prez",
+          "url": "https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8"
+        },
+        {
+          "name": "Alamire",
+          "url": "https://open.spotify.com/artist/4tbw1zKAjeOghhCu6gRCYU"
+        },
+        {
+          "name": "David Skinner",
+          "url": "https://open.spotify.com/artist/4AsPSaUwVGmR6j93TXJaU6"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481382,
+      "name": "Stabat mater",
+      "url": "https://open.spotify.com/track/2scCHjxgO9au31c0Xp8m5T"
     },
     {
       "album": {

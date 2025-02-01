@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Sophie Powers
 
-846 songs - 1 day 15 hr 2 min
+847 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 | 2024-09-06 | 2025-01-25 |
 | [Crazy Ex](https://open.spotify.com/track/6oAiUgrZtKQIX3uWYy3MTz) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Falling Out / Falling In](https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb) | 2:29 | 2023-02-10 | 2023-03-04 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-28 | 2024-09-07 |
-| [crocodile tears](https://open.spotify.com/track/71q2aFtpjsH4CG5Xbcc0jJ) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [crocodile tears](https://open.spotify.com/album/447seuu3X7RLUyNBijtw1b) | 3:08 | 2024-11-11 |  |
+| [crocodile tears](https://open.spotify.com/track/71q2aFtpjsH4CG5Xbcc0jJ) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [crocodile tears](https://open.spotify.com/album/447seuu3X7RLUyNBijtw1b) | 3:08 | 2024-11-11 | 2025-02-01 |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/5KJmWpLw1VpmJDSGp9zr3y) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/20TIqhqCGg1APlKuQGmCri) | 2:48 | 2021-09-17 | 2022-04-09 |
 | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw) | 2:49 | 2023-10-06 | 2024-06-08 |
 | [Cruel World](https://open.spotify.com/track/4RtLJdGrUDDf6o7EhQtcas) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Cruel World](https://open.spotify.com/album/2KLQvgaPDzX9mhwKHdgoXn) | 3:03 | 2022-04-22 | 2022-09-10 |
@@ -648,6 +648,7 @@
 | [See You In My Dreams](https://open.spotify.com/track/5yqsHTPNMjiZP8LO7ZgnDY) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF), [NOCTURN](https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K) | [See You In My Dreams](https://open.spotify.com/album/1pKVuSFvPP17CaqkSekcLQ) | 3:34 | 2022-12-23 | 2023-06-17 |
 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 | 2023-06-02 | 2024-04-06 |
 | [Self Dysmorphia](https://open.spotify.com/track/4XxNQ8VlWCDT6kEwWDuW4u) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Self Dysmorphia](https://open.spotify.com/album/5sXDpVJMW6f3nRzJSFGWoi) | 2:49 | 2022-11-18 | 2023-01-06 |
+| [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 | 2025-01-31 |  |
 | [Selfish](https://open.spotify.com/track/7eWHF1vaNW7W8W8GotYrlq) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Selfish](https://open.spotify.com/album/67pLH9BcT0kwLCfFErRuvO) | 2:30 | 2022-03-25 | 2022-06-04 |
 | [SENSITIVE](https://open.spotify.com/track/7iOTB9EaWdIV7QmzDAGIce) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [SENSITIVE](https://open.spotify.com/album/0o8Bu11t3vEILxUdzLyyBx) | 2:15 | 2022-03-11 | 2022-06-04 |
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 | 2023-04-22 |

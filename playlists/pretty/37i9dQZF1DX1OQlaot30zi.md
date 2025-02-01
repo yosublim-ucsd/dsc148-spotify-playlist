@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Jake, Simba, Boro, Dani Faiv e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,503 likes - 129 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,572 likes - 129 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 9 | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0) | 2:40 |
 | 10 | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc) | 2:56 |
 | 11 | [6AM](https://open.spotify.com/track/1N39icVWCfSPdTaR61FAXY) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [6AM](https://open.spotify.com/album/6A7JClonPdmTqkirOvd4fR) | 2:10 |
-| 12 | [Amore Criminel \(feat\. Baby Gang\)](https://open.spotify.com/track/0BZR4ZZisHPH3cxcRXfTSn) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [MARTIRE](https://open.spotify.com/album/43eVUAmLmLVE2M8PUMgLva) | 2:47 |
+| 12 | [Amore Criminel \(feat\. Baby Gang\)](https://open.spotify.com/track/6WXq91US4VUR2upNlPR0Pz) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [MARTIRE](https://open.spotify.com/album/1oPNcyNaxXsXid3saN3bUO) | 2:47 |
 | 13 | [Addiction](https://open.spotify.com/track/3n2kduzwv8dinVTmgtOPFP) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Addiction](https://open.spotify.com/album/63Bdjhfsihkzz6w7S7R0ED) | 2:10 |
 | 14 | [VORREI](https://open.spotify.com/track/3zloVfHZF9XgnP7njHqA5f) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [BRILLEREMO](https://open.spotify.com/album/5hWOZRjtsxnjZ4AQPZZwKm) | 2:47 |
 | 15 | [Money on my mind \(feat\. Rose Villain & Artie 5ive\)](https://open.spotify.com/track/2QW5EuNN9bnowa0e0JKsVM) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [FAME](https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P) | 2:52 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 128 | [TIK TOK](https://open.spotify.com/track/4dB05K2M2aqHNgyrxpKkp7) | [Vago](https://open.spotify.com/artist/02HjKECtF08ZgloUOOyWHo), [Dab](https://open.spotify.com/artist/1IXSiYlWAlrSB1J0WlGwu6) | [TIK TOK](https://open.spotify.com/album/4LGJEWe47UXMEiUftyXjse) | 2:07 |
 | 129 | [Beethoven](https://open.spotify.com/track/3t1zFmMGRqqeFV7X3m0GqG) | [Fuckgize](https://open.spotify.com/artist/0ozkOT9TtjSuroh0f4fCvE) | [Beethoven](https://open.spotify.com/album/4n4vAI7tyhFHAZAHkxOS2l) | 2:27 |
 
-Snapshot ID: `Z5wSwwAAAADsu1Ew7lcJnJMPAon8Lo3r`
+Snapshot ID: `Z5z74wAAAABCnmxo834ITJyZdgSerJ5v`

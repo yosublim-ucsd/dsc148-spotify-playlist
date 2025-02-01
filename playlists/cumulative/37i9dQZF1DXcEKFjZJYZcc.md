@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-322 songs - 13 hr 10 min
+324 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Du bist mîn, ich bin dîn](https://open.spotify.com/track/1J9Q9SKonrTjEfiktcBoJS) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Du bist mîn, ich bin dîn](https://open.spotify.com/album/3mUnkrH1LEQVNX93ES7zul) | 2:11 | 2022-05-20 |  |
 | [durabilité](https://open.spotify.com/track/7Bqz55Uc7PouyqsmTS0q7R) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Aveline Bisset](https://open.spotify.com/album/6Gls7jY8E6316yqBIwTcS4) | 2:39 | 2021-12-14 | 2022-04-29 |
 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-20 |  |
+| [Eden](https://open.spotify.com/track/60TxqqKAFvonXBZ0NbSFXB) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Eden](https://open.spotify.com/album/0MqoHMpKaqsbk3SoczCHdm) | 2:28 | 2025-01-31 |  |
 | [Eisriesenwelt](https://open.spotify.com/track/3H8OQdKlhhsMtLZ2Ip4x0G) | [Maik Kuefer](https://open.spotify.com/artist/7dDWo6Yh2ZWKRrvnZ87rEe) | [Eisriesenwelt](https://open.spotify.com/album/62GiMxJNxVwm31dn89uC5t) | 2:08 | 2023-06-20 |  |
 | [El Amanecer](https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [El Amanecer](https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ) | 2:14 | 2024-07-23 |  |
 | [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-01-20 | 2023-09-19 |
@@ -303,6 +304,7 @@
 | [Up toward the sky](https://open.spotify.com/track/3Ukfmye33J4RSs0lOJFbFH) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Up toward the sky](https://open.spotify.com/album/6VXJvM8qTx0kAZGNNj6KuO) | 2:18 | 2023-03-08 |  |
 | [Upperwest](https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Upperwest](https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8) | 2:27 | 2024-07-16 |  |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-04-05 |  |
+| [Vallem Amnis](https://open.spotify.com/track/6eBxKLQLiUFAyKTk1ne3gt) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Vallem Amnis](https://open.spotify.com/album/31OAlgXkFQC6cNqPgI4OYr) | 2:30 | 2025-01-31 |  |
 | [Valse](https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK) | [Egor Grushin](https://open.spotify.com/artist/75LREKsEbGngALKa5YcwAK) | [Valse](https://open.spotify.com/album/4i4NzFTtaIX9WAcT3tGcaw) | 2:08 | 2022-04-04 |  |
 | [Valverde](https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Duality](https://open.spotify.com/album/3dE84iT1GkIHixshI0twdV) | 2:04 | 2021-12-14 | 2022-04-29 |
 | [Vejez](https://open.spotify.com/track/47Ii11LwTCgCh8COwyUl4A) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Vejez](https://open.spotify.com/album/29Xsf0VtVumQRAjDoXUOAo) | 2:18 | 2024-01-05 | 2024-04-19 |

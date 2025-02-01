@@ -4,7 +4,7 @@
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-523 songs - 1 day 7 hr 16 min
+525 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Aguardiente](https://open.spotify.com/track/5hwxQAq304yehScJtPPcCF) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/4IjGdT8iDALYm1Dpiix0Vd) | 3:16 | 2021-10-20 | 2022-07-29 |
 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 | 2021-10-20 | 2023-09-20 |
 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-23 | 2023-06-07 |
+| [AIO \- Bosq Remix](https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [AIO \(Bosq Remix\)](https://open.spotify.com/album/398yIs7sB6fNFJkpbMJcAg) | 3:13 | 2025-01-31 |  |
 | [Al Amanecer](https://open.spotify.com/track/6Wco7dkgzYPgwnGslPH0P6) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Al Amanecer](https://open.spotify.com/album/3PqbRm5TciAlJJfoHhcaIP) | 3:51 | 2021-10-20 | 2022-04-19 |
 | [Al Lao del Río](https://open.spotify.com/track/51vwF8S1EFHjqTc7wNUmbV) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Al Lao del Río](https://open.spotify.com/album/1z3uzWuaMIve49ltFd6i3L) | 3:30 | 2021-10-20 | 2022-07-29 |
 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 | 2021-10-20 | 2024-04-19 |
@@ -307,6 +308,7 @@
 | [Me Gusta](https://open.spotify.com/track/6qE2cqoOJd1AoSH4gk8qJd) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [Me Gusta](https://open.spotify.com/album/4i0W5FYGaFYQXgtT5Yl3zF) | 4:16 | 2021-10-20 | 2022-07-29 |
 | [Me Gustas Tú](https://open.spotify.com/track/72B3hbvWUv2pFd4h1KkQfS) | [Carolina Camacho](https://open.spotify.com/artist/0yIk2w5fMTibMpkEUKaaLA) | [Me Gustas Tú](https://open.spotify.com/album/1uOiitfmIIuAyJoDMyCoM1) | 4:14 | 2021-10-20 | 2022-07-26 |
 | [Me haces bien](https://open.spotify.com/track/0GlC70q5XuY6h9IYeqxxtt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Me haces bien](https://open.spotify.com/album/2pDYCLkYoV5qOa6nTNiI1i) | 2:12 | 2022-01-14 | 2022-04-19 |
+| [Me Pasa \(Piscis\)](https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [Me Pasa \(Piscis\)](https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs) | 3:21 | 2025-01-31 |  |
 | [Me Pierdo Contigo](https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [El Afán](https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG) | 4:19 | 2021-10-20 |  |
 | [Me Sale Bien](https://open.spotify.com/track/3esLMWVvotR95tEwAKkU6j) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Me Sale Bien](https://open.spotify.com/album/1tbbhlWhIq2Bdsyizv4sdt) | 3:17 | 2021-10-20 | 2022-07-14 |
 | [Mejor Que Antes](https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx), [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL) | [Mejor Que Antes](https://open.spotify.com/album/6WskIARuYkGOhfHWbmVDiL) | 4:20 | 2023-06-01 | 2023-07-22 |
@@ -365,7 +367,7 @@
 | [Pajarito](https://open.spotify.com/track/1pYNSCvnguhc0VMPxWqEwV) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Salvaje](https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E) | 3:26 | 2021-10-20 | 2022-04-19 |
 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 | 2021-10-20 | 2022-07-28 |
 | [Paquita Linda](https://open.spotify.com/track/48ST9mp6EYweaZcyXWqjZc) | [Patiño](https://open.spotify.com/artist/4eepaYCA8Byw10I7CuXhgx) | [Paquita Linda](https://open.spotify.com/album/63DUsfHdMz3fL0w1hAO1ct) | 2:41 | 2021-10-20 | 2022-04-19 |
-| [Paradiso](https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Paradiso](https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv) | 3:01 | 2021-10-20 |  |
+| [Paradiso](https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Paradiso](https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv) | 3:01 | 2021-10-20 | 2025-02-01 |
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2021-10-20 | 2022-08-22 |
 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2021-10-20 | 2023-02-08 |
 | [Paraíso](https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 3:52 | 2021-10-20 | 2024-04-19 |
@@ -384,7 +386,7 @@
 | [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 | 2024-11-25 |
 | [Pensé \- Acústico](https://open.spotify.com/track/1yE83tAX81AJW3wkHm5SEg) | [Tony True and the Tijuana Tres](https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Pensé \(Acústico\)](https://open.spotify.com/album/1GAfZYrYpKrQzDXDe9aGpd) | 4:07 | 2021-10-20 | 2022-04-17 |
 | [Pequeña Niña](https://open.spotify.com/track/6lCnlQ9f13pCokyCNfiT0I) | [Enio Silveti](https://open.spotify.com/artist/2Htqe7nKQ0kHayNSjrH4xr) | [Pequeña Niña](https://open.spotify.com/album/6ANlUv5kDUABEOTUKxdq0R) | 3:22 | 2021-10-20 | 2022-04-21 |
-| [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 | 2021-10-20 |  |
+| [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 | 2021-10-20 | 2025-02-01 |
 | [Perlas](https://open.spotify.com/track/7acLGGlhtbwHDhWNHOTGjn) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Perlas & Conchas](https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo) | 3:19 | 2021-10-20 | 2022-04-10 |
 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 | 2022-11-12 | 2023-03-18 |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2021-10-20 |  |

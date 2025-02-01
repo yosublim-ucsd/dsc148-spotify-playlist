@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "pop punk, alt, emo, post-hardcore & more. Cover: Anxious",
+  "description": "pop punk, alt, emo, post-hardcore & more. Cover: Knuckle Puck",
   "name": "The Scene",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 204400,
       "name": "19",
       "url": "https://open.spotify.com/track/52UhKglatE25UoP4iS7Vg2"
+    },
+    {
+      "album": {
+        "name": "20 Something",
+        "url": "https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk"
     },
     {
       "album": {
@@ -652,7 +670,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 205628,
       "name": "Absolute Bloom",
       "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185873,
       "name": "American Psycho",
       "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 175000,
       "name": "Angry Cry",
       "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 215908,
       "name": "believe the hype",
       "url": "https://open.spotify.com/track/4i5ImKbFYhoUCWp57AHgTD"
@@ -3457,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172205,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
+    },
+    {
+      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -3472,6 +3508,24 @@
       "duration_ms": 186306,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+    },
+    {
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs"
+      },
+      "artists": [
+        {
+          "name": "Mattstagraham",
+          "url": "https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190199,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy"
     },
     {
       "album": {
@@ -4949,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "TOY",
+        "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184417,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
+    },
+    {
+      "album": {
         "name": "CYAN1DE (feat. Pete Wentz)",
         "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
       },
@@ -5601,6 +5673,50 @@
     },
     {
       "album": {
+        "name": "Dial Tones X (feat. Holding Absence)",
+        "url": "https://open.spotify.com/album/1phetcHx7smJTwJsuN8hqN"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        },
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        },
+        {
+          "name": "Lucas Woodland",
+          "url": "https://open.spotify.com/artist/76iTTQpdw0ECsYeXVnKA2t"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197527,
+      "name": "Dial Tones X (feat. Holding Absence)",
+      "url": "https://open.spotify.com/track/7HlHHdXN8RJMdAA2Ujbwju"
+    },
+    {
+      "album": {
+        "name": "diamonds on your dagger",
+        "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201710,
+      "name": "diamonds on your dagger",
+      "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "album": {
         "name": "40 oz. to Fresno",
         "url": "https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3"
       },
@@ -5993,6 +6109,42 @@
     },
     {
       "album": {
+        "name": "Don't Let Me Get Too Low",
+        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158999,
+      "name": "Don't Let Me Get Too Low",
+      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+    },
+    {
+      "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
+    },
+    {
+      "album": {
         "name": "Don't Listen To My Voicemail",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -6008,7 +6160,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 178432,
       "name": "Don't Listen To My Voicemail",
       "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
@@ -6754,6 +6906,24 @@
       "duration_ms": 202636,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/7qMpO1Hys70qo0HvE9c4s2"
+    },
+    {
+      "album": {
+        "name": "Engines",
+        "url": "https://open.spotify.com/album/5JGkKZzm0a9VTIRTcsr5mO"
+      },
+      "artists": [
+        {
+          "name": "Fenix TX",
+          "url": "https://open.spotify.com/artist/074c96SFGJ7WfW7ykczDHr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207036,
+      "name": "Engines",
+      "url": "https://open.spotify.com/track/00lDy6qiWazm3H6oKhJVz9"
     },
     {
       "album": {
@@ -7878,7 +8048,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157743,
       "name": "Fluff My Pillow",
       "url": "https://open.spotify.com/track/6DtCHReL8JYBHX48vDagr2"
@@ -9536,7 +9706,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188506,
       "name": "Head & Spine",
       "url": "https://open.spotify.com/track/1k9Eb95llEWewWSLjqwYsD"
@@ -9964,6 +10134,32 @@
       "duration_ms": 200165,
       "name": "Hey Ben",
       "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+    },
+    {
+      "album": {
+        "name": "Hey Ken, Someone Methodically Mushed the Donuts (Re-recorded) ft. Tades Sanville",
+        "url": "https://open.spotify.com/album/4xXFvHDfjN3zcNmXbS0Axu"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Tades Sanville",
+          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171808,
+      "name": "Hey Ken, Someone Methodically Mushed the Donuts (Re-recorded) ft. Tades Sanville",
+      "url": "https://open.spotify.com/track/0IkUtoJWNj8bD53XoudPCN"
     },
     {
       "album": {
@@ -11968,7 +12164,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 177083,
       "name": "Kept Me Alive",
       "url": "https://open.spotify.com/track/1tmOC0PqokvkmDcPVt3K0r"
@@ -13534,7 +13730,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 246798,
       "name": "Machines",
       "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
@@ -13978,7 +14174,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195850,
       "name": "Message Like a Bomb",
       "url": "https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870"
@@ -14815,6 +15011,24 @@
     },
     {
       "album": {
+        "name": "Nice to Know Ya",
+        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Nice to Know Ya",
+      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
+    },
+    {
+      "album": {
         "name": "Nice to Meet You",
         "url": "https://open.spotify.com/album/7yVfXby8Nlc8yWjPeTReu4"
       },
@@ -15090,10 +15304,32 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195161,
       "name": "NOSE BLEED",
       "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
+    },
+    {
+      "album": {
+        "name": "WAS HERE",
+        "url": "https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/5G46r5BatD8I1MRqeSPD8W"
     },
     {
       "album": {
@@ -15488,7 +15724,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 171574,
       "name": "On All Cylinders",
       "url": "https://open.spotify.com/track/1aTNZs2FoidnysQMbPo3Zo"
@@ -15650,7 +15886,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 183000,
       "name": "ONE NATION",
       "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
@@ -16481,6 +16717,24 @@
     },
     {
       "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159151,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
+    },
+    {
+      "album": {
         "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
         "url": "https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl"
       },
@@ -17231,6 +17485,28 @@
     },
     {
       "album": {
+        "name": "Red Velvet (with Ari Abdul)",
+        "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186025,
+      "name": "Red Velvet (with Ari Abdul)",
+      "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
+    },
+    {
+      "album": {
         "name": "Red Wine And Discontent",
         "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
       },
@@ -17692,7 +17968,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157721,
       "name": "Safe Side",
       "url": "https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN"
@@ -17894,7 +18170,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 181173,
       "name": "Say So Long",
       "url": "https://open.spotify.com/track/45COGBQ3UpoYp7Sru6TCIz"
@@ -18646,7 +18922,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 201000,
       "name": "Shoulder To The Wheel",
       "url": "https://open.spotify.com/track/62gUFv2kvpLqRNTzCRZh38"
@@ -19518,6 +19794,24 @@
       "duration_ms": 211485,
       "name": "Sold",
       "url": "https://open.spotify.com/track/1YFxTkX1asVS76GynrhCjO"
+    },
+    {
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/2dvZmyHj13wcxdWPHAq4oD"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Some Girls",
+      "url": "https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn"
     },
     {
       "album": {
@@ -21074,7 +21368,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 179480,
       "name": "the country club",
       "url": "https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl"
@@ -21739,6 +22033,24 @@
     },
     {
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
+    },
+    {
+      "album": {
         "name": "There For Me",
         "url": "https://open.spotify.com/album/24t1qkjhGCiWBoTqoG6TaU"
       },
@@ -21978,6 +22290,24 @@
       "duration_ms": 207800,
       "name": "Throat",
       "url": "https://open.spotify.com/track/39AM4AnMoqolKZab3kgUiu"
+    },
+    {
+      "album": {
+        "name": "The Hart",
+        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220096,
+      "name": "Through The Landslide",
+      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
     },
     {
       "album": {
@@ -23026,6 +23356,24 @@
       "duration_ms": 207177,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/5H40AgUaIjAGZWJLhui7VY"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261986,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3j79w7PP6JTd1TrdFMnzB9"
     },
     {
       "album": {
@@ -24896,7 +25244,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 112833,
       "name": "You'll Get Nothing and Like It",
       "url": "https://open.spotify.com/track/5Fb1ZtrV0mTKzy2RhzPP7I"

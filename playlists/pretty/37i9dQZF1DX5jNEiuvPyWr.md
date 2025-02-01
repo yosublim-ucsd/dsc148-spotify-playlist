@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : THEODORT
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,710 likes - 39 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,728 likes - 39 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Un peu de retenue](https://open.spotify.com/track/1NrBTrRvNjDcFsxBqnAkOw) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Un peu de retenue](https://open.spotify.com/album/59m0MhJn7XCFAhu8eRKJGd) | 3:01 |
 | 2 | [Constellation](https://open.spotify.com/track/776EM83TyPF8nMX5lhk4wr) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Stony Stone](https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR) | [Constellation](https://open.spotify.com/album/4XRoAuZ0VH8uCQ4F6tvtTb) | 2:32 |
-| 3 | [GOD BLESS](https://open.spotify.com/track/3YCPqZgr9yYG3zDyBcGMyO) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [GOD BLESS](https://open.spotify.com/album/4YjmswyjZP1X09ZotXTqja) | 2:47 |
+| 3 | [God Bless](https://open.spotify.com/track/3YCPqZgr9yYG3zDyBcGMyO) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [God Bless](https://open.spotify.com/album/4YjmswyjZP1X09ZotXTqja) | 2:47 |
 | 4 | [Noum](https://open.spotify.com/track/6t9NUy0fxDCoctPzGJB2bf) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Noum](https://open.spotify.com/album/3unn5HfOzp1U74E10ESWTk) | 3:07 |
 | 5 | [BALKAN](https://open.spotify.com/track/3m2DXuw3P1PDwYZXBZADtE) | [clubb29](https://open.spotify.com/artist/0K7keeoOzJy1x8eQPVdgNg) | [BALKAN](https://open.spotify.com/album/3lim0OZua7PTdQFMmYPR9C) | 2:27 |
 | 6 | [Fame](https://open.spotify.com/track/0GL5nwLsI6wWcYmivpsTTm) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Fame](https://open.spotify.com/album/3ksC92vl5p5eK1MoJOEcmB) | 2:37 |

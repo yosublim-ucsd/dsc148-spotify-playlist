@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Latto
 
-1,027 songs - 2 day 4 hr 5 min
+1,029 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-15 | 2023-09-08 |
 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-05-23 | 2024-07-19 |
 | [BABY I'M BACK \- Remix](https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [BABY I'M BACK \(Remix\)](https://open.spotify.com/album/4TCXp0ZTbzKsmRIAmRPofE) | 3:50 | 2024-09-27 | 2024-12-07 |
+| [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx) | 2:30 | 2025-01-30 |  |
 | [Bachelor](https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bachelor](https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk) | 4:01 | 2023-11-09 | 2023-12-30 |
 | [Back Again \(with Snoop Dogg\)](https://open.spotify.com/track/5Xeoc9cN5lq76CTzOybJuU) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Everybody Can't Go](https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq) | 3:20 | 2024-01-25 | 2024-02-02 |
 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 | 2023-06-22 | 2023-08-18 |
@@ -403,6 +404,7 @@
 | [HUSTLERS \(feat\. Tyga\)](https://open.spotify.com/track/5LNxpOCHQWtBFH0fAveAEY) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fortune Favors the Bold](https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0) | 2:58 | 2023-07-13 | 2023-07-29 |
 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 | 2023-08-17 | 2024-02-02 |
 | [I <3 My Nigga](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My Nigga](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-17 | 2023-09-08 |
+| [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 | 2025-01-30 |  |
 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-03 |  |
 | [I DON'T GO TO HIGHSCHOOL](https://open.spotify.com/track/1LkVouG5VCmvA6Nf4klKMt) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [I DON'T GO TO HIGHSCHOOL](https://open.spotify.com/album/5DugO8A3mcSdepXCMoIZQq) | 2:55 | 2024-03-07 | 2024-03-29 |
 | [I DONT KNOW](https://open.spotify.com/track/0o3cqGULoX8R5nWDnVnARk) | [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mi Yama](https://open.spotify.com/album/5UuC4NqmG8DgGAzceRq5Xa) | 2:51 | 2023-12-08 | 2024-01-26 |

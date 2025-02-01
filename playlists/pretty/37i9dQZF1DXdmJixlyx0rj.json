@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: iiso(\uc774\uc18c))",
-  "num_followers": 28010,
+  "num_followers": 28035,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 237231,
+      "name": "Raingurl",
+      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 163480,
       "name": "LOOP (feat. Lil Cherry)",
       "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 237231,
-      "name": "Raingurl",
-      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.11 : Queendom Remix",
-        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Demicat",
-          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Queendom - Demicat Remix",
-      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
         "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 234026,
       "name": "28 Reasons - CIFIKA Remix",
       "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.11 : Queendom Remix",
+        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Demicat",
+          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Queendom - Demicat Remix",
+      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
       "artists": [
         {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         },
         {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+          "name": "nomad",
+          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Los Angeles - Moksi Remix",
-      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
+      "duration_ms": 211845,
+      "name": "Bad Boy - nomad Remix",
+      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1231,22 +1231,22 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
         },
         {
-          "name": "nomad",
-          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
         }
       ],
-      "duration_ms": 211845,
-      "name": "Bad Boy - nomad Remix",
-      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
+      "duration_ms": 179016,
+      "name": "Los Angeles - Moksi Remix",
+      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
-      },
-      "artists": [
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        },
-        {
-          "name": "LOOZBONE",
-          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
-        }
-      ],
-      "duration_ms": 274761,
-      "name": "28 Reasons - LOOZBONE Remix",
-      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
         "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 194146,
       "name": "Make A Wish (Birthday Song) - Wuki Remix",
       "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+        }
+      ],
+      "duration_ms": 274761,
+      "name": "28 Reasons - LOOZBONE Remix",
+      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1647,26 +1647,26 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.4 : 1 Billion Views Remix",
-        "url": "https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT"
+        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
+        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
       "artists": [
         {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         },
         {
-          "name": "Mar Vista",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+          "name": "Fox Stevenso",
+          "url": "https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23"
         },
         {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
         }
       ],
-      "duration_ms": 265785,
-      "name": "1 Billion Views - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f"
+      "duration_ms": 203720,
+      "name": "Don't Call Me - Fox Stevenson Remix",
+      "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1691,26 +1691,26 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
-        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
+        "name": "iScreaM Vol.4 : 1 Billion Views Remix",
+        "url": "https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
         },
         {
-          "name": "Fox Stevenso",
-          "url": "https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23"
+          "name": "Mar Vista",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
         },
         {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Don't Call Me - Fox Stevenson Remix",
-      "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+      "duration_ms": 265785,
+      "name": "1 Billion Views - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f"
     },
     {
       "added_at": "2024-12-17 03:24:41",

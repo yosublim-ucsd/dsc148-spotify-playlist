@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-237 songs - 16 hr 36 min
+238 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Freaky Toe \- Richie Stevens Mix](https://open.spotify.com/track/6eHKzialPRpOgAdI3nv8Vs) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Richie Stevens](https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl), [Mary Pearce](https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg), [Charlotte Kelly](https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4), [DJ D\-Zire](https://open.spotify.com/artist/60ODIW6N3aAyqsESw620Qn), [Trey Lewd](https://open.spotify.com/artist/6T1ZLCrTSmLviH2wME84tD) | [Freaky Toe \(Richie Stevens Mix\)](https://open.spotify.com/album/1YWhNV0h1tUX8thhaWWZdQ) | 4:41 | 2024-02-23 |  |
 | [Funk Is My Religion](https://open.spotify.com/track/0MUfqhh2wepeXY3xn9O64O) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Funk Is My Religion](https://open.spotify.com/album/4l1PPZ7MgVuTACORe0vaFz) | 4:50 | 2021-04-30 | 2024-04-19 |
 | [Funk Is My Religion](https://open.spotify.com/track/5JfPmqLsOHBFqiMbjVcH5X) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Funk Is My Religion](https://open.spotify.com/album/1ebG6V1lQvLgRhJ2sCwzgN) | 4:50 | 2021-04-30 |  |
-| [Funky Chick](https://open.spotify.com/track/2fedMEurhK2S48JlKSTaBu) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S), [Tomar Williams](https://open.spotify.com/artist/2fzU2rB7Q6czKOCJ6g79cD) | [Funky Chick](https://open.spotify.com/album/0Y4HFxgJ9AKnKElCC56bVV) | 3:34 | 2021-10-01 |  |
+| [Funky Chick](https://open.spotify.com/track/2fedMEurhK2S48JlKSTaBu) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S), [Tomar Williams](https://open.spotify.com/artist/2fzU2rB7Q6czKOCJ6g79cD) | [Funky Chick](https://open.spotify.com/album/0Y4HFxgJ9AKnKElCC56bVV) | 3:34 | 2021-10-01 | 2025-02-01 |
 | [Funky Family](https://open.spotify.com/track/3WVxrFlPRkR7reDUOctOKb) | [Them Vibes](https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664) | [Funky Family](https://open.spotify.com/album/2FeJEOVHMx2oO8s7ZybmeI) | 4:06 | 2022-09-09 |  |
 | [Get out Your Ear's Way](https://open.spotify.com/track/0oQnNNdsHV00hIiMnKUUAq) | [Lachy Doley](https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Get out Your Ear's Way](https://open.spotify.com/album/2xn2UW5EFRug6ecA4SyHXw) | 4:15 | 2023-05-26 |  |
 | [Giving You My Heart](https://open.spotify.com/track/3pBE5lftPP2MxhD2DQRvBm) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Reachin' Up](https://open.spotify.com/album/4Adfft6sCzWvgkr4B7Vjql) | 3:35 | 2022-04-15 |  |
@@ -79,6 +79,7 @@
 | [Got Me Funked Up](https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [The Deep End](https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29) | 3:32 | 2020-10-30 | 2022-04-09 |
 | [Got to Get Me a Job](https://open.spotify.com/track/5UYk7jxOtM326xeLj4EQ3Y) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Got to Get Me a Job](https://open.spotify.com/album/2OkojON734ucUnTW8k8Lpv) | 2:50 | 2022-03-11 |  |
 | [Gotta Get Funky](https://open.spotify.com/track/5XgkwPu4UjZ6MHXp2kJgkd) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Prescription For Soul](https://open.spotify.com/album/2Jsyw5c4kum1fgXpTcqeEn) | 3:35 | 2020-10-30 | 2022-04-09 |
+| [Gotta Give The People](https://open.spotify.com/track/6qJKgF89AOJWqKmokRtiZT) | [Tomar and the FCs](https://open.spotify.com/artist/5dgZB4BAkUdo9RpM5C2nja) | [Gotta Give The People](https://open.spotify.com/album/3rsi82oCx8FRxKrtwQ3fB6) | 3:26 | 2025-01-31 |  |
 | [Gotta Keep on Movin'](https://open.spotify.com/track/2jnOjKvvOH7BZSAJmwdCr7) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Gotta Keep on Movin'](https://open.spotify.com/album/4eoPasodTB5I1MmQBC0qzI) | 4:05 | 2020-10-30 |  |
 | [Groove for the Ques](https://open.spotify.com/track/2XarYi1aq7MvLQPkYvwPrs) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Groove for the Ques](https://open.spotify.com/album/3jSyt4UEGu3gUaeaGpt4pO) | 4:47 | 2021-06-18 |  |
 | [Gumbo](https://open.spotify.com/track/70UPa0pzNUMKcRcq8JZ0YZ) | [The Gold Magnolias](https://open.spotify.com/artist/52YDbdT312mNbnVxG52i1d) | [Ready to Run](https://open.spotify.com/album/51TDlrWxFYRtIvu49Bbm3Z) | 4:54 | 2020-10-30 |  |

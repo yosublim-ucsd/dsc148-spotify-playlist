@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Post Malone
 
-514 songs - 1 day 7 hr 19 min
+515 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 | 2023-07-14 |  |
 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 | 2024-03-29 |  |
 | [Lonesome & Mad](https://open.spotify.com/track/0eeUxgcLK8vVsk6z3eQ6u2) | [Under The Rug](https://open.spotify.com/artist/4cTkErT8j7NvsTEmgPkGT2), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Lonesome & Mad](https://open.spotify.com/album/3hSJXl9zX9NeGIAe6f1IhH) | 3:57 | 2023-03-17 | 2023-04-22 |
+| [Lonesome Drifter](https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB) | 3:02 | 2025-01-31 |  |
 | [Long Violent History](https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 3:10 | 2023-04-21 | 2023-06-24 |
 | [Long Way Down](https://open.spotify.com/track/1g1QGUiGeBPDepBOqDgU0U) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Long Way Down](https://open.spotify.com/album/3XXD57YERTN183g9YoMYKf) | 3:18 | 2022-05-13 | 2022-07-23 |
 | [Long White Veil](https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [As It Ever Was, So It Will Be Again](https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf) | 3:49 | 2024-06-21 |  |
@@ -315,7 +316,7 @@
 | [Monte Carlo](https://open.spotify.com/track/60cNfpipC3dIXISWhBZA2s) | [Carleton Stone](https://open.spotify.com/artist/6FjV2v8M0YwyG2XGWXv5fX) | [Monte Carlo](https://open.spotify.com/album/3R4gMsQ0un7dFWluY7upDW) | 4:18 | 2022-05-13 | 2023-03-25 |
 | [Morning Prayer](https://open.spotify.com/track/3pbigw15hLWzmaHruO6Ac5) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion](https://open.spotify.com/album/36IMFWSc4Xvq5P49sWOgWn) | 3:02 | 2022-05-13 | 2022-05-20 |
 | [Mother Love](https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Mother Love](https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf) | 4:28 | 2022-07-22 | 2023-04-22 |
-| [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 | 2023-06-02 |  |
+| [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 | 2023-06-02 | 2025-02-01 |
 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 | 2024-03-15 | 2024-04-19 |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 | 2024-06-27 |
 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-12-06 |  |

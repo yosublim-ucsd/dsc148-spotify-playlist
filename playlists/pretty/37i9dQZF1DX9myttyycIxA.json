@@ -1,13 +1,81 @@
 {
-  "description": "Underground indie rock gems. Cover: quickly, quickly",
-  "num_followers": 299249,
+  "description": "Underground indie rock gems. Cover: Dutch Interior",
+  "num_followers": 299272,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5PAAQAAAAD4rJqcnU3MZ6chn3pgv/U4",
+  "snapshot_id": "Z5xY7wAAAAAvffA1t/GJf0ST0axQX4dY",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:31",
+      "album": {
+        "name": "Fourth Street",
+        "url": "https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl"
+      },
+      "artists": [
+        {
+          "name": "Dutch Interior",
+          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Fourth Street",
+      "url": "https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB"
+    },
+    {
+      "added_at": "2025-01-31 05:00:31",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/125JWbV6hgxrcKOLwqCKpD"
+      },
+      "artists": [
+        {
+          "name": "Weatherday",
+          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/1yeWvrJVxBl1vYeuKSDuY0"
+    },
+    {
+      "added_at": "2025-01-31 05:00:31",
+      "album": {
+        "name": "horseshoe",
+        "url": "https://open.spotify.com/album/6kGJKYwV3QgsePTFK7s9u0"
+      },
+      "artists": [
+        {
+          "name": "Hooky",
+          "url": "https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 136487,
+      "name": "horseshoe",
+      "url": "https://open.spotify.com/track/3nK1i3At3abXUwOtcMX6m1"
+    },
+    {
+      "added_at": "2025-01-31 05:00:31",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/3hCqY4m26Yt8KrdWx4Ifk9"
+      },
+      "artists": [
+        {
+          "name": "Cameron Schmidt",
+          "url": "https://open.spotify.com/artist/4Rz3lJvqykpYyuAAguCDdV"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/4ziD9OjrY19hVGvbqBYigT"
+    },
     {
       "added_at": "2025-01-24 05:00:58",
       "album": {
@@ -41,20 +109,20 @@
       "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
     },
     {
-      "added_at": "2025-01-24 05:00:58",
+      "added_at": "2025-01-31 05:00:31",
       "album": {
-        "name": "look what you're doing to me",
-        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
+        "name": "Modern Meta Physic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28T6OrN7ZVAaOJ0XVCRYg0"
       },
       "artists": [
         {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
         }
       ],
-      "duration_ms": 264289,
-      "name": "look what you're doing to me",
-      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+      "duration_ms": 210843,
+      "name": "Kaaterskill Trailhead",
+      "url": "https://open.spotify.com/track/6uVrbj5OBvowxoDiO1bHaj"
     },
     {
       "added_at": "2025-01-24 16:29:53",
@@ -71,6 +139,54 @@
       "duration_ms": 365395,
       "name": "planet you forgot me",
       "url": "https://open.spotify.com/track/6gUvpGQR1ZS5PgqbmPaVAv"
+    },
+    {
+      "added_at": "2025-01-24 05:00:58",
+      "album": {
+        "name": "look what you're doing to me",
+        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "look what you're doing to me",
+      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+    },
+    {
+      "added_at": "2025-01-31 05:00:31",
+      "album": {
+        "name": "Tails",
+        "url": "https://open.spotify.com/album/2WT35v6iWB07fAFtuk4axU"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/31gSyLe5c0CxfVZVLJCUl0"
+    },
+    {
+      "added_at": "2025-01-31 05:00:31",
+      "album": {
+        "name": "Hardly",
+        "url": "https://open.spotify.com/album/5lOvY1d2DZ2aPQiNKPiQgk"
+      },
+      "artists": [
+        {
+          "name": "Free Range",
+          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
+        }
+      ],
+      "duration_ms": 167306,
+      "name": "Hardly",
+      "url": "https://open.spotify.com/track/2TsZLpe6jgUiBkNlpB5yx3"
     },
     {
       "added_at": "2025-01-24 05:00:58",
@@ -1315,38 +1431,6 @@
     {
       "added_at": "2025-01-24 05:00:58",
       "album": {
-        "name": "Illuminator",
-        "url": "https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z"
-      },
-      "artists": [
-        {
-          "name": "GIFT",
-          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
-        }
-      ],
-      "duration_ms": 268772,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/7b36EZTVmhCUoSle6mFEux"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 216876,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/0yegKxyOhlLcmdDZy9FCWu"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
         "name": "Love's Changing",
         "url": "https://open.spotify.com/album/3YLGKAVQGU3HoHTTGuAU7a"
       },
@@ -1395,22 +1479,6 @@
     {
       "added_at": "2025-01-24 05:00:58",
       "album": {
-        "name": "YOU\u2019LL HAVE TO LOSE SOMETHING",
-        "url": "https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "1/500",
-      "url": "https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
         "name": "Watch Me Drive Them Dogs Wild",
         "url": "https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs"
       },
@@ -1423,22 +1491,6 @@
       "duration_ms": 290003,
       "name": "Watch Me Drive Them Dogs Wild",
       "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "wishing for you",
-        "url": "https://open.spotify.com/album/3NtTQnCzZ9WzYPlE8BPQQl"
-      },
-      "artists": [
-        {
-          "name": "deeper sleeper",
-          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "wishing for you",
-      "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
     },
     {
       "added_at": "2025-01-24 05:00:58",
@@ -1487,22 +1539,6 @@
       "duration_ms": 133250,
       "name": "drive",
       "url": "https://open.spotify.com/track/34OA989SEHLVAPNNism1cC"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "AVANTI",
-        "url": "https://open.spotify.com/album/1VBOC4Tb54SACq6e93tf84"
-      },
-      "artists": [
-        {
-          "name": "Malice K",
-          "url": "https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI"
-        }
-      ],
-      "duration_ms": 131082,
-      "name": "Raining",
-      "url": "https://open.spotify.com/track/6oywJrE3hcADAWLNL6egqp"
     },
     {
       "added_at": "2025-01-24 05:00:58",
@@ -1615,118 +1651,6 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "words fell out",
-        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
-      },
-      "artists": [
-        {
-          "name": "Goat Girl",
-          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "words fell out",
-      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "The Good Ship Lifestyle",
-        "url": "https://open.spotify.com/album/4pxb5B87BxHlCc25BSlQ29"
-      },
-      "artists": [
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 246026,
-      "name": "The Good Ship Lifestyle",
-      "url": "https://open.spotify.com/track/5QaqxJwyibItiNL2d1iKd3"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "Scream from New York, NY",
-        "url": "https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe"
-      },
-      "artists": [
-        {
-          "name": "Been Stellar",
-          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Scream from New York, NY",
-      "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "Streetwise",
-        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 283688,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "Picture It",
-        "url": "https://open.spotify.com/album/6YpQUgFqCQfXOCbgdsPVqD"
-      },
-      "artists": [
-        {
-          "name": "Margaux",
-          "url": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Picture It",
-      "url": "https://open.spotify.com/track/4kqo78GnFFHu4zccofhUGa"
     }
   ],
   "unique_name": "undercurrents",

@@ -2917,6 +2917,24 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/1d31lqTTJeiFFibQ2cKW3j"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248264,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7cDS3bRy6oqshyCjLk0ukF"
+    },
+    {
+      "album": {
         "name": "Ooh Nah Nah (feat. Masego)",
         "url": "https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl"
       },
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180798,
       "name": "Tap Out",
       "url": "https://open.spotify.com/track/0y4GuddrvXYg6pNLIb35OB"

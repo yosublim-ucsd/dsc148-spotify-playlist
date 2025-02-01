@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: Damiano David",
-  "num_followers": 936576,
+  "num_followers": 936647,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5m1DwAAAADE1BPk/8jvtYBaVVEVgWme",
+  "snapshot_id": "Z5xY7gAAAAC4vEBe/TeGzpT38qe5syMv",
   "tracks": [
     {
       "added_at": "2025-01-29 04:56:47",
@@ -23,6 +23,26 @@
       "duration_ms": 218508,
       "name": "Nothing Breaks Like a Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "Sunshine In The Room",
+        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 182955,
+      "name": "Sunshine In The Room (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
     },
     {
       "added_at": "2025-01-17 05:00:47",
@@ -43,6 +63,22 @@
       "duration_ms": 151986,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
       "added_at": "2024-10-18 04:10:57",
@@ -77,36 +113,44 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:30",
       "album": {
-        "name": "Is It Just Me?",
-        "url": "https://open.spotify.com/album/180pxFgUrC6nG3pfo37Yr8"
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY"
       },
       "artists": [
         {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
         }
       ],
-      "duration_ms": 179062,
-      "name": "Is It Just Me?",
-      "url": "https://open.spotify.com/track/3BUKSDaklrjVckSi8JUCmr"
+      "duration_ms": 253862,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD"
     },
     {
-      "added_at": "2025-01-10 05:00:42",
+      "added_at": "2025-01-31 05:00:30",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/0NQzuz5HR23dQ52ODHU4Lx"
+        "name": "In Love With A Memory",
+        "url": "https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 335233,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7mXWqPVHYNyzQVNmflBSYH"
+      "duration_ms": 243008,
+      "name": "In Love With A Memory",
+      "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -125,124 +169,36 @@
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
-      "added_at": "2024-12-20 05:00:33",
+      "added_at": "2025-01-31 05:00:30",
       "album": {
-        "name": "MAYBE.",
-        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+        "name": "Sheets",
+        "url": "https://open.spotify.com/album/2nbxTiFjqe6n8UmgtdRZqY"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
         }
       ],
-      "duration_ms": 235395,
-      "name": "MAYBE.",
-      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
+      "duration_ms": 229666,
+      "name": "Sheets",
+      "url": "https://open.spotify.com/track/5XrnVelufxFVFEFvuiuQMi"
     },
     {
       "added_at": "2025-01-24 05:00:27",
       "album": {
-        "name": "Chasing Paradise",
-        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/180pxFgUrC6nG3pfo37Yr8"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
         }
       ],
-      "duration_ms": 180091,
-      "name": "Chasing Paradise",
-      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
-    },
-    {
-      "added_at": "2024-10-18 04:10:57",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
-    },
-    {
-      "added_at": "2025-01-24 05:00:27",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 176424,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
-    },
-    {
-      "added_at": "2025-01-24 05:00:27",
-      "album": {
-        "name": "Careless Whisper",
-        "url": "https://open.spotify.com/album/7E2aMrpmPg4m41buOTz77b"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Calls Me Baby",
-          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
-        }
-      ],
-      "duration_ms": 204767,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/0cvW31FIK6B3mUqWLUHorv"
-    },
-    {
-      "added_at": "2025-01-24 05:00:27",
-      "album": {
-        "name": "Ask That God (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        }
-      ],
-      "duration_ms": 205966,
-      "name": "Somebody's Son (feat. Lindsey Buckingham)",
-      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
-    },
-    {
-      "added_at": "2024-10-25 18:30:26",
-      "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
+      "duration_ms": 179062,
+      "name": "Is It Just Me?",
+      "url": "https://open.spotify.com/track/3BUKSDaklrjVckSi8JUCmr"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -265,20 +221,184 @@
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
+      "added_at": "2025-01-31 05:00:30",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4"
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
       "artists": [
         {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 179697,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL"
+      "duration_ms": 177013,
+      "name": "Holy Ground (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
+    },
+    {
+      "added_at": "2024-10-18 04:10:57",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-12-20 05:00:33",
+      "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
+    },
+    {
+      "added_at": "2024-10-25 18:30:26",
+      "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "rhythm of love",
+        "url": "https://open.spotify.com/album/3ofBmMK5XB5VaoWaRlzvyF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Frye",
+          "url": "https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu"
+        }
+      ],
+      "duration_ms": 143763,
+      "name": "rhythm of love",
+      "url": "https://open.spotify.com/track/4ujpzOb9j7pDQH0wCGGoIG"
+    },
+    {
+      "added_at": "2025-01-24 05:00:27",
+      "album": {
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 180091,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "Pressure Points (feat. Lila Ik\u00e9)",
+        "url": "https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/3cp5AXmGxhU3tgNO6TgD4H"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Pressure Points (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z"
+    },
+    {
+      "added_at": "2025-01-24 05:00:27",
+      "album": {
+        "name": "Careless Whisper",
+        "url": "https://open.spotify.com/album/7E2aMrpmPg4m41buOTz77b"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "duration_ms": 204767,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/0cvW31FIK6B3mUqWLUHorv"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "I Dare You",
+        "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
+    },
+    {
+      "added_at": "2025-01-24 05:00:27",
+      "album": {
+        "name": "Ask That God (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 205966,
+      "name": "Somebody's Son (feat. Lindsey Buckingham)",
+      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
     },
     {
       "added_at": "2025-01-24 05:00:27",
@@ -295,6 +415,38 @@
       "duration_ms": 189806,
       "name": "With You",
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/0NQzuz5HR23dQ52ODHU4Lx"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 335233,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7mXWqPVHYNyzQVNmflBSYH"
+    },
+    {
+      "added_at": "2025-01-24 05:00:27",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 179697,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL"
     },
     {
       "added_at": "2024-12-10 18:02:27",
@@ -331,6 +483,22 @@
       "duration_ms": 203419,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY"
+    },
+    {
+      "added_at": "2025-01-31 05:00:30",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 215178,
+      "name": "Residuals",
+      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -371,6 +539,22 @@
       "duration_ms": 182386,
       "name": "jupiter",
       "url": "https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4"
+    },
+    {
+      "added_at": "2025-01-24 05:00:27",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
     },
     {
       "added_at": "2025-01-17 05:00:47",
@@ -419,22 +603,6 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
-      "added_at": "2025-01-03 05:00:26",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 224127,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -525,22 +693,6 @@
       "url": "https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
-      "album": {
-        "name": "BUTTERFLY EFFECT",
-        "url": "https://open.spotify.com/album/2uhbrgPqPv0FbEHydwDOit"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "BUTTERFLY EFFECT",
-      "url": "https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb"
-    },
-    {
       "added_at": "2024-10-18 04:10:57",
       "album": {
         "name": "Die With A Smile",
@@ -559,30 +711,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
-        "url": "https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        },
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 158490,
-      "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
-      "url": "https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz"
     },
     {
       "added_at": "2024-10-18 04:10:57",
@@ -687,22 +815,6 @@
     {
       "added_at": "2025-01-03 05:00:26",
       "album": {
-        "name": "You and your eyes",
-        "url": "https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 156942,
-      "name": "You and your eyes",
-      "url": "https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u"
-    },
-    {
-      "added_at": "2025-01-03 05:00:26",
-      "album": {
         "name": "weren't for the wind",
         "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
       },
@@ -747,54 +859,6 @@
       "duration_ms": 183475,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "then there were sparks",
-        "url": "https://open.spotify.com/album/5zkLJZo9I8UuDJ5OvRHy1e"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        }
-      ],
-      "duration_ms": 264055,
-      "name": "then there were sparks",
-      "url": "https://open.spotify.com/track/7cCXSquQnXCyCwhP8vFUBQ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:47",
-      "album": {
-        "name": "i'm in love, believe it",
-        "url": "https://open.spotify.com/album/7b5KQTF6C0vrUMdSzjQmA2"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "i'm in love, believe it",
-      "url": "https://open.spotify.com/track/06qR4ao8CrVOHqUj30ZYJi"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "NEVER WANNA LET YOU GO",
-        "url": "https://open.spotify.com/album/7LtEHkLfUrAOq5CUGFPwXh"
-      },
-      "artists": [
-        {
-          "name": "Bren Joy",
-          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
-        }
-      ],
-      "duration_ms": 200204,
-      "name": "NEVER WANNA LET YOU GO",
-      "url": "https://open.spotify.com/track/1WK90RqsK7hDQTGaEqCM2I"
     },
     {
       "added_at": "2025-01-24 05:00:27",
@@ -865,22 +929,6 @@
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
-      "added_at": "2025-01-24 05:00:27",
-      "album": {
-        "name": "It's A Pleasure",
-        "url": "https://open.spotify.com/album/3aXCcd2412cU0ELrwUa2xP"
-      },
-      "artists": [
-        {
-          "name": "Findlay",
-          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "It's A Pleasure",
-      "url": "https://open.spotify.com/track/3aNR2kcaSzKzV81UdFhecj"
-    },
-    {
       "added_at": "2024-10-18 04:10:57",
       "album": {
         "name": "Love Somebody",
@@ -911,22 +959,6 @@
       "duration_ms": 154504,
       "name": "Criminals",
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
-    },
-    {
-      "added_at": "2024-10-18 04:10:57",
-      "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-10-18 04:10:57",

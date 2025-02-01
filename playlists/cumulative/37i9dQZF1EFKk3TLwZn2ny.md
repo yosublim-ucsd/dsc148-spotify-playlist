@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-61 songs - 3 hr 9 min
+62 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [angeldemon](https://open.spotify.com/track/2AIcMu2cod3ZYMyGA29FCX) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:00 | 2024-05-25 |  |
 | [Brand New](https://open.spotify.com/track/1SAiUd9FlY6A36831AuXtX) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 3:20 | 2024-04-18 |  |
 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 | 2024-01-29 |  |
+| [Countdown](https://open.spotify.com/track/5c12s5qzsC9tu9IwyMIUgi) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Countdown](https://open.spotify.com/album/7LInTNKbSTA1j8wCk2hT48) | 2:20 | 2025-01-31 |  |
 | [Dark Eyes](https://open.spotify.com/track/48nmwkCtOpkwx46cIoiZKW) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 2:52 | 2024-01-29 |  |
 | [Don't I Know It](https://open.spotify.com/track/1x9oYJbwtUZMBckVuOMxOO) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp) | [Hiding](https://open.spotify.com/album/23B2wzAEcAqJ4g8ttTR8U6) | 3:28 | 2024-01-29 |  |
 | [Don't Think](https://open.spotify.com/track/1N9OZZ3p3qCquH3MkfhRRG) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:26 | 2024-01-29 |  |

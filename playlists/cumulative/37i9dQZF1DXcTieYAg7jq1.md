@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Leon Bridges
 
-422 songs - 1 day 0 hr 10 min
+423 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 | 2023-02-28 |
 | [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 | 2023-02-03 | 2023-03-11 |
 | [Girl](https://open.spotify.com/track/7CpiMGCPEiMFg5EFZNwCnv) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Girl](https://open.spotify.com/album/2Fudu7h6q97hvPS470jIkb) | 2:57 | 2022-03-11 | 2023-05-27 |
+| [Girl of the Hour](https://open.spotify.com/track/5DToj6deasn1CaLqldIWCJ) | [Tabitha Meeks](https://open.spotify.com/artist/5XLLTtjICh1Hsk7NSJW5vv) | [Girl of the Hour](https://open.spotify.com/album/0d9BIuBugjnp2DDW2LlYES) | 3:03 | 2025-01-31 |  |
 | [Give Love A Try](https://open.spotify.com/track/1anovmHXv8sSwoRi28M4ab) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Break The Silence](https://open.spotify.com/album/69j2M8vVbP5fPi645eQWvz) | 2:55 | 2022-04-15 | 2024-03-02 |
 | [Glitter & Gold](https://open.spotify.com/track/1qRhvlCXiB8JsNM6uP27Km) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven](https://open.spotify.com/album/7casok18TXKpkt263CTlfM) | 3:28 | 2021-12-03 | 2022-04-19 |
 | [Glitter & Gold](https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven \(Expanded Edition\)](https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn) | 3:29 | 2021-12-03 | 2023-01-28 |
@@ -183,7 +184,7 @@
 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 | 2021-12-03 | 2023-01-28 |
 | [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2021-12-03 | 2022-10-13 |
 | [I Don't Wanna Lie](https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:01 | 2021-12-03 | 2023-01-28 |
-| [I Feel Fine](https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [I Feel Fine](https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX) | 3:07 | 2022-05-27 |  |
+| [I Feel Fine](https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [I Feel Fine](https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX) | 3:07 | 2022-05-27 | 2025-02-01 |
 | [I Got Your Love](https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79), [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR) | [I Got Your Love](https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL) | 2:13 | 2023-05-26 |  |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2021-12-03 | 2023-01-28 |
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-12-03 | 2022-07-29 |

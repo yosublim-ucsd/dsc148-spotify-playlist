@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 100066,
       "name": "Imagining the Future - Instrumental",
       "url": "https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 135560,
       "name": "It Is The Law",
       "url": "https://open.spotify.com/track/7sZsdoPTOOWMyK5huLCTWL"
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82480,
+      "name": "One Cup One Heart",
+      "url": "https://open.spotify.com/track/5mG99wYvEebgwmXM3gXJyC"
+    },
+    {
+      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 103866,
       "name": "Science Project",
       "url": "https://open.spotify.com/track/4c6JP62sRyEuUhOPkSoRST"

@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 167642,
       "name": "A Frozen Lullaby",
       "url": "https://open.spotify.com/track/3QwpjkfCWzd8bFDTppQB3K"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 136932,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/0jZxdSQspa4rnhge8sGGRG"
@@ -1132,10 +1132,28 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 125530,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6mS1UBTYXQ4qN1XpG7KmCU"
+    },
+    {
+      "album": {
+        "name": "Softly Together",
+        "url": "https://open.spotify.com/album/3dveMgq1IUFmOY4NEFmczx"
+      },
+      "artists": [
+        {
+          "name": "astral.atmos",
+          "url": "https://open.spotify.com/artist/2thf6HRyll029GBqn9Crko"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105024,
+      "name": "Beneath the Same Stars",
+      "url": "https://open.spotify.com/track/3KZIB0LOjTm9o6Ip8M4GlB"
     },
     {
       "album": {
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 126768,
       "name": "Bluff Trail",
       "url": "https://open.spotify.com/track/1GuV3mmmbG7ngfD34BoPyD"
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 177549,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/57b8FvUqnDN7SS2NfnLtKT"
@@ -2228,7 +2246,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 134250,
       "name": "daily routine",
       "url": "https://open.spotify.com/track/2KzcpvschTClsRfNDdulQ5"
@@ -2830,7 +2848,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137874,
       "name": "Echoes of Sorrow",
       "url": "https://open.spotify.com/track/6Zw6FJFQ5FfRYiK4xse09x"
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 189897,
       "name": "ethereal",
       "url": "https://open.spotify.com/track/4yeUbRYff62nK1feljffEb"
@@ -3395,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/6HGofEIWCqleYhDYF4bW60"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kensington",
+          "url": "https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49750,
+      "name": "First Appearance",
+      "url": "https://open.spotify.com/track/0lWRLG4RfTQWEcEHWgr4To"
+    },
+    {
+      "album": {
         "name": "my dreams",
         "url": "https://open.spotify.com/album/5Yf71XMJKDiuasIjOmTTm7"
       },
@@ -3494,7 +3530,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 156732,
       "name": "Flora Memoir",
       "url": "https://open.spotify.com/track/2tBTKkyiM4bNH0pWMxf8Go"
@@ -3548,7 +3584,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 141880,
       "name": "Flowers In The Rain",
       "url": "https://open.spotify.com/track/6v3kShRqCBryKDuhbONfCM"
@@ -3828,6 +3864,24 @@
       "duration_ms": 97307,
       "name": "Fountains",
       "url": "https://open.spotify.com/track/0oNWI69uwVhklsZUtmXANF"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/74aUcGy0nfdYVS1AZ5DZA7"
+      },
+      "artists": [
+        {
+          "name": "Alex Varmatt",
+          "url": "https://open.spotify.com/artist/0SjJkGka0ZbdOvQu5FDXSx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152072,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6JWk5YNYvUFtXfcwfxNN5N"
     },
     {
       "album": {
@@ -4576,6 +4630,24 @@
       "duration_ms": 106391,
       "name": "Hometown sidewalk",
       "url": "https://open.spotify.com/track/3JDlRGEeY9wjOIoJOiuLWB"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/3vue9PxA7EkWLm1p2IbGdy"
+      },
+      "artists": [
+        {
+          "name": "Dermott Reilly",
+          "url": "https://open.spotify.com/artist/4m2y4IV1lkTrGLztYQH452"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4iQim7G17BrVyjDI4ExRxX"
     },
     {
       "album": {
@@ -5839,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Little Life",
+        "url": "https://open.spotify.com/album/6UJtCZVMx3FSKsmanfHCM1"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131451,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/3kBlW30pIiwSkzZp2woM3t"
+    },
+    {
+      "album": {
         "name": "Little Star",
         "url": "https://open.spotify.com/album/4yQNhbs5UyCylnvnPq5wp6"
       },
@@ -6238,7 +6328,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 165126,
       "name": "Merry-Go-Round of Life (From \"Howl\u00b4s Moving Castle\")",
       "url": "https://open.spotify.com/track/2uGzwciZEchVvt2glv4Fpj"
@@ -6430,7 +6520,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 109838,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0GEbxK3DRICzhVpSorrdWa"
@@ -6485,6 +6575,24 @@
     },
     {
       "album": {
+        "name": "Morpho Menelaus",
+        "url": "https://open.spotify.com/album/2eCt7zkeaSnCqLiD3KUb2F"
+      },
+      "artists": [
+        {
+          "name": "Valentin Scholl",
+          "url": "https://open.spotify.com/artist/31nziFCQXhUjs3mURgkS3j"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Morpho Menelaus",
+      "url": "https://open.spotify.com/track/4DpJeIgAxlrLBsLPY88Skq"
+    },
+    {
+      "album": {
         "name": "Snapshots",
         "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
       },
@@ -6522,6 +6630,24 @@
       "duration_ms": 275374,
       "name": "Moving Mountains",
       "url": "https://open.spotify.com/track/0ujllOMqSfFVDWsL5ONpUX"
+    },
+    {
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/1EMv4htba5a2zITh5S46B0"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118206,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/6pqXCTbA18qyvSCF7NYpOF"
     },
     {
       "album": {
@@ -6744,6 +6870,24 @@
       "duration_ms": 101760,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/3oZvfMByFaXnbw2hsMoDG7"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/3PnX0ZWH5aSCt5OxgzyhG7"
+      },
+      "artists": [
+        {
+          "name": "Jakub Szybiak",
+          "url": "https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/4olSG0llPmTh9TiDcnvSqx"
     },
     {
       "album": {
@@ -7024,7 +7168,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 130393,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/3dfQWHtPrSciTmrwsYqvBB"
@@ -7166,6 +7310,24 @@
       "duration_ms": 104195,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/65uNh1wIKZHla5FAHjhKDI"
+    },
+    {
+      "album": {
+        "name": "Machine Heart (Original Score)",
+        "url": "https://open.spotify.com/album/5X44PMHU5MpBqFuTQZBoDE"
+      },
+      "artists": [
+        {
+          "name": "Jordan Seigel",
+          "url": "https://open.spotify.com/artist/1s6Tpkmcu82ZnLoRjESUbI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125349,
+      "name": "Once Upon a Time",
+      "url": "https://open.spotify.com/track/5jvtbybELkHnFrFJxDDLDe"
     },
     {
       "album": {
@@ -7480,7 +7642,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 115531,
       "name": "Out To Sea",
       "url": "https://open.spotify.com/track/5at4X0bNFWHzaLAwMgenpt"
@@ -7762,7 +7924,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 128000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2cIhSKzpS7q2ZHo1n2OTah"
@@ -8128,7 +8290,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 120561,
       "name": "Redwoods",
       "url": "https://open.spotify.com/track/1aG1d3YgeXnjBnZx6SFBwg"
@@ -8208,6 +8370,24 @@
       "duration_ms": 95400,
       "name": "Relaxing in Peaceful Island (Piano)",
       "url": "https://open.spotify.com/track/4NVgO4AF5Ef5lDoCgUavsT"
+    },
+    {
+      "album": {
+        "name": "Reliving",
+        "url": "https://open.spotify.com/album/0TderDsNOTwlUuxlGuBkQt"
+      },
+      "artists": [
+        {
+          "name": "Jakub Szybiak",
+          "url": "https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178283,
+      "name": "Reliving",
+      "url": "https://open.spotify.com/track/6wv1YsGYbRVvoX5Z4ihf8w"
     },
     {
       "album": {
@@ -8298,7 +8478,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 152250,
       "name": "rise",
       "url": "https://open.spotify.com/track/2Ni1zoQRJL9bCPeegBzDGB"
@@ -8722,7 +8902,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 98597,
       "name": "Sighs of the Heart",
       "url": "https://open.spotify.com/track/4t1vOiUg8qpHdkx66yJjCE"
@@ -8962,7 +9142,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 133867,
       "name": "Soft Launch",
       "url": "https://open.spotify.com/track/5uTSZWLeWAZWn1et9JuPSF"
@@ -9114,6 +9294,28 @@
       "duration_ms": 244782,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/3Ta5OTDDDLmWcVXeQAobZ5"
+    },
+    {
+      "album": {
+        "name": "Sonatina in D Major",
+        "url": "https://open.spotify.com/album/6SnqAuWvXqHOBOFDceACe0"
+      },
+      "artists": [
+        {
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+        },
+        {
+          "name": "Fiona Joy Hawkins",
+          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Sonatina in D Major Op.36 No.6 \u2013 Rondo",
+      "url": "https://open.spotify.com/track/5b5hMOMJ4pTMeRBGra2FOw"
     },
     {
       "album": {
@@ -9928,7 +10130,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 100892,
       "name": "The Faroes",
       "url": "https://open.spotify.com/track/1xa8mqm2xZCuvzjfo5pCAa"
@@ -10206,6 +10408,24 @@
       "duration_ms": 197037,
       "name": "The Springs",
       "url": "https://open.spotify.com/track/2x5GrDCJeF8X1dfbGuw1V5"
+    },
+    {
+      "album": {
+        "name": "The Way Of Life",
+        "url": "https://open.spotify.com/album/4c6ICbg6atGgvmCi4SCyzo"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157846,
+      "name": "The Way Of Life",
+      "url": "https://open.spotify.com/track/5Mmkqb8iGDy2sJu1KsaLhH"
     },
     {
       "album": {
@@ -10666,7 +10886,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 120120,
       "name": "twilight",
       "url": "https://open.spotify.com/track/2jgCeM3IjLBPS5drRytGFV"
@@ -11295,6 +11515,24 @@
     },
     {
       "album": {
+        "name": "When Time Stands Still",
+        "url": "https://open.spotify.com/album/1DNe8SkGVxfaGxGCUDDLxs"
+      },
+      "artists": [
+        {
+          "name": "Charles Szczepanek",
+          "url": "https://open.spotify.com/artist/2RHgkbONbH9he8kovTc0MX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165839,
+      "name": "When Time Stands Still",
+      "url": "https://open.spotify.com/track/2eNEDZhbfWvUKrIBGMVAlS"
+    },
+    {
+      "album": {
         "name": "When We Met",
         "url": "https://open.spotify.com/album/2eGK9PCQPH0nBo77yGkRdX"
       },
@@ -11652,6 +11890,24 @@
       "duration_ms": 156551,
       "name": "World of Dreams",
       "url": "https://open.spotify.com/track/48kcI0fRkPtMkgFVMYc2jD"
+    },
+    {
+      "album": {
+        "name": "Softly Together",
+        "url": "https://open.spotify.com/album/3dveMgq1IUFmOY4NEFmczx"
+      },
+      "artists": [
+        {
+          "name": "astral.atmos",
+          "url": "https://open.spotify.com/artist/2thf6HRyll029GBqn9Crko"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109243,
+      "name": "Wrapped in Love",
+      "url": "https://open.spotify.com/track/7EO96uXlrLeuc6pTU4NmW4"
     },
     {
       "album": {

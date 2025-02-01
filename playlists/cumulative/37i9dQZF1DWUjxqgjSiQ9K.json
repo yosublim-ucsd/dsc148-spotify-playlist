@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 222430,
       "name": "buen pastor",
       "url": "https://open.spotify.com/track/0eJC8OXy9FgzgrT78YvIpR"
@@ -10329,6 +10329,32 @@
     },
     {
       "album": {
+        "name": "Por Siempre Eres Bueno (Live)",
+        "url": "https://open.spotify.com/album/57OTw4mfNXvMJ3mNfvvRc4"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Rebeca Zamorano",
+          "url": "https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300019,
+      "name": "Por Siempre Eres Bueno - Live",
+      "url": "https://open.spotify.com/track/6jXexj7F6Jlcmx04WpSRGU"
+    },
+    {
+      "album": {
         "name": "Por Un A\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6x9BTyxCu5g1TojB7rbGX5"
       },
@@ -10836,7 +10862,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 329096,
       "name": "Qui\u00e9n M\u00e1s - Live",
       "url": "https://open.spotify.com/track/1D1YTMxa3k1GMyLjB9etvI"
@@ -13608,6 +13634,28 @@
       "duration_ms": 167906,
       "name": "Tuyo Soy",
       "url": "https://open.spotify.com/track/4K90V0Prl8nWCZGcoi1tG5"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Eres Dios",
+        "url": "https://open.spotify.com/album/0YICEYAaNv9lFBRrKtYtu4"
+      },
+      "artists": [
+        {
+          "name": "Chanel Novas",
+          "url": "https://open.spotify.com/artist/359NLJX4VHDyNLBfybI0Uz"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559438,
+      "name": "T\u00fa Eres Dios",
+      "url": "https://open.spotify.com/track/6Ba75b7WwhRuITzZsnKOp2"
     },
     {
       "album": {

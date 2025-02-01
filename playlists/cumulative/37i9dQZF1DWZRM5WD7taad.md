@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Tokischa y Nathy Peluso en Portada
 
-354 songs - 17 hr 36 min
+355 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Camino](https://open.spotify.com/track/0419zrFCGlfLFBj73b9jXP) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Camino](https://open.spotify.com/album/07UeBYQqVZ84ieMaL8h7Yw) | 3:10 | 2024-04-26 | 2024-06-01 |
 | [Cañonazo](https://open.spotify.com/track/6N00qL6Ovf0SXvGQ0r8MxZ) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Track 1](https://open.spotify.com/album/6kQCfXiPcvde29I9rMkw8S) | 3:16 | 2024-07-19 |  |
 | [Cenicienta](https://open.spotify.com/track/49FOV8pFqmjbG4rbqTrKN1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Cenicienta](https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4) | 3:13 | 2024-04-19 | 2024-08-24 |
-| [cereza](https://open.spotify.com/track/5Rs4nTh5AsDoELAre4dVPR) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr), [cihuacoatl](https://open.spotify.com/artist/0puK9ppliD7aJzxOLxemtt) | [cereza](https://open.spotify.com/album/5oTWuDyBWoQZH1R6blCdm6) | 1:48 | 2024-05-17 |  |
+| [cereza](https://open.spotify.com/track/5Rs4nTh5AsDoELAre4dVPR) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr), [cihuacoatl](https://open.spotify.com/artist/0puK9ppliD7aJzxOLxemtt) | [cereza](https://open.spotify.com/album/5oTWuDyBWoQZH1R6blCdm6) | 1:48 | 2024-05-17 | 2025-02-01 |
 | [Chicos, Tenis y Cachucha \- Remastered 2010](https://open.spotify.com/track/2m1B2pQEgeh3i7Rtapwa4O) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Chicos, Tenis y Cachucha \(Remastered 2010\)](https://open.spotify.com/album/4XfzTVKkzNjXyiY2yt6Ar3) | 3:49 | 2023-11-10 | 2023-12-16 |
 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0wF1oTllq50PkLfPBjiQDh) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 | 2023-04-14 | 2023-07-01 |
 | [Cien Por Uno](https://open.spotify.com/track/77XT1VtbANgAeFac7qyCsI) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Ezzlaer](https://open.spotify.com/artist/71M8VO0bmKsiQHcO8VFr83) | [Cien Por Uno](https://open.spotify.com/album/3pqv4raZaHvQ3XQMSQ12l2) | 1:40 | 2024-07-19 | 2024-08-24 |
@@ -152,6 +152,7 @@
 | [INESTABLE](https://open.spotify.com/track/501X2Nrk11zzfOn546Rhti) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [INESTABLE](https://open.spotify.com/album/42tptQ38LTPQenmxgSBtjU) | 3:14 | 2022-12-09 | 2024-03-02 |
 | [Inigualable](https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Badly Rouse](https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8) | [Inigualable](https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj) | 3:05 | 2024-10-18 |  |
 | [Inmunes](https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Inmunes](https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU) | 3:14 | 2024-09-06 |  |
+| [Insano](https://open.spotify.com/track/5686YvpKEIlKQHf0UPC8WI) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Insano](https://open.spotify.com/album/2aOe2GEo5GdIp7lC676F1C) | 2:40 | 2025-01-31 |  |
 | [It's Okey](https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn) | [VIEF](https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [It's Okey](https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9) | 3:17 | 2024-09-06 |  |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2022-02-03 | 2023-10-07 |
 | [Juana Kalamidad](https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [13 razones](https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y) | 4:52 | 2021-12-13 | 2023-02-04 |

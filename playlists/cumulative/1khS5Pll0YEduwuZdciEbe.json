@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "514-415",
+        "url": "https://open.spotify.com/album/68tgADpuMYVggWvaBfosiO"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223930,
+      "name": "514-415",
+      "url": "https://open.spotify.com/track/4HIKvlYBPneU1DbxFJEvmT"
+    },
+    {
+      "album": {
         "name": "A day in the water",
         "url": "https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH"
       },
@@ -2239,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Big After I Die",
+        "url": "https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj"
+    },
+    {
+      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -2510,7 +2546,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 166741,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
@@ -2914,7 +2950,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206739,
       "name": "Outside The Gate",
       "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"

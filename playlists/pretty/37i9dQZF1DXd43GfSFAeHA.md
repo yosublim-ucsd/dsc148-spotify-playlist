@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,283 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,301 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,19 +45,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 35 | [RAKMY YKHOD](https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:56 |
 | 36 | [C'est la vie](https://open.spotify.com/track/0v5tlmZ4Wbb4KnlZiryySn) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B), [Koast](https://open.spotify.com/artist/5mp19VAuofzsBViN7LHKhH) | [Dumya Bilaa Khie6aan](https://open.spotify.com/album/7a0TT2UfzgfyelNv0IVKYD) | 2:52 |
 | 37 | [Yadope fe Hope](https://open.spotify.com/track/5f7b7V81k97VbCYq4oRujr) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Seif](https://open.spotify.com/artist/3RBtyMBbXCOlB69Y2kJb36) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/0g6S6YVISNoddND6a1jgqI) | 3:17 |
-| 38 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 |
-| 39 | [Loop](https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 3:02 |
-| 40 | [Luna](https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [OMW](https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ) | 3:12 |
-| 41 | [7OB BAS EH](https://open.spotify.com/track/14DGhLzPgz7XcN49AoNdP5) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:55 |
+| 38 | [7OB BAS EH](https://open.spotify.com/track/14DGhLzPgz7XcN49AoNdP5) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:55 |
+| 39 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 |
+| 40 | [Loop](https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 3:02 |
+| 41 | [Luna](https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [OMW](https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ) | 3:12 |
 | 42 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
 | 43 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
 | 44 | [Dumya Bilaa Khie6aan](https://open.spotify.com/track/75AuO1Abpd4nHebtCZg0zD) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Dumya Bilaa Khie6aan](https://open.spotify.com/album/7a0TT2UfzgfyelNv0IVKYD) | 2:39 |
-| 45 | [KAN DENDEN](https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KAN DENDEN](https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz) | 3:20 |
-| 46 | [Alaab](https://open.spotify.com/track/6Tb6GZOL2jke4aLtQdC55f) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [Alaab](https://open.spotify.com/album/74fX4L9KIV1HC2h7UZBjAw) | 2:28 |
-| 47 | [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 |
-| 48 | [MASHY BE3LAG](https://open.spotify.com/track/4ZFtmpUX4tsDEnz1DmsqyA) | [KHALED ROSSIA](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [MASHY BE3LAG](https://open.spotify.com/album/1U9ComcWbP0kr8BNY24Emd) | 2:15 |
-| 49 | [Had 5ofi \(feat\. Sakt\)](https://open.spotify.com/track/6aJowWOzPZGpKsLByDopjz) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Wardenclyph](https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h), [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy) | [Al Taman](https://open.spotify.com/album/7zaC52w15nrgQQ6NRAfZhF) | 2:46 |
-| 50 | [U8](https://open.spotify.com/track/4OKrr7DymGJbXOh0Jg1hN3) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:03 |
+| 45 | [Alaab](https://open.spotify.com/track/6Tb6GZOL2jke4aLtQdC55f) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [Alaab](https://open.spotify.com/album/74fX4L9KIV1HC2h7UZBjAw) | 2:28 |
+| 46 | [U8](https://open.spotify.com/track/4OKrr7DymGJbXOh0Jg1hN3) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:03 |
+| 47 | [KAN DENDEN](https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KAN DENDEN](https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz) | 3:20 |
+| 48 | [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 |
+| 49 | [MASHY BE3LAG](https://open.spotify.com/track/4ZFtmpUX4tsDEnz1DmsqyA) | [KHALED ROSSIA](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [MASHY BE3LAG](https://open.spotify.com/album/1U9ComcWbP0kr8BNY24Emd) | 2:15 |
+| 50 | [Had 5ofi \(feat\. Sakt\)](https://open.spotify.com/track/6aJowWOzPZGpKsLByDopjz) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Wardenclyph](https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h), [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy) | [Al Taman](https://open.spotify.com/album/7zaC52w15nrgQQ6NRAfZhF) | 2:46 |
 | 51 | [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 |
 
 Snapshot ID: `Z5svWAAAAAB3YjKg+KyH8d/EK9uU4nrF`

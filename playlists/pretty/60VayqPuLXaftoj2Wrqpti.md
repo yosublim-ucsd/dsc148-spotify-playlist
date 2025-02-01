@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,764 likes - 73 songs - 4 hr 18 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,768 likes - 73 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 25 | [Nimerudi](https://open.spotify.com/track/0vozjmtKMYdRvJEzE1sbHR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP), [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg) | [Nimerudi](https://open.spotify.com/album/3ftn5BjJz3O9p7hZNqVnGN) | 3:53 |
 | 26 | [Fight Song](https://open.spotify.com/track/5kwRecpBMyAvPLIhL3lzee) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Fight Song](https://open.spotify.com/album/3QDNBcBoQXQmk01beQFOgB) | 6:29 |
 | 27 | [Long Day \(10 Toes Down\)](https://open.spotify.com/track/2x1yELyCSFo4FubJVE3hWv) | [Jeremy Hines](https://open.spotify.com/artist/5ZtcY72Q8tDQv8OUEykYMn) | [Long Day \(10 Toes Down\)](https://open.spotify.com/album/6gM0zNJ4pXJ9XpLdJMGQJC) | 2:33 |
-| 28 | [DISCONNECT!](https://open.spotify.com/track/5KUJ2SYV84EVr5mYhOemxq) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz), [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK) | [Airbag Woke Me Up](https://open.spotify.com/album/40x4f7BAJmGeNpZQKuemlb) | 3:54 |
+| 28 | [DISCONNECT! \(feat\. Fredwave, Louis Culture & J.Caesar\)](https://open.spotify.com/track/5KUJ2SYV84EVr5mYhOemxq) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz), [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK) | [Airbag Woke Me Up](https://open.spotify.com/album/40x4f7BAJmGeNpZQKuemlb) | 3:54 |
 | 29 | [Kingongolo](https://open.spotify.com/track/6mTfj7vAopajnjHHKbgeOh) | [Kin'Gongolo Kiniata](https://open.spotify.com/artist/7zfl0DQa6Ds6AsB1OQBM54) | [Kingongolo](https://open.spotify.com/album/6igKzBruCXx8daOXfuSy6i) | 3:22 |
 | 30 | [Stab](https://open.spotify.com/track/0VWomCgIVIzMVew3Xy1RYn) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Stab](https://open.spotify.com/album/3XBdsSHhf7Fk2ab1nCTV5p) | 3:12 |
 | 31 | [Protest With Love](https://open.spotify.com/track/2iceKsFadg1EYPjd4XJYno) | [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Protest With Love](https://open.spotify.com/album/0Gt8Z8ZliIodPgtwU6C9ls) | 2:36 |

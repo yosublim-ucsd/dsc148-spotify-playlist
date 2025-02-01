@@ -4,7 +4,7 @@
 
 > Marte in cover della playlist con la nuova generazione del rap italiano.
 
-1,567 songs - 2 day 19 hr 8 min
+1,568 songs - 2 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1413,6 +1413,7 @@
 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 | 2022-05-10 | 2022-05-27 |
 | [TILL I DIE](https://open.spotify.com/track/0U4z6d3be5PsrMRxIyqLGe) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [TILL I DIE](https://open.spotify.com/album/5kJNEvseGqjnoUM2AVaxzM) | 2:13 | 2024-02-22 | 2024-03-15 |
 | [TIME \(Y2K\)](https://open.spotify.com/track/0T56iBxcEmHKR7oW8nHgt7) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [TIME \(Y2K\)](https://open.spotify.com/album/74Rwmg1IZJnFSCJsJCyWuj) | 2:04 | 2024-10-24 | 2024-11-08 |
+| [Timore \(feat\. Nabi\)](https://open.spotify.com/track/4AFjiLTbtVZe8mlmIdB08d) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [MARTIRE](https://open.spotify.com/album/1oPNcyNaxXsXid3saN3bUO) | 2:51 | 2025-01-31 |  |
 | [TiP TAP TOE](https://open.spotify.com/track/7w7aSYmcpQcQlLWhAC07fe) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE) | [TiP TAP TOE](https://open.spotify.com/album/5LZk42GY11ZurXvPyOPrwp) | 2:17 | 2024-12-05 | 2025-01-03 |
 | [TMax Nero](https://open.spotify.com/track/1uJla0JBNlxpx09X5cpLNn) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [TMax Nero](https://open.spotify.com/album/0OTdXFFM6J7Hy3WuH4CVIM) | 2:36 | 2022-09-15 | 2022-10-07 |
 | [TMAX\#3](https://open.spotify.com/track/5Jh3UTgdBcaShACxVOua3k) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [SILENZIO](https://open.spotify.com/album/5Tcf8EP6w6L88snAodVwhm) | 1:57 | 2024-06-06 | 2024-06-21 |

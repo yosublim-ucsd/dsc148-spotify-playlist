@@ -2,9 +2,9 @@
 
 ### [New Music Friday Italia](https://open.spotify.com/playlist/37i9dQZF1DWVKDF4ycOESi)
 
-> Tutte le migliori uscite della settimana! La cover arriva tra qualche ora 👀
+> The Weeknd in cover + tutte le migliori uscite della settimana!
 
-3,442 songs - 7 day 5 hr 37 min
+3,445 songs - 7 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Amo amo amo](https://open.spotify.com/track/6UV9t6LOTamCP0pyMC8MLn) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp) | [Amo amo amo](https://open.spotify.com/album/3C9TmfiNeCmdlgiBFlIIb4) | 2:39 | 2024-07-25 | 2024-08-02 |
 | [Amo, Sogno](https://open.spotify.com/track/3b5bppnCvGMTTXbI80aG1M) | [Gelsomino](https://open.spotify.com/artist/2jQj0U4uY5Jc19XqLnpgjM) | [STATO LIQUIDO REPAK](https://open.spotify.com/album/57AXMO36SXqFt0H7RClVBz) | 2:43 | 2024-09-12 | 2024-09-20 |
 | [Amor Che Muovi Il Sole](https://open.spotify.com/track/6GA9AlIfOyrph4Yfzr0f4B) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M) | [Amor Che Muovi Il Sole](https://open.spotify.com/album/371th4PhXvbdtrGkZ75pqw) | 4:17 | 2024-09-26 | 2024-10-04 |
+| [Amore Criminel \(feat\. Baby Gang\)](https://open.spotify.com/track/6WXq91US4VUR2upNlPR0Pz) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [MARTIRE](https://open.spotify.com/album/1oPNcyNaxXsXid3saN3bUO) | 2:47 | 2025-01-31 |  |
 | [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 | 2024-09-19 | 2024-09-27 |
 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 | 2024-07-04 | 2024-07-12 |
 | [AMORE GOURMET](https://open.spotify.com/track/0OAZSTtal2EyUFhMBplm8M) | [Maninni](https://open.spotify.com/artist/28XNEW8SrY9rwD1s1f8gRL) | [AMORE GOURMET](https://open.spotify.com/album/1gUrWjKxRms6E7UffVkus2) | 2:48 | 2024-05-16 | 2024-05-24 |
@@ -740,6 +741,7 @@
 | [croci \(feat\. Sally Cruz\)](https://open.spotify.com/track/2jtoS2ttdOSeoLkweOhhkY) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [tutti i colori del buio](https://open.spotify.com/album/278YwMUlBJkd2Pj1YmCsQY) | 3:04 | 2024-07-11 | 2024-07-19 |
 | [Crush](https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Crush](https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D) | 3:15 | 2024-08-01 | 2024-08-09 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-08 | 2024-08-16 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 | 2024-08-02 |
 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 | 2025-01-10 | 2025-01-17 |
 | [Cuore Cucito](https://open.spotify.com/track/4P6ht10pbEVu2gT7If6lE3) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT) | [Cuore Cucito](https://open.spotify.com/album/5d2ojB5dz1bvRLjUYmbxmv) | 2:12 | 2024-12-05 | 2024-12-13 |
@@ -1727,6 +1729,7 @@
 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-05-23 | 2024-06-01 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-05-10 |
 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 | 2024-05-09 | 2024-05-17 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love Is Eternity](https://open.spotify.com/track/4iXTpwsitXpEeS9nojYVGb) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Love Is Eternity](https://open.spotify.com/album/50GZ0ASPkFLzIW7gtivOre) | 3:33 | 2024-08-29 | 2024-09-06 |
 | [LOVE IS OVERRATED](https://open.spotify.com/track/32aeAbj5YQ3xpfsELu1hze) | [Francesca Everly](https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n) | [LOVE IS OVERRATED](https://open.spotify.com/album/7tpjW39hgq2b4dah9PgOQx) | 3:33 | 2024-07-11 | 2024-07-19 |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-07 | 2024-11-15 |

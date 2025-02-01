@@ -15285,6 +15285,24 @@
     },
     {
       "album": {
+        "name": "Idle",
+        "url": "https://open.spotify.com/album/4BXVmxpA1IZbaCmqkiSIQE"
+      },
+      "artists": [
+        {
+          "name": "Moodal",
+          "url": "https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133849,
+      "name": "Idle",
+      "url": "https://open.spotify.com/track/0JNzya76xG0ubKczzLsvWo"
+    },
+    {
+      "album": {
         "name": "if only",
         "url": "https://open.spotify.com/album/4ep1FWYfIS1PM48gzl1qJq"
       },
@@ -15952,6 +15970,24 @@
       "duration_ms": 141891,
       "name": "Inside Your Mind",
       "url": "https://open.spotify.com/track/2nN9CoveYsHheIytXpojJx"
+    },
+    {
+      "album": {
+        "name": "insomnia",
+        "url": "https://open.spotify.com/album/6JGs0NhhEYlNXJEWcIJrcZ"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113084,
+      "name": "insomnia",
+      "url": "https://open.spotify.com/track/2uAq0cR3Oaa83DJfrv9h4k"
     },
     {
       "album": {
@@ -21266,7 +21302,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 100657,
       "name": "Minda",
       "url": "https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer"
@@ -30392,7 +30428,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 120000,
       "name": "Summer Sleepy",
       "url": "https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns"

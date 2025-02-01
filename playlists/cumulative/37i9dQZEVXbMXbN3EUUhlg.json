@@ -10838,7 +10838,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 134159,
       "name": "Fechando o Circo - Ao Vivo",
       "url": "https://open.spotify.com/track/37bToUvlC32varJ3IT4XUE"
@@ -16276,7 +16276,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161515,
       "name": "Meninos e Meninas",
       "url": "https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa"
@@ -18712,7 +18712,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 230400,
       "name": "N\u00e3o Adianta Chorar",
       "url": "https://open.spotify.com/track/6upD8qnsJjNFj5bLwoN6aS"
@@ -20676,6 +20676,24 @@
       "duration_ms": 125227,
       "name": "Pensa Que \u00c9 Dois",
       "url": "https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW"
+    },
+    {
+      "album": {
+        "name": "Deixa Eu Te Fazer Feliz, Vol. 02",
+        "url": "https://open.spotify.com/album/7uobUOf8hmq6lKzHLQXow2"
+      },
+      "artists": [
+        {
+          "name": "Marcelo & Rayane",
+          "url": "https://open.spotify.com/artist/55Gj3fzPxKBMr70gu7TJKN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202843,
+      "name": "Pense",
+      "url": "https://open.spotify.com/track/2Fs0aeYIBO2YRFA6z5oec9"
     },
     {
       "album": {
@@ -27872,7 +27890,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 190367,
       "name": "Universo",
       "url": "https://open.spotify.com/track/0kdLrg7jLzNcfTgL0cdwoN"
@@ -28954,7 +28972,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 215338,
       "name": "Voc\u00ea Pode Ir Al\u00e9m",
       "url": "https://open.spotify.com/track/2MbAych1mwiIkgve4Z6MZG"

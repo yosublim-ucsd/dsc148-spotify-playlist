@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,924 songs - 3 day 2 hr 32 min
+1,926 songs - 3 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Icecoffee Season](https://open.spotify.com/track/5TeLSirV20P8TpjjCvDpfd) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Icecoffee Season](https://open.spotify.com/album/2SIQj1Mn0RROzHSCQaH17b) | 1:59 | 2022-07-15 | 2023-04-21 |
 | [Icy Winds](https://open.spotify.com/track/3Okqlx6vjjXPprVgjUvx2n) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Amaez](https://open.spotify.com/artist/5UL219t4aptfSBcRGFeLJU) | [Icy Winds](https://open.spotify.com/album/5cy31VRMfkYQn6xb77coex) | 2:09 | 2023-01-13 | 2023-09-22 |
 | [ideary](https://open.spotify.com/track/2T8MAO4Ci0QZubMZF4JBrK) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg), [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [ideary](https://open.spotify.com/album/2kX0cLl1Uu7Be4zGCMO8IO) | 2:08 | 2023-07-13 | 2024-02-09 |
+| [Idle](https://open.spotify.com/track/0JNzya76xG0ubKczzLsvWo) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Idle](https://open.spotify.com/album/4BXVmxpA1IZbaCmqkiSIQE) | 2:13 | 2025-01-31 |  |
 | [if only](https://open.spotify.com/track/6vEw2PhEewj76Ndt8Tw3Cw) | [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ) | [if only](https://open.spotify.com/album/4ep1FWYfIS1PM48gzl1qJq) | 2:37 | 2022-08-12 | 2022-10-29 |
 | [Ikarus](https://open.spotify.com/track/5iLZRwNM72gsugL3hky8Jg) | [Driftwood](https://open.spotify.com/artist/3HG6BbRz8XH4DjjBBfrU3V) | [Cosmonaut](https://open.spotify.com/album/4ywIgUqcPfVH783ZLm7nm3) | 2:29 | 2023-04-03 | 2023-10-06 |
 | [Image Of A Day](https://open.spotify.com/track/0Q5EwdgQaODvqjHOXlLMMA) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Image Of A Day](https://open.spotify.com/album/2sQMEf1EzL6tpRv99anKRT) | 1:50 | 2022-08-19 | 2023-08-22 |
@@ -841,6 +842,7 @@
 | [inside this room](https://open.spotify.com/track/4j3nJdCupZTXB6K14M1mDK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH), [YetBaby](https://open.spotify.com/artist/1JMG5EOlcQdqcbXz7aoiTb) | [inside this room](https://open.spotify.com/album/5EcFP30anx7OqkBjHho8u4) | 2:22 | 2022-09-16 | 2022-12-17 |
 | [Inside Your Mind](https://open.spotify.com/track/1dOTU9zuRexaJjGqLt1PpQ) | [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Inside Your Mind](https://open.spotify.com/album/6xmcGgYp3CH044EJT6QZQL) | 2:21 | 2022-10-07 | 2022-11-24 |
 | [Inside Your Mind](https://open.spotify.com/track/2nN9CoveYsHheIytXpojJx) | [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Inside Your Mind](https://open.spotify.com/album/3Q8DmfwOF4W4veG00b5Yue) | 2:21 | 2022-11-11 | 2023-01-20 |
+| [insomnia](https://open.spotify.com/track/2uAq0cR3Oaa83DJfrv9h4k) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [insomnia](https://open.spotify.com/album/6JGs0NhhEYlNXJEWcIJrcZ) | 1:53 | 2025-01-31 |  |
 | [intentions](https://open.spotify.com/track/7an4nPcSCnHX3BZBPJsMON) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [intentions](https://open.spotify.com/album/4k2f1pwo3sQrePxO8LSP3v) | 2:18 | 2021-12-07 | 2022-09-10 |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2021-12-07 | 2023-02-18 |
 | [invisible](https://open.spotify.com/track/03d83T4D00BmAHrfLYP31x) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3cH66gdtJbU2hvF04ZS6cN) | 3:06 | 2022-12-09 | 2022-12-11 |
@@ -1117,7 +1119,7 @@
 | [Midnight Sun](https://open.spotify.com/track/6CfHNWrevYWVtmWiGF3gOu) | [Embarco](https://open.spotify.com/artist/2U28L4mqy3Lo2ENcS5p0LO) | [Randa Stars](https://open.spotify.com/album/6VbHpXjhyNuUEupYZgoibK) | 3:19 | 2021-12-07 | 2022-06-03 |
 | [Midnight Tales](https://open.spotify.com/track/6G31dyrwgoxh1JZttznEJc) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ), [Draw Beats](https://open.spotify.com/artist/36JWIw87ka7WsPRMBLGB3F) | [Midnight Tales](https://open.spotify.com/album/2Ja2kKT6z2Fmiodi6neQWB) | 2:38 | 2023-01-20 | 2023-09-02 |
 | [Miffing](https://open.spotify.com/track/482V3gj1s0CmyxggOk4OLh) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Miffing](https://open.spotify.com/album/2HW7ivX1zL2ymrEdQkecm8) | 2:23 | 2021-12-07 | 2022-06-03 |
-| [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 | 2022-09-02 |  |
+| [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 | 2022-09-02 | 2025-02-01 |
 | [Mindgarden](https://open.spotify.com/track/3YBeXgkUD57X0iUYQGhynQ) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Roelo](https://open.spotify.com/artist/427NoskGkRLFdKbxUEsEPr) | [Mindgarden](https://open.spotify.com/album/4oUlY36Ux1lsTRU1PjpkCP) | 2:49 | 2022-06-24 | 2022-08-05 |
 | [Mini Voyage](https://open.spotify.com/track/4VQtTjadPJv7Zov9EsRThJ) | [Speezhead](https://open.spotify.com/artist/7Bg8y3H9sNWsbm2tnThkpA) | [Mini Voyage](https://open.spotify.com/album/22Etq0tTXSN3sjePstvSSt) | 2:23 | 2024-05-13 | 2024-10-17 |
 | [minimalistic](https://open.spotify.com/track/510JH6c5Uvtl4GmReyTDI7) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [minimalistic](https://open.spotify.com/album/5XrMahpqjNshTBeOHPoa6D) | 2:08 | 2022-11-11 |  |
@@ -1602,7 +1604,7 @@
 | [summer let go](https://open.spotify.com/track/0MC6K4FCW4kDZsNXVn994T) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [summer let go](https://open.spotify.com/album/0ZT611XyEpAdfYaRgR7KB2) | 2:22 | 2022-07-01 | 2023-04-21 |
 | [summer lullaby](https://open.spotify.com/track/470zKy8qxxiBtGa2oL7pV4) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [slice of life](https://open.spotify.com/album/0RfmUcIVl5XqOWvDsIKCo4) | 2:03 | 2021-12-07 | 2022-05-27 |
 | [Summer Nights](https://open.spotify.com/track/08fWv17k9llzVRJ4hxq2aX) | [Asokiah](https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5) | [Summer Nights](https://open.spotify.com/album/0Odh9MaSEKZD5C9bn5ZPfG) | 1:52 | 2024-06-12 |  |
-| [Summer Sleepy](https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Summer Sleepy](https://open.spotify.com/album/1iH4nyb3lQnA0kTRmmn6SC) | 2:00 | 2023-11-17 |  |
+| [Summer Sleepy](https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Summer Sleepy](https://open.spotify.com/album/1iH4nyb3lQnA0kTRmmn6SC) | 2:00 | 2023-11-17 | 2025-02-01 |
 | [summer time fine](https://open.spotify.com/track/6BtjAPD8KEHetJpsbBOJPF) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [summer time fine](https://open.spotify.com/album/0WWpZtXcK7Bqw55PSPKefE) | 1:42 | 2022-07-29 | 2022-09-30 |
 | [summertime](https://open.spotify.com/track/6QF0J9IrRA1hKlfDDmtPKr) | [heavn](https://open.spotify.com/artist/5Zmt0Jc6Ob5Tg8ubHRz9DF) | [summertime](https://open.spotify.com/album/1QcJ7AwOJgNrkY3Xg8wihk) | 1:26 | 2022-09-09 | 2022-12-10 |
 | [Sun Bath](https://open.spotify.com/track/57oE37icLERtIMk03Tctck) | [Cleto Clouds](https://open.spotify.com/artist/5b8NddTgMkZDXLI1DFz2vr) | [Sun Bath](https://open.spotify.com/album/5UANpkjp8LQD14jUb4kC0x) | 2:35 | 2022-11-25 | 2024-07-19 |

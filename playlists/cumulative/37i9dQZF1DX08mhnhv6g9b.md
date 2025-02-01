@@ -4,7 +4,7 @@
 
 > Welcome to the BTS's universe\. A.R.M.Y's World! 💜
 
-505 songs - 1 day 5 hr 58 min
+506 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 | 2022-06-23 |  |
 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) | 3:55 | 2022-06-10 | 2022-06-18 |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2022-06-10 |  |
+| [Close to You](https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [When the Stars Gossip OST Part.3](https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc) | 3:48 | 2025-01-31 |  |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-23 |  |
 | [Coffee](https://open.spotify.com/track/4eqHEzFsCCiGALC1MHbqnU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 4:20 | 2022-05-27 |  |
 | [Come Back Home](https://open.spotify.com/track/5dEaQCUCJIQyJs5qVZYXOC) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Back Home](https://open.spotify.com/album/1G3HTdPaeUIL6l3mo3q8N8) | 4:04 | 2022-06-23 |  |

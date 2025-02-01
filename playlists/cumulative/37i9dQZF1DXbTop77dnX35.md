@@ -4,7 +4,7 @@
 
 > New Music from Qing Madi and more
 
-1,734 songs - 3 day 14 hr 12 min
+1,735 songs - 3 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -894,6 +894,7 @@
 | [Love & Romance](https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Love & Romance](https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1) | 2:13 | 2024-07-26 | 2024-08-02 |
 | [Love & Romance II](https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Romance II](https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ) | 3:15 | 2024-11-15 | 2024-11-22 |
 | [Love Game](https://open.spotify.com/track/1t43A2SrVfO5rMLwwVuoYM) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Love Game](https://open.spotify.com/album/3GP7Wd3HJivgATV7JEcfqm) | 3:29 | 2024-06-21 | 2024-06-28 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love Island](https://open.spotify.com/track/0WPrlyMjUD4jaVRfxZTnN2) | [BLAKBOYKAY](https://open.spotify.com/artist/0bf9exCyt4DiZQ3vszlc0b), [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Love Island](https://open.spotify.com/album/7FArfeIM0lLe4auCAjsxUb) | 2:43 | 2024-09-06 | 2024-09-13 |
 | [Love Life](https://open.spotify.com/track/5FD19z2xU2pnDFhP10JHHu) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is) | [Love Life](https://open.spotify.com/album/1Dj0QoB1PtvVFtHH0pVFEJ) | 2:25 | 2024-10-25 | 2024-11-01 |
 | [Love Me](https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Grateful](https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ) | 2:16 | 2024-09-27 | 2024-10-04 |

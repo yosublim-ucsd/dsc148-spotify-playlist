@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-906 songs - 2 day 3 hr 26 min
+907 songs - 2 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-24 | 2022-11-20 |
 | [4D](https://open.spotify.com/track/2v4bGopODBEOQqWzg31R2s) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Ryan Coss](https://open.spotify.com/artist/22TzutcnmM3B1e7mWLY0f7) | [4D](https://open.spotify.com/album/7dPYE1Uoic9mBMFgwcqPaR) | 2:56 | 2024-01-08 | 2024-04-02 |
 | [505](https://open.spotify.com/track/3KHdPiJC74XETgP6lCce3S) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Guilt Chip](https://open.spotify.com/artist/1PWCOmvvW8kVMRvPDyLC2P) | [505](https://open.spotify.com/album/7o2wHfozPCR2KuIWE6q4at) | 3:00 | 2022-05-30 | 2022-08-11 |
+| [99 Octane](https://open.spotify.com/track/58HDy7QoiDCFZG9sxTxRfN) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Monstercat x Hospital Records](https://open.spotify.com/album/15NgKtJaUrVVJ7UwvtWtiO) | 2:59 | 2025-01-31 |  |
 | [A Cause And Effect](https://open.spotify.com/track/2hR48fmeaUy2AHrcbznrvB) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:40 | 2022-10-29 | 2023-01-19 |
 | [A Cookie From Space](https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [A Cookie From Space](https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G) | 10:19 | 2022-07-07 | 2022-09-17 |
 | [A Game Of Fairies](https://open.spotify.com/track/2rvY72BOiaKVatWch8DT4b) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [A Game Of Fairies](https://open.spotify.com/album/4aW2r0pFeRUDuo3OvRchGk) | 3:56 | 2023-09-05 | 2024-01-11 |

@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 274000,
       "name": "Afraid to Be Brave",
       "url": "https://open.spotify.com/track/6T9pSO14FVxPxw1ZROhJJM"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 145877,
       "name": "Albatross Sunset",
       "url": "https://open.spotify.com/track/1EQnfd2pbVtxYK5wrK9jw5"
@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Changeless",
+        "url": "https://open.spotify.com/album/4JHie1I2y4Ub4vA5Tt4bpi"
+      },
+      "artists": [
+        {
+          "name": "Tom Anello",
+          "url": "https://open.spotify.com/artist/4vk7AwwGqVSHkpMeZOyxmM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Changeless",
+      "url": "https://open.spotify.com/track/2M2qCttg4c49ibeTGqXw9R"
+    },
+    {
+      "album": {
         "name": "Where Myth Becomes Memory",
         "url": "https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO"
       },
@@ -1329,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Father Fiction",
+        "url": "https://open.spotify.com/album/4lAXRkLNm0BtvrfQA40HnH"
+      },
+      "artists": [
+        {
+          "name": "Jaye Jayle",
+          "url": "https://open.spotify.com/artist/6LHzi75h2Pew5JRGmUluEh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310933,
+      "name": "Father Fiction",
+      "url": "https://open.spotify.com/track/4sbYqPuSH7w7j0Nq6P98Of"
+    },
+    {
+      "album": {
         "name": "Festina Lente",
         "url": "https://open.spotify.com/album/6aL7jzlucXGRg7t6Z5tri5"
       },
@@ -1730,7 +1766,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 106826,
       "name": "Horizons - Live at Trading Boundaries",
       "url": "https://open.spotify.com/track/6s0FpwrEl7LtG1A85QPzLR"
@@ -2308,7 +2344,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 256173,
       "name": "Like The Phoenix I Will Rise",
       "url": "https://open.spotify.com/track/2Yqstc9lDyjfB77XM4uUSC"
@@ -3130,7 +3166,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 236674,
       "name": "Revelation: The Infinite Beauty Of Oneness",
       "url": "https://open.spotify.com/track/71U2oAgK3YRWsSG1Lz9NGa"
@@ -3278,6 +3314,24 @@
       "duration_ms": 397981,
       "name": "Roulette Dares (The Haunt Of) - Unfinished Original Recordings Of De-Loused In The Comatorium",
       "url": "https://open.spotify.com/track/72n2oDjYMs6kK9jKIIkY5k"
+    },
+    {
+      "album": {
+        "name": "An Evening Of Yes Music Plus (Live, Shoreline Amphitheatre, California, 1989) [2025 Remaster]",
+        "url": "https://open.spotify.com/album/2YTsxE5iBfQUff95KuOy3j"
+      },
+      "artists": [
+        {
+          "name": "Anderson Bruford Wakeman Howe",
+          "url": "https://open.spotify.com/artist/2XTWgA3XVWe1N4qWBTNQei"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519333,
+      "name": "Roundabout - (Live, Shoreline Amphitheatre, California, 1989) [2025 Remaster]",
+      "url": "https://open.spotify.com/track/5hnfi1rWf003uNGG4JN1KK"
     },
     {
       "album": {
@@ -3581,6 +3635,28 @@
     },
     {
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/115SM9kfY0bkenmPMCpHiO"
+      },
+      "artists": [
+        {
+          "name": "Andy Summers",
+          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
+        },
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/4VHthyOaUOGjNvbOifE7eY"
+    },
+    {
+      "album": {
         "name": "Snowman",
         "url": "https://open.spotify.com/album/5ieh61odYrWymguX8YM3GK"
       },
@@ -3646,7 +3722,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 225125,
       "name": "Someone Who Can",
       "url": "https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K"
@@ -3838,7 +3914,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 209080,
       "name": "Street Midnight Vibe",
       "url": "https://open.spotify.com/track/7HJol5wD13TW4okLuG4OBB"
@@ -4769,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Journey to Voltus B",
+        "url": "https://open.spotify.com/album/4EyOqCekFh9eo81mgeXMgH"
+      },
+      "artists": [
+        {
+          "name": "HENGE",
+          "url": "https://open.spotify.com/artist/5R09pajxQjiwdUH6Fw4yM5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334960,
+      "name": "Welcome To Voltus",
+      "url": "https://open.spotify.com/track/0kTITl59lp4vgZONiQbscP"
+    },
+    {
+      "album": {
         "name": "Western Atmosphere",
         "url": "https://open.spotify.com/album/0N7kbuc84YoO4AzfMwQ4qk"
       },
@@ -4932,6 +5026,24 @@
       "duration_ms": 310066,
       "name": "\u00a73",
       "url": "https://open.spotify.com/track/72U6mVliG329C2zGWxDNte"
+    },
+    {
+      "album": {
+        "name": "\u65cb\u5f8b\u8ff7\u5bae",
+        "url": "https://open.spotify.com/album/2qCP80SUHbX3YHF2GUhzme"
+      },
+      "artists": [
+        {
+          "name": "BIGMAMA",
+          "url": "https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193033,
+      "name": "\u65cb\u5f8b\u8ff7\u5bae",
+      "url": "https://open.spotify.com/track/1qVHRVk9Is0nQfO9RZhiLd"
     },
     {
       "album": {

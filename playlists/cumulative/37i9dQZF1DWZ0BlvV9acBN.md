@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rodolfo Abrantes
 
-178 songs - 13 hr 46 min
+179 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 | 2022-09-02 | 2024-08-10 |
 | [Acredita \(Legado\)](https://open.spotify.com/track/7uqo88bv78vsNOmSwEpgLP) | [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl) | [Novo Som \(Legado\)](https://open.spotify.com/album/70s9Abr9QOsXPlXu9cx0og) | 4:01 | 2024-06-21 | 2024-11-23 |
 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 | 2022-09-02 | 2024-08-31 |
-| [All Your Days](https://open.spotify.com/track/40J1TaiS7nLpfHbF0SBL4K) | [Allos](https://open.spotify.com/artist/22oyZI0CrBWBe7eHVd9LP1), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [All Your Days](https://open.spotify.com/album/43BrpODFYQ5nhPUL8mrtuG) | 4:50 | 2024-08-16 |  |
+| [All Your Days](https://open.spotify.com/track/40J1TaiS7nLpfHbF0SBL4K) | [Allos](https://open.spotify.com/artist/22oyZI0CrBWBe7eHVd9LP1), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [All Your Days](https://open.spotify.com/album/43BrpODFYQ5nhPUL8mrtuG) | 4:50 | 2024-08-16 | 2025-02-01 |
 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 | 2022-09-02 | 2024-06-08 |
 | [Apocalipse](https://open.spotify.com/track/38kTsofFJ5HWEbYRvysdJw) | [Katsbarnea](https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt) | [No Ritmo da Vida, Vol\. 2](https://open.spotify.com/album/5npqpfuqnZuPm3GuMbeXyq) | 6:45 | 2024-11-15 |  |
 | [Artifício](https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3) | [Artifício](https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC) | 3:12 | 2022-09-02 | 2023-04-16 |
@@ -92,6 +92,7 @@
 | [João 1 \- VEC](https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be) | 4:18 | 2023-05-05 | 2024-04-19 |
 | [justiça, paz, alegria](https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY), [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4) | [justiça, paz, alegria](https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS) | 4:30 | 2022-09-02 | 2022-10-08 |
 | [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 | 2022-10-14 | 2023-05-06 |
+| [Leva\-Me Além \(One ao Vivo\)](https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw), [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Leva\-Me Além \(One ao Vivo\)](https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L) | 3:00 | 2025-01-31 |  |
 | [Livre Sou](https://open.spotify.com/track/62aGtaEunlFAd8HagOBeWx) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Livre Sou](https://open.spotify.com/album/28NPgRLhM0u0UiIQnTvUKd) | 3:26 | 2023-03-24 | 2023-05-20 |
 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 | 2022-09-02 |  |
 | [Luz \- Ao Vivo](https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Luz \(Ao Vivo\)](https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF) | 3:40 | 2022-09-02 | 2023-05-20 |

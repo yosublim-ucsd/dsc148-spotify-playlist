@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 678046,
+  "num_followers": 678060,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAChYNdeBbSX8aovtLi3+ztc",
+  "snapshot_id": "Z5rBAAAAAACQVT5Kje6WAhEgfgxnw0nc",
   "tracks": [
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Dat Money (with Cardi B) (Alternate Versions)",
-        "url": "https://open.spotify.com/album/1wX65Zm7U60cwcPX4ouMuK"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "On Dat Money (with Cardi B)",
-      "url": "https://open.spotify.com/track/0mqpGFcwWR8Jv3PGN87uT5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 281112,
       "name": "Bitter - Narration By Cardi B",
       "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Dat Money (with Cardi B) (Alternate Versions)",
+        "url": "https://open.spotify.com/album/1wX65Zm7U60cwcPX4ouMuK"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "On Dat Money (with Cardi B)",
+      "url": "https://open.spotify.com/track/0mqpGFcwWR8Jv3PGN87uT5"
     },
     {
       "added_at": null,

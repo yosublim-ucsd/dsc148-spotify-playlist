@@ -4,7 +4,7 @@
 
 > Det bedste nye pop: Christopher
 
-335 songs - 17 hr 3 min
+336 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Lonely Heat](https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Lonely Heat](https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2) | 3:10 | 2025-01-02 | 2025-01-17 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-27 | 2024-11-08 |
 | [Lose A You](https://open.spotify.com/track/4MnwCK9oVKd5tFAS650iV2) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Lose A You](https://open.spotify.com/album/2DZhu7U1X56ajbmvwUb1on) | 3:09 | 2025-01-30 |  |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 |  |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-30 |  |
 | [LOVE ME MORE](https://open.spotify.com/track/3Vo4iueKVM9o2BurvSJagg) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [LOVE ME MORE](https://open.spotify.com/album/1rruN0RVM5GRpYwaLXZLoR) | 2:46 | 2024-06-27 | 2024-07-30 |
 | [Love, Come Down](https://open.spotify.com/track/5QN5EEA03w34Ukygz7ujwJ) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [And Then There Were Flowers](https://open.spotify.com/album/4cuKGmOVKXQRTb7Y2gQ15J) | 3:30 | 2024-06-27 | 2024-07-30 |

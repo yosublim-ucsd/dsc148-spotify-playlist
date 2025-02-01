@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 69917,
+  "num_followers": 69924,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAADwo97aK1faTxB687Wu+9Jz",
+  "snapshot_id": "Z5rBAAAAAAC4g6x4ZwNXTjZp3XPDavqw",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Ense\u00f1ame",
+      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 229500,
-      "name": "Ense\u00f1ame",
-      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
       "duration_ms": 233625,
       "name": "ZAFIRO (feat. Pablo Hurtado)",
       "url": "https://open.spotify.com/track/6taOvxRUBWYuO2n0NUWAyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Nuestro Pasado",
-      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Junto A Ti",
         "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 193922,
       "name": "Junto A Ti",
       "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Nuestro Pasado",
+      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 197134,
+      "name": "Promesas de Amor",
+      "url": "https://open.spotify.com/track/68dsfSoqApgPqSdqFTSJAA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DECIRTE LO QUE SIENTO",
         "url": "https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 197134,
-      "name": "Promesas de Amor",
-      "url": "https://open.spotify.com/track/68dsfSoqApgPqSdqFTSJAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belico Enamorado",
         "url": "https://open.spotify.com/album/2ilPgl6MS3GAR9IOsJ75Qo"
       },
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+      "duration_ms": 259558,
+      "name": "Respuestas",
+      "url": "https://open.spotify.com/track/4xF6lmeRyJYneEzL84XTvr"
     }
   ],
   "unique_name": "This Is DannyLux",

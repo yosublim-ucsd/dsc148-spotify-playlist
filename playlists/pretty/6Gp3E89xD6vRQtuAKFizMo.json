@@ -1,13 +1,81 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44210,
+  "num_followers": 44208,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ1RP6VbKKHhgo86xMl7nZFQYeOLWM",
+  "snapshot_id": "AAAZ2A8/ZwykSir4W7sop/3G7y2/w4tM",
   "tracks": [
+    {
+      "added_at": "2025-01-31 15:29:18",
+      "album": {
+        "name": "My Life (ft. Swae Lee & PnB Rock)",
+        "url": "https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "My Life (ft. Swae Lee & PnB Rock)",
+      "url": "https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b"
+    },
+    {
+      "added_at": "2025-01-31 15:31:53",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "added_at": "2025-01-31 15:29:10",
+      "album": {
+        "name": "Pecadora",
+        "url": "https://open.spotify.com/album/58lHkFd6stmMU1v2Bz3Fro"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 170634,
+      "name": "Pecadora",
+      "url": "https://open.spotify.com/track/4zDcTEkfMzfoca4Ddo4lRe"
+    },
     {
       "added_at": "2025-01-24 14:55:15",
       "album": {

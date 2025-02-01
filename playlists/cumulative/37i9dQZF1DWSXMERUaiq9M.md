@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-443 songs - 1 day 4 hr 13 min
+444 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Get Shaky](https://open.spotify.com/track/267DliVFe67u89luc9v6UD) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/11Xrum0ysuitc8vtBrlmQM) | 3:57 | 2023-08-25 | 2024-04-19 |
 | [Get Shaky](https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD) | 3:57 | 2023-03-10 | 2023-08-23 |
 | [Ghzelian](https://open.spotify.com/track/33dQ1rm0MBUvoRRWJngBpw) | [Lady Starlight](https://open.spotify.com/artist/0eoS0xkD1JAXJIEQi766Mf) | [Ghzelian](https://open.spotify.com/album/1Hmb3Wm0vqW6hqqlROGKVQ) | 5:57 | 2023-08-01 | 2023-08-05 |
-| [Give Me Your Love \(Baby\)](https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE) | [Give Me Your Love \(Baby\)](https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U) | 2:16 | 2023-05-26 |  |
+| [Give Me Your Love \(Baby\)](https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE) | [Give Me Your Love \(Baby\)](https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U) | 2:16 | 2023-05-26 | 2025-02-01 |
 | [Global BBs](https://open.spotify.com/track/0HL34cP8CEovMTUKcjkcZr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [Tootsie Pop](https://open.spotify.com/album/4EDYffZjJHQq6BOIPUSCKJ) | 5:14 | 2023-06-15 | 2023-06-23 |
 | [Go Slow](https://open.spotify.com/track/3pUdwCa5PmX0VrgED0GJ9v) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c), [MCYL](https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr) | [Go Slow](https://open.spotify.com/album/2dAyGQEbIQUzHFdlPuzrIm) | 5:20 | 2024-10-17 | 2024-10-26 |
 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 | 2023-03-10 | 2024-06-01 |
@@ -425,6 +425,7 @@
 | [Waited All Night \- Nia Archives Remix](https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night \(Nia Archives Remix\)](https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5) | 3:09 | 2024-12-09 | 2025-01-15 |
 | [Wake The F Up](https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wake The F Up](https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj) | 2:20 | 2024-11-11 |  |
 | [Walking Alone](https://open.spotify.com/track/1YHcwgrbsYdyyAFYiW8MNN) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Walking Alone](https://open.spotify.com/album/4vVG1aL4wDWz1dpJTMTNfD) | 3:09 | 2023-05-05 | 2023-05-11 |
+| [Want My Love](https://open.spotify.com/track/2MNZoKTpk2jYMIjTKihdaH) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [WOLTERS](https://open.spotify.com/artist/3gWrhUgsZptXzw4SHZUgOl) | [Want My Love](https://open.spotify.com/album/65K88KCZBgjznXdSfCUxeE) | 3:18 | 2025-01-30 |  |
 | [Wasting My Time](https://open.spotify.com/track/3jMH2HPknbxm6tVC1OySSJ) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Wasting My Time](https://open.spotify.com/album/4b4sE5JJHgFlXwN4CKbzkQ) | 2:05 | 2024-10-25 | 2024-11-12 |
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-03-10 | 2024-04-19 |
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA) | 3:56 | 2024-04-18 |  |

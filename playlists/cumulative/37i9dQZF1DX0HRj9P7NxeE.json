@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 141686,
       "name": "Bahm Bahm",
       "url": "https://open.spotify.com/track/2pwC49pIHyJKmbhlGa3lqL"
@@ -634,6 +634,28 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
     {
       "album": {
@@ -1089,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Music Money Magnums",
+        "url": "https://open.spotify.com/album/37cpLEf1EritpeINZXICAK"
+      },
+      "artists": [
+        {
+          "name": "Travis Porter",
+          "url": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234292,
+      "name": "Cake (Lil Stripper Girls)",
+      "url": "https://open.spotify.com/track/4Ag9DW3jRCwuK9vZyRfPWK"
+    },
+    {
+      "album": {
         "name": "CAN'T TELL ME NOTHING",
         "url": "https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi"
       },
@@ -1508,6 +1548,32 @@
       "duration_ms": 171428,
       "name": "Drop (feat. DaBaby)",
       "url": "https://open.spotify.com/track/6Ht7wDd0wi2wPDLde7m1Gr"
+    },
+    {
+      "album": {
+        "name": "Dumb Crasy (Remix)",
+        "url": "https://open.spotify.com/album/4b1ngzO1CEwu6ivGw1LFSJ"
+      },
+      "artists": [
+        {
+          "name": "So Supa",
+          "url": "https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP"
+        },
+        {
+          "name": "Tre Loaded",
+          "url": "https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124117,
+      "name": "Dumb Crasy (Remix)",
+      "url": "https://open.spotify.com/track/3EAJCeqLEzhVgzRGIoIdl0"
     },
     {
       "album": {
@@ -2342,7 +2408,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 95199,
       "name": "He Think I Love Him",
       "url": "https://open.spotify.com/track/4B4LyF5ggC87E7JWAyF9HZ"
@@ -3928,7 +3994,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"

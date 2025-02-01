@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,277 songs - 2 day 17 hr 47 min
+1,280 songs - 2 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [All the Animals I Drew as a Kid](https://open.spotify.com/track/3u2jRaRg7kfD6D6LLEo1d9) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 4:04 | 2020-12-12 | 2021-01-27 |
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-26 | 2023-09-29 |
 | [Alonica](https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:58 | 2023-09-28 | 2024-04-19 |
-| [Alonica](https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu) | 3:58 | 2024-04-19 |  |
+| [Alonica](https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu) | 3:58 | 2024-04-19 | 2025-02-01 |
 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 | 2023-07-08 | 2023-10-02 |
 | [already homesick](https://open.spotify.com/track/1hCxLetka2FvYWqD7PKLo3) | [Moira Bren](https://open.spotify.com/artist/422xP5Q6bsAN0oE1abWA9r) | [already homesick](https://open.spotify.com/album/1CxvZ6ZrNma1OHi8AIHJeG) | 2:29 | 2021-05-29 | 2021-10-02 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-25 |  |
@@ -319,6 +319,7 @@
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-12-15 |  |
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2021-10-30 | 2022-02-19 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 |  |
+| [Earthstar](https://open.spotify.com/track/12HfxXiDIpdYiD1h2AqHCX) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75) | 4:03 | 2025-01-31 |  |
 | [Easier Said Than Done](https://open.spotify.com/track/6oAD3YoVRl1RsNfVsBTmM9) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Easier Said Than Done](https://open.spotify.com/album/2jQYIG9wE9pArx2ZQUXnvn) | 3:45 | 2021-02-06 | 2021-02-13 |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-06-28 |  |
 | [Easy](https://open.spotify.com/track/4VHd2JFgcpgYOvJWP2D1aX) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Easy](https://open.spotify.com/album/2NjGLwVlQxVHSHNGSJMTMh) | 3:23 | 2020-10-29\* | 2021-02-19 |
@@ -673,6 +674,7 @@
 | [lie lie lie \- remix](https://open.spotify.com/track/2Dfgq5js5WVXSzpITCQhMT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [lie lie lie \(remix\)](https://open.spotify.com/album/36PtN8Dq0m9QSBPxM4lDIY) | 2:56 | 2022-06-03 | 2022-06-14 |
 | [Lifeboat](https://open.spotify.com/track/06XGDc22UJpDDA1WI9GM3x) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Lifeboat](https://open.spotify.com/album/4Sz4hLn5aObR6KNvr9vyyc) | 2:37 | 2022-01-07 | 2022-03-15 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-05-03 | 2021-07-17 |
+| [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 | 2025-01-31 |  |
 | [Like You](https://open.spotify.com/track/4yiMS4JDFR8XgfZqhxtTwg) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Like You](https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval) | 3:04 | 2021-07-04 | 2021-10-02 |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-07 |  |
 | [Liquor Store](https://open.spotify.com/track/17NlAopmbL9vdVKR8nSfbz) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liquor Store](https://open.spotify.com/album/3WzePV4wHBijHcoFKLyDrE) | 2:52 | 2021-07-24 | 2021-09-11 |
@@ -776,7 +778,7 @@
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-06-04 |
 | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/album/1nzeHtYhJ5vVJ0EvhoJ3JT) | 2:51 | 2022-04-08 | 2023-03-18 |
 | [Nicer](https://open.spotify.com/track/3mL3jFNJ2irVn02EdkYBu2) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer](https://open.spotify.com/album/51HQqGdM5M4BBvSHEKaffN) | 3:22 | 2021-09-25 | 2022-01-08 |
-| [Night Out](https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Night Out](https://open.spotify.com/album/7JRop3GXWnHT9rakkGrUgW) | 3:11 | 2023-07-08 |  |
+| [Night Out](https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Night Out](https://open.spotify.com/album/7JRop3GXWnHT9rakkGrUgW) | 3:11 | 2023-07-08 | 2025-02-01 |
 | [Nikes On](https://open.spotify.com/track/5z14e4rPImlgk40W33dt0U) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Nikes On](https://open.spotify.com/album/1g3OgxosiUiccwisdf8mI1) | 2:42 | 2020-10-29\* | 2021-01-21 |
 | [No Excuses](https://open.spotify.com/track/2K5j1aGJAIrPmyQTGn9C8Q) | [Taylor Waters](https://open.spotify.com/artist/4NAFc6jrwULBe2e70H35hv) | [No Excuses](https://open.spotify.com/album/0FAmQKR7N48JI3PewLo5tT) | 2:51 | 2021-05-15 | 2021-09-11 |
 | [NO HALO](https://open.spotify.com/track/2UDmpdnADZIOYzKePhsIo7) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [NO HALO](https://open.spotify.com/album/5OmFuJ0OkD55KqjrgnULTy) | 3:07 | 2021-10-16 | 2021-10-30 |
@@ -918,6 +920,7 @@
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-16 | 2024-06-29 |
 | [riptide](https://open.spotify.com/track/42Da30giIkPsirgWn3qMDP) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [XXI](https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n) | 3:32 | 2023-03-03 | 2024-01-27 |
 | [Riptides](https://open.spotify.com/track/1Q5uObiF2oDd2twHfrWkyo) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [Riptides](https://open.spotify.com/album/35cAoLzarmlGmEUw56xlNs) | 3:18 | 2021-09-25 | 2022-01-15 |
+| [Rodeo](https://open.spotify.com/track/3AK1IvwhjvgOAWhl7wuhe6) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Rodeo](https://open.spotify.com/album/6RDWlOjG7KfF1vKnqXr77Z) | 3:48 | 2025-01-31 |  |
 | [Room in the Desert](https://open.spotify.com/track/0dWNMfDfQaEayowTkCSXj8) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Room in the Desert](https://open.spotify.com/album/0Cyk0SwGH4voYoT9o10U74) | 2:57 | 2022-01-21 | 2022-04-16 |
 | [Room in the Desert](https://open.spotify.com/track/5wZxGQh0gAqgbYtII4ql37) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 2:57 | 2022-04-15 | 2022-04-23 |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2021-02-27 | 2021-05-29 |
@@ -1025,7 +1028,7 @@
 | [Spaces](https://open.spotify.com/track/3hp1e4Mm39vTVzvOX31eoX) | [NOA](https://open.spotify.com/artist/5OaWY1HjWremIVRztYS1xG) | [Spaces](https://open.spotify.com/album/6OuAY7abyACgRxEjegUJ2p) | 3:03 | 2022-04-08 | 2022-06-18 |
 | [Speed Limit](https://open.spotify.com/track/5H9eBKo5OzRd5ZM2gUZi7G) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Speed Limit](https://open.spotify.com/album/1vNulNcXEtPoU2ZUNE9sO6) | 3:26 | 2021-11-20 | 2022-03-26 |
 | [Spinning](https://open.spotify.com/track/0R6pHybIu4aJA6gJEJgRbc) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Spinning](https://open.spotify.com/album/6dKyD7dQTcNnSYSoedettQ) | 3:08 | 2021-04-10 | 2021-07-04 |
-| [Spiral](https://open.spotify.com/track/1dnmBmlyBF1v7UYlAgJWEp) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Spiral](https://open.spotify.com/album/0PLx4669vGJx92xUDGO893) | 3:57 | 2025-01-10 |  |
+| [Spiral](https://open.spotify.com/track/1dnmBmlyBF1v7UYlAgJWEp) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Spiral](https://open.spotify.com/album/0PLx4669vGJx92xUDGO893) | 3:57 | 2025-01-10 | 2025-02-01 |
 | [Spirits](https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c) | [Sylo Nozra](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spirits](https://open.spotify.com/album/546Fl3Gns3Fttgm5bdRO1Y) | 3:14 | 2021-04-17 | 2021-05-22 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-12 | 2024-05-18 |
 | [Sponges \(feat\. Yuki Dreams Again\)](https://open.spotify.com/track/3vbncj6w2VZRdGNa5H8u5h) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ), [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Sponges \(feat\. Yuki Dreams Again\)](https://open.spotify.com/album/04iVPsioBbQ9OyofuMhV7E) | 3:13 | 2024-03-15 |  |

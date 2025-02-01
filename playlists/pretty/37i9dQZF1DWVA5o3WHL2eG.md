@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,071 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,074 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,19 +17,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Whine](https://open.spotify.com/track/17oiBKFtiAfnRqqZMChngT) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Whine](https://open.spotify.com/album/189vyuLhrhYsxLIkqvQuFR) | 2:19 |
 | 8 | [Bestie](https://open.spotify.com/track/48gVZLYmMtVBihea1suHD4) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Bestie](https://open.spotify.com/album/4BaH1nl12hQphpeVd6Zzot) | 1:59 |
 | 9 | [La La La](https://open.spotify.com/track/2sjDZ02lwMYJCGIt3DQNXU) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [La La La](https://open.spotify.com/album/0BE6qA3OxYQUxASa9OLtYh) | 2:12 |
-| 10 | [Sternenstaub](https://open.spotify.com/track/6B2IajMM3LN55Sz6nOFCkI) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sternenstaub](https://open.spotify.com/album/7cXtMQMeaqtkvUgt4TDNyN) | 2:01 |
-| 11 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 |
-| 12 | [cupped and open](https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [cupped and open](https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT) | 3:56 |
-| 13 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
+| 10 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 |
+| 11 | [Sternenstaub](https://open.spotify.com/track/6B2IajMM3LN55Sz6nOFCkI) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sternenstaub](https://open.spotify.com/album/7cXtMQMeaqtkvUgt4TDNyN) | 2:01 |
+| 12 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
+| 13 | [cupped and open](https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [cupped and open](https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT) | 3:56 |
 | 14 | [wieder...](https://open.spotify.com/track/5kTnSpJcoPBQqRN4uAAYjo) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [wieder...](https://open.spotify.com/album/0JluPYAL8XoKpiRFF3M8uS) | 3:06 |
-| 15 | [Ecstasy](https://open.spotify.com/track/1QamciEC8PCXXZbV4hHiI1) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Ecstasy](https://open.spotify.com/album/2IKhm1hfAexFjpEVvZs6E7) | 2:34 |
-| 16 | [Juli](https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Juli](https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR) | 3:09 |
+| 15 | [Juli](https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Juli](https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR) | 3:09 |
+| 16 | [Ecstasy](https://open.spotify.com/track/1QamciEC8PCXXZbV4hHiI1) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Ecstasy](https://open.spotify.com/album/2IKhm1hfAexFjpEVvZs6E7) | 2:34 |
 | 17 | [Ich liebe dich evtl\. für immer \- Single Edit](https://open.spotify.com/track/1ygR7zkMJhzxedI0ZBK9W3) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Ich liebe dich evtl\. für immer](https://open.spotify.com/album/3Dt4bErKiNZjRvYexYp7z7) | 3:34 |
 | 18 | [as I left the room](https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [as I left the room](https://open.spotify.com/album/3T44mRmcd7Hc5sOXljOcPe) | 3:56 |
 | 19 | [dafür oder dagegen](https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [dafür oder dagegen](https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V) | 3:03 |
 | 20 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
-| 21 | [Heal Me](https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Heal Me](https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h) | 3:35 |
-| 22 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
+| 21 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
+| 22 | [Heal Me](https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Heal Me](https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h) | 3:35 |
 | 23 | [Jungle Of Abundance](https://open.spotify.com/track/7cDL31s4Hws6Nvp85ymghW) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Jungle Of Abundance](https://open.spotify.com/album/59XzzmYsdKl2CjZ5Usiozh) | 3:43 |
 | 24 | [irgendwer](https://open.spotify.com/track/6ytgQodHGwKDK07bJAuKil) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [irgendwer](https://open.spotify.com/album/6nwQZBtgTsMTBoMDxpEj2y) | 2:48 |
 | 25 | [White Lies](https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [White Lies](https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq) | 2:29 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [drive song](https://open.spotify.com/track/5P7wdPjXNgRMf6dSmz9vRZ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [drive song](https://open.spotify.com/album/1YyK1u60qqNCpXYi54crDJ) | 3:27 |
 | 35 | [KCAL \(TW\)](https://open.spotify.com/track/457GMvtbJCYl6oCDfchuOR) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [KCAL \(TW\)](https://open.spotify.com/album/4z2gSwmnFBbykzTkTFWr6T) | 2:23 |
 | 36 | [Hand](https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Hand](https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5) | 2:59 |
-| 37 | [ironic](https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl) | [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [ironic](https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f) | 3:01 |
-| 38 | [F.u.K.](https://open.spotify.com/track/7uFQeCq21HqvO9aZTw5Soz) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [X\-RATED feelings](https://open.spotify.com/album/6P5qJlQ5ToYafABrTVGhmt) | 2:12 |
+| 37 | [F.u.K.](https://open.spotify.com/track/7uFQeCq21HqvO9aZTw5Soz) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [X\-RATED feelings](https://open.spotify.com/album/6P5qJlQ5ToYafABrTVGhmt) | 2:12 |
+| 38 | [ironic](https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl) | [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [ironic](https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f) | 3:01 |
 | 39 | [Wir sind echt](https://open.spotify.com/track/1wBtQwr4yrYtjfSfAlXxNr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Wir sind echt](https://open.spotify.com/album/27xDRNsdenJ6Ia7lfI6MQV) | 1:52 |
 | 40 | [NaNa](https://open.spotify.com/track/4pSZYGmnsjcLEniwabBIWh) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [MAILAN](https://open.spotify.com/album/2y6FwrOK0kzJmSJCcyf6ud) | 2:21 |
 | 41 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 |
 | 42 | [Toxic](https://open.spotify.com/track/3EYYbBB5CLsKKRqpXX89zI) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Lavender](https://open.spotify.com/album/2RL1a7v0ArbtsKRdwnrwKX) | 3:38 |
-| 43 | [Happier](https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Happier](https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul) | 2:58 |
-| 44 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |
+| 43 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |
+| 44 | [Happier](https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Happier](https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul) | 2:58 |
 | 45 | [Sailor Moon](https://open.spotify.com/track/1n6wX18QCB6Lv6EgnorRkz) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Sailor Moon](https://open.spotify.com/album/7c35rbKlLuKrsvLtu3L39x) | 2:39 |
 | 46 | [Was wir teilen](https://open.spotify.com/track/5K9nNE57PsVAVXzWDulAgs) | [Sovii](https://open.spotify.com/artist/6y73IbMKAfvV5eI88Q4oWA) | [Was wir teilen](https://open.spotify.com/album/38ooto3HOF8Q2JyT53bry1) | 2:27 |
 | 47 | [Newborn Baby](https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Newborn Baby](https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO) | 4:32 |

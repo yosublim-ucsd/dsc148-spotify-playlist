@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-817 songs - 1 day 19 hr 50 min
+819 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-01-21 |  |
 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 | 2022-06-02 |  |
 | [Headlines](https://open.spotify.com/track/3rCqxc1NxdXVDfQCszKuDL) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [Where Do We Go When The World Ends](https://open.spotify.com/album/0DrmVqgUtt708fY8IY15TJ) | 3:52 | 2022-08-26 |  |
+| [Heart Of Glass](https://open.spotify.com/track/21Kon123LdFyC2CXMiHVmd) | [Kingston Sound System](https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Heart Of Glass](https://open.spotify.com/album/6OqSPTRG6exv6YfzNKMCLQ) | 3:05 | 2025-01-31 |  |
 | [Heartbreaker](https://open.spotify.com/track/6ul0hMmJH9d9vAIIkt4MFT) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Heartbreaker](https://open.spotify.com/album/2DUDUbkcD1ZtD6QjkDjeOo) | 3:04 | 2023-04-21 |  |
 | [Hearts Too Big \- Acoustic](https://open.spotify.com/track/4DtIPkAIeyRM2flxx3fHdI) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Bad At Love \(Acoustic EP\)](https://open.spotify.com/album/51jgDkeQPnZiZ8eayzwsUA) | 3:15 | 2020-09-11 | 2021-01-29 |
 | [Heaven](https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Heaven](https://open.spotify.com/album/6EuPz5zzV6JLMZKrb7LIsu) | 2:33 | 2022-08-19 |  |
@@ -434,6 +435,7 @@
 | [Life's An Awful Mess](https://open.spotify.com/track/5Kpj5crTqla7FzjyGx1hzn) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Life's An Awful Mess](https://open.spotify.com/album/5sZYNeONj8owtbzfvoOyIW) | 3:08 | 2024-09-26 |  |
 | [Lifestyle](https://open.spotify.com/track/32z22TqvJ9YaFo2FAG78Sx) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [For Now…](https://open.spotify.com/album/72Zhf96qOiglgGKf8Q8Drv) | 2:19 | 2022-09-15 |  |
 | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/track/0yCPzPMUg3cJintNml4h6H) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/album/5ZQj7tgOar5vGfrYslvFMp) | 3:05 | 2024-01-18 |  |
+| [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 | 2025-01-31 |  |
 | [Limelight](https://open.spotify.com/track/3UCw3XXCyvCCr7eN9unWkS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Should We Go Dance?](https://open.spotify.com/album/0E4h4WNuQeqlXk0JTqvSVN) | 3:00 | 2023-07-14 |  |
 | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6XemQkX3lgqDC21nNdbdVw) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3WsN9dZsEjTvA1bBQF0nZc) | 2:46 | 2019-08-27\* | 2019-11-11 |
 | [Lipstick](https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lipstick](https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV) | 3:28 | 2023-08-18 |  |

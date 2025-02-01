@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: Love Scout(\ub098\uc758 \uc644\ubcbd\ud55c \ube44\uc11c)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: When the Stars Gossip(\ubcc4\ub4e4\uc5d0\uac8c \ubb3c\uc5b4\ubd10)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 256293,
       "name": "Always falling down",
       "url": "https://open.spotify.com/track/4eeoB2jKsPWkh1fXNOsa4G"
@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Answer (From \"Love Scout\" : Original Soundtrack) Part.7",
+        "url": "https://open.spotify.com/album/459U4cYP53NHpvVQnsn2qW"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225720,
+      "name": "Answer (From \"Love Scout\" : Original Soundtrack)",
+      "url": "https://open.spotify.com/track/3CSgBXi77r1Nv6Hu5fYX5G"
+    },
+    {
+      "album": {
         "name": "Anymore (Original Soundtrack from the Webtoon Fight For My Way)",
         "url": "https://open.spotify.com/album/2A6nEYKyCf7nF5uGlR24Ds"
       },
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 245647,
       "name": "Aroha",
       "url": "https://open.spotify.com/track/379mVtRxp0hHggT9gXHJQ0"
@@ -1096,6 +1114,24 @@
       "duration_ms": 258799,
       "name": "Ask Me Out",
       "url": "https://open.spotify.com/track/12VxAgB6wsdwxWoTNumEGh"
+    },
+    {
+      "album": {
+        "name": "Motel California OST Part.6",
+        "url": "https://open.spotify.com/album/473pXegY7siu9PQr4FtLw9"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Ask Out",
+      "url": "https://open.spotify.com/track/3EJx6NKYzEQaR2PL9DUZJQ"
     },
     {
       "album": {
@@ -1190,6 +1226,28 @@
       "duration_ms": 222753,
       "name": "Back Door",
       "url": "https://open.spotify.com/track/6nGDbTIv7jH4NJKpF435GD"
+    },
+    {
+      "album": {
+        "name": "STUDY GROUP (Music from the Tving Original Series), Pt. 1",
+        "url": "https://open.spotify.com/album/4jqceG6FGehJS2nyZPajIz"
+      },
+      "artists": [
+        {
+          "name": "SEOK MATTHEW",
+          "url": "https://open.spotify.com/artist/7D345EoOMCNCzcs3o4ycWO"
+        },
+        {
+          "name": "PARK GUNWOOK",
+          "url": "https://open.spotify.com/artist/6kFlCDPded459r82IXDAPt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177080,
+      "name": "BACK PACKER",
+      "url": "https://open.spotify.com/track/1qlKEWVnWXphYmpQ8DT3X4"
     },
     {
       "album": {
@@ -2751,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "When the Stars Gossip OST Part.3",
+        "url": "https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
+    },
+    {
+      "album": {
         "name": "Social Savvy Class 101 OST Part.5",
         "url": "https://open.spotify.com/album/1JGlWwjZflilU8AbBiPL2b"
       },
@@ -3018,7 +3094,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180413,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/0WaVVFv7QAtOubxlpMrDsR"
@@ -5693,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "STUDY GROUP (Music from the Tving Original Series), Pt. 2",
+        "url": "https://open.spotify.com/album/0VjLYNDtj1TgWyvex5GgD9"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Hollo",
+      "url": "https://open.spotify.com/track/2FzuLPNILEvqazVEoR5uWn"
+    },
+    {
+      "album": {
         "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv"
       },
@@ -6919,6 +7013,24 @@
     },
     {
       "album": {
+        "name": "Love Interference 2025 (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/6aAjwFpRXUgLmGQix1iej2"
+      },
+      "artists": [
+        {
+          "name": "2NB",
+          "url": "https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184632,
+      "name": "I'm Again You",
+      "url": "https://open.spotify.com/track/0yimDXVghYujfJrDDaIC6s"
+    },
+    {
+      "album": {
         "name": "Crazy Love (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/46l3dmaoKKZey0eBG9whW1"
       },
@@ -7460,7 +7572,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 198986,
       "name": "It's about you",
       "url": "https://open.spotify.com/track/0j4992GwPN275tKLjTm2vI"
@@ -7496,7 +7608,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 198535,
       "name": "It's always you",
       "url": "https://open.spotify.com/track/4KmoRzNKciAeB3P95f3kNC"
@@ -7580,6 +7692,24 @@
       "duration_ms": 268466,
       "name": "It's Up To You",
       "url": "https://open.spotify.com/track/3QbiluNxFQwPJQ9LKNxdKy"
+    },
+    {
+      "album": {
+        "name": "Who Is She OST Part.11",
+        "url": "https://open.spotify.com/album/5zxllTRuagimNH4fdjGcr4"
+      },
+      "artists": [
+        {
+          "name": "Jung Zi So",
+          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240026,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/5M8uKeqrUdzu0GH3uXydWo"
     },
     {
       "album": {
@@ -8622,6 +8752,24 @@
       "duration_ms": 237106,
       "name": "Like A Fire",
       "url": "https://open.spotify.com/track/4r5yP2Idjw4nULXbDsXLJs"
+    },
+    {
+      "album": {
+        "name": "Like a Moonlight (From \"Love Scout\" : Original Soundtrack) Part.6",
+        "url": "https://open.spotify.com/album/2xy1XC7vqrESaz9zrq37cn"
+      },
+      "artists": [
+        {
+          "name": "Jin Hyojeong",
+          "url": "https://open.spotify.com/artist/4o4l3PwsdtCGA94n5dMkMf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230223,
+      "name": "Like a Moonlight (From \"Love Scout\" : Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6M1STuba9Tkg01ns4q7epD"
     },
     {
       "album": {
@@ -10255,6 +10403,24 @@
     },
     {
       "album": {
+        "name": "The Queen Who Crowns OST Part.3",
+        "url": "https://open.spotify.com/album/2R22prFpAEhkn5unRy3buY"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283293,
+      "name": "My Dream, My Love",
+      "url": "https://open.spotify.com/track/2XU6mwelJymDUz2WfYv6xi"
+    },
+    {
+      "album": {
         "name": "Stock Struck (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/2Tcyhy7lWJUettMvfD43VJ"
       },
@@ -10566,7 +10732,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 176280,
       "name": "My Side",
       "url": "https://open.spotify.com/track/2bfRzTMJIeHnxa9JbpmHMi"
@@ -11888,7 +12054,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 231613,
       "name": "Possible Love",
       "url": "https://open.spotify.com/track/0nDZvVRzvd703Zq5JtqGQq"
@@ -11928,6 +12094,24 @@
       "duration_ms": 211066,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/29ycXqOUkbHJTs1YKUqe7S"
+    },
+    {
+      "album": {
+        "name": "The Queen Who Crowns OST Part.2",
+        "url": "https://open.spotify.com/album/4JaIECqzk9aBinqT0XDx3k"
+      },
+      "artists": [
+        {
+          "name": "Dabin Yu",
+          "url": "https://open.spotify.com/artist/0bDXcnhvDXxvYWU7GAZddx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/3aCyOW5t7mjTZSn4lxFn9o"
     },
     {
       "album": {
@@ -12530,7 +12714,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 230957,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/5AGCgmyeB9Slzhjidzhh06"
@@ -13107,6 +13291,24 @@
     },
     {
       "album": {
+        "name": "Motel California OST Part.5",
+        "url": "https://open.spotify.com/album/0M5gdfhPsi2g6FAoBWludH"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215653,
+      "name": "Smile for me",
+      "url": "https://open.spotify.com/track/6xDaCAazC3QiKNj2hpr4yM"
+    },
+    {
+      "album": {
         "name": "1000won Lawyer (Original Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/2x7tmqNda5Ag0SpPbf6z5I"
       },
@@ -13172,7 +13374,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 205520,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6ENyNuUsuuMQTYhF6bHYXI"
@@ -16048,7 +16250,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 218333,
       "name": "We Come Around",
       "url": "https://open.spotify.com/track/6hDA0eBK3IiY7zjMBJSlGK"
@@ -16290,7 +16492,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217400,
       "name": "What are we",
       "url": "https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX"

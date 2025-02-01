@@ -4,7 +4,7 @@
 
 > RRARI DAL TACCO e Kid Yugi in cover della playlist con il top dello street rap italiano ⛓️
 
-718 songs - 1 day 8 hr 58 min
+719 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [AMG](https://open.spotify.com/track/3vXCF2W05QjzgIcRfmuGdq) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [AMG](https://open.spotify.com/album/253q9ai7SJzI4JxMAKtTN6) | 2:29 | 2023-07-13 | 2023-09-22 |
 | [Amigo \(feat\. Néza\)](https://open.spotify.com/track/3noL2g1plR2OC4fSk4Wu5m) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Ninho De La Calle](https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB) | 2:11 | 2024-02-29 | 2024-06-14 |
 | [AMMÒ \(feat\. Mikush\)](https://open.spotify.com/track/3XlqB2sJGExXgkA0RSRy1R) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 2:33 | 2023-03-24 | 2023-04-07 |
+| [Amore Criminel \(feat\. Baby Gang\)](https://open.spotify.com/track/6WXq91US4VUR2upNlPR0Pz) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [MARTIRE](https://open.spotify.com/album/1oPNcyNaxXsXid3saN3bUO) | 2:47 | 2025-01-31 |  |
 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 | 2023-08-03 | 2024-02-09 |
 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 | 2023-05-04 | 2023-08-04 |
 | [Another One](https://open.spotify.com/track/4hpUZMxbeUWgFUoy30K00o) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz) | [Another One](https://open.spotify.com/album/44Qx6sP7zs2CRCm44X7Es2) | 2:48 | 2024-06-20 | 2024-07-12 |

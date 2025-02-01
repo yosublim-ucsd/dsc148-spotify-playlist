@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-350 songs - 19 hr 12 min
+353 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Losing My Accent](https://open.spotify.com/track/4rtkkDNw7izI5vfi9uALVl) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Losing My Accent](https://open.spotify.com/album/1qFfHTdZOBT3PfwsA2lutL) | 2:36 | 2024-07-12 | 2024-08-17 |
 | [Lost in a Dream \- Live From The Parking Garage](https://open.spotify.com/track/4iSUhzq7mthTnlD9klr2MN) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream \(Live From The Parking Garage\)](https://open.spotify.com/album/1vYI47sNRlvhOwHhJipSKB) | 3:35 | 2024-06-07 | 2024-06-15 |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-17 |  |
+| [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-31 |  |
 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-11 |  |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-15 | 2023-08-29 |
 | [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 | 2024-02-16 |  |
@@ -240,6 +241,7 @@
 | [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 | 2023-08-28 | 2024-06-15 |
 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-04-26 | 2025-01-12 |
 | [PINKBERRY](https://open.spotify.com/track/3FBY4I6p04bFbwIWMBRBhQ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [PINKBERRY](https://open.spotify.com/album/1NKeuqtTb9pjmSIWNTnUKB) | 2:48 | 2024-06-07 | 2024-06-15 |
+| [PITY PARTY](https://open.spotify.com/track/7FKr8rULW20OQspz0JzGNx) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [PITY PARTY](https://open.spotify.com/album/5q9KECUxTbDmQAvyvlAa9f) | 3:25 | 2025-01-31 |  |
 | [Planet Song](https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Planet Song](https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK) | 3:30 | 2023-08-28 | 2024-06-15 |
 | [Pleasure delayer](https://open.spotify.com/track/5BKL1Q0k2rJLywgjpjTFhv) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Pleasure delayer](https://open.spotify.com/album/0QRfOnmGwaspN4mOLShbG6) | 2:24 | 2024-01-19 | 2024-12-14 |
 | [Puppy](https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:55 | 2023-10-28 |  |
@@ -311,6 +313,7 @@
 | [the dog](https://open.spotify.com/track/5HUW7EfyjG6sy6AnYUDGiA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [best of corook \(so far\)](https://open.spotify.com/album/6fsVvwHc566EXvlryeSp7N) | 2:46 | 2023-08-28 | 2024-06-15 |
 | [The Greatest](https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [The Greatest](https://open.spotify.com/album/4fLmfcdQ4ydEA5M5UxNRzZ) | 3:13 | 2024-06-14 |  |
 | [The New Kid](https://open.spotify.com/track/1Ahda2CRcgMBAfKAp9Z7GO) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The New Kid](https://open.spotify.com/album/0Hs5sLHBaGsh9Bn5AjZN0O) | 2:48 | 2023-10-14 | 2024-07-27 |
+| [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 | 2025-01-31 |  |
 | [The Scientist \- Spotify Singles](https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Spotify Singles](https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ) | 4:46 | 2024-06-28 | 2024-10-12 |
 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2023-09-15 | 2023-09-30 |
 | [There It Goes \- Acoustic](https://open.spotify.com/track/0mRM8KuaZ62AKyNS00MRBn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [There It Goes \(Acoustic\)](https://open.spotify.com/album/3seUdV947SymGb26zyRt3k) | 3:37 | 2023-09-29 | 2024-01-11 |

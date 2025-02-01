@@ -1,13 +1,49 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 63323,
+  "description": "The best newly released songs of the week. Cover: JENNIE, Dominic Fike",
+  "num_followers": 63435,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5uiDQAAAAC6zZ6z95y6cx6yQkThnWrx",
+  "snapshot_id": "Z5xZEQAAAAAHuPDQ2WAaXWXL+koIJcOm",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:01:05",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+    },
+    {
+      "added_at": "2025-01-30 16:00:13",
+      "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
     {
       "added_at": "2025-01-30 16:00:13",
       "album": {
@@ -159,6 +195,22 @@
       "duration_ms": 186000,
       "name": "Bad Girls Like You - English Version",
       "url": "https://open.spotify.com/track/3oKi7Fp9JhDLTKaW6fZLwO"
+    },
+    {
+      "added_at": "2025-01-31 05:01:05",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 216431,
+      "name": "Give Me Mercy",
+      "url": "https://open.spotify.com/track/0K3w6WNawZlv6Izmsrye8o"
     },
     {
       "added_at": "2025-01-30 16:00:13",
@@ -375,6 +427,22 @@
       "duration_ms": 211875,
       "name": "\u6bcf\u4e00\u5929",
       "url": "https://open.spotify.com/track/4taoq0VNUIq6PKNEFgBcZU"
+    },
+    {
+      "added_at": "2025-01-31 05:01:05",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 277274,
+      "name": "Niagara Falls",
+      "url": "https://open.spotify.com/track/2v0AG62ZHtD3I4YmTb3WYM"
     },
     {
       "added_at": "2025-01-30 16:00:13",
@@ -939,6 +1007,22 @@
     {
       "added_at": "2025-01-30 16:00:13",
       "album": {
+        "name": "La Festa",
+        "url": "https://open.spotify.com/album/7aPj7OVv3zdUJjIIostVUX"
+      },
+      "artists": [
+        {
+          "name": "Solji",
+          "url": "https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo"
+        }
+      ],
+      "duration_ms": 204023,
+      "name": "La Festa",
+      "url": "https://open.spotify.com/track/1TOXIH81rjFEDtnxiaBBXi"
+    },
+    {
+      "added_at": "2025-01-30 16:00:13",
+      "album": {
         "name": "ID feat. RYOKI (BE:FIRST), RYUKI (MAZZEL), JIMMY (PSYCHIC FEVER), FELIP",
         "url": "https://open.spotify.com/album/2aI04mIDKNeBLfZHxKEF9Q"
       },
@@ -1207,6 +1291,50 @@
       "duration_ms": 234285,
       "name": "Slow Your Roll",
       "url": "https://open.spotify.com/track/5evv0npHCui3psMiXq1HX6"
+    },
+    {
+      "added_at": "2025-01-30 16:00:13",
+      "album": {
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 159986,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
+    },
+    {
+      "added_at": "2025-01-30 16:00:13",
+      "album": {
+        "name": "BABYGIRL (feat. Lil Tjay)",
+        "url": "https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "BABYGIRL (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3"
     },
     {
       "added_at": "2025-01-30 16:00:13",

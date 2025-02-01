@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:5oNWzcU0mYK1zDUxBGHIaG">Hannah Mae</a
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,957 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,954 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

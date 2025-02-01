@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky?si=ZusZdgF9QS6QHe5f9emOpQ>DopeNation
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,331 likes - 83 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,591 likes - 83 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

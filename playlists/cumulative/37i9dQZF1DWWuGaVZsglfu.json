@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best tracks from the world of music. Cover: yung kai",
+  "description": "The best tracks from the world of music. Cover: The Weeknd",
   "name": "Hot Hits Malaysia",
   "tracks": [
     {
@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "BEKU",
+        "url": "https://open.spotify.com/album/3oomzTIjDBNe31XMtjutZg"
+      },
+      "artists": [
+        {
+          "name": "CO\u00cbX",
+          "url": "https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206570,
+      "name": "BEKU",
+      "url": "https://open.spotify.com/track/4AXDppkGFDwaC4FBj9CjTt"
+    },
+    {
+      "album": {
         "name": "Belum Mulai",
         "url": "https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc"
       },
@@ -1036,6 +1054,24 @@
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
       "album": {
@@ -2130,6 +2166,28 @@
       "duration_ms": 168358,
       "name": "LIKE THAT",
       "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc"
+    },
+    {
+      "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "album": {
@@ -3272,7 +3330,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 248666,
       "name": "Sampai Menutup Mata",
       "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
@@ -3290,7 +3348,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 266111,
       "name": "Sangkar Derita",
       "url": "https://open.spotify.com/track/7HLTEqi7Kis9SIsEB8Icyy"
@@ -3308,7 +3366,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 200476,
       "name": "Satu Bulan",
       "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"

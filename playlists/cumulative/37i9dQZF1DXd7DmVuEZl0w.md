@@ -4,7 +4,7 @@
 
 > Feel the spirit of Ramadan with Amdah and Anashid songs.
 
-150 songs - 7 hr 59 min
+151 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,8 +89,9 @@
 | [Salla Alayka Rahman](https://open.spotify.com/track/2JVRBAOAXAcNM21EyziBLj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Salla Alayka Rahman](https://open.spotify.com/album/5dR7qtDmtEfrQhKe3yPEK5) | 3:48 | 2025-01-28 |  |
 | [Salo 3la Rasol Allah](https://open.spotify.com/track/2cEAqY1dsGq0ZIamWepfID) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Salo 3la Rasol Allah](https://open.spotify.com/album/7JQreuS5ckA3arSJH1VlVb) | 3:13 | 2024-03-11 |  |
 | [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 | 2024-04-10 | 2025-01-29 |
-| [Shahr Ramadan](https://open.spotify.com/track/0U7GXZWcOpEe2GO3UFn78G) | [Mahmoud Helal](https://open.spotify.com/artist/1tYUfln3Asufbuh3dCrIDE) | [Adaeya Pt\. 1](https://open.spotify.com/album/6OcbPtpIIVpV4U9lrpTEuj) | 4:04 | 2025-01-28 |  |
+| [Shahr Ramadan](https://open.spotify.com/track/0U7GXZWcOpEe2GO3UFn78G) | [Mahmoud Helal](https://open.spotify.com/artist/1tYUfln3Asufbuh3dCrIDE) | [Adaeya Pt\. 1](https://open.spotify.com/album/6OcbPtpIIVpV4U9lrpTEuj) | 4:04 | 2025-01-28 | 2025-02-01 |
 | [Shahr Ramadan](https://open.spotify.com/track/1eKfU40hKG21tJz0J8VgMW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [El Ganna Fi Beyoutna](https://open.spotify.com/album/0wOv5sjQ2MM0rkgpX4qKFx) | 1:47 | 2024-03-11 | 2024-04-09 |
+| [Shalawatul Fathilah](https://open.spotify.com/track/1DMVxWECl7MH3cdGHkSqF2) | [Raihan](https://open.spotify.com/artist/0wWm1rOeaLQ4jkLpn8tmTt) | [The Spirit of Shalawat](https://open.spotify.com/album/58xi5vzp02AeFFo5I0Vey8) | 5:03 | 2025-01-28 |  |
 | [Shalawatul Fathilah](https://open.spotify.com/track/66OQfujyetSoPMTeTFf0SV) | [Raihan](https://open.spotify.com/artist/0wWm1rOeaLQ4jkLpn8tmTt) | [The Spirit of Shalawat](https://open.spotify.com/album/4HA6gNFD8CHrbCKE23sb0h) | 5:05 | 2024-03-11 | 2024-04-09 |
 | [Siraj Al\-Medina \- Arabic & Turkish](https://open.spotify.com/track/5UBv9IyyeXWeuBzGQcmxXp) | [Murat Belet](https://open.spotify.com/artist/1aGDQkLy73SE8pPwdkZAxn), [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Siraj Al\-Medina](https://open.spotify.com/album/44eX3kbYvSqLsGjkDjRrMw) | 2:53 | 2024-03-11 |  |
 | [Sobhanak](https://open.spotify.com/track/0ITQTpYV1ITZXotaUz7fNs) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs) | [Sobhanak](https://open.spotify.com/album/27CvW6MmQ4JZYMZAP098IQ) | 4:52 | 2024-03-11 |  |

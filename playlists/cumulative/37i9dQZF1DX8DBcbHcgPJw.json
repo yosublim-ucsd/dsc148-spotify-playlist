@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: La T & La M & Lauty Gram.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Peipper y Roze Oficial",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -2160,6 +2160,28 @@
       "duration_ms": 195274,
       "name": "Cuando Se Pone a Bailar",
       "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+    },
+    {
+      "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/6T85XAZkuYE9NqkMzMfdF2"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171627,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/47MMJy4ZaE28ApRUipoddu"
     },
     {
       "album": {
@@ -7786,7 +7808,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 184356,
       "name": "Noche Fr\u00eda",
       "url": "https://open.spotify.com/track/36E9wb5dk5uLwb20L5g81m"

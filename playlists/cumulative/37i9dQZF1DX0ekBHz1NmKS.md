@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,738 songs - 3 day 18 hr 11 min
+1,739 songs - 3 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-05-30 | 2024-06-28 |
-| [Då är det inte jag](https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Då är det inte jag](https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV) | 3:27 | 2024-11-14 |  |
+| [Då är det inte jag](https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Då är det inte jag](https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV) | 3:27 | 2024-11-14 | 2025-02-01 |
 | [DÖ FÖR](https://open.spotify.com/track/35eTqDv5rQDQmBWePtbVf3) | [William Segerdahl](https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh) | [DÖ FÖR](https://open.spotify.com/album/5p8nmQfGIiNyX1w2oHVhbb) | 2:41 | 2022-03-10 | 2022-07-24 |
 | [DÖ FÖR DIG](https://open.spotify.com/track/42DuzCIKIA7g2ibkxW5c9C) | [ROBACO](https://open.spotify.com/artist/47kbrpfjbY1owNBaCUSwAP) | [DÖ FÖR DIG](https://open.spotify.com/album/7aAXkstpkuKCcBHaUIdeRL) | 2:41 | 2024-05-30 | 2024-06-28 |
 | [Dö före dig \- akustisk version](https://open.spotify.com/track/552Whv8lDoc9tGJninXBsv) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Dö före dig \(akustisk version\)](https://open.spotify.com/album/1vFo2cYQvSoM5N1m8lQbAu) | 2:11 | 2024-03-14 | 2024-04-26 |
@@ -1575,6 +1575,7 @@
 | [Tärning](https://open.spotify.com/track/2srEdr47X3EzfCrKLM6qWe) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Tärning](https://open.spotify.com/album/7mVP1swmqaWsaTOuWG3268) | 3:46 | 2022-02-13 | 2022-05-13 |
 | [Tårarna \(feat\. Jackie Mere\)](https://open.spotify.com/track/0JcirT3JdGx29UAECyRhVV) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Tårarna \(feat\. Jackie Mere\)](https://open.spotify.com/album/4SMIJv8Cc6kxbSTgNKeDKF) | 2:38 | 2024-05-23 | 2024-06-21 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-23 | 2024-06-21 |
+| [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 | 2025-01-30 |  |
 | [Undantag](https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:58 | 2023-04-01 | 2023-10-20 |
 | [Under någon ny](https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Under någon ny](https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA) | 4:07 | 2023-02-09 | 2023-10-06 |
 | [Underbart](https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Underbart](https://open.spotify.com/album/6WoazjKrlteUKghj03CYDl) | 2:34 | 2024-05-09 | 2024-06-07 |

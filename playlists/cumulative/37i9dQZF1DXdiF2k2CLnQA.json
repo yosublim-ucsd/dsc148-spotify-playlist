@@ -568,7 +568,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 211000,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 215666,
       "name": "Do You Feel Normal",
       "url": "https://open.spotify.com/track/0pFuiLV4YNQwjyBXJz4sOm"
@@ -966,6 +966,24 @@
       "duration_ms": 244466,
       "name": "Dogs Of War",
       "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
+    },
+    {
+      "album": {
+        "name": "Overdriver",
+        "url": "https://open.spotify.com/album/0shNp38H68PQgYidEQm1K7"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Don't Let Me Bring You Down",
+      "url": "https://open.spotify.com/track/4k92mQm38pUHtfrFEkmZeI"
     },
     {
       "album": {
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 225615,
       "name": "Give Us The Moon",
       "url": "https://open.spotify.com/track/37dCaPY3aPkCpxhnjicEDg"
@@ -2552,6 +2570,24 @@
       "duration_ms": 212706,
       "name": "Pain In Every Way",
       "url": "https://open.spotify.com/track/7MhqFkmXyoGWLMSS0Zoc2W"
+    },
+    {
+      "album": {
+        "name": "Give Us The Moon",
+        "url": "https://open.spotify.com/album/20AtqMaAxXaiCFxeq2XDpV"
+      },
+      "artists": [
+        {
+          "name": "The Night Flight Orchestra",
+          "url": "https://open.spotify.com/artist/6xPOeIDWmM9ooOw7SBknMl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305085,
+      "name": "Paloma",
+      "url": "https://open.spotify.com/track/3s9Hi8xoJKsd3VDRnPxOZi"
     },
     {
       "album": {
@@ -3954,6 +3990,24 @@
       "duration_ms": 210687,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240151,
+      "name": "WONDERWaLL - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "album": {

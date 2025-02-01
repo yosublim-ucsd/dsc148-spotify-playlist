@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Lou-Adriane Cassidy",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Velours Velours",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 244464,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/0GcV1G5sLpOUkOIfPvOo45"
@@ -3284,6 +3284,24 @@
       "duration_ms": 205857,
       "name": "Fleur de l'\u00c2ge",
       "url": "https://open.spotify.com/track/1AtvnJLYXb0eUy0JElcoPC"
+    },
+    {
+      "album": {
+        "name": "Nouveau Langage",
+        "url": "https://open.spotify.com/album/5LPAqjB3dGnLJkvnJKJYO8"
+      },
+      "artists": [
+        {
+          "name": "N NAO",
+          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224490,
+      "name": "Fleuron",
+      "url": "https://open.spotify.com/track/1Uoi7ozqHcSMIufOZgYwaL"
     },
     {
       "album": {
@@ -7739,6 +7757,24 @@
     },
     {
       "album": {
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203786,
+      "name": "Pri\u00e8re quotidienne",
+      "url": "https://open.spotify.com/track/6FtHH6oqAz7G5swH7kvYyw"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/6hKzrZJrhTnQhU8pJGBBXB"
       },
@@ -7844,6 +7880,24 @@
       "duration_ms": 265734,
       "name": "P\u00e9n\u00e9lope",
       "url": "https://open.spotify.com/track/6igMBCYzoJWpYr79Rmpw1q"
+    },
+    {
+      "album": {
+        "name": "Quand je pleure, je suis content",
+        "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Quand je pleure, je suis content",
+      "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
     },
     {
       "album": {
@@ -9896,7 +9950,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
@@ -10052,7 +10106,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 190284,
       "name": "veux veux pas",
       "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
@@ -10368,7 +10422,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 118626,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/5jfmtxwUUWi4nlmnWis5sK"
@@ -10504,6 +10558,24 @@
       "duration_ms": 211956,
       "name": "Zombie Cry",
       "url": "https://open.spotify.com/track/1Okam83qB6OKbfoDleeET4"
+    },
+    {
+      "album": {
+        "name": "Zo\u00e9 sur la montagne / Deuxi\u00e8me vie",
+        "url": "https://open.spotify.com/album/4lVU7Rdk1wgzVutEbM3Vpx"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173976,
+      "name": "Zo\u00e9 sur la montagne",
+      "url": "https://open.spotify.com/track/19jBx6s9LIxzRdccmlDUjD"
     },
     {
       "album": {

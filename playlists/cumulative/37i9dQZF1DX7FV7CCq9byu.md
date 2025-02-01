@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-539 songs - 1 day 3 hr 26 min
+541 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Country Boy](https://open.spotify.com/track/0AWOUx0yzhcr8m76suAFqz) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Country Boy](https://open.spotify.com/album/37DRBJOm9lYHdndsVzXJfQ) | 2:44 | 2025-01-02 |  |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-27 | 2024-08-16 |
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 | 2024-11-23 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 | 2024-10-31 | 2025-01-10 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-08-23 |
 | [Dance Alone](https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Dance Alone](https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H) | 2:38 | 2024-10-24 | 2024-11-23 |
@@ -279,6 +280,7 @@
 | [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 | 2024-09-19 | 2024-11-01 |
 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-06-27 | 2024-07-05 |
 | [Love Flow](https://open.spotify.com/track/2joCJp4nNp0ug8Dr7txktX) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/5wrBNU0VALWGi0MN3brYUO) | 3:39 | 2024-06-27 | 2024-07-27 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-01-09 |  |
 | [Love Myself](https://open.spotify.com/track/6aKgsDfYyCS7LtkCPNelBg) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Love Myself](https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP) | 2:41 | 2024-06-27 | 2024-08-02 |
 | [Love Myself](https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Rollercoaster](https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j) | 2:30 | 2024-08-15 | 2024-09-13 |

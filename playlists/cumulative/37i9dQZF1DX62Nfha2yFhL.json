@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/2M4e4YtEp2Dyrozz7ghg1U"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300221,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/4mGAgHZ5kZwxvXEYqOxbOu"
+    },
+    {
+      "album": {
         "name": "Big Sleepover",
         "url": "https://open.spotify.com/album/7I7LXKjl6oGnHT6GcfsP8Q"
       },
@@ -2423,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "NGL",
+        "url": "https://open.spotify.com/album/4veaG4MuOfmgfq0r45Y5Z3"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158293,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/1DOPBpfgMyfizyFSYPJ5N0"
+    },
+    {
+      "album": {
         "name": "Nothing We Can't Get Through",
         "url": "https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi"
       },
@@ -2608,6 +2644,24 @@
       "duration_ms": 189667,
       "name": "Outside",
       "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
+    },
+    {
+      "album": {
+        "name": "Own Thing",
+        "url": "https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161309,
+      "name": "Own Thing",
+      "url": "https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud"
     },
     {
       "album": {
@@ -3082,6 +3136,24 @@
       "duration_ms": 209393,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/2lspfvz8Ki4p4n93W089XE"
+    },
+    {
+      "album": {
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181813,
+      "name": "Someone to Love You",
+      "url": "https://open.spotify.com/track/029DgHoyQFzA8gGvNOha3U"
     },
     {
       "album": {

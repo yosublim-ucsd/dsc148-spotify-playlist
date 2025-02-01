@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-101 songs - 6 hr 16 min
+102 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [\(Boliyan\) Geetan Da Guldasta](https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [The King \(Greatest Hits\)](https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH) | 4:58 | 2021-11-03 |  |
 | [Akhiyan](https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Akhiyan](https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC) | 2:36 | 2022-05-09 | 2024-10-01 |
 | [Akhiyan Ch Ton Wasda](https://open.spotify.com/track/1g0d3PK9XuCwUVpD45JFDw) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Luti Heer Ve Gaman Ne](https://open.spotify.com/album/3o3F1DVHaw3L5xiODNHuyG) | 4:00 | 2022-07-16 | 2024-04-19 |
-| [Akhiyan Ch Tu Vasda](https://open.spotify.com/track/6sPPCGilVdL9L3R3YCVjDX) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 4:00 | 2021-11-03 |  |
+| [Akhiyan Ch Tu Vasda](https://open.spotify.com/track/6sPPCGilVdL9L3R3YCVjDX) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 4:00 | 2021-11-03 | 2025-02-01 |
 | [Allah Di Namaaz](https://open.spotify.com/track/6MQQGDnDBC8qmf1ZtEiwXm) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Allah Di Namaaz](https://open.spotify.com/album/3n2eRfNBrG0qDjSwaVyW5p) | 4:33 | 2023-10-17 | 2024-10-04 |
 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 | 2023-08-08 |  |
 | [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 | 2021-11-03 | 2023-09-02 |
@@ -36,6 +36,7 @@
 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 | 2021-11-03 |  |
 | [Chan Kithan Guzari Ayee Raat](https://open.spotify.com/track/6lhj5jxQ824CfnrAyjjvMR) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 3:15 | 2021-11-03 |  |
 | [Chan Kithe Guzari Ayeerat](https://open.spotify.com/track/1cru0v9dm9EkUrCwtOwNA5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 3:15 | 2022-07-16 | 2024-04-19 |
+| [Chann Kithaan](https://open.spotify.com/track/6QIg2fockltXGj8bxEta4y) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2) | [Chann Kithaan](https://open.spotify.com/album/1BZosnxUj4uQuKf4UGPWum) | 2:03 | 2025-01-31 |  |
 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 | 2021-11-03 |  |
 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 | 2024-09-16 |  |
 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 | 2021-11-03 |  |

@@ -4,7 +4,7 @@
 
 > Melodies of the movement.
 
-111 songs - 9 hr 14 min
+112 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Black Butterfly](https://open.spotify.com/track/1sVelYOWWeRJDSHN1wb7kx) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Best Of Deniece Williams: Gonna Take A Miracle](https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT) | 4:25 | 2024-02-01 |  |
 | [Blowin' In The Wind](https://open.spotify.com/track/5RQRPai5wx67G2P1kbBdwv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 3:03 | 2021-04-16 |  |
 | [Bridge over Troubled Water](https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 5:33 | 2021-04-16 |  |
+| [Brotha](https://open.spotify.com/track/2sNAjuCXxyj8jHt93t9IJ9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:28 | 2025-01-31 |  |
 | [Brown Skin](https://open.spotify.com/track/3ekAN7Ijl9vIemCaDbh29K) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:56 | 2024-02-01 |  |
 | [Brown Skin Lady](https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:46 | 2024-02-01 |  |
 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 | 2024-02-01 |  |
@@ -89,7 +90,7 @@
 | [Still I Rise](https://open.spotify.com/track/3J9NZT8U0uyRd8ZYNCkOAq) | [Dr\. Maya Angelou](https://open.spotify.com/artist/0NmNdh2bUgGrrIbj5Ar8GQ) | [The Civil War : The Complete Work](https://open.spotify.com/album/3shDCBNvoYpBwIzBkx0XAK) | 0:57 | 2021-04-16 | 2024-02-02 |
 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 | 2024-02-01 |  |
 | [Strength Courage & Wisdom](https://open.spotify.com/track/2kIZPLtqtmDh3dX6HuAfD0) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:57 | 2024-02-01 |  |
-| [Take My Hand, Precious Lord](https://open.spotify.com/track/2BPMz5V0g0uw9phgqjY7se) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [The Essential Mahalia Jackson](https://open.spotify.com/album/2w9wFu5qjGKqBHDLNU2b8N) | 4:12 | 2021-04-16 |  |
+| [Take My Hand, Precious Lord](https://open.spotify.com/track/2BPMz5V0g0uw9phgqjY7se) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [The Essential Mahalia Jackson](https://open.spotify.com/album/2w9wFu5qjGKqBHDLNU2b8N) | 4:12 | 2021-04-16 | 2025-02-01 |
 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 | 2024-02-01 |  |
 | [The American Dream](https://open.spotify.com/track/3ZRKkzNKTR6cGbXOP0vxlM) | [Martin Luther King, Jr.](https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB) | [The Best Of The Speeches](https://open.spotify.com/album/35TEWxAZnVNmZ20PHaV7Up) | 30:54 | 2021-04-16 | 2024-02-02 |
 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 | 2024-02-01 |  |

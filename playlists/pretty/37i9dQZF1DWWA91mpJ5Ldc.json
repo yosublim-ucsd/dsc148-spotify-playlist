@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 130772,
+  "num_followers": 130799,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
+        "name": "Coisa de Acender",
+        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "Boa Noite",
+      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
         "name": "Xuxu",
         "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 172523,
       "name": "Xuxu",
       "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
-        "name": "Coisa de Acender",
-        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "Boa Noite",
-      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 234712,
-      "name": "Posso Dizer",
-      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 242130,
       "name": "Caju",
       "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     }
   ],
   "unique_name": "Cozinhando em Casa",

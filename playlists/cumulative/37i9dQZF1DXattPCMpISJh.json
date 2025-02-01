@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Are You Bad Or Not?",
+        "url": "https://open.spotify.com/album/3pMgFuVJZhE97yUU8rzZxd"
+      },
+      "artists": [
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114594,
+      "name": "Are You Bad Or Not?",
+      "url": "https://open.spotify.com/track/4yhwd5qPo0KZfKjNPiQEWl"
+    },
+    {
+      "album": {
         "name": "Diva Of The People",
         "url": "https://open.spotify.com/album/3YtYblPnkxihBxr4hjDjhk"
       },
@@ -750,7 +768,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 356983,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC"

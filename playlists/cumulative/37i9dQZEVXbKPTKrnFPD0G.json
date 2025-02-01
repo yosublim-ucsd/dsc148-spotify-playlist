@@ -630,7 +630,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 215983,
       "name": "BOKeTE",
       "url": "https://open.spotify.com/track/79x7xtoCLpf6l32Zz6mWo4"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 150000,
       "name": "Cosa Linda",
       "url": "https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
@@ -2790,6 +2790,28 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
+    },
+    {
+      "album": {
+        "name": "LO QUE ME CAUSA",
+        "url": "https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180477,
+      "name": "LO QUE ME CAUSA",
+      "url": "https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq"
     },
     {
       "album": {
@@ -3644,6 +3666,32 @@
     {
       "album": {
         "name": "Parte & Choke",
+        "url": "https://open.spotify.com/album/3WvgIOMU0oKCooAfbTFRYk"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "Alex Krack",
+          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205264,
+      "name": "Parte & Choke",
+      "url": "https://open.spotify.com/track/064fLCSLFvjocxzHXAyA0W"
+    },
+    {
+      "album": {
+        "name": "Parte & Choke",
         "url": "https://open.spotify.com/album/2rzk1ZW9Lpj3SilWEL31pg"
       },
       "artists": [
@@ -3662,7 +3710,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 205264,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"
@@ -4042,7 +4090,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 166241,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV"

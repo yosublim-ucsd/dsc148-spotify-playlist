@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 112348,
+  "num_followers": 112373,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa"
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
       "artists": [
         {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
         }
       ],
-      "duration_ms": 264306,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M"
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Mango Groove",
         "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
       },
@@ -639,34 +655,18 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Daddy Lumba Essentials",
-        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
+        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
+        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
       },
       "artists": [
         {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
         }
       ],
-      "duration_ms": 337606,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
     }
   ],
   "unique_name": "Classic Afropop",

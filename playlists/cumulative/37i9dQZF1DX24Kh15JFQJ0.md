@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Dwight Yoakam
 
-305 songs - 17 hr 54 min
+306 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Home Run](https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Home Run](https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk) | 3:05 | 2021-10-15 | 2024-07-19 |
 | [Honky Tonk Boots](https://open.spotify.com/track/50n0xq2emVcORdDztPNqkt) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Honky Tonk Boots](https://open.spotify.com/album/6N0mFLasumH7G1MegiZeQ8) | 2:47 | 2022-03-11 |  |
 | [Honky Tonk Town](https://open.spotify.com/track/1Jsijb9pEP1F44gbRK1XXN) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Honky Tonk Town](https://open.spotify.com/album/5bWQAEpi5HQTkMKAyLYdhP) | 2:59 | 2022-05-20 |  |
+| [Horses In Heaven](https://open.spotify.com/track/4941NyrAdgzgIFAZWn6MbY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Horses In Heaven](https://open.spotify.com/album/2LITp4RknU989yidYPFqNe) | 3:21 | 2025-01-31 |  |
 | [How Far Can It Go?](https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [How Far Can It Go?](https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT) | 2:55 | 2021-10-15 |  |
 | [How You Make A Man](https://open.spotify.com/track/4N2YOk1bMtaDTOidVyhSIs) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [How You Make A Man](https://open.spotify.com/album/1kOvLGkfJhVG5OnYoPpeOP) | 3:51 | 2022-08-05 |  |
 | [How You Make A Man](https://open.spotify.com/track/7tZbuUWq2DQ9PkcXDpZepv) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/5rE2C8x89VQpLnSyxHdRWv) | 3:51 | 2023-11-03 | 2024-04-19 |

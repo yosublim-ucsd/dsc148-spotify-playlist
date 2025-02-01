@@ -4682,7 +4682,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 151000,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb"
@@ -6336,7 +6336,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 158490,
       "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
       "url": "https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz"
@@ -10204,7 +10204,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217232,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
@@ -13439,6 +13439,28 @@
     },
     {
       "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Holy Ground (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
+    },
+    {
+      "album": {
         "name": "Holy Smokes",
         "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
       },
@@ -14252,6 +14274,28 @@
       "duration_ms": 216107,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/0o58NWBiVXewJNfNDKQyjw"
+    },
+    {
+      "album": {
+        "name": "I Dare You",
+        "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
     },
     {
       "album": {
@@ -15502,7 +15546,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 156086,
       "name": "i'm in love, believe it",
       "url": "https://open.spotify.com/track/06qR4ao8CrVOHqUj30ZYJi"
@@ -15550,6 +15594,24 @@
       "duration_ms": 225880,
       "name": "I'm Not People",
       "url": "https://open.spotify.com/track/74LrZH69xVWmRyUTCIUbIm"
+    },
+    {
+      "album": {
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
       "album": {
@@ -16075,6 +16137,28 @@
     },
     {
       "album": {
+        "name": "In Love With A Memory",
+        "url": "https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "In Love With A Memory",
+      "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
+    },
+    {
+      "album": {
         "name": "homecoming / in my city",
         "url": "https://open.spotify.com/album/1aCizM9pCTz9k9iBD9tUh9"
       },
@@ -16582,7 +16666,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 129000,
       "name": "It's A Pleasure",
       "url": "https://open.spotify.com/track/3aNR2kcaSzKzV81UdFhecj"
@@ -22086,7 +22170,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 200204,
       "name": "NEVER WANNA LET YOU GO",
       "url": "https://open.spotify.com/track/1WK90RqsK7hDQTGaEqCM2I"
@@ -24637,6 +24721,28 @@
     },
     {
       "album": {
+        "name": "Pressure Points (feat. Lila Ik\u00e9)",
+        "url": "https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/3cp5AXmGxhU3tgNO6TgD4H"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170962,
+      "name": "Pressure Points (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z"
+    },
+    {
+      "album": {
         "name": "The Hating Game (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
@@ -25237,6 +25343,24 @@
     },
     {
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215178,
+      "name": "Residuals",
+      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
+    },
+    {
+      "album": {
         "name": "Rest Of Us",
         "url": "https://open.spotify.com/album/2XWeuwLj3VH5IavDdsdDzs"
       },
@@ -25252,6 +25376,46 @@
       "duration_ms": 212854,
       "name": "Rest Of Us",
       "url": "https://open.spotify.com/track/7717UVE00jsD9vkhSlN6ho"
+    },
+    {
+      "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253862,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD"
+    },
+    {
+      "album": {
+        "name": "rhythm of love",
+        "url": "https://open.spotify.com/album/3ofBmMK5XB5VaoWaRlzvyF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Frye",
+          "url": "https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143763,
+      "name": "rhythm of love",
+      "url": "https://open.spotify.com/track/4ujpzOb9j7pDQH0wCGGoIG"
     },
     {
       "album": {
@@ -26717,6 +26881,24 @@
     },
     {
       "album": {
+        "name": "Sheets",
+        "url": "https://open.spotify.com/album/2nbxTiFjqe6n8UmgtdRZqY"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "Sheets",
+      "url": "https://open.spotify.com/track/5XrnVelufxFVFEFvuiuQMi"
+    },
+    {
+      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx"
       },
@@ -27334,7 +27516,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 224127,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
@@ -29647,6 +29829,28 @@
     },
     {
       "album": {
+        "name": "Sunshine In The Room",
+        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182955,
+      "name": "Sunshine In The Room (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
+    },
+    {
+      "album": {
         "name": "superglue",
         "url": "https://open.spotify.com/album/7yJj3Xtd94isVwPtGKkIao"
       },
@@ -31278,7 +31482,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 264055,
       "name": "then there were sparks",
       "url": "https://open.spotify.com/track/7cCXSquQnXCyCwhP8vFUBQ"
@@ -35874,7 +36078,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 156942,
       "name": "You and your eyes",
       "url": "https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u"

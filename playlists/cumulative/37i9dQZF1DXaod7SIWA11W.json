@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Get lifted by the waves of faith-infused music.  Cover: Pastor Mike Jr.",
+  "description": "Get lifted by the waves of faith-infused music.  Cover: Terrian",
   "name": "Lifted Frequency",
   "tracks": [
     {
@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/6bbvbiCg3hPPm5lWbaa6N5"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q"
+    },
+    {
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/2cSLZPsMDTB6fpYTlnS3AY"
       },
@@ -685,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Barmageddon",
+        "url": "https://open.spotify.com/album/0F1xLj0ZlfMPVjhsaeqd6K"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139534,
+      "name": "Barmageddon",
+      "url": "https://open.spotify.com/track/0Nl46PVBIorvbXYKCSHw7a"
+    },
+    {
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/3ODN0cjDIX8f7a9wdUETs1"
       },
@@ -700,6 +740,32 @@
       "duration_ms": 259534,
       "name": "BE",
       "url": "https://open.spotify.com/track/6g0GJJrBJeLlgKfq940wct"
+    },
+    {
+      "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/1NmzBBrRogo7n3gFxGq2Sg"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Tommy Sims",
+          "url": "https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe"
+        },
+        {
+          "name": "Praise Paige",
+          "url": "https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328583,
+      "name": "Be Love",
+      "url": "https://open.spotify.com/track/6m6Zq0JcdPWIW49G51VKml"
     },
     {
       "album": {
@@ -812,7 +878,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 152810,
       "name": "Before Ye Was Republican",
       "url": "https://open.spotify.com/track/6syM7I90jAbl2DSowZ49gU"
@@ -1621,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Come & See",
+        "url": "https://open.spotify.com/album/6I9cZjzDQxgFeo4W41HOgw"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195971,
+      "name": "Come & See",
+      "url": "https://open.spotify.com/track/08LgmPa7dOIZwyYopfpODG"
+    },
+    {
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/3VfpOIY6xQ0zLs5OEJs2MS"
       },
@@ -1632,7 +1716,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 189738,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/4J3hdJSdMBZcLNgqF0yseB"
@@ -1882,7 +1966,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208500,
       "name": "Desperate",
       "url": "https://open.spotify.com/track/40GhIwN8XALzw3FTSRu23v"
@@ -2283,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "ETERNAL",
+        "url": "https://open.spotify.com/album/1eesb5NUO2h6RCLNKepuPD"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198171,
+      "name": "ETERNAL",
+      "url": "https://open.spotify.com/track/6xp4ngYJbUKuCbabDlIjmn"
+    },
+    {
+      "album": {
         "name": "Transitions (Live)",
         "url": "https://open.spotify.com/album/5mD4kziOFHDka8m5xqFSzV"
       },
@@ -2418,7 +2520,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 179200,
       "name": "Family",
       "url": "https://open.spotify.com/track/6mU05zTrxPkk6zZq7OxIlj"
@@ -2714,7 +2816,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 149659,
       "name": "Flow",
       "url": "https://open.spotify.com/track/1cVEbVHKp5SiwwDKJOpbuZ"
@@ -3313,6 +3415,42 @@
     },
     {
       "album": {
+        "name": "Gotta Tell Somebody",
+        "url": "https://open.spotify.com/album/7oQcqGM0utW9oIy4uEJNt9"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142144,
+      "name": "Gotta Tell Somebody",
+      "url": "https://open.spotify.com/track/02cMuUDsAIyywK22jz1M1L"
+    },
+    {
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3LaUaXAOBE5fvIBNrWFOB8"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161981,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/5lfeSwPNWexggo6tXCOQFw"
+    },
+    {
+      "album": {
         "name": "Affirmations",
         "url": "https://open.spotify.com/album/6Tqy5qKGeNHyt0kRG0xmpt"
       },
@@ -3754,7 +3892,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 174800,
       "name": "Highs Get Low",
       "url": "https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD"
@@ -3798,6 +3936,28 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "album": {
+        "name": "Give It More Time",
+        "url": "https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Hold Me Up",
+      "url": "https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb"
     },
     {
       "album": {
@@ -4076,7 +4236,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157419,
       "name": "I don't want your sacrifice",
       "url": "https://open.spotify.com/track/5pwDt4gG2WcHq7LeppGAxE"
@@ -4325,6 +4485,24 @@
     },
     {
       "album": {
+        "name": "I Would Rather Have Jesus",
+        "url": "https://open.spotify.com/album/5kvHxvs3BQcnKc5oerJgxG"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "I Would Rather Have Jesus",
+      "url": "https://open.spotify.com/track/4VFvAGwd6mV0kH3DtYj9RB"
+    },
+    {
+      "album": {
         "name": "I'll Be Okay",
         "url": "https://open.spotify.com/album/7GKOsQJDFTPdQKHCmkSD0F"
       },
@@ -4420,7 +4598,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 127960,
       "name": "IMAGINE THAT",
       "url": "https://open.spotify.com/track/1nhqujaHB8yNObt12jhqJ9"
@@ -5979,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212580,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2yHurYHLYMpdDokqUnFtzT"
+    },
+    {
+      "album": {
         "name": "Young & Chosen",
         "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
       },
@@ -6074,7 +6270,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185103,
       "name": "NOBODY KNOWS",
       "url": "https://open.spotify.com/track/33Vhm96V7UkegsXlfhMgXq"
@@ -6600,7 +6796,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 144059,
       "name": "Power",
       "url": "https://open.spotify.com/track/7fv1A3To8SjgnlPcfWiGZo"
@@ -6626,7 +6822,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 264632,
       "name": "Praise (Lift Him Up)",
       "url": "https://open.spotify.com/track/0qBRFywdab2FxWLrfo9mhK"
@@ -6765,6 +6961,28 @@
     },
     {
       "album": {
+        "name": "Prosper",
+        "url": "https://open.spotify.com/album/6ZmOIEJLVTp2xlCpE7Vwed"
+      },
+      "artists": [
+        {
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170700,
+      "name": "Prosper",
+      "url": "https://open.spotify.com/track/5d3ORNibUzn5VjhHgTt1pQ"
+    },
+    {
+      "album": {
         "name": "Prosper (Remix)",
         "url": "https://open.spotify.com/album/03mIIdpF3q6VF1f23dGwzF"
       },
@@ -6784,6 +7002,24 @@
       "duration_ms": 190588,
       "name": "Prosper (Remix)",
       "url": "https://open.spotify.com/track/2Y4cXBo6kSAG30RdrhoBxe"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/29D7mUl2JogSYnDm5gLnU1"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199938,
+      "name": "Proud Of Me",
+      "url": "https://open.spotify.com/track/0IKQF4nHCkDZI11mPDOTiQ"
     },
     {
       "album": {
@@ -6954,7 +7190,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 152380,
       "name": "Reset",
       "url": "https://open.spotify.com/track/4jqy2Ocr88ntXN487VRx30"
@@ -6998,7 +7234,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 256892,
       "name": "RESURRECTION HERE",
       "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
@@ -7376,7 +7612,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 164247,
       "name": "Something Something",
       "url": "https://open.spotify.com/track/1hiwgBLMLKTBi3Vh1CQKLT"
@@ -7971,6 +8207,24 @@
     },
     {
       "album": {
+        "name": "Thank You For The Cross",
+        "url": "https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270994,
+      "name": "Thank You For The Cross",
+      "url": "https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf"
+    },
+    {
+      "album": {
         "name": "Thank You Lord",
         "url": "https://open.spotify.com/album/1iItuJVyvs7hpvhsShybhv"
       },
@@ -8294,7 +8548,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 160156,
       "name": "The Source",
       "url": "https://open.spotify.com/track/3iYBAZBnST0Mj8FrKiSoiV"
@@ -9016,6 +9270,32 @@
       "duration_ms": 221915,
       "name": "When I Pray",
       "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
+    },
+    {
+      "album": {
+        "name": "When the Praises Go Up (The Blessings Come Down) [Remix]",
+        "url": "https://open.spotify.com/album/5YB1uVKX7VrQiY67hBvxDL"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "Jazze Pha",
+          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+        },
+        {
+          "name": "Maya Marchelle",
+          "url": "https://open.spotify.com/artist/76o8Rrk9uKYx52z9JoS31k"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "When the Praises Go Up (The Blessings Come Down) - Remix",
+      "url": "https://open.spotify.com/track/56zLcPW4h3aVu7tFxUEw7W"
     },
     {
       "album": {

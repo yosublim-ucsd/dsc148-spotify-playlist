@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2817,
+  "num_followers": 2819,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAANP4dX5ueFMGYKP+vFI3WP",
+  "snapshot_id": "Z5rBAAAAAAATL4p3yJ0n+9fJ8bwJlrym",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/5PvuGqN2szvSEzGMHdibG4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 203514,
       "name": "Mixed Feelings",
       "url": "https://open.spotify.com/track/2zJTDNNnwctkSYROKPXUyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/5PvuGqN2szvSEzGMHdibG4"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Island Inside Me",
-      "url": "https://open.spotify.com/track/4Wh8r8STbZbLI0uwTu2553"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 210053,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/0o8S6hLEGKp6SEE7xwYRLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Island Inside Me",
+      "url": "https://open.spotify.com/track/4Wh8r8STbZbLI0uwTu2553"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "High on Love",
-      "url": "https://open.spotify.com/track/0exHQxRu73RVWKaKpYxP0l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Keep Jamming",
         "url": "https://open.spotify.com/album/7GjX35CmFvdFgceiW4ct44"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 214864,
       "name": "Just Keep Jamming",
       "url": "https://open.spotify.com/track/0V3BrJ3d7FxldSirhHQ8X3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/0exHQxRu73RVWKaKpYxP0l"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 233877,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/1DgDzRESnccvc8ouaFlvNN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haters (Remix)",
         "url": "https://open.spotify.com/album/5AXqdEnnL69bGBt4DOUxQX"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 233877,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/1DgDzRESnccvc8ouaFlvNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Gold & Green",
         "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Hard Place",
-      "url": "https://open.spotify.com/track/6o7RxGKmG0YWwPT768suRR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 206240,
       "name": "Here I Go Again",
       "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Hard Place",
+      "url": "https://open.spotify.com/track/6o7RxGKmG0YWwPT768suRR"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Raw",
-      "url": "https://open.spotify.com/track/2miJGwkdsz31S0uJN0nucG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spam Musubi Song",
         "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 140010,
       "name": "Spam Musubi Song",
       "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/2miJGwkdsz31S0uJN0nucG"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/7yOkenc28VBF76li2yZqc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 284680,
       "name": "Right Love, Wrong Time",
       "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/7yOkenc28VBF76li2yZqc9"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 233052,
-      "name": "Aloha Thyself",
-      "url": "https://open.spotify.com/track/1zRftpUIdnGV0Mb5c33rQV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 254226,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 233052,
+      "name": "Aloha Thyself",
+      "url": "https://open.spotify.com/track/1zRftpUIdnGV0Mb5c33rQV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: ",
-  "num_followers": 972534,
+  "num_followers": 972512,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
         "name": "Forgotten",
         "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
       },
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 281052,
+      "name": "Too Close / Too Late",
+      "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
         "name": "The Saints Of Violence And Innuendo",
         "url": "https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 281052,
-      "name": "Too Close / Too Late",
-      "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
     },
     {
       "added_at": "2024-11-22 14:29:45",

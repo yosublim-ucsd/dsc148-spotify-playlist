@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 85642,
       "name": "BLUE HORIZON FUNK - SLOWED",
       "url": "https://open.spotify.com/track/6ISgjQNYq70ahUOL9rOrcz"
@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 120053,
       "name": "CHESS TYPE BEAT",
       "url": "https://open.spotify.com/track/1FgcRLca2X8uhLh0fshvRW"
@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180706,
       "name": "Chica Atractiva",
       "url": "https://open.spotify.com/track/6vfA2BtPi43HsV1Ccn4up0"
@@ -9774,10 +9774,32 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 92689,
       "name": "He/Him",
       "url": "https://open.spotify.com/track/7C51GQVSezMkHdNxrWa7gF"
+    },
+    {
+      "album": {
+        "name": "He/Him",
+        "url": "https://open.spotify.com/album/7FEk84s0E5WoEJKT7Z6vXx"
+      },
+      "artists": [
+        {
+          "name": "marli",
+          "url": "https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp"
+        },
+        {
+          "name": "Zackavelli",
+          "url": "https://open.spotify.com/artist/3NSdRHaVCc4BOF0sbkgvZk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92704,
+      "name": "He/Him",
+      "url": "https://open.spotify.com/track/64IvzJngXJpyXHA1gYLpiz"
     },
     {
       "album": {
@@ -13205,6 +13227,32 @@
     },
     {
       "album": {
+        "name": "L'Italiano",
+        "url": "https://open.spotify.com/album/4Et1q7i9BrPEIndMPzrrZW"
+      },
+      "artists": [
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Toto Cutugno",
+          "url": "https://open.spotify.com/artist/6elIiwc8OyeqKxXe2rmPXZ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137520,
+      "name": "L'Italiano",
+      "url": "https://open.spotify.com/track/0wO9l8YepZra7cbmoPlevh"
+    },
+    {
+      "album": {
         "name": "Hotel Cabana (Deluxe Version)",
         "url": "https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv"
       },
@@ -16302,6 +16350,28 @@
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM BRAVO",
+        "url": "https://open.spotify.com/album/2RhX80u97LacDUbFoSLT5W"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "Mc Talib\u00e3",
+          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91906,
+      "name": "MONTAGEM BRAVO - Slowed",
+      "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
     },
     {
       "album": {
@@ -21454,10 +21524,28 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 63182,
       "name": "SHE WILL - Instrumental",
       "url": "https://open.spotify.com/track/2XB7Ji5QUdaJ2XnJ0akqtY"
+    },
+    {
+      "album": {
+        "name": "SHE WILL (Instrumental)",
+        "url": "https://open.spotify.com/album/3mkQZMInGVBuxxaCZD0nw2"
+      },
+      "artists": [
+        {
+          "name": "XXKATUSJINSUX",
+          "url": "https://open.spotify.com/artist/0Zkkh7YLEO75PmH7vwgO7X"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63182,
+      "name": "SHE WILL - Instrumental",
+      "url": "https://open.spotify.com/track/6DQ6asdlghX7Aok9IGonZd"
     },
     {
       "album": {
@@ -23276,7 +23364,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 284586,
       "name": "Tapout",
       "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
@@ -25938,7 +26026,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
@@ -26514,6 +26602,32 @@
       "duration_ms": 164800,
       "name": "Winterzeit",
       "url": "https://open.spotify.com/track/45obLRwiWPRX3cdJZirmwB"
+    },
+    {
+      "album": {
+        "name": "Wir tanzen Souvlaki",
+        "url": "https://open.spotify.com/album/0fn6v1yy5pIcIAIxPtaTjR"
+      },
+      "artists": [
+        {
+          "name": "Dorfrocker",
+          "url": "https://open.spotify.com/artist/5jvJoybRSHYAlPYyz6cnOd"
+        },
+        {
+          "name": "Kings of G\u00fcnter",
+          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
+        },
+        {
+          "name": "Killermichel",
+          "url": "https://open.spotify.com/artist/43HoYloPRWQg1de2tqvDxk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188764,
+      "name": "Wir tanzen Souvlaki",
+      "url": "https://open.spotify.com/track/3APTAWARzYcgtExA67L6s5"
     },
     {
       "album": {

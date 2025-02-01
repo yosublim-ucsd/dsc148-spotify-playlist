@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-426 songs - 1 day 1 hr 37 min
+427 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Mars and Its Moons](https://open.spotify.com/track/7jysG69WpZjSnXtinBWHIf) | [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [48thSt](https://open.spotify.com/artist/0cB7mWWQDeeZ33j3qAMCiU) | [Black Life, Red Planet](https://open.spotify.com/album/6C9mnXb8ZXTo5Qsat9mZ0K) | 4:42 | 2024-03-08 |  |
 | [Maybe We Should](https://open.spotify.com/track/6kBRT0AJelJimAZhx62va0) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Maybe We Should](https://open.spotify.com/album/7tLBoZLNzAc5s2BpV61dhp) | 3:57 | 2021-08-27 | 2022-07-28 |
 | [Mirage](https://open.spotify.com/track/504JluU0SrgimOW69mwCYx) | [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL) | [Mirage](https://open.spotify.com/album/2GFnHs15SPG2ziCriUPA9v) | 3:17 | 2022-11-11 |  |
-| [MM.MMBL](https://open.spotify.com/track/1RQEYUVt1pivgTFWGTi3wl) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp) | [MM.MMBL](https://open.spotify.com/album/6e68CE8DwL8PrmKNUE8eFx) | 2:58 | 2023-07-21 |  |
+| [MM.MMBL](https://open.spotify.com/track/1RQEYUVt1pivgTFWGTi3wl) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp) | [MM.MMBL](https://open.spotify.com/album/6e68CE8DwL8PrmKNUE8eFx) | 2:58 | 2023-07-21 | 2025-02-01 |
 | [Moabit](https://open.spotify.com/track/4hCRPlRaCcEbeNLZoxnZV1) | [Freestyle Man](https://open.spotify.com/artist/0J16SQxQ3aevs1yt0LUwv5), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Jimi Tenor](https://open.spotify.com/artist/5KhHCVgWsq6rHocHATBwdZ) | [Moabit](https://open.spotify.com/album/0UIMMz9GGrgRDseMZHPXLO) | 8:29 | 2022-06-24 |  |
 | [Moments Notice](https://open.spotify.com/track/5G1eImf4Ad7ZchBQZ0qH8K) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/30smsjhpr3Kgo1RUXkiYd5) | 2:27 | 2021-01-29 | 2022-03-09 |
 | [Monique's Mood](https://open.spotify.com/track/0GTRkvMFFpZvGPngXGTVWD) | [Teeth Agency](https://open.spotify.com/artist/3R2C23kElKLZaxLN2kxlhd) | [Piano Man Breeds Love](https://open.spotify.com/album/76nZ7JTEaKq2ih3SkMIAzQ) | 2:12 | 2021-01-29 | 2022-03-26 |
@@ -317,6 +317,7 @@
 | [Sauce Brazil](https://open.spotify.com/track/1enqMgoegZ9tTVhmDfpv3t) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Back & Forth](https://open.spotify.com/album/1dL25WjfKgZ0aSPtfiaxOE) | 5:06 | 2022-05-20 | 2024-04-19 |
 | [Sauce Brazil](https://open.spotify.com/track/3qoi5xFFw0UhGVAEkjkva7) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Sauce Brazil](https://open.spotify.com/album/2kIe5TGnIaLKYh0g1tIW70) | 5:06 | 2022-05-16 |  |
 | [Saudade da Festa](https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ), [Tali Lamaison](https://open.spotify.com/artist/7DuJwh4J3waP5PYvcLmO3e) | [Saudade da Festa](https://open.spotify.com/album/40zpDaK3TFAP53BtRM2Eqo) | 2:57 | 2021-03-26 |  |
+| [Say Yea \- datadata Remix](https://open.spotify.com/track/2fu0TreaZ0LrYRBuxuMGOr) | [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX), [datadata](https://open.spotify.com/artist/3sgx42RuEGpRA5ejDfVgJ2) | [Say Yea \(datadata Remix\)](https://open.spotify.com/album/2JIkxVX36uu3QYMK1AoD0a) | 6:01 | 2025-01-31 |  |
 | [School is Out](https://open.spotify.com/track/5mlKpS72EC7S1EUk0ZGQsS) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Bass Sax Beats, Vol\. 3](https://open.spotify.com/album/3RVIQNt4hC9dmibdhAqxe6) | 3:31 | 2023-09-15 | 2023-12-08 |
 | [Seventh Wonder](https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Seventh Wonder](https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM) | 3:27 | 2022-09-02 |  |
 | [Seventh Wonder](https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Seventh Wonder](https://open.spotify.com/album/4qZk3KeMtoXrduTt7tViiZ) | 3:27 | 2022-09-02 | 2024-04-19 |

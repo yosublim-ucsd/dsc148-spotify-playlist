@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Yonder: Book II",
+        "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6Yk2g7SHvLwpPHhLtqEveo"
+    },
+    {
+      "album": {
         "name": "Broken Chandeliers",
         "url": "https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp"
       },
@@ -674,7 +692,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208800,
       "name": "Home",
       "url": "https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe"

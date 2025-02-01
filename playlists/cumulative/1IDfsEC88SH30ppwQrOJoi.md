@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-367 songs - 19 hr 3 min
+369 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Forever & Always](https://open.spotify.com/track/0moqpuDhgttCjbCW9eYtNq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Forever & Always](https://open.spotify.com/album/6EmbyEUDThdkWcri5OsTep) | 3:14 | 2023-06-13 | 2024-03-14 |
 | [Forget About Me](https://open.spotify.com/track/637iOVZwfu5BZhE5kAkWFQ) | [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg), [Alka & Feiv](https://open.spotify.com/artist/47kNyPbq5TrXPrbyjI5E2t) | [Forget About Me](https://open.spotify.com/album/3G3DVkSjcGiM7DgmfwImkp) | 2:36 | 2024-11-01 |  |
 | [Freak](https://open.spotify.com/track/1fNAoNIAVVz1YhdolDNv3s) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \(Deluxe\)](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:26 | 2024-04-26 | 2024-05-01 |
+| [Freak Out](https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Freak Out](https://open.spotify.com/album/6DGCEXrMI3ZJ4Cy1Hns3NQ) | 2:53 | 2025-01-31 |  |
 | [French Club](https://open.spotify.com/track/7LSPxjQZSl6ZVV4SgGmbBb) | [Mat Eclair](https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa) | [French Club](https://open.spotify.com/album/7aPgdVgAkth15wjo4N2KxE) | 3:04 | 2024-08-16 |  |
 | [Gasolina](https://open.spotify.com/track/1yd3qpiM8o5o6BlsYYd9Ov) | [Fede Rego](https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN) | [Gasolina](https://open.spotify.com/album/7Ev8YOSazbdxfIKfHzphv5) | 2:30 | 2024-08-02 |  |
 | [Get Dirty](https://open.spotify.com/track/1MFX2gQcebWefL6a9piY2A) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo) | [Get Dirty](https://open.spotify.com/album/5rUYLyZrh5F1kxK21o0DbD) | 2:50 | 2023-11-03 | 2024-03-14 |
@@ -169,6 +170,7 @@
 | [Let The Music Play](https://open.spotify.com/track/3FINJjWtt1T5cEsUVyQY85) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Eddie Craig](https://open.spotify.com/artist/69IpNz134fIjeb0E6E8M6X) | [Let The Music Play](https://open.spotify.com/album/0MenbU7UQ1dNGsJy8GB9eK) | 2:54 | 2024-08-02 |  |
 | [Let You Down](https://open.spotify.com/track/4furYdIsKWxGZDMbyAKfph) | [Steven Roys](https://open.spotify.com/artist/4GAPAAID8ohZe8QdJ5wEQi), [AstroWilk](https://open.spotify.com/artist/109DXBNtpYRi35I7lQ8QOm) | [Let You Down](https://open.spotify.com/album/12SUcQ8PXVhhsTjz3GPzsg) | 2:36 | 2023-10-30 | 2024-03-14 |
 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 | 2024-04-26 |  |
+| [Life](https://open.spotify.com/track/33jZTXHw1CvUqai4Jum4Nc) | [Bottom Lip](https://open.spotify.com/artist/1kGshKeUGUyFii95MRyIiJ), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Life](https://open.spotify.com/album/3bNsBu66DMg1VGL5O547Zj) | 4:38 | 2025-01-31 |  |
 | [Lift Me Up](https://open.spotify.com/track/3IiaXjozWhgtO7CZmj41hL) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Lift Me Up](https://open.spotify.com/album/4DQOJ5txr1aWj1Fla6xGD7) | 3:06 | 2023-08-22 | 2024-03-14 |
 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-04-26 |  |
 | [LIGHTWAVES](https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LIGHTWAVES](https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte) | 2:21 | 2023-08-18 | 2024-05-01 |

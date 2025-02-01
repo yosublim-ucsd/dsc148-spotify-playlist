@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,126 songs - 2 day 8 hr 28 min
+1,127 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [Gözyaşı Rapsodi 3](https://open.spotify.com/track/7uECo8F02dr0NrMLCPP1Xr) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Gözyaşı Rapsodi 3](https://open.spotify.com/album/3KrOj8YmxQn30s62AEXS5f) | 3:46 | 2022-12-24 | 2022-12-26 |
 | [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 | 2025-01-11 |  |
 | [Gülüşüne Yanıyorum](https://open.spotify.com/track/1u2disQzfl3rUEhfZx35gL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Gülüşüne Yanıyorum](https://open.spotify.com/album/0j819GekftC9QyypkgPlLx) | 2:03 | 2024-01-27 | 2024-03-10 |
-| [Gülşen](https://open.spotify.com/track/6DI8vp0suhomDFI6ItyLzr) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/4Bm0osYvUOWgDRC3vM1Ecy) | 2:26 | 2024-12-26 |  |
+| [Gülşen](https://open.spotify.com/track/6DI8vp0suhomDFI6ItyLzr) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/4Bm0osYvUOWgDRC3vM1Ecy) | 2:26 | 2024-12-26 | 2025-02-01 |
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
 | [Günes lvbel NKBI](https://open.spotify.com/track/4QOar9YEh8K7vHHmgYf1wf) | [Dupzibaba](https://open.spotify.com/artist/4RQuo3XeI8JydMHBIFhAX9) | [Günes lvbel NKBI](https://open.spotify.com/album/2hrltZBlDrvMxMZnPpFmSX) | 2:58 | 2022-11-08 | 2022-11-10 |
 | [GÜNEŞ](https://open.spotify.com/track/4HbGWKUGE4kZveaZ4IJOXQ) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:13 | 2021-06-13 | 2021-07-18 |
@@ -627,6 +627,7 @@
 | [KASA ORIJINAL](https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [KASA ORIJINAL](https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT) | 1:50 | 2024-10-05 | 2024-10-07 |
 | [Kaybolurum Gülüşünde](https://open.spotify.com/track/67ZwIUIM4se0mV5OT5ugsB) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Kaybolurum Gülüşünde](https://open.spotify.com/album/7ympkjgI6ge8PPZi16jK44) | 3:21 | 2021-05-08 | 2021-11-14 |
 | [Kazılı Kuyum](https://open.spotify.com/track/5DJEXxOutnFD5GEUVk88yE) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Kazılı Kuyum](https://open.spotify.com/album/4L3KecBdi6B1G1xX2F4xZT) | 3:28 | 2021-03-27\* | 2021-04-26 |
+| [Kaçamadım](https://open.spotify.com/track/74H7jyyJp53HSzpcFMLL21) | [Uralxlr](https://open.spotify.com/artist/4L8XrSpW2bBZ50Isfi6Oyr) | [Kaçamadım](https://open.spotify.com/album/0ubFAE4cHDpFRif2fLdPUZ) | 1:53 | 2025-01-31 |  |
 | [Kedi](https://open.spotify.com/track/0xpC3o7TNQZFEyumENPnOV) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/28WWrNIUffrjPkNzARekmg) | 2:22 | 2024-11-23 | 2024-11-25 |
 | [Kediler Aslan Olmaz](https://open.spotify.com/track/0iQGwVx3GbJaVuLNthKToL) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ) | [Kediler Aslan Olmaz](https://open.spotify.com/album/031vHIyVJmPlsn5AmvZygD) | 2:58 | 2021-11-21 | 2021-11-23 |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2023-10-16 | 2024-09-23 |
@@ -650,7 +651,7 @@
 | [Kufi](https://open.spotify.com/track/7AbbuiP5vKiuyFl47Z5jY3) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/5Y2a9iCvO8nflR7838wkrz) | 4:25 | 2024-12-14 |  |
 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 | 2024-06-25 | 2024-09-08 |
 | [KUM SAATİ](https://open.spotify.com/track/7dC9xFO2FYKmnRwJsa936V) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ) | [KUM SAATİ](https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8) | 1:56 | 2023-04-10 | 2023-05-31 |
-| [Kumralım](https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:30 | 2023-05-22 | 2025-01-29 |
+| [Kumralım](https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:30 | 2023-05-22 |  |
 | [KURSUN DELIKLERI](https://open.spotify.com/track/7f7u6tinuOcJhY7mDpEYTq) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:42 | 2022-09-10 | 2022-09-12 |
 | [Kusura Bakma](https://open.spotify.com/track/7ng3MkDXpSUVFQEhN6vtqG) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Kusura Bakma](https://open.spotify.com/album/2wQTy5lZxRCArc6UScs8zt) | 2:35 | 2021-03-27\* | 2021-12-19 |
 | [Kuytu Köşelerde](https://open.spotify.com/track/145jqpXnJcombk47TB8305) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Kuytu Köşelerde](https://open.spotify.com/album/66fQ1OfL3g4o2aOzLn247q) | 3:55 | 2021-04-15 | 2021-04-20 |
@@ -1133,6 +1134,6 @@
 | [Şiir Oldum](https://open.spotify.com/track/35CiF98CSt8b2zTxHTck8i) | [Emre Nalbantoğlu](https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1) | [EN KRAL CEKET BENİM](https://open.spotify.com/album/6uX8bNAI0Feaf6Jgt6gdzR) | 1:52 | 2024-03-07 | 2024-03-29 |
 | [Şimdiki Aklım](https://open.spotify.com/track/3mcvBUQFQLzklDgU1bBnaW) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Şimdiki Aklım](https://open.spotify.com/album/4MiHGZmRm4SiEJTzxJ5ceJ) | 2:52 | 2021-03-27 | 2021-04-19 |
 | [ŞU AN](https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [LATIN VIRGIN](https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA) | 2:25 | 2023-06-06 | 2023-07-23 |
-| [ŞUT](https://open.spotify.com/track/2C2m9namPfgkvcPgO0S6Xj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 3:04 | 2025-01-18 |  |
+| [ŞUT](https://open.spotify.com/track/2C2m9namPfgkvcPgO0S6Xj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 3:04 | 2025-01-18 | 2025-02-01 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

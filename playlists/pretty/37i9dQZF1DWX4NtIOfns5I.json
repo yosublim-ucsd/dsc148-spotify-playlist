@@ -1,13 +1,33 @@
 {
-  "description": "hannah cohen \ud83c\udf1f\ud83c\udf43\u2728\u2661",
-  "num_followers": 130327,
+  "description": "jack van cleaf getting his flowers \ud83c\udf3c",
+  "num_followers": 130349,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5j0iQAAAACZ/O1Mr4/pEtjBx/mbpF5c",
+  "snapshot_id": "Z50ILQAAAADgtjWn2vuhcIvRuL5Wp7Ei",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Rattlesnake (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 293836,
+      "name": "Rattlesnake (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
     {
       "added_at": "2025-01-17 05:00:58",
       "album": {
@@ -39,6 +59,54 @@
       "duration_ms": 243455,
       "name": "Earthstar",
       "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "added_at": "2025-01-31 17:28:13",
+      "album": {
+        "name": "forgive",
+        "url": "https://open.spotify.com/album/7ce4lWzKblWtwCZPJH0wx4"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 288465,
+      "name": "forgive",
+      "url": "https://open.spotify.com/track/5o1hmgXrZVssht9hZLjhEu"
+    },
+    {
+      "added_at": "2025-01-17 05:00:58",
+      "album": {
+        "name": "you were mine",
+        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 221584,
+      "name": "you were mine",
+      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
     },
     {
       "added_at": "2025-01-28 15:15:21",
@@ -73,38 +141,6 @@
       "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
     },
     {
-      "added_at": "2025-01-17 05:00:58",
-      "album": {
-        "name": "you were mine",
-        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 221584,
-      "name": "you were mine",
-      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "a few thoughts",
-        "url": "https://open.spotify.com/album/6J01H7cgmsdyQzodSkTcoo"
-      },
-      "artists": [
-        {
-          "name": "mou",
-          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
-        }
-      ],
-      "duration_ms": 229036,
-      "name": "my love",
-      "url": "https://open.spotify.com/track/1rqnSTuaNTr3F5t2Q2gx3d"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Fable",
@@ -121,20 +157,56 @@
       "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
     },
     {
-      "added_at": "2025-01-10 05:00:34",
+      "added_at": "2025-01-31 05:00:35",
       "album": {
-        "name": "Same Old Song",
-        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
+        "name": "HEAVYWEIGHT (feat. Madi Diaz)",
+        "url": "https://open.spotify.com/album/4oz5gWyUsn17qOnNH39PEY"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        },
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 174322,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
+      "duration_ms": 191913,
+      "name": "HEAVYWEIGHT (feat. Madi Diaz)",
+      "url": "https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ"
+    },
+    {
+      "added_at": "2024-12-19 14:24:12",
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "a few thoughts",
+        "url": "https://open.spotify.com/album/6J01H7cgmsdyQzodSkTcoo"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "duration_ms": 229036,
+      "name": "my love",
+      "url": "https://open.spotify.com/track/1rqnSTuaNTr3F5t2Q2gx3d"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -169,20 +241,20 @@
       "url": "https://open.spotify.com/track/4c7QjLPvkrtvKFHlIBrXYl"
     },
     {
-      "added_at": "2024-12-19 14:24:12",
+      "added_at": "2025-01-31 05:00:35",
       "album": {
-        "name": "Weathervane",
-        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+        "name": "Living Ghost",
+        "url": "https://open.spotify.com/album/6cOpPRnzFVeC0nJTZmCQ2O"
       },
       "artists": [
         {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
         }
       ],
-      "duration_ms": 224173,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+      "duration_ms": 329875,
+      "name": "Wildfire (Gone, Gone, Gone) / Death Song",
+      "url": "https://open.spotify.com/track/1VGENSgt3c628FEF6GjZKt"
     },
     {
       "added_at": "2024-12-06 14:58:22",
@@ -285,20 +357,20 @@
       "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
     },
     {
-      "added_at": "2024-12-06 14:58:22",
+      "added_at": "2025-01-10 05:00:34",
       "album": {
-        "name": "to be held",
-        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
       },
       "artists": [
         {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 234742,
-      "name": "to be held",
-      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -415,6 +487,22 @@
       "duration_ms": 167587,
       "name": "What's In My Head",
       "url": "https://open.spotify.com/track/3Gogu2TwHL7dO3xK0dMgjW"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "to be held",
+        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 234742,
+      "name": "to be held",
+      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1119,22 +1207,6 @@
       "duration_ms": 176475,
       "name": "Dig Myself Out",
       "url": "https://open.spotify.com/track/70JmaiNir097KCH7yInIC1"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "the way that i am",
-        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 177149,
-      "name": "the way that i am",
-      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
     },
     {
       "added_at": "2024-10-25 04:00:00",

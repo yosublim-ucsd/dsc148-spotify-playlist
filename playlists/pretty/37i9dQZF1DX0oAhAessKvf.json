@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 126040,
+  "num_followers": 126075,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "Lito y Polaco",
-          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Maniatica Sexual",
-      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Soy El Mas Sensual - Renato Classics",
         "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 210240,
       "name": "Soy El Mas Sensual",
       "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "Lito y Polaco",
+          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Maniatica Sexual",
+      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -835,8 +835,8 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Aquel Que Habia Muerto",
-        "url": "https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 291093,
-      "name": "Aquel Que Habia Muerto",
-      "url": "https://open.spotify.com/track/4Z9is8IlwRlOmKsW58c4p2"
+      "duration_ms": 262466,
+      "name": "Xplosion",
+      "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -975,8 +975,8 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
+        "name": "Aquel Que Habia Muerto",
+        "url": "https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 262466,
-      "name": "Xplosion",
-      "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"
+      "duration_ms": 291093,
+      "name": "Aquel Que Habia Muerto",
+      "url": "https://open.spotify.com/track/4Z9is8IlwRlOmKsW58c4p2"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1064,13 +1064,13 @@
       },
       "artists": [
         {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 149253,
-      "name": "Un Nnuevo Estilo",
-      "url": "https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu"
+      "duration_ms": 146880,
+      "name": "Me Arrepiento",
+      "url": "https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1080,13 +1080,13 @@
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
         }
       ],
-      "duration_ms": 146880,
-      "name": "Me Arrepiento",
-      "url": "https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv"
+      "duration_ms": 149253,
+      "name": "Un Nnuevo Estilo",
+      "url": "https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1192,13 +1192,13 @@
       },
       "artists": [
         {
-          "name": "Great Kilo",
-          "url": "https://open.spotify.com/artist/2p6d1gygQeO546afz3JKLA"
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
         }
       ],
-      "duration_ms": 116986,
-      "name": "Tira Un Ritmo Sandunguero",
-      "url": "https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5"
+      "duration_ms": 207853,
+      "name": "Intro - Soy El Sandunguero",
+      "url": "https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1208,13 +1208,13 @@
       },
       "artists": [
         {
-          "name": "DJ Blass",
-          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+          "name": "Great Kilo",
+          "url": "https://open.spotify.com/artist/2p6d1gygQeO546afz3JKLA"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Intro - Soy El Sandunguero",
-      "url": "https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF"
+      "duration_ms": 116986,
+      "name": "Tira Un Ritmo Sandunguero",
+      "url": "https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5"
     },
     {
       "added_at": "2024-03-25 13:06:06",

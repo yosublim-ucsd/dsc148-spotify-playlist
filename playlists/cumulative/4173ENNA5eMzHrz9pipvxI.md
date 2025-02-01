@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM
 
-1,633 songs - 3 day 6 hr 2 min
+1,634 songs - 3 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Deeper Love](https://open.spotify.com/track/7c4p2hXyhgQJ1ZGL3bkt4a) | [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC), [Different Stage](https://open.spotify.com/artist/7ceDWHSy9Z6e8uAsVesK8Z), [sone.](https://open.spotify.com/artist/0IUu7qzhlQ3OxKomKLpC5c) | [Deeper Love](https://open.spotify.com/album/2TZSmNJVWFAEPyez2IpXML) | 3:35 | 2023-03-30 | 2023-04-14 |
 | [Delete Time](https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Delete Time](https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB) | 3:38 | 2024-01-26 | 2024-02-10 |
 | [Delilah](https://open.spotify.com/track/6i01aKCm7afBk60sPMiCJW) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/46Y6kHcAnFMTGPZQO15WP7) | 2:21 | 2023-08-03 | 2023-08-20 |
+| [Delirious \(French Version\)](https://open.spotify.com/track/5nGPbqEmQ3ZutQGX4EHw9J) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Delirious \(French Version\)](https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2) | 2:56 | 2025-01-31 |  |
 | [Dernière Danse \(Aaxis HYPER Mix\)](https://open.spotify.com/track/7ajJeUkUltHkIQ0lI0bG7J) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [SHANGUY](https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs), [Aaxis](https://open.spotify.com/artist/1EzP6CWfUIHDQ1rpQRxdBi) | [Dernière Danse \(Aaxis HYPER Mix\)](https://open.spotify.com/album/5K2oYKx6QE6V0hsD1lfIv6) | 2:37 | 2023-12-15 | 2024-01-13 |
 | [Desire](https://open.spotify.com/track/02wLZcPEl7xt0L9OpBKpS0) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9), [Jake Silva](https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL), [Bruno Wolff](https://open.spotify.com/artist/0pn6XJi2YF35lsPYokfM5B) | [Desire](https://open.spotify.com/album/1KVnJQosRymvL1urEH5Wsc) | 2:54 | 2024-01-19 | 2024-02-03 |
 | [DESPERADO](https://open.spotify.com/track/353uz5NorsHukIiCYrISJy) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [KENNY MUSIK](https://open.spotify.com/artist/5UzwQIj5Z1CfQrsVhpp57z) | [DESPERADO](https://open.spotify.com/album/66NeLcENv1kKrHw7lU18ze) | 2:27 | 2022-11-03 | 2022-11-18 |

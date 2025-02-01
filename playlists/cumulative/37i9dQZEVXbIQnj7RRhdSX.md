@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-2,260 songs - 4 day 19 hr 14 min
+2,261 songs - 4 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [9.19](https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 1:59 | 2022-05-29 | 2022-06-09 |
 | [90 SPECIAL \(feat\. Sfera Ebbasta & Shiva\)](https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 2:53 | 2023-07-01 | 2023-08-04 |
 | [\_bilico\_](https://open.spotify.com/track/7Dh5zvgpoz2kW1sbj20QWI) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:23 | 2022-10-01 | 2022-10-15 |
+| [A Casa \(feat\. Tony Boy\)](https://open.spotify.com/track/0gtXJqBpuLg3NN4nOXIi1T) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [A Casa \(feat\. Tony Boy\)](https://open.spotify.com/album/4irBREU9OXa0bC6RQ8kv5R) | 2:46 | 2025-01-31 |  |
 | [A DIO](https://open.spotify.com/track/2sLjcE5PnsLf33zW432MFg) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:54 | 2021-10-03 | 2021-10-16 |
 | [A Fari Spenti](https://open.spotify.com/track/7Ggmq6P4cTVReTVyyxfLPP) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [A Fari Spenti](https://open.spotify.com/album/3J1c80dg2FWqUMsn4q0fRq) | 3:18 | 2023-09-23 | 2023-09-25 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2023-12-25 | 2023-12-30 |
@@ -1418,7 +1419,7 @@
 | [Niente da perdere](https://open.spotify.com/track/7mRHqbk9dgsJCXTBCWzbDX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 2:46 | 2022-08-29 | 2022-11-20 |
 | [Niente Di Nuovo](https://open.spotify.com/track/6F4aPwKorpMlwcOMEFBELp) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:36 | 2021-11-14 | 2021-11-17 |
 | [NIENTE DI SPECIALE](https://open.spotify.com/track/2HYb7h6j7uQEqPZRylzGI6) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:30 | 2023-01-07 | 2023-01-13 |
-| [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 | 2024-10-12 |  |
+| [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 | 2024-10-12 | 2025-02-01 |
 | [NIGHTCRAWLERS](https://open.spotify.com/track/0aMyRYXZvXRcpZkFhCsOTs) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 2:12 | 2023-11-04 | 2023-11-09 |
 | [Nightmares](https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Nightmares](https://open.spotify.com/album/4sSMvLcF71IS3RfB4yP0PN) | 3:21 | 2023-09-30 | 2024-02-09 |
 | [NINJA PLAQUETTE \(feat\. Boy Mass\)](https://open.spotify.com/track/4bAFTkcfPaDCOOZRHkv8vM) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Boy Mass](https://open.spotify.com/artist/6YmqtOMVh2mDhXsid4giCY) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 1:53 | 2024-01-06 | 2024-01-12 |

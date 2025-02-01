@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59144,
+  "num_followers": 59147,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -107,26 +107,6 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "Talk talk featuring troye sivan",
-        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Talk talk featuring troye sivan",
-      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
+        "name": "Thee Unknown",
+        "url": "https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Thee Unknown",
+      "url": "https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 155616,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
-        "name": "Thee Unknown",
-        "url": "https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Thee Unknown",
-      "url": "https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "imsochillandcool",
-        "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 206095,
-      "name": "imsochillandcool",
-      "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 205146,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
+        "name": "imsochillandcool",
+        "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 206095,
+      "name": "imsochillandcool",
+      "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Two",
-        "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Blue Sky & The Painter",
-      "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 188601,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Two",
+        "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Blue Sky & The Painter",
+      "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 251979,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 164628,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 251979,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
+        "name": "Devil Mode",
+        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 184434,
+      "name": "Devil Mode",
+      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
         "name": "Zoey",
         "url": "https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 183054,
       "name": "Zoey",
       "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
-        "name": "Devil Mode",
-        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 184434,
-      "name": "Devil Mode",
-      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "What Happens Now? (Deluxe)",
-        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
         "name": "Old Memories",
         "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 86622,
       "name": "u will be fine",
       "url": "https://open.spotify.com/track/3QxiHZEbiztQg4ItS8oNnI"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
+        "name": "What Happens Now? (Deluxe)",
+        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
+        "name": "KALLAX CARGO",
+        "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
+      },
+      "artists": [
+        {
+          "name": "Movits!",
+          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 223853,
+      "name": "99 fel",
+      "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
         "name": "Hils Din Mor (feat. Anne Linnet)",
         "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
       },
@@ -1187,22 +1207,34 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "KALLAX CARGO",
-        "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
+        "name": "Catch Me",
+        "url": "https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq"
       },
       "artists": [
         {
-          "name": "Movits!",
-          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
-        },
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Ellen Benediktson",
+          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
         }
       ],
-      "duration_ms": 223853,
-      "name": "99 fel",
-      "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
+      "duration_ms": 177237,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
+        "name": "Ramlar jag s\u00e5 faller allt",
+        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
+      },
+      "artists": [
+        {
+          "name": "J1",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "duration_ms": 149059,
+      "name": "Ramlar jag s\u00e5 faller allt",
+      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -1239,38 +1271,6 @@
       "duration_ms": 192130,
       "name": "Lightyears (with Young Thug)",
       "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
-        "name": "Ramlar jag s\u00e5 faller allt",
-        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
-      },
-      "artists": [
-        {
-          "name": "J1",
-          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
-        }
-      ],
-      "duration_ms": 149059,
-      "name": "Ramlar jag s\u00e5 faller allt",
-      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
-        "name": "Catch Me",
-        "url": "https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq"
-      },
-      "artists": [
-        {
-          "name": "Ellen Benediktson",
-          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
-        }
-      ],
-      "duration_ms": 177237,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "Sockerdricka",
-        "url": "https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf"
+        "name": "Isolation Tank",
+        "url": "https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG"
       },
       "artists": [
         {
-          "name": "Petrus",
-          "url": "https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG"
+          "name": "ABY iO",
+          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Sockerdricka",
-      "url": "https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP"
+      "duration_ms": 137583,
+      "name": "Isolation Tank",
+      "url": "https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk"
     }
   ],
   "unique_name": "p\u00e5 repeat",

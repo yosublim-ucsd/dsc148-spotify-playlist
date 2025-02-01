@@ -1,13 +1,45 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 150901,
+  "num_followers": 150913,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MebAAAAAB8m55ghkovq+sXGlCPTDP3",
+  "snapshot_id": "Z5xZAAAAAADwMv3aLKSUTZLK4AyXtRKP",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:48",
+      "album": {
+        "name": "The Love Anthology",
+        "url": "https://open.spotify.com/album/1Przkz0IqwGmtFQ4Va2wxM"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 225869,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3LGHAzSDMm9KDxSrJlWIqV"
+    },
+    {
+      "added_at": "2025-01-31 05:00:48",
+      "album": {
+        "name": "Count On Me",
+        "url": "https://open.spotify.com/album/5hlNOvF2Fn1Xn3mygRwjGa"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 197388,
+      "name": "Count On Me - Edit",
+      "url": "https://open.spotify.com/track/3UhOT6UdA5ioHmpwCYDwzx"
+    },
     {
       "added_at": "2025-01-24 05:00:28",
       "album": {
@@ -183,22 +215,6 @@
       "duration_ms": 259107,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/1nlndNfaPWrnt3PdVS6ZCY"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Patiently Waiting For Love",
-        "url": "https://open.spotify.com/album/4S1vgyiWLVNGjWbFvrNGhO"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 182931,
-      "name": "Patiently Waiting For Love",
-      "url": "https://open.spotify.com/track/5ZQ3C1rFt6A2TbhnhbLOvR"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1467,22 +1483,6 @@
       "duration_ms": 157946,
       "name": "Bubble Shuffle",
       "url": "https://open.spotify.com/track/4yjgb4zj2Wgend2z4aIQqa"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Evolution of Joy",
-        "url": "https://open.spotify.com/album/3ZbnbSZwJooq41MPNH3iEC"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 257726,
-      "name": "Flying #evolution",
-      "url": "https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G"
     },
     {
       "added_at": "2023-03-17 04:01:00",

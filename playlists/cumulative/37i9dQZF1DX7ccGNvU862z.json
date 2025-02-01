@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DIAMOND MQT",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ben Bizzy",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 153333,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/5eUf1zcMheTZeWwoq3BDZC"
@@ -864,6 +864,32 @@
       "duration_ms": 168870,
       "name": "Cupid's Kiss",
       "url": "https://open.spotify.com/track/76R7t3olW14fAdiJrskfjp"
+    },
+    {
+      "album": {
+        "name": "CURSE (\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19)",
+        "url": "https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "CURSE (\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19)",
+      "url": "https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N"
     },
     {
       "album": {
@@ -1395,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "FREESTYL6",
+        "url": "https://open.spotify.com/album/6hL0ZynJrIhctoiyg7OcaC"
+      },
+      "artists": [
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191363,
+      "name": "FREESTYL6",
+      "url": "https://open.spotify.com/track/63hJL5DRFOLBIVYz1KCazC"
+    },
+    {
+      "album": {
         "name": "FROM NOW IT'S MY TURN",
         "url": "https://open.spotify.com/album/76nhn0zfwMGJgCsj41d6hP"
       },
@@ -1446,7 +1490,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 266753,
       "name": "Galaxy (feat. Kob The X Factor)",
       "url": "https://open.spotify.com/track/7m4O2ffb7Amnk1tQGKeLEH"
@@ -1486,7 +1530,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 189419,
       "name": "Gethigh My Love",
       "url": "https://open.spotify.com/track/1KWyMRhief1C3X7tlasgpT"
@@ -4166,7 +4210,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 173348,
       "name": "Shine",
       "url": "https://open.spotify.com/track/3vT2UJPd5GLPqBG7VpFvtm"
@@ -4768,7 +4812,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193069,
       "name": "Therapist",
       "url": "https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk"
@@ -4852,6 +4896,28 @@
       "duration_ms": 166936,
       "name": "TWIN TAIL",
       "url": "https://open.spotify.com/track/35CuL9gY2roiaDXYEfkcDN"
+    },
+    {
+      "album": {
+        "name": "UFOG",
+        "url": "https://open.spotify.com/album/0lxRoGSUpLdwxGUJH7FbiA"
+      },
+      "artists": [
+        {
+          "name": "GeniePak",
+          "url": "https://open.spotify.com/artist/0KX4JGKebDT1pcpbIdUPUM"
+        },
+        {
+          "name": "NAMEMT",
+          "url": "https://open.spotify.com/artist/22i4rMtrvKnWENQSiD3xXU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "UFOG",
+      "url": "https://open.spotify.com/track/4L0PDSYtWfUHD2TCqVO4Vs"
     },
     {
       "album": {
@@ -5092,7 +5158,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 173478,
       "name": "X Mas Love",
       "url": "https://open.spotify.com/track/3PiqJ7Yw4kmmdqvKK4BznW"
@@ -5176,7 +5242,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193600,
       "name": "YOU FEEL ME",
       "url": "https://open.spotify.com/track/2Eov5dNBRsuJUnSy7JPI9S"
@@ -5564,6 +5630,24 @@
       "duration_ms": 228014,
       "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
       "url": "https://open.spotify.com/track/37cSBWqPCWTBgYSt70vSEp"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
+        "url": "https://open.spotify.com/album/68hUncZaovZULPPeLlgQZv"
+      },
+      "artists": [
+        {
+          "name": "RachYO",
+          "url": "https://open.spotify.com/artist/620yKKXiTGmnZg0MVqUGo8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258781,
+      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
+      "url": "https://open.spotify.com/track/2tjp9RTgoW9Ip9VKLbshVJ"
     },
     {
       "album": {
@@ -5982,6 +6066,24 @@
       "duration_ms": 234174,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e40\u0e0a\u0e37\u0e48\u0e2d",
       "url": "https://open.spotify.com/track/4TjMY4TknLq3LkVe4pvTM6"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/3VKyhElaHMWXMxiroZclVV"
+      },
+      "artists": [
+        {
+          "name": "K.AGLET",
+          "url": "https://open.spotify.com/artist/3MjUtSzU4lplyjnX01fTSw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "\u0e04\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/0K1bv7CgUwHkgcL7BJZPys"
     },
     {
       "album": {
@@ -7588,6 +7690,28 @@
       "duration_ms": 144013,
       "name": "\u0e1c\u0e35\u0e40\u0e2a\u0e37\u0e49\u0e2d",
       "url": "https://open.spotify.com/track/3zKtizHy3g5M3gVmJDgyHg"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e39\u0e49\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/6t7slxBTEf1f1V9jWx52Yz"
+      },
+      "artists": [
+        {
+          "name": "TRIPLE P",
+          "url": "https://open.spotify.com/artist/1tohEMlQs52jo2vv2lOpqd"
+        },
+        {
+          "name": "SICKWARP",
+          "url": "https://open.spotify.com/artist/2Sur9QUwbSUpPyFrhlXra5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "\u0e1c\u0e39\u0e49\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/0FYBEWwXlBClQlylqa0WMf"
     },
     {
       "album": {
@@ -10005,6 +10129,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e14\u0e47\u0e01\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e02\u0e2d",
+        "url": "https://open.spotify.com/album/2KH3T4CkQHRJuWmJcm3GdA"
+      },
+      "artists": [
+        {
+          "name": "HK",
+          "url": "https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148866,
+      "name": "\u0e40\u0e14\u0e47\u0e01\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e02\u0e2d",
+      "url": "https://open.spotify.com/track/2J2jOOBAillTIFBY4v6mY6"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15 (\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d)",
         "url": "https://open.spotify.com/album/7qpKLYQjdxVGj8ALkCsrtr"
       },
@@ -10496,7 +10638,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 169180,
       "name": "\u0e40\u0e21\u0e32 (Drunk)",
       "url": "https://open.spotify.com/track/1z5PB90Axuav2LmLheyWPN"
@@ -10932,6 +11074,24 @@
       "duration_ms": 251132,
       "name": "\u0e41\u0e04\u0e48\u0e43\u0e08\u0e04\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/3DYiwfLPxLsCigKEFMJCzS"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e0b\u0e27",
+        "url": "https://open.spotify.com/album/3ng3O9JgU7zPcNqh3ifAEI"
+      },
+      "artists": [
+        {
+          "name": "Soloist",
+          "url": "https://open.spotify.com/artist/69QjaBrg8ihcyQ1fULynQz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190359,
+      "name": "\u0e41\u0e0b\u0e27",
+      "url": "https://open.spotify.com/track/4WipbJ7hPXXwj9MZrbMsB0"
     },
     {
       "album": {
@@ -11588,7 +11748,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 212947,
       "name": "\u0e44\u0e21\u0e48\u0e15\u0e34\u0e14",
       "url": "https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC"
@@ -11754,6 +11914,24 @@
       "duration_ms": 183237,
       "name": "\u0e44\u0e21\u0e48\u0e25\u0e37\u0e21",
       "url": "https://open.spotify.com/track/23jVsC8VrbWCrHewHXI2yt"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e15\u0e2d\u0e19\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+        "url": "https://open.spotify.com/album/4BZJHT9NOPOEj2tQpUXOvh"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171947,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e15\u0e2d\u0e19\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+      "url": "https://open.spotify.com/track/3e94purJn8Hn1zow0ocS2v"
     },
     {
       "album": {

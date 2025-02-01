@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Dept x PRETZELLE\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: JENNIE x Dominic Fike\)
 
-213 songs - 11 hr 20 min
+214 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Look Where We Are](https://open.spotify.com/track/7rZPpXv69bW1YQ3mn72OkL) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Look Where We Are](https://open.spotify.com/album/6jXzvpPyYVjylvQAJukXyh) | 3:12 | 2024-04-05 | 2024-11-22 |
 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 | 2024-05-10 |  |
 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/3sheUbqssFt6H7JGWfZFK5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/1TgswMNuhpRfmO411liq1R) | 3:25 | 2021-12-20 | 2022-05-17 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love me once again](https://open.spotify.com/track/7bfquwu5xobFp4axJkXVdg) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp), [YUN MIN SOO](https://open.spotify.com/artist/1FNZfvjCk9f579v5fBAPbP) | [Love me once again](https://open.spotify.com/album/4t6H6kJeG5QrElmIeDYZA4) | 5:24 | 2021-12-20 | 2022-01-22 |
 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-15 |  |
 | [Love,Maybe\(Japanese ver.\)](https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv) | 3:08 | 2023-04-07 | 2024-10-15 |

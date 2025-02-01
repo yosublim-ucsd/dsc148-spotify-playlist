@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia, Caetano Veloso",
+  "description": "Os grandes artistas da MPB. Foto: Tim Maia",
   "name": "O Melhor da MPB",
   "tracks": [
     {
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 192259,
       "name": "Mon\u00f3logo",
       "url": "https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8"
@@ -1902,6 +1902,24 @@
       "duration_ms": 283557,
       "name": "Nu Com a Minha M\u00fasica",
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+    },
+    {
+      "album": {
+        "name": "Marina Lima",
+        "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305373,
+      "name": "N\u00e3o Sei Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
     },
     {
       "album": {
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208074,
       "name": "Pote D'\u00c1gua",
       "url": "https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA"
@@ -3174,6 +3192,24 @@
       "duration_ms": 241241,
       "name": "\u00c9 o Que Me Interessa - Ao Vivo",
       "url": "https://open.spotify.com/track/6LjrP4M1HHQk6CbpV4Cvdd"
+    },
+    {
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
+      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT"

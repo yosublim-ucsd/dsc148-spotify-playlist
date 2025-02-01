@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAG5m8DgVEsa2GfhClxg4o3azxylarl",
+  "snapshot_id": "AAAG5+flvQcZPrSqGw6RkmMyw0P9eR2s",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8895,6 +8895,30 @@
       "duration_ms": 228726,
       "name": "BLACK OPPS",
       "url": "https://open.spotify.com/track/3YnYMjDHxPs5WsKjGJwZEE"
+    },
+    {
+      "added_at": "2025-02-01 02:09:03",
+      "album": {
+        "name": "Madvillainy Demos",
+        "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 93205,
+      "name": "Do Not Fire! (demo)",
+      "url": "https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql"
     }
   ],
   "unique_name": "Zacklog",

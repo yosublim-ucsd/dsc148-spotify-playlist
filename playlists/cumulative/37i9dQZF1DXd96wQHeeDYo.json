@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 134030,
       "name": "aguacero 2",
       "url": "https://open.spotify.com/track/2dotHiPGpnsxDZzJ8nfLDe"
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "bandida",
+        "url": "https://open.spotify.com/album/0Cr8YZ0KxPLHbPUT7hb3Re"
+      },
+      "artists": [
+        {
+          "name": "Dib",
+          "url": "https://open.spotify.com/artist/0dBOHbFtyJhntzjNS3ZFx6"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146923,
+      "name": "bandida",
+      "url": "https://open.spotify.com/track/2Qs0jR2ST0SPxRMlh8aczJ"
+    },
+    {
+      "album": {
         "name": "Bebesita",
         "url": "https://open.spotify.com/album/3pHMcSphLsIbWo3HqCr41D"
       },
@@ -702,7 +720,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 154858,
       "name": "Cari\u00f1o T\u00fa",
       "url": "https://open.spotify.com/track/1pHn4GaV5szWwmeJmUuNah"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 151034,
       "name": "Coloc\u00f3n",
       "url": "https://open.spotify.com/track/1LvcEQJligCkXwpmCJ95c3"
@@ -838,6 +856,24 @@
       "duration_ms": 180234,
       "name": "Con los M\u00edos",
       "url": "https://open.spotify.com/track/2jy455xFvoi2G2uM6I2Gkw"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
       "album": {
@@ -1091,6 +1127,46 @@
     },
     {
       "album": {
+        "name": "Esto si, esto no",
+        "url": "https://open.spotify.com/album/7fWcLdGw41wIQ4Pmc75LM0"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Esto si, esto no",
+      "url": "https://open.spotify.com/track/3w0BuLrr6xAqQ49rjV2yCU"
+    },
+    {
+      "album": {
+        "name": "Estoy Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159755,
+      "name": "Estoy Aqu\u00ed - Remix",
+      "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -1266,7 +1342,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 168960,
       "name": "Focus",
       "url": "https://open.spotify.com/track/59LO2zqURP6TIEnhVw4DFI"
@@ -1313,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Fuera de Casa",
+        "url": "https://open.spotify.com/album/4gvx0efjEf1zmYR1AzUG4W"
+      },
+      "artists": [
+        {
+          "name": "Iam",
+          "url": "https://open.spotify.com/artist/3wq29ktTUCaWenD0Hkvn3f"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157459,
+      "name": "Fuera de Casa",
+      "url": "https://open.spotify.com/track/36rVGu0rh8fu6Vh1qeBwpI"
+    },
+    {
+      "album": {
         "name": "Funk Love",
         "url": "https://open.spotify.com/album/2XYmcGVsBqEl0J6npqmJjD"
       },
@@ -1336,7 +1430,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 213461,
       "name": "Funk Love",
       "url": "https://open.spotify.com/track/5PbsZYCLrlp44JgWTYr5Yq"
@@ -1376,7 +1470,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 177230,
       "name": "funkoh",
       "url": "https://open.spotify.com/track/19THXlsjKNMLxyIspMppkf"
@@ -1398,10 +1492,36 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 124546,
       "name": "Funky Bellaka",
       "url": "https://open.spotify.com/track/3eucI4kltD0IHy6t9ZomQ5"
+    },
+    {
+      "album": {
+        "name": "Funky Rocho",
+        "url": "https://open.spotify.com/album/1fYIM3Knhf3y26v0SyVGma"
+      },
+      "artists": [
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "Mc Tota",
+          "url": "https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW"
+        },
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143855,
+      "name": "Funky Rocho",
+      "url": "https://open.spotify.com/track/31Njdd4MbcsNm5kEBylagD"
     },
     {
       "album": {
@@ -1811,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "La Musa",
+        "url": "https://open.spotify.com/album/76dg8QnttvlsKMXWzRPhRn"
+      },
+      "artists": [
+        {
+          "name": "Alex Nieves",
+          "url": "https://open.spotify.com/artist/3UCCJWd27RgoDg86gRPIrJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "La Musa",
+      "url": "https://open.spotify.com/track/5dZX5mBuUg1CgzbD7IDVP1"
+    },
+    {
+      "album": {
         "name": "LA SANTI",
         "url": "https://open.spotify.com/album/4ck6WICaITvZwjbiw98hAv"
       },
@@ -1877,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "levitarrr",
+        "url": "https://open.spotify.com/album/4W6sSaN3WX5G5On5HraD5d"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "levitarrr",
+      "url": "https://open.spotify.com/track/0IjnxHlCYd9YgqyuOoTyom"
+    },
+    {
+      "album": {
         "name": "Lilo & Stitch",
         "url": "https://open.spotify.com/album/4iT09fJbpmC1oa6FWNvW4w"
       },
@@ -1896,7 +2052,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 199534,
       "name": "Lilo & Stitch",
       "url": "https://open.spotify.com/track/0BdNLnxWq3ngH6uKkuLtBD"
@@ -2024,7 +2180,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 134363,
       "name": "Ma B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/61w5bOjCvPVlukF4iZleTe"
@@ -2102,6 +2258,28 @@
       "duration_ms": 153393,
       "name": "Me Quedo Contigo",
       "url": "https://open.spotify.com/track/1ohpeIhY8t02GuosxdW0qv"
+    },
+    {
+      "album": {
+        "name": "Menina",
+        "url": "https://open.spotify.com/album/06NgH1iCD8dQlfFtw7JxCV"
+      },
+      "artists": [
+        {
+          "name": "DGonchi",
+          "url": "https://open.spotify.com/artist/4b68cst8Vv01JtbulNbim9"
+        },
+        {
+          "name": "Ese T\u00e9",
+          "url": "https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/380C88LJUvbmFJJXOBkuyR"
     },
     {
       "album": {
@@ -2740,7 +2918,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 197543,
       "name": "Recreo",
       "url": "https://open.spotify.com/track/2mSUkuDPzK8XVRA3cyRBnu"
@@ -2784,6 +2962,32 @@
       "duration_ms": 110769,
       "name": "rosa",
       "url": "https://open.spotify.com/track/6zC0YD7pqW2mxaPRVmZUsV"
+    },
+    {
+      "album": {
+        "name": "Saia Mini",
+        "url": "https://open.spotify.com/album/7HsoEEOmV8xHsjyJ5sA1a9"
+      },
+      "artists": [
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        },
+        {
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        },
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167315,
+      "name": "Saia Mini",
+      "url": "https://open.spotify.com/track/383AaDYkagb6VGEdjYwFQ0"
     },
     {
       "album": {
@@ -3211,6 +3415,32 @@
     },
     {
       "album": {
+        "name": "TE FUISTE EN ROJO",
+        "url": "https://open.spotify.com/album/0VIToV6qMngN7SKLXPj3kd"
+      },
+      "artists": [
+        {
+          "name": "Topo La Maskara",
+          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
+        },
+        {
+          "name": "MRS. T",
+          "url": "https://open.spotify.com/artist/07e6CVt7oRHofbMgQSzZxo"
+        },
+        {
+          "name": "HVB MUSIC GROUP",
+          "url": "https://open.spotify.com/artist/5NHFBx21Atfz3SyZU5vqbl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144812,
+      "name": "TE FUISTE EN ROJO",
+      "url": "https://open.spotify.com/track/6SWrFBzkaCWf1jrwIhLnGT"
+    },
+    {
+      "album": {
         "name": "Te Sent\u00eda M\u00eda",
         "url": "https://open.spotify.com/album/6WXU3GANbrO7YIaWtRC9wv"
       },
@@ -3394,7 +3624,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"

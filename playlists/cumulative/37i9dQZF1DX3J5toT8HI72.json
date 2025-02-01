@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "encontro de alma",
+        "url": "https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "encontro de alma",
+      "url": "https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb"
+    },
+    {
+      "album": {
         "name": "Entrela\u00e7os/In\u00e9rcia",
         "url": "https://open.spotify.com/album/0IiOAGrdsbhSZfxaHtFXgi"
       },
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"

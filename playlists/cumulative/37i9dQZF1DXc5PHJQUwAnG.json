@@ -4117,6 +4117,28 @@
     },
     {
       "album": {
+        "name": "LOV3",
+        "url": "https://open.spotify.com/album/3cQFlTTGjPIr8A2ZkpZ92A"
+      },
+      "artists": [
+        {
+          "name": "Over Hill$",
+          "url": "https://open.spotify.com/artist/4fMuciJme6d5HKv3OQjsyK"
+        },
+        {
+          "name": "Bauttista",
+          "url": "https://open.spotify.com/artist/2MthkhunALie6f0Rya21tU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142226,
+      "name": "LOV3",
+      "url": "https://open.spotify.com/track/77FuRwTds1wwouSgoITRnO"
+    },
+    {
+      "album": {
         "name": "LowKey",
         "url": "https://open.spotify.com/album/0WK2yQv2NmyLwVhMnXFfyi"
       },

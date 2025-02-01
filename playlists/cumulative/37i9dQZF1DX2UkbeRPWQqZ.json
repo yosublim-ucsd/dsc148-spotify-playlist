@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 101106,
       "name": "Autumn Joy",
       "url": "https://open.spotify.com/track/6N72VsDHQL9QPe2XDY3YaQ"
@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 175516,
       "name": "I Jump To Grab A Star",
       "url": "https://open.spotify.com/track/1DPotsjdKBF7HicSOwvGt2"
@@ -3019,6 +3019,42 @@
     },
     {
       "album": {
+        "name": "Nap time fairytale",
+        "url": "https://open.spotify.com/album/4oeTXVZLnZV3AWlkElElF4"
+      },
+      "artists": [
+        {
+          "name": "Pipo and Roy",
+          "url": "https://open.spotify.com/artist/2D6uOhkI97JwoLo1GGgmGS"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97598,
+      "name": "Nap time fairytale",
+      "url": "https://open.spotify.com/track/5Sf4wTodiUhecuVDUBxCC9"
+    },
+    {
+      "album": {
+        "name": "Night Bloom",
+        "url": "https://open.spotify.com/album/3CeNMgkjbqdib08f7ZFDdg"
+      },
+      "artists": [
+        {
+          "name": "Roly-Poly",
+          "url": "https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141155,
+      "name": "Night Bloom",
+      "url": "https://open.spotify.com/track/0nD6TTIGnE9oIhxf05kkLx"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/3Nz6S7NBhNIhRLaT613Hxz"
       },
@@ -3222,7 +3258,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 122403,
       "name": "Pirate Fabian (Sj\u00f6r\u00f6var-Fabbe)",
       "url": "https://open.spotify.com/track/6hJsbibFLOydQVfrKyacsS"
@@ -3967,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/3gV34Vve5N102bJ1av3p81"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/5sDWTIQA0WOxN1mrmHozll"
+    },
+    {
+      "album": {
         "name": "Sunny Days",
         "url": "https://open.spotify.com/album/0aikExd8M5vlQWE5703612"
       },
@@ -4338,7 +4392,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 139761,
       "name": "The Wooden Boat",
       "url": "https://open.spotify.com/track/40NTbA5i01HrmuSvqjdfJ8"
@@ -5022,7 +5076,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 99179,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/4jLF2h1ffk7I8y174WEPSU"

@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Dishonest",
+        "url": "https://open.spotify.com/album/1wHlTFsE3N0uXNImQutooN"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188544,
+      "name": "Dishonest",
+      "url": "https://open.spotify.com/track/0CFpvRMXVlBbGBqKduQGTW"
+    },
+    {
+      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
       },
@@ -872,6 +890,28 @@
       "duration_ms": 216462,
       "name": "Get Outta My Dreams, Get into My Truck",
       "url": "https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4"
+    },
+    {
+      "album": {
+        "name": "Get The Hell Out Of This Town",
+        "url": "https://open.spotify.com/album/5niesz0tsaHb9YIaJs6Lv3"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181280,
+      "name": "Get The Hell Out Of This Town",
+      "url": "https://open.spotify.com/track/3wk3qPlDWa8gYNEtqPeosg"
     },
     {
       "album": {
@@ -1168,7 +1208,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 169448,
       "name": "Hey Mom I Made It",
       "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
@@ -1222,7 +1262,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 165750,
       "name": "home",
       "url": "https://open.spotify.com/track/3lcr1wXj1KnNZkYsC8TGZX"
@@ -1305,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Hundred Mile High",
+        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172181,
+      "name": "Hundred Mile High",
+      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
+    },
+    {
+      "album": {
         "name": "A Week in Nashville",
         "url": "https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui"
       },
@@ -1374,6 +1432,24 @@
       "duration_ms": 279066,
       "name": "I Need A Saviour",
       "url": "https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk"
+    },
+    {
+      "album": {
+        "name": "i'll be there",
+        "url": "https://open.spotify.com/album/67UGfvCWnvMYd6prpvlNQQ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mitchell",
+          "url": "https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "i'll be there",
+      "url": "https://open.spotify.com/track/47OYGU1ItIVUDRHl7jLfFb"
     },
     {
       "album": {
@@ -1521,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Life For Me",
+        "url": "https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173100,
+      "name": "Life For Me",
+      "url": "https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN"
+    },
+    {
+      "album": {
         "name": "Life Goes On",
         "url": "https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1"
       },
@@ -1652,7 +1746,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 167058,
       "name": "Love and Hate",
       "url": "https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37"
@@ -2274,7 +2368,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161543,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC"
@@ -2332,7 +2426,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 187973,
       "name": "Quits",
       "url": "https://open.spotify.com/track/6tW3zBBqRXuM3hDvzRXsa8"
@@ -2350,7 +2444,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
@@ -2635,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Smoke Rings",
+        "url": "https://open.spotify.com/album/73dLh0Odw7jnzPXDO9VQ1S"
+      },
+      "artists": [
+        {
+          "name": "River Town Saints",
+          "url": "https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184932,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/4nl2s8WMKZrMnDbI0dT6G3"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/2Mm3lPj9raAwpBrcbKZGD6"
       },
@@ -2783,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Tail Lights",
+        "url": "https://open.spotify.com/album/3UnKGVmIllBTCsAbj4i9Wk"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214611,
+      "name": "Tail Lights",
+      "url": "https://open.spotify.com/track/2V0OXn4Bum36a6tcVdDEci"
+    },
+    {
+      "album": {
         "name": "Takes Me Back",
         "url": "https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd"
       },
@@ -2906,7 +3036,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 213454,
       "name": "Think of Me",
       "url": "https://open.spotify.com/track/2JPbZQ0pek5lbzUpZtVQzX"
@@ -2928,6 +3058,24 @@
       "duration_ms": 135000,
       "name": "TICKET TO RIDE",
       "url": "https://open.spotify.com/track/2lbIfAfYcUqvHqujrqNCjf"
+    },
+    {
+      "album": {
+        "name": "Where To Start",
+        "url": "https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170397,
+      "name": "Til I Don't",
+      "url": "https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD"
     },
     {
       "album": {
@@ -2996,7 +3144,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 267079,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/46LccjwmRg9n1Mg54gaA83"

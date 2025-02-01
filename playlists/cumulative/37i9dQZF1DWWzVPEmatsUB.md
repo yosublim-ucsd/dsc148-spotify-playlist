@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-402 songs - 1 day 0 hr 18 min
+403 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Dreamer](https://open.spotify.com/track/7asFG5jEyzbl3sYRHIpRyg) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:01 | 2022-07-08 | 2024-04-19 |
 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-02-03 | 2023-06-17 |
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
+| [Eden](https://open.spotify.com/track/5w1JnfPhdNaUqVM3jEiIBh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [The Awakening](https://open.spotify.com/album/40DA8dgGm11xUxZEMBPU3r) | 3:27 | 2025-01-31 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 |  |
 | [epilogue](https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 3:59 | 2022-10-14 | 2022-11-19 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
@@ -125,7 +126,7 @@
 | [Give in to Me](https://open.spotify.com/track/0WRV8ZT2bzSINqpufUIazn) | [Charlotte Leigh](https://open.spotify.com/artist/7yifAbF2E8xMhw1UMnuw0r) | [Give in to Me](https://open.spotify.com/album/2kTC04fQ5TMi8oIMxSCvk5) | 4:31 | 2020-10-17 | 2022-07-28 |
 | [Give It Up](https://open.spotify.com/track/7AoCNArsiCSt4vr2dqAjJx) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [Saturday Morning](https://open.spotify.com/album/6yLxPkUxQi9UxLwTFX8I9y) | 2:14 | 2020-10-17 | 2023-02-18 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 |  |
-| [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph) | 4:27 | 2022-02-25 |  |
+| [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph) | 4:27 | 2022-02-25 | 2025-02-01 |
 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK) | 4:27 | 2022-02-25 | 2024-04-19 |
 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 | 2022-06-10 | 2023-10-21 |
 | [Goodbye](https://open.spotify.com/track/5dDyyHZaFm5yZiBeG6LZ9I) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o) | [Goodbye](https://open.spotify.com/album/5TZac3S7GqvsBdxxiulFnt) | 3:23 | 2020-10-17 | 2022-04-16 |

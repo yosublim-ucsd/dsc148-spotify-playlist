@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "All You People Bring It Back",
+        "url": "https://open.spotify.com/album/20TVdL3l9QskriR9dp5HAg"
+      },
+      "artists": [
+        {
+          "name": "Rui Da Silva",
+          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
+        },
+        {
+          "name": "Cosmic Bambino",
+          "url": "https://open.spotify.com/artist/3tlaw59uwBVCYiuL8hXJ8z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355275,
+      "name": "All You People Bring It Back",
+      "url": "https://open.spotify.com/track/2pOBrqAoAcatWGBXLowqx8"
+    },
+    {
+      "album": {
         "name": "Alley Rave",
         "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
       },
@@ -1014,7 +1036,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191929,
       "name": "Breaking Dollars",
       "url": "https://open.spotify.com/track/7MNdA4KvxD2qFilUBt8sys"
@@ -1612,6 +1634,28 @@
     {
       "album": {
         "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2JMA4A9DfW0F9zRxgXuf5T"
+      },
+      "artists": [
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        },
+        {
+          "name": "Carvalho(BR)",
+          "url": "https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0Dj1blRTLl6v8cJddRpx6M"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
         "url": "https://open.spotify.com/album/5bIb9T2gF7fRJlKjGKj2w5"
       },
       "artists": [
@@ -1674,6 +1718,24 @@
       "duration_ms": 270851,
       "name": "Delighful Funk - Edit",
       "url": "https://open.spotify.com/track/6Etd6C7NbfWIivVIbXprzw"
+    },
+    {
+      "album": {
+        "name": "Demon Time",
+        "url": "https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201377,
+      "name": "Demon Time",
+      "url": "https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4"
     },
     {
       "album": {
@@ -2106,7 +2168,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 396682,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF"
@@ -2526,6 +2588,24 @@
       "duration_ms": 193500,
       "name": "FREAK IN THE SHEETS",
       "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
+    },
+    {
+      "album": {
+        "name": "Freak Out",
+        "url": "https://open.spotify.com/album/6DGCEXrMI3ZJ4Cy1Hns3NQ"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Freak Out",
+      "url": "https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3"
     },
     {
       "album": {
@@ -3414,7 +3494,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208372,
       "name": "Hit The Strobe",
       "url": "https://open.spotify.com/track/3Onbf1BtY2G9E71Htws89I"
@@ -3594,7 +3674,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
@@ -3758,7 +3838,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 320000,
       "name": "Infused",
       "url": "https://open.spotify.com/track/4Iqkg75Fm8Gql8Uzy7sy05"
@@ -3802,6 +3882,24 @@
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
+    },
+    {
+      "album": {
+        "name": "It's About Us",
+        "url": "https://open.spotify.com/album/1obE6RQ5LGUFgIhvfg35e6"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232790,
+      "name": "It's About Us",
+      "url": "https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT"
     },
     {
       "album": {
@@ -4428,7 +4526,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 198000,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/45yjPHECGDAkbo5lp2oItr"
@@ -4932,6 +5030,24 @@
       "duration_ms": 191166,
       "name": "Move",
       "url": "https://open.spotify.com/track/0yqsV9NZytn8U6HmwrVVBH"
+    },
+    {
+      "album": {
+        "name": "Move & Groove",
+        "url": "https://open.spotify.com/album/20b6uGsHv6yGpjytq3BWCV"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Move & Groove",
+      "url": "https://open.spotify.com/track/1poxjTo5B52kb3ImfnCRig"
     },
     {
       "album": {
@@ -5518,7 +5634,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 236279,
       "name": "Origins - 3AM Tusi Mix",
       "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
@@ -6016,7 +6132,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
@@ -6034,7 +6150,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 300041,
       "name": "Ready For The Blues",
       "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
@@ -6350,7 +6466,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
@@ -6544,6 +6660,24 @@
       "duration_ms": 247384,
       "name": "Searching",
       "url": "https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I"
+    },
+    {
+      "album": {
+        "name": "Secret Place EP",
+        "url": "https://open.spotify.com/album/5E1ePlhMmlCuzgJ95Cv4b3"
+      },
+      "artists": [
+        {
+          "name": "ENNE (BR)",
+          "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176307,
+      "name": "Secret Place",
+      "url": "https://open.spotify.com/track/61YNlY6LVxvpKcuwgWTMrB"
     },
     {
       "album": {
@@ -6788,6 +6922,24 @@
       "duration_ms": 460800,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/5rwiInzM1WFq06CvCr8m1j"
+    },
+    {
+      "album": {
+        "name": "Skywalker",
+        "url": "https://open.spotify.com/album/56DpIpJOy5mz32mnIHWMu8"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193282,
+      "name": "Skywalker",
+      "url": "https://open.spotify.com/track/4JQW1oYdF18vblyN48FBxP"
     },
     {
       "album": {
@@ -7179,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "Step By Step",
+        "url": "https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO"
+      },
+      "artists": [
+        {
+          "name": "Marsolo",
+          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179779,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8"
+    },
+    {
+      "album": {
         "name": "Step Forward EP",
         "url": "https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I"
       },
@@ -7400,6 +7570,24 @@
       "duration_ms": 326357,
       "name": "Supermodel Thick",
       "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+    },
+    {
+      "album": {
+        "name": "Superstyler",
+        "url": "https://open.spotify.com/album/3PCB4JPS4lx1k58dm3VZCK"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362536,
+      "name": "Superstyler",
+      "url": "https://open.spotify.com/track/2lwpEHtMIce18cnwRl0QB2"
     },
     {
       "album": {

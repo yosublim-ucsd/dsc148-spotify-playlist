@@ -1,15 +1,35 @@
 {
   "description": "Some of the most beautiful love songs in French.",
-  "num_followers": 93635,
+  "num_followers": 93667,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpGSmAAAAAACyIAZhdVjk14Et0N9aSk7",
+  "snapshot_id": "Z5xY9QAAAAAkU8H3/ukpf2TFOukWD1nh",
   "tracks": [
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
+      "album": {
+        "name": "Aliocha Schneider (Deluxe)",
+        "url": "https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Ensemble (feat. Charlotte Cardin)",
+      "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
+    },
+    {
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Sylvie Vartan, Vol. 1",
         "url": "https://open.spotify.com/album/4wH7vwZ9bJGV3e9xjvizHN"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/3td4hXoHSKPLeursSTVeTT"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Je te laisserai des mots",
         "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
@@ -41,23 +61,7 @@
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
-      "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
-    },
-    {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Brol",
         "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
@@ -73,7 +77,7 @@
       "url": "https://open.spotify.com/track/3iXhLi33EpUfcOwasC8un1"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Si tu m'aimes demain",
         "url": "https://open.spotify.com/album/2LjSr9COs39I342Ho6nwtp"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/14UoUyJ5opQScau6Iw6G0e"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
@@ -105,7 +109,7 @@
       "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "D'Eux",
         "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
@@ -121,7 +125,7 @@
       "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Les Jupes",
         "url": "https://open.spotify.com/album/6kIdkHW2v8PYbTTfSi1cYi"
@@ -137,7 +141,7 @@
       "url": "https://open.spotify.com/track/7HCKrwom1hMdLi6JlkWziV"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
@@ -157,7 +161,7 @@
       "url": "https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Evidemment (Version Deluxe)",
         "url": "https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj"
@@ -173,7 +177,7 @@
       "url": "https://open.spotify.com/track/6cqjxTDrj7Z8UL9dnm9PQO"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Flamme",
         "url": "https://open.spotify.com/album/2IHawKPF8EooRyVBYz3y1d"
@@ -189,7 +193,7 @@
       "url": "https://open.spotify.com/track/5mNzJwI6K103A3I46l081D"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Triple Best Of",
         "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
@@ -205,7 +209,7 @@
       "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Le temps est bon",
         "url": "https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw"
@@ -221,7 +225,7 @@
       "url": "https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Ressources (Nouvelle Edition)",
         "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
@@ -237,7 +241,7 @@
       "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "I LOVE YOU",
         "url": "https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123"
@@ -253,7 +257,7 @@
       "url": "https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "C\u0153ur De Pirate",
         "url": "https://open.spotify.com/album/71fry0hY8cte1dlWqIhPM3"
@@ -269,7 +273,7 @@
       "url": "https://open.spotify.com/track/3xuGzgRYAXHmj0dT1EOtzv"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
@@ -289,7 +293,7 @@
       "url": "https://open.spotify.com/track/3p441l1s27Pfo8at57EwEf"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "\u00c0 peu pr\u00e8s",
         "url": "https://open.spotify.com/album/65JwIioaq6D5ExpRdtYpCM"
@@ -305,7 +309,7 @@
       "url": "https://open.spotify.com/track/52APn0QJbjtcHRK0fiXpL6"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "L'essentiel / 1977 - 2007",
         "url": "https://open.spotify.com/album/3LyPovgZ6XYt8IwfRLLnLN"
@@ -321,7 +325,7 @@
       "url": "https://open.spotify.com/track/2XK2R8ElT2woHH2tfn6PgJ"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Les mots bleus",
         "url": "https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf"
@@ -337,7 +341,7 @@
       "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Pour d\u00e9jouer l'ennui",
         "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
@@ -353,7 +357,7 @@
       "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
@@ -369,7 +373,7 @@
       "url": "https://open.spotify.com/track/4lyIlP2RIrY2dy6U6Xy0qu"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Ta main",
         "url": "https://open.spotify.com/album/23cFhtNMnvM3aXnQoJ2f3C"
@@ -385,7 +389,7 @@
       "url": "https://open.spotify.com/track/6VbVuMbEi9LhL5GTHqpkBx"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "On ira",
         "url": "https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ"
@@ -401,7 +405,7 @@
       "url": "https://open.spotify.com/track/6NYjqmd0a3CZJZyJfty7Pv"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Objets perdus",
         "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
@@ -417,7 +421,7 @@
       "url": "https://open.spotify.com/track/2SpKEnFdyDWnHs1ZD33Lan"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "15 Ans D'Amour",
         "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
@@ -433,7 +437,7 @@
       "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Limoilou (Deluxe)",
         "url": "https://open.spotify.com/album/32N6jwadyAwPmruhrGRB0J"
@@ -449,7 +453,7 @@
       "url": "https://open.spotify.com/track/28DzOSJv7d8NW96v0ZD804"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Martha Wainwright (Special Edition)",
         "url": "https://open.spotify.com/album/7eVfiimAyPIostg7Lt9reQ"
@@ -465,7 +469,7 @@
       "url": "https://open.spotify.com/track/5t9sl52AWppfr37rz1t5aX"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Variations Sur Le Meme T'Aime",
         "url": "https://open.spotify.com/album/6duILyA58Muhuk7JcV6L7R"
@@ -481,7 +485,7 @@
       "url": "https://open.spotify.com/track/28Zaz9xgbpho8lIAaYS5ji"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Jenifer",
         "url": "https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD"
@@ -497,7 +501,7 @@
       "url": "https://open.spotify.com/track/40xyvJDp2caK50dhre26JU"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "M\u00e9tropole Blues",
         "url": "https://open.spotify.com/album/4mxmu0AwWUtVYmXyoExha6"
@@ -517,7 +521,7 @@
       "url": "https://open.spotify.com/track/42D3APQYY0jZN7bO70oFsP"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Airs pa\u00efens",
         "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
@@ -533,7 +537,7 @@
       "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "\u00c9toile flippante (Version deluxe)",
         "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
@@ -549,7 +553,7 @@
       "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Le pied dans ma bulle",
         "url": "https://open.spotify.com/album/7jRtfbizqVXGQzUplJzJ0r"
@@ -565,7 +569,7 @@
       "url": "https://open.spotify.com/track/3Nx0tpFFwD0xdw424rhhfN"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Premier amour",
         "url": "https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv"
@@ -581,7 +585,7 @@
       "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
@@ -597,7 +601,7 @@
       "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Message personnel (Remasteris\u00e9 2013)",
         "url": "https://open.spotify.com/album/5ZwlOcxszBn5GACtzs6sE6"
@@ -613,7 +617,7 @@
       "url": "https://open.spotify.com/track/6lanWfRq2R0gxKRPI3CDRb"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Silicone Villeray",
         "url": "https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ"
@@ -633,7 +637,7 @@
       "url": "https://open.spotify.com/track/37uqjKpAnKKD4ZKfXth726"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "PS : Je t'aime",
         "url": "https://open.spotify.com/album/7jHd7tLmgjtkLSzv84nVCy"
@@ -649,7 +653,7 @@
       "url": "https://open.spotify.com/track/58FtNfnN5RrJ1ybhWntYuJ"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
@@ -665,7 +669,7 @@
       "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Tra\u00eetrise",
         "url": "https://open.spotify.com/album/2rJLLtvAQc208wsHsQfNiZ"
@@ -681,7 +685,7 @@
       "url": "https://open.spotify.com/track/024uQwyrMQnQr9BbwmnhmD"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
@@ -701,7 +705,7 @@
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "La nuit te ressemble",
         "url": "https://open.spotify.com/album/345aq3mWimamc7hD1kbhvk"
@@ -717,7 +721,7 @@
       "url": "https://open.spotify.com/track/6sbeMTdnXolT6YZwfSsVbu"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Zen",
         "url": "https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa"
@@ -733,7 +737,7 @@
       "url": "https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
@@ -749,7 +753,7 @@
       "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "L'\u00e9toile thoracique",
         "url": "https://open.spotify.com/album/1ylVhlh4AidAt5T7K653oH"
@@ -765,7 +769,7 @@
       "url": "https://open.spotify.com/track/52i8FlTjU8GCmUf5irJwfu"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Exclusivement f\u00e9minin",
         "url": "https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS"
@@ -781,7 +785,7 @@
       "url": "https://open.spotify.com/track/31gv9xltjx4MWyg3Y7g2dA"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Zoo Baby",
         "url": "https://open.spotify.com/album/0Pq1sFQdyRea7Avv570y7T"
@@ -797,7 +801,7 @@
       "url": "https://open.spotify.com/track/5cAqHLEWZnfUXfzCsCez9J"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/3wsoaba9VUcxW8rMFyIZqt"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/1lbTcEocbV3CBy4WL6En3B"
     },
     {
-      "added_at": "2024-01-16 21:40:33",
+      "added_at": "2025-01-31 05:00:37",
       "album": {
         "name": "Premiers \u00e9mois",
         "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"

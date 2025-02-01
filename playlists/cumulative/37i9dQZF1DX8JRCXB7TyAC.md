@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-130 songs - 6 hr 29 min
+131 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Original Gangster](https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf) | [Original Gangster](https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE) | 3:01 | 2024-08-30 | 2024-10-24 |
 | [Over Confidence](https://open.spotify.com/track/06uSHFvu4crGsylvkgCroZ) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Over Confidence](https://open.spotify.com/album/681CueFKwbAwt5kCRVbjRC) | 2:38 | 2025-01-08 |  |
 | [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 | 2024-05-24 |  |
+| [Panga](https://open.spotify.com/track/13yHaNGlckcW7zvJ5yUSwN) | [Ammy Chahar](https://open.spotify.com/artist/5XE93ktVBgJuN7ln4YDvmX), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Panga](https://open.spotify.com/album/3BTHZFnhSzPqSho78f8Kwz) | 3:01 | 2025-01-31 |  |
 | [Papi Purane](https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Papi Purane](https://open.spotify.com/album/4sxXvRDG24bb2CA5pEUOKc) | 2:30 | 2024-04-17 | 2024-12-14 |
 | [Papi Purane](https://open.spotify.com/track/4XUHHkMuN4pPj7mX4UEQYz) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Papi Purane](https://open.spotify.com/album/1pV9QlaOmciHfC5lElLR6E) | 2:30 | 2024-03-08 | 2024-04-19 |
 | [Pataka](https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Pataka](https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P) | 3:24 | 2023-07-24 | 2024-08-31 |
@@ -127,7 +128,7 @@
 | [Tool](https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Tool](https://open.spotify.com/album/3BP7BDO3yOVjkd7UEzC7ik) | 2:56 | 2024-03-26 | 2024-04-19 |
 | [Tycon](https://open.spotify.com/track/689Hj1Zr8wOV3dJ45SEwTO) | [Vinu Gaur](https://open.spotify.com/artist/7JWbFnKxCRL2EJOtIPTrXo), [Yudhveer Dagar](https://open.spotify.com/artist/1Wxml6YQ0bNEMbDuTEW5AC) | [Tycon](https://open.spotify.com/album/4D3i79insTzHjhQMgqyi7w) | 3:03 | 2023-07-24 | 2023-08-01 |
 | [Up Se](https://open.spotify.com/track/1RubYJKQPCo6D28pvVKrW2) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/6iRnvYs4LzjbD0LfTl1InG) | 3:37 | 2024-04-05 | 2024-04-19 |
-| [Up Se](https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/1e8nPhgzRFszbUdpTCt1hj) | 3:37 | 2024-02-12 |  |
+| [Up Se](https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/1e8nPhgzRFszbUdpTCt1hj) | 3:37 | 2024-02-12 | 2025-02-01 |
 | [Western Up](https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf), [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3) | [Western Up](https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k) | 3:01 | 2024-07-31 |  |
 | [Whatcha Need?](https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Whatcha Need?](https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs) | 2:19 | 2025-01-20 |  |
 | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/album/7xESf5ZybX0vVQMZoih7qB) | 2:23 | 2023-07-24 | 2024-05-01 |

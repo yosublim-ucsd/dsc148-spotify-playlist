@@ -28,6 +28,24 @@
     {
       "album": {
         "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
+    },
+    {
+      "album": {
+        "name": "23",
         "url": "https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa"
       },
       "artists": [
@@ -153,6 +171,24 @@
     },
     {
       "album": {
+        "name": "A Lot More Free",
+        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "A Lot More Free",
+      "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
+    },
+    {
+      "album": {
         "name": "After A Few",
         "url": "https://open.spotify.com/album/5Z6UUS0n3Oz7i2bDLEdbWL"
       },
@@ -182,7 +218,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 187594,
       "name": "Ahead of Our Time",
       "url": "https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD"
@@ -326,7 +362,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 183477,
       "name": "Arkansas Diamond",
       "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
@@ -362,7 +398,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 246398,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
@@ -793,6 +829,24 @@
     },
     {
       "album": {
+        "name": "What Happens Now? (Deluxe)",
+        "url": "https://open.spotify.com/album/1zK6DiSD46bOoBoXyG6Jzp"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/2hLIuS8Izy0qxhD5TZE9JS"
+    },
+    {
+      "album": {
         "name": "Pacifico (Deluxe)",
         "url": "https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A"
       },
@@ -866,7 +920,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 200133,
       "name": "Can't Break Up Now",
       "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
@@ -1366,7 +1420,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 179645,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
@@ -1496,7 +1550,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 152133,
       "name": "Dead End Road",
       "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
@@ -2599,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Rodeo",
+        "url": "https://open.spotify.com/album/0zy1HOwPKMbbHGhYoecsFe"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187633,
+      "name": "Heartbreak Rodeo",
+      "url": "https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU"
+    },
+    {
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/6loLg9A8TuBQJWr0qwCbgU"
       },
@@ -2694,6 +2766,24 @@
       "duration_ms": 175840,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
+    },
+    {
+      "album": {
+        "name": "Hey Mom I Made It",
+        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169448,
+      "name": "Hey Mom I Made It",
+      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
     },
     {
       "album": {
@@ -2824,7 +2914,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 171240,
       "name": "How Do I Do This",
       "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
@@ -3130,7 +3220,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 207533,
       "name": "I Will (When You Do)",
       "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
@@ -3206,7 +3296,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 181066,
       "name": "I'm Not Pretty",
       "url": "https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m"
@@ -3720,7 +3810,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 189035,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/4Je4OSUhDmrG9MYMH4JVez"
@@ -4841,6 +4931,42 @@
     },
     {
       "album": {
+        "name": "Quits",
+        "url": "https://open.spotify.com/album/2NXMaPZwgGAzx8IKumHbwt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187973,
+      "name": "Quits",
+      "url": "https://open.spotify.com/track/6tW3zBBqRXuM3hDvzRXsa8"
+    },
+    {
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/3ai1kBVQF9GusoxIdgBrjz"
+    },
+    {
+      "album": {
         "name": "Record High",
         "url": "https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY"
       },
@@ -4852,7 +4978,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208453,
       "name": "Record High",
       "url": "https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv"
@@ -5032,7 +5158,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 159218,
       "name": "Right Round Here",
       "url": "https://open.spotify.com/track/77F3Qyv91XIFIi7oRfifEW"
@@ -5260,7 +5386,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 237493,
       "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
@@ -5848,7 +5974,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 219173,
       "name": "Stand By Me (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
@@ -6144,7 +6270,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "Tell Me Tennessee",
       "url": "https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG"
@@ -6509,6 +6635,24 @@
     },
     {
       "album": {
+        "name": "Think of Me",
+        "url": "https://open.spotify.com/album/47qPurqgAQPsqYBlxeGJbr"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213454,
+      "name": "Think of Me",
+      "url": "https://open.spotify.com/track/2JPbZQ0pek5lbzUpZtVQzX"
+    },
+    {
+      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
@@ -6582,7 +6726,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191626,
       "name": "This Town's Been Too Good To Us",
       "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
@@ -6864,7 +7008,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 194800,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/0XjVqPBriEaw2aDQixHSi1"
@@ -7135,6 +7279,24 @@
     },
     {
       "album": {
+        "name": "Livin' My Best Life (Still)",
+        "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "What He'll Never Have",
+      "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
+    },
+    {
+      "album": {
         "name": "What My World Spins Around",
         "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
       },
@@ -7342,7 +7504,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 206321,
       "name": "White Claw",
       "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"
@@ -7360,7 +7522,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"

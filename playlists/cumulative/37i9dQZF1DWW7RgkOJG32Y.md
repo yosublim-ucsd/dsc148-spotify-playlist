@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Cameron Whitcomb
+> Top trending country tracks from the last few months\. Cover: Kelsea Ballerini
 
 488 songs - 1 day 2 hr 8 min
 

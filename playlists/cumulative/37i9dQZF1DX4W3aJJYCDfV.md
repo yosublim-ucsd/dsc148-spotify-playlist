@@ -2,9 +2,9 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Bring Me The Horizon and more!
+> Brand new music from The Weeknd \(pictured\), Bring Me The Horizon, JENNIE and more!
 
-14,474 songs - 32 day 13 hr 20 min
+14,477 songs - 32 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1781,6 +1781,7 @@
 | [Breathe](https://open.spotify.com/track/37I315BrXHT71iGieo1mvl) | [Laura Roy](https://open.spotify.com/artist/5QPrSgtPwMPMdDNWQyQDXR) | [Breathe](https://open.spotify.com/album/6eDbQydfXFQvaODKQpNHb4) | 3:09 | 2023-01-13 | 2023-01-20 |
 | [Breathe](https://open.spotify.com/track/5E3N9gn0bXqkbChbNVdLN2) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [Breathe](https://open.spotify.com/album/4JSQx5larhgsoQRFJbMmSz) | 2:53 | 2024-11-08 | 2024-11-15 |
 | [BREATHE \(SLOW IT DOWN\)](https://open.spotify.com/track/3zPpQMtl5B56vUjQxzs7fj) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [BREATHE \(SLOW IT DOWN\)](https://open.spotify.com/album/0gk9mWj1WrbPGffm2tu5yj) | 1:30 | 2022-11-04 | 2022-11-11 |
+| [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 | 2025-01-31 |  |
 | [Breathe Out](https://open.spotify.com/track/7Htz5Fmq12yhPOXsrTelxq) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Breathe Out](https://open.spotify.com/album/0RxU5uoUJkztZxxQ3uzxqc) | 4:54 | 2023-03-24 | 2023-03-31 |
 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 | 2024-06-20 | 2024-06-28 |
 | [BREATHING UNDERWATER](https://open.spotify.com/track/6F4dmF0CZ9XPmLnLQQk9a2) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BREATHING UNDERWATER](https://open.spotify.com/album/14v1YgHgO2PwVgd6vgIHQ7) | 2:57 | 2023-08-17 | 2023-08-25 |
@@ -2679,6 +2680,7 @@
 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 | 2024-03-22 | 2024-03-29 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-08 | 2024-08-16 |
 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw) | 4:32 | 2024-01-05 | 2024-01-12 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Cry Me A River](https://open.spotify.com/track/1l8JstRdpupds1kZgWT4Hg) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Cry Me A River](https://open.spotify.com/album/58xaelY1o0uH8hxeuZYYrl) | 3:40 | 2023-10-26 | 2023-11-03 |
 | [Cry No More](https://open.spotify.com/track/04k6NEiHTB3JHbpgsMCxfe) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Sydney Jane](https://open.spotify.com/artist/2iv349oosJMKpw2K0PNfHc) | [Cry No More](https://open.spotify.com/album/38cQJ97oLtAE6mpqzNXVrl) | 2:32 | 2023-01-27 | 2023-02-03 |
 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 | 2024-04-19 | 2024-04-26 |
@@ -7627,6 +7629,7 @@
 | [Love Frequency](https://open.spotify.com/track/1sFZRjx16nlrbWAwJIEZU1) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Love Frequency](https://open.spotify.com/album/2cdsiKLt8oK88cKvo4eZbn) | 4:10 | 2023-03-30 | 2023-04-07 |
 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2023-01-20 | 2023-01-27 |
 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 | 2024-05-09 | 2024-05-17 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love Harder](https://open.spotify.com/track/75SdBZ5qaZVWxHhaHHldw5) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Love Harder](https://open.spotify.com/album/4u5aTao5LC1TiJz4yyjF6n) | 2:13 | 2023-04-20 | 2023-04-28 |
 | [Love Hate](https://open.spotify.com/track/4udUDuv1M2Sqwnn07Ll6M0) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Love Hate](https://open.spotify.com/album/6r2jKxm2Duy0NnwpvbEFI2) | 3:54 | 2023-08-10 | 2023-08-18 |
 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 | 2024-05-30 | 2024-06-07 |

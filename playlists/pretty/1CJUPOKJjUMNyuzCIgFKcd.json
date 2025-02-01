@@ -6,23 +6,119 @@
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAl5vbrUhG+R5r9bffoxc+POsyjEhzI",
+  "snapshot_id": "AAAl+ILKvfP8cICcrZSPTYp2KRs1n8j7",
   "tracks": [
     {
-      "added_at": "2024-12-13 23:19:22",
+      "added_at": "2025-01-31 23:22:17",
       "album": {
-        "name": "RIO FREE",
-        "url": "https://open.spotify.com/album/7timfkRN7jFMqKwMAvfG8J"
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/2YKOoI2gL39YU776HwKFH3"
       },
       "artists": [
         {
-          "name": "Rio Da Yung Og",
-          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 200393,
-      "name": "RIO FREE",
-      "url": "https://open.spotify.com/track/1H3BKRHPHblRSbEm5HSPfU"
+      "duration_ms": 160013,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0ffuxZ5gZpGKwohI6WZZh0"
+    },
+    {
+      "added_at": "2025-01-31 23:22:25",
+      "album": {
+        "name": "Favorite One",
+        "url": "https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 176442,
+      "name": "Favorite One",
+      "url": "https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE"
+    },
+    {
+      "added_at": "2025-01-31 23:22:33",
+      "album": {
+        "name": "Song Wars",
+        "url": "https://open.spotify.com/album/4e0iananTgau936TgDI9c9"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "5 STAR",
+      "url": "https://open.spotify.com/track/4eQPwflkqRQCzO13EnmAR9"
+    },
+    {
+      "added_at": "2025-01-31 23:22:40",
+      "album": {
+        "name": "Breath Of Fresh Air (Deluxe)",
+        "url": "https://open.spotify.com/album/63Eu8XBHOdPlqxt89zWGiR"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 142198,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/3bjW6TTjHKtMn9b0Q1D07I"
+    },
+    {
+      "added_at": "2025-01-31 23:22:51",
+      "album": {
+        "name": "Narrated By Me",
+        "url": "https://open.spotify.com/album/1hmVOsvnfq8naP0Xvvs3pD"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 171991,
+      "name": "Narrated By Me",
+      "url": "https://open.spotify.com/track/4zPInVikLCkhvEHgKXOh14"
+    },
+    {
+      "added_at": "2025-01-31 23:22:58",
+      "album": {
+        "name": "REAL, RICH & RESPECTED",
+        "url": "https://open.spotify.com/album/16qoogEjPUWkfAbrWvn1o7"
+      },
+      "artists": [
+        {
+          "name": "Philthy Rich",
+          "url": "https://open.spotify.com/artist/3n6RTmT1sgWeNNCfPyJMw3"
+        },
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "DOWN OR UP",
+      "url": "https://open.spotify.com/track/3nRPJEoUn1G6miUqQXkYxD"
     },
     {
       "added_at": "2025-01-17 23:10:20",
@@ -99,6 +195,22 @@
       "duration_ms": 146470,
       "name": "BBL (feat. Rob49)",
       "url": "https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc"
+    },
+    {
+      "added_at": "2024-12-13 23:19:22",
+      "album": {
+        "name": "RIO FREE",
+        "url": "https://open.spotify.com/album/7timfkRN7jFMqKwMAvfG8J"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 200393,
+      "name": "RIO FREE",
+      "url": "https://open.spotify.com/track/1H3BKRHPHblRSbEm5HSPfU"
     },
     {
       "added_at": "2025-01-17 23:10:48",
@@ -1527,6 +1639,130 @@
       "duration_ms": 149332,
       "name": "poseidon",
       "url": "https://open.spotify.com/track/42ENXxkT1sZvNN7kwdGPPv"
+    },
+    {
+      "added_at": "2025-01-31 23:25:09",
+      "album": {
+        "name": "BLOOD DIAMONDS (feat. Peysoh)",
+        "url": "https://open.spotify.com/album/3df0dzVGMVAmlD1irSXAeo"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 152049,
+      "name": "BLOOD DIAMONDS (feat. Peysoh)",
+      "url": "https://open.spotify.com/track/03heaSeI0k4pcHhD0v3iqk"
+    },
+    {
+      "added_at": "2025-01-31 23:26:08",
+      "album": {
+        "name": "310degrees",
+        "url": "https://open.spotify.com/album/13AhshxPGH647ftmQdhSdv"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 88491,
+      "name": "raise your hands",
+      "url": "https://open.spotify.com/track/3IEALkYIYBPaJQka035lCX"
+    },
+    {
+      "added_at": "2025-01-31 23:27:00",
+      "album": {
+        "name": "GEMINI!",
+        "url": "https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "BBY GOAT",
+      "url": "https://open.spotify.com/track/4KcEwOdMjfKDsroYVy6mnp"
+    },
+    {
+      "added_at": "2025-01-31 23:27:12",
+      "album": {
+        "name": "Me And Mike",
+        "url": "https://open.spotify.com/album/69oFLAcQKRkhTOowDPMCJW"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "Rmc Mike",
+          "url": "https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo"
+        }
+      ],
+      "duration_ms": 139728,
+      "name": "Me And Mike",
+      "url": "https://open.spotify.com/track/4wwACmcnLZWd5MAdNPE6mP"
+    },
+    {
+      "added_at": "2025-01-31 23:27:28",
+      "album": {
+        "name": "back it up",
+        "url": "https://open.spotify.com/album/79NlxG2zasYDYcIBFVA7rq"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "back it up",
+      "url": "https://open.spotify.com/track/11H4HMp6cbBmq1jX2XIRFU"
+    },
+    {
+      "added_at": "2025-01-31 23:28:43",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/2HiNrUvXg11AJgLHZgppJ9"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/2Jdv6Suz2qXYLLmHosi8Dw"
+    },
+    {
+      "added_at": "2025-01-31 23:28:49",
+      "album": {
+        "name": "Trimmer Den Ever",
+        "url": "https://open.spotify.com/album/5XOuzRTrs00lsfbH1zXrIn"
+      },
+      "artists": [
+        {
+          "name": "Trigga500k",
+          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+        }
+      ],
+      "duration_ms": 121920,
+      "name": "Way Bigga",
+      "url": "https://open.spotify.com/track/5JAUQsLfN5WJ0qL8KJan8l"
     }
   ],
   "unique_name": "Fresh Out",

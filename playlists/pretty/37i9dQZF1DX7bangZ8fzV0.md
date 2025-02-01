@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=PFQpg0HjQ\_CXBn4CO\_QTQg">Irene\-Louise Van Wyk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,076 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,156 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

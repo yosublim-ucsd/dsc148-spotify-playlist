@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1641935,
+  "num_followers": 1641942,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABJWQIg+f92povCW+yuyPjO",
+  "snapshot_id": "Z5rBAAAAAACXAuFclOx9fkjW/nA+fM+p",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(MORE) Unsponsored Content",
         "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's What I Like (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 195888,
-      "name": "That's What I Like - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
       },
@@ -743,22 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+        "name": "That's What I Like (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         },
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 189391,
-      "name": "Heart over Mind",
-      "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
+      "duration_ms": 195888,
+      "name": "That's What I Like - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
     },
     {
       "added_at": null,
@@ -779,6 +759,26 @@
       "duration_ms": 136563,
       "name": "Running Out Of Roses",
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "Heart over Mind",
+      "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 160153,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1bFwGKZFvnDQYvf4TiKLBI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "added_at": null,
@@ -935,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unsure",
-        "url": "https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P"
+        "name": "Fake A Smile",
+        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
       },
       "artists": [
         {
@@ -944,13 +944,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
         }
       ],
-      "duration_ms": 168999,
-      "name": "Unsure",
-      "url": "https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz"
+      "duration_ms": 168118,
+      "name": "Fake A Smile",
+      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
     },
     {
       "added_at": null,
@@ -975,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake A Smile",
-        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
+        "name": "Unsure",
+        "url": "https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P"
       },
       "artists": [
         {
@@ -984,13 +984,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
         }
       ],
-      "duration_ms": 168118,
-      "name": "Fake A Smile",
-      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+      "duration_ms": 168999,
+      "name": "Unsure",
+      "url": "https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz"
     },
     {
       "added_at": null,

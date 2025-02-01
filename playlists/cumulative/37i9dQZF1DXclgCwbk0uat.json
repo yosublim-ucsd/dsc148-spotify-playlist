@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 184806,
       "name": "APAGA EL CEL",
       "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
@@ -4738,6 +4738,32 @@
       "duration_ms": 409367,
       "name": "Mami No Est\u00e9s Triste",
       "url": "https://open.spotify.com/track/0zbZ35wheiBtqPH2noBVhF"
+    },
+    {
+      "album": {
+        "name": "Mami ven aqu\u00ed",
+        "url": "https://open.spotify.com/album/3qAOToYUS4Cn0qKoGa9zv5"
+      },
+      "artists": [
+        {
+          "name": "Napoles",
+          "url": "https://open.spotify.com/artist/4mqcM1hVacykEmQIB0aJvO"
+        },
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Mati Bomba",
+          "url": "https://open.spotify.com/artist/2Co933aALjqO2S4kqXpntB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "Mami ven aqu\u00ed",
+      "url": "https://open.spotify.com/track/30kHpDWzo0R7v6XbpImuIj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-464 songs - 1 day 1 hr 50 min
+465 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-04-01 | 2024-03-30 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2023-10-21 |
 | [Human \- Single Version](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 | 2024-03-22 |  |
-| [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-01 |  |
+| [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-01 | 2025-02-01 |
 | [I Can't Help But Feel](https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB) | 2:58 | 2022-04-08 | 2024-04-19 |
 | [I Don't Mind \(feat\. Ben Chandler\) \- Tim Atlas Remix](https://open.spotify.com/track/1GnPvCbotk6yCBGDLijet9) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [I Don't Mind \(feat\. Ben Chandler\) \[Tim Atlas Remix\]](https://open.spotify.com/album/7obRDpFWQB79fhmpFaJvbT) | 2:11 | 2021-10-01 | 2022-05-23 |
 | [I Feel Like Dancing](https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Feel Like Dancing](https://open.spotify.com/album/0A22WfozS221n5tsFlJhfR) | 3:38 | 2023-02-17 | 2023-04-01 |
@@ -378,6 +378,7 @@
 | [Sunrise](https://open.spotify.com/track/4iOQb2ULpWOnTwLJVVd1is) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Sunrise](https://open.spotify.com/album/7s0obyXsDZ2gya8U1djssM) | 2:45 | 2023-08-11 |  |
 | [Sunset](https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sunset](https://open.spotify.com/album/7zAZZ3cUAbM6WPAecRTN01) | 3:13 | 2023-10-20 |  |
 | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 | 2022-03-25 | 2024-03-09 |
+| [Sunshine In The Room \(feat\. Jon Batiste\)](https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Sunshine In The Room](https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW) | 3:02 | 2025-01-31 |  |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-13 | 2022-08-17 |
 | [Sure Don't Miss You](https://open.spotify.com/track/4afpgzmy9O1JB3Vovb3qb0) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/4pRCXsCz9B7zkeNimzPyNE) | 2:54 | 2020-11-13 | 2022-03-22 |
 | [Suzi Traffic](https://open.spotify.com/track/4UdrF91coQA4tsM330r7Co) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [John McCallum](https://open.spotify.com/artist/7j7wBKS8M29EIYXsAPIoP4) | [Suzi Traffic \(feat\. John McCallum\)](https://open.spotify.com/album/2YPl9BkjKX2BDpACizbZbE) | 3:45 | 2021-04-30 | 2022-04-21 |

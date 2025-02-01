@@ -2,9 +2,9 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Popun sevilen isimleri\. Kapak: Cem Yenel
+> Popun sevilen isimleri\. Kapak: Sezer Sarıgöz
 
-202 songs - 9 hr 59 min
+203 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Anla Biz Ayrıldık](https://open.spotify.com/track/0o2iUoL15nT0q7kNwuGIOW) | [Yıldızlardan Düştük](https://open.spotify.com/artist/2Smav6DkVm6VJMuIWHsEGB) | [Anla Biz Ayrıldık](https://open.spotify.com/album/1GpfqES5Wq36YIdZxOath4) | 2:16 | 2024-08-15 | 2024-08-23 |
 | [Anılara Dalarız](https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Anılara Dalarız](https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP) | 2:30 | 2024-09-05 |  |
 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 | 2024-06-27 | 2024-09-07 |
-| [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2025-01-02 |  |
+| [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2025-01-02 | 2025-02-01 |
 | [Atlantis](https://open.spotify.com/track/5McJm018JxLoTC54fInvWo) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atlantis](https://open.spotify.com/album/0aIg40DUdyBKSRXkBQ3iUI) | 2:08 | 2024-07-25 | 2024-08-01 |
 | [Atmıyor Nabzım](https://open.spotify.com/track/4jkWK59V3EqLbxYh4aDPtS) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atmıyor Nabzım](https://open.spotify.com/album/6hxfB48Sxt5XVZOvJhleEG) | 2:37 | 2024-06-27 | 2024-07-29 |
 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-01-23 |  |
@@ -98,6 +98,7 @@
 | [Gülü Sevdim Dikeni Battı](https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [MELODRAM](https://open.spotify.com/album/0zPAdLw028RRFlspv6SV8H) | 2:20 | 2024-06-27 |  |
 | [Hain](https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Hain](https://open.spotify.com/album/6QQvURc9aYL6RTOEfwF1KD) | 3:21 | 2024-06-27 | 2024-08-04 |
 | [Hallederiz](https://open.spotify.com/track/1amWETYioLvJ8rBJ60XmD9) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Hallederiz](https://open.spotify.com/album/1POH7nVd2kQVlq6tDj7lWQ) | 2:35 | 2024-09-12 | 2024-09-27 |
+| [Hayat Gelir Ağır Ağır](https://open.spotify.com/track/0uW1vxBFNOmNlHXgHx5CEe) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Hayat Gelir Ağır Ağır](https://open.spotify.com/album/5zJqF6htYIU7ViaskiTklG) | 2:38 | 2025-01-31 |  |
 | [Hayat Oyunu](https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hayat Oyunu](https://open.spotify.com/album/615p1fQHcVD9BiDyGYmpgJ) | 3:48 | 2024-06-27 |  |
 | [Haybeden](https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ) | [Gökçe Kırgız Taner](https://open.spotify.com/artist/4ByD5ORLo9bbAzCJA8PnSd) | [Kendime](https://open.spotify.com/album/2DzutanSlouqXHHxHqQ1I0) | 3:24 | 2024-07-11 | 2024-07-24 |
 | [Heba](https://open.spotify.com/track/2h3bkUUJtSn1Q4yhNvfnbf) | [Emre Şen](https://open.spotify.com/artist/6iwyshiTx9dTCK2w6pBBqn), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Heba](https://open.spotify.com/album/7FFIUBzawvny6iMmohY7Zo) | 2:47 | 2024-10-24 | 2024-11-27 |

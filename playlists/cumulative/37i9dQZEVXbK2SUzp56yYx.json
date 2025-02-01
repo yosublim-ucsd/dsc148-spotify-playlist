@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 199166,
       "name": "Christ",
       "url": "https://open.spotify.com/track/1bsl1bsMi8bqQC4sJfS1pt"
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
@@ -3566,7 +3566,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 121666,
       "name": "EMPTY FUNK",
       "url": "https://open.spotify.com/track/35vfzOdNc9qIMlcIjzwxJP"
@@ -6428,7 +6428,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 238160,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/0zNeZTy7nLEWCRrBgjrBx5"
@@ -7746,7 +7746,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 247384,
       "name": "Make It Lower",
       "url": "https://open.spotify.com/track/0OrKI0CBTIMsOBE7iAgM9C"
@@ -7764,7 +7764,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 247384,
       "name": "Make It Lower",
       "url": "https://open.spotify.com/track/7fPSC9JGH8DjQEtKSvBEkh"
@@ -9206,7 +9206,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 110005,
       "name": "New Jeans - Jersey Club - Slowed Down",
       "url": "https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"
@@ -9536,7 +9536,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 81500,
       "name": "NUNCA MUDA?",
       "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
@@ -11354,7 +11354,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
@@ -11376,7 +11376,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/78O33U6jbQtNiNfbkZudpd"
@@ -11470,7 +11470,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 144525,
       "name": "shock",
       "url": "https://open.spotify.com/track/1NTtKSuwMuoObgfxmegugd"
@@ -16527,6 +16527,28 @@
     },
     {
       "album": {
+        "name": "\u0414\u043e 30",
+        "url": "https://open.spotify.com/album/2UcPaKUFCASx87VJ20NO0y"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u0438\u0442\u044f \u041c\u0430\u0442\u0430\u043d\u0433\u0430",
+          "url": "https://open.spotify.com/artist/121pyX7cMAVDWGzwW9RSA2"
+        },
+        {
+          "name": "Makarov",
+          "url": "https://open.spotify.com/artist/7cXhVj99YY9xMuSWHtqJBd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210076,
+      "name": "\u0413\u0430\u0438\u0442\u0438",
+      "url": "https://open.spotify.com/track/61CGqJNNOTZ1zTWRIKTxs7"
+    },
+    {
+      "album": {
         "name": "\u0424\u0423\u0422\u0423\u0420\u041e\u0410\u0420\u0425\u0410\u0418\u041a\u0410",
         "url": "https://open.spotify.com/album/6DncE9XPVXfrkYEZHAjpUY"
       },
@@ -21378,7 +21400,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 325516,
       "name": "\u041f\u0440\u043e\u0441\u043f\u0430\u043b",
       "url": "https://open.spotify.com/track/6sMGwJLnCUM75e2FoyStyN"
@@ -22948,7 +22970,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 105200,
       "name": "\u0423 \u0431\u0430\u0442\u0430\u0440\u0435\u0439",
       "url": "https://open.spotify.com/track/5sGKghKnKrufLzx3fwTr0i"

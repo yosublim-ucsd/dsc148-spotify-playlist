@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,158 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,160 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 9 | [La Corona](https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Corona](https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN) | 1:59 |
 | 10 | [PVTIVUELTA](https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [PVTIVUELTA](https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E) | 2:23 |
 | 11 | [Romeo y Julieta](https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Romeo y Julieta](https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS) | 2:32 |
-| 12 | [Bien Jalisco](https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Bien Jalisco](https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez) | 2:24 |
-| 13 | [RZR Rojo](https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [RZR Rojo](https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I) | 1:52 |
+| 12 | [RZR Rojo](https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [RZR Rojo](https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I) | 1:52 |
+| 13 | [Bien Jalisco](https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Bien Jalisco](https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez) | 2:24 |
 | 14 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 |
 | 15 | [Plastic Bombastic](https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Plastic Bombastic](https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu) | 2:58 |
 | 16 | [GPI \- Remix](https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 2:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 50 | [Hay Les Encargo \- En Vivo](https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:19 |
 | 51 | [Al Modo Freson](https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Al Modo Freson](https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji) | 2:34 |
 
-Snapshot ID: `Z5lvgAAAAADDfJPZjhumqHftQNgXmcRi`
+Snapshot ID: `Z5rBAAAAAAAK5m3/jT3OXv6z9ZWsH2S5`

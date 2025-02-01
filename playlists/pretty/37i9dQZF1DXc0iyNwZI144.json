@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1049375,
+  "num_followers": 1049363,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -119,30 +119,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -171,6 +147,30 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -319,6 +319,30 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Piece Of Your Heart (Alok Remix)",
         "url": "https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 241874,
       "name": "Tuesday (feat. Danelle Sandoval)",
       "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Looking For Love",
         "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Sun Comes Up (feat. James Arthur)",
+        "url": "https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 232627,
+      "name": "Sun Comes Up (feat. James Arthur)",
+      "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Sun Comes Up (feat. James Arthur)",
-        "url": "https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 232627,
-      "name": "Sun Comes Up (feat. James Arthur)",
-      "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Save Me (feat. MKLA)",
-        "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Adam K",
-          "url": "https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Save Me (feat. MKLA)",
-      "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Stay (Don't Go Away) [feat. Raye]",
         "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 138638,
       "name": "Alien",
       "url": "https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Save Me (feat. MKLA)",
+        "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Adam K",
+          "url": "https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Save Me (feat. MKLA)",
+      "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
     },
     {
       "added_at": "2024-11-15 03:00:00",

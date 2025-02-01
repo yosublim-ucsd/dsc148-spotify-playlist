@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras elevando a la M\u00fasica Mexicana. Cover: Armenta & Manuel Turizo",
+  "description": "The playlist sin fronteras elevando a la M\u00fasica Mexicana. Cover: Gabito Ballesteros & Tito Double P",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -324,6 +324,28 @@
       "duration_ms": 174500,
       "name": "5-7",
       "url": "https://open.spotify.com/track/3IEvQ1CzszUJtTRLmmMJ2X"
+    },
+    {
+      "album": {
+        "name": "7 Dias",
+        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180688,
+      "name": "7 Dias",
+      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
     },
     {
       "album": {
@@ -3285,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+    },
+    {
+      "album": {
         "name": "DE LUNES A LUNES",
         "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
       },
@@ -6203,6 +6243,28 @@
     },
     {
       "album": {
+        "name": "Gallos Y Caballos",
+        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158543,
+      "name": "Gallos Y Caballos",
+      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
+    },
+    {
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -6254,7 +6316,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 167367,
       "name": "gervonta",
       "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
@@ -7200,7 +7262,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 160557,
       "name": "La Cuadrada",
       "url": "https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk"
@@ -7650,7 +7712,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 182584,
       "name": "LA PERLA (V. ELECTRO-CORRIDO)",
       "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
@@ -8215,6 +8277,28 @@
     },
     {
       "album": {
+        "name": "Ll\u00f3rame un R\u00edo",
+        "url": "https://open.spotify.com/album/460SSLvvQjzzzRNjGEYFfJ"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193461,
+      "name": "Ll\u00f3rame un R\u00edo",
+      "url": "https://open.spotify.com/track/6rHEIIg1pf2kRzHlN4N4D1"
+    },
+    {
+      "album": {
         "name": "Lo Que Construimos - Spotify Singles",
         "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
       },
@@ -8302,6 +8386,24 @@
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+    },
+    {
+      "album": {
+        "name": "Loko",
+        "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131754,
+      "name": "Loko",
+      "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
     },
     {
       "album": {
@@ -9862,7 +9964,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195223,
       "name": "Mono Verde",
       "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
@@ -11886,7 +11988,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 164991,
       "name": "PRIMO",
       "url": "https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf"
@@ -12584,7 +12686,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 150523,
       "name": "Rey Sin Reina",
       "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
@@ -14870,6 +14972,28 @@
       "duration_ms": 143293,
       "name": "Tu Reemplazo",
       "url": "https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7"
+    },
+    {
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181921,
+      "name": "TU SI",
+      "url": "https://open.spotify.com/track/0zLA16D7GXoT8K7XFaiCv3"
     },
     {
       "album": {

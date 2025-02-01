@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Aqyila
 
-1,142 songs - 2 day 10 hr 6 min
+1,147 songs - 2 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Alone At The Ranch](https://open.spotify.com/track/5I5HAt56Y1qpqsNFjKQxia) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:07 | 2022-09-09 | 2022-10-22 |
 | [Alone With You](https://open.spotify.com/track/4qOJorQ4s6GXLbChKSIhzP) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Alone With You](https://open.spotify.com/album/3cCbOPhkQHY2CEtowc1qMw) | 4:53 | 2024-03-29 | 2024-09-28 |
 | [Already Lost](https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Look What You've Done](https://open.spotify.com/album/6iH9AQjvi0Zsg2ej086ood) | 3:33 | 2022-01-28 | 2022-03-12 |
+| [Always Knew \(feat\. Maleigh Zan\)](https://open.spotify.com/track/3HDlldO6FuTyXUNIU9fk40) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Lucky Girl Syndrome](https://open.spotify.com/album/3B3jusd5sv5eqEoPg1Kf3c) | 3:25 | 2025-01-31 |  |
 | [Ambience](https://open.spotify.com/track/1o2DoGaoIMHOqkB5XwCsrt) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Ambience](https://open.spotify.com/album/3HuyQxn9Fefhl7jxYZAnzE) | 2:48 | 2021-12-15 | 2022-03-12 |
 | [And Then Life Was Beautiful](https://open.spotify.com/track/4vUU8lx3iz7u72rpDjhXHi) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0B3zjlIshVUCbkSJDbJNRZ) | 3:23 | 2021-12-15 | 2022-03-12 |
 | [Angel](https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Forever, Yours](https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG) | 2:46 | 2022-02-04 | 2022-03-18 |
@@ -213,6 +214,7 @@
 | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/album/5asMsphuwGm7xBjCsnQuZy) | 3:53 | 2022-07-01 | 2022-08-20 |
 | [COMING](https://open.spotify.com/track/1oI95ixqkwg9wlFPGbkU8u) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [COMING](https://open.spotify.com/album/5s0VOTBnMRMVR3W4t68U47) | 2:53 | 2022-03-18 | 2022-04-29 |
 | [Complicated \- Remastered](https://open.spotify.com/track/1tW9w4AJjqNqVJZ2CkC83g) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Complicated \(Remastered\)](https://open.spotify.com/album/2GAUJEqmLi9MhHp0EiX3mO) | 3:15 | 2022-02-25 | 2022-03-26 |
+| [Control](https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Control](https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m) | 2:27 | 2025-01-31 |  |
 | [Control](https://open.spotify.com/track/4d68kQcEkzo54yzicu9N9K) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03) | [Control](https://open.spotify.com/album/73tWbljEskyASZXWpmJten) | 2:48 | 2024-05-17 | 2024-08-17 |
 | [Control](https://open.spotify.com/track/2uws8aDdlBAOwoyYnViNXY) | [Krish](https://open.spotify.com/artist/4XfFEOsMvn6hwAVoNKLDqJ) | [Control](https://open.spotify.com/album/4OhMiEgNZgTUAJQw8Any8R) | 2:11 | 2022-03-25 | 2022-04-16 |
 | [Conversations](https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Conversations](https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086) | 3:12 | 2024-01-26 | 2024-03-30 |
@@ -437,6 +439,7 @@
 | [Happy Lonely Boy](https://open.spotify.com/track/5pEsbKaHJ0IrCiaGulBFBp) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Happy Lonely Boy](https://open.spotify.com/album/0E8tk6z5nzJUZAfKsC6Wck) | 2:15 | 2022-07-09 | 2022-09-03 |
 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 | 2022-07-22 | 2022-09-03 |
 | [Haunt Me](https://open.spotify.com/track/1hIdLtIrQoVuI9TZ9DcRWB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Haunt Me](https://open.spotify.com/album/5HrFx3KXVsAijFKPUoCOwH) | 3:02 | 2022-10-28 | 2023-01-21 |
+| [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 | 2025-01-31 |  |
 | [Headline](https://open.spotify.com/track/3Yng0l1e1LoQAJ9MwZ2cqu) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:50 | 2022-11-27 | 2022-12-03 |
 | [Heads Up](https://open.spotify.com/track/4uFxhKQAoEowGajQmONHmU) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Heads Up](https://open.spotify.com/album/2AsA2saG1hWf1saYVkSPAl) | 2:33 | 2024-02-23 | 2024-05-18 |
 | [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 | 2023-02-24 | 2023-07-08 |
@@ -734,6 +737,7 @@
 | [One In A Million \- Live](https://open.spotify.com/track/1xbJT44mf6kUFusziW0rAK) | [NAIVE](https://open.spotify.com/artist/0o6wQ3uS3FZMBMAcF0OcSF), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Live from Ursula Ave](https://open.spotify.com/album/6UhFc73MzbfvRLe77H9vzO) | 2:21 | 2024-01-19 | 2024-06-08 |
 | [One More Night](https://open.spotify.com/track/6SyKCp77HGNRinaWxVkTVA) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu), [Topaz Jones](https://open.spotify.com/artist/2ZAz3sxhrUWAeyGcz140gB) | [One More Night](https://open.spotify.com/album/76q71iu26OY0FhR5ea54Mb) | 3:52 | 2022-02-04 | 2022-03-18 |
 | [ONE THING](https://open.spotify.com/track/5XqCstp7T3HRbPUOuzvN6a) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:52 | 2023-10-27 | 2024-01-11 |
+| [One Time](https://open.spotify.com/track/2u3ucpknV0GldgmPnuRFwu) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [One Time](https://open.spotify.com/album/23NdVXLSH8akFXVnxdIXmU) | 2:54 | 2025-01-31 |  |
 | [Only For Your Eyes](https://open.spotify.com/track/2ArFMotB4CV9uFQAkffZmY) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Only For Your Eyes](https://open.spotify.com/album/5p3AZP0vPLFAwOv8NuiFCT) | 2:20 | 2024-08-16 |  |
 | [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 | 2022-03-25 | 2022-04-16 |
 | [Only With Time \- A COLORS SHOW](https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Only With Time \- A COLORS SHOW](https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78) | 5:04 | 2022-02-12 | 2022-03-18 |
@@ -980,6 +984,7 @@
 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 | 2024-07-26 |  |
 | [Take Me Down](https://open.spotify.com/track/0TceciiTB6dtUFUhtNKCNk) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 3:36 | 2024-04-05 | 2024-06-22 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 | 2022-11-27 | 2022-12-03 |
+| [take time](https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp) | [Isaiah kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [take time](https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i) | 2:16 | 2025-01-31 |  |
 | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 | 2024-09-27 |  |
 | [Talk](https://open.spotify.com/track/2aSXyr2Oe8wsLAmu9vXRp6) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Talk](https://open.spotify.com/album/30iqgFepgpkIF9uV1lgvCD) | 2:01 | 2022-08-12 | 2022-08-27 |
 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 | 2022-07-15 | 2023-01-21 |

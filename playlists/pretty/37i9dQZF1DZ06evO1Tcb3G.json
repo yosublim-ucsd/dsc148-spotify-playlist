@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 482723,
+  "num_followers": 482783,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABSupJNwTKi20DO73IWVAiU",
+  "snapshot_id": "Z5rBAAAAAADU7thcCNJPGYLrq4vu3w6B",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 219680,
-      "name": "Winter Winds",
-      "url": "https://open.spotify.com/track/6W8e9jz4UIcqGYokpn0Afn"
+      "duration_ms": 254160,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 254160,
-      "name": "White Blank Page",
-      "url": "https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD"
+      "duration_ms": 219680,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/6W8e9jz4UIcqGYokpn0Afn"
     },
     {
       "added_at": null,

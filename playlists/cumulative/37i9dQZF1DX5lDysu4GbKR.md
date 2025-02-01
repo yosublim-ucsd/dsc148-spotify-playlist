@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Anaïs Cardot
 
-260 songs - 15 hr 22 min
+261 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 | 2022-08-25 |  |
 | [pass you by](https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/06AsoKSZYbdlX0a01Z3RFt) | 4:05 | 2021-12-09 | 2022-10-13 |
 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 | 2022-09-29 | 2023-04-09 |
+| [Porcelain Reimagined](https://open.spotify.com/track/3D4ZX7d16Get0TQSYhzFja) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [NGL](https://open.spotify.com/album/4veaG4MuOfmgfq0r45Y5Z3) | 3:39 | 2025-01-31 |  |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2021-12-09 |  |
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 | 2021-12-09 | 2023-04-09 |
 | [Radio \- Acoustic](https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Sides](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) | 3:24 | 2022-06-16 | 2023-04-09 |

@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 128750,
       "name": "crusade",
       "url": "https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW"
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 245107,
       "name": "Drifted",
       "url": "https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy"
@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 199137,
       "name": "grip drop",
       "url": "https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi"
@@ -4300,6 +4300,24 @@
       "duration_ms": 189289,
       "name": "Hands Together",
       "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
+    },
+    {
+      "album": {
+        "name": "Hard to Forget",
+        "url": "https://open.spotify.com/album/62rrbMfkxDNvpILsPxPl2x"
+      },
+      "artists": [
+        {
+          "name": "Lumin",
+          "url": "https://open.spotify.com/artist/3ab5hmLBz9pAkr1hGdLN2R"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152659,
+      "name": "Hard to Forget",
+      "url": "https://open.spotify.com/track/2Olk9hRPF4PMV6ymZoBY9a"
     },
     {
       "album": {
@@ -4512,7 +4530,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 216047,
       "name": "Horizon Island",
       "url": "https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su"
@@ -4722,7 +4740,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 171842,
       "name": "I Can\u2019t Even",
       "url": "https://open.spotify.com/track/1hZDvLGzGTvbBRP8CqU0rD"
@@ -5882,7 +5900,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 186782,
       "name": "Lush",
       "url": "https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL"
@@ -6296,7 +6314,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 164000,
       "name": "mirage",
       "url": "https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy"
@@ -7006,6 +7024,24 @@
       "duration_ms": 232450,
       "name": "No Time for Mornings",
       "url": "https://open.spotify.com/track/1bMY3njhbOLTzyqZOJvckJ"
+    },
+    {
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/0Wo4q9asXpLISG2ARx6ibD"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6rG34cZ4luWfED6PFPSKRy"
     },
     {
       "album": {
@@ -8554,7 +8590,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162785,
       "name": "rollacoasta",
       "url": "https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB"
@@ -8738,7 +8774,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 169868,
       "name": "Saints",
       "url": "https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X"
@@ -8828,7 +8864,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162506,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1FuzDLB36P5vkEB8Mycm8y"
@@ -9802,7 +9838,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 179590,
       "name": "SPF",
       "url": "https://open.spotify.com/track/1tqvyTyYlfi3CMH5dnaySS"
@@ -10270,7 +10306,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
@@ -10432,7 +10468,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 178348,
       "name": "Swirling",
       "url": "https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ"
@@ -10699,6 +10735,24 @@
     },
     {
       "album": {
+        "name": "The Drugs Don't Work Anymore",
+        "url": "https://open.spotify.com/album/32kov5OB9bBXAPJMszuiDI"
+      },
+      "artists": [
+        {
+          "name": "Larry Poppinz",
+          "url": "https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188473,
+      "name": "The Drugs Don't Work Anymore",
+      "url": "https://open.spotify.com/track/6gRVDQivRddYdqohJj7Suf"
+    },
+    {
+      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH"
       },
@@ -10764,7 +10818,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 124909,
       "name": "The Knight",
       "url": "https://open.spotify.com/track/5sbRAQCXRi3BN7SsNMDkoZ"
@@ -11457,6 +11511,24 @@
     },
     {
       "album": {
+        "name": "Valley",
+        "url": "https://open.spotify.com/album/0wDnG4jt8kEN6Zv7A8Mrom"
+      },
+      "artists": [
+        {
+          "name": "Sean Rivers",
+          "url": "https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174888,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/4yYY8tPbNZOYe5Qv7re683"
+    },
+    {
+      "album": {
         "name": "Mercenary EP",
         "url": "https://open.spotify.com/album/5hPAFj34PSDDN7ztz0ouKu"
       },
@@ -11490,6 +11562,24 @@
       "duration_ms": 495483,
       "name": "Vei",
       "url": "https://open.spotify.com/track/6RgMpjc2jIoCAAtAykmTgE"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/7EjIsd05lLhoh0EiouUhFv"
+      },
+      "artists": [
+        {
+          "name": "Lavam\u00e9",
+          "url": "https://open.spotify.com/artist/40BC1UyxFSNXJdX4KPSUAc"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "VERTIGO",
+      "url": "https://open.spotify.com/track/56pHv4fNZpu0qXyVzZepm9"
     },
     {
       "album": {
@@ -12052,6 +12142,24 @@
       "duration_ms": 166496,
       "name": "Yelp Of Joy",
       "url": "https://open.spotify.com/track/6Seljh4IAei5RBKEIDhZ1w"
+    },
+    {
+      "album": {
+        "name": "you never",
+        "url": "https://open.spotify.com/album/5RCm4miLxaqbNZ9DjFih2I"
+      },
+      "artists": [
+        {
+          "name": "dreem",
+          "url": "https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184913,
+      "name": "you never",
+      "url": "https://open.spotify.com/track/7oX2HyJNazpibdZRORuBvy"
     },
     {
       "album": {

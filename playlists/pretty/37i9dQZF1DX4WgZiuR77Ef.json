@@ -1,13 +1,29 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 395685,
+  "num_followers": 395691,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nj7AAAAABDBS62b6W+4NVosbZHCgI8",
+  "snapshot_id": "Z5xY5AAAAADTg+19JPcgkZj5mpymofmN",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:20",
+      "album": {
+        "name": "Gotta Give The People",
+        "url": "https://open.spotify.com/album/3rsi82oCx8FRxKrtwQ3fB6"
+      },
+      "artists": [
+        {
+          "name": "Tomar and the FCs",
+          "url": "https://open.spotify.com/artist/5dgZB4BAkUdo9RpM5C2nja"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Gotta Give The People",
+      "url": "https://open.spotify.com/track/6qJKgF89AOJWqKmokRtiZT"
+    },
     {
       "added_at": "2025-01-17 05:00:28",
       "album": {
@@ -1359,30 +1375,6 @@
       "duration_ms": 239480,
       "name": "Brand New Day",
       "url": "https://open.spotify.com/track/50kcNzbEiu0nlSKTGAJe9W"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Funky Chick",
-        "url": "https://open.spotify.com/album/0Y4HFxgJ9AKnKElCC56bVV"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Brownout",
-          "url": "https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S"
-        },
-        {
-          "name": "Tomar Williams",
-          "url": "https://open.spotify.com/artist/2fzU2rB7Q6czKOCJ6g79cD"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Funky Chick",
-      "url": "https://open.spotify.com/track/2fedMEurhK2S48JlKSTaBu"
     },
     {
       "added_at": "2021-07-30 04:01:00",

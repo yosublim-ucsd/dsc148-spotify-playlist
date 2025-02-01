@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-261 songs - 13 hr 27 min
+262 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-24 | 2023-04-09 |
 | [Dias Melhores](https://open.spotify.com/track/1LCSQQmH7VK2Orq5eBDPcL) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Dias Melhores](https://open.spotify.com/album/35R7EwBfYJ4wpsnrbwlQrJ) | 3:00 | 2024-09-20 | 2024-11-16 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
+| [Dispara](https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Jade.](https://open.spotify.com/artist/4gwfGCGuOO6FEbIKMDg3mV), [Karen Fialho](https://open.spotify.com/artist/24cnkMLmyXSRmdPKkGTYVq) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 2:56 | 2025-01-31 |  |
 | [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 | 2023-12-16 |
 | [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |
 | [Dói Tanto](https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Dói Tanto](https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s) | 2:38 | 2024-03-15 | 2024-03-30 |
@@ -180,7 +181,7 @@
 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 | 2022-11-18 |  |
 | [Por Mim Já Deu](https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz) | [Duda Kropf](https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ) | [Por Mim Já Deu](https://open.spotify.com/album/3EBP1z3dhTcCpC5zFTGZjy) | 2:30 | 2023-07-14 | 2023-08-12 |
 | [Porque Me Responde Ainda](https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Porque Me Responde Ainda](https://open.spotify.com/album/27JH4nsKkUIEbu3ri1EXph) | 3:45 | 2024-06-14 |  |
-| [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 | 2024-03-01 |  |
+| [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 | 2024-03-01 | 2025-02-01 |
 | [Porto Seguro](https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8) | [Caio G](https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5), [Netto Galdino](https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS) | [Porto Seguro](https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ) | 2:48 | 2024-09-13 |  |
 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 | 2022-11-18 |  |
 | [Pra Ninguém](https://open.spotify.com/track/355a1BU5F1BSofA99ZNejR) | [Elijah](https://open.spotify.com/artist/5y3vYetg0yJc4y4rvsxqKk) | [Pra Ninguém](https://open.spotify.com/album/4tZ6QIEkiD1aEjzx6XJK8f) | 3:49 | 2024-01-26 | 2024-02-03 |

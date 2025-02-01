@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 25790,
+  "num_followers": 25797,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,42 @@
     {
       "added_at": "2025-01-27 10:57:41",
       "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "SOFIA COPPOLA",
+      "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
+    },
+    {
+      "added_at": "2025-01-27 10:57:41",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "g\u00e1t",
+      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
+    },
+    {
+      "added_at": "2025-01-27 10:57:41",
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
@@ -1123,42 +1159,6 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
-    },
-    {
-      "added_at": "2025-01-27 10:57:41",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "g\u00e1t",
-      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
-    },
-    {
-      "added_at": "2025-01-27 10:57:41",
-      "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "SOFIA COPPOLA",
-      "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
     },
     {
       "added_at": "2025-01-27 10:57:41",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2025-01-27 10:57:41",
       "album": {
-        "name": "C'est la vie",
-        "url": "https://open.spotify.com/album/50HT256QPt4DIkxnLZps0e"
+        "name": "\u00c9jf\u00e9l",
+        "url": "https://open.spotify.com/album/1I5GF9oxmcUSBXIAaDv21m"
       },
       "artists": [
         {
-          "name": "\u00c9BERK\u00d3MA",
-          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "Gaspar Laci",
+          "url": "https://open.spotify.com/artist/1P5T5EzCNQXavHmVZ7Kdj5"
         }
       ],
-      "duration_ms": 194347,
-      "name": "C'est la vie",
-      "url": "https://open.spotify.com/track/0JXcCXu1MGlMg7UBsbAv2z"
+      "duration_ms": 196695,
+      "name": "\u00c9jf\u00e9l",
+      "url": "https://open.spotify.com/track/6xnneTxSRzkofA0oLWa1ey"
     },
     {
       "added_at": "2025-01-27 10:57:41",
@@ -1291,22 +1295,18 @@
     {
       "added_at": "2025-01-27 10:57:41",
       "album": {
-        "name": "\u00c9jf\u00e9l",
-        "url": "https://open.spotify.com/album/1I5GF9oxmcUSBXIAaDv21m"
+        "name": "C'est la vie",
+        "url": "https://open.spotify.com/album/50HT256QPt4DIkxnLZps0e"
       },
       "artists": [
         {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        },
-        {
-          "name": "Gaspar Laci",
-          "url": "https://open.spotify.com/artist/1P5T5EzCNQXavHmVZ7Kdj5"
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
         }
       ],
-      "duration_ms": 196695,
-      "name": "\u00c9jf\u00e9l",
-      "url": "https://open.spotify.com/track/6xnneTxSRzkofA0oLWa1ey"
+      "duration_ms": 194347,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/0JXcCXu1MGlMg7UBsbAv2z"
     },
     {
       "added_at": "2025-01-27 10:57:41",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-01-27 10:57:41",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/5miqZaQUpzPk1M29BtXv4y"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        }
+      ],
+      "duration_ms": 159637,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/0pWGWWJ9ER9OwUewhBrsi2"
+    },
+    {
+      "added_at": "2025-01-27 10:57:41",
+      "album": {
         "name": "zek\u0151",
         "url": "https://open.spotify.com/album/7fSpOvhym4ns1HJwa6Igag"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 152619,
       "name": "MENTALITAT",
       "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
-    },
-    {
-      "added_at": "2025-01-27 10:57:41",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/5miqZaQUpzPk1M29BtXv4y"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        }
-      ],
-      "duration_ms": 159637,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/0pWGWWJ9ER9OwUewhBrsi2"
     },
     {
       "added_at": "2025-01-27 10:57:41",

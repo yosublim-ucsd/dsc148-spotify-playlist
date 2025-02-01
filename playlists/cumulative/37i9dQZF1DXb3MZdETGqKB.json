@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "The Love Anthology",
+        "url": "https://open.spotify.com/album/1Przkz0IqwGmtFQ4Va2wxM"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225869,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3LGHAzSDMm9KDxSrJlWIqV"
+    },
+    {
+      "album": {
         "name": "Pogboy",
         "url": "https://open.spotify.com/album/0iqAkwpiPwem6AXPAAvGev"
       },
@@ -1279,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Count On Me",
+        "url": "https://open.spotify.com/album/5hlNOvF2Fn1Xn3mygRwjGa"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197388,
+      "name": "Count On Me - Edit",
+      "url": "https://open.spotify.com/track/3UhOT6UdA5ioHmpwCYDwzx"
+    },
+    {
+      "album": {
         "name": "Traveler's Blues",
         "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
       },
@@ -1864,7 +1900,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 257726,
       "name": "Flying #evolution",
       "url": "https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G"
@@ -3924,7 +3960,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 182931,
       "name": "Patiently Waiting For Love",
       "url": "https://open.spotify.com/track/5ZQ3C1rFt6A2TbhnhbLOvR"

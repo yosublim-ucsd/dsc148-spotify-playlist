@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3646615,
+  "num_followers": 3646728,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
     },
     {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
+      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+    },
+    {
       "added_at": "2024-02-29 20:11:01",
       "album": {
         "name": "Cry To Me-The Best Of Freddie Scott",
@@ -1135,22 +1151,6 @@
       "duration_ms": 177200,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
-      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Are You Ready to Love Me?",
-      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
         "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 150600,
       "name": "Ain't That A Shame? - Remastered 2002",
       "url": "https://open.spotify.com/track/4U2b99X9hSSDjPbHCpIeJj"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Are You Ready to Love Me?",
+      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Rhino Hi-Five: Arthur Conley",
-        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Very Best Of Marvin Gaye",
         "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
       },
@@ -2291,6 +2275,38 @@
       "duration_ms": 146160,
       "name": "Ain't No Mountain High Enough - Stereo Version",
       "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Rhino Hi-Five: Arthur Conley",
+        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 165080,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2343,18 +2359,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
+        "name": "An American Love Story",
+        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 165080,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
+      "duration_ms": 172186,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2375,22 +2391,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "An American Love Story",
-        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "20 All-Time Greatest Hits!",
         "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
       },
@@ -2403,22 +2403,6 @@
       "duration_ms": 250200,
       "name": "Get Up Offa That Thing",
       "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2455,6 +2439,22 @@
       "duration_ms": 345306,
       "name": "I Think",
       "url": "https://open.spotify.com/track/0KubmI0koWzdKaZdqLaXNj"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
+        "url": "https://open.spotify.com/album/4Vzr2AGcCyYSQQB243PQLl"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Do You Love Me",
+      "url": "https://open.spotify.com/track/41FRsZNXpsBkJ46BxyC20m"
     },
     {
       "added_at": "2023-08-03 17:52:54",

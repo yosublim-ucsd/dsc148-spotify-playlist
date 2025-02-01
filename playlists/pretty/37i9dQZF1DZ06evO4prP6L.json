@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 16971,
+  "num_followers": 16975,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABVcxCmjsgW3/uYkjBejMZG",
+  "snapshot_id": "Z5rBAAAAAAB6OnQaEXYVe9/G8QriOl24",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rules of the Road",
+        "url": "https://open.spotify.com/album/4sVCJ30mcb8ZoyAL8sANyW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Cunnamulla Feller - Remastered 2017",
+      "url": "https://open.spotify.com/track/1wmhQHJmtJIQmwPAOdMrJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Planet Country",
         "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
@@ -167,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rules of the Road",
-        "url": "https://open.spotify.com/album/4sVCJ30mcb8ZoyAL8sANyW"
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
       },
       "artists": [
         {
@@ -176,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Cunnamulla Feller - Remastered 2017",
-      "url": "https://open.spotify.com/track/1wmhQHJmtJIQmwPAOdMrJi"
+      "duration_ms": 254973,
+      "name": "The Way It Is - Remastered 2017",
+      "url": "https://open.spotify.com/track/5zt0PxcezbJTGgcZwzMz0A"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
       "duration_ms": 226446,
       "name": "Walk a Country Mile",
       "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "The Way It Is - Remastered 2017",
-      "url": "https://open.spotify.com/track/5zt0PxcezbJTGgcZwzMz0A"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Flying with the King",
-      "url": "https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Flying with the King",
+      "url": "https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Rodeo",
         "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
       },
@@ -355,26 +355,6 @@
       "duration_ms": 248493,
       "name": "Texas Qld 4385 - Remastered 2017",
       "url": "https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "The Wolfe Brothers",
-          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
-        }
-      ],
-      "duration_ms": 181113,
-      "name": "Till It Ends",
-      "url": "https://open.spotify.com/track/030qfBYqMej6nV1T5JWWuU"
     },
     {
       "added_at": null,
@@ -415,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "duration_ms": 181113,
+      "name": "Till It Ends",
+      "url": "https://open.spotify.com/track/030qfBYqMej6nV1T5JWWuU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -447,6 +447,30 @@
       "duration_ms": 210938,
       "name": "Lights on the Hill",
       "url": "https://open.spotify.com/track/0Odp6NXvX6Rhq6tiRJbkCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
+      },
+      "artists": [
+        {
+          "name": "Tom Curtain",
+          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Sara Storer",
+          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
+        }
+      ],
+      "duration_ms": 200320,
+      "name": "She Gave Us the Song",
+      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
     },
     {
       "added_at": null,
@@ -491,30 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Still Here",
-        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
-      },
-      "artists": [
-        {
-          "name": "Tom Curtain",
-          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Sara Storer",
-          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "She Gave Us the Song",
-      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "Keep on Truckin'",
-      "url": "https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 240834,
       "name": "Outback Club Reunion",
       "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "Keep on Truckin'",
+      "url": "https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 203746,
-      "name": "We'll Take Beersheba",
-      "url": "https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to"
+      "duration_ms": 190346,
+      "name": "It's Only Country",
+      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "It's Only Country",
-      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
       "artists": [
         {
@@ -716,9 +700,25 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 218786,
-      "name": "Planet Country - Remastered 2017",
-      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
+      "duration_ms": 203746,
+      "name": "We'll Take Beersheba",
+      "url": "https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Beautiful Noise",
-      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+      "duration_ms": 218786,
+      "name": "Planet Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: Sophie Powers",
-  "num_followers": 425899,
+  "num_followers": 426096,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeawAAAACjMy6JiNXdNZ3ZBmXmuY5f",
+  "snapshot_id": "Z5xY7wAAAAABXU1pC+kURPeJZ9w3FeV7",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:27",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8"
     },
     {
+      "added_at": "2025-01-31 05:00:31",
+      "album": {
+        "name": "MADWOMAN",
+        "url": "https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo"
+    },
+    {
+      "added_at": "2025-01-10 05:00:16",
+      "album": {
+        "name": "Bite Marks",
+        "url": "https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "TEYA",
+          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
+        }
+      ],
+      "duration_ms": 190138,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
+    },
+    {
       "added_at": "2025-01-10 05:00:16",
       "album": {
         "name": "difficult",
@@ -71,26 +107,6 @@
       "duration_ms": 247192,
       "name": "Back To Hell",
       "url": "https://open.spotify.com/track/0argBvpz23uO6hbnS0Z3Rc"
-    },
-    {
-      "added_at": "2025-01-10 05:00:16",
-      "album": {
-        "name": "Bite Marks",
-        "url": "https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "TEYA",
-          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
-        }
-      ],
-      "duration_ms": 190138,
-      "name": "Bite Marks",
-      "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
     },
     {
       "added_at": "2025-01-24 05:00:27",
@@ -447,22 +463,6 @@
       "duration_ms": 134509,
       "name": "Flame (from the Netflix Series \"Jentry Chau vs the Underworld\")",
       "url": "https://open.spotify.com/track/5tw1Ob0E4iRY8pjvgFk7oU"
-    },
-    {
-      "added_at": "2024-11-11 19:03:06",
-      "album": {
-        "name": "crocodile tears",
-        "url": "https://open.spotify.com/album/447seuu3X7RLUyNBijtw1b"
-      },
-      "artists": [
-        {
-          "name": "TAELA",
-          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "crocodile tears",
-      "url": "https://open.spotify.com/track/71q2aFtpjsH4CG5Xbcc0jJ"
     },
     {
       "added_at": "2024-12-06 05:05:36",

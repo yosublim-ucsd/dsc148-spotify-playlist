@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Sandhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,971 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,982 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 31 | [Choose Life](https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF) | [Shark School](https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh) | [Choose Life](https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq) | 4:01 |
 | 32 | [Dead Ocean Swimmer](https://open.spotify.com/track/3UpaBM4jiBcs5ERfFMfJSq) | [Solis](https://open.spotify.com/artist/0K3Fj6AQuFF0wggXjejSZS) | [Dead Ocean Swimmer](https://open.spotify.com/album/2c7s79EZUrj34wz6d3tXF3) | 4:22 |
 | 33 | [Glue](https://open.spotify.com/track/64ogJV998yBGKEnu5VrUeB) | [Florentenes](https://open.spotify.com/artist/3ARtFR3uitcSLCVxhnYln0) | [Glue](https://open.spotify.com/album/756HTjlhhotoXjG0egC407) | 4:21 |
-| 34 | [Never Enough](https://open.spotify.com/track/5ktApjbINGsyW5L8BHH3pB) | [BIG LOVE](https://open.spotify.com/artist/6htEX3C8Dvei6pnGQXorun) | [Never Enough](https://open.spotify.com/album/3mk2fs987Q4b2y16lQUeE5) | 4:27 |
+| 34 | [Never Enough](https://open.spotify.com/track/5ktApjbINGsyW5L8BHH3pB) | [BOLD LOVE](https://open.spotify.com/artist/5cqzxOjKUZD5n79mbEkU1i) | [Never Enough](https://open.spotify.com/album/3mk2fs987Q4b2y16lQUeE5) | 4:27 |
 | 35 | [Stop And Think It Over](https://open.spotify.com/track/1lqhxH6E8d5Kg47ld7NGq6) | [The Lotts](https://open.spotify.com/artist/5pjwhpc0am3fxfJKB4Ud7z) | [Stop And Think It Over](https://open.spotify.com/album/74fsyVodrliDB7LAAgSebd) | 3:13 |
 | 36 | [Surrender](https://open.spotify.com/track/383sR9dPZ2SwPoKrNfRnQm) | [Qlowski](https://open.spotify.com/artist/1IhMuqG9tnQDPmiOkdOaQ4) | [Surrender](https://open.spotify.com/album/1Fyc10uv4bNsdjrl6yZND5) | 3:43 |
 | 37 | [Paith Own](https://open.spotify.com/track/59BSXqdDDiNnt79NuG5mIM) | [a Lesser Version](https://open.spotify.com/artist/7gJ9ES0nqI44kB8b0S8mQC) | [Paith Own](https://open.spotify.com/album/3yOyHF7k7gt1n6vMs77Swu) | 3:44 |

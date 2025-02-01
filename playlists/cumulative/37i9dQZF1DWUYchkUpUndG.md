@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=9xF4d6\-CQFmtXPubREvJdQ>Sjava</a>
 
-4,356 songs - 13 day 4 hr 56 min
+4,357 songs - 13 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2704,7 +2704,7 @@
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-07-28 | 2023-08-11 |
 | [No Longer Slaves](https://open.spotify.com/track/3k1SRcEZGJ8RFQADgUSTcy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [No Longer Slaves](https://open.spotify.com/album/4GlxFPsBe7r7ak8m4wAAj3) | 2:26 | 2025-01-17 | 2025-01-31 |
 | [No Man Can See The End Of Your Love \- Unlimited God](https://open.spotify.com/track/5RhhsyuU9SrqXYHVuvYPP6) | [MFY](https://open.spotify.com/artist/4dvPRzH6QasT9GgHLthEeR), [Omosehin Omoniyi](https://open.spotify.com/artist/16ptBueZq1WFEZZtSpFQW0) | [No Man Can See The End Of Your Love \(Unlimited God\)](https://open.spotify.com/album/6wCEaP7orJ1k4zg9AK2Mns) | 1:58 | 2023-12-15 | 2023-12-30 |
-| [No Minus](https://open.spotify.com/track/4NsvT4D4MIRII7Ny1EGt32) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [No Minus](https://open.spotify.com/album/1piqUePflotW4lT7qfDQpG) | 2:36 | 2025-01-31 |  |
+| [No Minus](https://open.spotify.com/track/4NsvT4D4MIRII7Ny1EGt32) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [No Minus](https://open.spotify.com/album/1piqUePflotW4lT7qfDQpG) | 2:36 | 2025-01-31 | 2025-02-01 |
 | [No Name \- Live](https://open.spotify.com/track/2XezacK0BDNXfBtZfpWYad) | [WISDOM K](https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd) | [I Do Worship \(Live\)](https://open.spotify.com/album/6zEW3FcmWLMTpoGZdKzgxC) | 10:38 | 2024-12-27 | 2025-01-17 |
 | [No One](https://open.spotify.com/track/4VZGwCxvbOcIJRGnGdNs3L) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [No One](https://open.spotify.com/album/2IB0lObVTyYqgyjIu2RstK) | 2:54 | 2024-06-28 | 2024-07-12 |
 | [No other God](https://open.spotify.com/track/0mOxh5q31ZYSii9TtuXlJn) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [No other God](https://open.spotify.com/album/67X3iPhRnpMRaiyGzJro99) | 4:59 | 2023-06-23 | 2023-07-07 |
@@ -4347,6 +4347,7 @@
 | [You’re Enough](https://open.spotify.com/track/3CyiWFtxv1dfv8UWC8WBG9) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Tosin Michael](https://open.spotify.com/artist/7nAvJKvWIgRDNnXw3FszsN) | [You’re Enough](https://open.spotify.com/album/6AidyVQdDrST7uV7nonzHI) | 3:41 | 2024-02-16 | 2024-03-01 |
 | [yur luv](https://open.spotify.com/track/7a21PZ7saertceB2ft8dWe) | [Cyfa](https://open.spotify.com/artist/3fItFJEQGwuAIQhFy92rJ9), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [yur luv](https://open.spotify.com/album/63GrvRmBHa2wsSqmMirwZe) | 2:42 | 2024-02-09 | 2024-02-23 |
 | [Zamar Worship](https://open.spotify.com/track/1VhRyTjflOVeTWCkpzWpRT) | [Godee](https://open.spotify.com/artist/53kO7BpR5sbrTFsz2SzqyB) | [Zamar Worship](https://open.spotify.com/album/73FuSfnnWqkYFVQAS0fB3H) | 12:31 | 2023-05-26 | 2023-06-09 |
+| [Zero Shege](https://open.spotify.com/track/4PlCXCaxZI35ZM8rKHgbL0) | [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk) | [Zero Shege](https://open.spotify.com/album/7E61GP74XnL2Row5lOZFR4) | 1:13 | 2025-01-31 |  |
 | [ZION \(NEVER CHANGING\)](https://open.spotify.com/track/3DMitTZDqxQhnma2n2kbBG) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [ZION \(NEVER CHANGING\)](https://open.spotify.com/album/3H6aUtBg9l713ff5mbu4Fj) | 3:00 | 2025-01-24 |  |
 | [Zion \(Somebody\)](https://open.spotify.com/track/5sDHoeC72DkpU1wiLFCNZ4) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Pe.te](https://open.spotify.com/artist/6JBEJPPMT7XhJII7ZMhPCi) | [Zion \(Somebody\)](https://open.spotify.com/album/4KPwpXXBFEMEPueGCqAEIN) | 2:52 | 2023-07-28 | 2023-08-04 |
 | [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-09 | 2023-06-16 |

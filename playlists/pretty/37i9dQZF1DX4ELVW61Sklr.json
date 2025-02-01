@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 221149,
+  "num_followers": 221126,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Litmas",
-        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Litmas",
-      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "A Mary Mary Christmas",
         "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215586,
       "name": "Hark the Herald Angels Sing",
       "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Litmas",
+        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Litmas",
+      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
-      "added_at": "2024-12-13 10:14:16",
-      "album": {
-        "name": "Nothing Like Christmas",
-        "url": "https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 199415,
-      "name": "Nothing Like Christmas",
-      "url": "https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL"
-    },
-    {
       "added_at": "2024-12-20 17:23:28",
       "album": {
         "name": "Secret Santa",
@@ -919,6 +903,22 @@
       "duration_ms": 179277,
       "name": "Secret Santa",
       "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
+    },
+    {
+      "added_at": "2024-12-13 10:14:16",
+      "album": {
+        "name": "Nothing Like Christmas",
+        "url": "https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 199415,
+      "name": "Nothing Like Christmas",
+      "url": "https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
-      "album": {
-        "name": "Christmas All Year",
-        "url": "https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl"
-      },
-      "artists": [
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        }
-      ],
-      "duration_ms": 173207,
-      "name": "Christmas All Year",
-      "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Home For The Holidays",
@@ -995,6 +979,22 @@
       "duration_ms": 155933,
       "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
       "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
+    },
+    {
+      "added_at": "2023-12-08 05:22:39",
+      "album": {
+        "name": "Christmas All Year",
+        "url": "https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 173207,
+      "name": "Christmas All Year",
+      "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1085,26 +1085,6 @@
       "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
-    },
-    {
       "added_at": "2023-12-08 05:22:39",
       "album": {
         "name": "Let it Snow",
@@ -1135,6 +1115,26 @@
       "duration_ms": 272333,
       "name": "Little Drummer Girl",
       "url": "https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1365,6 +1365,22 @@
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "His Gift",
+        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Glory To The King - His Gift Version",
+      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
+    },
+    {
       "added_at": "2023-11-03 05:45:27",
       "album": {
         "name": "Christmas Kisses",
@@ -1383,22 +1399,6 @@
       "duration_ms": 211200,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "His Gift",
-        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Glory To The King - His Gift Version",
-      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
     },
     {
       "added_at": "2023-12-08 05:22:39",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "A Faithful Christmas",
-        "url": "https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 186409,
-      "name": "Soulful Christmas",
-      "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
-    },
-    {
       "added_at": "2023-11-18 05:00:00",
       "album": {
         "name": "The Greatest Gift",
@@ -1555,6 +1539,22 @@
       "duration_ms": 145925,
       "name": "The Greatest Gift",
       "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "A Faithful Christmas",
+        "url": "https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 186409,
+      "name": "Soulful Christmas",
+      "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
     },
     {
       "added_at": "2023-11-10 05:00:00",

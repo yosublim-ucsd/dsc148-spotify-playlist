@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "When the Stars Gossip OST Part.3",
+        "url": "https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },

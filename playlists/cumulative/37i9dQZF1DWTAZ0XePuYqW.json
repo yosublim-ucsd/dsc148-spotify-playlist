@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Vv Pete",
+  "description": "That's that big energy. Cover: Austin Millz & Kah-Lo",
   "name": "Bounce",
   "tracks": [
     {
@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+    },
+    {
+      "album": {
         "name": "D-RIDE (feat. SadBoi)",
         "url": "https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl"
       },
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
@@ -3886,6 +3904,28 @@
       "duration_ms": 162648,
       "name": "HOOD RAT SHIT",
       "url": "https://open.spotify.com/track/3kngaJLn8ch92TAI33kGtf"
+    },
+    {
+      "album": {
+        "name": "Hot & Mysterious",
+        "url": "https://open.spotify.com/album/2WUZrYy8Edtl3xmrWWDEAq"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Hot & Mysterious",
+      "url": "https://open.spotify.com/track/0fs75XwQHj1mdIWUhvNohh"
     },
     {
       "album": {

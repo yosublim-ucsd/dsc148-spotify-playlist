@@ -7103,6 +7103,32 @@
     },
     {
       "album": {
+        "name": "Delirious (French Version)",
+        "url": "https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176932,
+      "name": "Delirious (French Version)",
+      "url": "https://open.spotify.com/track/5nGPbqEmQ3ZutQGX4EHw9J"
+    },
+    {
+      "album": {
         "name": "Derni\u00e8re Danse (Aaxis HYPER Mix)",
         "url": "https://open.spotify.com/album/5K2oYKx6QE6V0hsD1lfIv6"
       },

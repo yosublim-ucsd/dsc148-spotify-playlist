@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: FKA twigs",
+  "description": "Genre-less. Quality first always. Cover: Jamie xx",
   "name": "POLLEN",
   "tracks": [
     {
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 281890,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/5OklzM8XVb0LRx3yMoIbV8"
@@ -8250,7 +8250,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 242242,
       "name": "CA$HMERE TEAR$",
       "url": "https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav"
@@ -11681,6 +11681,32 @@
     },
     {
       "album": {
+        "name": "On A Trip",
+        "url": "https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197799,
+      "name": "Currency (Count On Me) (ft Cimafunk and PAM\u00c9)",
+      "url": "https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS"
+    },
+    {
+      "album": {
         "name": "Cut Me",
         "url": "https://open.spotify.com/album/6yFd0s31t2p85l32WO7UEt"
       },
@@ -14724,7 +14750,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191360,
       "name": "Drums of Death",
       "url": "https://open.spotify.com/track/0s2kdkcG5N7ySBbEwTiFEF"
@@ -16240,6 +16266,28 @@
       "duration_ms": 188348,
       "name": "F*Me",
       "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
+    },
+    {
+      "album": {
+        "name": "In Waves (Deluxe)",
+        "url": "https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217074,
+      "name": "F.U.",
+      "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
     },
     {
       "album": {
@@ -25450,7 +25498,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 197813,
       "name": "In Love We Know Ourselves",
       "url": "https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1"
@@ -28223,6 +28271,24 @@
     },
     {
       "album": {
+        "name": "BLACK\u2019!ANTIQUE",
+        "url": "https://open.spotify.com/album/5DysldnqrOvaDbYyNHA2WZ"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236491,
+      "name": "LAST ONE ALIVE'!",
+      "url": "https://open.spotify.com/track/3A263C6177xoTmIcYiRisE"
+    },
+    {
+      "album": {
         "name": "Last Words (Extended Edit)",
         "url": "https://open.spotify.com/album/4CaOaq3dNi7N0S6oZ7JbSW"
       },
@@ -28688,6 +28754,24 @@
       "duration_ms": 176531,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/7cLnbmx7ZUWAwyocrKz3wL"
+    },
+    {
+      "album": {
+        "name": "Let It Hurt",
+        "url": "https://open.spotify.com/album/4hQPmvPZa9falGTfL5DCqq"
+      },
+      "artists": [
+        {
+          "name": "Sirens Of Lesbos",
+          "url": "https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148297,
+      "name": "Let It Hurt",
+      "url": "https://open.spotify.com/track/0L6zAsIMoNEdNfdh0gNPRy"
     },
     {
       "album": {
@@ -39413,6 +39497,24 @@
     },
     {
       "album": {
+        "name": "PROTECT THE CROSS",
+        "url": "https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169570,
+      "name": "PROTECT THE CROSS",
+      "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
+    },
+    {
+      "album": {
         "name": "Protein",
         "url": "https://open.spotify.com/album/4GiYLASQVCiNWIt6Z1g5BZ"
       },
@@ -43738,7 +43840,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 203543,
       "name": "Show Off",
       "url": "https://open.spotify.com/track/4y3lRmi6gHWaDmJMaJIIUF"
@@ -45674,6 +45776,24 @@
       "duration_ms": 174648,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
+    },
+    {
+      "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184689,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
     },
     {
       "album": {
@@ -49946,7 +50066,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 257040,
       "name": "The Window",
       "url": "https://open.spotify.com/track/5sf9YLJBGMTrCBEpUZOwrc"
@@ -50270,7 +50390,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 207272,
       "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
       "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
@@ -52250,7 +52370,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162077,
       "name": "uwu ^^",
       "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"

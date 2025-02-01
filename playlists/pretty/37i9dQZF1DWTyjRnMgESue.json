@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Max McNown",
-  "num_followers": 82337,
+  "num_followers": 82392,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MehwAAAACa0Z/KkG0KOEHmBHVa/mt8",
+  "snapshot_id": "Z5xY8AAAAAB62KQumHKlDGCOVJf1N3nf",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:55",
@@ -41,6 +41,78 @@
       "url": "https://open.spotify.com/track/7bgVm7r759aqRHR027Shpf"
     },
     {
+      "added_at": "2025-01-31 05:00:32",
+      "album": {
+        "name": "Rattlesnake (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 293836,
+      "name": "Rattlesnake (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "added_at": "2025-01-31 05:00:32",
+      "album": {
+        "name": "Speak Too Soon (feat. Hans Williams)",
+        "url": "https://open.spotify.com/album/5vc1BN8ua7hlFp5Ohm8YiF"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        },
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 179028,
+      "name": "Speak Too Soon (feat. Hans Williams)",
+      "url": "https://open.spotify.com/track/57xHYfCID32ZMMI6R31vSA"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
       "added_at": "2025-01-24 05:00:55",
       "album": {
         "name": "Happy Ever After You",
@@ -63,70 +135,6 @@
       "duration_ms": 197071,
       "name": "Happy Ever After You",
       "url": "https://open.spotify.com/track/3M5QdKS15Sa3qqwxzfzGzU"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/43iRFJBKyigjwAIXnCBSEt"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -199,18 +207,34 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/43iRFJBKyigjwAIXnCBSEt"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
         }
       ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+      "duration_ms": 255000,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -247,22 +271,6 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "God Needs The Devil",
-        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "God Needs The Devil",
-      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
         "name": "Light Verse",
         "url": "https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q"
       },
@@ -279,70 +287,6 @@
       "duration_ms": 255338,
       "name": "All in Good Time",
       "url": "https://open.spotify.com/track/3K8csekmDMhYCh0BDzalmW"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "crooked the road.",
-        "url": "https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "crooked the road.",
-      "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "American Dreaming",
-        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 237691,
-      "name": "American Dreaming - Single Edit",
-      "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 224371,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "I'm Someone New",
-        "url": "https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "I'm Someone New",
-      "url": "https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -367,18 +311,50 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Real Good Love",
-        "url": "https://open.spotify.com/album/2CUpYizxYu2o1ULtbM61RF"
+        "name": "God Needs The Devil",
+        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
       },
       "artists": [
         {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 172869,
-      "name": "Real Good Love",
-      "url": "https://open.spotify.com/track/13NS1isrYiasCdCt775RL3"
+      "duration_ms": 192133,
+      "name": "God Needs The Devil",
+      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "crooked the road.",
+        "url": "https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "crooked the road.",
+      "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 224371,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -399,38 +375,18 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Call Your Mom (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+        "name": "Real Good Love",
+        "url": "https://open.spotify.com/album/2CUpYizxYu2o1ULtbM61RF"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
         }
       ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+      "duration_ms": 172869,
+      "name": "Real Good Love",
+      "url": "https://open.spotify.com/track/13NS1isrYiasCdCt775RL3"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -451,18 +407,38 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Please Slow Down (Rubber Bridge Version)",
-        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 163324,
-      "name": "Please Slow Down - Rubber Bridge Version",
-      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -479,6 +455,22 @@
       "duration_ms": 227147,
       "name": "Anytime, Anyplace, Anyhow",
       "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Please Slow Down (Rubber Bridge Version)",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down - Rubber Bridge Version",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -511,6 +503,22 @@
       "duration_ms": 186342,
       "name": "Tear It All Apart",
       "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -555,42 +563,6 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Homesick (with Sam Fender)",
-        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 194416,
-      "name": "Homesick (with Sam Fender)",
-      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
         "name": "The Mountain Is You",
         "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
       },
@@ -603,6 +575,26 @@
       "duration_ms": 196210,
       "name": "The Mountain Is You",
       "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Call Your Mom (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -823,6 +815,22 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
         "name": "All For Something",
         "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
       },
@@ -851,22 +859,6 @@
       "duration_ms": 241906,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -931,6 +923,22 @@
       "duration_ms": 234742,
       "name": "to be held",
       "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -1051,22 +1059,6 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
         "name": "Seed of a Seed",
         "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
       },
@@ -1079,6 +1071,22 @@
       "duration_ms": 164366,
       "name": "Seed of a Seed",
       "url": "https://open.spotify.com/track/0QQJqEdKs0jMm0ASyChDKn"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -1115,6 +1123,26 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
+        "name": "Bones Sleep",
+        "url": "https://open.spotify.com/album/4pkXTeG6c4QjGaGW3eTzLt"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        },
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 169803,
+      "name": "Bones Sleep",
+      "url": "https://open.spotify.com/track/0iOyNCPEDidYqENgVwIqHQ"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
         "name": "Nolan Taylor",
         "url": "https://open.spotify.com/album/1q0SJmCvJjp3rGPJHtuwCD"
       },
@@ -1143,26 +1171,6 @@
       "duration_ms": 305306,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Bones Sleep",
-        "url": "https://open.spotify.com/album/4pkXTeG6c4QjGaGW3eTzLt"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        },
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 169803,
-      "name": "Bones Sleep",
-      "url": "https://open.spotify.com/track/0iOyNCPEDidYqENgVwIqHQ"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -1219,6 +1227,22 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
+        "name": "American Dreaming",
+        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "American Dreaming - Single Edit",
+      "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
         "name": "Timeline",
         "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
       },
@@ -1247,26 +1271,6 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Fighting For (Hailey Whitters Version)",
-        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 249523,
-      "name": "Fighting For - Hailey Whitters Version",
-      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

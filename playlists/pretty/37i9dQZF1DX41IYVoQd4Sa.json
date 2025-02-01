@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d2\u05f3\u05d9\u05e8\u05e4\u05d5\u05ea ",
-  "num_followers": 31332,
+  "num_followers": 31345,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,22 @@
     {
       "added_at": "2025-01-30 22:00:34",
       "album": {
-        "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
+        "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
+        "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
       },
       "artists": [
         {
-          "name": "Gil Bar Hadas",
-          "url": "https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ"
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        },
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
         }
       ],
-      "duration_ms": 218500,
-      "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
+      "duration_ms": 248146,
+      "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
+      "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
     },
     {
       "added_at": "2025-01-30 22:00:34",
@@ -619,22 +623,18 @@
     {
       "added_at": "2025-01-30 22:00:34",
       "album": {
-        "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
-        "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
+        "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
       },
       "artists": [
         {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        },
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+          "name": "Gil Bar Hadas",
+          "url": "https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ"
         }
       ],
-      "duration_ms": 248146,
-      "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
-      "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
+      "duration_ms": 218500,
+      "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
     },
     {
       "added_at": "2025-01-30 22:00:34",
@@ -967,22 +967,18 @@
     {
       "added_at": "2025-01-30 22:00:34",
       "album": {
-        "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
-        "url": "https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP"
+        "name": "\u05d3\u05e0\u05d4 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05e9\u05d9\u05d5\u05e0\u05dc",
+        "url": "https://open.spotify.com/album/76seYzlYqfQroM7loKKPMQ"
       },
       "artists": [
         {
-          "name": "Shir Hadas Meir",
-          "url": "https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn"
-        },
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
         }
       ],
-      "duration_ms": 209651,
-      "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
-      "url": "https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8"
+      "duration_ms": 170571,
+      "name": "\u05d3\u05e0\u05d4 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05e9\u05d9\u05d5\u05e0\u05dc",
+      "url": "https://open.spotify.com/track/4CJD1r9Iyy96HUv5DgYgEu"
     },
     {
       "added_at": "2025-01-30 22:00:34",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2025-01-30 22:00:34",
       "album": {
-        "name": "\u05d3\u05e0\u05d4 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05e9\u05d9\u05d5\u05e0\u05dc",
-        "url": "https://open.spotify.com/album/76seYzlYqfQroM7loKKPMQ"
+        "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
+        "url": "https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP"
       },
       "artists": [
         {
-          "name": "J.Lamotta",
-          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+          "name": "Shir Hadas Meir",
+          "url": "https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn"
+        },
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         }
       ],
-      "duration_ms": 170571,
-      "name": "\u05d3\u05e0\u05d4 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05e9\u05d9\u05d5\u05e0\u05dc",
-      "url": "https://open.spotify.com/track/4CJD1r9Iyy96HUv5DgYgEu"
+      "duration_ms": 209651,
+      "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
+      "url": "https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8"
     },
     {
       "added_at": "2025-01-30 22:00:34",

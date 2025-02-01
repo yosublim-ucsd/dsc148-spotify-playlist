@@ -2,9 +2,9 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Alternative indie music etc\. Cover: Roy Blair
+> Alternative indie music etc\. Cover: 2hollis
 
-1,784 songs - 3 day 13 hr 36 min
+1,785 songs - 3 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-10-15 | 2023-07-01 |
 | [Acting](https://open.spotify.com/track/2XHqdn6s7SnXTMFBcU1riH) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [Notice of Demolition](https://open.spotify.com/album/0DnOJf9x48SEbG96alqW83) | 1:40 | 2021-11-05 | 2021-12-22 |
 | [Adventure \(feat\. KIRBY\)](https://open.spotify.com/track/6dOSdAbu3DW28z4cARUHLf) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:54 | 2023-03-21 | 2023-04-15 |
+| [afraid \(feat\. nate sib\)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [afraid \(feat\. nate sib\)](https://open.spotify.com/album/3wUZg9qN8bFDXHh109BaOv) | 2:58 | 2025-01-31 |  |
 | [Afterglow](https://open.spotify.com/track/1HQ2HeB2U5DxCBobfVYGjJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Voyager](https://open.spotify.com/album/0KFTrQV0ZvnDiogu64B1MD) | 2:31 | 2021-07-17 | 2021-10-16 |
 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-05-27 | 2022-08-06 |
 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 | 2023-09-22 | 2024-01-28 |

@@ -2,9 +2,9 @@
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including Interior Chinatown, now streaming on Hulu.
+> Music from shows and movies you love including Paradise, now streaming on Hulu.
 
-120 songs - 5 hr 39 min
+123 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Can It Be All so Simple](https://open.spotify.com/track/6OCYTygzbVwil2UFkREQiD) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [The Essential Wu\-Tang Clan](https://open.spotify.com/album/0qtA1fEpJAvz8xGqUESxHU) | 4:11 | 2024-01-05 | 2024-07-03 |
 | [Chase](https://open.spotify.com/track/7yrPpP8xA8oGgwyc9JRDX4) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Vacation Friends 2 \(Original Soundtrack\)](https://open.spotify.com/album/1r5f7IRaMMAs5IDahZ97DU) | 2:39 | 2024-01-05 |  |
 | [Cheryl \- From "A Small Light: Episode 2"](https://open.spotify.com/track/07XRSCOruiB0cV7Byi9Ktk) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [A Small Light: Episodes 1 & 2 \(Songs from the Limited Series\)](https://open.spotify.com/album/4eyOODroEAOa4fzO8oQ8Ha) | 5:23 | 2024-01-05 |  |
+| [Christian Laettner](https://open.spotify.com/track/3ppQ2k0mEcrxtxwUwX6okO) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Paradise \(Original Soundtrack\)](https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly) | 4:13 | 2025-01-31 |  |
 | [Closer to Fine](https://open.spotify.com/track/1LI1sV0rJX08ZeaXO4ecbx) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 3:28 | 2024-01-05 |  |
 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 | 2024-02-23 | 2024-07-03 |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2024-01-05 | 2024-07-03 |
@@ -46,6 +47,7 @@
 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 | 2024-01-05 | 2024-07-03 |
 | [God, This Feels Good](https://open.spotify.com/track/3pPuIUNXQR6Vx8GNn6CFsU) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:18 | 2024-01-05 |  |
 | [Good Morning U.S.A\. \- Main Title Theme](https://open.spotify.com/track/5zqEtv7hgqhMTpFGRFZSpE) | [American Dad! Cast](https://open.spotify.com/artist/2CSVljFM7BwGQjCCjjrAH8) | [American Dad! Greatest Hits](https://open.spotify.com/album/5YrB7WXoV5Smf8VoRXi4qD) | 1:33 | 2024-10-25 |  |
+| [Grain of Salt](https://open.spotify.com/track/1WKHA0UABRMMQEwChZVlhM) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Paradise \(Original Soundtrack\)](https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly) | 2:57 | 2025-01-31 |  |
 | [Great Expectations](https://open.spotify.com/track/7cYBPmjFE0ADvutbvEfkFJ) | [Keefus Ciancia](https://open.spotify.com/artist/7B9L4JpLt7dSvu07KfPFYF) | [Great Expectations \(Original Soundtrack\)](https://open.spotify.com/album/1CBi1xXd60BA6ReHdCsxYN) | 1:20 | 2024-01-05 |  |
 | [Green Gloves](https://open.spotify.com/track/4IxOGS1DnoBXyem7be8Ezo) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Suncoast \(Original Soundtrack\)](https://open.spotify.com/album/5h4yMJibNgzJ47rytW6v5t) | 3:33 | 2024-02-23 |  |
 | [Heaven Is a Hand to Hold](https://open.spotify.com/track/5z2aQl5Kn9N2B6mwOfdXlx) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:41 | 2024-01-05 |  |
@@ -83,6 +85,7 @@
 | [Not Gone](https://open.spotify.com/track/1O9mxTVOk4hehQNbD5gndC) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 2:50 | 2024-01-05 |  |
 | [Only You](https://open.spotify.com/track/78reznKyxnP51YPifbCPhR) | [Jonah Mutono](https://open.spotify.com/artist/6DycDXzvurfW6Z7CMCQC4P) | [Love, Victor: Season 3 \(Original Soundtrack\)](https://open.spotify.com/album/19xxnBkkYArMHavIT1c2Hr) | 2:27 | 2024-01-05 |  |
 | [Our Future](https://open.spotify.com/track/1jwILGKatMdgH2i7W03tJN) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Snowfall \(Original Series Soundtrack\)](https://open.spotify.com/album/38YjI6HTd4A4p2q8l71QuT) | 0:46 | 2024-01-05 |  |
+| [Paradise](https://open.spotify.com/track/7xPXAu8b27xAbIugYXKmC5) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Paradise \(Original Soundtrack\)](https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly) | 1:06 | 2025-01-31 |  |
 | [Pilot Ending](https://open.spotify.com/track/2NoXdmsU1QncCfXncRIj2L) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 1:43 | 2024-01-05 |  |
 | [Preparation](https://open.spotify.com/track/1aShWHi1ndthSp7xOaNU7l) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [No One Will Save You \(Original Soundtrack\)](https://open.spotify.com/album/6CEopxiVII0JuPEQhwSuI6) | 1:36 | 2024-01-05 |  |
 | [Pretty Vacant](https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:18 | 2024-01-05 | 2024-07-03 |

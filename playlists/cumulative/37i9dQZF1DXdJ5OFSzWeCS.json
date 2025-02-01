@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Count the Stars",
+        "url": "https://open.spotify.com/album/20t6iRTDCE1S5Ckn9XpirM"
+      },
+      "artists": [
+        {
+          "name": "Caprice Henry",
+          "url": "https://open.spotify.com/artist/3MJcT8HEZJ8QsSqgQd2A7G"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Count the Stars",
+      "url": "https://open.spotify.com/track/4NxHzHS8eRHxgkrinsIBY2"
+    },
+    {
+      "album": {
         "name": "Counting Kisses",
         "url": "https://open.spotify.com/album/53DyZwzefF4w5TmJuIvqhq"
       },
@@ -6154,7 +6172,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 119720,
       "name": "Lavender's Blue - Instrumental",
       "url": "https://open.spotify.com/track/0Zwt0Q9NTjo8ASYPtIkRLG"
@@ -11057,6 +11075,24 @@
     },
     {
       "album": {
+        "name": "The Children of Noisy Village",
+        "url": "https://open.spotify.com/album/1BKStzFF3WZWDpUpI90w1T"
+      },
+      "artists": [
+        {
+          "name": "Milo Creek",
+          "url": "https://open.spotify.com/artist/33aBwwHlIzRWzNoOAM39LF"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100688,
+      "name": "The Children of Noisy Village",
+      "url": "https://open.spotify.com/track/36zMimZugbOYLZofT2TJ6d"
+    },
+    {
+      "album": {
         "name": "The cow that said meow",
         "url": "https://open.spotify.com/album/77vdRF8BaHNuJxFxxpf0RM"
       },
@@ -12926,6 +12962,24 @@
       "duration_ms": 64500,
       "name": "Wind The Bobbin Up",
       "url": "https://open.spotify.com/track/1FE4MRViKXTiklLJeU4CZc"
+    },
+    {
+      "album": {
+        "name": "Winter Fox",
+        "url": "https://open.spotify.com/album/6Uk2sq2DyeOQt7WyvlmGe2"
+      },
+      "artists": [
+        {
+          "name": "Julius Cuvier",
+          "url": "https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107381,
+      "name": "Winter Fox",
+      "url": "https://open.spotify.com/track/7fXNDoSqsRKdZ7TmbXbUu0"
     },
     {
       "album": {

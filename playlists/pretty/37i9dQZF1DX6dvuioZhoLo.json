@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 309569,
+  "num_followers": 309613,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+        "name": "Playing Old Games",
+        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
       "artists": [
         {
-          "name": "Gold Child",
-          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Pete Lindberg",
+          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
         }
       ],
-      "duration_ms": 220571,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+      "duration_ms": 209880,
+      "name": "Playing Old Games",
+      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Playing Old Games",
-        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
       },
       "artists": [
         {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        },
-        {
-          "name": "Pete Lindberg",
-          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
+          "name": "Gold Child",
+          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
         }
       ],
-      "duration_ms": 209880,
-      "name": "Playing Old Games",
-      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
+      "duration_ms": 220571,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
     },
     {
       "added_at": "2024-07-12 04:00:00",

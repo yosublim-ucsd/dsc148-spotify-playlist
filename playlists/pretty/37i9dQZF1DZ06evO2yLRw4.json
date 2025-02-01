@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 36918,
+  "num_followers": 36922,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAADpOXSwldE/9WLRep8IGmvh",
+  "snapshot_id": "Z5rBAAAAAABn7Ud4/Ar894s8o9VNTZpT",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Bang Your Head",
-      "url": "https://open.spotify.com/track/2lhODvBNEJnbpyowhOhs1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here Come the Runts",
         "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
@@ -319,38 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Miners & The Lightning Riders",
-        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Lightning Riders",
-      "url": "https://open.spotify.com/track/4tUtj8DxT0XGpVw2rFRGjg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 281114,
-      "name": "Jailbreak",
-      "url": "https://open.spotify.com/track/57UIoWO4bNtnrTRXHvHfbL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -360,25 +312,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 190866,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Guilty Filthy Soul",
-      "url": "https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk"
+      "duration_ms": 141826,
+      "name": "Bang Your Head",
+      "url": "https://open.spotify.com/track/2lhODvBNEJnbpyowhOhs1V"
     },
     {
       "added_at": null,
@@ -412,9 +348,89 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
+      "duration_ms": 281114,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/57UIoWO4bNtnrTRXHvHfbL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Guilty Filthy Soul",
+      "url": "https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Lightning Riders",
+      "url": "https://open.spotify.com/track/4tUtj8DxT0XGpVw2rFRGjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
       "duration_ms": 274322,
       "name": "I Am",
       "url": "https://open.spotify.com/track/31CgjKFR1pzFO5Im365rXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
       "duration_ms": 182893,
       "name": "I Am Happy",
       "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "MF",
+      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 243066,
       "name": "Eye In The Sky (feat. Beck)",
       "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "MF",
-      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Shoestrings",
+      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 241609,
       "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
       "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Shoestrings",
-      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 292439,
+      "name": "Some Kind of Joke",
+      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 249212,
       "name": "Flagpole Sitta (feat. Elohim)",
       "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 292439,
-      "name": "Some Kind of Joke",
-      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
     }
   ],
   "unique_name": "This Is AWOLNATION",

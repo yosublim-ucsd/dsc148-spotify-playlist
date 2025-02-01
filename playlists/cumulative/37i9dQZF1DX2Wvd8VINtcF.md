@@ -4,7 +4,7 @@
 
 > Pearl of the week: Felix Sandman
 
-1,681 songs - 3 day 19 hr 10 min
+1,682 songs - 3 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,6 +900,7 @@
 | [Lost In Memories](https://open.spotify.com/track/4Gug166DkIrDlolvyvM7LS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Broken Wings Still Fly](https://open.spotify.com/album/0YWUqVKNh1DG1s7gVme7Tb) | 3:25 | 2024-05-02 | 2024-07-27 |
 | [Lost Track / Chasing Potential](https://open.spotify.com/track/24c4bwReo7nCVAHR7thVq9) | [Regina Amado](https://open.spotify.com/artist/3zx7AylvM0dSHwRa3xF7H5) | [Lost Track / Chasing Potential](https://open.spotify.com/album/0MkVpPKM0BA5zL3Y58nWlE) | 3:33 | 2024-10-31 | 2025-01-03 |
 | [Loud with you \(Angel\)](https://open.spotify.com/track/3Oqs4bnfa0GTCikDHBzell) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [Loud with you \(Angel\)](https://open.spotify.com/album/5lRV0HzbDTApICK2SZOr2W) | 3:16 | 2025-01-16 |  |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love Is A Trap](https://open.spotify.com/track/1C8oiysXkAycdB30Kd22Et) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Love Is A Trap](https://open.spotify.com/album/60z4drZtyVUax17b1P9mUm) | 3:24 | 2024-04-11 | 2024-05-24 |
 | [Love Is My Condition](https://open.spotify.com/track/5b8JmtL7IhN8GF6wHgCzmt) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition](https://open.spotify.com/album/1Gybu76KwSDNNyK2K13PlK) | 3:08 | 2022-11-03 | 2022-11-05 |
 | [Love Is My Condition](https://open.spotify.com/track/7JMIWkV5UaYvXFjNk0Dw0B) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition / Away](https://open.spotify.com/album/5Yyqtdm1bLpOij6ISgvG8K) | 3:08 | 2022-11-03 | 2022-11-18 |

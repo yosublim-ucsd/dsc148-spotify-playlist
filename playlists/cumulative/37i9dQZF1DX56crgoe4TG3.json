@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 266748,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1WCr2LWff8IKCuz71tM0ta"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 224720,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/7o7LWBj18034zYmqRDWOff"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 330120,
       "name": "Black Peter",
       "url": "https://open.spotify.com/track/4rQyvLAxf6ENq0dB4WFbOR"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 96960,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/4TdQmsHwJQbCaVSen5W9Zv"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 262001,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/3tcmqEQe8CUmktxtlZPow5"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 386784,
       "name": "Gin and Juice",
       "url": "https://open.spotify.com/track/44eriZvPXHtb065mbCAfeg"
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 383733,
       "name": "Gin and Juice",
       "url": "https://open.spotify.com/track/7v7ytRZIWuZuNxXSGwxIhK"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 236600,
       "name": "Hit 'Em up Style",
       "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 244192,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/1CIv9WQZP4Ny4cF9tfzA6T"
@@ -3758,6 +3758,32 @@
       "duration_ms": 223973,
       "name": "Pinball Wizard",
       "url": "https://open.spotify.com/track/61PS7u4z4JCXfN6VdVbcjT"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
+      },
+      "artists": [
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        },
+        {
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        },
+        {
+          "name": "Kylie Spence",
+          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187924,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
     },
     {
       "album": {
@@ -3868,7 +3894,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 230454,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
@@ -3922,7 +3948,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 164346,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/3VxdLLHdGq3axyW5OJwJKz"
@@ -4056,7 +4082,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 233000,
       "name": "Shape Of You",
       "url": "https://open.spotify.com/track/7nrwVt1Zgt2r9WT6Yo9emQ"
@@ -4128,7 +4154,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 298600,
       "name": "Simple Twist Of Fate",
       "url": "https://open.spotify.com/track/6Y5In9hWevpuyuGNqb6tXn"
@@ -4586,7 +4612,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188840,
       "name": "Stop Draggin' My Heart Around",
       "url": "https://open.spotify.com/track/4dVdOYwqfTceuuiUdUWhsx"
@@ -4748,7 +4774,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 201133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/3TXIXYKb8c6Lj6v7TcU0gB"

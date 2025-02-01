@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Dan García, Sheeno y ND Kobi' en portada.
 
-337 songs - 15 hr 54 min
+338 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Lilith](https://open.spotify.com/track/61ulBJqmUUU39xId334yEs) | [Olivia Ans](https://open.spotify.com/artist/3YAmGJaKxvpujUV487nF2l) | [Lilith](https://open.spotify.com/album/0Uo4PwoXMpVTd9FmteqB0q) | 2:16 | 2023-06-09 | 2023-09-23 |
 | [Lo Manifestamos](https://open.spotify.com/track/66eQmGHeq0ZgvbPg9srXJr) | [Ferchosre](https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq), [Mérida](https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [D'huizar](https://open.spotify.com/artist/3DCJs16lEewkE0m5Do6feJ), [Max Rc](https://open.spotify.com/artist/6pIUPiI9vIElCl6sd05pSa), [Tesla da cherry](https://open.spotify.com/artist/6l3JLPVk4cxum2ifkWHq4k) | [Lo Manifestamos](https://open.spotify.com/album/7ooHD96LwsCeB9ffBthQgz) | 4:39 | 2024-07-12 | 2025-01-18 |
 | [Lo Necesario](https://open.spotify.com/track/5flMyPH1w2R5arUxk0M17u) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Lo Necesario](https://open.spotify.com/album/7oFDq5F8UqiT8u8FDNZT5e) | 2:38 | 2024-05-27 | 2024-07-27 |
+| [LOV3](https://open.spotify.com/track/77FuRwTds1wwouSgoITRnO) | [Over Hill$](https://open.spotify.com/artist/4fMuciJme6d5HKv3OQjsyK), [Bauttista](https://open.spotify.com/artist/2MthkhunALie6f0Rya21tU) | [LOV3](https://open.spotify.com/album/3cQFlTTGjPIr8A2ZkpZ92A) | 2:22 | 2025-01-31 |  |
 | [LowKey](https://open.spotify.com/track/4Nxcy0GtAANYDmCiLdUcWz) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Alexis Chaires](https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr) | [LowKey](https://open.spotify.com/album/0WK2yQv2NmyLwVhMnXFfyi) | 2:32 | 2024-06-14 | 2024-07-13 |
 | [LPKD](https://open.spotify.com/track/5eo4xwCfGFqwCUyIatfe61) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [LPKD](https://open.spotify.com/album/20r8i6Yz3WKZHp0FKwIUJt) | 3:31 | 2024-06-21 | 2024-11-02 |
 | [LUCES Y FLASHES](https://open.spotify.com/track/2RPwEb6p6UEhIvTbN2uOuf) | [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X), [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [LUCES Y FLASHES](https://open.spotify.com/album/4bc0s9602uwnaDY5iaa1Dr) | 2:46 | 2023-06-23 | 2024-01-27 |

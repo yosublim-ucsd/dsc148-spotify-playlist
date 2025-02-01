@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: KickFlip",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: JENNIE",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -1410,6 +1410,24 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+    },
+    {
+      "album": {
+        "name": "BAD ENOUGH",
+        "url": "https://open.spotify.com/album/1vq1AQE3xWU0Bp568uIvim"
+      },
+      "artists": [
+        {
+          "name": "TRENDZ",
+          "url": "https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "BAD ENOUGH",
+      "url": "https://open.spotify.com/track/1oeZ1eTnkh4KwCvLHlN7w1"
     },
     {
       "album": {
@@ -8458,7 +8476,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188790,
       "name": "GPT",
       "url": "https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu"
@@ -9308,7 +9326,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 177186,
       "name": "Hit the Floor",
       "url": "https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7"
@@ -9384,6 +9402,24 @@
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/7JhAss3J9U99ZO2BsEZCE9"
+    },
+    {
+      "album": {
+        "name": "STUDY GROUP (Music from the Tving Original Series), Pt. 2",
+        "url": "https://open.spotify.com/album/0VjLYNDtj1TgWyvex5GgD9"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Hollo",
+      "url": "https://open.spotify.com/track/2FzuLPNILEvqazVEoR5uWn"
     },
     {
       "album": {
@@ -12093,6 +12129,28 @@
     },
     {
       "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "album": {
         "name": "Love in Bloom",
         "url": "https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi"
       },
@@ -12836,7 +12894,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
@@ -20566,7 +20624,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 220986,
       "name": "Tell Me Now",
       "url": "https://open.spotify.com/track/3u5YXPfBu7zxOv6vlgzm4U"
@@ -24204,6 +24262,24 @@
     {
       "album": {
         "name": "ZOOM",
+        "url": "https://open.spotify.com/album/3sBVNx0uoo6vAzlosi8RhM"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/0qIs4x4LRxGPaA1lP4IS18"
+    },
+    {
+      "album": {
+        "name": "ZOOM",
         "url": "https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF"
       },
       "artists": [
@@ -24214,7 +24290,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 168266,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA"
@@ -24578,6 +24654,24 @@
       "duration_ms": 191520,
       "name": "\u4eca -\u660e\u65e5 \u4e16\u754c\u304c\u7d42\u308f\u3063\u3066\u3082-",
       "url": "https://open.spotify.com/track/2dThVzsCkB0L8tWFvQH53N"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161693,
+      "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU - Japanese Ver.",
+      "url": "https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S"
     },
     {
       "album": {

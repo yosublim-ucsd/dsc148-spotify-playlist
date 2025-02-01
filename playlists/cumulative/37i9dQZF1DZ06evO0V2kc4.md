@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 22 min
+106 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Guantanamera](https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:54 | 2022-09-22 | 2024-12-14 |
 | [Hello In There](https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:04 | 2022-09-22 |  |
 | [Hello In There \(with Joan Baez\) \- Live](https://open.spotify.com/track/7HxC5nnl4qbP0Ql3LCY26K) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:29 | 2024-10-02 | 2025-01-07 |
-| [Help Me Make It Through The Night](https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:02 | 2022-09-22 |  |
+| [Help Me Make It Through The Night](https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:02 | 2022-09-22 | 2025-02-01 |
 | [Here's To You](https://open.spotify.com/track/5Q7BIxJApyZUjZCIDXyvam) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Rendez\-Vous](https://open.spotify.com/album/0p8oaAVdEEG7XT7oSZVGtV) | 3:01 | 2024-05-22 | 2024-06-24 |
 | [Here's to you \(feat\. Joan Baez\)](https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Sacco e Vanzetti \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK) | 3:08 | 2022-09-22 |  |
 | [Honest Lullaby](https://open.spotify.com/track/7053WQcYuZ9B8hoJ25wHN6) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 4:01 | 2023-05-02 | 2023-08-31 |
@@ -84,6 +84,7 @@
 | [No Nos Moveran](https://open.spotify.com/track/2lAgIXk4uz8VRpUEevxDxO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:41 | 2022-09-22 | 2022-11-30 |
 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 | 2023-05-12 | 2025-01-25 |
 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 | 2022-09-22 | 2024-03-18 |
+| [Oh, Freedom \- Live At Newport](https://open.spotify.com/track/0E7aHyjcnIrIZ5XhI5fuiO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 3:15 | 2025-02-01 |  |
 | [Pack Up Your Sorrows](https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:53 | 2022-10-30 |  |
 | [Plaisir D' Amour](https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:10 | 2022-09-27 |  |
 | [Plaisir d'amour](https://open.spotify.com/track/5eRrNnH2Q3eF5VI3xWG6fB) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Music Legends Joan Baez : The Queen of Folk Music](https://open.spotify.com/album/6mu8PdnxaUQm7Li0wymAtD) | 3:05 | 2024-08-18 | 2024-09-02 |

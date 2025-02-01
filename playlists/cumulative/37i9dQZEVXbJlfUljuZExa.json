@@ -3021,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "Bukan Lagi Kita",
+        "url": "https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv"
+      },
+      "artists": [
+        {
+          "name": "Nadeera",
+          "url": "https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Bukan Lagi Kita",
+      "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"
+    },
+    {
+      "album": {
         "name": "Bunga Abadi",
         "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
       },
@@ -5202,7 +5220,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
@@ -5220,7 +5238,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T"
@@ -7250,7 +7268,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 200163,
       "name": "Hanya Aku",
       "url": "https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg"
@@ -7690,7 +7708,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -9546,7 +9564,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"

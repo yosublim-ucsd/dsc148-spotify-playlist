@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 60930,
+  "num_followers": 60924,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABqiuBUExPU9E56/DBKiXQI",
+  "snapshot_id": "Z5rBAAAAAADGwVS/AfdVm4YwHZY6yBrb",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 149508,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 276421,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eyes Only for You",
         "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
       },
@@ -795,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
       "artists": [
         {
@@ -808,9 +788,33 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 67171,
-      "name": "A Piece Called Butterflies.",
-      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
+      "duration_ms": 276421,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show the Signs.",
+        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "Show the Signs.",
+      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
     },
     {
       "added_at": null,
@@ -859,30 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show the Signs.",
-        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        }
-      ],
-      "duration_ms": 181682,
-      "name": "Show the Signs.",
-      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bedroom Lofi",
         "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
       },
@@ -896,9 +876,25 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 172140,
-      "name": "God Given Dreams",
-      "url": "https://open.spotify.com/track/15gmFPuXOMZV7l1Afj0JMM"
+      "duration_ms": 67171,
+      "name": "A Piece Called Butterflies.",
+      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Lofi Christmas.",
+        "url": "https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Home for the Holidays",
+      "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
     }
   ],
   "unique_name": "This Is Montell Fish",

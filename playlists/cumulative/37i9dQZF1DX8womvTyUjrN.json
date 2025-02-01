@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ROBI & Sebastian Yatra",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ELENA ROSE & Morat",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "acaramelada",
+        "url": "https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154851,
+      "name": "acaramelada",
+      "url": "https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0"
+    },
+    {
+      "album": {
         "name": "Sensible",
         "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
       },
@@ -490,7 +508,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 214226,
       "name": "aeropuerto",
       "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 202068,
       "name": "Antes De Que Te Odie",
       "url": "https://open.spotify.com/track/33aidycdRsc82IF8yUFETD"
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 147711,
       "name": "BENDITA SEA LA HORA",
       "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
@@ -2400,6 +2418,24 @@
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
+    },
+    {
+      "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239324,
+      "name": "capricho",
+      "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
     },
     {
       "album": {
@@ -4113,6 +4149,28 @@
     },
     {
       "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156467,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
+    },
+    {
+      "album": {
         "name": "diario de vida",
         "url": "https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3"
       },
@@ -4378,7 +4436,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 202200,
       "name": "D\u00e9jame Ir",
       "url": "https://open.spotify.com/track/7GSDTSna21Aw8qWMkt0D7p"
@@ -4512,7 +4570,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188671,
       "name": "el cielo",
       "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
@@ -4724,7 +4782,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 190205,
       "name": "El Tiempo Que Paso Contigo",
       "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
@@ -5412,6 +5470,24 @@
       "duration_ms": 248546,
       "name": "Eva",
       "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
+    },
+    {
+      "album": {
+        "name": "Extranjero",
+        "url": "https://open.spotify.com/album/0JxgRDaUcyxTpzuE56jL5V"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152870,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/2OVkvSveQPSmiYbgQj2GFu"
     },
     {
       "album": {
@@ -7024,7 +7100,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 237908,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
@@ -7784,6 +7860,24 @@
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
+    },
+    {
+      "album": {
+        "name": "levitarrr",
+        "url": "https://open.spotify.com/album/4W6sSaN3WX5G5On5HraD5d"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "levitarrr",
+      "url": "https://open.spotify.com/track/0IjnxHlCYd9YgqyuOoTyom"
     },
     {
       "album": {
@@ -9398,6 +9492,24 @@
       "duration_ms": 153826,
       "name": "Money",
       "url": "https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT"
+    },
+    {
+      "album": {
+        "name": "Monta\u00f1as de Polvo",
+        "url": "https://open.spotify.com/album/0WcR5ayWv7TxLeAl48y5Pf"
+      },
+      "artists": [
+        {
+          "name": "SHEISA",
+          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193382,
+      "name": "Monta\u00f1as de Polvo",
+      "url": "https://open.spotify.com/track/4updQHF45e3qeLpj1z8J37"
     },
     {
       "album": {
@@ -11156,7 +11268,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 197115,
       "name": "Para El Tiempo",
       "url": "https://open.spotify.com/track/2ltvvftNngVjO6xhqVQd9M"
@@ -12618,6 +12730,24 @@
       "duration_ms": 170000,
       "name": "Regina",
       "url": "https://open.spotify.com/track/45phmOwGZx6T652oPTLkbL"
+    },
+    {
+      "album": {
+        "name": "Reglamento",
+        "url": "https://open.spotify.com/album/5IkCSAcNmlnbVfiX6ZJ76h"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Reglamento",
+      "url": "https://open.spotify.com/track/2FGiMGarQfFCKluV9iwJGd"
     },
     {
       "album": {
@@ -15260,6 +15390,28 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "album": {
+        "name": "Un Beso Menos",
+        "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220702,
+      "name": "Un Beso Menos",
+      "url": "https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK"
     },
     {
       "album": {

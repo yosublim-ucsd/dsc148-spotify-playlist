@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Tiago IORC &amp; Kany Garcia",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Pedro Cap\u00f3",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -3512,6 +3512,28 @@
       "duration_ms": 233333,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "album": {
+        "name": "CRUZ",
+        "url": "https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183970,
+      "name": "CRUZ",
+      "url": "https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI"
     },
     {
       "album": {
@@ -7748,6 +7770,24 @@
       "duration_ms": 128052,
       "name": "La Canci\u00f3n Que Llora",
       "url": "https://open.spotify.com/track/2S5F9O4Flxl0dKyjDbMnDl"
+    },
+    {
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/7gFsnxX16N2ZoPI23SibID"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195470,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/2NvnmIJHPoDLqPIGmoMZS7"
     },
     {
       "album": {

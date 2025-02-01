@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 146250,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
@@ -3705,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "Hundred Mile High",
+        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172181,
+      "name": "Hundred Mile High",
+      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
+    },
+    {
+      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -4232,6 +4250,24 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "album": {
+        "name": "Ever-Shifting, Continual Blossoming",
+        "url": "https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/7MDA0WYCgLWU7bRMZD3HF0"
     },
     {
       "album": {
@@ -7288,7 +7324,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 196210,
       "name": "The Mountain Is You",
       "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"

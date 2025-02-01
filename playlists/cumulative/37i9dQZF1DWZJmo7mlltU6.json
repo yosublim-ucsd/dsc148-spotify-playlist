@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Nafeesisboujee.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Min Taka.",
   "name": "borderless",
   "tracks": [
     {
@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 230477,
       "name": "Chicos malos",
       "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
@@ -4403,6 +4403,24 @@
     },
     {
       "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/4zPlrT0LVP56XnNdpNYV7T"
       },
@@ -4526,7 +4544,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 243830,
       "name": "El Big Bang",
       "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
@@ -5398,7 +5416,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 254015,
       "name": "Fana",
       "url": "https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD"
@@ -6300,7 +6318,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 197095,
       "name": "Girls Night",
       "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
@@ -7232,6 +7250,24 @@
       "duration_ms": 179565,
       "name": "I Don\u2019t Want To!",
       "url": "https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh"
+    },
+    {
+      "album": {
+        "name": "I Felt That Insecure",
+        "url": "https://open.spotify.com/album/3iUuupxjT8dAgpejcNG6V4"
+      },
+      "artists": [
+        {
+          "name": "Junva",
+          "url": "https://open.spotify.com/artist/5OfxnYqIv0WZ4JmIg2NLtt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "I Felt That Insecure",
+      "url": "https://open.spotify.com/track/73X3MnqAKmiEJfhJuTnjDM"
     },
     {
       "album": {
@@ -10781,6 +10817,50 @@
     },
     {
       "album": {
+        "name": "naughty AI",
+        "url": "https://open.spotify.com/album/1RKcxQj34tLwkKvu8fXsqY"
+      },
+      "artists": [
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        },
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159085,
+      "name": "naughty AI",
+      "url": "https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw"
+    },
+    {
+      "album": {
+        "name": "Necesito Curarme",
+        "url": "https://open.spotify.com/album/2sOFoDPNiJ6njKiXv1KBp5"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        },
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159146,
+      "name": "Necesito Curarme",
+      "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
+    },
+    {
+      "album": {
         "name": "Need A Moment",
         "url": "https://open.spotify.com/album/0mfsoIAe1N7g7DBKBFQBsZ"
       },
@@ -10948,6 +11028,28 @@
       "duration_ms": 171640,
       "name": "No Real Place",
       "url": "https://open.spotify.com/track/1XpPV3WNz7ExOAIDgcaeLB"
+    },
+    {
+      "album": {
+        "name": "no se si soy yo pero cuando pienso que estamos bien no se si estamos bien en plan bien bien o bien sin mas",
+        "url": "https://open.spotify.com/album/2H52CBx9pEKjXki1iz458L"
+      },
+      "artists": [
+        {
+          "name": "Svarez",
+          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
+        },
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143141,
+      "name": "no se si soy yo pero cuando pienso que estamos bien no se si estamos bien en plan bien bien o bien sin mas",
+      "url": "https://open.spotify.com/track/7FLkg9KVXj52YdEhnQg1hD"
     },
     {
       "album": {
@@ -12128,7 +12230,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 189555,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
@@ -14188,7 +14290,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
@@ -14521,6 +14623,24 @@
     },
     {
       "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184689,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
+    },
+    {
+      "album": {
         "name": "Sorma",
         "url": "https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr"
       },
@@ -14647,6 +14767,24 @@
     },
     {
       "album": {
+        "name": "spit you out",
+        "url": "https://open.spotify.com/album/1YiFV2XRqrDcgBRjtWqBaN"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "spit you out",
+      "url": "https://open.spotify.com/track/6X9sK1XaTe5c3tmUEi807x"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/4XBfn00cMvek6wfgMYfHbI"
       },
@@ -14680,6 +14818,28 @@
       "duration_ms": 210461,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6DAAty8YhmGwjbuKKtyQVD"
+    },
+    {
+      "album": {
+        "name": "Stay (feat. RINI)",
+        "url": "https://open.spotify.com/album/437zPnx0e9z4rw5SA6GvBg"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218691,
+      "name": "Stay (feat. RINI)",
+      "url": "https://open.spotify.com/track/6iUU5exou5qoBMkVkEcqdb"
     },
     {
       "album": {
@@ -15206,7 +15366,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 218378,
       "name": "Swapping Socks",
       "url": "https://open.spotify.com/track/4gZvom1pzzbkoe6soKRYJL"

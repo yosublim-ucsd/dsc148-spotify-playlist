@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs?si=PeP0s4OOQR2MGIF8I2mVKw>Jimmy D Psalmist</a>",
-  "num_followers": 84907,
+  "num_followers": 84940,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Pretty Day",
+        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 154588,
+      "name": "Pretty Day",
+      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Ebenezeri",
         "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Pretty Day",
-        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 154588,
-      "name": "Pretty Day",
-      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Lion of Judah",
+        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "duration_ms": 316280,
+      "name": "Lion of Judah",
+      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 153103,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Lion of Judah",
-        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        }
-      ],
-      "duration_ms": 316280,
-      "name": "Lion of Judah",
-      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
     },
     {
       "added_at": "2024-10-25 00:01:00",
@@ -1333,6 +1333,22 @@
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
     },
     {
+      "added_at": "2024-12-20 00:01:07",
+      "album": {
+        "name": "In the Room (Rendition)",
+        "url": "https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA"
+      },
+      "artists": [
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "duration_ms": 371310,
+      "name": "In the Room (Rendition)",
+      "url": "https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn"
+    },
+    {
       "added_at": "2025-01-10 00:01:32",
       "album": {
         "name": "Goodness & Mercy (This Year)",
@@ -1351,22 +1367,6 @@
       "duration_ms": 210430,
       "name": "Goodness & Mercy (This Year)",
       "url": "https://open.spotify.com/track/3bKheJ9drRQvm0CJk35iKO"
-    },
-    {
-      "added_at": "2024-12-20 00:01:07",
-      "album": {
-        "name": "In the Room (Rendition)",
-        "url": "https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA"
-      },
-      "artists": [
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        }
-      ],
-      "duration_ms": 371310,
-      "name": "In the Room (Rendition)",
-      "url": "https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7"
     },
     {
-      "added_at": "2024-12-27 00:01:10",
-      "album": {
-        "name": "I Do Worship (Live)",
-        "url": "https://open.spotify.com/album/6zEW3FcmWLMTpoGZdKzgxC"
-      },
-      "artists": [
-        {
-          "name": "WISDOM K",
-          "url": "https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd"
-        }
-      ],
-      "duration_ms": 638407,
-      "name": "No Name - Live",
-      "url": "https://open.spotify.com/track/2XezacK0BDNXfBtZfpWYad"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Blast (tongues)",
@@ -1439,6 +1423,22 @@
       "duration_ms": 204841,
       "name": "Blast - tongues",
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "added_at": "2024-12-27 00:01:10",
+      "album": {
+        "name": "I Do Worship (Live)",
+        "url": "https://open.spotify.com/album/6zEW3FcmWLMTpoGZdKzgxC"
+      },
+      "artists": [
+        {
+          "name": "WISDOM K",
+          "url": "https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd"
+        }
+      ],
+      "duration_ms": 638407,
+      "name": "No Name - Live",
+      "url": "https://open.spotify.com/track/2XezacK0BDNXfBtZfpWYad"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1461,26 +1461,6 @@
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 162223,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Apostolos (Sounds of Transition)",
@@ -1499,6 +1479,26 @@
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 162223,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1561,20 +1561,24 @@
       "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Way\u03b5 Me Yie",
-        "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2"
       },
       "artists": [
         {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
+        {
+          "name": "GospelOnDeBeatz",
+          "url": "https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe"
         }
       ],
-      "duration_ms": 303553,
-      "name": "Way\u03b5 Me Yie",
-      "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+      "duration_ms": 180404,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB"
     }
   ],
   "unique_name": "Be Lifted ",

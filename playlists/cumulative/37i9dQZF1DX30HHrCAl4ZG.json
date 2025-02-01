@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from flipturn",
+  "description": "Explore all things indie rock right now. Featuring music from Miya Folick",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -336,6 +336,24 @@
       "duration_ms": 215178,
       "name": "3000 Miles",
       "url": "https://open.spotify.com/track/1mgPpSsf0Hy8kXlCCVLY6o"
+    },
+    {
+      "album": {
+        "name": "33\u00b0",
+        "url": "https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270628,
+      "name": "33\u00b0",
+      "url": "https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a"
     },
     {
       "album": {
@@ -2979,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "Besties",
+        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
+    },
+    {
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/4NdmLssbqfFxVGiRTBksec"
       },
@@ -5450,6 +5486,24 @@
       "duration_ms": 229747,
       "name": "Champ (feat. Edgar Winter)",
       "url": "https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw"
+    },
+    {
+      "album": {
+        "name": "Champagne Taste",
+        "url": "https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192371,
+      "name": "Champagne Taste",
+      "url": "https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof"
     },
     {
       "album": {
@@ -8572,7 +8626,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 252266,
       "name": "Driver",
       "url": "https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp"
@@ -10345,6 +10399,24 @@
     },
     {
       "album": {
+        "name": "Fist",
+        "url": "https://open.spotify.com/album/1GZfa6GLFKGWfgTKf5Qcl3"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Fist",
+      "url": "https://open.spotify.com/track/7e3pHA8twJU2HHQUCytNbo"
+    },
+    {
+      "album": {
         "name": "Flip It",
         "url": "https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE"
       },
@@ -11310,7 +11382,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206582,
       "name": "Giddy Up",
       "url": "https://open.spotify.com/track/5mrA886l2Xd6DKHHjCmmSr"
@@ -11426,6 +11498,24 @@
       "duration_ms": 262600,
       "name": "Give It Back to Me",
       "url": "https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG"
+    },
+    {
+      "album": {
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/4PhyA2i3coWU3qnqLxnKWo"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279675,
+      "name": "Give It Time - Radio Edit",
+      "url": "https://open.spotify.com/track/6Ospx9pAyAI7vEHY5gzH19"
     },
     {
       "album": {
@@ -13682,7 +13772,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 209997,
       "name": "I Should've Known",
       "url": "https://open.spotify.com/track/3EWIsGwuh6wxxyA1HeBSnb"
@@ -13960,6 +14050,24 @@
       "duration_ms": 136506,
       "name": "i want to die in your arms",
       "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+    },
+    {
+      "album": {
+        "name": "I Want You (Fever)",
+        "url": "https://open.spotify.com/album/1vxHtRS0NZAlYMogLwbpH9"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217249,
+      "name": "I Want You (Fever)",
+      "url": "https://open.spotify.com/track/5LLCNZ9TPe6X7BCRUMWBY2"
     },
     {
       "album": {
@@ -14630,6 +14738,28 @@
       "duration_ms": 265080,
       "name": "In Denial",
       "url": "https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG"
+    },
+    {
+      "album": {
+        "name": "In Love With A Memory",
+        "url": "https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "In Love With A Memory",
+      "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
     },
     {
       "album": {
@@ -15336,7 +15466,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 212008,
       "name": "Jocelyn",
       "url": "https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ"
@@ -19448,7 +19578,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
@@ -19546,6 +19676,24 @@
       "duration_ms": 156477,
       "name": "Never Go",
       "url": "https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf"
+    },
+    {
+      "album": {
+        "name": "Never Know",
+        "url": "https://open.spotify.com/album/1wIKBow4Y0MtCFSWBdohuC"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175120,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa"
     },
     {
       "album": {
@@ -20694,7 +20842,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 237750,
       "name": "One Way or the Other",
       "url": "https://open.spotify.com/track/6bX80hmB6BJQgHGeCn41OU"
@@ -21624,6 +21772,24 @@
       "duration_ms": 167688,
       "name": "PLACEBO + \u91ce\u7530\u6d0b\u6b21\u90ce",
       "url": "https://open.spotify.com/track/4IkSLZYHnCLQyiiiQbEGJD"
+    },
+    {
+      "album": {
+        "name": "planet you forgot me",
+        "url": "https://open.spotify.com/album/72XBcntZdEaL466I8PyFUU"
+      },
+      "artists": [
+        {
+          "name": "Leyla Ebrahimi",
+          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365395,
+      "name": "planet you forgot me",
+      "url": "https://open.spotify.com/track/6gUvpGQR1ZS5PgqbmPaVAv"
     },
     {
       "album": {
@@ -22910,7 +23076,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 283066,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
@@ -23402,7 +23568,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 211061,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442"
@@ -24064,7 +24230,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188442,
       "name": "She Wants To Go Dancing",
       "url": "https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z"
@@ -24640,7 +24806,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161239,
       "name": "Slasher",
       "url": "https://open.spotify.com/track/2kzpDswNb4TzQM0fLZXeuz"
@@ -25037,6 +25203,24 @@
     },
     {
       "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298134,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/7ASSaHLFnQJKGStATFaDhl"
+    },
+    {
+      "album": {
         "name": "So Medieval",
         "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
       },
@@ -25120,7 +25304,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 221429,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
@@ -25192,7 +25376,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 492280,
       "name": "Soft Rock Band",
       "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
@@ -25210,7 +25394,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 238381,
       "name": "Somebody Come Through",
       "url": "https://open.spotify.com/track/4Sz61x2L4mYmtw47NBrzfC"
@@ -25528,7 +25712,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 228350,
       "name": "Southern Life (What It Must Be Like)",
       "url": "https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY"
@@ -26112,7 +26296,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206563,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
@@ -31676,7 +31860,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 218866,
       "name": "Worst Case Scenario",
       "url": "https://open.spotify.com/track/2zfCPUl6LNNpMXxxWboAQd"

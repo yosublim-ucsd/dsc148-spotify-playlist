@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 202152,
       "name": "Focus",
       "url": "https://open.spotify.com/track/56mCGN7S1druROilPGNe3R"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 124096,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 117165,
       "name": "Indie Circus (feat. Seafoam Walls)",
       "url": "https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB"
@@ -4454,6 +4454,28 @@
       "duration_ms": 162264,
       "name": "Tell Me (Feat. Saoirse Ronan)",
       "url": "https://open.spotify.com/track/0NSSZTpUoEtA8b0j1WtuvY"
+    },
+    {
+      "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/4ycWtoMMvLwccXEjXxpmeh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194211,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/6onDQO5YoJX83RzAV2m0wN"
     },
     {
       "album": {

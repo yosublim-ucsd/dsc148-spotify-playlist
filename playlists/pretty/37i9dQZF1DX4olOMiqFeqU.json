@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2421108,
+  "num_followers": 2421277,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
-      },
-      "artists": [
-        {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
-        }
-      ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Sa Susunod na Habang Buhay",
         "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Tanong",
         "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Nobela",
-        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
-      },
-      "artists": [
-        {
-          "name": "Join The Club",
-          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
-        }
-      ],
-      "duration_ms": 291506,
-      "name": "Nobela",
-      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+        "name": "Nobela",
+        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Join The Club",
+          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
+      "duration_ms": 291506,
+      "name": "Nobela",
+      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -439,6 +423,22 @@
       "duration_ms": 249080,
       "name": "Huwag Na Huwag Mong Sasabihin",
       "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -527,38 +527,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Ikaw Pa Rin",
-        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
-      },
-      "artists": [
-        {
-          "name": "mrld",
-          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
-        }
-      ],
-      "duration_ms": 191009,
-      "name": "Ikaw Pa Rin",
-      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 267680,
-      "name": "Same Ground",
-      "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Titig",
         "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 267680,
+      "name": "Same Ground",
+      "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Ikaw Pa Rin",
+        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Ikaw Pa Rin",
+      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
     },
     {
       "added_at": "2024-07-01 05:33:47",

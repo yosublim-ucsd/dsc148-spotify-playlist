@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Bad Bunny
 
-464 songs - 1 day 0 hr 22 min
+465 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 | 2024-07-19 | 2024-09-28 |
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2021-12-31 | 2022-02-12 |
 | [Esperándote](https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Esperándote](https://open.spotify.com/album/7G34TQlhV4DPX3EUCF5Bp3) | 2:45 | 2023-02-24 | 2023-04-15 |
+| [Estoy Aquí \- Remix](https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Estoy Aquí \(Remix\)](https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy) | 2:39 | 2025-01-31 |  |
 | [Eu Dou Tchau](https://open.spotify.com/track/1e6R5m4tE8aCMbRRMrMPjN) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Eu Dou Tchau](https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI) | 2:30 | 2021-12-31 | 2022-01-15 |
 | [Extrañándote](https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Extrañándote](https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO) | 3:05 | 2023-07-07 | 2023-08-05 |
 | [Faldas y Gistros](https://open.spotify.com/track/0qFS3YSjOgoO7qiOekDJtp) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Faldas y Gistros](https://open.spotify.com/album/4I3UDGvDhFHcq9nPFzsOb1) | 2:59 | 2024-01-26 | 2024-03-23 |
@@ -256,7 +257,7 @@
 | [Mamacita](https://open.spotify.com/track/53Cwb4EiUfbmdOdNLILo1Z) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Mamacita](https://open.spotify.com/album/0ZFfNGe1r9cF23gmqpWr8H) | 3:04 | 2023-01-20 | 2023-01-28 |
 | [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-02-23 |  |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-11 |  |
-| [Mania](https://open.spotify.com/track/0bbU8BfR7SeS1qE5Xpxzid) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [MANIA](https://open.spotify.com/album/2ZM8QgaXp3mMhYo6T9FvWA) | 3:04 | 2024-11-29 |  |
+| [Mania](https://open.spotify.com/track/0bbU8BfR7SeS1qE5Xpxzid) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [MANIA](https://open.spotify.com/album/2ZM8QgaXp3mMhYo6T9FvWA) | 3:04 | 2024-11-29 | 2025-02-01 |
 | [Marca um 10](https://open.spotify.com/track/5OYRXhrvZWYlqgTN4oAbzj) | [Linndy](https://open.spotify.com/artist/6oMCLo1hgtep9LaO4KOwTr), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Marca um 10](https://open.spotify.com/album/2QvDgCrtbBZT1DHW0Wih51) | 2:24 | 2022-05-20 | 2022-06-04 |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2022-02-11 | 2022-02-26 |
 | [Mas Rica Que Ayer](https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mas Rica Que Ayer](https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu) | 3:19 | 2023-03-10 |  |

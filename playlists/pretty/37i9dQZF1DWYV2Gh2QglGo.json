@@ -1,15 +1,47 @@
 {
   "description": "The home of Canadian country music. Cover: Connor Price",
-  "num_followers": 80047,
+  "num_followers": 80053,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeaAAAAACOPhLguEY2Osk5PBeeRKet",
+  "snapshot_id": "Z5xY/QAAAABczgtcyCxWGhd9wI8zRt9H",
   "tracks": [
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "Hundred Mile High",
+        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 172181,
+      "name": "Hundred Mile High",
+      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "Where To Start",
+        "url": "https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "duration_ms": 170397,
+      "name": "Til I Don't",
+      "url": "https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Happy Ever After You",
         "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
@@ -33,7 +65,7 @@
       "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Molly's Song",
         "url": "https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr"
@@ -49,7 +81,7 @@
       "url": "https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Movin' On",
         "url": "https://open.spotify.com/album/2MnW3DzqCDPXXRZP0lrGlC"
@@ -65,7 +97,7 @@
       "url": "https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
@@ -85,7 +117,23 @@
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "Tail Lights",
+        "url": "https://open.spotify.com/album/3UnKGVmIllBTCsAbj4i9Wk"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 214611,
+      "name": "Tail Lights",
+      "url": "https://open.spotify.com/track/2V0OXn4Bum36a6tcVdDEci"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "You Didn\u2019t Hear It From Me",
         "url": "https://open.spotify.com/album/2zoWYF1Xu9f56VLmP6vkGv"
@@ -101,23 +149,27 @@
       "url": "https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+        "name": "Get The Hell Out Of This Town",
+        "url": "https://open.spotify.com/album/5niesz0tsaHb9YIaJs6Lv3"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
         }
       ],
-      "duration_ms": 157200,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+      "duration_ms": 181280,
+      "name": "Get The Hell Out Of This Town",
+      "url": "https://open.spotify.com/track/3wk3qPlDWa8gYNEtqPeosg"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Till The Morning",
         "url": "https://open.spotify.com/album/6qECR055kFSGPndawr1byW"
@@ -133,7 +185,7 @@
       "url": "https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Backseat",
         "url": "https://open.spotify.com/album/3EqsLVYWfPIPVYzPAcpLa1"
@@ -149,7 +201,7 @@
       "url": "https://open.spotify.com/track/7atCOAWrcPK8Q2GLPdZN4k"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Another Farewell",
         "url": "https://open.spotify.com/album/3BOvYuLkTZX16QpZ1zVZV5"
@@ -165,55 +217,7 @@
       "url": "https://open.spotify.com/track/4Gr5SX7lqBVsa9qFtktzSU"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "Hey Mom I Made It",
-        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
-      },
-      "artists": [
-        {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
-        }
-      ],
-      "duration_ms": 169448,
-      "name": "Hey Mom I Made It",
-      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/44n5odWgMktFglqvRAC1ex"
-      },
-      "artists": [
-        {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
-        }
-      ],
-      "duration_ms": 267079,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/46LccjwmRg9n1Mg54gaA83"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "Close to You",
-        "url": "https://open.spotify.com/album/12hWLifkFc93MKdBm9WBKU"
-      },
-      "artists": [
-        {
-          "name": "Brett Kissel",
-          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Close to You",
-      "url": "https://open.spotify.com/track/73ToXLJg0eSYWQ8SceGKbO"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
@@ -229,55 +233,39 @@
       "url": "https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
-        "name": "Homegrown Night",
-        "url": "https://open.spotify.com/album/6tBZubpzcJtel68GwrE3B1"
+        "name": "Smoke Rings",
+        "url": "https://open.spotify.com/album/73dLh0Odw7jnzPXDO9VQ1S"
       },
       "artists": [
         {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+          "name": "River Town Saints",
+          "url": "https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo"
         }
       ],
-      "duration_ms": 149116,
-      "name": "Homegrown Night",
-      "url": "https://open.spotify.com/track/5a5ORE27VCGGrxj1sEfOQm"
+      "duration_ms": 184932,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/4nl2s8WMKZrMnDbI0dT6G3"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
-        "name": "Think of Me",
-        "url": "https://open.spotify.com/album/47qPurqgAQPsqYBlxeGJbr"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
       },
       "artists": [
         {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 213454,
-      "name": "Think of Me",
-      "url": "https://open.spotify.com/track/2JPbZQ0pek5lbzUpZtVQzX"
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "Quits",
-        "url": "https://open.spotify.com/album/2NXMaPZwgGAzx8IKumHbwt"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Quits",
-      "url": "https://open.spotify.com/track/6tW3zBBqRXuM3hDvzRXsa8"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/56EZ3QjVfDtzSUdag8ZHAG"
@@ -293,7 +281,7 @@
       "url": "https://open.spotify.com/track/0hDhVVVJWkT6HfAvZa5DbK"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Never Not Care",
         "url": "https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv"
@@ -313,7 +301,7 @@
       "url": "https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Wide Open (feat. Michaela Slinger)",
         "url": "https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU"
@@ -333,7 +321,7 @@
       "url": "https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR"
@@ -349,23 +337,7 @@
       "url": "https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "home",
-        "url": "https://open.spotify.com/album/6VXPLxdhroqko7xNzjOAib"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mitchell",
-          "url": "https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "home",
-      "url": "https://open.spotify.com/track/3lcr1wXj1KnNZkYsC8TGZX"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "More Like It",
         "url": "https://open.spotify.com/album/4nodV56I3VWLryQGKJoN4A"
@@ -381,43 +353,7 @@
       "url": "https://open.spotify.com/track/1Dq9cGDFTI8zmIe0DkvF4D"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "Coming Home To You (Bigger Houses)",
-        "url": "https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl"
-      },
-      "artists": [
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        },
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 208425,
-      "name": "Coming Home To You (Bigger Houses) [feat. Owen Riegling]",
-      "url": "https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 161285,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Worth The Double",
         "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
@@ -433,7 +369,39 @@
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "Homegrown Night",
+        "url": "https://open.spotify.com/album/6tBZubpzcJtel68GwrE3B1"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "duration_ms": 149116,
+      "name": "Homegrown Night",
+      "url": "https://open.spotify.com/track/5a5ORE27VCGGrxj1sEfOQm"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "Life For Me",
+        "url": "https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "Life For Me",
+      "url": "https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct"
@@ -453,7 +421,7 @@
       "url": "https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Stay a Little Longer",
         "url": "https://open.spotify.com/album/3Xu8qQ5ub97wlniJznRGAb"
@@ -469,7 +437,7 @@
       "url": "https://open.spotify.com/track/29qwIkY2r8gShcx9NfhQxs"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "ONE HOUSE DOWN (from the girl next door)",
         "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
@@ -485,7 +453,7 @@
       "url": "https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Upside of Being Down",
         "url": "https://open.spotify.com/album/5U20NzOvPpdw0jr6JgziVP"
@@ -501,7 +469,7 @@
       "url": "https://open.spotify.com/track/2qJN9RuKAZYXfMRynYMuXN"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Jealous Of Jesus",
         "url": "https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj"
@@ -517,7 +485,23 @@
       "url": "https://open.spotify.com/track/3qEl16vIKrkvopkJp4Ii64"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "i'll be there",
+        "url": "https://open.spotify.com/album/67UGfvCWnvMYd6prpvlNQQ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mitchell",
+          "url": "https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y"
+        }
+      ],
+      "duration_ms": 190217,
+      "name": "i'll be there",
+      "url": "https://open.spotify.com/track/47OYGU1ItIVUDRHl7jLfFb"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "What Got Me Here",
         "url": "https://open.spotify.com/album/0FXuP4qvGbHBQaoM0zjrAP"
@@ -533,7 +517,27 @@
       "url": "https://open.spotify.com/track/7lqeJAu2vzi32nSCINfEJz"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "Coming Home To You (Bigger Houses)",
+        "url": "https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 208425,
+      "name": "Coming Home To You (Bigger Houses) [feat. Owen Riegling]",
+      "url": "https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Things My Mama Says",
         "url": "https://open.spotify.com/album/4MWGPCRkqgf9Iswh6kYJCH"
@@ -549,7 +553,7 @@
       "url": "https://open.spotify.com/track/4my3xcaM2p80DFfi3ZTiHB"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "My Bedroom",
         "url": "https://open.spotify.com/album/2qNVSPTBeMo1vLUg1JF09z"
@@ -573,23 +577,39 @@
       "url": "https://open.spotify.com/track/4s2hYIjegeOxsVXpVtwywh"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/5M02zd9VpTG1Pkg2CQJrZp"
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/12hWLifkFc93MKdBm9WBKU"
       },
       "artists": [
         {
-          "name": "Jojo Mason",
-          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
         }
       ],
-      "duration_ms": 183926,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/38ShN5IsaQSmKTSbvij0Qg"
+      "duration_ms": 204133,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/73ToXLJg0eSYWQ8SceGKbO"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "Dishonest",
+        "url": "https://open.spotify.com/album/1wHlTFsE3N0uXNImQutooN"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "duration_ms": 188544,
+      "name": "Dishonest",
+      "url": "https://open.spotify.com/track/0CFpvRMXVlBbGBqKduQGTW"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5Xu5rgwyVaz4obywN3bZqj"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/0Eiif2eLqWumvKSDejgT8F"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Good Man",
         "url": "https://open.spotify.com/album/4ORx7j3z9Du4zdUNsloiSh"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/6J4GbwXrFpvb7Dn7iBUwdq"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Hangover At My Place",
         "url": "https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Neon Cowboy",
         "url": "https://open.spotify.com/album/5scVpTM1JZYZGzOJ2jZVtw"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/4SoxGhG9jDK86qCXFKOkRJ"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Coast to Coast",
         "url": "https://open.spotify.com/album/6txofk1MqbNA1ZBFpfjcCh"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/18fqq295kEELwCmgky7y9a"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "One Beer Away",
         "url": "https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "LIFE OUT HERE",
         "url": "https://open.spotify.com/album/1WJ2s8BhfaDWbZLCUDv07b"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/5y75qp6svPFOfKLQNTpIGz"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Didn't See It Coming",
         "url": "https://open.spotify.com/album/0IFkISeD6tB1NmN0pvL4tq"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/350wMFVRZe1HGKOjcOLCWa"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Kitchen Floor",
         "url": "https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Five Beers From Now",
         "url": "https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Feels Country To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/3TI9SGLtL24wm0sZTTLGFv"
@@ -789,7 +809,23 @@
       "url": "https://open.spotify.com/track/1TVvBBJbngg3UIHMYieufG"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/5M02zd9VpTG1Pkg2CQJrZp"
+      },
+      "artists": [
+        {
+          "name": "Jojo Mason",
+          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
+        }
+      ],
+      "duration_ms": 183926,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/38ShN5IsaQSmKTSbvij0Qg"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
@@ -813,23 +849,7 @@
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
     },
     {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "Love and Hate",
-        "url": "https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ"
-      },
-      "artists": [
-        {
-          "name": "Annika Catharina",
-          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
-        }
-      ],
-      "duration_ms": 167058,
-      "name": "Love and Hate",
-      "url": "https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
+      "added_at": "2025-01-31 05:00:45",
       "album": {
         "name": "What Were You Thinking",
         "url": "https://open.spotify.com/album/4Wl1YFchaNEpgfiO0PQzMt"
@@ -843,22 +863,6 @@
       "duration_ms": 216338,
       "name": "What Were You Thinking",
       "url": "https://open.spotify.com/track/3JcxcgGRPVSIkey9OHwveg"
-    },
-    {
-      "added_at": "2025-01-24 05:00:24",
-      "album": {
-        "name": "She's Me (Deluxe)",
-        "url": "https://open.spotify.com/album/4I31RC6Z6X5NJme5LG6jny"
-      },
-      "artists": [
-        {
-          "name": "Dayna Reid",
-          "url": "https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR"
-        }
-      ],
-      "duration_ms": 161543,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC"
     }
   ],
   "unique_name": "North Country",

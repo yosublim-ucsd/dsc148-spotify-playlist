@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=ssFb1WojQhmZyd0FyMRFYQ">Aqyila</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,609 likes - 63 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,630 likes - 63 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

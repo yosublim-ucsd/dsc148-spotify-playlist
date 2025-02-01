@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Jere Klein & Kidd Voodoo.",
+  "description": "Este Flow tiene otro Flow. Foto: Standly",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -1048,6 +1048,48 @@
       "duration_ms": 228756,
       "name": "Amor Artificial",
       "url": "https://open.spotify.com/track/0wYZOKxDy86eThYuoo66IB"
+    },
+    {
+      "album": {
+        "name": "Amor de Bandolero (Remix)",
+        "url": "https://open.spotify.com/album/3HvRj8S3Qd7PCA51N9iyNG"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Endo",
+          "url": "https://open.spotify.com/artist/47G4aZmzN6mRtKCSoLoNDM"
+        },
+        {
+          "name": "La Cebolla",
+          "url": "https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9"
+        },
+        {
+          "name": "El Maniako The Boost",
+          "url": "https://open.spotify.com/artist/5lwU7m62FDvwm2hnNxfStO"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Delirious",
+          "url": "https://open.spotify.com/artist/7j7bOkG9ZQncpAXyIJ2aUG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380869,
+      "name": "Amor de Bandolero - Remix",
+      "url": "https://open.spotify.com/track/775tpDzWKaeaasoe74xpW4"
     },
     {
       "album": {
@@ -3934,7 +3976,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 205333,
       "name": "Cuando Ella Me Vio",
       "url": "https://open.spotify.com/track/1KRkJH7aHACngrupLMkP7F"
@@ -5006,7 +5048,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162624,
       "name": "Donde?",
       "url": "https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD"
@@ -7015,6 +7057,24 @@
     },
     {
       "album": {
+        "name": "Hasta Que Salga el Sol",
+        "url": "https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/2KbPTTNKEYlOUmW34shHOW"
+    },
+    {
+      "album": {
         "name": "Glocko",
         "url": "https://open.spotify.com/album/7sBFofbqWdbYEe5SDv7X1b"
       },
@@ -7150,6 +7210,28 @@
       "duration_ms": 141563,
       "name": "Guaya Guaya...",
       "url": "https://open.spotify.com/track/5SIBKku7Xuw5hGu5VKHVw0"
+    },
+    {
+      "album": {
+        "name": "Guayar",
+        "url": "https://open.spotify.com/album/3oAomyZc8bQN2nyksUEhH4"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "Guayar",
+      "url": "https://open.spotify.com/track/77CZur4hOKArJw5NKcw7t8"
     },
     {
       "album": {
@@ -13254,7 +13336,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 219753,
       "name": "Pa La Europa",
       "url": "https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG"
@@ -14859,6 +14941,32 @@
     },
     {
       "album": {
+        "name": "Por Roma",
+        "url": "https://open.spotify.com/album/2M1G0LyqhOAOKQwZoNzyHm"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241315,
+      "name": "Por Roma",
+      "url": "https://open.spotify.com/track/0GprKL10UZWbWnjBuA3G2D"
+    },
+    {
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/2gzzrkleiEaNaGXRZU33ws"
       },
@@ -15826,7 +15934,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 123434,
       "name": "Ram",
       "url": "https://open.spotify.com/track/3th0luN7pe8n10lHJDIDkg"
@@ -17354,6 +17462,28 @@
       "duration_ms": 160000,
       "name": "Sinti\u00e9ndome Solo",
       "url": "https://open.spotify.com/track/5exaCWoAMCHPZ3LuFOQvY7"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/67vo1otCCHNiC5DOMVW7ed"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222604,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7Bhf0oxExqJkNPmqiS4YZf"
     },
     {
       "album": {
@@ -19636,7 +19766,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 155828,
       "name": "Una en un Mill\u00f3n",
       "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
@@ -19926,7 +20056,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 165500,
       "name": "Venga Pa' Ac\u00e1",
       "url": "https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8"

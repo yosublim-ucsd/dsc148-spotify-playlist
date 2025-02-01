@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: VBS",
-  "num_followers": 18350,
+  "num_followers": 18351,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "UCIEKAM",
-        "url": "https://open.spotify.com/album/5Y8eLJWfXoVqxuwmmvx49X"
-      },
-      "artists": [
-        {
-          "name": "Gverilla",
-          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
-        }
-      ],
-      "duration_ms": 144003,
-      "name": "UCIEKAM",
-      "url": "https://open.spotify.com/track/4MLwDuUPotk1Ygf5JdkvOb"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "Borgin & Burkes",
         "url": "https://open.spotify.com/album/46WUia8lI5HhMSAQjTQNKx"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 158181,
       "name": "Borgin & Burkes",
       "url": "https://open.spotify.com/track/0bIsmPt3AQ20TvlJ0sejMx"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "UCIEKAM",
+        "url": "https://open.spotify.com/album/5Y8eLJWfXoVqxuwmmvx49X"
+      },
+      "artists": [
+        {
+          "name": "Gverilla",
+          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
+        }
+      ],
+      "duration_ms": 144003,
+      "name": "UCIEKAM",
+      "url": "https://open.spotify.com/track/4MLwDuUPotk1Ygf5JdkvOb"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "BACKLOG",
+        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
+      },
+      "artists": [
+        {
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "BACKLOG",
+      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "JELLY",
         "url": "https://open.spotify.com/album/3lPE4D0XmS8KnIrCUvCx2o"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 177391,
       "name": "JELLY",
       "url": "https://open.spotify.com/track/6BddL8zXMg9KsfouwTihit"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "BACKLOG",
-        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
-      },
-      "artists": [
-        {
-          "name": "\u015aWI\u0118TY BASS",
-          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "BACKLOG",
-      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -883,18 +883,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Dla siebie",
-        "url": "https://open.spotify.com/album/0VdPiSoQkfhOfCkDWqhRDT"
+        "name": "Z\u0142ote \u0142ezki",
+        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
       },
       "artists": [
         {
-          "name": "the small town kids",
-          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
         }
       ],
-      "duration_ms": 135041,
-      "name": "Dla siebie",
-      "url": "https://open.spotify.com/track/1wceoqd7eJ8uqwcajy2xwL"
+      "duration_ms": 181973,
+      "name": "Z\u0142ote \u0142ezki",
+      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -935,22 +939,18 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Z\u0142ote \u0142ezki",
-        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
+        "name": "Dla siebie",
+        "url": "https://open.spotify.com/album/0VdPiSoQkfhOfCkDWqhRDT"
       },
       "artists": [
         {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+          "name": "the small town kids",
+          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Z\u0142ote \u0142ezki",
-      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
+      "duration_ms": 135041,
+      "name": "Dla siebie",
+      "url": "https://open.spotify.com/track/1wceoqd7eJ8uqwcajy2xwL"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "TEQUILA I BILARD",
+        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
+      },
+      "artists": [
+        {
+          "name": "Kaespen",
+          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
+        }
+      ],
+      "duration_ms": 200111,
+      "name": "TEQUILA I BILARD",
+      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "ACID MORO AFTERGLOW",
         "url": "https://open.spotify.com/album/628qTbHKYJCeatPUkyHFrp"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 174857,
       "name": "FULL TIME RAVER - LOUD ABOUT US! REMIX",
       "url": "https://open.spotify.com/track/30xmFBFVKpRLvQazLPqdE8"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "TEQUILA I BILARD",
-        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
-      },
-      "artists": [
-        {
-          "name": "Kaespen",
-          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
-        }
-      ],
-      "duration_ms": 200111,
-      "name": "TEQUILA I BILARD",
-      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "O CZYM BYM RAPOWA\u0141",
+        "url": "https://open.spotify.com/album/2oIK8zLQsmBwbSyYxkeSEr"
+      },
+      "artists": [
+        {
+          "name": "Odys",
+          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
+        },
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "O CZYM BYM RAPOWA\u0141",
+      "url": "https://open.spotify.com/track/14VdY46u8mxP1fW68U554w"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "Jasny Obraz Ciemnych Czas\u00f3w",
         "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 185387,
       "name": "RMLJHF",
       "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "O CZYM BYM RAPOWA\u0141",
-        "url": "https://open.spotify.com/album/2oIK8zLQsmBwbSyYxkeSEr"
-      },
-      "artists": [
-        {
-          "name": "Odys",
-          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
-        },
-        {
-          "name": "asthma",
-          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "O CZYM BYM RAPOWA\u0141",
-      "url": "https://open.spotify.com/track/14VdY46u8mxP1fW68U554w"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1279,46 +1279,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "ATARI",
-        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
-      },
-      "artists": [
-        {
-          "name": "CRANK ALL",
-          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
-        }
-      ],
-      "duration_ms": 148437,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "chc\u0119powiedzie\u0107ci",
-        "url": "https://open.spotify.com/album/7b5fRY7cNXhfz84Tje0Igk"
-      },
-      "artists": [
-        {
-          "name": "IVO",
-          "url": "https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D"
-        },
-        {
-          "name": "D\u017canglu",
-          "url": "https://open.spotify.com/artist/4ZYy3V9JdLmmr9Su7FlDlP"
-        },
-        {
-          "name": "St. Elmo",
-          "url": "https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "chc\u0119powiedzie\u0107ci",
-      "url": "https://open.spotify.com/track/6joLZCveG5srpcaUOEXrz0"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "JORDAN PEELE",
         "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
       },
@@ -1371,6 +1331,46 @@
       "duration_ms": 170602,
       "name": "Sto lat",
       "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "ATARI",
+        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
+      },
+      "artists": [
+        {
+          "name": "CRANK ALL",
+          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
+        }
+      ],
+      "duration_ms": 148437,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "chc\u0119powiedzie\u0107ci",
+        "url": "https://open.spotify.com/album/7b5fRY7cNXhfz84Tje0Igk"
+      },
+      "artists": [
+        {
+          "name": "IVO",
+          "url": "https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D"
+        },
+        {
+          "name": "D\u017canglu",
+          "url": "https://open.spotify.com/artist/4ZYy3V9JdLmmr9Su7FlDlP"
+        },
+        {
+          "name": "St. Elmo",
+          "url": "https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "chc\u0119powiedzie\u0107ci",
+      "url": "https://open.spotify.com/track/6joLZCveG5srpcaUOEXrz0"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/7BjsEcXxLMVe8wOKlt7fCh"
-      },
-      "artists": [
-        {
-          "name": "Mlody Leszcz",
-          "url": "https://open.spotify.com/artist/5jLZ7LjTo6P73d0mjYwgXv"
-        },
-        {
-          "name": "Molehead",
-          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0DIIrvQHTDGp6rgDIY3CdB"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/3ZOnTy0OelYAp4MPhTLuJY"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 276136,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/0jfGFAlrxBYAaebeotjeCC"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/7BjsEcXxLMVe8wOKlt7fCh"
+      },
+      "artists": [
+        {
+          "name": "Mlody Leszcz",
+          "url": "https://open.spotify.com/artist/5jLZ7LjTo6P73d0mjYwgXv"
+        },
+        {
+          "name": "Molehead",
+          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0DIIrvQHTDGp6rgDIY3CdB"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1707,6 +1707,38 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "WEMBY",
+        "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
+      },
+      "artists": [
+        {
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "WEMBY",
+      "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
+      },
+      "artists": [
+        {
+          "name": "Heczko",
+          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "pe\u0142ne serca puste drogi",
         "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
       },
@@ -1743,22 +1775,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "WEMBY",
-        "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
-      },
-      "artists": [
-        {
-          "name": "NAUTOFON",
-          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
-        }
-      ],
-      "duration_ms": 168837,
-      "name": "WEMBY",
-      "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "Ej czy s\u0142ysza\u0142e\u015b co si\u0119 dzieje na mie\u015bcie?",
         "url": "https://open.spotify.com/album/0WnuRxkxLdbLVmUOwl2Rkb"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 141714,
       "name": "Ej czy s\u0142ysza\u0142e\u015b co si\u0119 dzieje na mie\u015bcie?",
       "url": "https://open.spotify.com/track/6P0v4ZJY1E2OxNZ89S6juF"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "melody",
-        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
-      },
-      "artists": [
-        {
-          "name": "Heczko",
-          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "melody",
-      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1931,6 +1931,30 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "Z\u0142ota Rybka EP",
+        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
+      },
+      "artists": [
+        {
+          "name": "3BRAT",
+          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        },
+        {
+          "name": "Kwiatek HAZE",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Balaclava",
+      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "Dywan",
         "url": "https://open.spotify.com/album/1oivICGQQm4ZyBbHZT5yUq"
       },
@@ -1963,30 +1987,6 @@
       "duration_ms": 173106,
       "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
       "url": "https://open.spotify.com/track/3Ywl4yWOsfs0cHbqQF4bD8"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "Z\u0142ota Rybka EP",
-        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
-      },
-      "artists": [
-        {
-          "name": "3BRAT",
-          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
-        },
-        {
-          "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
-        },
-        {
-          "name": "Kwiatek HAZE",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Balaclava",
-      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "Imbir",
+        "url": "https://open.spotify.com/album/46rfBOMnlmzXUZDeTPDads"
+      },
+      "artists": [
+        {
+          "name": "Paton",
+          "url": "https://open.spotify.com/artist/0BCVLRvGCVF0ly0KqWUyf9"
+        }
+      ],
+      "duration_ms": 203892,
+      "name": "Imbir",
+      "url": "https://open.spotify.com/track/2AqGLZxGuw3QPBMHDpNp0I"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
         "url": "https://open.spotify.com/album/7xWS11AQU9tPDhRsvCoU2I"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 120940,
       "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
       "url": "https://open.spotify.com/track/6UOAV3yDxuCMMEjgAnEWAx"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "Imbir",
-        "url": "https://open.spotify.com/album/46rfBOMnlmzXUZDeTPDads"
-      },
-      "artists": [
-        {
-          "name": "Paton",
-          "url": "https://open.spotify.com/artist/0BCVLRvGCVF0ly0KqWUyf9"
-        }
-      ],
-      "duration_ms": 203892,
-      "name": "Imbir",
-      "url": "https://open.spotify.com/track/2AqGLZxGuw3QPBMHDpNp0I"
     },
     {
       "added_at": "2025-01-24 11:29:36",

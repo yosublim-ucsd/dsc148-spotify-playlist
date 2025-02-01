@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 269991,
+  "num_followers": 270023,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAAxvemqMM6yCSWexjlwhHJv",
+  "snapshot_id": "Z5rBAAAAAACTVKOc8s7RvB0afBWsQonN",
   "tracks": [
     {
       "added_at": null,
@@ -959,22 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva Duets",
-        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
       "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 122226,
-      "name": "Steppin' Out with My Baby (with Christina Aguilera)",
-      "url": "https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx"
+      "duration_ms": 193160,
+      "name": "Save Me from Myself",
+      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

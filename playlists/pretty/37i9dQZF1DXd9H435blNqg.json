@@ -1,13 +1,29 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 58544,
+  "num_followers": 58576,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAAD4v5OtNp9RWkq2Qc3rv85h",
+  "snapshot_id": "Z5xY/wAAAACa4bTPKxwOfk65s9PrQ6i8",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "Open Vein",
+        "url": "https://open.spotify.com/album/1WgyhC5z5cwOh6xWZYqcBS"
+      },
+      "artists": [
+        {
+          "name": "Thorn Haze",
+          "url": "https://open.spotify.com/artist/5RabBA09ck5cTUNp7OtbAw"
+        }
+      ],
+      "duration_ms": 156331,
+      "name": "Open Vein",
+      "url": "https://open.spotify.com/track/0eM9O9JUOXjJ01xY6aU37v"
+    },
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
@@ -359,22 +375,6 @@
       "duration_ms": 284210,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "Stay Wild",
-        "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Stay Wild",
-      "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
     },
     {
       "added_at": "2022-08-31 19:53:08",

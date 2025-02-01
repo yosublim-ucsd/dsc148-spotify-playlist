@@ -4,14 +4,15 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-640 songs - 1 day 20 hr 20 min
+641 songs - 1 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 | 2023-12-30 |  |
 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 | 2023-12-30 |  |
 | [\(You Make Me\) Rock Hard](https://open.spotify.com/track/4o09I7vLRVT9qe9rDTAMzG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:29 | 2023-12-30 |  |
-| [5 Minutes With God](https://open.spotify.com/track/1ze44zUyRnPSqgjJMIrGje) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/5o6uSZ10sJSUnn8WomuO3R) | 3:31 | 2023-12-30 |  |
+| [5 Minutes With God](https://open.spotify.com/track/1ze44zUyRnPSqgjJMIrGje) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/5o6uSZ10sJSUnn8WomuO3R) | 3:31 | 2023-12-30 | 2025-02-01 |
+| [5 Minutes With God](https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq) | 3:31 | 2025-01-31 |  |
 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 | 2023-12-30 |  |
 | [A Heart Can Only Be So Strong](https://open.spotify.com/track/0wkMXY8Q59u3QLGMLTYMwb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:00 | 2023-12-30 |  |
 | [A Hundred Oceans](https://open.spotify.com/track/3xitSIBFxesl3u1dXxWRkw) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:08 | 2024-12-25 |  |

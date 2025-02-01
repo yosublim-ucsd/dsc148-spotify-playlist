@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-354 songs - 20 hr 21 min
+355 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 | 2021-12-24 | 2023-02-04 |
 | [Camina \(Suave y Elegante\)](https://open.spotify.com/track/1fi9cZSvHWP7z6N8HihILu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Camina \(Suave y Elegante\)](https://open.spotify.com/album/3io8feqVIqEiEXlvxXaGM6) | 3:29 | 2021-12-24 | 2022-08-06 |
 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 | 2021-12-24 |  |
+| [Casi Siempre Estoy Pensando en Ti \- Session \# 1](https://open.spotify.com/track/6etAudZOHHoS1zsjyMFoZL) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Casi Siempre Estoy Pensando en Ti \(Session \# 1\)](https://open.spotify.com/album/7DUUJ8b8YBdCzYfzZsknPx) | 3:05 | 2025-01-31 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/17oWRjloW6mAX2O4cGqZO1) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Cha Cha Cha](https://open.spotify.com/album/550Yk0OnVOn7idgi0KC11Z) | 2:53 | 2023-08-18 | 2023-10-07 |
 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 | 2021-12-24 | 2023-04-20 |
 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 | 2021-12-24 |  |
@@ -302,7 +303,7 @@
 | [Te Vas a Arrepentir](https://open.spotify.com/track/3AD8LwP65RQReNhaJ2oG0z) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Te Vas a Arrepentir](https://open.spotify.com/album/4uwtiHu1B2ESnqNzlFXGNO) | 3:41 | 2024-01-19 | 2024-04-13 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 | 2023-06-29 |  |
 | [Te Vi](https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:10 | 2021-12-24 |  |
-| [Tengo la Primicia](https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 2:58 | 2024-06-10 |  |
+| [Tengo la Primicia](https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 2:58 | 2024-06-10 | 2025-02-01 |
 | [TOCO Y ME VOY](https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [TOCO Y ME VOY](https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj) | 3:46 | 2023-12-15 | 2024-10-26 |
 | [Todo Comenzó Bailando \- Remix](https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Todo Comenzó Bailando \(Remix\)](https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ) | 2:43 | 2024-02-23 |  |
 | [Tomaremos Ron](https://open.spotify.com/track/7b48LygvIT0pu4RD9FvJyi) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Tomaremos Ron](https://open.spotify.com/album/2zmoBTgEFOxt2yJNTxUfQj) | 3:22 | 2021-12-24 | 2022-01-08 |

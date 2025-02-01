@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring HUGEL.",
+  "description": "House music lives here. United under one roof, featuring Austin Millz & Kah-Lo.",
   "name": "Housewerk",
   "tracks": [
     {
@@ -4464,6 +4464,32 @@
       "duration_ms": 191631,
       "name": "Cubanito",
       "url": "https://open.spotify.com/track/69IiEbevPrOBIlP2tjnoSn"
+    },
+    {
+      "album": {
+        "name": "On A Trip",
+        "url": "https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197799,
+      "name": "Currency (Count On Me) (ft Cimafunk and PAM\u00c9)",
+      "url": "https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS"
     },
     {
       "album": {
@@ -8953,6 +8979,28 @@
     },
     {
       "album": {
+        "name": "Hot & Mysterious",
+        "url": "https://open.spotify.com/album/2WUZrYy8Edtl3xmrWWDEAq"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Hot & Mysterious",
+      "url": "https://open.spotify.com/track/0fs75XwQHj1mdIWUhvNohh"
+    },
+    {
+      "album": {
         "name": "House All The Time",
         "url": "https://open.spotify.com/album/5qtlIlnuhHC3puaGDNYjVc"
       },
@@ -11196,6 +11244,24 @@
       "duration_ms": 205429,
       "name": "Lennon",
       "url": "https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck"
+    },
+    {
+      "album": {
+        "name": "Don't Stop EP",
+        "url": "https://open.spotify.com/album/75CLnzlKbUiiiNdkiX8F0Z"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201259,
+      "name": "Let Em' Know",
+      "url": "https://open.spotify.com/track/3bf3tNE3IjOtBsUzUVc9gs"
     },
     {
       "album": {
@@ -16792,7 +16858,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180100,
       "name": "Run From Me",
       "url": "https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"
@@ -20472,7 +20538,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 165000,
       "name": "Touch",
       "url": "https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G"
@@ -21994,7 +22060,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180000,
       "name": "Without Ya",
       "url": "https://open.spotify.com/track/1AjHqTEjibApxgcvvlfpT2"

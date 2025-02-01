@@ -4,7 +4,7 @@
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-159 songs - 9 hr 0 min
+160 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 | 2024-04-05 | 2024-11-09 |
 | [We Dun Care](https://open.spotify.com/track/4kVcwZlhWH2idgqLHeY6GZ) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [We Dun Care](https://open.spotify.com/album/6c0Iq2RmMMAr2ZUIERxIoe) | 3:43 | 2023-12-01 |  |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-12-01 |  |
+| [West End Wobbler](https://open.spotify.com/track/7hmv0wbnoi8n7Mbe8fHwQM) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [West End Wobbler](https://open.spotify.com/album/2ysqBWfWSJj9tyYn4yJsuf) | 3:17 | 2025-01-31 |  |
 | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d) | 4:29 | 2023-12-01 |  |
 | [Wicked & Dark](https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Wicked & Dark](https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW) | 3:10 | 2024-11-19 |  |
 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-16 |  |

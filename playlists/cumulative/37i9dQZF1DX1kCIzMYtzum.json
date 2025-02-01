@@ -299,6 +299,32 @@
     },
     {
       "album": {
+        "name": "Akon's Beautiful Day (David Guetta & Hypaton Remix)",
+        "url": "https://open.spotify.com/album/1jXTJXYCsFXQ5cdHEPgE06"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175846,
+      "name": "Akon's Beautiful Day - David Guetta & Hypaton Remix",
+      "url": "https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ"
+    },
+    {
+      "album": {
         "name": "Alibi (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/2Zh6Oz9pR5zYF3vEno5jV5"
       },
@@ -1006,7 +1032,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 135692,
       "name": "Arsonist",
       "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
@@ -6615,6 +6641,28 @@
     },
     {
       "album": {
+        "name": "Prismatic: Pack One",
+        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "album": {
         "name": "I Go Dancing (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6"
       },
@@ -7126,6 +7174,32 @@
       "duration_ms": 174360,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215930,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
     },
     {
       "album": {
@@ -9730,6 +9804,36 @@
       "duration_ms": 189090,
       "name": "My Home",
       "url": "https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT"
+    },
+    {
+      "album": {
+        "name": "My Life (ft. Swae Lee & PnB Rock)",
+        "url": "https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "My Life (ft. Swae Lee & PnB Rock)",
+      "url": "https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b"
     },
     {
       "album": {
@@ -13540,7 +13644,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 144840,
       "name": "Smile Boy",
       "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
@@ -15252,7 +15356,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
@@ -16268,7 +16372,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 184649,
       "name": "Where You Are - Zedd Remix",
       "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"

@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1?si=CN7PAyeXQ66WLw4-XH8JbQ>Tondi Rams</a>",
-  "num_followers": 12312,
+  "num_followers": 12320,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
-        "name": "At\u025b\u025bne (Overturned)",
-        "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "At\u025b\u025bne - Overturned",
-      "url": "https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS"
-    },
-    {
       "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Praise The Lord",
@@ -351,6 +335,22 @@
       "duration_ms": 176037,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
+    },
+    {
+      "added_at": "2024-10-18 00:01:00",
+      "album": {
+        "name": "At\u025b\u025bne (Overturned)",
+        "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "At\u025b\u025bne - Overturned",
+      "url": "https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
     },
     {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Retro Worship",
+        "url": "https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172821,
+      "name": "Wonderful Merciful Saviour",
+      "url": "https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY"
+    },
+    {
       "added_at": "2024-12-27 00:01:11",
       "album": {
         "name": "AHA GI",
@@ -747,22 +763,6 @@
       "duration_ms": 230884,
       "name": "AHA GI",
       "url": "https://open.spotify.com/track/2FG8qmndhyFqajnUF2912N"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Retro Worship",
-        "url": "https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172821,
-      "name": "Wonderful Merciful Saviour",
-      "url": "https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
     },
     {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "AYO",
-        "url": "https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        }
-      ],
-      "duration_ms": 223408,
-      "name": "AYO",
-      "url": "https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac"
-    },
-    {
       "added_at": "2024-12-20 00:01:07",
       "album": {
         "name": "In the Room (Rendition)",
@@ -851,6 +835,22 @@
       "duration_ms": 371310,
       "name": "In the Room (Rendition)",
       "url": "https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "AYO",
+        "url": "https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        }
+      ],
+      "duration_ms": 223408,
+      "name": "AYO",
+      "url": "https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac"
     },
     {
       "added_at": "2024-03-08 00:01:00",

@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Steve Aoki, Sam Feldt, Xandra, Zak Abel &amp; Nile Rodgers
 
-186 songs - 9 hr 55 min
+187 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [come aliv3](https://open.spotify.com/track/0NFmxRKCW4FoJkn70k54CE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [come aliv3](https://open.spotify.com/album/6NGo8P8BHmRUJY8uQufDgQ) | 3:27 | 2024-12-06 |  |
 | [Come On](https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW) | 2:26 | 2024-09-27 |  |
 | [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2023-12-08 | 2024-05-04 |
+| [Crash](https://open.spotify.com/track/32nGVL9r3CuO7WXdU40WQH) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/2MzArrfy6VrCsveVMC7ZMp) | 2:06 | 2025-01-31 |  |
 | [Crazy](https://open.spotify.com/track/62ptJWdV7qRJ4CbYPc56SB) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Crazy](https://open.spotify.com/album/4wYQOo4tyBBbKL7ygZNgI3) | 2:25 | 2024-09-13 | 2024-11-16 |
 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 | 2024-10-04 |  |
 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 | 2024-09-03 |  |
@@ -170,7 +171,7 @@
 | [Strobe \- Layton Giordani Remix](https://open.spotify.com/track/6UGKKxOoUYoq9gL9J49d4p) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Strobe \(Layton Giordani Remix\)](https://open.spotify.com/album/4gHKBgy4cnSq5dS8qmxlkO) | 3:35 | 2024-09-13 | 2025-01-18 |
 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 | 2023-12-08 | 2024-02-24 |
 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 | 2023-12-08 | 2024-09-04 |
-| [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 |  |
+| [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 | 2025-02-01 |
 | [TURBINA](https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [TURBINA](https://open.spotify.com/album/3L8jy2X8qNlS1AIYQyAAsn) | 3:10 | 2024-08-12 |  |
 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 | 2023-12-08 | 2024-07-03 |
 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2023-12-08 | 2024-03-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: quickly, quickly",
+  "description": "Underground indie rock gems. Cover: Dutch Interior",
   "name": "undercurrents",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162758,
       "name": "1/500",
       "url": "https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 283688,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 163986,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
@@ -8809,6 +8809,24 @@
     },
     {
       "album": {
+        "name": "Fourth Street",
+        "url": "https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl"
+      },
+      "artists": [
+        {
+          "name": "Dutch Interior",
+          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252360,
+      "name": "Fourth Street",
+      "url": "https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB"
+    },
+    {
+      "album": {
         "name": "Frances Farmer Will Have Her Revenge On Seattle",
         "url": "https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2"
       },
@@ -9670,7 +9688,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 216876,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/0yegKxyOhlLcmdDZy9FCWu"
@@ -10283,6 +10301,24 @@
     },
     {
       "album": {
+        "name": "Hardly",
+        "url": "https://open.spotify.com/album/5lOvY1d2DZ2aPQiNKPiQgk"
+      },
+      "artists": [
+        {
+          "name": "Free Range",
+          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167306,
+      "name": "Hardly",
+      "url": "https://open.spotify.com/track/2TsZLpe6jgUiBkNlpB5yx3"
+    },
+    {
+      "album": {
         "name": "Hatch",
         "url": "https://open.spotify.com/album/0G3QXjWIHCsSvwdM0gBh56"
       },
@@ -10467,6 +10503,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/125JWbV6hgxrcKOLwqCKpD"
+      },
+      "artists": [
+        {
+          "name": "Weatherday",
+          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/1yeWvrJVxBl1vYeuKSDuY0"
+    },
+    {
+      "album": {
         "name": "Heartbreak Rules",
         "url": "https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu"
       },
@@ -10500,6 +10554,24 @@
       "duration_ms": 193106,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/47awv4QA2E9FaH0ZBMZHoh"
+    },
+    {
+      "album": {
+        "name": "Tails",
+        "url": "https://open.spotify.com/album/2WT35v6iWB07fAFtuk4axU"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/31gSyLe5c0CxfVZVLJCUl0"
     },
     {
       "album": {
@@ -11210,6 +11282,28 @@
       "duration_ms": 223962,
       "name": "Honeysuckle",
       "url": "https://open.spotify.com/track/6umIKY6aZA3sT1TUJJ5mMv"
+    },
+    {
+      "album": {
+        "name": "horseshoe",
+        "url": "https://open.spotify.com/album/6kGJKYwV3QgsePTFK7s9u0"
+      },
+      "artists": [
+        {
+          "name": "Hooky",
+          "url": "https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136487,
+      "name": "horseshoe",
+      "url": "https://open.spotify.com/track/3nK1i3At3abXUwOtcMX6m1"
     },
     {
       "album": {
@@ -13161,6 +13255,24 @@
     },
     {
       "album": {
+        "name": "Modern Meta Physic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28T6OrN7ZVAaOJ0XVCRYg0"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210843,
+      "name": "Kaaterskill Trailhead",
+      "url": "https://open.spotify.com/track/6uVrbj5OBvowxoDiO1bHaj"
+    },
+    {
+      "album": {
         "name": "Lapse",
         "url": "https://open.spotify.com/album/0yVXpZlLkbX7SimNNFF3v3"
       },
@@ -15106,7 +15218,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 268772,
       "name": "Milestones",
       "url": "https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b"
@@ -17634,7 +17746,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 211093,
       "name": "Picture It",
       "url": "https://open.spotify.com/track/4kqo78GnFFHu4zccofhUGa"
@@ -18352,7 +18464,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 131082,
       "name": "Raining",
       "url": "https://open.spotify.com/track/6oywJrE3hcADAWLNL6egqp"
@@ -19370,7 +19482,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 269800,
       "name": "Scream from New York, NY",
       "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
@@ -22706,7 +22818,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 246026,
       "name": "The Good Ship Lifestyle",
       "url": "https://open.spotify.com/track/5QaqxJwyibItiNL2d1iKd3"
@@ -24541,6 +24653,24 @@
     },
     {
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/3hCqY4m26Yt8KrdWx4Ifk9"
+      },
+      "artists": [
+        {
+          "name": "Cameron Schmidt",
+          "url": "https://open.spotify.com/artist/4Rz3lJvqykpYyuAAguCDdV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191426,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/4ziD9OjrY19hVGvbqBYigT"
+    },
+    {
+      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -24750,7 +24880,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
@@ -25784,7 +25914,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 247826,
       "name": "wishing for you",
       "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
@@ -25910,7 +26040,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 181480,
       "name": "words fell out",
       "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"

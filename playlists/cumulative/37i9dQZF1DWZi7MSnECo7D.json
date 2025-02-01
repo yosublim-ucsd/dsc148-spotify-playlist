@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Pap\u00f4la",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Karen Jonz",
   "name": "alt BR",
   "tracks": [
     {
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 252657,
       "name": "Capeta",
       "url": "https://open.spotify.com/track/7z3sKadtOn8qN2yUJ44a7c"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 158208,
       "name": "Coisas Estranhas",
       "url": "https://open.spotify.com/track/2AyboKa65bOPMOH4PziB2X"
@@ -6612,7 +6612,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 153574,
       "name": "Lip Balm",
       "url": "https://open.spotify.com/track/1ocmbYTNj4Io2doMqvpiBK"
@@ -9292,7 +9292,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 72653,
       "name": "O Som, o Verbo e a Vida",
       "url": "https://open.spotify.com/track/1ZdC73qUIR8CzUZw45l4fS"
@@ -9390,7 +9390,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 124887,
       "name": "Oi Xod\u00f3zinho",
       "url": "https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y"
@@ -10060,6 +10060,24 @@
       "duration_ms": 141927,
       "name": "Plano Certo",
       "url": "https://open.spotify.com/track/1yNGWZprvQ6mAGxEWg3u9H"
+    },
+    {
+      "album": {
+        "name": "GUIZMO",
+        "url": "https://open.spotify.com/album/6CYw8fA5XMAWGR8OMATXpt"
+      },
+      "artists": [
+        {
+          "name": "Karen Jonz",
+          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "PLAYLIST DO VEL\u00d3RIO",
+      "url": "https://open.spotify.com/track/72TJGXDkJ107NOhwB3lsf8"
     },
     {
       "album": {
@@ -11841,6 +11859,24 @@
     },
     {
       "album": {
+        "name": "Tangolo Mangos ao Vivo no Dosoltv Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Vrc42RNOmHX0TPUKTetvw"
+      },
+      "artists": [
+        {
+          "name": "Tangolo Mangos",
+          "url": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122035,
+      "name": "Skar\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/16IFYy4h2R5yrR2BKB4uKX"
+    },
+    {
+      "album": {
         "name": "Sobreviver",
         "url": "https://open.spotify.com/album/3PHwQan7uUJC8fTZL7QByM"
       },
@@ -12025,6 +12061,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1jmQiMuAPMz5KuajSS8EqZ"
+      },
+      "artists": [
+        {
+          "name": "Superafim",
+          "url": "https://open.spotify.com/artist/7973fubcBVTwBHgPeco1UV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227285,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3Fej6iqtBfftO49K2EEhJo"
+    },
+    {
+      "album": {
         "name": "G\u00eameos",
         "url": "https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx"
       },
@@ -12058,7 +12112,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 264732,
       "name": "SOZINHOS: O Desafio",
       "url": "https://open.spotify.com/track/7fPgDqWqdlEvwNCG9JEmps"
@@ -13048,7 +13102,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 169562,
       "name": "Trago",
       "url": "https://open.spotify.com/track/5CugcQd5Dw8bIP9htahvik"

@@ -16433,6 +16433,24 @@
     },
     {
       "album": {
+        "name": "Running Free",
+        "url": "https://open.spotify.com/album/0278vtlMV77zoiD3Qu2oJA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "Running Free",
+      "url": "https://open.spotify.com/track/12E2DSw5y2UaZf0UMMx23H"
+    },
+    {
+      "album": {
         "name": "Rush / Can't Stop Thinking About",
         "url": "https://open.spotify.com/album/2A7lN5fuMXlLQXlgAzuXDN"
       },
@@ -19530,7 +19548,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 210852,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/6bHW86YhNTcHuZyum3pzvA"

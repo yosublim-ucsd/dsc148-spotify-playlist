@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:77zq5iaCosWolNf1IRdTjJ">Othatsmizz</a> and <a href="spotify:artist:2DnJs9S5S7DWOyE2zK2fNs">Sturdyyoungin</a>
 
-1,569 songs - 2 day 19 hr 46 min
+1,572 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Chameleon](https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Change & Remain](https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln) | 2:55 | 2024-08-07 | 2024-12-05 |
 | [chanel adventure](https://open.spotify.com/track/1RTK2ijClmWK5KACcMQou6) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [SUPER BOSS!](https://open.spotify.com/album/6XE8fbG2z1OE5uF4OxWLIM) | 2:53 | 2024-02-21 | 2024-03-07 |
 | [Chanel Bag \(Remix\)](https://open.spotify.com/track/3SQ3D8uin0r79dgKEw6nsj) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Chanel Bag \(Remix\)](https://open.spotify.com/album/3ekAwOwdks8x3eVLfwCfi4) | 4:09 | 2021-12-01 | 2022-01-14 |
+| [Check Fox 5](https://open.spotify.com/track/5cUn1fmjrCgWhrlkVrtR6f) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Check Fox 5](https://open.spotify.com/album/2vsciKzhQRI4ZSiuOGsGil) | 2:19 | 2025-01-31 |  |
 | [Check Me](https://open.spotify.com/track/62QMGHCDxMsyFAwAKuf4ML) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Check Me](https://open.spotify.com/album/47ykXljyBCF6mgCpSaM5C1) | 1:52 | 2023-10-25 | 2023-11-30 |
 | [Chedda Cheese \(feat\. Babyface Ray\)](https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Gift Of The Ghetto](https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc) | 2:50 | 2023-02-22 | 2023-04-13 |
 | [chicken & waffles](https://open.spotify.com/track/6JWs2qW2P3p8R3YOe4yQfM) | [BRICK!](https://open.spotify.com/artist/4NGUeAdVk2KKuMpfYULR3v), [HARDR](https://open.spotify.com/artist/1rwrhFgnwwIuMFUHwAnN4k) | [chicken & waffles](https://open.spotify.com/album/2eoM8NJPV8kHTvkpmz551R) | 2:36 | 2024-08-28 | 2024-12-05 |
@@ -506,6 +507,7 @@
 | [FOR MY PEOPLE](https://open.spotify.com/track/26kzaZRG99XSmjGxNQu4SC) | [CNN Mikey](https://open.spotify.com/artist/5T41qdCf8LNxshaBPYWwnF) | [FOR MY PEOPLE](https://open.spotify.com/album/5gmAqjpakk1u1oYPEDVI8Z) | 3:16 | 2023-06-07 | 2023-08-24 |
 | [For Us](https://open.spotify.com/track/4PZInlAe9norwHBqjZGZTV) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 | 2024-02-21 | 2024-12-05 |
 | [Foreigns & Trackhawks](https://open.spotify.com/track/4UfLpe2coVsWjywb1phLgL) | [Taleban Dooda](https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0) | [Foreigns & Trackhawks](https://open.spotify.com/album/7GgC2L1qY2y3twExhtYYK2) | 2:26 | 2022-02-03 | 2022-03-03 |
+| [Forever Rollin](https://open.spotify.com/track/4VBnyj7hTeH4CYAaTlhotX) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [Forever Rollin](https://open.spotify.com/album/0uKaxbNz5TfQhw4umu5Hwv) | 2:02 | 2025-01-31 |  |
 | [Four Walls](https://open.spotify.com/track/05VTU3Txslze8gIkvyi1Aw) | [Kill Dusty](https://open.spotify.com/artist/3SaQpHMKQexa6qIOmyliea) | [Four Walls](https://open.spotify.com/album/4OkCI1jrBlEzJ1KBNWP9QY) | 1:43 | 2022-01-19 | 2022-02-17 |
 | [France](https://open.spotify.com/track/65Gf1uF8aFtsIPQ8S9EvL9) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [France](https://open.spotify.com/album/6dbddqE1Mc5Mao0hlyUDq9) | 2:14 | 2023-02-08 | 2023-04-06 |
 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2022-11-09 | 2023-02-23 |
@@ -649,6 +651,7 @@
 | [How Could I Not?](https://open.spotify.com/track/7jgWMCYT3ZlI569mDZ2ezb) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [DON'T CALL THIS LUCK, THAT'S DISRESPECTFUL](https://open.spotify.com/album/0S6F6t2LaifS3ATo6N1Dmx) | 2:08 | 2024-02-28 | 2024-03-21 |
 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 | 2022-05-25 | 2023-01-12 |
 | [How I’m Feeling](https://open.spotify.com/track/3tv4PZDaPpV4HVqdOsjYR4) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT), [Jaasu](https://open.spotify.com/artist/3Yu4x0xYvBtdk5ZzwqdykZ) | [Time 2 Bounce](https://open.spotify.com/album/2UoWex8Oq6WFNerlaOFR0k) | 2:36 | 2024-08-28 | 2025-01-30 |
+| [How To Bip](https://open.spotify.com/track/0czglnBCqYSAkwV3287aVA) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc) | [How To Bip](https://open.spotify.com/album/02HzsfQyBzbxWmKczDp0rI) | 1:53 | 2025-01-31 |  |
 | [How?! \(feat\. Niontay\)](https://open.spotify.com/track/5IPSlwgpJskSg5i7m2JAmr) | [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z), [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [Triple Digits \[112\]](https://open.spotify.com/album/37XRzcFMZ91g9TrYKRUpcg) | 3:00 | 2024-04-03 | 2024-04-11 |
 | [humans can self destruct too](https://open.spotify.com/track/0cUfyWqMPNnLotNUTiMFWk) | [Itha¢a](https://open.spotify.com/artist/77WFeOTzKHCZQyTMx8OZGw) | [humans can self destruct too](https://open.spotify.com/album/3jfdr6EqQNoyXQiJH5y3jR) | 1:40 | 2022-02-16 | 2022-03-24 |
 | [Humble Af.](https://open.spotify.com/track/7omzhSspMbVMsLXvvexL2M) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Humble Af.](https://open.spotify.com/album/2ONKlkCM8XBO55kgtm9Zvf) | 2:34 | 2023-08-16 | 2024-01-25 |

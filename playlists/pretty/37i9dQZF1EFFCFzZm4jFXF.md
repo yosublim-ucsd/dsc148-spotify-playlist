@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 108 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 108 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 58 | [Rockstar](https://open.spotify.com/track/0yu3K4ZrI0miwP6vMMiL40) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:16 |
 | 59 | [Every Moment](https://open.spotify.com/track/6X0uczH3gOA4hbyPNdvSfb) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Every Moment](https://open.spotify.com/album/5YVNW4DIzAdA7gc1bJEW6X) | 2:53 |
 | 60 | [Kamikaze Camouflage](https://open.spotify.com/track/7kfq2i1lkGF0ObTD5Ke4os) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 2:34 |
-| 61 | [Wiersz Na Szkle](https://open.spotify.com/track/19gAeD3VrmLtPgAA9d9yun) | [Adam Kubera](https://open.spotify.com/artist/6Wac9kvo37JBxgkSS8LRXU) | [Wiersz Na Szkle](https://open.spotify.com/album/7pgMoAox0KApuvFljDbpyL) | 3:40 |
-| 62 | [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 |
+| 61 | [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 |
+| 62 | [Wiersz Na Szkle](https://open.spotify.com/track/19gAeD3VrmLtPgAA9d9yun) | [Adam Kubera](https://open.spotify.com/artist/6Wac9kvo37JBxgkSS8LRXU) | [Wiersz Na Szkle](https://open.spotify.com/album/7pgMoAox0KApuvFljDbpyL) | 3:40 |
 | 63 | [Dopamine \- Radio Edit](https://open.spotify.com/track/1uzXNHa9hfU7WlIq0galfM) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Dopamine](https://open.spotify.com/album/0q9AGhJrvZruxED1HFSLwf) | 3:40 |
 | 64 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 |
 | 65 | [Falling For A Friend](https://open.spotify.com/track/4lLPl7RHFa4bcIKLYhfayz) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Falling For A Friend](https://open.spotify.com/album/7wfhTy5qm6SrTf7SgRZYgL) | 2:57 |
-| 66 | [No One But Yourself](https://open.spotify.com/track/5ep9D7x1FwCBy6INbF0Fad) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [No One But Yourself](https://open.spotify.com/album/4VDksPljHSEP0701PHsjj9) | 2:59 |
-| 67 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 66 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 67 | [No One But Yourself](https://open.spotify.com/track/5ep9D7x1FwCBy6INbF0Fad) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [No One But Yourself](https://open.spotify.com/album/4VDksPljHSEP0701PHsjj9) | 2:59 |
 | 68 | [Shut Up \(Move On\)](https://open.spotify.com/track/1StVteSWhBuwQLbUYnAtrK) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:23 |
 | 69 | [Focus](https://open.spotify.com/track/6OZtADZziUiDTULF8rl9ix) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/6hqAU3uwagQI3eIfFGSxPu) | 2:44 |
 | 70 | [Lost \(Never Enough\)](https://open.spotify.com/track/68l89zTMSlOXFdDKTqSFaL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:05 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 107 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 108 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AboR9gAAAADnE/elafUAyMrEwjpFt85l`
+Snapshot ID: `AboXqgAAAAC5zfg+u4mGfdyWqfGeukLU`

@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 60291,
+  "num_followers": 60352,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 122924,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Stand Back!",
-        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cha Cha The Blues",
-      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Alone With Yourself",
         "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 267506,
-      "name": "End Of The Blues",
-      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Boedo's Blues",
         "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 133088,
       "name": "Boedo's Blues",
       "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Stand Back!",
+        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cha Cha The Blues",
+      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 267506,
+      "name": "End Of The Blues",
+      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Sun Records Originals: Easy",
-        "url": "https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Little Walter's Boogie",
-      "url": "https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 134106,
       "name": "Chitlin Con Carne",
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Sun Records Originals: Easy",
+        "url": "https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Little Walter's Boogie",
+      "url": "https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Room To Move 1969 - 1974",
-        "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
-      },
-      "artists": [
-        {
-          "name": "John Mayall",
-          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
-        }
-      ],
-      "duration_ms": 133533,
-      "name": "Boogie Albert",
-      "url": "https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "The Spiekeroog Sessions",
         "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 263276,
       "name": "If You're Not Mine",
       "url": "https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Room To Move 1969 - 1974",
+        "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
+      },
+      "artists": [
+        {
+          "name": "John Mayall",
+          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+        }
+      ],
+      "duration_ms": 133533,
+      "name": "Boogie Albert",
+      "url": "https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Go Bo Diddley",
-        "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "The Clock Strikes Twelve",
-      "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "For Collectors Only (The Wham Of That Memphis Man)",
         "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 132333,
       "name": "Wham!",
       "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Go Bo Diddley",
+        "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "The Clock Strikes Twelve",
+      "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
     },
     {
       "added_at": "2024-05-29 07:23:14",

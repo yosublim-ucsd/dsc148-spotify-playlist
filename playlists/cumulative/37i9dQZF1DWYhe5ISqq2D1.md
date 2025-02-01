@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: Keishi Tanaka
 
-403 songs - 1 day 1 hr 46 min
+405 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Hard work](https://open.spotify.com/track/21LClr5fRDBJSEnArdK18P) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Ai no Ubugoe, Ai no Nakigoe](https://open.spotify.com/album/5xfP0RaptOkznxJ2gcpyKz) | 3:03 | 2024-09-24 | 2025-01-15 |
 | [HATE ME](https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [HATE ME](https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu) | 2:05 | 2024-10-08 |  |
 | [High Love](https://open.spotify.com/track/0BiEJZbK16o6Zaj4x1IkAR) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Knightclub](https://open.spotify.com/album/4Nh1wrox3ruzwPThq4xKKR) | 3:17 | 2024-09-03 | 2024-09-18 |
-| [Holiday](https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [For Life](https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK) | 3:28 | 2024-12-24 |  |
+| [Holiday](https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [For Life](https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK) | 3:28 | 2024-12-24 | 2025-02-01 |
 | [Hometown](https://open.spotify.com/track/2c8oAaq5gMezWWlPn8k7DV) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [Hometown](https://open.spotify.com/album/4MAlf3KcJYH9jHf9utRdRa) | 3:08 | 2024-07-30 | 2024-09-04 |
 | [Horizon](https://open.spotify.com/track/5UxdVznuQnmWBO7JJu0efv) | [Moeka Yahagi](https://open.spotify.com/artist/6p3V5vYmdNwDlq7zJweKCg) | [Horizon](https://open.spotify.com/album/6nmV990yr4xqzwJ7jDJery) | 4:08 | 2025-01-07 | 2025-01-22 |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2024-07-02 | 2024-07-10 |
@@ -167,9 +167,11 @@
 | [Twilight](https://open.spotify.com/track/7vqSdw6XjuBYp7Lq1Q1eiw) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Twilight](https://open.spotify.com/album/3NdU6xvqxUw2h5Ay7xNjHH) | 3:27 | 2025-01-14 | 2025-01-22 |
 | [Uptown](https://open.spotify.com/track/4735slvOtCEHTg6gHdr2wV) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [Uptown](https://open.spotify.com/album/6Iy04aO7N3s80TK70b2LmQ) | 4:46 | 2024-11-05 | 2024-11-13 |
 | [Valentine and Youth](https://open.spotify.com/track/0X3gRxgqfvts6uMVvvBbYI) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Valentine and Youth](https://open.spotify.com/album/6dJ7LpA1XYbHxVDKPFRCXl) | 3:11 | 2025-01-28 |  |
+| [Versailles \- ベルサイユ \-](https://open.spotify.com/track/4AiuIRUfYBZNc1TBMsZ6pz) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Versailles \- ベルサイユ \-](https://open.spotify.com/album/7FnCOyGrE9Oe8hfWuRPi2U) | 4:05 | 2025-01-28 |  |
 | [Véranda](https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [Véranda](https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT) | 3:23 | 2024-07-02 | 2024-12-25 |
 | [Walk Together](https://open.spotify.com/track/1r7W0nmv7YsM67QI3RHEvC) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Walk Together](https://open.spotify.com/album/6jBuZ5VX6xrI9yRwbgW0GX) | 3:19 | 2024-07-02 | 2024-08-22 |
 | [Wannabe](https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Wannabe](https://open.spotify.com/album/1wLVxgVaAol2Vmz7A9M6Fn) | 4:25 | 2024-11-19 |  |
+| [We don't need heroes](https://open.spotify.com/track/66PLaLborZo2mvNIs546T5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [We don't need heroes](https://open.spotify.com/album/0D426CAnfeUmd662YaP8Y1) | 3:10 | 2025-01-28 |  |
 | [Wind](https://open.spotify.com/track/3FcGv9fUNiNu7LuzXnQvCn) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [wind e.p.](https://open.spotify.com/album/1MtCi1jcGMGrQsEvq1xEro) | 2:59 | 2024-11-13 | 2024-11-20 |
 | [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2024-07-02 | 2024-07-31 |
 | [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 | 2024-07-02 | 2024-12-25 |
@@ -376,7 +378,7 @@
 | [瞳に吸い込まれて](https://open.spotify.com/track/0Bmr9iqfrDHkSPxjBFcSC8) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [音の雨、言葉は傘、今から君と会う。](https://open.spotify.com/album/2DUCu6cZa6rtLvigSD6ouy) | 3:43 | 2025-01-21 |  |
 | [祝福](https://open.spotify.com/track/4fVRwxkLnFsxspPdtXcac7) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祝福](https://open.spotify.com/album/64dqnbWFC9GnDNHqTMEnHm) | 3:40 | 2024-07-09 | 2024-07-17 |
 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 | 2024-07-02 | 2024-12-25 |
-| [私ばっかりバカみたい！](https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [私ばっかりバカみたい！](https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO) | 2:48 | 2024-12-24 |  |
+| [私ばっかりバカみたい！](https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [私ばっかりバカみたい！](https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO) | 2:48 | 2024-12-24 | 2025-02-01 |
 | [空とぶタクシー](https://open.spotify.com/track/5xU0FglG9sl9gmIjSgKgXM) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [GOLD HOUR](https://open.spotify.com/album/2TTPto1lSjrgo5KkiDrPRw) | 5:28 | 2024-11-13 |  |
 | [笑い話](https://open.spotify.com/track/4dQ2aTr0vgxc346TEhN8nO) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [笑い話](https://open.spotify.com/album/7pNGGFs7y4gRbyMJ1DYbno) | 4:07 | 2024-07-02 | 2024-12-02 |
 | [箱庭の灯](https://open.spotify.com/track/6XvxmbCjBRAwFzFKcg27Hh) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [箱庭の灯](https://open.spotify.com/album/7kmEI6snJw0yLMjYMmZngQ) | 4:08 | 2024-07-16 | 2024-09-04 |

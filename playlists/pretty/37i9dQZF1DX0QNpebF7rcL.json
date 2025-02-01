@@ -1,13 +1,65 @@
 {
   "description": "The best in blues right now. Cover: Billy F Gibbons",
-  "num_followers": 62181,
+  "num_followers": 62220,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nj6gAAAACjYWb/o/KiJ3cQdhh1pXRX",
+  "snapshot_id": "Z5xY/wAAAACcpRADKwp5tlWOZz4AMsFs",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "Rum Boogie",
+        "url": "https://open.spotify.com/album/4bfuTpL2T1fDU8xMyGgzCx"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 197922,
+      "name": "Rum Boogie",
+      "url": "https://open.spotify.com/track/5FBfO62TdPOvZcZTFxK36b"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "Runaway (Radio Edit)",
+        "url": "https://open.spotify.com/album/3TBFyqswoBMZgHAJT8uaoK"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Runaway - Radio Edit",
+      "url": "https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "I\u2019m Going Down",
+        "url": "https://open.spotify.com/album/35y6SzyOwEbX19F9TIvf0c"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 330752,
+      "name": "I\u2019m Going Down",
+      "url": "https://open.spotify.com/track/0p2gjEwWiiU6N5Xk0HI2xC"
+    },
     {
       "added_at": "2025-01-17 05:00:26",
       "album": {
@@ -375,22 +427,6 @@
       "duration_ms": 206920,
       "name": "Issa",
       "url": "https://open.spotify.com/track/01WyqI4Qnh4gvUFVGp2C9r"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Better Be Lonely (Alternate Version)",
-        "url": "https://open.spotify.com/album/6HWrCFwkAGNLKp64ZYiHwV"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 221956,
-      "name": "Better Be Lonely - Alternate Version",
-      "url": "https://open.spotify.com/track/188FMuwd89UBGCg3itrIXu"
     },
     {
       "added_at": "2024-08-16 18:17:05",
@@ -1739,38 +1775,6 @@
       "duration_ms": 248081,
       "name": "Blues All Around",
       "url": "https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf"
-    },
-    {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "Don't Know Where She Went",
-        "url": "https://open.spotify.com/album/3Ey01PYiP2lgKibsEEAuuK"
-      },
-      "artists": [
-        {
-          "name": "The Nighthawks",
-          "url": "https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Don't Know Where She Went",
-      "url": "https://open.spotify.com/track/04854r1cdTenXuu3dR2yDv"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Keep on Lovin' the Blues",
-        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
-      },
-      "artists": [
-        {
-          "name": "John Primer",
-          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Pay the Price",
-      "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
     }
   ],
   "unique_name": "Got Blues",

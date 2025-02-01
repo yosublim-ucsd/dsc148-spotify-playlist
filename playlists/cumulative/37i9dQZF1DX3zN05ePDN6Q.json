@@ -2511,6 +2511,28 @@
     },
     {
       "album": {
+        "name": "Caso Encerrado",
+        "url": "https://open.spotify.com/album/3xrlw1cyO9517yv8oQCiBJ"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        },
+        {
+          "name": "Alemar",
+          "url": "https://open.spotify.com/artist/762y4kQE966IVmD9SMT79l"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Caso Encerrado",
+      "url": "https://open.spotify.com/track/5Pc8y48ecP95ljRyeyOC6P"
+    },
+    {
+      "album": {
         "name": "Caso Toca Meu Som",
         "url": "https://open.spotify.com/album/69ol99UrEIWc0vGZOhgrwm"
       },
@@ -2846,7 +2868,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180000,
       "name": "Cinzas de Quarta-Feira",
       "url": "https://open.spotify.com/track/3jBz8sZAVxjZ9QpZPHMJj7"
@@ -3234,7 +3256,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 109714,
       "name": "Cyberpunk Master",
       "url": "https://open.spotify.com/track/5XJhUfegTq1ilrkWNEN9iY"
@@ -3368,6 +3390,32 @@
       "duration_ms": 209638,
       "name": "C\u00f3digos",
       "url": "https://open.spotify.com/track/2PH0WcFIMJAs6TWkvt66GS"
+    },
+    {
+      "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Fat Family",
+          "url": "https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Da Madrugada",
+      "url": "https://open.spotify.com/track/2KtidsJE7J9iIm4Xc48Am1"
     },
     {
       "album": {
@@ -5921,6 +5969,32 @@
     },
     {
       "album": {
+        "name": "HIP-HOP \u00c9 ISSO",
+        "url": "https://open.spotify.com/album/1Nwjqnt3exz3zRuM1w5oYa"
+      },
+      "artists": [
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "HIP-HOP \u00c9 ISSO",
+      "url": "https://open.spotify.com/track/0uyphwqHePjJk1Mw8LvPfp"
+    },
+    {
+      "album": {
         "name": "Hoje \u00c0 Noite (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y0HX3JSj3lZljDAPnHlkT"
       },
@@ -6242,6 +6316,24 @@
       "duration_ms": 215159,
       "name": "Inspira\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4c2hxj1iMVgUqZc1If9ywJ"
+    },
+    {
+      "album": {
+        "name": "Intervalo",
+        "url": "https://open.spotify.com/album/4pRWuJFGI9qBTQ4SS49yq2"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106359,
+      "name": "Intervalo",
+      "url": "https://open.spotify.com/track/5M1WXg9LGI6JH12cWDjzut"
     },
     {
       "album": {
@@ -6786,7 +6878,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 151333,
       "name": "Leve",
       "url": "https://open.spotify.com/track/0sJajRKdkcXAPVXfLpD2Ek"
@@ -8480,7 +8572,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 196853,
       "name": "N\u00e3o Vai Fazer Falta",
       "url": "https://open.spotify.com/track/4Xk0DvNVwll4RKL88L8z6q"
@@ -9749,6 +9841,24 @@
     },
     {
       "album": {
+        "name": "inverno pessoal",
+        "url": "https://open.spotify.com/album/1dQghUE8W8scjyaJGE4lz8"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121281,
+      "name": "peso de ser pai, peso de ser filho",
+      "url": "https://open.spotify.com/track/5LB4HblpW9gQgPV2ecu46L"
+    },
+    {
+      "album": {
         "name": "Petshop",
         "url": "https://open.spotify.com/album/6xStv7ugskt1Q1qeOO3Htz"
       },
@@ -9928,7 +10038,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 160862,
       "name": "Polo Usa",
       "url": "https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU"
@@ -10056,6 +10166,36 @@
       "duration_ms": 159026,
       "name": "Praise",
       "url": "https://open.spotify.com/track/1R4Vo02hRTKffcLGGE1Huu"
+    },
+    {
+      "album": {
+        "name": "A Volta da Malandra",
+        "url": "https://open.spotify.com/album/4VXHwOWbGeQJbnmKqxwdUP"
+      },
+      "artists": [
+        {
+          "name": "Dory de Oliveira",
+          "url": "https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr"
+        },
+        {
+          "name": "kiko de sousa",
+          "url": "https://open.spotify.com/artist/2NA6u5A9JtHxwmBydfRDdu"
+        },
+        {
+          "name": "MxM",
+          "url": "https://open.spotify.com/artist/4aPJtQduDm1E21WI3LgiF6"
+        },
+        {
+          "name": "Dodida",
+          "url": "https://open.spotify.com/artist/3WX3OGPYDIf4m5hFcDSFwU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248372,
+      "name": "Pras Meninas de Oy\u00e1 e Oxum",
+      "url": "https://open.spotify.com/track/4ddnBoFmzhg8AZatb3AC55"
     },
     {
       "album": {
@@ -11021,6 +11161,40 @@
     },
     {
       "album": {
+        "name": "Reflexo #10 - Inestim\u00e1vel",
+        "url": "https://open.spotify.com/album/0gGjGKzagGb1tn0E0UI7tR"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Gioprod",
+          "url": "https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "SART\u00d8R",
+          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Reflexo #10 - Inestim\u00e1vel",
+      "url": "https://open.spotify.com/track/4pKeqCqPF4JkqJi3Lq6nZZ"
+    },
+    {
+      "album": {
         "name": "Regress\u00e3o de Pensamentos",
         "url": "https://open.spotify.com/album/7E7xToJdp8EVIfwO8TmHU8"
       },
@@ -11080,7 +11254,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206413,
       "name": "Representa",
       "url": "https://open.spotify.com/track/709UgI861QsuEvm5YoHsYI"
@@ -11258,7 +11432,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 171428,
       "name": "Rj",
       "url": "https://open.spotify.com/track/5u0F8tuc7Jf6hZtoUgufXq"
@@ -11284,7 +11458,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 170663,
       "name": "Rodman & Madonna",
       "url": "https://open.spotify.com/track/7sVUwjTvWvsQo4RMDU26zx"
@@ -12287,6 +12461,28 @@
     },
     {
       "album": {
+        "name": "Meus Amigos, Vol. 2",
+        "url": "https://open.spotify.com/album/4HlZseC1Xj6NwMNozo6XIx"
+      },
+      "artists": [
+        {
+          "name": "Mascote",
+          "url": "https://open.spotify.com/artist/1XQtxLkaACQMsRGiKwuI3h"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262527,
+      "name": "Sobreviventes",
+      "url": "https://open.spotify.com/track/28Se7TuxDt7sBtKScl5W2r"
+    },
+    {
+      "album": {
         "name": "Soldado sem Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6ocAO0JnWL8I9Nup1s7XEJ"
       },
@@ -12720,6 +12916,32 @@
       "duration_ms": 221860,
       "name": "S\u00f3 Deus",
       "url": "https://open.spotify.com/track/6n7aenCg07XnW4WP9pdTk8"
+    },
+    {
+      "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169546,
+      "name": "S\u00f3 Quero Ver",
+      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
     },
     {
       "album": {
@@ -13582,7 +13804,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 197727,
       "name": "Ver\u00e3o Ver\u00e3o",
       "url": "https://open.spotify.com/track/0vsRt6M9AtBsF08Gz5Dpbz"

@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: Balming Tiger \(South Korea\)
 
-1,723 songs - 4 day 8 hr 14 min
+1,725 songs - 4 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Fool](https://open.spotify.com/track/3Ksyqx6g9aEcA6vdTSoFnB) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Violets Aren't Blue](https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p) | 3:16 | 2023-04-20 | 2023-06-30 |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2023-04-20 | 2024-11-16 |
 | [For the First Time](https://open.spotify.com/track/6inMymbAB1obAUtUPVeWjU) | [Ringgo 5](https://open.spotify.com/artist/73kWDkoIKhN58ALBh7cF3t) | [Love & Light](https://open.spotify.com/album/1Y2i1JvNR7mXb2mAxpth65) | 3:10 | 2024-05-16 | 2024-05-24 |
+| [For Years](https://open.spotify.com/track/7n5keaHfBmfT0kz56EIIr4) | [Kremesoda](https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf) | [For Years](https://open.spotify.com/album/4wyGeGizmF1609QAefbTBa) | 3:54 | 2025-01-31 |  |
 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 | 2024-05-02 | 2024-06-01 |
 | [Forever](https://open.spotify.com/track/3Q9xCPaEU0vla6XzjIIKpx) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Forever](https://open.spotify.com/album/5GOTTBCBjwIyQfvl9zfhtW) | 3:45 | 2022-05-26 | 2022-07-08 |
 | [FOREVER](https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Exodus](https://open.spotify.com/album/2ZiukKDfRim3Ejy1Cx5nLd) | 4:23 | 2023-11-16 | 2023-12-09 |
@@ -602,6 +603,7 @@
 | [Holiday Only](https://open.spotify.com/track/13xSCpapdAiR1bPWwoZp1y) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Holiday Only](https://open.spotify.com/album/1W0r6fsyYXIWVRJKR8cWfw) | 4:14 | 2023-04-20 | 2023-04-28 |
 | [Home is Wherever you Are](https://open.spotify.com/track/703VBRaail5rJc0nTJcuwq) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Home is Wherever you Are](https://open.spotify.com/album/1KIwhHoM23KbQF6O8eOrbj) | 4:01 | 2023-01-26 | 2023-03-18 |
 | [Homesick](https://open.spotify.com/track/4Hxd8q1bhouFKjP5g47ReR) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Homesick](https://open.spotify.com/album/4IpInTxAb4Z8sZi30bmRFG) | 2:42 | 2024-05-02 | 2024-05-24 |
+| [hometown](https://open.spotify.com/track/6bVmdYqlAFErHcokzv7eHU) | [brynne](https://open.spotify.com/artist/6IGkUOoLT0AX9spuYEwnLI) | [hometown](https://open.spotify.com/album/0uWvY6ZW9dZQ5vJPuGiXZ7) | 2:54 | 2025-01-31 |  |
 | [homing](https://open.spotify.com/track/59Z7pmEAeAdCBjX0bXfcNc) | [yewee](https://open.spotify.com/artist/1zQITcXMrdgZWsBF0dgwXD) | [A Little Cold](https://open.spotify.com/album/2TQbE1BPPmklgjBJ4fd7KK) | 4:32 | 2022-12-02 | 2023-02-10 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:56 | 2022-03-24 | 2022-04-29 |
 | [Honestly](https://open.spotify.com/track/09PLEiRIRz7RhQmZSX2iE7) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honestly](https://open.spotify.com/album/0BR7eudQY2ly2t99WLuJ4b) | 3:18 | 2022-09-29 | 2022-12-09 |
@@ -1641,7 +1643,7 @@
 | [但](https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 2:22 | 2023-05-11 | 2023-05-23 |
 | [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-13 | 2023-05-13 |
 | [你在哪裡](https://open.spotify.com/track/4SBrGswUzLYp2uXNqSEYZ1) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G), [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [你在哪裡](https://open.spotify.com/album/6LT7YFr4Mw6MEUZIcy6Dz3) | 4:06 | 2024-05-23 | 2024-08-02 |
-| [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 |  |
+| [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 | 2025-02-01 |
 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 | 2024-11-21 |  |
 | [做一半的夢](https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [做一半的夢](https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa) | 3:24 | 2024-06-06 | 2024-12-13 |
 | [冇有形狀 \- 壞數學 VERSION](https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI) | [XSGACHA 小本生燈](https://open.spotify.com/artist/78CZPfx44NXnJAR0bxEaXw), [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo) | [冇有形狀 \(壞數學 VERSION\)](https://open.spotify.com/album/22YYxCpNNtdxu7VajaOcQU) | 5:26 | 2024-07-18 | 2024-08-17 |

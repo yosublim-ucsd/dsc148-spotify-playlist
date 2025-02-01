@@ -2305,6 +2305,28 @@
     },
     {
       "album": {
+        "name": "Fechando o Circo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XE2K6nUxUPazElDJuNBuk"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134159,
+      "name": "Fechando o Circo - Ao Vivo",
+      "url": "https://open.spotify.com/track/37bToUvlC32varJ3IT4XUE"
+    },
+    {
+      "album": {
         "name": "Pr\u00f3ximo Passo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ"
       },
@@ -3694,7 +3716,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 169645,
       "name": "N\u00e3o Me Bloqueia N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10"

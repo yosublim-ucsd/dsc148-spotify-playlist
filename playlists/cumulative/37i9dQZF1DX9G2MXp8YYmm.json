@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: Cem Yenel",
+  "description": "Popun sevilen isimleri. Kapak: Sezer Sar\u0131g\u00f6z",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 168000,
       "name": "Asla",
       "url": "https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG"
@@ -1698,6 +1698,24 @@
       "duration_ms": 155853,
       "name": "Hallederiz",
       "url": "https://open.spotify.com/track/1amWETYioLvJ8rBJ60XmD9"
+    },
+    {
+      "album": {
+        "name": "Hayat Gelir A\u011f\u0131r A\u011f\u0131r",
+        "url": "https://open.spotify.com/album/5zJqF6htYIU7ViaskiTklG"
+      },
+      "artists": [
+        {
+          "name": "Sezer Sar\u0131g\u00f6z",
+          "url": "https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Hayat Gelir A\u011f\u0131r A\u011f\u0131r",
+      "url": "https://open.spotify.com/track/0uW1vxBFNOmNlHXgHx5CEe"
     },
     {
       "album": {

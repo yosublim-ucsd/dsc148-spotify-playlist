@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47376,
+  "num_followers": 47382,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAAiUPHmGjMbc+Wf1JEcA2kA",
+  "snapshot_id": "Z5rBAAAAAAAWKdpP7KJLhqR5HSd94tGs",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUFFET",
-        "url": "https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV"
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
       "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
         {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 110011,
-      "name": "walk but in a garden (feat. mxmtoon)",
-      "url": "https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv"
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
     },
     {
       "added_at": null,
@@ -347,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+        "name": "BUFFET",
+        "url": "https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV"
       },
       "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
         {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 210600,
-      "name": "creep",
-      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+      "duration_ms": 110011,
+      "name": "walk but in a garden (feat. mxmtoon)",
+      "url": "https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 128879,
-      "name": "elevator",
-      "url": "https://open.spotify.com/track/1TkpDBOASLm2yj7ZEuSmgk"
+      "duration_ms": 218656,
+      "name": "i hate texas",
+      "url": "https://open.spotify.com/track/1Pa4QfXjEI6L4Iro7kQjkj"
     },
     {
       "added_at": null,
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 218656,
-      "name": "i hate texas",
-      "url": "https://open.spotify.com/track/1Pa4QfXjEI6L4Iro7kQjkj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "blame game",
-      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
+      "duration_ms": 128879,
+      "name": "elevator",
+      "url": "https://open.spotify.com/track/1TkpDBOASLm2yj7ZEuSmgk"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "blame game",
+      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "liminal space",
         "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 172920,
       "name": "VHS",
       "url": "https://open.spotify.com/track/5OjfzTg9KWyCARKi7UVnrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "in the darkness",
-      "url": "https://open.spotify.com/track/4wU7ZkSkK3nMJpzZBRxtv9"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising (the deluxe)",
-        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 142573,
-      "name": "plastic pony",
-      "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
+      "duration_ms": 209013,
+      "name": "in the darkness",
+      "url": "https://open.spotify.com/track/4wU7ZkSkK3nMJpzZBRxtv9"
     },
     {
       "added_at": null,
@@ -619,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/7yXKgxE3jtv4hCDCeR7ZJ7"
+        "name": "rising (the deluxe)",
+        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
       "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        },
         {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 196301,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/73x5oFlbHcMhWQ7Wez5z3I"
+      "duration_ms": 142573,
+      "name": "plastic pony",
+      "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
     },
     {
       "added_at": null,
@@ -655,6 +635,26 @@
       "duration_ms": 208333,
       "name": "ok on your own",
       "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/7yXKgxE3jtv4hCDCeR7ZJ7"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196301,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/73x5oFlbHcMhWQ7Wez5z3I"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "dream of you",
-      "url": "https://open.spotify.com/track/4XYc66vQbFlTdgRUCLACsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 169320,
       "name": "every wave",
       "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "dream of you",
+      "url": "https://open.spotify.com/track/4XYc66vQbFlTdgRUCLACsS"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "high & dry",
-      "url": "https://open.spotify.com/track/00PN6MBzEuptqXKCJkoXoh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 212093,
       "name": "lessons",
       "url": "https://open.spotify.com/track/5kDSSV27L3LxQiqFBW8Agg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "high & dry",
+      "url": "https://open.spotify.com/track/00PN6MBzEuptqXKCJkoXoh"
     },
     {
       "added_at": null,

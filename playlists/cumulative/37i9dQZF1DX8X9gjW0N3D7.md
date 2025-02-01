@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Pierre Lapointe
 
-132 songs - 7 hr 7 min
+133 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 | 2024-06-28 | 2024-08-31 |
 | [Dans les marguerites](https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Dans les marguerites](https://open.spotify.com/album/4poKkmkR3L3GuZ6eGGislu) | 3:40 | 2024-06-28 | 2024-07-19 |
 | [Dans mon sang](https://open.spotify.com/track/1ph5JAU5YiAtZQuClSBVec) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [Dans mon sang](https://open.spotify.com/album/3XTWYuUSlmVNAEpbte9wGY) | 2:25 | 2024-08-16 |  |
-| [Danser la nuit](https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Danser la nuit](https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB) | 2:12 | 2024-06-28 |  |
+| [Danser la nuit](https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Danser la nuit](https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB) | 2:12 | 2024-06-28 | 2025-02-01 |
 | [Derrière le jour](https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Derrière le jour](https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu) | 3:31 | 2024-06-28 | 2024-11-16 |
 | [Deux jours et deux nuits](https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Deux jours et deux nuits](https://open.spotify.com/album/7wrN8Vv62SbkI13lqllXos) | 2:36 | 2024-07-19 | 2024-10-12 |
 | [Dormir debout](https://open.spotify.com/track/1A1vZMoDiY6ulyevbW1M9c) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Dormir debout](https://open.spotify.com/album/76H8rGTRDxbvgKYysZRMth) | 3:43 | 2024-08-23 |  |
@@ -52,6 +52,7 @@
 | [Insolente](https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP) | [Les Chiens De Ruelles](https://open.spotify.com/artist/4cgHDMFVZHOSFUOKEPbXAG) | [BTDT](https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF) | 3:44 | 2024-08-16 |  |
 | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT) | 2:52 | 2024-06-28 |  |
 | [J'fais des efforts](https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Etienne Dufresne fait des efforts](https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO) | 3:46 | 2024-06-28 |  |
+| [J'veux pas dormir](https://open.spotify.com/track/6XU42K9XBwGYLgXIsSegTp) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [J'veux pas dormir](https://open.spotify.com/album/6jhRh6BBSaurmvk0Lc40xb) | 3:27 | 2025-01-31 |  |
 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 | 2024-06-28 |  |
 | [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 | 2024-10-04 |  |
 | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/track/6dlGymd4InomupjnbFOoH5) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf) | 3:41 | 2024-08-23 |  |

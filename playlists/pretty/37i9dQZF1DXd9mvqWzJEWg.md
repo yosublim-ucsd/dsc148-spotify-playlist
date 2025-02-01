@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr?si=ORpbDLmbQfKi44Yf2GKaoQ">Vv Pete</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,593 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,625 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

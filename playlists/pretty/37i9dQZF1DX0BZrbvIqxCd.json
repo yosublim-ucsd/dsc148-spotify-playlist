@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 543887,
+  "num_followers": 543893,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Road to Ruin (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "I Wanna Be Sedated - 1999 Remaster",
-      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "The Black Market",
         "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 239960,
       "name": "I Don\u2019t Want To Be Here Anymore",
       "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Road to Ruin (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "I Wanna Be Sedated - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Railer",
-        "url": "https://open.spotify.com/album/5K0mQbB88KPh6eoTJUcbAp"
-      },
-      "artists": [
-        {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
-        }
-      ],
-      "duration_ms": 155005,
-      "name": "Stealing Light",
-      "url": "https://open.spotify.com/track/6VQbsmCXyrj3qNG00CGORa"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Paradise Lost, a poem by John Milton",
         "url": "https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 167920,
       "name": "Paradise Lost, a poem by John Milton",
       "url": "https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Railer",
+        "url": "https://open.spotify.com/album/5K0mQbB88KPh6eoTJUcbAp"
+      },
+      "artists": [
+        {
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+        }
+      ],
+      "duration_ms": 155005,
+      "name": "Stealing Light",
+      "url": "https://open.spotify.com/track/6VQbsmCXyrj3qNG00CGORa"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "In Spite of Me",
         "url": "https://open.spotify.com/album/7ge6k6ARpyvXqOmMlc0pjS"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 177280,
       "name": "Self Defeated",
       "url": "https://open.spotify.com/track/2oh897TvP4jf38T4P94Nlt"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
     },
     {
       "added_at": "2024-07-19 11:53:42",

@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 7599,
+  "num_followers": 7604,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABilb/6zFvb2NVVIef7fEr2",
+  "snapshot_id": "Z5rBAAAAAACGAj4WCWhUlRDMG4EaASi0",
   "tracks": [
     {
       "added_at": null,
@@ -238,11 +238,15 @@
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
+      "duration_ms": 196800,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
     },
     {
       "added_at": null,
@@ -306,15 +310,11 @@
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
+      "duration_ms": 183529,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man on Duty",
-        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Man on Duty",
-      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 220235,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man on Duty",
+        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Man on Duty",
+      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
     },
     {
       "added_at": null,
@@ -819,42 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Urban Pulse, Vol. 22",
-        "url": "https://open.spotify.com/album/6IWCQIYFEhc9roC6oofNYf"
-      },
-      "artists": [
-        {
-          "name": "Perfecta Ekpo",
-          "url": "https://open.spotify.com/artist/2KqUTB61bKvuqAGvzRrHoK"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 215275,
-      "name": "Go Low",
-      "url": "https://open.spotify.com/track/1g9xZjJ2oO0PZsxTt4wgbA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "COMPOZURE",
-      "url": "https://open.spotify.com/track/7hEnQlFTKJOkEpA23VQRHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solidstar",
         "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
       },
@@ -875,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
       },
       "artists": [
         {
@@ -884,9 +848,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Ukwu (Bonus)",
-      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
+      "duration_ms": 146666,
+      "name": "COMPOZURE",
+      "url": "https://open.spotify.com/track/7hEnQlFTKJOkEpA23VQRHQ"
     },
     {
       "added_at": null,
@@ -915,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Ukwu (Bonus)",
+      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CITIZEN OF THE WORLD",
         "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 178775,
       "name": "Get the Money",
       "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Urban Pulse, Vol. 22",
+        "url": "https://open.spotify.com/album/6IWCQIYFEhc9roC6oofNYf"
+      },
+      "artists": [
+        {
+          "name": "Perfecta Ekpo",
+          "url": "https://open.spotify.com/artist/2KqUTB61bKvuqAGvzRrHoK"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 215275,
+      "name": "Go Low",
+      "url": "https://open.spotify.com/track/1g9xZjJ2oO0PZsxTt4wgbA"
     }
   ],
   "unique_name": "This Is Timaya",

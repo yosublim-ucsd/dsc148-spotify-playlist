@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-201 songs - 8 hr 29 min
+202 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Ragnarok Suite](https://open.spotify.com/track/646yYgVW5sZWJloaGEW728) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Thor: Ragnarok \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gecrZPdDxMlVxBtpobpxr) | 8:53 | 2024-01-05 |  |
 | [Revolution Starts Here \(Battle Theme\)](https://open.spotify.com/track/5rOaFnl9mzHUnXzeQpAfaL) | [Netmarble Monster Sound Team](https://open.spotify.com/artist/4FltW3DdTf4VjREPFrpmBq) | [MARVEL Future Revolution: The Convergence Soundtrack \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7xdi478x5z8DrcRcC7WG1w) | 2:00 | 2024-01-05 |  |
 | [Rio](https://open.spotify.com/track/5AlqGtj7IAJnyGmWFS0Z7D) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 1 \(Episodes 1\-5\) \[Original Soundtrack\]](https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX) | 3:00 | 2024-10-15 | 2025-01-31 |
+| [Rivals](https://open.spotify.com/track/3Qm2T0JIIxyOsSIVTMY18j) | [Christopher Alan Grabar](https://open.spotify.com/artist/6Iqjhmr12uPpkWTLuTKjAp) | [MARVEL SNAP Vol\. 3 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/1rMNzLgjGRGgf56sldvPFJ) | 3:25 | 2025-02-01 |  |
 | [Run It \(feat\. Rick Ross & Rich Brian\)](https://open.spotify.com/track/5x4vgABKiGp4Vg7ZyFRxhn) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:43 | 2024-01-05 |  |
 | [Save The City](https://open.spotify.com/track/4Bt0pQudNqNlEkCY4yGlOR) | [Adam Pascal](https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi), [Ty Taylor](https://open.spotify.com/artist/7FxLKkFmNsDT54KrzN2HJn), [Rory Donovan](https://open.spotify.com/artist/0grxoC9qsB0dfpVxjOTmxx), [Derek Klena](https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw), [Bonnie Milligan](https://open.spotify.com/artist/2dWTkKrPGvkwSTSuRSwJNc), [Christopher Sieber](https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797), [Shayna Steele](https://open.spotify.com/artist/7tJc7ubifEnRE29FLtCHTE) | [Hawkeye: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC) | 4:26 | 2024-01-05 |  |
 | [She Hulk by Titania](https://open.spotify.com/track/1OMFjv93K0XNDXhNFzapxX) | [Amie Doherty](https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf) | [She\-Hulk: Attorney at Law \- Vol\. 2 \(Episodes 5\-9\) \[Original Soundtrack\]](https://open.spotify.com/album/2UWsCSGtXlnRxlvezquZ5k) | 1:24 | 2024-01-05 |  |

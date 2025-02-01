@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  حُسين
+> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: للّا فضة
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,280 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,309 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 |
 | 40 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 |
 
-Snapshot ID: `Z5nUSAAAAABQAv0X/M9LoRH7wnM1nDIs`
+Snapshot ID: `Z5x6VgAAAAAikZd0PM0uejHEMmntTZaD`

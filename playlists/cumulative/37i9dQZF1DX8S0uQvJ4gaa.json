@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Ty Myers",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Cameron Whitcomb",
   "name": "New Boots",
   "tracks": [
     {
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 183191,
       "name": "Always Be Mine",
       "url": "https://open.spotify.com/track/7dG5PEETAeTTPGDBitMnOo"
@@ -5774,7 +5774,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 194621,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/4PmGnPVc9mpm8HSSdfI2TP"
@@ -7598,6 +7598,24 @@
       "duration_ms": 205706,
       "name": "Cross Country (feat. Mickey Guyton)",
       "url": "https://open.spotify.com/track/3yf1lOT3aAaVzkyDYkxQLF"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/1Gaiu1cJCUNwq3jHsmKa6V"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7ptWyLiZFt1M21sq3gsbVY"
     },
     {
       "album": {
@@ -9764,6 +9782,24 @@
       "duration_ms": 208813,
       "name": "Driver's Seat",
       "url": "https://open.spotify.com/track/51RJ8Gpj4nmmn0rtprsjjP"
+    },
+    {
+      "album": {
+        "name": "DRIVES MY TRUCK",
+        "url": "https://open.spotify.com/album/6gJPKRr9WMjUIhRAcw1NSQ"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185807,
+      "name": "DRIVES MY TRUCK",
+      "url": "https://open.spotify.com/track/296DcuFREy44rdM35rdIyn"
     },
     {
       "album": {
@@ -15844,7 +15880,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 164000,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/5IOnG2HrnO062RDwgx0TuO"
@@ -17667,6 +17703,24 @@
     },
     {
       "album": {
+        "name": "Hundred Mile High",
+        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172181,
+      "name": "Hundred Mile High",
+      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
+    },
+    {
+      "album": {
         "name": "Hung Up on You",
         "url": "https://open.spotify.com/album/6uLznR1dDQtiPu7QRYDgOK"
       },
@@ -18058,6 +18112,28 @@
       "duration_ms": 192773,
       "name": "I Could Be That Rain",
       "url": "https://open.spotify.com/track/7fBDo5rkKphtAqiDc21wWH"
+    },
+    {
+      "album": {
+        "name": "I Dare You",
+        "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
     },
     {
       "album": {
@@ -20676,7 +20752,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 187868,
       "name": "Keep Your Promises",
       "url": "https://open.spotify.com/track/0m7ViYXdzWztYV0VSMY2Pl"
@@ -20774,6 +20850,24 @@
       "duration_ms": 237020,
       "name": "Kids",
       "url": "https://open.spotify.com/track/2EJBb3MDWCoXh5vRntYVP4"
+    },
+    {
+      "album": {
+        "name": "Kill A Prayer",
+        "url": "https://open.spotify.com/album/03Tbg7HutFg1bM557zjCj3"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "Kill A Prayer",
+      "url": "https://open.spotify.com/track/6mFrsOwzg8ieFWqOZzLmgA"
     },
     {
       "album": {
@@ -25914,7 +26008,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 262306,
       "name": "Never Really Know",
       "url": "https://open.spotify.com/track/0dOxMm35ORIZt7rZIzQbQ1"
@@ -28298,7 +28392,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 187480,
       "name": "Over When We're Sober",
       "url": "https://open.spotify.com/track/6h0U5OMGMZIysE4Apgf4ju"
@@ -30710,6 +30804,24 @@
       "duration_ms": 183563,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/3PyRSNu87qhTv5UwGrkedR"
+    },
+    {
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/2hzfsXvPd05ugr6pqH2di3"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183596,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/5k3G0MgnPBooPAxOkns8Nq"
     },
     {
       "album": {
@@ -36990,7 +37102,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193294,
       "name": "Things That I Can\u2019t Change",
       "url": "https://open.spotify.com/track/6cBPTMkOpYcJHD72fU8SkK"
@@ -38262,7 +38374,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 212954,
       "name": "Truck Still Works",
       "url": "https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN"
@@ -39041,6 +39153,24 @@
     },
     {
       "album": {
+        "name": "Wait Til You Have Kids",
+        "url": "https://open.spotify.com/album/0rhjxBVddnoSt8MGA52blw"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164656,
+      "name": "Wait Til You Have Kids",
+      "url": "https://open.spotify.com/track/14qSXL0GBRUpHTcGMzr124"
+    },
+    {
+      "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
@@ -39770,6 +39900,24 @@
       "duration_ms": 192678,
       "name": "We'll Figure It Out",
       "url": "https://open.spotify.com/track/3ChafuvxUhJG99cIyvodI4"
+    },
+    {
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7FiYnZCWZwGEz5aq5IM1Zj"
+      },
+      "artists": [
+        {
+          "name": "Preston Cooper",
+          "url": "https://open.spotify.com/artist/3ehyYSVGY0cusNEOEB7APx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214873,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/5BS6zPEcgWaOzY8Yl7HNCN"
     },
     {
       "album": {

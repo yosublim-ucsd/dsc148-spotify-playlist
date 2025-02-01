@@ -2837,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "Estoy Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159755,
+      "name": "Estoy Aqu\u00ed - Remix",
+      "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
+    },
+    {
+      "album": {
         "name": "Eu Gosto Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
       },
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 176979,
       "name": "FANTASMA (vers\u00e3o Forr\u00f3)",
       "url": "https://open.spotify.com/track/1cV8iYOKdCh5HQ1PxYiOSk"
@@ -4228,7 +4250,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 152078,
       "name": "Lugar Perfeito",
       "url": "https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0"
@@ -6173,6 +6195,28 @@
     },
     {
       "album": {
+        "name": "Pega Pega",
+        "url": "https://open.spotify.com/album/5hbmDXVfBit3tgCCidiZlx"
+      },
+      "artists": [
+        {
+          "name": "Kiko Chicabana",
+          "url": "https://open.spotify.com/artist/6XcDYZyF8otmTfCS6xseyl"
+        },
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Pega Pega",
+      "url": "https://open.spotify.com/track/1q75dfmlgQYqaR9X0slTI3"
+    },
+    {
+      "album": {
         "name": "Pel\u00edcula de Vidro (Ao Vivo)",
         "url": "https://open.spotify.com/album/7psl0XwwmQZArUR3efXKgx"
       },
@@ -7348,10 +7392,28 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 347769,
       "name": "Sempre Ser\u00e1 / Tenta\u00e7\u00e3o / Nossa Guerra Santa / T\u00e1 Na Cara - Ao Vivo",
       "url": "https://open.spotify.com/track/6NVxSsPCFVBvxUI7Pix8mv"
+    },
+    {
+      "album": {
+        "name": "Sensa\u00e7\u00e3o No Batid\u00e3o - Solinho Envolvente",
+        "url": "https://open.spotify.com/album/3W2sv0U512n96sebcvw7KY"
+      },
+      "artists": [
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262375,
+      "name": "Sensa\u00e7\u00e3o No Batid\u00e3o - Solinho Envolvente",
+      "url": "https://open.spotify.com/track/6IyQ5Jr4yiNACYI3TdFWbl"
     },
     {
       "album": {
@@ -7734,7 +7796,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "S\u00e3o Amores",
       "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
@@ -7770,7 +7832,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 203337,
       "name": "S\u00f3 F\u00e9",
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"

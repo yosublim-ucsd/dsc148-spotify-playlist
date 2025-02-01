@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17351,
+  "num_followers": 17353,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALxr1iCEU0C0nhXC2YnRwVEoxUbTmb",
+  "snapshot_id": "AAALyAL7JXiJzZEAsAjqjvNj2ZieKM2h",
   "tracks": [
+    {
+      "added_at": "2025-01-31 13:50:38",
+      "album": {
+        "name": "Bumpy's Weekend",
+        "url": "https://open.spotify.com/album/05Ir7UhaHYEoVQGrnocVIh"
+      },
+      "artists": [
+        {
+          "name": "Hector Gachan",
+          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
+        }
+      ],
+      "duration_ms": 161211,
+      "name": "Bumpy's Weekend",
+      "url": "https://open.spotify.com/track/3GHVZtUIcYXkwLFMwyP6qe"
+    },
     {
       "added_at": "2024-07-16 10:27:49",
       "album": {

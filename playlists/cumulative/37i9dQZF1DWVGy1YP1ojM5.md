@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-243 songs - 13 hr 53 min
+244 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 | 2022-10-03 |  |
 | [One Night Only](https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [One Night Only](https://open.spotify.com/album/4r2K4gqWp5VAgOvwtGDhYY) | 3:15 | 2022-10-03 |  |
 | [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 | 2022-03-25 | 2022-07-19 |
+| [Only You](https://open.spotify.com/track/7cDS3bRy6oqshyCjLk0ukF) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Only You](https://open.spotify.com/album/1d31lqTTJeiFFibQ2cKW3j) | 4:08 | 2025-01-31 |  |
 | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl) | 4:00 | 2023-02-12 |  |
 | [Orange Freestyle](https://open.spotify.com/track/298n0lKgacjlJwANMrU1Gp) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Orange Freestyle](https://open.spotify.com/album/590arXwGLJiuOqyF1CIuBc) | 1:56 | 2021-08-13 | 2022-09-10 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2022-10-04 |
@@ -216,7 +217,7 @@
 | [Take You Down](https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:05 | 2023-02-12 |  |
 | [Take You There](https://open.spotify.com/track/0jq34bzlBreNWsnp8rvlvK) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:03 | 2022-10-03 |  |
 | [Taking Off](https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Full Circle: Sonic Book Two](https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx) | 3:49 | 2024-01-12 | 2024-01-28 |
-| [Tap Out](https://open.spotify.com/track/0y4GuddrvXYg6pNLIb35OB) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 3:00 | 2024-05-17 |  |
+| [Tap Out](https://open.spotify.com/track/0y4GuddrvXYg6pNLIb35OB) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 3:00 | 2024-05-17 | 2025-02-01 |
 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 | 2023-05-25 |  |
 | [Teen Scene feat\. Buddy](https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Teen Scene feat\. Buddy](https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF) | 4:10 | 2021-08-13 | 2022-10-04 |
 | [That's Why I Love You](https://open.spotify.com/track/1826XXl1rbdbhFk5xdnXNA) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 4:01 | 2022-10-03 | 2024-04-19 |

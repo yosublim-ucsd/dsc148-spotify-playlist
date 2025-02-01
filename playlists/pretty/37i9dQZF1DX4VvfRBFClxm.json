@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1477677,
+  "num_followers": 1477716,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Untamed",
-        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Burning House",
-      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Grenade Sessions",
         "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 249535,
       "name": "Grenade - Acoustic",
       "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Untamed",
+        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 196359,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Keeping The Light On",
         "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lost On You",
-        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 195579,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
+      "duration_ms": 196359,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1735,6 +1719,22 @@
       "duration_ms": 211000,
       "name": "Lego House",
       "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 195579,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1835,38 +1835,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Blindside (Acoustic)",
-        "url": "https://open.spotify.com/album/2T1VAV84jseAzOnK6l48PY"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Blindside - Acoustic",
-      "url": "https://open.spotify.com/track/3r5x5Y6xj4WQ8b6ig63VvS"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "TFDI",
-        "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
-      },
-      "artists": [
-        {
-          "name": "TFDI",
-          "url": "https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Craving (Acoustic)",
         "url": "https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO"
       },
@@ -1879,6 +1847,22 @@
       "duration_ms": 226240,
       "name": "Craving - Acoustic Version",
       "url": "https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Blindside (Acoustic)",
+        "url": "https://open.spotify.com/album/2T1VAV84jseAzOnK6l48PY"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Blindside - Acoustic",
+      "url": "https://open.spotify.com/track/3r5x5Y6xj4WQ8b6ig63VvS"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1911,6 +1895,22 @@
       "duration_ms": 213600,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "TFDI",
+        "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
+      },
+      "artists": [
+        {
+          "name": "TFDI",
+          "url": "https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
     },
     {
       "added_at": "2024-07-12 04:00:00",

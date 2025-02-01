@@ -2047,6 +2047,32 @@
     },
     {
       "album": {
+        "name": "If You're Happy and You Know - It Clap Your Hands",
+        "url": "https://open.spotify.com/album/5gPJuaeypFGQ5CHOnE1T3F"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes and Kids Songs",
+          "url": "https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO"
+        },
+        {
+          "name": "Twinkle Twinkle Little Star",
+          "url": "https://open.spotify.com/artist/0ZsOdbAgZ60UYsgKCUzJKY"
+        },
+        {
+          "name": "Lullaby Babies",
+          "url": "https://open.spotify.com/artist/695nGpWc1okscGp3hZklgP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144269,
+      "name": "If You're Happy and You Know - It Clap Your Hands",
+      "url": "https://open.spotify.com/track/0Kg0UEy9QxawjDgGaUp7ES"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music Nursery Rhymes Vol. 1",
         "url": "https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X"
       },
@@ -2094,7 +2120,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 92853,
       "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/62pjp2SjPEGn0frGFVCJoV"

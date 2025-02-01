@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Argüello, Naty Botero
 
-417 songs - 20 hr 33 min
+418 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Dark Days](https://open.spotify.com/track/0hR5LkJ583zCT6SeNacuBV) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Dark Days](https://open.spotify.com/album/3s2OsUcKQigkeEnnU5ZHfg) | 2:33 | 2024-12-19 | 2025-01-17 |
 | [Darwin Falls](https://open.spotify.com/track/0yjL09GgRzFelbzQyzIZ4F) | [St.Laurent](https://open.spotify.com/artist/0A73QeqBxrglNUEnOSToN9) | [Darwin Falls](https://open.spotify.com/album/5r11NZrelXZXkHYOuCLCjD) | 3:35 | 2024-08-09 | 2024-08-20 |
 | [Deep Inside](https://open.spotify.com/track/3hKMIrOeHvFf2NDOHICtky) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [jezza](https://open.spotify.com/artist/2YZps3kJrYKdfJxLWTAhMm) | [Deep Inside](https://open.spotify.com/album/05w1QSDXTmTEdQiwrvuZGo) | 2:20 | 2024-05-02 | 2024-05-11 |
+| [Delirious \(French Version\)](https://open.spotify.com/track/5nGPbqEmQ3ZutQGX4EHw9J) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Delirious \(French Version\)](https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2) | 2:56 | 2025-01-31 |  |
 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 | 2024-12-19 | 2025-01-31 |
 | [Different](https://open.spotify.com/track/7s1KGmGP2N34VVwXf61rIy) | [Zaerd](https://open.spotify.com/artist/3FKsmekOtx5vmiE9lSbjLU) | [Different](https://open.spotify.com/album/7sdlaHbsUtSWjh8O1zzQBQ) | 3:15 | 2024-08-09 | 2024-08-20 |
 | [Disco Marathon \(feat\. NEEKA\)](https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Disco Marathon \(feat\. NEEKA\)](https://open.spotify.com/album/00g9nQ0HVCvPIN6qEwQww8) | 2:16 | 2024-06-14 | 2024-06-21 |

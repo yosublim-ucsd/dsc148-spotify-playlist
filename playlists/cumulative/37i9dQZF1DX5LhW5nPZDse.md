@@ -4,7 +4,7 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-42 songs - 2 hr 23 min
+43 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Run Me Through](https://open.spotify.com/track/7CrDFAh7rogCZlnCmWeYzi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 4:44 | 2025-01-30 |  |
 | [skeleton](https://open.spotify.com/track/3N4BAdqBTFuWqgCIkqU3hR) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [skeleton](https://open.spotify.com/album/2b920brJm4zSDEp2M6GKJp) | 2:23 | 2025-01-30 |  |
 | [Somewhere to Dream](https://open.spotify.com/track/6eTgBw5HOIonORsy0iWJ0o) | [Jay Ramsey](https://open.spotify.com/artist/1SS414roSdAE4B7bUsr3Az) | [Jay Ramsey Anthology, Vol\. 3](https://open.spotify.com/album/7Jso93nDvuqkTpzmMhvm3A) | 3:27 | 2025-01-30 |  |
+| [Speak of the Devil](https://open.spotify.com/track/5oY8aeZ2MqPKMA6fEMglcM) | [Saint Middleton](https://open.spotify.com/artist/6wbRCBmxAVoXhUPG5fx0vY), [Alisa](https://open.spotify.com/artist/2noH86g1p2jetkEpO05Fmp) | [Speak of the Devil](https://open.spotify.com/album/4NnumGJXtPH3g8MxUX42yJ) | 2:57 | 2025-01-31 |  |
 | [Spinning Wheel](https://open.spotify.com/track/5GWKbyxKT7pMJbhP5mX17m) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Black Honey \(Deluxe\)](https://open.spotify.com/album/7AJTVMYgX1xDrufcavMUk1) | 3:25 | 2025-01-30 |  |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2025-01-30 |  |
 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 | 2025-01-30 |  |

@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/6XtxwJB1f2CM4q6OZOnMtQ"
+      },
+      "artists": [
+        {
+          "name": "Louie Blue",
+          "url": "https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205463,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/0GqRI02xFG27DtgbO8tOrb"
+    },
+    {
+      "album": {
         "name": "Do I Do",
         "url": "https://open.spotify.com/album/6qMzV5XcEmrofQPYtci0Np"
       },
@@ -5712,7 +5730,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162573,
       "name": "Neiti etsiv\u00e4",
       "url": "https://open.spotify.com/track/2G3rEJIk1oEVRLMl3fGMR1"

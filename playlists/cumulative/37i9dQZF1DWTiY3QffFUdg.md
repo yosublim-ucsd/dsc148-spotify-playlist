@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-247 songs - 13 hr 8 min
+248 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [I FOUND](https://open.spotify.com/track/2umda0epmmWxyTddI1o9fv) | [Tiefundton](https://open.spotify.com/artist/1M8Qepgsc1j5MzQor7uTE6) | [I FOUND](https://open.spotify.com/album/5Pcfj2L9TPGWx2glDLFJ3B) | 6:09 | 2024-07-16 |  |
 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-07 |  |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-10-20 | 2024-07-15 |
-| [I WANT YOUR LOVE](https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [I WANT YOUR LOVE](https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU) | 2:02 | 2024-11-08 |  |
+| [I WANT YOUR LOVE](https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [I WANT YOUR LOVE](https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU) | 2:02 | 2024-11-08 | 2025-02-01 |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/1OYKOmLoDZEm2FXQjb9rlB) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [I Was Made For Lovin' You](https://open.spotify.com/album/0GZsv8iYqVqDIDK4Zr8qyg) | 2:59 | 2025-01-10 |  |
 | [I'm Sorry \- southstar Remix](https://open.spotify.com/track/1DCR3o15qC2degQEYG5K2R) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D), [sowhy3](https://open.spotify.com/artist/1U1FxSl6bYeFUeGcg8KOsE) | [Digital Chaos](https://open.spotify.com/album/7t8XvETweKzk5YjRfTQzYA) | 3:34 | 2024-07-12 |  |
 | [I'm The Devil](https://open.spotify.com/track/1xY26fxfR9QVrax98xxPLL) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I'm The Devil](https://open.spotify.com/album/6AlsrLgmF5o7TiuX9w8Fgz) | 2:52 | 2024-08-16 | 2024-11-10 |
@@ -227,6 +227,7 @@
 | [The Blaze](https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:30 | 2023-08-11 | 2023-09-06 |
 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-20 | 2023-11-18 |
 | [The Chosen](https://open.spotify.com/track/56IDx1YZczUBwoF1akoEd7) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [The Chosen](https://open.spotify.com/album/65grCGKrfvYxtWMyl66Jmo) | 4:13 | 2024-05-17 | 2024-09-09 |
+| [The Clock](https://open.spotify.com/track/32VpVzg1Tx5VMJgGMHr7hb) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Widemode](https://open.spotify.com/artist/1oB55C2OgosjV7fLfhNoMS) | [The Clock](https://open.spotify.com/album/4bTD9Z9RTHJuVQKERPDORh) | 1:47 | 2025-01-31 |  |
 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/0F0yYh9U7guh1TWuViZY25) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/26bNeSIqRIR07yvPW1K2h7) | 2:25 | 2024-05-24 | 2024-11-06 |
 | [The Parade \(Techno Remix\)](https://open.spotify.com/track/3j9RucX8VImndwic630g9w) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [The Parade \(Techno Remix\)](https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK) | 1:55 | 2023-09-01 | 2023-09-28 |
 | [The Procedure \- Original Mix](https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure EP](https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ) | 3:13 | 2023-08-25 | 2023-10-08 |

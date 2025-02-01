@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,379 likes - 100 songs - 4 hr 59 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,378 likes - 102 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 98 | [Control It](https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Control It](https://open.spotify.com/album/2Q7iqxF7OISCmS6WR2AQca) | 3:16 |
 | 99 | [I Wanna Be U](https://open.spotify.com/track/1WW6raNvbxQ3zqScGHr7Ym) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [I Wanna Be U](https://open.spotify.com/album/5DDLVW7ulqWjEI2biaX9PQ) | 2:22 |
 | 100 | [Feel My Needs](https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feel My Needs](https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn) | 2:30 |
+| 101 | [Freak Out](https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Freak Out](https://open.spotify.com/album/6DGCEXrMI3ZJ4Cy1Hns3NQ) | 2:53 |
+| 102 | [Life](https://open.spotify.com/track/33jZTXHw1CvUqai4Jum4Nc) | [Bottom Lip](https://open.spotify.com/artist/1kGshKeUGUyFii95MRyIiJ), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Life](https://open.spotify.com/album/3bNsBu66DMg1VGL5O547Zj) | 4:38 |
 
-Snapshot ID: `AAAKMzplCDFUfaZaRKsPGq6Q8sXr9M4S`
+Snapshot ID: `AAAKNfr6XgP+q5qn6+puGYjqs9dg+Tc9`

@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 334187,
+  "num_followers": 334196,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -102,15 +102,11 @@
         {
           "name": "Ferrugem",
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
         }
       ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+      "duration_ms": 204681,
+      "name": "Sinto sua falta - Ao vivo",
+      "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -298,11 +294,15 @@
         {
           "name": "Ferrugem",
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
         }
       ],
-      "duration_ms": 204681,
-      "name": "Sinto sua falta - Ao vivo",
-      "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "12 Horas",
-        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "12 Horas",
-      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "12 Horas",
+        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "12 Horas",
+      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 173136,
+      "name": "Disk Me",
+      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Resenha l\u00e1 em casa",
         "url": "https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 236852,
       "name": "Resenha l\u00e1 em casa",
       "url": "https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 173136,
-      "name": "Disk Me",
-      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/3TgRfu57g7p1rrmLs6X3Dv"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Batid\u00e3o Do Playboy 2",
+        "url": "https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn"
+      },
+      "artists": [
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "Pode Me Bloquear",
+      "url": "https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Quero Que Tu V\u00e1",
         "url": "https://open.spotify.com/album/0JkqxwCPsumktyGvbytKbh"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Batid\u00e3o Do Playboy 2",
-        "url": "https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn"
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
       },
       "artists": [
         {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
         }
       ],
-      "duration_ms": 188695,
-      "name": "Pode Me Bloquear",
-      "url": "https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H"
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
     },
     {
       "added_at": "2023-01-17 01:33:36",

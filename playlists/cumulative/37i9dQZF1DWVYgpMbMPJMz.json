@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  UPPERROOM",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Aohd\u00e1n King",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188238,
       "name": "Alone in It (Live)",
       "url": "https://open.spotify.com/track/3dpHqU2m4sDt7G4QA8B7Nr"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 270496,
       "name": "Come Into The Light",
       "url": "https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb"
@@ -2845,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210464,
+      "name": "Counting My Blessings",
+      "url": "https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO"
+    },
+    {
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 211307,
       "name": "Cross Shaped Life",
       "url": "https://open.spotify.com/track/4BlhaQDfRAn5HEBLlWWD8x"
@@ -3701,6 +3719,36 @@
     },
     {
       "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525758,
+      "name": "Firm Foundation (He Won't) [feat. Cody Carnes]",
+      "url": "https://open.spotify.com/track/6KY6K2UVCcYHkQyI4ePMSx"
+    },
+    {
+      "album": {
         "name": "Firm Foundation (He Won't)",
         "url": "https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT"
       },
@@ -4118,6 +4166,24 @@
       "duration_ms": 288302,
       "name": "Glory, Honor, Power - Acoustic",
       "url": "https://open.spotify.com/track/1jaJuzT4iyKOxXO6Dd2EOE"
+    },
+    {
+      "album": {
+        "name": "GOD DID! / Runnin With Angels",
+        "url": "https://open.spotify.com/album/55PaBZWs8KfXkbNGMZJoY7"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Sunday",
+          "url": "https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281138,
+      "name": "GOD DID!",
+      "url": "https://open.spotify.com/track/1q8tZJcuBNxsrfDRyYObcg"
     },
     {
       "album": {
@@ -4730,6 +4796,24 @@
       "duration_ms": 670769,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6eL0MTP4wcrELcg8MVsMT9"
+    },
+    {
+      "album": {
+        "name": "Beyond Us (Deluxe)",
+        "url": "https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Hallelujah (If Not For Your Love)",
+      "url": "https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR"
     },
     {
       "album": {
@@ -6632,7 +6716,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 298878,
       "name": "In The Name of Jesus (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C"
@@ -6684,7 +6768,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
@@ -6944,6 +7028,28 @@
       "duration_ms": 261422,
       "name": "It Is Finished - Live",
       "url": "https://open.spotify.com/track/6JLnmZ7kiCDt0mrcsEwnPj"
+    },
+    {
+      "album": {
+        "name": "It Is Well with My Soul",
+        "url": "https://open.spotify.com/album/6RdVWeclmDETKRhGtMNaEF"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        },
+        {
+          "name": "Travis Clark",
+          "url": "https://open.spotify.com/artist/4GdxPCUc1CXEoynATy6qe5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197474,
+      "name": "It Is Well with My Soul",
+      "url": "https://open.spotify.com/track/4MIbbdMo5BN1TQMq2VRBDR"
     },
     {
       "album": {
@@ -8488,7 +8594,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 261092,
       "name": "Making Room",
       "url": "https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt"
@@ -10407,6 +10513,36 @@
     },
     {
       "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304535,
+      "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
+      "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
+    },
+    {
+      "album": {
         "name": "Praise Be",
         "url": "https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV"
       },
@@ -10548,6 +10684,24 @@
       "duration_ms": 236133,
       "name": "Praise You Again",
       "url": "https://open.spotify.com/track/7yjVjoKMKyuZzhgss0h9iS"
+    },
+    {
+      "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215746,
+      "name": "PRAISE YOU ANYWHERE",
+      "url": "https://open.spotify.com/track/1mMmA3puXjtI9EzrScvE86"
     },
     {
       "album": {
@@ -10698,6 +10852,32 @@
       "duration_ms": 173685,
       "name": "Presence - Songs For Church (Live)",
       "url": "https://open.spotify.com/track/6wSrsO9M19OaBHqj0sL1X0"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
       "album": {
@@ -12381,6 +12561,24 @@
     },
     {
       "album": {
+        "name": "Thank You For The Cross",
+        "url": "https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270994,
+      "name": "Thank You For The Cross",
+      "url": "https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf"
+    },
+    {
+      "album": {
         "name": "Thank You for What You've Done (feat. The Band Table)",
         "url": "https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq"
       },
@@ -12462,7 +12660,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 249173,
       "name": "Thank You So Much Jesus",
       "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
@@ -12496,6 +12694,24 @@
       "duration_ms": 345816,
       "name": "That We Might Overcome",
       "url": "https://open.spotify.com/track/3UbjooXOOlnYqLtOCkio9P"
+    },
+    {
+      "album": {
+        "name": "That's My King",
+        "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250477,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
     },
     {
       "album": {
@@ -12557,6 +12773,32 @@
     },
     {
       "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514664,
+      "name": "The Blessing - Live",
+      "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
+    },
+    {
+      "album": {
         "name": "Live From Europe",
         "url": "https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB"
       },
@@ -12572,7 +12814,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 489875,
       "name": "The Blessing - Live From Europe",
       "url": "https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM"
@@ -12612,7 +12854,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 340624,
       "name": "The Blood Of Jesus - Live",
       "url": "https://open.spotify.com/track/4IBee17YDcWnLviAheYZIN"
@@ -12886,6 +13128,28 @@
     {
       "album": {
         "name": "The King Is Coming (Live)",
+        "url": "https://open.spotify.com/album/3WGGL4tDZx05hHJkgb4Dw5"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Tyler Roberts",
+          "url": "https://open.spotify.com/artist/68Sjp48hN3vviXfeLkb16p"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390657,
+      "name": "The King Is Coming (Live)",
+      "url": "https://open.spotify.com/track/3AR2Tp3BJlJh4Fwdn9RAcz"
+    },
+    {
+      "album": {
+        "name": "The King Is Coming (Live)",
         "url": "https://open.spotify.com/album/56MsqgmCerGPZtCnfDE5LH"
       },
       "artists": [
@@ -12900,7 +13164,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 390657,
       "name": "The King Is Coming (Live)",
       "url": "https://open.spotify.com/track/7IBZQi2dtpNJJcj2HjUdWg"
@@ -14376,7 +14640,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
@@ -14578,6 +14842,32 @@
       "duration_ms": 198186,
       "name": "What A Good God - Acoustic",
       "url": "https://open.spotify.com/track/3kA2LREe8zz9pvgwPR12jY"
+    },
+    {
+      "album": {
+        "name": "What A Miracle (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/7pAfxjEYm5QNs7O9JUCtRX"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354223,
+      "name": "What A Miracle (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1GkgOYQ797fsxJ3BvrBOBH"
     },
     {
       "album": {
@@ -15167,6 +15457,28 @@
     },
     {
       "album": {
+        "name": "Worthy Of It All + Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/6znEf58Zw2RuOOwkWfBf90"
+      },
+      "artists": [
+        {
+          "name": "Metro Collective Worship",
+          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
+        },
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319499,
+      "name": "Worthy Of It All + Nothing But The Blood (Live)",
+      "url": "https://open.spotify.com/track/673DfckxPqLXZnkGqspIhm"
+    },
+    {
+      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -15450,6 +15762,24 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
+    },
+    {
+      "album": {
+        "name": "You Can (Live)",
+        "url": "https://open.spotify.com/album/1Z6FZyk5n0ZKmkMtlxUprl"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425250,
+      "name": "You Can - Live",
+      "url": "https://open.spotify.com/track/15EwhHEpjlL5HfUdp44LFi"
     },
     {
       "album": {

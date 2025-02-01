@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "Kindred Spirit",
+        "url": "https://open.spotify.com/album/1vQzaXKZk4UH7MWw7qig95"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Kindred Spirit",
+      "url": "https://open.spotify.com/track/3Sxa7K0sVj5SvK8DPwmZGA"
+    },
+    {
+      "album": {
         "name": "Staden",
         "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
       },
@@ -5987,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/6pgKASOwqNzcedfkVriGIy"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119866,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax"
+    },
+    {
+      "album": {
         "name": "The Old Chapel",
         "url": "https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL"
       },
@@ -6196,7 +6232,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 121394,
       "name": "Torpet",
       "url": "https://open.spotify.com/track/59klDnqZsQo97d309brDWo"

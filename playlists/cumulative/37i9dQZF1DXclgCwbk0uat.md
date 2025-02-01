@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Bad Bunny.
 
-451 songs - 1 day 1 hr 4 min
+452 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [ANDO CON EL KI](https://open.spotify.com/track/0cl9khQF0SgpNpexsRUgfH) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ANDO CON EL KI](https://open.spotify.com/album/5iX6Gk0mj4LMszQLMXU2ut) | 3:57 | 2024-07-25 | 2024-08-30 |
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-09 | 2022-08-12 |
 | [Anti Rana](https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Anti Rana](https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW) | 3:09 | 2022-04-14 | 2022-08-12 |
-| [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 | 2024-05-23 |  |
+| [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 | 2024-05-23 | 2025-02-01 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-24 |  |
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-23 | 2023-04-14 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-14 | 2022-06-10 |
@@ -210,6 +210,7 @@
 | [MADRID](https://open.spotify.com/track/2fXKhkTskJr2zi7iZJmDOq) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [MADRID](https://open.spotify.com/album/4uv3gpD1EVnI2NtDsCIL0D) | 3:15 | 2023-05-04 | 2023-10-24 |
 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 | 2022-11-17 | 2023-03-25 |
 | [Mami No Estés Triste](https://open.spotify.com/track/0zbZ35wheiBtqPH2noBVhF) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [Mami No Estés Triste](https://open.spotify.com/album/1zfbqj4jWdHyMtOQJKdMA3) | 6:49 | 2023-06-01 | 2023-06-30 |
+| [Mami ven aquí](https://open.spotify.com/track/30kHpDWzo0R7v6XbpImuIj) | [Napoles](https://open.spotify.com/artist/4mqcM1hVacykEmQIB0aJvO), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Mati Bomba](https://open.spotify.com/artist/2Co933aALjqO2S4kqXpntB) | [Mami ven aquí](https://open.spotify.com/album/3qAOToYUS4Cn0qKoGa9zv5) | 3:11 | 2025-01-31 |  |
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 | 2024-02-22 | 2024-04-19 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-04-14 | 2022-08-02 |
 | [Mandame Tu Ubi](https://open.spotify.com/track/7wGy7XfvDC7PRNtMQkHVuN) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Mandame Tu Ubi](https://open.spotify.com/album/45WA13uv01wbAKWnRtUTKJ) | 1:59 | 2022-12-09 | 2023-06-02 |

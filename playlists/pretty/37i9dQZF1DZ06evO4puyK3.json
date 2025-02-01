@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 163989,
+  "num_followers": 163996,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAADa87F5UEvvz4p1HeWlmzON",
+  "snapshot_id": "Z5rBAAAAAADyKFF6dZZ4uq7HXfhxRsgA",
   "tracks": [
     {
       "added_at": null,
@@ -888,13 +888,13 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         },
         {
-          "name": "MC Tchelinho",
-          "url": "https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 145056,
-      "name": "FOGO NO BARRACO",
-      "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
+      "duration_ms": 230907,
+      "name": "TUA INDECIS\u00c3O",
+      "url": "https://open.spotify.com/track/00Ofee5Bbfstz49RfSL0oM"
     },
     {
       "added_at": null,
@@ -976,13 +976,13 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         },
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+          "name": "MC Tchelinho",
+          "url": "https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv"
         }
       ],
-      "duration_ms": 230907,
-      "name": "TUA INDECIS\u00c3O",
-      "url": "https://open.spotify.com/track/00Ofee5Bbfstz49RfSL0oM"
+      "duration_ms": 145056,
+      "name": "FOGO NO BARRACO",
+      "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
     },
     {
       "added_at": null,

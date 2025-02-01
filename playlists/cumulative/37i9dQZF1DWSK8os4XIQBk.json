@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 228144,
       "name": "23",
       "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/5crNpsZuMt06e81Ppqp4PH"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 152813,
       "name": "Baggage",
       "url": "https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa"
@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Blue Jean Baby",
+        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132068,
+      "name": "Blue Jean Baby",
+      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
+    },
+    {
+      "album": {
         "name": "Queen Of Me (Royal Edition)",
         "url": "https://open.spotify.com/album/4MRl7r0BUG5GvRylLiU9Lp"
       },
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 149426,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/7Izl4h5dmmcfZiWp75nPeA"
@@ -4711,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
+    },
+    {
+      "album": {
         "name": "Grandfather",
         "url": "https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX"
       },
@@ -5179,6 +5215,24 @@
     },
     {
       "album": {
+        "name": "Here Lies the Fool",
+        "url": "https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Here Lies the Fool",
+      "url": "https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o"
+    },
+    {
+      "album": {
         "name": "Hey Mom I Made It",
         "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
       },
@@ -5635,6 +5689,24 @@
     },
     {
       "album": {
+        "name": "Hundred Mile High",
+        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172181,
+      "name": "Hundred Mile High",
+      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
+    },
+    {
+      "album": {
         "name": "Diamonds in a Whiskey Glass (Deluxe Diamond Edition)",
         "url": "https://open.spotify.com/album/3LZL4DbzZ6hJAM7dMTk8XO"
       },
@@ -5788,6 +5860,28 @@
       "duration_ms": 196013,
       "name": "I CAN'T WAIT TO LOVE YOU (feat. Anna Moon)",
       "url": "https://open.spotify.com/track/43IWK3QYSxvuE4aHoUlgrs"
+    },
+    {
+      "album": {
+        "name": "I Dare You",
+        "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
     },
     {
       "album": {
@@ -6220,6 +6314,24 @@
       "duration_ms": 209586,
       "name": "I'm On Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
+    },
+    {
+      "album": {
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
       "album": {
@@ -8601,6 +8713,24 @@
     },
     {
       "album": {
+        "name": "Night Diving",
+        "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Night Diving",
+      "url": "https://open.spotify.com/track/7bgVm7r759aqRHR027Shpf"
+    },
+    {
+      "album": {
         "name": "What Is Life?",
         "url": "https://open.spotify.com/album/1MvO3cHS9u4ryMntc55LqY"
       },
@@ -9778,7 +9908,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 198748,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/29bNH1yAWzCrtUTQ5tUhPg"
@@ -9912,7 +10042,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
@@ -13806,7 +13936,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 153906,
       "name": "What He'll Never Have",
       "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"

@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-198 songs - 12 hr 4 min
+199 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Get Your Head Out](https://open.spotify.com/track/6W6J3cFFQmrAMErlHJPzDJ) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:25 | 2024-05-30 |  |
 | [Glass Peach](https://open.spotify.com/track/5z7aFiU5cDVhWXxAUo9S21) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Hurricane Belle](https://open.spotify.com/album/0Lm2fvGlcaOhZMwD1JICVO) | 3:37 | 2021-10-15 | 2024-06-29 |
 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-06-28 |  |
-| [Grass is Grass](https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh) | [Bowes Road Band](https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu) | [Grass is Grass](https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw) | 4:10 | 2023-09-13 |  |
+| [Grass is Grass](https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh) | [Bowes Road Band](https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu) | [Grass is Grass](https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw) | 4:10 | 2023-09-13 | 2025-02-01 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2021-10-15 |  |
 | [Harlem River](https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv) | 4:37 | 2021-10-15 | 2024-04-11 |
 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2021-10-15 | 2023-10-27 |
@@ -83,7 +83,7 @@
 | [Hold U](https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:16 | 2021-10-15 | 2024-04-19 |
 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 | 2021-10-15 | 2024-04-19 |
 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 | 2021-10-15 |  |
-| [how](https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:03 | 2022-09-15 |  |
+| [how](https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:03 | 2022-09-15 | 2025-02-01 |
 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2021-10-15 |  |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-10-15 |  |
 | [I Love Vertigo](https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Ludi](https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA) | 2:26 | 2021-10-15 | 2024-12-19 |
@@ -147,6 +147,7 @@
 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 | 2021-10-15 | 2024-04-19 |
 | [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 | 2024-08-23 |  |
 | [Peace](https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 3:41 | 2021-10-15 | 2024-12-21 |
+| [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 | 2025-01-31 |  |
 | [Pillars](https://open.spotify.com/track/5M9P6amz3vkYOOTuV8HpXF) | [Nnic](https://open.spotify.com/artist/78RIY4A5dtJJVQvt51Q1ko) | [Pillars](https://open.spotify.com/album/659pBNsrtfm8dhyo02Drvk) | 3:30 | 2021-10-15 | 2024-12-02 |
 | [Polite](https://open.spotify.com/track/2SEM6i1v4kureWTjMiDE98) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Polite](https://open.spotify.com/album/2bouxxQ1WAFp5fC1XOJlLN) | 3:24 | 2021-10-15 | 2024-06-28 |
 | [Pray for Me](https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 7:14 | 2024-12-20 |  |
@@ -155,7 +156,7 @@
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-04-14 |  |
 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 | 2021-10-15 |  |
 | [Run A Red Light](https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Fuse](https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx) | 3:39 | 2023-12-20 |  |
-| [Run Away](https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Run Away](https://open.spotify.com/album/5m9teu8TOkn7BTglKeUdO4) | 3:39 | 2021-10-15 | 2025-01-04 |
+| [Run Away](https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Run Away](https://open.spotify.com/album/5m9teu8TOkn7BTglKeUdO4) | 3:39 | 2021-10-15 |  |
 | [Satellite](https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk) | [Midnight Sister](https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4) | [Painting the Roses](https://open.spotify.com/album/08QA8Et6U6Gv6oq94Bq9co) | 4:06 | 2021-10-15 | 2024-04-19 |
 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 | 2022-01-26 |  |
 | [say your way](https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx) | [Mohsin Zaman](https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs) | [say your way](https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7) | 2:50 | 2023-11-23 |  |

@@ -4,7 +4,7 @@
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-206 songs - 13 hr 39 min
+207 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A la plage](https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Juniore](https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k) | 3:38 | 2023-03-20 | 2024-06-27 |
 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2023-03-20 |  |
 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 | 2023-03-20 |  |
+| [AIO \- Bosq Remix](https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [AIO \(Bosq Remix\)](https://open.spotify.com/album/398yIs7sB6fNFJkpbMJcAg) | 3:13 | 2025-01-31 |  |
 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 | 2023-08-14 | 2024-08-04 |
 | [Are You Feeling Sad?](https://open.spotify.com/track/6iTHsvN6Mi2xaQ0igLNvTD) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Are You Feeling Sad?](https://open.spotify.com/album/5wTdvOpWCOokNlDRQDyLSm) | 2:38 | 2023-08-14 | 2024-06-01 |
 | [Atlantic Oscillations](https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE) | 5:51 | 2023-08-14 | 2024-06-20 |
@@ -176,7 +177,7 @@
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2023-03-20 |  |
 | [Sola](https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:50 | 2023-08-14 |  |
 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 | 2023-08-14 | 2024-05-04 |
-| [Souda Bay](https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb) | [DJ Telefkas](https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8) | [Souda Bay](https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt) | 3:30 | 2023-08-14 |  |
+| [Souda Bay](https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb) | [DJ Telefkas](https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8) | [Souda Bay](https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt) | 3:30 | 2023-08-14 | 2025-02-01 |
 | [Space Invaders](https://open.spotify.com/track/16snCJyuCvfjznfwHeYzvE) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Reggae gordo for days and extra days](https://open.spotify.com/album/7AaDhCvk72WXKICLHYDuHC) | 2:44 | 2023-12-12 | 2024-03-08 |
 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 | 2023-03-20 | 2023-08-05 |
 | [Starry Night](https://open.spotify.com/track/46KG2wmw38sYm1GoRHIsOW) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 6:38 | 2023-08-14 | 2024-04-19 |

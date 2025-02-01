@@ -1,28 +1,32 @@
 {
-  "description": "The best indie dance tracks of the moment \ud83e\udee8\ud83e\udee8 with nimino",
-  "num_followers": 884549,
+  "description": "The best indie dance tracks of the moment \ud83d\udc09 with The Knocks & Dragonette",
+  "num_followers": 884587,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5ebfwAAAADVT3/TyQYZtaGCju79y88l",
+  "snapshot_id": "Z5xY9gAAAAA8bnkrxvIIKj5iONdtTzL+",
   "tracks": [
     {
-      "added_at": "2025-01-24 05:00:49",
+      "added_at": "2025-01-31 05:00:38",
       "album": {
-        "name": "Shaking Things Up",
-        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY"
       },
       "artists": [
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Shaking Things Up",
-      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+      "duration_ms": 253862,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -47,6 +51,70 @@
       "duration_ms": 274920,
       "name": "Smalltown Boy (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
+    },
+    {
+      "added_at": "2025-01-31 05:00:38",
+      "album": {
+        "name": "On A Trip",
+        "url": "https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        }
+      ],
+      "duration_ms": 197799,
+      "name": "Currency (Count On Me) (ft Cimafunk and PAM\u00c9)",
+      "url": "https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS"
+    },
+    {
+      "added_at": "2025-01-24 05:00:49",
+      "album": {
+        "name": "Shaking Things Up",
+        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Shaking Things Up",
+      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
+    {
+      "added_at": "2025-01-10 05:00:33",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 156302,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -81,36 +149,20 @@
       "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
     },
     {
-      "added_at": "2025-01-24 18:55:36",
+      "added_at": "2025-01-31 05:00:38",
       "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/4j4Wny0imbaZ6lEuJ0PQu8"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
         }
       ],
-      "duration_ms": 265706,
-      "name": "Room Of Fools",
-      "url": "https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI"
-    },
-    {
-      "added_at": "2025-01-03 05:16:19",
-      "album": {
-        "name": "What Have You Done For Me Lately",
-        "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
-      },
-      "artists": [
-        {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
-        }
-      ],
-      "duration_ms": 209644,
-      "name": "What Have You Done For Me Lately",
-      "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
+      "duration_ms": 178124,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/1EZ3OFYIJrKNY5N2ZHw39l"
     },
     {
       "added_at": "2025-01-17 05:00:46",
@@ -153,28 +205,20 @@
       "url": "https://open.spotify.com/track/1ac3DHLii728GuifgZRjFh"
     },
     {
-      "added_at": "2025-01-24 05:00:49",
+      "added_at": "2025-01-31 05:00:38",
       "album": {
-        "name": "it's Franky baby!",
-        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
+        "name": "Live Or Die By Love",
+        "url": "https://open.spotify.com/album/6dBjWRMMfFXc5Zomv2oR9D"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+          "name": "lovetempo",
+          "url": "https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY"
         }
       ],
-      "duration_ms": 221602,
-      "name": "Give Thanks, Give Praise",
-      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+      "duration_ms": 228274,
+      "name": "Live Or Die By Love",
+      "url": "https://open.spotify.com/track/10h8uNxxeHZMvwHi2Qiqky"
     },
     {
       "added_at": "2025-01-24 05:00:49",
@@ -229,24 +273,20 @@
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
-      "added_at": "2025-01-24 05:00:49",
+      "added_at": "2025-01-24 18:55:36",
       "album": {
-        "name": "Can't You See?",
-        "url": "https://open.spotify.com/album/7L0bigqBGueBuPpp5QI2iK"
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
       },
       "artists": [
         {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        },
-        {
-          "name": "FLAT 22",
-          "url": "https://open.spotify.com/artist/1eQLSOs8Z1RB43eNMH3fAl"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 202857,
-      "name": "Can't You See?",
-      "url": "https://open.spotify.com/track/7AZ0MjV5ZDW5M57ZkyNpp9"
+      "duration_ms": 265706,
+      "name": "Room Of Fools",
+      "url": "https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -267,6 +307,50 @@
       "duration_ms": 239863,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
+    },
+    {
+      "added_at": "2025-01-24 05:00:49",
+      "album": {
+        "name": "Can't You See?",
+        "url": "https://open.spotify.com/album/7L0bigqBGueBuPpp5QI2iK"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        },
+        {
+          "name": "FLAT 22",
+          "url": "https://open.spotify.com/artist/1eQLSOs8Z1RB43eNMH3fAl"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Can't You See?",
+      "url": "https://open.spotify.com/track/7AZ0MjV5ZDW5M57ZkyNpp9"
+    },
+    {
+      "added_at": "2025-01-31 05:00:38",
+      "album": {
+        "name": "Bon Bon (Andrew VanWyngarden Remix)",
+        "url": "https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Andrew VanWyngarden",
+          "url": "https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG"
+        },
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 335168,
+      "name": "Bon Bon - Andrew VanWyngarden Remix",
+      "url": "https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598"
     },
     {
       "added_at": "2025-01-24 05:00:49",
@@ -301,10 +385,10 @@
       "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
     },
     {
-      "added_at": "2025-01-10 05:00:33",
+      "added_at": "2025-01-24 05:00:49",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
+        "name": "it's Franky baby!",
+        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
       },
       "artists": [
         {
@@ -312,17 +396,33 @@
           "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
         },
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
         },
         {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
         }
       ],
-      "duration_ms": 156302,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
+      "duration_ms": 221602,
+      "name": "Give Thanks, Give Praise",
+      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+    },
+    {
+      "added_at": "2025-01-03 05:16:19",
+      "album": {
+        "name": "What Have You Done For Me Lately",
+        "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "duration_ms": 209644,
+      "name": "What Have You Done For Me Lately",
+      "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
     },
     {
       "added_at": "2025-01-24 05:00:49",
@@ -371,6 +471,26 @@
       "duration_ms": 218418,
       "name": "Libero",
       "url": "https://open.spotify.com/track/5t0uCMCzg4rXR5n0xiaHBR"
+    },
+    {
+      "added_at": "2025-01-31 05:00:38",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3VSG0SB1fHnLOMt4zjbA6d"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 187839,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/1yC1hDCkGjI17vwrkb7No8"
     },
     {
       "added_at": "2025-01-24 05:00:49",
@@ -439,22 +559,6 @@
       "duration_ms": 238355,
       "name": "Open Ocean",
       "url": "https://open.spotify.com/track/4HtaVhJfwIiTbMq7TikODH"
-    },
-    {
-      "added_at": "2025-01-17 05:00:46",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/5HpQprUoMHa1O0mHOtvlTe"
-      },
-      "artists": [
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        }
-      ],
-      "duration_ms": 296863,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/3KUFOb7T3a1Qxv1cVwlsSt"
     },
     {
       "added_at": "2025-01-17 05:00:46",
@@ -549,30 +653,6 @@
       "url": "https://open.spotify.com/track/0njYthzChwavvcyKyD0CD4"
     },
     {
-      "added_at": "2024-12-23 22:02:12",
-      "album": {
-        "name": "Fauxllennium",
-        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 250624,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M"
-    },
-    {
       "added_at": "2025-01-24 05:00:49",
       "album": {
         "name": "It's So Over",
@@ -623,6 +703,22 @@
       "duration_ms": 150773,
       "name": "Childlike Things",
       "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
+    },
+    {
+      "added_at": "2025-01-17 05:00:46",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/5HpQprUoMHa1O0mHOtvlTe"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "duration_ms": 296863,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/3KUFOb7T3a1Qxv1cVwlsSt"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -755,6 +851,30 @@
       "duration_ms": 225389,
       "name": "DANCER",
       "url": "https://open.spotify.com/track/6sJJENLJiYnsDv3zY5LwTz"
+    },
+    {
+      "added_at": "2024-12-23 22:02:12",
+      "album": {
+        "name": "Fauxllennium",
+        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 250624,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -905,22 +1025,6 @@
       "url": "https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"
     },
     {
-      "added_at": "2025-01-17 05:00:46",
-      "album": {
-        "name": "Still Wonder (Gilligan Moss Remix)",
-        "url": "https://open.spotify.com/album/6XniBDMjazoJCFL12jruqz"
-      },
-      "artists": [
-        {
-          "name": "Gilligan Moss",
-          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
-        }
-      ],
-      "duration_ms": 241039,
-      "name": "Still Wonder - Gilligan Moss Remix",
-      "url": "https://open.spotify.com/track/6AUsWyPAPnBDTVdqEnd4KC"
-    },
-    {
       "added_at": "2024-12-13 05:00:16",
       "album": {
         "name": "Heartbeat",
@@ -973,82 +1077,6 @@
       "url": "https://open.spotify.com/track/26bF60vYrsNKijlusq2nqQ"
     },
     {
-      "added_at": "2024-11-29 06:43:52",
-      "album": {
-        "name": "Pure Love",
-        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        },
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        }
-      ],
-      "duration_ms": 264176,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
-    },
-    {
-      "added_at": "2024-12-23 22:02:12",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/0vml9J1KnyK1d5GYq0Yw7W"
-      },
-      "artists": [
-        {
-          "name": "Sailor & I",
-          "url": "https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/0GbMAovDlF0TiBjsL1zWO8"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4MjKKPVTVt0D019c7MuBQO"
-      },
-      "artists": [
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        },
-        {
-          "name": "Moceans",
-          "url": "https://open.spotify.com/artist/4sNqZN5imeFil3F2SnK8EZ"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/6oT432CZB5AqL84XAShAci"
-    },
-    {
-      "added_at": "2025-01-03 15:55:05",
-      "album": {
-        "name": "Leave Me Slowly (Babsy. Remix)",
-        "url": "https://open.spotify.com/album/5Idz2ZzmmvBk1lrlyvSUcy"
-      },
-      "artists": [
-        {
-          "name": "Starsmith",
-          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
-        },
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Leave Me Slowly - Babsy. Remix",
-      "url": "https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Into The Blue (feat. kamille) [Baltra Remix]",
@@ -1071,26 +1099,6 @@
       "duration_ms": 182922,
       "name": "Into The Blue (feat. kamille) [Baltra Remix]",
       "url": "https://open.spotify.com/track/3CcFc8SXjQMuT66rxwc2Az"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "1997 (let's go)",
-        "url": "https://open.spotify.com/album/2IALrjICfDfRoCbQGny6HP"
-      },
-      "artists": [
-        {
-          "name": "Fakear",
-          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
-        },
-        {
-          "name": "Majeur Mineur",
-          "url": "https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j"
-        }
-      ],
-      "duration_ms": 166309,
-      "name": "1997 (let's go)",
-      "url": "https://open.spotify.com/track/1xQ40sjQxGphrRzDy74W5o"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1243,6 +1251,26 @@
       "duration_ms": 362261,
       "name": "Any Signs of Love",
       "url": "https://open.spotify.com/track/6DcxP7RQyfWQRODJ5OlqSC"
+    },
+    {
+      "added_at": "2025-01-03 15:55:05",
+      "album": {
+        "name": "Leave Me Slowly (Babsy. Remix)",
+        "url": "https://open.spotify.com/album/5Idz2ZzmmvBk1lrlyvSUcy"
+      },
+      "artists": [
+        {
+          "name": "Starsmith",
+          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
+        },
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Leave Me Slowly - Babsy. Remix",
+      "url": "https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1491,22 +1519,6 @@
       "duration_ms": 185280,
       "name": "STRONG MAN (feat. veggi)",
       "url": "https://open.spotify.com/track/1ocb6tS4xBe4XMw6tmFQfj"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Bubbles",
-        "url": "https://open.spotify.com/album/2Z9yJRQBIgJMBT0snDlf5n"
-      },
-      "artists": [
-        {
-          "name": "Aksel & Aino",
-          "url": "https://open.spotify.com/artist/4OC2ykcgmaj4XepHY1AEYO"
-        }
-      ],
-      "duration_ms": 222419,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/5Oy33SQQuGSYHpsgWoVnYp"
     },
     {
       "added_at": "2024-10-04 04:00:00",

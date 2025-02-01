@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Rose Gray",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring FKA twigs",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137946,
       "name": "all these little words",
       "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 330000,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/6A0V9bTkmRYCsGtbg1MuN9"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 204000,
       "name": "Coconut Water",
       "url": "https://open.spotify.com/track/2DSWwPZYH00L6NYQBxe6Uf"
@@ -7025,6 +7025,24 @@
     },
     {
       "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265706,
+      "name": "Room Of Fools",
+      "url": "https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI"
+    },
+    {
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy"
       },
@@ -7769,6 +7787,24 @@
     },
     {
       "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177146,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/3Si0hc3hxlehGK53jYjgVF"
+    },
+    {
+      "album": {
         "name": "still?",
         "url": "https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h"
       },
@@ -8236,6 +8272,28 @@
       "duration_ms": 333913,
       "name": "Tempelhof",
       "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
+    },
+    {
+      "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/4ycWtoMMvLwccXEjXxpmeh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194211,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/6onDQO5YoJX83RzAV2m0wN"
     },
     {
       "album": {

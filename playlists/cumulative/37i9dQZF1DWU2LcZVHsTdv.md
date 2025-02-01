@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-261 songs - 15 hr 55 min
+262 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Go Rest High On That Mountain](https://open.spotify.com/track/2JP2H4Hj0imQxqw4ce4UWQ) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Take Me Home: Covers](https://open.spotify.com/album/2ATLhcb3X7xYULIgTZbqfo) | 3:43 | 2024-02-09 |  |
 | [God & Country](https://open.spotify.com/track/7LJuvRQRJOyTAxBKk6xJbG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God & Country](https://open.spotify.com/album/0hsCH0eDI9mq7wcuyWRqIU) | 3:19 | 2024-04-19 |  |
 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-10-20 |  |
-| [God Can Use A Broken Man](https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [God Can Use A Broken Man](https://open.spotify.com/album/7G84INpL3oLq7Z6SE7MJi4) | 4:11 | 2024-08-30 |  |
+| [God Can Use A Broken Man](https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [God Can Use A Broken Man](https://open.spotify.com/album/7G84INpL3oLq7Z6SE7MJi4) | 4:11 | 2024-08-30 | 2025-02-01 |
 | [God Is Good](https://open.spotify.com/track/2J201WXV1md702dEIkQ6wy) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Halfway To Houston](https://open.spotify.com/album/0Szi0bRjwXfF3c7U4bHD3Y) | 3:14 | 2021-12-10 |  |
 | [God Made Fridays](https://open.spotify.com/track/4rIBtj2jHi8nIVfV7KeWy4) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 2:43 | 2023-07-21 | 2024-04-19 |
 | [God Made Fridays](https://open.spotify.com/track/6ksQ2gxEZGqQdygMex4PGs) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [God Made Fridays](https://open.spotify.com/album/4W5ldcMXbVXsBkeKX1uCSJ) | 2:43 | 2023-05-19 |  |
@@ -133,6 +133,7 @@
 | [Jesus 'Bout My Kids](https://open.spotify.com/track/0LDnAkJu4BsTg7LNNeKV9j) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB) | 3:06 | 2024-10-04 |  |
 | [Jesus Cries](https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:23 | 2023-09-22 |  |
 | [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 |  |
+| [Jesus Loves](https://open.spotify.com/track/6RJ2RMBiczjNiwr1SqEgFt) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves](https://open.spotify.com/album/2a5kK7pL7IeyfEnNnDrs9i) | 4:11 | 2025-01-31 |  |
 | [Jesus Saves](https://open.spotify.com/track/2fgP2l1YoefcEtBd3FtKEW) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Jesus Saves](https://open.spotify.com/album/6H9XvSMB9qWOoGWyRwcWsZ) | 2:56 | 2024-08-16 |  |
 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 | 2024-04-12 |  |
 | [Jesus' Fault](https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [A Hundred Highways](https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi) | 3:34 | 2022-09-30 |  |
@@ -231,7 +232,7 @@
 | [There Is A God](https://open.spotify.com/track/057ssHCqyYBRcQ6J860Kwi) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There Is A God](https://open.spotify.com/album/3KuhM2LBOgo9kFpOVKL1zp) | 4:14 | 2022-07-15 | 2024-04-19 |
 | [There Is A God](https://open.spotify.com/track/1FiGiJRsw0HoVBhuNMCBRk) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Country Christian](https://open.spotify.com/album/37ShHKWlcPtV5j3F7tUrpP) | 4:14 | 2022-11-04 | 2022-11-13 |
 | [There Is a God](https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Definitive Collection](https://open.spotify.com/album/05XWUOLckWAk8WqIWZ18IV) | 4:16 | 2021-12-10 | 2024-12-14 |
-| [There's Something About That Name](https://open.spotify.com/track/60Et9YXZlcVLLyotQn2lz3) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Award\-winning artists Honor The Songs of Bill & Gloria Gaither](https://open.spotify.com/album/23lcbZYmsYpjrlV8s93NRJ) | 4:20 | 2023-08-25 |  |
+| [There's Something About That Name](https://open.spotify.com/track/60Et9YXZlcVLLyotQn2lz3) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Award\-winning artists Honor The Songs of Bill & Gloria Gaither](https://open.spotify.com/album/23lcbZYmsYpjrlV8s93NRJ) | 4:20 | 2023-08-25 | 2025-02-01 |
 | [Thought About You](https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Thought About You](https://open.spotify.com/album/0LPzkET4jAcOUbkrGagdI4) | 3:45 | 2021-12-10 |  |
 | [Thought About You](https://open.spotify.com/track/5DAKp37tzpJEXfEAmx3k2N) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition / Big Machine Radio Release Special\)](https://open.spotify.com/album/5g5uono9ZO5JKfwb57WsMI) | 3:46 | 2022-11-04 | 2022-11-13 |
 | [Thought About You](https://open.spotify.com/track/6CWzNUUmNLpiBMyR5cMzJK) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition\)](https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53) | 3:46 | 2022-07-15 | 2024-04-19 |

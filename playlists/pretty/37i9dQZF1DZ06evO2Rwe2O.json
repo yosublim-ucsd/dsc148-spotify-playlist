@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12176,
+  "num_followers": 12177,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABipwmfLR+ntQLSUYo3qjqi",
+  "snapshot_id": "Z5rBAAAAAAAvTIwf/vHaEDxW7dBhiw/B",
   "tracks": [
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Right With You",
-      "url": "https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What I Was Made For",
         "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 313106,
       "name": "Words of Life",
       "url": "https://open.spotify.com/track/7C7n4C6VoUhUyIO7oHeQ6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Right With You",
+      "url": "https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+        "name": "What I Was Made For",
+        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 284320,
-      "name": "Just Like Somebody Else",
-      "url": "https://open.spotify.com/track/2Yo8YXctpvkdKzFgrI4eZP"
+      "duration_ms": 222960,
+      "name": "Just the Way I Am",
+      "url": "https://open.spotify.com/track/1JiJzQfqyEfXFIgFpopxAS"
     }
   ],
   "unique_name": "This Is Big Daddy Weave",

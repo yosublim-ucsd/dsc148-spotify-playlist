@@ -1639,6 +1639,28 @@
     },
     {
       "album": {
+        "name": "BABYGIRL (feat. Lil Tjay)",
+        "url": "https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "BABYGIRL (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3"
+    },
+    {
+      "album": {
         "name": "Bacc Like I Never Left",
         "url": "https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB"
       },
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 184600,
       "name": "Bad Choices",
       "url": "https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50"
@@ -2398,7 +2420,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 260487,
       "name": "Bigger Than Life",
       "url": "https://open.spotify.com/track/5idprenxXotKSz5dFHUM6e"
@@ -9856,6 +9878,32 @@
       "duration_ms": 155224,
       "name": "How's Life?",
       "url": "https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V"
+    },
+    {
+      "album": {
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159986,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
     },
     {
       "album": {
@@ -18677,6 +18725,32 @@
     },
     {
       "album": {
+        "name": "Slow Your Roll",
+        "url": "https://open.spotify.com/album/02odUwMoIxe1tJA62VW9bP"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Slow Your Roll",
+      "url": "https://open.spotify.com/track/5evv0npHCui3psMiXq1HX6"
+    },
+    {
+      "album": {
         "name": "Black & Whites",
         "url": "https://open.spotify.com/album/19xH9G1FPWsOy62olFo47u"
       },
@@ -22228,7 +22302,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 112941,
       "name": "WAY 2 HIGH",
       "url": "https://open.spotify.com/track/2XGYSCQUMVrdbRL7Sl6Ncu"

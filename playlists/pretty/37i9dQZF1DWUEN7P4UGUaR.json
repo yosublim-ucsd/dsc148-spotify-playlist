@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 13539,
+  "num_followers": 13547,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,22 @@
     {
       "added_at": "2025-01-31 00:01:02",
       "album": {
-        "name": "God Reigns",
-        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
+        "name": "Ote Me Mu",
+        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+        },
+        {
+          "name": "MOG",
+          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
         }
       ],
-      "duration_ms": 192027,
-      "name": "You Saved Me",
-      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
+      "duration_ms": 275551,
+      "name": "Ote Me Mu",
+      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
     },
     {
       "added_at": "2025-01-31 00:01:02",
@@ -383,22 +387,18 @@
     {
       "added_at": "2025-01-31 00:01:02",
       "album": {
-        "name": "Ote Me Mu",
-        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
+        "name": "God Reigns",
+        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
       },
       "artists": [
         {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        },
-        {
-          "name": "MOG",
-          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 275551,
-      "name": "Ote Me Mu",
-      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
+      "duration_ms": 192027,
+      "name": "You Saved Me",
+      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
     },
     {
       "added_at": "2025-01-31 00:01:02",
@@ -435,18 +435,18 @@
     {
       "added_at": "2025-01-31 00:01:02",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
       },
       "artists": [
         {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2025-01-31 00:01:02",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-01-31 00:01:02",
       "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2025-01-31 00:01:02",
@@ -787,54 +787,6 @@
     {
       "added_at": "2025-01-31 00:01:02",
       "album": {
-        "name": "Mile (I Know)",
-        "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
-      },
-      "artists": [
-        {
-          "name": "LUIGI MACLEAN",
-          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
-        }
-      ],
-      "duration_ms": 342685,
-      "name": "Mile (I Know)",
-      "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
-    },
-    {
-      "added_at": "2025-01-31 00:01:02",
-      "album": {
-        "name": "Keteke",
-        "url": "https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 227208,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH"
-    },
-    {
-      "added_at": "2025-01-31 00:01:02",
-      "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
-    },
-    {
-      "added_at": "2025-01-31 00:01:02",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5AhyxOO5MvwHZDx0E1S5KP"
       },
@@ -855,6 +807,54 @@
       "duration_ms": 224089,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6tTwVPhMIgzCsQlHullPO2"
+    },
+    {
+      "added_at": "2025-01-31 00:01:02",
+      "album": {
+        "name": "Mile (I Know)",
+        "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
+      },
+      "artists": [
+        {
+          "name": "LUIGI MACLEAN",
+          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
+        }
+      ],
+      "duration_ms": 342685,
+      "name": "Mile (I Know)",
+      "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
+    },
+    {
+      "added_at": "2025-01-31 00:01:02",
+      "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+    },
+    {
+      "added_at": "2025-01-31 00:01:02",
+      "album": {
+        "name": "Keteke",
+        "url": "https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227208,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH"
     },
     {
       "added_at": "2025-01-31 00:01:02",

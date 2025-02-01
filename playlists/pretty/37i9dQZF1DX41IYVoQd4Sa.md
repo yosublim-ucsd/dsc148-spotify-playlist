@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : ג׳ירפות
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,332 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,345 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 30 | [סבתא חנה](https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [Shlomi Saranga](https://open.spotify.com/artist/2b9OkxEH6i2Dxm9RqA9Eti) | [שמש וענן](https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8) | 3:07 |
 | 31 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 |
 | 32 | [חלליות \- Bonus Track](https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [Live 2022](https://open.spotify.com/album/1WQbQYkE63mbSsle6i3wWP) | 4:32 |
-| 33 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 |
+| 33 | [ככה זה](https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [ככה זה](https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e) | 4:08 |
 | 34 | [השבר הסורי\-אפריקני](https://open.spotify.com/track/7uungrCglt9t2vWRNxzpSo) | [Ollie Danon](https://open.spotify.com/artist/1hoFAEXkhrWmmS5G9NFc6U) | [השבר הסורי\-אפריקני](https://open.spotify.com/album/7oZ69JODOCPiZbhN2mmDMg) | 4:15 |
-| 35 | [ככה זה](https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [ככה זה](https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e) | 4:08 |
+| 35 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 |
 | 36 | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP) | 2:59 |
 | 37 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
 | 38 | [Doing So Much Better](https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Doing So Much Better](https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W) | 3:07 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 52 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
 | 53 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 54 | [לחזור הביתה](https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [לחסד וגאולה המשך ישר](https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8) | 4:17 |
-| 55 | [פאסון](https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8) | [Shir Hadas Meir](https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [פאסון](https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP) | 3:29 |
+| 55 | [דנה אינטרנשיונל](https://open.spotify.com/track/4CJD1r9Iyy96HUv5DgYgEu) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [דנה אינטרנשיונל](https://open.spotify.com/album/76seYzlYqfQroM7loKKPMQ) | 2:50 |
 | 56 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
-| 57 | [דנה אינטרנשיונל](https://open.spotify.com/track/4CJD1r9Iyy96HUv5DgYgEu) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [דנה אינטרנשיונל](https://open.spotify.com/album/76seYzlYqfQroM7loKKPMQ) | 2:50 |
+| 57 | [פאסון](https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8) | [Shir Hadas Meir](https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [פאסון](https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP) | 3:29 |
 | 58 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
 | 59 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
 | 60 | [מה שלא יהיה](https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6) | [Zizi Trippo](https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [31](https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7) | 3:17 |

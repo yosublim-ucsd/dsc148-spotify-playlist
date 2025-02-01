@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268133,
+      "name": "Brotha",
+      "url": "https://open.spotify.com/track/2sNAjuCXxyj8jHt93t9IJ9"
+    },
+    {
+      "album": {
         "name": "Acoustic Soul",
         "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
       },
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 252400,
       "name": "Take My Hand, Precious Lord",
       "url": "https://open.spotify.com/track/2BPMz5V0g0uw9phgqjY7se"

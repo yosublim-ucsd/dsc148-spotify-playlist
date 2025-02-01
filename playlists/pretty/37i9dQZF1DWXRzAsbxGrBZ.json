@@ -1,6 +1,6 @@
 {
   "description": "Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 76964,
+  "num_followers": 77029,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2025-01-30 23:40:55",
       "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        },
+        {
+          "name": "Ziyon",
+          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
+        }
+      ],
+      "duration_ms": 330730,
+      "name": "Another Day (feat. Ziyon)",
+      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
+    },
+    {
+      "added_at": "2025-01-30 23:40:55",
+      "album": {
         "name": "Can't Give Up Now (EarfulSoul)",
         "url": "https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 446646,
       "name": "Can't Give Up Now (feat. EarfulSoul)",
       "url": "https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR"
-    },
-    {
-      "added_at": "2025-01-30 23:40:55",
-      "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
-      },
-      "artists": [
-        {
-          "name": "Sculptured Music",
-          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
-        },
-        {
-          "name": "Ziyon",
-          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
-        }
-      ],
-      "duration_ms": 330730,
-      "name": "Another Day (feat. Ziyon)",
-      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
     },
     {
       "added_at": "2025-01-30 23:40:55",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-01-30 23:40:55",
       "album": {
-        "name": "Lomthwalo",
-        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
-      },
-      "artists": [
-        {
-          "name": "Mandaba",
-          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
-        },
-        {
-          "name": "Griffith Malo",
-          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
-        }
-      ],
-      "duration_ms": 366206,
-      "name": "Lo'Mthwalo - Original Mix",
-      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
-    },
-    {
-      "added_at": "2025-01-30 23:40:55",
-      "album": {
         "name": "Breathe (Remixes)",
         "url": "https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 402056,
       "name": "Breathe - Ed-ward Remix",
       "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
+    },
+    {
+      "added_at": "2025-01-30 23:40:55",
+      "album": {
+        "name": "Lomthwalo",
+        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
+      },
+      "artists": [
+        {
+          "name": "Mandaba",
+          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
+        },
+        {
+          "name": "Griffith Malo",
+          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
+        }
+      ],
+      "duration_ms": 366206,
+      "name": "Lo'Mthwalo - Original Mix",
+      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
     },
     {
       "added_at": "2025-01-30 23:40:55",

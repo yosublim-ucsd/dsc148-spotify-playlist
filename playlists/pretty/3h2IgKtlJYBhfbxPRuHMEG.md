@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 503 likes - 105 songs - 5 hr 59 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 503 likes - 106 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,6 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 | 103 | [Alive \- One True God Remix](https://open.spotify.com/track/72B9xPjLnAYyigLEgy1Z2E) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Alive \(One True God Remix\)](https://open.spotify.com/album/572eGkvBysIHmsXZFNQst0) | 3:27 |
 | 104 | [Dirty Talk](https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Dirty Talk](https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm) | 2:55 |
 | 105 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 |
+| 106 | [West End Wobbler](https://open.spotify.com/track/7hmv0wbnoi8n7Mbe8fHwQM) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [West End Wobbler](https://open.spotify.com/album/2ysqBWfWSJj9tyYn4yJsuf) | 3:17 |
 
-Snapshot ID: `AAAEUF5C8ONtxDeDh66XniTCrd0ToiQ2`
+Snapshot ID: `AAAEUVsWR5PUxmPAOaNAGNONWwgEzheD`

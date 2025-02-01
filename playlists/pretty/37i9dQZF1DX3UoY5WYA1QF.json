@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 148964,
+  "num_followers": 149117,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Las Romanticas Favoritas de Fuerza Regida",
-        "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 173125,
-      "name": "Te Ira Mejor Sin Mi",
-      "url": "https://open.spotify.com/track/28LjWxIfDHCReZLDn9B7nt"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Mexicano Hasta Las Pampas",
         "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 190457,
       "name": "Puede Que S\u00ed",
       "url": "https://open.spotify.com/track/61j37qu0Yn1bXFynsFYXnC"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Las Romanticas Favoritas de Fuerza Regida",
+        "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 173125,
+      "name": "Te Ira Mejor Sin Mi",
+      "url": "https://open.spotify.com/track/28LjWxIfDHCReZLDn9B7nt"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         }
       ],
-      "duration_ms": 189865,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/4hqcgS5XqaxtmXRib1UKJb"
+      "duration_ms": 180113,
+      "name": "Mil Navajas",
+      "url": "https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 180113,
-      "name": "Mil Navajas",
-      "url": "https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m"
+      "duration_ms": 189865,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/4hqcgS5XqaxtmXRib1UKJb"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "En Un Hilo",
+      "url": "https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 165000,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "El Homenaje Al Poeta Del Pueblo Joan Sebastian",
-        "url": "https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Sol De Ojinaga",
-          "url": "https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8"
-        }
-      ],
-      "duration_ms": 227998,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+        "name": "El Homenaje Al Poeta Del Pueblo Joan Sebastian",
+        "url": "https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Conjunto Sol De Ojinaga",
+          "url": "https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8"
         }
       ],
-      "duration_ms": 162767,
-      "name": "En Un Hilo",
-      "url": "https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L"
+      "duration_ms": 227998,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA"
     },
     {
       "added_at": "2024-07-12 06:00:00",

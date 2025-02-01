@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 202837,
+  "num_followers": 202866,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAADXQG4sSqzqydoQtRwdBAOB",
+  "snapshot_id": "Z5rBAAAAAAAGYePs0AgaWzzpW5/iXjFK",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 329008,
+      "name": "JUNHO DE 94",
+      "url": "https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Dono do Lugar",
         "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 197151,
       "name": "em quase tudo",
       "url": "https://open.spotify.com/track/26EFuKUDqQKLc4BStNDnHh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 329008,
-      "name": "JUNHO DE 94",
-      "url": "https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH"
     },
     {
       "added_at": null,
@@ -1151,22 +1151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
+        "name": "raro mas sempre acontece",
+        "url": "https://open.spotify.com/album/3NWPq3LiDg3F9bsicGId1X"
       },
       "artists": [
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         }
       ],
-      "duration_ms": 310375,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/0GTPvFFQDJdBzdy1mGew4m"
+      "duration_ms": 166613,
+      "name": "raro mas sempre acontece",
+      "url": "https://open.spotify.com/track/0toACsp778zlNwQjTlxrMI"
     },
     {
       "added_at": null,
@@ -1195,6 +1195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 310375,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/0GTPvFFQDJdBzdy1mGew4m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Funktroit",
         "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 140134,
       "name": "\u00c9 o Rei do Sexo",
       "url": "https://open.spotify.com/track/5MGhz9NF41oppyU31Z0dpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "raro mas sempre acontece",
-        "url": "https://open.spotify.com/album/3NWPq3LiDg3F9bsicGId1X"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "raro mas sempre acontece",
-      "url": "https://open.spotify.com/track/0toACsp778zlNwQjTlxrMI"
     },
     {
       "added_at": null,

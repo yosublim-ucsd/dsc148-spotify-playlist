@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-279 songs - 13 hr 30 min
+281 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,10 +121,12 @@
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-07-26 | 2024-12-07 |
 | [Hot In It](https://open.spotify.com/track/0Y7dShDPqlnaz4pjmajQpe) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:09 | 2023-11-03 |  |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-09 |  |
+| [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 | 2025-01-31 |  |
 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 | 2024-02-09 | 2024-02-24 |
 | [I Wouldn't Mind](https://open.spotify.com/track/3XB10votaPOcmrFS1dM59j) | [Eure Jungs](https://open.spotify.com/artist/1uvjKQHpHj5BiEHBOlU97U) | [I Wouldn't Mind](https://open.spotify.com/album/1YvMESin0KV0FsTinzdhz3) | 1:59 | 2024-03-15 | 2024-03-23 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/5XY65s0mERw7YuDQYTHeKI) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:55 | 2023-11-03 | 2024-12-07 |
 | [If This Isn't Love](https://open.spotify.com/track/0AnkaoMhAyTLzQ7abrje15) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [If This Isn't Love](https://open.spotify.com/album/6N521iWkLt0nfmSAHP2arf) | 2:08 | 2023-11-03 | 2023-12-02 |
+| [In My Head](https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [In My Head](https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr) | 3:35 | 2025-01-31 |  |
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2023-11-03 | 2024-07-20 |
 | [In Your Arms](https://open.spotify.com/track/09JbsKhqfhP20dadEeDug3) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [In Your Arms](https://open.spotify.com/album/7G1S1ZQxGE67nSBAMr6WD6) | 2:46 | 2024-03-01 | 2024-06-01 |
 | [Into The Blue \(feat\. kamille\)](https://open.spotify.com/track/5Rmd86LHDR1FYVRMjkEZNh) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [Into The Blue \(feat\. kamille\)](https://open.spotify.com/album/5lf3H0jiqdZjASiyA7iJNH) | 2:47 | 2024-11-15 |  |

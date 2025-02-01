@@ -704,7 +704,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 211181,
       "name": "Deja",
       "url": "https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45"
@@ -774,6 +774,32 @@
       "duration_ms": 194730,
       "name": "Dictamen",
       "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
+    },
+    {
+      "album": {
+        "name": "Disfruta el viaje",
+        "url": "https://open.spotify.com/album/1pJosf4Eqxq9R47SK56PWX"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Zaheed Santana",
+          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
+        },
+        {
+          "name": "Jarsman",
+          "url": "https://open.spotify.com/artist/0c5nVv0l8BxNOnWEbRmFBT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195401,
+      "name": "Disfruta el Viaje",
+      "url": "https://open.spotify.com/track/4VHHP4kbyCxlL7tkiqlA2Y"
     },
     {
       "album": {
@@ -1008,6 +1034,24 @@
       "duration_ms": 181847,
       "name": "En el Aire",
       "url": "https://open.spotify.com/track/2XDj1sDCtz9eN9lotxlhQ8"
+    },
+    {
+      "album": {
+        "name": "Es La Hora",
+        "url": "https://open.spotify.com/album/1ubaszU0AtWQL82uYKnaSo"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226516,
+      "name": "Es La Hora",
+      "url": "https://open.spotify.com/track/1srxm85ipeTn89EZACaWEF"
     },
     {
       "album": {
@@ -1894,7 +1938,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 284770,
       "name": "Mi Propio Cielo",
       "url": "https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY"
@@ -2087,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "Punchline City, Vol. 1",
+        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
+      },
+      "artists": [
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76660,
+      "name": "NueveOnce",
+      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
+    },
+    {
+      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -2232,7 +2294,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 183013,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf"
@@ -2619,6 +2681,68 @@
     },
     {
       "album": {
+        "name": "THE RULES",
+        "url": "https://open.spotify.com/album/7tyUUAbaAgku8WzXWTkoP7"
+      },
+      "artists": [
+        {
+          "name": "Nik Valenda",
+          "url": "https://open.spotify.com/artist/0cZv93w9tKGYcPq0mueSZU"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Kinky Bwoy",
+          "url": "https://open.spotify.com/artist/0MdmBtTM7CiggP607Mh1Fs"
+        },
+        {
+          "name": "Baino Di Lion",
+          "url": "https://open.spotify.com/artist/28ib5ADg2PIW8BSvbbFx9G"
+        },
+        {
+          "name": "Soriano",
+          "url": "https://open.spotify.com/artist/3LuS4kTbE0JMjMvSS1juzt"
+        },
+        {
+          "name": "Shabu",
+          "url": "https://open.spotify.com/artist/7yI6f6KLTIotYOuspbjPMP"
+        },
+        {
+          "name": "Se\u00f1or R",
+          "url": "https://open.spotify.com/artist/13vrdQMvV0zBFOEFetg0Rb"
+        },
+        {
+          "name": "Tomawok",
+          "url": "https://open.spotify.com/artist/7mng5Sm20PlNtwklNeqGfj"
+        },
+        {
+          "name": "Kalos",
+          "url": "https://open.spotify.com/artist/1BVGsNTQd7o8Hh1Yal8G9I"
+        },
+        {
+          "name": "Putolargo",
+          "url": "https://open.spotify.com/artist/3lP2GgJaO5TZJt8dE1WsSQ"
+        },
+        {
+          "name": "Skillz Beatz",
+          "url": "https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM"
+        },
+        {
+          "name": "Rapsusklei",
+          "url": "https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 693654,
+      "name": "THE RULES",
+      "url": "https://open.spotify.com/track/2Q8mFo9kEhgf2rgNOIHK86"
+    },
+    {
+      "album": {
         "name": "This is Not America (feat. Ibeyi)",
         "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
       },
@@ -2810,7 +2934,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 305214,
       "name": "\u00bfEres Feliz?",
       "url": "https://open.spotify.com/track/3XmBxh0anLfjURv4nchJ66"

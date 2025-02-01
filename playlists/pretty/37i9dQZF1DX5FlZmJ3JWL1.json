@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 774085,
+  "num_followers": 774131,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -311,30 +311,6 @@
     {
       "added_at": "2025-01-27 13:36:20",
       "album": {
-        "name": "Kisses (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 138246,
-      "name": "Kisses (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2025-01-27 13:36:20",
-      "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
@@ -367,6 +343,30 @@
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2025-01-27 13:36:20",
+      "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
       "added_at": "2025-01-27 13:36:20",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-01-27 13:36:20",
       "album": {
-        "name": "Left & Right",
-        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Left & Right",
-      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
-    },
-    {
-      "added_at": "2025-01-27 13:36:20",
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 160000,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
+    },
+    {
+      "added_at": "2025-01-27 13:36:20",
+      "album": {
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
     },
     {
       "added_at": "2025-01-27 13:36:20",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-01-27 13:36:20",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        }
+      ],
+      "duration_ms": 158161,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
+    },
+    {
+      "added_at": "2025-01-27 13:36:20",
+      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/10aoLyfcDY7b9zSRogaSLa"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2025-01-27 13:36:20",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        }
-      ],
-      "duration_ms": 158161,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
-    },
-    {
-      "added_at": "2025-01-27 13:36:20",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-01-27 13:36:20",
       "album": {
-        "name": "Don't You Cry",
-        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 246758,
-      "name": "Don't You Cry",
-      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
-    },
-    {
-      "added_at": "2025-01-27 13:36:20",
-      "album": {
         "name": "Sound of da Police (with DES3ETT)",
         "url": "https://open.spotify.com/album/19tOFbOwSqZkQONwDtxss9"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 127200,
       "name": "Sound of da Police (with DES3ETT)",
       "url": "https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ"
+    },
+    {
+      "added_at": "2025-01-27 13:36:20",
+      "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 246758,
+      "name": "Don't You Cry",
+      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
     },
     {
       "added_at": "2025-01-27 13:36:20",

@@ -2,9 +2,9 @@
 
 ### [tropic.alt](https://open.spotify.com/playlist/37i9dQZF1DX8HSZzYIDgBB)
 
-> Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Manu Chao en portada.
+> Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol Indie\-Tropical 🌺☀️🌴🎶 Bomba Estéreo y Rawayana en portada.
 
-348 songs - 20 hr 50 min
+349 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2021-10-05 | 2024-06-01 |
 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2021-10-05 | 2023-10-07 |
 | [Conversaciones](https://open.spotify.com/track/2JoIsTLmlVGiY2y602IkZN) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Conversaciones](https://open.spotify.com/album/5JO7X3vUSFQpo91NibWW5G) | 3:17 | 2021-10-05 | 2022-04-10 |
-| [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te) | 3:42 | 2023-12-07 |  |
+| [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te) | 3:42 | 2023-12-07 | 2025-02-01 |
 | [Corazon en Asteroides](https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Corazon en Asteroides](https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw) | 3:58 | 2021-10-05 | 2023-04-01 |
 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 | 2022-09-30 | 2023-06-23 |
 | [Couldn't Seal The Deal](https://open.spotify.com/track/4GZ61USOfH8M2EsWBdKzg1) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF), [BARDO](https://open.spotify.com/artist/2uHVCKIwvudS4Y9q6noXV7) | [Couldn't Seal The Deal](https://open.spotify.com/album/1Psb2TklWrfVmnfbqTnHj5) | 3:34 | 2021-10-05 | 2022-08-14 |
@@ -197,6 +197,7 @@
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2023-03-31 | 2023-06-02 |
 | [Me Hiciste Quedar Mal](https://open.spotify.com/track/440BwaPaJ1FsW2tCxdN6ea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Hiciste Quedar Mal](https://open.spotify.com/album/48MMRe2STtIarxvTJ76Qdv) | 2:39 | 2025-01-09 |  |
 | [Me mandaron por tortillas](https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Me mandaron por tortillas](https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm) | 2:42 | 2022-07-11 | 2023-04-01 |
+| [Me Pasa \(Piscis\)](https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [Me Pasa \(Piscis\)](https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs) | 3:21 | 2025-01-31 |  |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/1whuGreIX1sYRDeT28nhyp) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [De Algo Hay Que Morir](https://open.spotify.com/album/2MF220KUPbPWEjh59nPFEK) | 4:00 | 2021-10-05 | 2022-04-21 |
 | [Mentiras Con Cariño](https://open.spotify.com/track/2CyhpAB516q2OaNwcmTHyC) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v) | 3:48 | 2023-05-05 | 2024-04-19 |
 | [Mentiras Con Cariño](https://open.spotify.com/track/2NbEme35zJq2g10jOBwHHI) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/1ZpnPxzYPsMVQJeECGvmzs) | 3:48 | 2022-03-30 | 2022-11-14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1378122,
+  "num_followers": 1378335,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAAEykB6qXiY9gxebw/fupsX",
+  "snapshot_id": "Z5rBAAAAAAAYsaYPBp5ElDXaMXIMUDAu",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 273706,
-      "name": "Puppe",
-      "url": "https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F"
+      "duration_ms": 251146,
+      "name": "Reise, Reise",
+      "url": "https://open.spotify.com/track/6bvTzuFABmFnAAmVZ3nlMh"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 251146,
-      "name": "Reise, Reise",
-      "url": "https://open.spotify.com/track/6bvTzuFABmFnAAmVZ3nlMh"
+      "duration_ms": 273706,
+      "name": "Puppe",
+      "url": "https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F"
     },
     {
       "added_at": null,

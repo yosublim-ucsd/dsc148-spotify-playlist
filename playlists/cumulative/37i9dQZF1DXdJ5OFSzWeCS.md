@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-726 songs - 21 hr 47 min
+729 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Come Closer](https://open.spotify.com/track/6oqcvbCvvZHTSkJs3afzet) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Babysteps](https://open.spotify.com/album/4xvtAclKHvYUw81pKgayn3) | 3:46 | 2022-02-10 | 2022-11-26 |
 | [Come Sail](https://open.spotify.com/track/3rEh3K6fIBaRktNqq1v7DG) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Come Sail](https://open.spotify.com/album/1lsEc32abwxyZmzHd9gwfD) | 1:21 | 2023-03-17 |  |
 | [Come Sail Away](https://open.spotify.com/track/6Xm8pB1mJEhDQoRqXdrPbR) | [Marilyn Giffard](https://open.spotify.com/artist/0YtmZt6O5eRRqHAmDjtOwC) | [Come Sail Away](https://open.spotify.com/album/1qr0hO9PzfKBVYoyF2VOQY) | 1:13 | 2022-02-10 | 2022-11-26 |
+| [Count the Stars](https://open.spotify.com/track/4NxHzHS8eRHxgkrinsIBY2) | [Caprice Henry](https://open.spotify.com/artist/3MJcT8HEZJ8QsSqgQd2A7G) | [Count the Stars](https://open.spotify.com/album/20t6iRTDCE1S5Ckn9XpirM) | 2:34 | 2025-01-31 |  |
 | [Counting Kisses](https://open.spotify.com/track/01Fycov3OMi66sHc3QOPRS) | [Aleena Gibbons](https://open.spotify.com/artist/1la8rDgi5I0JkVh94GCXaY) | [Counting Kisses](https://open.spotify.com/album/53DyZwzefF4w5TmJuIvqhq) | 1:28 | 2022-02-10 | 2023-02-10 |
 | [Counting sheep](https://open.spotify.com/track/4P9XJCXmWR1Artyxij5Tit) | [Hyrum Spears](https://open.spotify.com/artist/2YGxKYE79CxjJ5sZXbneNl) | [Counting sheep](https://open.spotify.com/album/10U6aFzq0gVbyHKHz9OfS0) | 1:37 | 2022-02-10 | 2024-04-19 |
 | [Counting Sheep](https://open.spotify.com/track/65Ky8P6xEtn2ltUmdxAC1a) | [Olivia\-Rose Grant](https://open.spotify.com/artist/1FNJGOQi9Kr1PukuSn5frx) | [Counting Sheep](https://open.spotify.com/album/1lgb6Z4RODrAocyr3lcjpu) | 1:13 | 2022-02-10 | 2024-03-29 |
@@ -349,7 +350,7 @@
 | [Lavender's Blue](https://open.spotify.com/track/2fx4Zt7CaDEyShOuCqKSQF) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Mommy & Daddy Love You](https://open.spotify.com/album/2hzy2byPq9A9VPhooQ9OFo) | 1:28 | 2022-02-10 | 2023-02-10 |
 | [Lavender's Blue](https://open.spotify.com/track/04WO0f93EAAAVyu9Nh1uJB) | [Emmet April](https://open.spotify.com/artist/3Hx2KupJkTFnYSctvk83Iv) | [Lavender's Blue](https://open.spotify.com/album/170S6zTHVCCJMS7xJqoRf7) | 1:45 | 2022-02-10 | 2023-04-07 |
 | [Lavender's Blue](https://open.spotify.com/track/7LBz9droYdZnaCVHgDbqvo) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [Lavender's Blue](https://open.spotify.com/album/7syJVFFBJLoedz18nxr5RX) | 1:47 | 2022-12-23 | 2024-03-29 |
-| [Lavender's Blue \- Instrumental](https://open.spotify.com/track/0Zwt0Q9NTjo8ASYPtIkRLG) | [The Night Owl](https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW) | [Lullabies for Babies: Calming Lullaby Songs for Babies and Toddlers \- Relaxing Music for Bedtime](https://open.spotify.com/album/3XdwVPfTgopA49t9CV7BJw) | 1:59 | 2024-11-14 |  |
+| [Lavender's Blue \- Instrumental](https://open.spotify.com/track/0Zwt0Q9NTjo8ASYPtIkRLG) | [The Night Owl](https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW) | [Lullabies for Babies: Calming Lullaby Songs for Babies and Toddlers \- Relaxing Music for Bedtime](https://open.spotify.com/album/3XdwVPfTgopA49t9CV7BJw) | 1:59 | 2024-11-14 | 2025-02-01 |
 | [Left And Right](https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Left And Right](https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1) | 1:56 | 2024-03-01 |  |
 | [Lightly Row](https://open.spotify.com/track/1sacy8TpS19p2dvQAQ4Rwk) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Lightly Row](https://open.spotify.com/album/3gxVaMfXE1w67zbrzueuzU) | 1:22 | 2023-12-08 |  |
 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 | 2024-02-09 |  |
@@ -622,6 +623,7 @@
 | [The Bear and the Owl](https://open.spotify.com/track/0M7V6oTBtL5tZEeNMnDAfu) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [The Bear and the Owl](https://open.spotify.com/album/3LtMRfHgMyyB5s1XfGLCen) | 1:46 | 2024-03-22 |  |
 | [The Bear Is Sleeping](https://open.spotify.com/track/736ZwcAcdviDOcBLmc1M9D) | [Lovisa Vonn](https://open.spotify.com/artist/5r5YDW1RgQqg288qcjcNQx) | [The Bear Is Sleeping / Dream Little Baby](https://open.spotify.com/album/4D175wmarq8PfF4mbUUWh0) | 1:15 | 2022-02-10 | 2024-03-29 |
 | [The Bird and the Cat](https://open.spotify.com/track/4m4je6oil62yjcz5QmcGw2) | [Sandra McGorlick](https://open.spotify.com/artist/0fGsHBygU4rpgRPMrJjR6o) | [My New Doggie](https://open.spotify.com/album/2OP0I4rZT6uc23VbeMud3L) | 1:53 | 2022-02-10 | 2023-03-18 |
+| [The Children of Noisy Village](https://open.spotify.com/track/36zMimZugbOYLZofT2TJ6d) | [Milo Creek](https://open.spotify.com/artist/33aBwwHlIzRWzNoOAM39LF) | [The Children of Noisy Village](https://open.spotify.com/album/1BKStzFF3WZWDpUpI90w1T) | 1:40 | 2025-01-31 |  |
 | [The cow that said meow](https://open.spotify.com/track/0oPgnwud6edTc7khmm93pa) | [Wiktoria Bogan](https://open.spotify.com/artist/42UDhH9oqDNTdKwdgpQXfu) | [The cow that said meow](https://open.spotify.com/album/77vdRF8BaHNuJxFxxpf0RM) | 1:44 | 2022-02-10 | 2024-03-29 |
 | [The Cutest Puppy](https://open.spotify.com/track/1dKxf4Ht2SsKLyXfSDJAgy) | [Laureen Conrad](https://open.spotify.com/artist/7vgGpuiXdNlCmc994PlMlz) | [The Cutest Puppy](https://open.spotify.com/album/5BrSPFWP0aDuoi3k4oPEyl) | 1:22 | 2022-02-10 | 2022-12-24 |
 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 | 2022-02-10 | 2022-09-23 |
@@ -726,6 +728,7 @@
 | [White Flower Pillow](https://open.spotify.com/track/0gqX7Bxl9PnyD8jbGVlGfF) | [Jenna Hummer](https://open.spotify.com/artist/4xmOcQvmPP4kbT0EJUhkCQ) | [Whistling Baby](https://open.spotify.com/album/3FBNfr6u5s8SOyHpEFt56r) | 1:33 | 2022-04-25 |  |
 | [White Pyjamas](https://open.spotify.com/track/2Zgn3c9rmuS7NOahAyblqf) | [Will Booker](https://open.spotify.com/artist/6SpSWfQAEuJKZeuYQRSeZZ) | [White Pyjamas](https://open.spotify.com/album/6StNsCIS4UCXEbj2n6BXn4) | 1:31 | 2022-02-10 | 2024-05-17 |
 | [Wind The Bobbin Up](https://open.spotify.com/track/1FE4MRViKXTiklLJeU4CZc) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [Little Robin Redbreast](https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso) | 1:04 | 2022-02-10 | 2022-09-23 |
+| [Winter Fox](https://open.spotify.com/track/7fXNDoSqsRKdZ7TmbXbUu0) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Winter Fox](https://open.spotify.com/album/6Uk2sq2DyeOQt7WyvlmGe2) | 1:47 | 2025-01-31 |  |
 | [Wishful](https://open.spotify.com/track/6FucNnxWzwEY0WvhqbDzVQ) | [David J Burns](https://open.spotify.com/artist/1kEGNqQqOvQrADGAXPIeZO) | [Wishful](https://open.spotify.com/album/1XvaZXugJLckXSlJ4EDT2G) | 2:03 | 2022-02-10 | 2023-02-10 |
 | [Wiz In The Box](https://open.spotify.com/track/4NzC1FtUvaZeeuxfV0ddz0) | [Gabriella Paisley](https://open.spotify.com/artist/5fQst8SMsXqOHPnhMtuRvZ) | [Wiz In The Box](https://open.spotify.com/album/66MWnrcdLZFvNS8QaBV8AZ) | 1:23 | 2022-02-10 | 2023-01-13 |
 | [Working Down The Railroad](https://open.spotify.com/track/0uTRIpKux4qrcxNBlT7lFM) | [Lovisa Vonn](https://open.spotify.com/artist/5r5YDW1RgQqg288qcjcNQx) | [Working Down The Railroad](https://open.spotify.com/album/4kLx5Ad5ibFSp2OXTeqo6E) | 2:40 | 2022-10-07 |  |

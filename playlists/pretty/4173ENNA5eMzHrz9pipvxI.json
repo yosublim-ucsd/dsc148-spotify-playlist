@@ -1,12 +1,12 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KREAM",
-  "num_followers": 120595,
+  "num_followers": 120599,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAets2LmkmS6h8y9GdxAGr67V92kcjZ",
+  "snapshot_id": "AAAeuXqijfgMsOypRFXmnCg+Q209/yCy",
   "tracks": [
     {
       "added_at": "2025-01-30 15:03:39",
@@ -151,6 +151,30 @@
       "duration_ms": 198750,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "added_at": "2025-01-31 08:15:54",
+      "album": {
+        "name": "Delirious (French Version)",
+        "url": "https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 176932,
+      "name": "Delirious (French Version)",
+      "url": "https://open.spotify.com/track/5nGPbqEmQ3ZutQGX4EHw9J"
     },
     {
       "added_at": "2025-01-30 15:03:39",

@@ -2,9 +2,9 @@
 
 ### [New Music Friday Japan](https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA)
 
-> 洋楽を中心に今週の新曲をチェック James Bay, Latto, HANA, Jamie xx and more!
+> 洋楽を中心に今週の新曲をチェック  The Weeknd, JENNIE, James Bay, Latto, HANA and more! cover: The Weeknd
 
-8,304 songs - 19 day 8 hr 47 min
+8,308 songs - 19 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [36.5](https://open.spotify.com/track/6Q8ck7EXxjCIT5wzdwTerF) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [36.5](https://open.spotify.com/album/2wDS684QXg1CE9PJt9D5re) | 4:28 | 2024-11-07 | 2024-11-15 |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-10 | 2024-05-17 |
 | [365 \(Feat\. JUNNY\)](https://open.spotify.com/track/1g44dTzKW337AAReshbgUm) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [In too deep](https://open.spotify.com/album/6rK5rSNCoAzUQCuHY5mldq) | 3:24 | 2024-09-27 | 2024-10-04 |
+| [3AM](https://open.spotify.com/track/0l9VvbDSkLmalsOwHjIwFJ) | [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [3AM](https://open.spotify.com/album/7EGaRN0bs6nijArt035PmS) | 2:07 | 2025-01-31 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-28 | 2023-10-06 |
 | [4.11](https://open.spotify.com/track/24ou6Re0MOzjWrSBrrI369) | [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [4.11](https://open.spotify.com/album/1J739DquXjmYnfUEviK9IT) | 6:13 | 2023-03-17 | 2023-03-25 |
 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-15 | 2023-06-23 |
@@ -1478,6 +1479,7 @@
 | [Cry](https://open.spotify.com/track/786NGh40psKOdopTcri1Wj) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Cry](https://open.spotify.com/album/179ZSrlXhGB0skW5Ygyeb9) | 4:23 | 2024-06-28 | 2024-07-05 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-08 | 2024-08-16 |
 | [Cry Baby](https://open.spotify.com/track/0NrOeqIaRmnZT1xWw4Onr1) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Cry Baby](https://open.spotify.com/album/3ESzkaJUUVHRvClOdjzoNV) | 2:55 | 2024-12-05 | 2024-12-13 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Crybaby](https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Crybaby](https://open.spotify.com/album/5Wm0HVhzfIZa0Euf4CNXv7) | 2:54 | 2024-04-26 | 2024-05-03 |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-17 | 2023-03-25 |
 | [Crystal Ball](https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Crystal Ball](https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy) | 2:53 | 2024-07-12 | 2024-07-19 |
@@ -3127,6 +3129,7 @@
 | [I AM](https://open.spotify.com/track/3SP86A20TPRFJnOksCgke7) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/16PMPA18bWzRcard7KzueH) | 2:41 | 2024-09-05 | 2024-09-13 |
 | [I Am Free](https://open.spotify.com/track/5upUoCnUlWSHGP4N2b5guG) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/6dWHVjmxefkx7kqFxisHi3) | 3:50 | 2023-03-31 | 2023-04-01 |
 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 | 2023-03-31 | 2023-04-07 |
+| [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 | 2025-01-31 |  |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-11 | 2023-11-18 |
 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 | 2024-12-19 | 2024-12-27 |
 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2023-09-22 | 2023-09-29 |
@@ -3992,6 +3995,7 @@
 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 | 2024-11-14 | 2024-11-22 |
 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-05-23 | 2024-06-01 |
 | [Love Game](https://open.spotify.com/track/1sPMAxEKbcbfu61aQePk65) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Love Game](https://open.spotify.com/album/1XczLnnF5yEml9Ih1xdokY) | 1:52 | 2025-01-09 | 2025-01-17 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [LOVE HURTS \(with Lil Uzi Vert\)](https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:34 | 2024-08-29 | 2024-09-06 |
 | [Love Insurrection \- Edit](https://open.spotify.com/track/5NUsEbeXd7o9U8xFBSiyag) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 3:32 | 2024-07-18 | 2024-07-27 |
 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-02-02 | 2024-02-09 |

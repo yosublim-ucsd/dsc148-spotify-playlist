@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover - Nilotpal Bora",
+  "description": "Naye Indie gaano ka khazana! Cover - Kushagra",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -2741,6 +2741,32 @@
     },
     {
       "album": {
+        "name": "Bemisaal",
+        "url": "https://open.spotify.com/album/25WKYYzTCHCyuYyKGpu6R9"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        },
+        {
+          "name": "yungsta",
+          "url": "https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Bemisaal",
+      "url": "https://open.spotify.com/track/4eLeuvFq325pSNzr8PiOl3"
+    },
+    {
+      "album": {
         "name": "Beparwah",
         "url": "https://open.spotify.com/album/6V3M6qs3z9yQGxfKKj2GaY"
       },
@@ -5276,6 +5302,28 @@
       "duration_ms": 186666,
       "name": "filhaal",
       "url": "https://open.spotify.com/track/6SO0WhGWE7L37gKJ8QjGlu"
+    },
+    {
+      "album": {
+        "name": "Finding Her",
+        "url": "https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Finding Her",
+      "url": "https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF"
     },
     {
       "album": {
@@ -8360,7 +8408,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 228947,
       "name": "Kahaan Aagaye Hum",
       "url": "https://open.spotify.com/track/48I3yeFVk26QoeNkg1Uh5R"
@@ -8870,7 +8918,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162374,
       "name": "Kayee Dafaa",
       "url": "https://open.spotify.com/track/4NneS55Dbc4OqEr1io8G9V"
@@ -9992,6 +10040,32 @@
       "duration_ms": 143273,
       "name": "Kishmish",
       "url": "https://open.spotify.com/track/0y0PU8VFoud2NTXfkUmr7g"
+    },
+    {
+      "album": {
+        "name": "Kisi Tarah",
+        "url": "https://open.spotify.com/album/20GlqmFsboHgSZC4KA0rtr"
+      },
+      "artists": [
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178269,
+      "name": "Kisi Tarah",
+      "url": "https://open.spotify.com/track/4jVJH1awgJLzWWv2vKNRwg"
     },
     {
       "album": {
@@ -14932,7 +15006,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 200204,
       "name": "Rozaana",
       "url": "https://open.spotify.com/track/1oGSv6ohmyxzoLkS65Heic"
@@ -15590,6 +15664,28 @@
       "duration_ms": 260000,
       "name": "Sajke",
       "url": "https://open.spotify.com/track/6TeFtj6dqAUVA1n6qbLuXh"
+    },
+    {
+      "album": {
+        "name": "Sajna Ve",
+        "url": "https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ"
+      },
+      "artists": [
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175269,
+      "name": "Sajna Ve",
+      "url": "https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn"
     },
     {
       "album": {
@@ -16634,7 +16730,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 190153,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/5UNxdMgOfVybQcqC70Iij8"
@@ -16678,6 +16774,24 @@
       "duration_ms": 218000,
       "name": "Suljhi Si Zindagi",
       "url": "https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM"
+    },
+    {
+      "album": {
+        "name": "Summercoat",
+        "url": "https://open.spotify.com/album/2TJrs5gRMnUFKmZAWJ8TWu"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213874,
+      "name": "Summercoat",
+      "url": "https://open.spotify.com/track/5nXpK11JqlN0kOx4IXzV7R"
     },
     {
       "album": {
@@ -18339,6 +18453,28 @@
     },
     {
       "album": {
+        "name": "Tu Jaise Dariya",
+        "url": "https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Armaan Sharma",
+          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227177,
+      "name": "Tu Jaise Dariya",
+      "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"
+    },
+    {
+      "album": {
         "name": "Tu Jo Nahi Hai Yaha",
         "url": "https://open.spotify.com/album/7pH6621CQVeD3vEpgtSF98"
       },
@@ -19146,7 +19282,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 155838,
       "name": "Waiting On",
       "url": "https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0"
@@ -19344,6 +19480,24 @@
       "duration_ms": 156665,
       "name": "Yaad",
       "url": "https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9"
+    },
+    {
+      "album": {
+        "name": "Yaad Aayegi",
+        "url": "https://open.spotify.com/album/7t1B0AMRNSVBsvoHmp7V0U"
+      },
+      "artists": [
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136071,
+      "name": "Yaad Aayegi",
+      "url": "https://open.spotify.com/track/7iut9E1S3wF6poT8aopIdY"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> hannah cohen 🌟🍃✨♡
+> jack van cleaf getting his flowers 🌼
 
-414 songs - 1 day 0 hr 17 min
+419 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [For You I'll Wait](https://open.spotify.com/track/6ju4VPjmZhm3F64pfEdi4U) | [harf.](https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX) | [For You I'll Wait](https://open.spotify.com/album/1H5gH4CAQceNqKpVZeVdG0) | 3:55 | 2023-10-06 | 2024-06-29 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-09 | 2024-09-07 |
 | [Forever](https://open.spotify.com/track/4hrJvbMKIOVETjSeMLdpUJ) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Forever](https://open.spotify.com/album/2ZXIdweSVvs0L8MKr3dEQz) | 3:20 | 2024-11-15 |  |
+| [forgive](https://open.spotify.com/track/5o1hmgXrZVssht9hZLjhEu) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [forgive](https://open.spotify.com/album/7ce4lWzKblWtwCZPJH0wx4) | 4:48 | 2025-01-31 |  |
 | [Found](https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [Found](https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1) | 5:11 | 2023-10-17 | 2024-02-10 |
 | [Foundry](https://open.spotify.com/track/1CjRmbOw9rR7AiH4s8xa32) | [Son of the Challenger](https://open.spotify.com/artist/5ArUOljpeiuePVYkK6KFmG) | [Foundry](https://open.spotify.com/album/0Gx7vzTl7o7ZMmM15EWbe9) | 3:05 | 2023-10-06 | 2024-02-10 |
 | [Foxglove](https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Foxglove](https://open.spotify.com/album/49RGfGmL4UzjQdiVGL88Kp) | 2:40 | 2024-09-20 |  |
@@ -151,6 +152,7 @@
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-13 |  |
 | [Heartbreak Rodeo](https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Heartbreak Rodeo](https://open.spotify.com/album/0zy1HOwPKMbbHGhYoecsFe) | 3:07 | 2024-08-23 |  |
 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 | 2023-10-06 | 2024-04-06 |
+| [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/album/4oz5gWyUsn17qOnNH39PEY) | 3:11 | 2025-01-31 |  |
 | [Hells On The Loose](https://open.spotify.com/track/77PIWpIfC7ZKD0Kz3aJSMZ) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Hells On The Loose](https://open.spotify.com/album/6VVe6qPxOEoHmYdJjNdIfJ) | 4:29 | 2024-05-10 |  |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2024-09-09 |  |
 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 | 2024-03-08 |  |
@@ -287,6 +289,7 @@
 | [Rascal](https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD) | 3:49 | 2024-12-06 |  |
 | [Rattlesnake](https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/69Dt5SjS6dSCmlPfqMhWwv) | 4:56 | 2024-02-16 | 2024-04-19 |
 | [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2023-10-06 | 2024-11-09 |
+| [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 | 2025-01-31 |  |
 | [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 | 2024-04-12 | 2024-08-10 |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-12-01 | 2024-06-01 |
 | [Rearview](https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 3:51 | 2023-10-06 | 2024-11-09 |
@@ -363,7 +366,7 @@
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-19 | 2024-04-27 |
 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 | 2024-02-23 | 2024-04-06 |
 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 | 2024-07-19 |  |
-| [the way that i am](https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [the way that i am](https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y) | 2:57 | 2024-10-16 |  |
+| [the way that i am](https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [the way that i am](https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y) | 2:57 | 2024-10-16 | 2025-02-01 |
 | [there they go](https://open.spotify.com/track/1Tr4Zir6TrVDXtJk4TRm6j) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [there they go](https://open.spotify.com/album/6MzGpvC1fI4kZ56DjcmadF) | 2:13 | 2023-10-20 | 2024-03-16 |
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-18 | 2024-12-07 |
 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 | 2023-10-06 | 2024-05-25 |
@@ -407,6 +410,7 @@
 | [Why Are You So Uptight?](https://open.spotify.com/track/4wtHmhdPXF2klIR87Xb6ZO) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Why Are You So Uptight?](https://open.spotify.com/album/2VcKtGcz6o6xWz299XLIf9) | 3:24 | 2024-12-06 |  |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 |  |
 | [Widows of Normandy](https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Widows of Normandy](https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1) | 3:10 | 2024-04-22 | 2024-09-14 |
+| [Wildfire \(Gone, Gone, Gone\) / Death Song](https://open.spotify.com/track/1VGENSgt3c628FEF6GjZKt) | [Rabbitology](https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO) | [Living Ghost](https://open.spotify.com/album/6cOpPRnzFVeC0nJTZmCQ2O) | 5:29 | 2025-01-31 |  |
 | [Willows](https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Willows](https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P) | 3:41 | 2023-10-06 | 2024-01-27 |
 | [Wimbledon White](https://open.spotify.com/track/7rRc6t3n1e2pibEWSICPBq) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Second Dinner](https://open.spotify.com/album/00RY3jnU6ElMOxJR7AasY7) | 4:07 | 2024-07-19 | 2024-10-12 |
 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-04-26 | 2024-06-01 |
@@ -418,6 +422,7 @@
 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 | 2025-01-28 |  |
 | [you were mine](https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX) | 3:41 | 2025-01-17 |  |
 | [You'd Like Me More](https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc) | [Axel & Lolo](https://open.spotify.com/artist/66uREfgVhvjUiK3RXcTAdq) | [You'd Like Me More](https://open.spotify.com/album/2SJZIS9MFmKiIKZVNFFOqD) | 3:44 | 2023-10-06 | 2024-07-13 |
+| [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-31 |  |
 | [Your Eyes Tell Stories](https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Your Eyes Tell Stories](https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE) | 5:20 | 2024-02-23 | 2024-05-11 |
 | [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 | 2024-02-16 | 2024-06-01 |
 | [Youth](https://open.spotify.com/track/6rN7TjmOYlaX5hWFVo9AYF) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Youth](https://open.spotify.com/album/0R0Maf1eLnPMxhcFNvl83b) | 4:27 | 2024-05-10 | 2024-08-27 |

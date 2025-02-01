@@ -2,9 +2,9 @@
 
 ### [Soft 80s](https://open.spotify.com/playlist/37i9dQZF1DX4WELsJtFZjZ)
 
-> Mellow songs from the 1980s\. Cover: Foreigner
+> Mellow songs from the 1980s\. Cover: Luther Vandross
 
-328 songs - 1 day 0 hr 13 min
+329 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 | 2022-01-10 |  |
 | [My Love](https://open.spotify.com/track/6l9fOwFZ2pZzGUAVnPM76l) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 4:04 | 2021-11-11 | 2022-07-26 |
 | [Never Gonna Let You Go](https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Sergio Mendes](https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU) | 4:15 | 2021-02-02 |  |
+| [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2025-01-31 |  |
 | [New York Minute](https://open.spotify.com/track/6jkqaUJm7Tv0EWpY28iQq2) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/4Y1isZbaqleNpbGDtP45ux) | 6:34 | 2021-02-02 | 2022-07-29 |
 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 | 2022-05-25 | 2023-04-16 |
 | [Nightshift](https://open.spotify.com/track/5X1P0wy0N5Uid7ORps62Wc) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Collection](https://open.spotify.com/album/5LABycDht5Rrl2kXn21IcW) | 5:04 | 2021-02-02 | 2022-07-29 |
@@ -224,7 +225,7 @@
 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 | 2022-05-25 | 2024-04-19 |
 | [Patience](https://open.spotify.com/track/1FJu4hXTvoeKsbOxA85IuZ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/48siNpffpvjRYTewfMxwPs) | 5:56 | 2022-01-10 | 2022-04-21 |
 | [Penny Lover](https://open.spotify.com/track/2dTRDAqDJf0rqVmkSgDyDn) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 5:32 | 2021-02-02 | 2022-07-29 |
-| [Piano In The Dark](https://open.spotify.com/track/7esAUabV6rHcj76syr32Uf) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Greatest Hits](https://open.spotify.com/album/3JIeRgUCtlMf3y0u0cg5ZN) | 5:20 | 2021-02-02 |  |
+| [Piano In The Dark](https://open.spotify.com/track/7esAUabV6rHcj76syr32Uf) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Greatest Hits](https://open.spotify.com/album/3JIeRgUCtlMf3y0u0cg5ZN) | 5:20 | 2021-02-02 | 2025-02-01 |
 | [Private Dancer \- 2015 Remaster](https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 7:14 | 2021-02-02 |  |
 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 | 2021-02-02 | 2024-08-05 |
 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 | 2022-01-10 | 2022-04-20 |

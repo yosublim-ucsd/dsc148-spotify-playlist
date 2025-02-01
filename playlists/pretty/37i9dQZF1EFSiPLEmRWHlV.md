@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 133 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 133 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 37 | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/track/2qfKlNXwBtGGzUuJBGZYVF) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/album/2M6A1kotD0LIMOokRXJF5J) | 2:23 |
 | 38 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 |
 | 39 | [Dancing In The Shadows](https://open.spotify.com/track/0HRAne096RNKohb88WnT67) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:37 |
-| 40 | [Sensory Division](https://open.spotify.com/track/0RHRAC8MnmFzLxKaIVMP2u) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 4:57 |
-| 41 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 |
+| 40 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 |
+| 41 | [Sensory Division](https://open.spotify.com/track/0RHRAC8MnmFzLxKaIVMP2u) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 4:57 |
 | 42 | [Oxygen](https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ten Thousand Feet & Rising](https://open.spotify.com/album/6gvdS5xw5tIgyOdj37AmzP) | 4:04 |
 | 43 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
 | 44 | [Take Control](https://open.spotify.com/track/6uFRAhzcTW5nH7v0KyUobP) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/2c0UqgOAHBLeHggL36Y535) | 4:58 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 72 | [Ice Tea](https://open.spotify.com/track/3ipskVxqlZ1YATVgAe1xvy) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ice Tea \(Huxley Remix\)](https://open.spotify.com/album/7frIC2ydIyUQFxeAjgEeDf) | 4:34 |
 | 73 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 |
 | 74 | [99 Degrees](https://open.spotify.com/track/7EafWuZIL2L0TWAUueBZSd) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [99 Degrees](https://open.spotify.com/album/2cmGrBYepfMbcHvMp93c3K) | 2:35 |
-| 75 | [Mercy](https://open.spotify.com/track/2YaGzHnKiOaUJx0FlxbFuK) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Mercy](https://open.spotify.com/album/57ddBwsqBKwxVQdyAf0gvQ) | 4:12 |
-| 76 | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL) | 3:00 |
+| 75 | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL) | 3:00 |
+| 76 | [Mercy](https://open.spotify.com/track/2YaGzHnKiOaUJx0FlxbFuK) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Mercy](https://open.spotify.com/album/57ddBwsqBKwxVQdyAf0gvQ) | 4:12 |
 | 77 | [Out of Control](https://open.spotify.com/track/434e2SzFdouV3BN3asPJw4) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Friends and Fam](https://open.spotify.com/album/6dSPW8TB4VsGsIe2S40AMD) | 2:39 |
 | 78 | [Heart & Soul](https://open.spotify.com/track/6EJCWAsghmXowYHsATICoK) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Heart & Soul](https://open.spotify.com/album/1LBJDoSJtZlJOskDr1Tuvv) | 2:47 |
 | 79 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 132 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 133 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AboSAAAAAAC2J2bRVnNjV4RXCdQD6NbU`
+Snapshot ID: `AboX0gAAAAAu+VKbTTjKuFD8v/sE7JZp`

@@ -5106,7 +5106,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 299406,
       "name": "Blue Box",
       "url": "https://open.spotify.com/track/4HLj44cAbwwXmvnjzeasTL"
@@ -6504,7 +6504,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 291848,
       "name": "Bump The Lamp",
       "url": "https://open.spotify.com/track/0fCJXcLaRb4DbG4FaAribz"
@@ -15093,6 +15093,24 @@
     },
     {
       "album": {
+        "name": "Feel The Beat",
+        "url": "https://open.spotify.com/album/4tKLIz9Lfw7Xbc0of7SI3v"
+      },
+      "artists": [
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Feel The Beat",
+      "url": "https://open.spotify.com/track/4vwMZqL89vFWxKyYSCRWHH"
+    },
+    {
+      "album": {
         "name": "Feel The Energy",
         "url": "https://open.spotify.com/album/6rIeif1b881a2mpzUKgOhD"
       },
@@ -15498,6 +15516,24 @@
       "duration_ms": 110773,
       "name": "Finest",
       "url": "https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0"
+    },
+    {
+      "album": {
+        "name": "FINGERTIPS",
+        "url": "https://open.spotify.com/album/5tmueHLMKlIuw5d4Fsycy8"
+      },
+      "artists": [
+        {
+          "name": "tesh",
+          "url": "https://open.spotify.com/artist/4bnUfGrlUSrYBRajJnAhDX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125461,
+      "name": "FINGERTIPS",
+      "url": "https://open.spotify.com/track/6CDY9Jd2xIGea5CvSXuIsE"
     },
     {
       "album": {
@@ -16570,6 +16606,24 @@
       "duration_ms": 300411,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/1mNVgjkPcL0zdhkxbayzd6"
+    },
+    {
+      "album": {
+        "name": "Freak In The Streets",
+        "url": "https://open.spotify.com/album/2XxsqMNNZPW5sD63JKxwID"
+      },
+      "artists": [
+        {
+          "name": "Darley",
+          "url": "https://open.spotify.com/artist/6ODWCHwaxlbZ1ldPVlJqGD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Freak In The Streets",
+      "url": "https://open.spotify.com/track/3av93czJjRhfXtyW8tJHbZ"
     },
     {
       "album": {
@@ -24016,6 +24070,28 @@
       "duration_ms": 366058,
       "name": "Klum",
       "url": "https://open.spotify.com/track/71VrLtKR7toPwHCgjLRmd5"
+    },
+    {
+      "album": {
+        "name": "Knock Me Off My Feet",
+        "url": "https://open.spotify.com/album/4JJLH7uHCgd2NS44esuNzt"
+      },
+      "artists": [
+        {
+          "name": "HUF",
+          "url": "https://open.spotify.com/artist/4oe1QAsrMuoPkn4CHTX5CX"
+        },
+        {
+          "name": "DJORAN",
+          "url": "https://open.spotify.com/artist/6Q5Za0tvM4bN590NEKZLLR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225103,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/5D9SwEc7nrYBBJgNFzYD3q"
     },
     {
       "album": {
@@ -39361,6 +39437,24 @@
     },
     {
       "album": {
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/70I7e2wEgktCR8KjY8YbZD"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "SPACE",
+      "url": "https://open.spotify.com/track/1TwbmmMh4HwhSn96OM7INU"
+    },
+    {
+      "album": {
         "name": "Come To London EP",
         "url": "https://open.spotify.com/album/5iWAUHe5b0uCWsjGcdswph"
       },
@@ -41448,7 +41542,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206515,
       "name": "Take me high",
       "url": "https://open.spotify.com/track/2DkIs0w42rrMmpKU52PtSv"
@@ -44053,6 +44147,24 @@
     },
     {
       "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/1W8xbFBeHZpikhyr5gW4F7"
+      },
+      "artists": [
+        {
+          "name": "Skotte",
+          "url": "https://open.spotify.com/artist/5GDfELQRat65DAU2FvjTPb"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124869,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/0fMNLNNZssbIbFFe4O9nrs"
+    },
+    {
+      "album": {
         "name": "Infatuate EP",
         "url": "https://open.spotify.com/album/4wPzBSlXjdPM6QgcvzUeSJ"
       },
@@ -46057,6 +46169,24 @@
     },
     {
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/0hvPSm9MAG1pT6FwozurqF"
+      },
+      "artists": [
+        {
+          "name": "Jey Vazz",
+          "url": "https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/43lrjztUhrmaMoVi6kSfHD"
+    },
+    {
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/1Z1L8SJPBbzvIbchU11MUw"
       },
@@ -47500,7 +47630,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195725,
       "name": "What's Next?",
       "url": "https://open.spotify.com/track/28KdWZ1YIc2UYppmYxqnYG"

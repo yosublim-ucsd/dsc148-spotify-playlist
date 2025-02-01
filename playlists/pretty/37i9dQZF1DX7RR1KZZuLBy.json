@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 57612,
+  "num_followers": 57641,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -881,24 +881,20 @@
       "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
     },
     {
-      "added_at": "2024-05-31 23:59:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Somebody to You",
-        "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
+        "name": "Count 'Em",
+        "url": "https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd"
       },
       "artists": [
         {
-          "name": "Rachael Lampa",
-          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
-        },
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 228690,
-      "name": "Somebody to You",
-      "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
+      "duration_ms": 227266,
+      "name": "COUNT 'EM",
+      "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -917,20 +913,24 @@
       "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "Count 'Em",
-        "url": "https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd"
+        "name": "Somebody to You",
+        "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        },
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 227266,
-      "name": "COUNT 'EM",
-      "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
+      "duration_ms": 228690,
+      "name": "Somebody to You",
+      "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
     },
     {
       "added_at": "2024-05-31 23:59:00",

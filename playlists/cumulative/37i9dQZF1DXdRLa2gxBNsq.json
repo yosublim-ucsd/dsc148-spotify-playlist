@@ -4259,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "Vestiglo",
+        "url": "https://open.spotify.com/album/3Wq36wotVY9MNe1Q3PUBXe"
+      },
+      "artists": [
+        {
+          "name": "Desastre Sozial",
+          "url": "https://open.spotify.com/artist/1Ippr3uOdh1syEi5tiJsRK"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177449,
+      "name": "Vestiglo",
+      "url": "https://open.spotify.com/track/0fbuBJHt8REl3gqI8bbsRB"
+    },
+    {
+      "album": {
         "name": "Queremos Diversi\u00f3n",
         "url": "https://open.spotify.com/album/4qW1DKOqCqElwTBfZNuYQN"
       },
@@ -4368,7 +4386,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 242320,
       "name": "Y sigo en pie",
       "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"

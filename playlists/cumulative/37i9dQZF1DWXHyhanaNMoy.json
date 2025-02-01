@@ -13583,20 +13583,24 @@
     },
     {
       "album": {
-        "name": "Lifestyle",
+        "name": "Lifestyle (feat. KNALLER)",
         "url": "https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP"
       },
       "artists": [
         {
           "name": "Miggs De Bruijn",
           "url": "https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx"
+        },
+        {
+          "name": "KNALLER",
+          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
         }
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150967,
-      "name": "Lifestyle",
+      "name": "Lifestyle (feat. KNALLER)",
       "url": "https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6"
     },
     {

@@ -9455,6 +9455,24 @@
     },
     {
       "album": {
+        "name": "My Sunshine",
+        "url": "https://open.spotify.com/album/7vEZorTefJ4Qem2QFHnuyc"
+      },
+      "artists": [
+        {
+          "name": "Coffee Cub",
+          "url": "https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140686,
+      "name": "My Sunshine",
+      "url": "https://open.spotify.com/track/3ZNZqvp0s1oc7ZtnrDLpsx"
+    },
+    {
+      "album": {
         "name": "Navigation",
         "url": "https://open.spotify.com/album/5xp6XLUeKnihtacMzsRMkZ"
       },
@@ -10084,6 +10102,24 @@
       "duration_ms": 147512,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/6Ndz6v9hUupSKbuonYbtM1"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/12kBVKgqkdDmy5I6menuvU"
+      },
+      "artists": [
+        {
+          "name": "Coffee Cub",
+          "url": "https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127979,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/5z7L5Y6g0WbpTF0xalebxe"
     },
     {
       "album": {
@@ -15688,6 +15724,28 @@
       "duration_ms": 153466,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/2esaWj2n6a6u8lgJTHErlH"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/75WdbHFNhcNna9gLW229lL"
+      },
+      "artists": [
+        {
+          "name": "Arley",
+          "url": "https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt"
+        },
+        {
+          "name": "Descend",
+          "url": "https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/195FCOZRj3Z7H5AvfTwzbx"
     },
     {
       "album": {

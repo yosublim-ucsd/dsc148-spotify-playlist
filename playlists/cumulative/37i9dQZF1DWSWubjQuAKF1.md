@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Lola Young
 
-313 songs - 14 hr 59 min
+314 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [chłopcy](https://open.spotify.com/track/4BupR2P5QwoQNudwGNz2f4) | [RYSIA](https://open.spotify.com/artist/3sobbRn7Mx3TM6HAACPYTp) | [chłopcy](https://open.spotify.com/album/0HyxlVOaa4Cf7KTSdDGzWN) | 2:24 | 2024-06-28 | 2024-07-19 |
 | [Clean girl era](https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [Clean girl era](https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE) | 2:37 | 2024-07-18 | 2024-10-19 |
 | [come over?](https://open.spotify.com/track/5Y1REJUiVtJGGUAqTEphWz) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [come over?](https://open.spotify.com/album/41DUwYHE0GETfovi2havgJ) | 2:40 | 2025-01-23 |  |
+| [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 | 2025-01-30 |  |
 | [cytryny](https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [cytryny](https://open.spotify.com/album/7ff1IXrHp9ownWMMZC2KdK) | 4:24 | 2025-01-23 |  |
 | [cześć](https://open.spotify.com/track/6AS5rQyTrxZhx78KLODdo8) | [iga casp](https://open.spotify.com/artist/3voDFCGW20SxhuZ8Far400), [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [cześć](https://open.spotify.com/album/3BVpfC5UOknCXhYprn9mfb) | 3:03 | 2024-06-28 | 2024-07-27 |
 | [czuje sie jak w orange county](https://open.spotify.com/track/5NTx74dnDrvRbnGhiBAyoB) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [czuje sie jak w orange county](https://open.spotify.com/album/6RbfzOC39Tv7VwAozhJYb0) | 3:08 | 2024-06-28 | 2024-08-31 |
@@ -213,7 +214,7 @@
 | [Pamiętasz nas?](https://open.spotify.com/track/6HvzmkNyvkqBa3GBUiCjjp) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Pamiętasz nas?](https://open.spotify.com/album/7c9gbhkW4siOnhnezkPV64) | 3:11 | 2024-06-28 | 2024-07-12 |
 | [pamiętasz?](https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Bartek Królik](https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 2:42 | 2024-06-28 | 2024-11-22 |
 | [Pamiętasz?](https://open.spotify.com/track/7Hl9kN1XUyYy6GF3PDuszJ) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Pamiętasz?](https://open.spotify.com/album/55VJTpMsVzBuWIATjiREFb) | 3:56 | 2024-11-21 | 2025-01-24 |
-| [Para](https://open.spotify.com/track/1v5hiDzRDTqFaOlkw6w4ew) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Momenty](https://open.spotify.com/album/4PzF7jH91o75GXjFwvTaLa) | 3:08 | 2025-01-30 |  |
+| [Para](https://open.spotify.com/track/1v5hiDzRDTqFaOlkw6w4ew) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Momenty](https://open.spotify.com/album/4PzF7jH91o75GXjFwvTaLa) | 3:08 | 2025-01-30 | 2025-02-01 |
 | [Pastelowe Kredki](https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Pastelowe Kredki](https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN) | 2:00 | 2024-12-06 | 2025-01-24 |
 | [Peron](https://open.spotify.com/track/4nDKB41PC9p4atL5KD8wLI) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Peron](https://open.spotify.com/album/3Ql2LGYrdsMpxsaLG33SlK) | 2:46 | 2024-06-28 | 2024-08-31 |
 | [Personel](https://open.spotify.com/track/3QNut4m1u4KfAWAQAkDjfr) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [Personel](https://open.spotify.com/album/5sfZmMMMkTTi64vEXQgFQH) | 3:53 | 2025-01-23 |  |

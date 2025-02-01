@@ -271,6 +271,24 @@
     },
     {
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/6cb5AZTk6mmPWwraOmAORI"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199791,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/4vBsaMKp2vjfKupke1fF4v"
+    },
+    {
+      "album": {
         "name": "ADDY",
         "url": "https://open.spotify.com/album/0D0Lse0MQYSqniC9es3wcA"
       },
@@ -382,6 +400,32 @@
       "duration_ms": 227103,
       "name": "ah a\u0363h\u036a a\u0363h\u036ah\u036ah\u036ah\u036a - Club Nowadays, Vol. 4",
       "url": "https://open.spotify.com/track/01CR2L7Ov1QjRgO51DOWgv"
+    },
+    {
+      "album": {
+        "name": "El Gran Maestro",
+        "url": "https://open.spotify.com/album/3V0A04EW0fYE5dfer51wAS"
+      },
+      "artists": [
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        },
+        {
+          "name": "Rosa Pistola",
+          "url": "https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX"
+        },
+        {
+          "name": "Pedro Mexa",
+          "url": "https://open.spotify.com/artist/0imRAiXtD96YH0HZAUCJTW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Ahkin Da",
+      "url": "https://open.spotify.com/track/7qxIt9HYJa3oaHB4u9wd1f"
     },
     {
       "album": {
@@ -508,7 +552,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 344275,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/3Edc6iMJdw2mN9VKrHmklm"
@@ -602,6 +646,24 @@
       "duration_ms": 251304,
       "name": "Arachnids",
       "url": "https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu"
+    },
+    {
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/7po65i8McsQUpLPDGTTTUj"
+      },
+      "artists": [
+        {
+          "name": "Breaka",
+          "url": "https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285874,
+      "name": "Are We There",
+      "url": "https://open.spotify.com/track/5h4GZTP5GLrkO9UK4FaN4u"
     },
     {
       "album": {
@@ -824,7 +886,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 231765,
       "name": "BADDDMANNN",
       "url": "https://open.spotify.com/track/6tvglFdRMna9COLn0Ujo5e"
@@ -1900,7 +1962,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 380000,
       "name": "Close To You - Octo Octa\u2019s Voices Reaching Out Remix",
       "url": "https://open.spotify.com/track/75Hcu4hKfTTESvRWXLys53"
@@ -1962,7 +2024,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 322690,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/5NVSryWlbH5LEq77Ws1ktV"
@@ -2552,6 +2614,42 @@
       "duration_ms": 213206,
       "name": "Do It Again (feat. 2Rare)",
       "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
+    },
+    {
+      "album": {
+        "name": "do you hear me?",
+        "url": "https://open.spotify.com/album/4zxYwdNlikDD65aMGnLKqX"
+      },
+      "artists": [
+        {
+          "name": "Ineffekt",
+          "url": "https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "do you hear me?",
+      "url": "https://open.spotify.com/track/4IBCc4MNDzCjQK6GKvLlwQ"
+    },
+    {
+      "album": {
+        "name": "Missing Tracks, Vol. 1",
+        "url": "https://open.spotify.com/album/2C3TTpv8H8qkNrOps939MJ"
+      },
+      "artists": [
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Do You Want Some",
+      "url": "https://open.spotify.com/track/089xdZPilUZzEF1eVXsLl9"
     },
     {
       "album": {
@@ -5728,7 +5826,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 297270,
       "name": "MEET ME AT THE TEMPLE",
       "url": "https://open.spotify.com/track/68L0K7SulwNR6ycmdWrDib"
@@ -7357,6 +7455,24 @@
     },
     {
       "album": {
+        "name": "Jump Start",
+        "url": "https://open.spotify.com/album/7g3s82IzIJx7JPowahCrBR"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138975,
+      "name": "RIGHT TURN ON RED",
+      "url": "https://open.spotify.com/track/0w3QggJrL5NujLy4wAkQno"
+    },
+    {
+      "album": {
         "name": "Rok The Hips",
         "url": "https://open.spotify.com/album/3N6pe44E2ta1C7C4vsbpxn"
       },
@@ -7718,7 +7834,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 231860,
       "name": "SHELLAC - Edit",
       "url": "https://open.spotify.com/track/2i9agRnat2vvCkp5PEsRfd"

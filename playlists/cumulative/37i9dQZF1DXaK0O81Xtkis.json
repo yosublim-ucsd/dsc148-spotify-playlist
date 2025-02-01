@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop.  Cover: Knox",
+  "description": "a little indie, a little pop.  Cover: Tom Grennan",
   "name": "soda",
   "tracks": [
     {
@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 128526,
       "name": "All My Love (Imperative)",
       "url": "https://open.spotify.com/track/7prVGmvafmUBl7Kz0IxNJo"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 142431,
       "name": "BACK FOR YA",
       "url": "https://open.spotify.com/track/1fdzj3vFjt0GnMv97kjG0O"
@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
+    },
+    {
+      "album": {
         "name": "Better Than Real Life",
         "url": "https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng"
       },
@@ -2026,6 +2044,24 @@
       "duration_ms": 202546,
       "name": "Birthmark",
       "url": "https://open.spotify.com/track/0WBkEWQ7evLCkPRLehTJeY"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/4fa718GM4u2gzw2iHFQZBf"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/1iAnZUotftnMCCLPcsoUtx"
     },
     {
       "album": {
@@ -4111,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "Communicating",
+        "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Communicating",
+      "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
+    },
+    {
+      "album": {
         "name": "COMPLETE MESS",
         "url": "https://open.spotify.com/album/5nALCJT36REzB4oFpXki54"
       },
@@ -4288,6 +4342,24 @@
       "duration_ms": 228000,
       "name": "Coping on Unemployment",
       "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
+    },
+    {
+      "album": {
+        "name": "Coraline",
+        "url": "https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169013,
+      "name": "Coraline",
+      "url": "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF"
     },
     {
       "album": {
@@ -6186,6 +6258,28 @@
       "duration_ms": 150693,
       "name": "f**k it, i'm the man",
       "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
+    },
+    {
+      "album": {
+        "name": "Young EP",
+        "url": "https://open.spotify.com/album/7bJWIPBR9QzymFCgqrXcf1"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        },
+        {
+          "name": "Alexander the Grape",
+          "url": "https://open.spotify.com/artist/192YHGILC1xQnxehMvFnqT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181602,
+      "name": "F.O.T.I.",
+      "url": "https://open.spotify.com/track/6KUGX92HNE6TxQn9bpMQAM"
     },
     {
       "album": {
@@ -9763,6 +9857,28 @@
     },
     {
       "album": {
+        "name": "i shouldn\u2019t call you (w/ Nightly)",
+        "url": "https://open.spotify.com/album/2iaPZAC0JXKjD0YrKQY16f"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        },
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "i shouldn\u2019t call you (w/ Nightly)",
+      "url": "https://open.spotify.com/track/7LYBMhke7RVEEpO88z3T5T"
+    },
+    {
+      "album": {
         "name": "i still love you",
         "url": "https://open.spotify.com/album/3rkJlvx0i7eUaJmWPqZ3oy"
       },
@@ -10478,7 +10594,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191622,
       "name": "IOU",
       "url": "https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell"
@@ -14349,6 +14465,24 @@
     },
     {
       "album": {
+        "name": "Yue",
+        "url": "https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154213,
+      "name": "nylon",
+      "url": "https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr"
+    },
+    {
+      "album": {
         "name": "Off By Heart",
         "url": "https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1"
       },
@@ -16423,6 +16557,32 @@
     },
     {
       "album": {
+        "name": "Same Old Story",
+        "url": "https://open.spotify.com/album/6SRh9ykaXuheaC83PahQ4o"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171976,
+      "name": "Same Old Story",
+      "url": "https://open.spotify.com/track/7jyy9JO1IT3txW2FMLNLf5"
+    },
+    {
+      "album": {
         "name": "Same Team",
         "url": "https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i"
       },
@@ -16675,6 +16835,24 @@
     },
     {
       "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/6LCUa6ZtfjsP21VZRoCjTT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Second Wind",
+      "url": "https://open.spotify.com/track/2gTneFmEt5ycP3sxYENcEj"
+    },
+    {
+      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
       },
@@ -16816,6 +16994,24 @@
       "duration_ms": 181351,
       "name": "seventeen",
       "url": "https://open.spotify.com/track/5P4PW71fDmfehRrxBuG9OF"
+    },
+    {
+      "album": {
+        "name": "Shadowboxing",
+        "url": "https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Shadowboxing",
+      "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
     },
     {
       "album": {
@@ -20527,6 +20723,24 @@
     },
     {
       "album": {
+        "name": "U MOVE",
+        "url": "https://open.spotify.com/album/4dzOH4gC4zMRZGAxLMcuRx"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182875,
+      "name": "U MOVE",
+      "url": "https://open.spotify.com/track/5GUiWiiIQuKwyaEn1zB8oc"
+    },
+    {
+      "album": {
         "name": "ugly",
         "url": "https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve"
       },
@@ -20636,6 +20850,24 @@
       "duration_ms": 193407,
       "name": "Underneath My Skin",
       "url": "https://open.spotify.com/track/239RFmkTfBL2VmExbgkuBm"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "album": {
@@ -20766,7 +20998,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217493,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/3sJR7tgG3DbrE8pEsAM6h0"
@@ -21437,6 +21669,24 @@
     },
     {
       "album": {
+        "name": "what never lived",
+        "url": "https://open.spotify.com/album/1Gtl6W5pDIdlcsD2wscbC0"
+      },
+      "artists": [
+        {
+          "name": "hannah bahng",
+          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212495,
+      "name": "what never lived",
+      "url": "https://open.spotify.com/track/5smSt2cCnzsyeWcSjIMQq3"
+    },
+    {
+      "album": {
         "name": "WHAT THE HELL",
         "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
@@ -21452,6 +21702,24 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+    },
+    {
+      "album": {
+        "name": "What The Hell Do We Do Now?",
+        "url": "https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193557,
+      "name": "What The Hell Do We Do Now?",
+      "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
     },
     {
       "album": {

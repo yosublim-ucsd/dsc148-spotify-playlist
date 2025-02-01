@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Cover: Shygirl",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Cover: deBasement",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Disco Daddy",
+        "url": "https://open.spotify.com/album/02v8nHTkMf4dQwnB4FWYKS"
+      },
+      "artists": [
+        {
+          "name": "Disco Shrine",
+          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Disco Daddy",
+      "url": "https://open.spotify.com/track/1fFcJqtvhU73Q8NNyv9rOF"
+    },
+    {
+      "album": {
         "name": "Do Dat Baby",
         "url": "https://open.spotify.com/album/2qvRboRK59jvKqYS0MMyi0"
       },
@@ -1927,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "F.F.F.T.DJ",
+        "url": "https://open.spotify.com/album/60GqhNB2MM7l9wwmsUDNOR"
+      },
+      "artists": [
+        {
+          "name": "deBasement",
+          "url": "https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201563,
+      "name": "F.F.F.T.DJ",
+      "url": "https://open.spotify.com/track/7yzo7xOGnvUZviEawNz5sL"
+    },
+    {
+      "album": {
         "name": "Time and Space",
         "url": "https://open.spotify.com/album/35Adds1vrUAuB3HWJ6Bzj0"
       },
@@ -2352,7 +2388,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 140068,
       "name": "GUESS",
       "url": "https://open.spotify.com/track/0eNyt9NmppskKVo0fw0XmT"
@@ -3236,7 +3272,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 160250,
       "name": "Jump, Bounce",
       "url": "https://open.spotify.com/track/75oyg5VA2vBIwyVvUBO5mk"
@@ -4192,7 +4228,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 123555,
       "name": "Next Bitch",
       "url": "https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU"
@@ -4344,6 +4380,24 @@
       "duration_ms": 213351,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2"
+    },
+    {
+      "album": {
+        "name": "off to the ESSO",
+        "url": "https://open.spotify.com/album/5FRLG42HT660dswh54SSrA"
+      },
+      "artists": [
+        {
+          "name": "aya",
+          "url": "https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209984,
+      "name": "off to the ESSO",
+      "url": "https://open.spotify.com/track/1l344tXmFBDrSl141i5hKL"
     },
     {
       "album": {
@@ -4597,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "PONY (RIDE ME)",
+        "url": "https://open.spotify.com/album/6np6tnmDQv0uWg4IugVNdW"
+      },
+      "artists": [
+        {
+          "name": "BIG WETT",
+          "url": "https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "PONY (RIDE ME)",
+      "url": "https://open.spotify.com/track/20lRk7PefckQyVINUfhRuH"
+    },
+    {
+      "album": {
         "name": "KICK ii",
         "url": "https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy"
       },
@@ -4660,7 +4732,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161250,
       "name": "PRETTY GIRL PARTY",
       "url": "https://open.spotify.com/track/05pY7oV9FTyS2gCGdUR32Z"
@@ -4766,7 +4838,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 182666,
       "name": "Rave Generator (feat. DJ Flapjack)",
       "url": "https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr"
@@ -5886,6 +5958,24 @@
       "duration_ms": 193351,
       "name": "The Meek Shall Inherit the Earth",
       "url": "https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw"
+    },
+    {
+      "album": {
+        "name": "THE PENTHOUSE",
+        "url": "https://open.spotify.com/album/5OkjiOcwzkdZlM2tT1zKIn"
+      },
+      "artists": [
+        {
+          "name": "Michael Medrano",
+          "url": "https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146610,
+      "name": "THE PENTHOUSE",
+      "url": "https://open.spotify.com/track/1uwdi6M8rXKo50VsIiDDA8"
     },
     {
       "album": {

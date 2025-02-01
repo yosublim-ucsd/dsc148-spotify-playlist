@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-157 songs - 8 hr 40 min
+158 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Oh My My](https://open.spotify.com/track/3f8WNNyHJMxYBCTAoRTPle) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Oh My My](https://open.spotify.com/album/3cntJ1GcTKQC7F8OqMuFY8) | 3:39 | 2023-08-04 |  |
 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 | 2022-08-31 | 2024-04-19 |
 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 | 2021-02-12 |  |
+| [Open Vein](https://open.spotify.com/track/0eM9O9JUOXjJ01xY6aU37v) | [Thorn Haze](https://open.spotify.com/artist/5RabBA09ck5cTUNp7OtbAw) | [Open Vein](https://open.spotify.com/album/1WgyhC5z5cwOh6xWZYqcBS) | 2:36 | 2025-01-31 |  |
 | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/track/5fcisGWiGPqr3hkPy0h1mr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ) | 3:30 | 2021-02-12 |  |
 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 | 2021-02-12 |  |
 | [Ragdoll Blues](https://open.spotify.com/track/4wHwlKV0LSM3UPF9OiiPZE) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Ragdoll Blues](https://open.spotify.com/album/0VzUNANfJqr246jgfUrclU) | 3:36 | 2023-08-11 | 2023-09-26 |
@@ -131,7 +132,7 @@
 | [Slow Down \(No Need to Worry\)](https://open.spotify.com/track/4Lfsre3Eip6TADVeduK1VW) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(With Me\)](https://open.spotify.com/album/798myu49T30x19CgMckKis) | 4:01 | 2024-08-23 |  |
 | [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 | 2024-05-31 | 2024-10-26 |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-02-12 |  |
-| [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 | 2021-02-19 |  |
+| [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 | 2021-02-19 | 2025-02-01 |
 | [Stop Signs](https://open.spotify.com/track/2kkhEPxNDzd3dxUqONczys) | [Rett Smith](https://open.spotify.com/artist/5kUrt5kAUdhzM0trOQaVGA) | [A Weighted Remorse](https://open.spotify.com/album/06YeJ5pOcE75ZImaGvQRXi) | 2:17 | 2024-09-13 |  |
 | [Storm Came](https://open.spotify.com/track/4p1v9sQlYc8WXeYNAK33iW) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Storm Came](https://open.spotify.com/album/0CkZRAEKBWKKTPbpsJpZzN) | 2:18 | 2021-02-12 |  |
 | [Surrender](https://open.spotify.com/track/4BfT2o6RDR3dOATt0e3XhR) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 3:36 | 2022-08-31 | 2023-11-18 |

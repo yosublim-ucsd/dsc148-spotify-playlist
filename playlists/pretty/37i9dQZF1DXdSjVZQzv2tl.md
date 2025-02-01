@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,856,374 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,857,137 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 30 | [Xonei](https://open.spotify.com/track/5sKGmZDmkGwFed5dPpZpZL) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Xonei](https://open.spotify.com/album/711n0ABtpMF0SjSuDrM1PK) | 2:34 |
 | 31 | [Aceita Que Ela Tá Comigo \- Ao Vivo](https://open.spotify.com/track/1aKO7s5pKClaGB31yW0tWg) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Ao Vivo Em São Paulo \- Vol\. 1](https://open.spotify.com/album/3p0oXCvFis7r9CfA4xFN7V) | 2:33 |
 | 32 | [Imagina \- Ao Vivo](https://open.spotify.com/track/0BvzY9PCRufFPt51fvnhOI) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [No Pelo 360 \- Ao Vivo no 062](https://open.spotify.com/album/4kjCJEhjBMvh1p9aYOutCs) | 3:19 |
-| 33 | [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 |
+| 33 | [Fechando o Circo \- Ao Vivo](https://open.spotify.com/track/37bToUvlC32varJ3IT4XUE) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Fechando o Circo \(Ao Vivo\)](https://open.spotify.com/album/6XE2K6nUxUPazElDJuNBuk) | 2:14 |
 | 34 | [Entregador de Flor \- Ao Vivo em Brasília](https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:10 |
 | 35 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \(Ao Vivo\)](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
 | 36 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/3whfTX0NBHhjynUlARMf7q) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Desconhecido \(Ao Vivo\)](https://open.spotify.com/album/3C0hakkn04yiefoCYqdJ5O) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Morar Nesse Motel](https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Morar Nesse Motel](https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy) | 3:07 |
 | 50 | [Ativou a Saudade \- Ao Vivo](https://open.spotify.com/track/513hO8ivMCeHoV25e1ivOa) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ativou a Saudade \(Ao Vivo\)](https://open.spotify.com/album/7Abtn5OTa0B4CsJP0EFlDw) | 2:53 |
 
-Snapshot ID: `Z5w9agAAAAAjCXok51CscKykYFy5WZAN`
+Snapshot ID: `Z50FWAAAAAAXrLBRyWlKqk9D/q7L0bBS`

@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-295 songs - 13 hr 33 min
+297 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [evolutions](https://open.spotify.com/track/1YMG8eqZVOstN5Yw6SBGeX) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [evolutions](https://open.spotify.com/album/7dxngiRlQql8lyVPsYduHa) | 2:00 | 2022-06-10 | 2023-09-09 |
 | [Fabula](https://open.spotify.com/track/2jiWlVsc1MslHMKYIrf2Tp) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Fabula](https://open.spotify.com/album/7h24RWCo6tYMtvBXYfBdln) | 3:07 | 2020-10-20\* |  |
 | [Falling Into Myself](https://open.spotify.com/track/1s2H9ipBuw8CbqTvmi9wc4) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Dreamland](https://open.spotify.com/album/1NwKSU521fcHWGet98ka6r) | 2:14 | 2020-10-20\* | 2021-09-24 |
+| [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 | 2025-01-31 |  |
 | [Falling Leaves](https://open.spotify.com/track/16dhRq1tbtLnqtjWUPje17) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Falling Leaves](https://open.spotify.com/album/60rJEO2Kkzak6sxmV5784E) | 2:29 | 2020-10-20\* | 2021-11-17 |
 | [Far Away](https://open.spotify.com/track/1mqK2PZBW1KAjERJkoIRKe) | [Elena Fallwell](https://open.spotify.com/artist/0nDRFIhjddwj0YGtSYwrZ7) | [Far Away](https://open.spotify.com/album/1xquyPMS8YUC2kiohgH68P) | 1:58 | 2020-10-20\* | 2023-09-09 |
 | [Fiesso d’Artico](https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Fiesso d’Artico](https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs) | 2:39 | 2024-04-17 |  |
@@ -284,6 +285,7 @@
 | [Ups & Downs](https://open.spotify.com/track/4fjEDWJKkQpaBZVsRBXe10) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Ups & Downs](https://open.spotify.com/album/2vHvkB9l45jwu517zX7f6x) | 2:08 | 2023-09-26 |  |
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2020-10-20\* | 2023-09-09 |
 | [Valse Mulsanne](https://open.spotify.com/track/4W3IYRqNBnQ5HYeoaU9YdF) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Mulsanne](https://open.spotify.com/album/4RLS1pexXBhZz211nuYUov) | 3:12 | 2020-10-20\* | 2021-10-21 |
+| [Veil of Mist](https://open.spotify.com/track/52HAHYA9Gzq944jrHYBhXV) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Veil of Mist](https://open.spotify.com/album/5t4Bm9ZKcyxhgtvtNu6abP) | 2:10 | 2025-01-31 |  |
 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-08 | 2023-09-09 |
 | [Vertical Seas](https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Vertical Seas](https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA) | 3:01 | 2024-12-20 |  |
 | [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 | 2023-09-08 |  |

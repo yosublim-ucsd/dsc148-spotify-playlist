@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Bellisima",
+        "url": "https://open.spotify.com/album/0ixI1I23HfN63TnflEgGLM"
+      },
+      "artists": [
+        {
+          "name": "CDG",
+          "url": "https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166981,
+      "name": "Bellisima",
+      "url": "https://open.spotify.com/track/0AxYEMfUkrTKLqjkUqu0cF"
+    },
+    {
+      "album": {
         "name": "Nouvelle \u00e8re",
         "url": "https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti"
       },
@@ -2045,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Ekoya",
+        "url": "https://open.spotify.com/album/5rCvajgZQMkTJoHhiGZxgb"
+      },
+      "artists": [
+        {
+          "name": "Jupiter & Okwess",
+          "url": "https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159413,
+      "name": "Congo Blinders",
+      "url": "https://open.spotify.com/track/69SH3kgTG4ocWctPouAWSP"
+    },
+    {
+      "album": {
         "name": "AMBITION II",
         "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
       },
@@ -3086,6 +3122,24 @@
       "duration_ms": 133560,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/5K2MNMBLGtWgSVHPu4fegX"
+    },
+    {
+      "album": {
+        "name": "Et si..",
+        "url": "https://open.spotify.com/album/5Y9vOsCmJ9hxdH3L9nUB5j"
+      },
+      "artists": [
+        {
+          "name": "Kayson",
+          "url": "https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183939,
+      "name": "Et si..",
+      "url": "https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG"
     },
     {
       "album": {
@@ -6198,7 +6252,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 142306,
       "name": "Miel",
       "url": "https://open.spotify.com/track/5xrZngLg030qda7Qd7MvST"
@@ -7052,7 +7106,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206575,
       "name": "Ndombopiano",
       "url": "https://open.spotify.com/track/0aK0i6PWv3KHjMwAFf4SpM"
@@ -7284,7 +7338,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 134147,
       "name": "Nous Deux",
       "url": "https://open.spotify.com/track/4SKamIlowPlWqUYwc0M31W"
@@ -8914,7 +8968,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 237203,
       "name": "Smarta With Data",
       "url": "https://open.spotify.com/track/7l3WsQd4D26YgKT4NadSaq"
@@ -9234,6 +9288,28 @@
       "duration_ms": 139528,
       "name": "Tchiriri",
       "url": "https://open.spotify.com/track/5Dhs0Yvv9sWgSmnEeYHTdy"
+    },
+    {
+      "album": {
+        "name": "Tchoutchou (feat. Naza)",
+        "url": "https://open.spotify.com/album/4Ok4R1NSMZ2KvomrwjDGd0"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169397,
+      "name": "Tchoutchou (feat. Naza)",
+      "url": "https://open.spotify.com/track/2rU1FOnkqEGgYzEJs7H7q3"
     },
     {
       "album": {
@@ -9990,7 +10066,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 173266,
       "name": "Une histoire",
       "url": "https://open.spotify.com/track/24JfEcLed7ACdaat7SzXVs"
@@ -10238,6 +10314,28 @@
       "duration_ms": 409426,
       "name": "Wake up",
       "url": "https://open.spotify.com/track/4qRgqWuM5PNKiuD7x3UPP9"
+    },
+    {
+      "album": {
+        "name": "We Like",
+        "url": "https://open.spotify.com/album/6YJQgTzZksirShExF4rvCJ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "We Like",
+      "url": "https://open.spotify.com/track/52j4ZPqoJCQaq4LlTrRUL7"
     },
     {
       "album": {

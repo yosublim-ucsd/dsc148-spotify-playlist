@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Central Cee, Travis Scott and Sexyy Red. ",
+  "description": "Music from Travis Scott, Latto and Playboi Carti.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180000,
       "name": "25",
       "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
@@ -5591,6 +5591,28 @@
     },
     {
       "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "album": {
         "name": "BLAME IT ON BABY (DELUXE)",
         "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
       },
@@ -6564,7 +6586,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217613,
       "name": "Brokey",
       "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
@@ -7850,7 +7872,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191426,
       "name": "Cherchez LaGhost (feat. U-God)",
       "url": "https://open.spotify.com/track/5OsVXAWDMK7v37MwKEDjcD"
@@ -9042,6 +9064,28 @@
       "duration_ms": 202815,
       "name": "Creature (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/3eV2WT9YhfzkxbufnBF8wK"
+    },
+    {
+      "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "CRG (feat. Dave)",
+      "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
     },
     {
       "album": {
@@ -13346,6 +13390,24 @@
       "duration_ms": 157506,
       "name": "Floor Seats",
       "url": "https://open.spotify.com/track/645O1frAHmClaFygFT9EZa"
+    },
+    {
+      "album": {
+        "name": "Florida Boy",
+        "url": "https://open.spotify.com/album/2EffsPrxXhoDznoRMUd5NF"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124064,
+      "name": "Florida Boy",
+      "url": "https://open.spotify.com/track/60pLVKlxlxcE1nkbccLavt"
     },
     {
       "album": {
@@ -18722,6 +18784,32 @@
       "duration_ms": 186692,
       "name": "Housekeeping Knows (feat. Latto)",
       "url": "https://open.spotify.com/track/1b8Uy52q8fZUBTlRkoXoT5"
+    },
+    {
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205298,
+      "name": "Houstatlantaville (feat. Lil Baby & Travis Scott)",
+      "url": "https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1"
     },
     {
       "album": {
@@ -27854,7 +27942,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161306,
       "name": "No Introduction",
       "url": "https://open.spotify.com/track/0zgcef8wT0O27OI2vPGnB9"
@@ -41844,7 +41932,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 150997,
       "name": "The Viper",
       "url": "https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C"

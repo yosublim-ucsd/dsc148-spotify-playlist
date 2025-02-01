@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,422 likes - 75 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,455 likes - 75 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 33 | [Uyire Uyire](https://open.spotify.com/track/0hUGQUSf8YcHdOnQG9AFth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 7:14 |
 | 34 | [Veerapandi Kotayyile](https://open.spotify.com/track/20GvRntcVUf2iB9yuN5jZ3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 6:29 |
 | 35 | [Theanmearkku Paruva](https://open.spotify.com/track/3IUcrq0BDBWRP3siSHuX3P) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Karuthamma](https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW) | 5:02 |
-| 36 | [Romeo Attam Potal](https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Mr\. Romeo](https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx) | 5:38 |
+| 36 | [Thayya Thayya](https://open.spotify.com/track/6otKKnSdVkg0OYGdJIK9NM) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Subha](https://open.spotify.com/artist/1wLg8vfE4nshGpjohoeXeQ) | [Uyire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s) | 6:49 |
 | 37 | [Kathalikkum Penin Kaikal](https://open.spotify.com/track/7HHMnYSDwFRrsPThKwp1Ba) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [S.P\. Pallavi](https://open.spotify.com/artist/31zE3XsSq1gHAik8uajDFP) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 4:49 |
-| 38 | [Thayya Thayya](https://open.spotify.com/track/6otKKnSdVkg0OYGdJIK9NM) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Subha](https://open.spotify.com/artist/1wLg8vfE4nshGpjohoeXeQ) | [Uyire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s) | 6:49 |
+| 38 | [Romeo Attam Potal](https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Mr\. Romeo](https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx) | 5:38 |
 | 39 | [Poralea Ponnu Thai\-Happy](https://open.spotify.com/track/1nMnhtBGhdwu04naNw2mbf) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Karuthamma](https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW) | 5:42 |
 | 40 | [Nee Kattum Selai](https://open.spotify.com/track/3XQBlwW2QE8i9ykGctVMbm) | [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD) | [Pudhiya Mannargal](https://open.spotify.com/album/4ikOUhRd1eGnmCDNBGpMJL) | 5:24 |
 | 41 | [Jumballakka](https://open.spotify.com/track/2P1wERinlW4BdTFzFVXXVR) | [Rafee](https://open.spotify.com/artist/5K3q2zudwdnRiPzbNEm0dc) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 6:19 |

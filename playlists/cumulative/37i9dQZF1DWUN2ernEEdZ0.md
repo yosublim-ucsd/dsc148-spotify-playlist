@@ -4,7 +4,7 @@
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Jeneba Kanneh\-Mason.
 
-36 songs - 2 hr 12 min
+37 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Theme \- From "American Beauty"](https://open.spotify.com/track/0YjaC9peYewdRxCTCNd3hX) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Newman: Theme \(From "American Beauty"\)](https://open.spotify.com/album/2BB8KvmXDHz69BVSpFI6Pb) | 3:51 | 2025-01-24 |  |
 | [Together Without You \(Solo Piano Version\)](https://open.spotify.com/track/5vGns3SGrcSQFUfxuhQ0zT) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together Without You \(Solo Piano Version\)](https://open.spotify.com/album/4qlRWzYVeWDuKre2VNd0Q8) | 3:33 | 2025-01-24 |  |
 | [Turandot, SC 91: Nessun dorma](https://open.spotify.com/track/6zagJMi6gpqVQSX8yWNe3F) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Jonathan Tetelman](https://open.spotify.com/artist/1R6qryuCn32Ig78bYV3uJU), [PKF – Prague Philharmonia](https://open.spotify.com/artist/4lnqr8PGdrwgyUeRfzHoZX), [Carlo Rizzi](https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf) | [The Great Puccini](https://open.spotify.com/album/3jXBDXu9NiK2Jsr6gi8aUs) | 3:01 | 2025-01-24 |  |
+| [Violin Concerto No\. 1, Op\. 20: II\. Andante Espressivo](https://open.spotify.com/track/0Sf2TkMK3m8ct9XEWbkLRf) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Leia Zhu](https://open.spotify.com/artist/55KXAKmEjuyLzsTjoaVP5O), [ORF Vienna Radio Symphony Orchestra](https://open.spotify.com/artist/1OvvoI3xjRgd6L8ddzsBqR), [Howard Griffiths](https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq) | [Violin Concerto No\. 1, Op\. 20](https://open.spotify.com/album/7AmA2iNr1Aw63xBYnG6w78) | 3:35 | 2025-01-31 |  |
 | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/track/3PNbcJH2CPBvLnd6lF2g12) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz), [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/album/6TQ31OQSex24hz8PrE6vXB) | 2:22 | 2025-01-24 |  |
 | [Wiegala \(Arr\. for Violin and String Quintet by Esther Abrami\)](https://open.spotify.com/track/047hDThUrQfxqye3s4zahb) | [Ilse Weber](https://open.spotify.com/artist/4y6L0sR2VEMm4JtuRoCtJ6), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Esther Abrami Ensemble](https://open.spotify.com/artist/3RwLOpBYQ4MK3htNGKimtz) | [Wiegala \(Arr\. for Violin and String Quintet by Esther Abrami\)](https://open.spotify.com/album/2f82mjX0vistYuipYG1rsx) | 3:02 | 2025-01-24 |  |
 | [Winter Light \(Version for Saxophone & Ensemble\)](https://open.spotify.com/track/4Fb69m7ImDBFq43qquzfuy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [Gjeilo: Winter Light \(Version for Saxophone & Ensemble\)](https://open.spotify.com/album/385YudCNpN3BO1RgM3xBRL) | 2:50 | 2025-01-24 |  |

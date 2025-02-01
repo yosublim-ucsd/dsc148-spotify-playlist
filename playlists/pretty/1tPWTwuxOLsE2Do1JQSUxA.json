@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with all the summer hits and bangers you'll need. From Beyonc\u00e9, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....",
-  "num_followers": 458579,
+  "num_followers": 458553,
   "original_name": "2010s Summer Pop Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",
   "owner": {
     "name": "Filtr UK",
     "url": "https://open.spotify.com/user/sonymusicuk"
   },
-  "snapshot_id": "AAAMtroU5i6tfuSluxKFVv81vtgIBC43",
+  "snapshot_id": "AAAMuF2X52NZf9Wv7a3PoQR2sdPkDjCO",
   "tracks": [
     {
       "added_at": "2024-08-22 14:45:17",
@@ -4719,6 +4719,38 @@
       "duration_ms": 135933,
       "name": "That Girl (Sped Up)",
       "url": "https://open.spotify.com/track/7JdvmDLR3EKyXU7Yl9huZA"
+    },
+    {
+      "added_at": "2025-01-31 16:34:07",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "7/11",
+      "url": "https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu"
+    },
+    {
+      "added_at": "2025-01-31 16:34:58",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM"
     }
   ],
   "unique_name": "2010s Summer Pop Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",

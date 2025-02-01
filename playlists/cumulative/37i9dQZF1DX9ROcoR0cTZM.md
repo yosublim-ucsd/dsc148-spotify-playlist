@@ -4,13 +4,14 @@
 
 > Are you 'Happy' with Jin? 💜
 
-27 songs - 1 hr 16 min
+28 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abyss](https://open.spotify.com/track/40BomFCBuJok3OjxM9oG7e) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Abyss](https://open.spotify.com/album/0vyG4FyBIHURVJjQT0RDvG) | 2:35 | 2024-11-15 |  |
 | [Another Level](https://open.spotify.com/track/4xbq37lr4SuP3kuxj9y8gp) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:42 | 2024-11-15 |  |
 | [Awake](https://open.spotify.com/track/1GZ4rjIbktlYy1n7zmyCmq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:46 | 2024-11-15 |  |
+| [Close to You](https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [When the Stars Gossip OST Part.3](https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc) | 3:48 | 2025-01-31 |  |
 | [Epiphany](https://open.spotify.com/track/6L88EH68XwlaXwvChlTS41) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:00 | 2024-11-15 |  |
 | [Falling](https://open.spotify.com/track/3DeK5G7OhuJ1P1462XXgIu) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:58 | 2024-11-15 |  |
 | [Heart on the Window \(with WENDY\)](https://open.spotify.com/track/1b6qYBwDMBpFylGVT4PRgD) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:57 | 2024-11-15 |  |

@@ -1,44 +1,28 @@
 {
   "description": "R&B of the moment by the artists of the future. Cover: Aqyila",
-  "num_followers": 53781,
+  "num_followers": 53799,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5NtPQAAAAAHjOPFbesW3BvCPuTZh1zE",
+  "snapshot_id": "Z51PggAAAABvSnbi7NDM7XLVR/xFRmXR",
   "tracks": [
     {
-      "added_at": "2025-01-24 10:36:45",
+      "added_at": "2025-01-31 10:15:38",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m"
       },
       "artists": [
         {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
         }
       ],
-      "duration_ms": 183488,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy"
-    },
-    {
-      "added_at": "2024-12-13 05:00:38",
-      "album": {
-        "name": "W1LL U L13?",
-        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 139399,
-      "name": "W1LL U L13?",
-      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
+      "duration_ms": 147095,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr"
     },
     {
       "added_at": "2024-12-13 05:00:38",
@@ -169,20 +153,40 @@
       "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
     },
     {
-      "added_at": "2025-01-24 10:36:45",
+      "added_at": "2025-01-31 10:15:38",
       "album": {
-        "name": "Different Ways",
-        "url": "https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z"
+        "name": "Lucky Girl Syndrome",
+        "url": "https://open.spotify.com/album/3B3jusd5sv5eqEoPg1Kf3c"
       },
       "artists": [
         {
-          "name": "No Guidnce",
-          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        },
+        {
+          "name": "Maleigh Zan",
+          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
         }
       ],
-      "duration_ms": 208379,
-      "name": "Different Ways",
-      "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
+      "duration_ms": 205081,
+      "name": "Always Knew (feat. Maleigh Zan)",
+      "url": "https://open.spotify.com/track/3HDlldO6FuTyXUNIU9fk40"
+    },
+    {
+      "added_at": "2025-01-24 10:36:45",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 183488,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy"
     },
     {
       "added_at": "2024-12-20 17:40:20",
@@ -213,6 +217,22 @@
       "url": "https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K"
     },
     {
+      "added_at": "2024-12-13 05:00:38",
+      "album": {
+        "name": "W1LL U L13?",
+        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 139399,
+      "name": "W1LL U L13?",
+      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
+    },
+    {
       "added_at": "2024-07-26 09:41:16",
       "album": {
         "name": "Ain't Sad About It",
@@ -229,20 +249,20 @@
       "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
     },
     {
-      "added_at": "2025-01-17 05:00:55",
+      "added_at": "2025-01-31 10:15:38",
       "album": {
-        "name": "Choosin'",
-        "url": "https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy"
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/23NdVXLSH8akFXVnxdIXmU"
       },
       "artists": [
         {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
         }
       ],
-      "duration_ms": 176480,
-      "name": "Choosin'",
-      "url": "https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn"
+      "duration_ms": 174857,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/2u3ucpknV0GldgmPnuRFwu"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -263,6 +283,58 @@
       "duration_ms": 207791,
       "name": "Your Love Is Gold",
       "url": "https://open.spotify.com/track/0MbqFNo6ajGsboV41LQhPu"
+    },
+    {
+      "added_at": "2025-01-24 10:36:45",
+      "album": {
+        "name": "Different Ways",
+        "url": "https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "duration_ms": 208379,
+      "name": "Different Ways",
+      "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
+    },
+    {
+      "added_at": "2025-01-31 10:15:38",
+      "album": {
+        "name": "Tell Jimmy I'm fine",
+        "url": "https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 187396,
+      "name": "Have your babies",
+      "url": "https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Choosin'",
+        "url": "https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Choosin'",
+      "url": "https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn"
     },
     {
       "added_at": "2024-11-15 07:31:41",
@@ -459,6 +531,22 @@
       "duration_ms": 175963,
       "name": "brother and sister",
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
+    },
+    {
+      "added_at": "2025-01-31 10:15:38",
+      "album": {
+        "name": "take time",
+        "url": "https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i"
+      },
+      "artists": [
+        {
+          "name": "Isaiah kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "take time",
+      "url": "https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp"
     },
     {
       "added_at": "2024-12-13 05:00:38",

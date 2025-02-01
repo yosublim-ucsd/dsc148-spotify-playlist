@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-786 songs - 1 day 4 hr 59 min
+787 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 | 2022-05-13 | 2024-02-10 |
 | [Long Nights](https://open.spotify.com/track/1cek3DyJrBWPlbqjvdBqqh) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Long Nights](https://open.spotify.com/album/32ebfNu2IowhiAq5VuBeCb) | 2:33 | 2021-11-12 | 2022-06-18 |
 | [Look At Me \- Phonk Remix](https://open.spotify.com/track/7x1R2YjaET4qX1IOOM11S4) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU), [Phonk](https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7) | [Look At Me \(Phonk Remix\)](https://open.spotify.com/album/1N5WhbH0O1uhl4IvlSa92D) | 2:13 | 2022-05-13 | 2022-06-11 |
-| [Louca Encubada](https://open.spotify.com/track/0F22C2GRDrqxQFCEk7mds1) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Louca Encubada](https://open.spotify.com/album/33FVoSEMQ47oaf4FYQURpL) | 1:59 | 2023-12-01 |  |
+| [Louca Encubada](https://open.spotify.com/track/0F22C2GRDrqxQFCEk7mds1) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Louca Encubada](https://open.spotify.com/album/33FVoSEMQ47oaf4FYQURpL) | 1:59 | 2023-12-01 | 2025-02-01 |
 | [Louca Encubada](https://open.spotify.com/track/5pvVt1ak0vsGRE0Hl4kudu) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Louca Encubada](https://open.spotify.com/album/4Qmw0mV9qMba2FQVUh0BYz) | 1:59 | 2023-12-01 | 2024-04-19 |
 | [Love Bound](https://open.spotify.com/track/6SBvZsLtZY8oRwAvPfSRcc) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [Love Bound](https://open.spotify.com/album/5OxjqpaOnjbVZlNi07ZJoD) | 3:11 | 2022-02-04 | 2022-05-14 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-08 |  |
@@ -592,6 +592,7 @@
 | [Respeito](https://open.spotify.com/track/14E117Ikw43Vljys3fAsNU) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Respeito](https://open.spotify.com/album/5hb16jy47rIjFQRUKg2qIg) | 1:56 | 2024-05-03 | 2024-06-01 |
 | [REVENGE](https://open.spotify.com/track/0MAZBh1x1lJY3ZnbtecLef) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [REVENGE](https://open.spotify.com/album/51P4mQgj2hhFf3MBQYEsRa) | 2:18 | 2021-10-25 | 2022-06-11 |
 | [Revenge](https://open.spotify.com/track/2AeJCvSLJQLWkEMxnI3jna) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Revenge](https://open.spotify.com/album/4eCNublHT4o4kGjRf5z5Aw) | 2:25 | 2023-09-22 | 2023-11-17 |
+| [RISADA CHUCK 01 \- Super Slowed](https://open.spotify.com/track/2iRiWUoB7tNnG23KlM3Ui7) | [\-Prey](https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y) | [RISADA CHUCK 01](https://open.spotify.com/album/7lolzbhq4moSJPfFpdosl5) | 2:10 | 2025-01-31 |  |
 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-03-31 | 2025-01-18 |
 | [RITMO BRUTALISMO](https://open.spotify.com/track/1t4IkwFNnHC2spsIuPK9kQ) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/0T9ipIDY0vEOqWPCsFLt4e) | 2:16 | 2023-08-25 | 2023-11-05 |
 | [RITMO BRUTALISMO](https://open.spotify.com/track/4lvjXKs3tzMEKioAOuwENP) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/12PvkN2uTBWOSbDN2XoAMv) | 2:16 | 2023-08-25 | 2023-11-04 |

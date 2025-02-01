@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Kendrick Lamar
 
-790 songs - 1 day 16 hr 52 min
+791 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2024-07-12 |  |
 | [Adore \(feat\. Tory Lanez\)](https://open.spotify.com/track/3QUkCbniAfc2jcF0SLTx6v) | [Hoodz9](https://open.spotify.com/artist/1x1qgkzrhiqhH77pdCCt7M), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Adore \(feat\. Tory Lanez\)](https://open.spotify.com/album/4ru0xAX9qyYS4c9CefVH9n) | 3:12 | 2022-04-01 | 2022-04-13 |
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2022-01-07 | 2023-04-28 |
+| [Again](https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 5:12 | 2025-01-31 |  |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2024-04-12 |  |
 | [AHHH HA](https://open.spotify.com/track/2bPI4TKM4oTxl2SijUXM2J) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:06 | 2022-04-29 | 2022-07-29 |
 | [Ahwoolay \(feat\. Puffy L'z & Young Smoke\)](https://open.spotify.com/track/5kOtqz124oPZywUW8y6Y8e) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy), [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD) | [Ahwoolay \(feat\. Puffy L'z & Young Smoke\)](https://open.spotify.com/album/0gsfeIGILTNaz9JRH87yhf) | 2:13 | 2022-04-29 | 2022-04-30 |
@@ -626,7 +627,7 @@
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2022-01-07 | 2025-01-31 |
 | [Solitaires \(feat\. Travis Scott\)](https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:25 | 2022-04-01 | 2022-04-21 |
 | [Somebody](https://open.spotify.com/track/735RSTb2xbtWbDtKD9XDYi) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Somebody](https://open.spotify.com/album/2tGRWs8mrUVyjgbMIQpWQN) | 2:54 | 2022-02-25 | 2022-04-24 |
-| [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-05-20 |  |
+| [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-05-20 | 2025-02-01 |
 | [SouthWay](https://open.spotify.com/track/01TfjDpIKnUXpJBjzv4j1i) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [SouthWay](https://open.spotify.com/album/3AL8vT31FiMMziycTCSXW1) | 2:12 | 2022-02-04 | 2022-03-10 |
 | [Space Cadet](https://open.spotify.com/track/0nTaNAnq2InIQsRTN7VOFK) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [100 Dark Nights](https://open.spotify.com/album/5kifzION8beEr6BJwMTQ87) | 2:50 | 2022-02-04 | 2022-03-19 |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2022-07-28 | 2024-04-19 |

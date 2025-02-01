@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-312 songs - 17 hr 48 min
+314 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-17 | 2024-10-18 |
 | [Avalanches \- DARGZ Remix](https://open.spotify.com/track/0E8iffVZuT4fS2EoD6io6d) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ), [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Avalanches \(DARGZ Remix\)](https://open.spotify.com/album/4gWEHyZ1c04hZlO1Cp97cz) | 2:45 | 2024-10-24 |  |
 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 | 2023-09-05 | 2024-02-22 |
+| [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-01-31 |  |
 | [Bamtak](https://open.spotify.com/track/7G1TpbKIxOcgjyXqstZsQ9) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Narukanaga](https://open.spotify.com/album/68nJKYnPFSOwPY5XLqGdDO) | 4:32 | 2023-02-17 | 2023-08-25 |
 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-12-21 | 2023-02-28 |
 | [Before We Step Inside](https://open.spotify.com/track/6bxfwQ5z8qe2uoEOiO35YG) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Before We Step Inside](https://open.spotify.com/album/4nXC12lYgRlswGeLUumBJb) | 2:14 | 2023-10-12 | 2024-04-12 |
@@ -81,7 +82,7 @@
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 | 2024-03-21 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-08 | 2024-04-12 |
 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 | 2024-12-12 |  |
-| [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-22 |  |
+| [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-22 | 2025-02-01 |
 | [Differences Aside](https://open.spotify.com/track/0olICfJFNxKfPeZtNgPa7G) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Differences Aside](https://open.spotify.com/album/60hjoFRYc1Q1wnFMGXQmlg) | 3:55 | 2023-08-24 | 2024-02-09 |
 | [Dime](https://open.spotify.com/track/0HDUQhPXnunzwvqAmDpznE) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Dime](https://open.spotify.com/album/3zPYDjHecBsekQsjV3PXKE) | 3:17 | 2024-06-06 | 2024-11-16 |
 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 | 2022-12-21 | 2023-01-13 |
@@ -114,6 +115,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-17 | 2023-07-01 |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-04-20 | 2023-10-13 |
 | [Go Outside](https://open.spotify.com/track/5UZrKMn80VnBu1bpWn4XAx) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Go Outside](https://open.spotify.com/album/3iZOIKWbMTXwtwkdwelZ13) | 2:31 | 2023-11-23 | 2024-05-17 |
+| [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 | 2025-01-31 |  |
 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 | 2022-12-28 | 2023-03-25 |
 | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP) | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp) | 2:42 | 2023-04-27 | 2023-10-20 |
 | [Good Torture \(with Elyanna\)](https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Good Torture \(with Elyanna\)](https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr) | 3:20 | 2024-02-29 | 2024-08-23 |
@@ -200,7 +202,7 @@
 | [Only You](https://open.spotify.com/track/4urtcS0F3G3NjD2oUeE1GN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Only You](https://open.spotify.com/album/501EHSpUgSp10zVTT1PeQj) | 3:08 | 2024-08-22 | 2025-01-17 |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-09 |  |
 | [Out on the weekend](https://open.spotify.com/track/0Gb9R3sEf8QQSQSLAkKpGQ) | [La Maison Tellier](https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze), [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Out on the weekend](https://open.spotify.com/album/4Tj6Wk4DXEZxHUz2B9xOzW) | 4:28 | 2023-04-27 | 2023-10-13 |
-| [Pages](https://open.spotify.com/track/1lyswcW898bSZdGtEUqUdq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:14 | 2024-09-05 |  |
+| [Pages](https://open.spotify.com/track/1lyswcW898bSZdGtEUqUdq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:14 | 2024-09-05 | 2025-02-01 |
 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 | 2023-05-04 | 2023-11-04 |
 | [Pancakes & Butter](https://open.spotify.com/track/677DkawgZE1qi2GCM9W7vb) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:51 | 2023-10-27 | 2023-11-10 |
 | [peanut butter \- stripped](https://open.spotify.com/track/49QepkimWyBVatAvHHAzQ0) | [Jude Todd](https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le) | [peanut butter](https://open.spotify.com/album/3tWrgOY80POwFvOrmbeS8t) | 2:52 | 2023-08-17 | 2024-01-26 |

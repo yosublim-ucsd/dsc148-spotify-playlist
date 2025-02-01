@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: yung kai
+> The best tracks from the world of music\. Cover: The Weeknd
 
-236 songs - 13 hr 23 min
+239 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-01-22 |  |
 | [Beban](https://open.spotify.com/track/0J5U0PNiGsg7nS3UvoaHJF) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Beban](https://open.spotify.com/album/3pY3HRRPu6QPtYpsImd0CI) | 2:56 | 2024-10-16 |  |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-04 | 2024-12-05 |
+| [BEKU](https://open.spotify.com/track/4AXDppkGFDwaC4FBj9CjTt) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [BEKU](https://open.spotify.com/album/3oomzTIjDBNe31XMtjutZg) | 3:26 | 2025-01-31 |  |
 | [Belum Mulai](https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Belum Mulai](https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc) | 3:34 | 2024-07-03 | 2024-08-15 |
 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2024-06-26 | 2024-08-22 |
 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-06-26 | 2024-07-04 |
@@ -61,6 +62,7 @@
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-26 | 2024-08-08 |
 | [coming home](https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:13 | 2024-07-31 | 2024-09-05 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-09-04 | 2024-09-26 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2024-11-13 |
 | [December 25th](https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [December 25th](https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6) | 3:51 | 2024-11-12 | 2024-12-12 |
 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 | 2025-01-15 |  |
@@ -118,6 +120,7 @@
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-06-26 | 2025-01-23 |
 | [Lemah](https://open.spotify.com/track/6BKEupNTtgSalOJ8g81N9r) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Lemah](https://open.spotify.com/album/2CqFFabg6MrgFbbRfcBCbW) | 4:04 | 2024-10-23 | 2024-11-21 |
 | [LIKE THAT](https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:48 | 2024-06-26 | 2024-07-11 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 | 2024-06-26 | 2024-07-04 |
 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-23 | 2024-11-28 |
 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 | 2024-10-25 | 2025-01-23 |
@@ -176,9 +179,9 @@
 | [Salahkan Aku](https://open.spotify.com/track/49scMthrCIQrdoSz5mgyOn) | [Fimie Don](https://open.spotify.com/artist/1zXDRPtYIB5xIK8oH4Bht0) | [Salahkan Aku](https://open.spotify.com/album/7vLyFl8C95jJD3u9Df4lhm) | 3:15 | 2024-06-26 | 2024-10-17 |
 | [Salleh Wakeup!](https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 5:05 | 2024-08-14 | 2024-09-12 |
 | [Salty](https://open.spotify.com/track/5TiqVCKHsS0FXwGthlvNPp) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Salty](https://open.spotify.com/album/5LTkimFhjhEAsjHnIrOEre) | 2:12 | 2024-10-09 | 2024-10-30 |
-| [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 | 2024-09-18 |  |
-| [Sangkar Derita](https://open.spotify.com/track/7HLTEqi7Kis9SIsEB8Icyy) | [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Sangkar Derita](https://open.spotify.com/album/16U5ztWQW7Qcy3ZEYlJQbk) | 4:26 | 2024-06-26 |  |
-| [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2024-09-18 |  |
+| [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 | 2024-09-18 | 2025-02-01 |
+| [Sangkar Derita](https://open.spotify.com/track/7HLTEqi7Kis9SIsEB8Icyy) | [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Sangkar Derita](https://open.spotify.com/album/16U5ztWQW7Qcy3ZEYlJQbk) | 4:26 | 2024-06-26 | 2025-02-01 |
+| [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2024-09-18 | 2025-02-01 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-06-26 | 2024-08-01 |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-17 | 2024-10-17 |
 | [Say It To My Face \(feat\. ØZI\)](https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Made For You](https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N) | 2:40 | 2025-01-01 | 2025-01-23 |

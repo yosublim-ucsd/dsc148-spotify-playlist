@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 356103,
+  "num_followers": 356159,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MebAAAAACh3F/Q7vRnRRKNlmgK9Jin",
+  "snapshot_id": "Z5xY5QAAAACLh7wlDPlRfHcViX7spZ2q",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:26",
@@ -39,6 +39,22 @@
       "duration_ms": 275195,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
+        "name": "IDGAF (but I care)",
+        "url": "https://open.spotify.com/album/6wmSyW1Ie05cSJwUbgcVFC"
+      },
+      "artists": [
+        {
+          "name": "Sladek",
+          "url": "https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57"
+        }
+      ],
+      "duration_ms": 185570,
+      "name": "IDGAF (but I care)",
+      "url": "https://open.spotify.com/track/17Fg2PKD5iipVst2gm5fJ3"
     },
     {
       "added_at": "2025-01-10 05:00:09",
@@ -1527,26 +1543,6 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb"
-      },
-      "artists": [
-        {
-          "name": "Emilia Sisco",
-          "url": "https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4"
-        },
-        {
-          "name": "Cold Diamond & Mink",
-          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
-        }
-      ],
-      "duration_ms": 219945,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh"
     },
     {
       "added_at": "2023-09-01 04:00:00",

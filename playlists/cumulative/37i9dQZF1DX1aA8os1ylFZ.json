@@ -2849,6 +2849,28 @@
     },
     {
       "album": {
+        "name": "Favorite One",
+        "url": "https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176442,
+      "name": "Favorite One",
+      "url": "https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE"
+    },
+    {
+      "album": {
         "name": "majestic exclusives",
         "url": "https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn"
       },

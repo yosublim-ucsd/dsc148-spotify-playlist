@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 36506,
+  "num_followers": 36524,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nj8QAAAAB8J0P5ayLPRLHMVy7hNRy3",
+  "snapshot_id": "Z5xY6QAAAACzsw+WL9zuO+HBMoGLAN/v",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Circle of Giants",
+        "url": "https://open.spotify.com/album/2XLXTlsbYvGt8ABoDpHDlg"
+      },
+      "artists": [
+        {
+          "name": "Moe",
+          "url": "https://open.spotify.com/artist/5RRzOVMwjs3M36WiuJcBJ1"
+        }
+      ],
+      "duration_ms": 254314,
+      "name": "In Stride",
+      "url": "https://open.spotify.com/track/59a1MKfzdwxr2SmiSrMPFf"
+    },
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
@@ -1055,22 +1071,6 @@
       "duration_ms": 229468,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Tracking Buffalo Through the Bathtub",
-        "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
-      },
-      "artists": [
-        {
-          "name": "The Big Wu",
-          "url": "https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0"
-        }
-      ],
-      "duration_ms": 245893,
-      "name": "Kangaroo",
-      "url": "https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b"
     },
     {
       "added_at": "2023-02-24 05:01:00",

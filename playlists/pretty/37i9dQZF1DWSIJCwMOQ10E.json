@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 98226,
+  "num_followers": 98237,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
+        "name": "SORNEROS",
+        "url": "https://open.spotify.com/album/2O0jtoWrJwRQpO5Q8mPuiT"
+      },
+      "artists": [
+        {
+          "name": "Fer Ariza",
+          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "SORNEROS",
+      "url": "https://open.spotify.com/track/72hoUXOjvxRLKjUPSfnYne"
+    },
+    {
+      "added_at": "2024-12-20 02:07:29",
+      "album": {
         "name": "Coleccion Diamante",
         "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 249626,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/2aDFka2ORQkraeJXkYkGxl"
-    },
-    {
-      "added_at": "2024-12-20 02:07:29",
-      "album": {
-        "name": "Suavemente...Los Exitos",
-        "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
     },
     {
       "added_at": "2024-12-20 02:07:29",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-12-20 02:07:29",
       "album": {
-        "name": "SORNEROS",
-        "url": "https://open.spotify.com/album/2O0jtoWrJwRQpO5Q8mPuiT"
+        "name": "Suavemente...Los Exitos",
+        "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
       },
       "artists": [
         {
-          "name": "Fer Ariza",
-          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 176853,
-      "name": "SORNEROS",
-      "url": "https://open.spotify.com/track/72hoUXOjvxRLKjUPSfnYne"
+      "duration_ms": 273053,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
     },
     {
       "added_at": "2024-12-20 02:07:29",

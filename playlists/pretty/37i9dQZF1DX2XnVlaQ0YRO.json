@@ -1,6 +1,6 @@
 {
   "description": "shop, wrap, bake, study or just chill to these cozy christmas beats.",
-  "num_followers": 5012,
+  "num_followers": 5007,
   "original_name": "lofi christmas chill\ud83c\udf84\u2744\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Holiday Lofi",
-        "url": "https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa"
-      },
-      "artists": [
-        {
-          "name": "Santa BeatBeat",
-          "url": "https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX"
-        }
-      ],
-      "duration_ms": 190403,
-      "name": "oh! christmas! tree!",
-      "url": "https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "It's Beginning To Look A Lot Like Christmas",
         "url": "https://open.spotify.com/album/7xEfLRvlPdubpUoq3DXrBG"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 120243,
       "name": "It's Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/2eLHITisbzNK8FA6W7d51V"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Holiday Lofi",
+        "url": "https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa"
+      },
+      "artists": [
+        {
+          "name": "Santa BeatBeat",
+          "url": "https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX"
+        }
+      ],
+      "duration_ms": 190403,
+      "name": "oh! christmas! tree!",
+      "url": "https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Rockin' Around The Christmas Tree",
-        "url": "https://open.spotify.com/album/6pnsjGMTpc5iSc3cEP3fFd"
-      },
-      "artists": [
-        {
-          "name": "Sin Valor",
-          "url": "https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku"
-        }
-      ],
-      "duration_ms": 128043,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/23E5XFraifxkUJglRpBm9m"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Mary On A Cross",
         "url": "https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 144000,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/6pnsjGMTpc5iSc3cEP3fFd"
+      },
+      "artists": [
+        {
+          "name": "Sin Valor",
+          "url": "https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku"
+        }
+      ],
+      "duration_ms": 128043,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/23E5XFraifxkUJglRpBm9m"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Silver bells",
-        "url": "https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U"
-      },
-      "artists": [
-        {
-          "name": "Jupuno",
-          "url": "https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9"
-        }
-      ],
-      "duration_ms": 148624,
-      "name": "Silver bells",
-      "url": "https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Have a Lofi Christmas",
         "url": "https://open.spotify.com/album/5zEOGPCoL5NDWyk2XutPss"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "carol of the bells",
-        "url": "https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG"
+        "name": "Silver bells",
+        "url": "https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U"
       },
       "artists": [
         {
-          "name": "Cereal Party",
-          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+          "name": "Jupuno",
+          "url": "https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9"
         }
       ],
-      "duration_ms": 146696,
-      "name": "carol of the bells",
-      "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
+      "duration_ms": 148624,
+      "name": "Silver bells",
+      "url": "https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1211,6 +1195,22 @@
       "duration_ms": 107666,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/0tFIloIXXvtGeIkC1fRmIN"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "carol of the bells",
+        "url": "https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "duration_ms": 146696,
+      "name": "carol of the bells",
+      "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/0OTyUrITns5JqLRMFzPnvL"
-      },
-      "artists": [
-        {
-          "name": "Holiday Beats",
-          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Upside Down Snowglobe",
         "url": "https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 185976,
       "name": "Christmas in Las Vegas",
       "url": "https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/0OTyUrITns5JqLRMFzPnvL"
+      },
+      "artists": [
+        {
+          "name": "Holiday Beats",
+          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
+        }
+      ],
+      "duration_ms": 164444,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Christmas with the Fam",
-        "url": "https://open.spotify.com/album/6JXqAeAzROt0JixEaCbQBx"
-      },
-      "artists": [
-        {
-          "name": "DonVayei",
-          "url": "https://open.spotify.com/artist/4penfn9o5SfVC27r1T9fQb"
-        }
-      ],
-      "duration_ms": 148941,
-      "name": "Christmas with the Fam",
-      "url": "https://open.spotify.com/track/6tbT1c1921mH2FgqKsRDup"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Winter rose",
         "url": "https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 147000,
       "name": "Winter rose",
       "url": "https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Christmas with the Fam",
+        "url": "https://open.spotify.com/album/6JXqAeAzROt0JixEaCbQBx"
+      },
+      "artists": [
+        {
+          "name": "DonVayei",
+          "url": "https://open.spotify.com/artist/4penfn9o5SfVC27r1T9fQb"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "Christmas with the Fam",
+      "url": "https://open.spotify.com/track/6tbT1c1921mH2FgqKsRDup"
     },
     {
       "added_at": "2024-12-20 07:58:31",

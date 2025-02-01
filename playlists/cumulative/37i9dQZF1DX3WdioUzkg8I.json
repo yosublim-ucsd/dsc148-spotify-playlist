@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185770,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6LTIZenP15l2VvkvPF2lFM"
@@ -1273,6 +1273,42 @@
     },
     {
       "album": {
+        "name": "Distant Starfield",
+        "url": "https://open.spotify.com/album/3QgmUfIuQ8z9Gn6EdCzk7d"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151375,
+      "name": "Distant Starfield",
+      "url": "https://open.spotify.com/track/1cnp7FGDQoF6i5zr3Ptogt"
+    },
+    {
+      "album": {
+        "name": "Divinity",
+        "url": "https://open.spotify.com/album/01r2Bj3gFjGAkHcmi4OueG"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Divinity",
+      "url": "https://open.spotify.com/track/4CiLp22MqtNOx8aY2pxXHA"
+    },
+    {
+      "album": {
         "name": "Domande",
         "url": "https://open.spotify.com/album/7c7ES2lzWaTQQJZ8nBIozl"
       },
@@ -1637,6 +1673,42 @@
     },
     {
       "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6MQW9QsUipIYwFBQ2VDHNf"
+      },
+      "artists": [
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263493,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/1yQBKkhafpJBiM7XQn8x1X"
+    },
+    {
+      "album": {
+        "name": "Songs From My Living Room",
+        "url": "https://open.spotify.com/album/0xBoVGNmu8XthLXhMNV6T2"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114506,
+      "name": "Field of Shapes",
+      "url": "https://open.spotify.com/track/2xGmbB7YztxrQPwSzU4HBV"
+    },
+    {
+      "album": {
         "name": "Final Relaxation",
         "url": "https://open.spotify.com/album/6XelgT98VbSCej4ACD5ILa"
       },
@@ -1835,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Gentle Vortex",
+        "url": "https://open.spotify.com/album/1OwRPJ3z2iVdITKiGfoxor"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155458,
+      "name": "Gentle Vortex",
+      "url": "https://open.spotify.com/track/6wdyLelm2YoQkB0m8bK7vS"
+    },
+    {
+      "album": {
         "name": "Get To Know You",
         "url": "https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz"
       },
@@ -1943,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "hidden in the heather",
+        "url": "https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ"
+      },
+      "artists": [
+        {
+          "name": "Nature then Nurture",
+          "url": "https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "hidden in the heather",
+      "url": "https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs"
       },
@@ -1972,7 +2080,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 190000,
       "name": "Hush",
       "url": "https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7"
@@ -2969,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Nadir of Night & Slow Joy",
+        "url": "https://open.spotify.com/album/7FhE3KVmlJ4fs1weE1nopN"
+      },
+      "artists": [
+        {
+          "name": "Times That Bind",
+          "url": "https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229238,
+      "name": "Nadir of Night",
+      "url": "https://open.spotify.com/track/0tLaTUhLodARQr9Ar4Csbb"
+    },
+    {
+      "album": {
         "name": "Naten e mire",
         "url": "https://open.spotify.com/album/43K1omqGhTg3N2T2mBarty"
       },
@@ -3556,7 +3682,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 138804,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf"
@@ -4053,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "Stav",
+        "url": "https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168151,
+      "name": "Stav",
+      "url": "https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
       },
@@ -4064,7 +4208,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 151500,
       "name": "Still",
       "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
@@ -4954,7 +5098,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 142000,
       "name": "Without You - Piano",
       "url": "https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA"

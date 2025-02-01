@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "The home of Latin R&B \u2764\ufe0f La casa del R&B Latino. Cover: day2k",
+  "description": "The home of Latin R&B \u2764\ufe0f La casa del R&B Latino. Cover: Samantha Barr\u00f3n & Leonel Garc\u00eda",
   "name": "Latin R&B",
   "tracks": [
     {
@@ -356,6 +356,24 @@
       "duration_ms": 150661,
       "name": "Aguilera",
       "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
+    },
+    {
+      "album": {
+        "name": "EROZ",
+        "url": "https://open.spotify.com/album/3c44ghd24WoMZVB5N4SfjE"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190178,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/3AO2yiueYmT0YBa4ZNP7JM"
     },
     {
       "album": {
@@ -815,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Ascensor",
+        "url": "https://open.spotify.com/album/7Mrc9qnbvADQKvb7wb4tEd"
+      },
+      "artists": [
+        {
+          "name": "Fede Guelmos",
+          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+        },
+        {
+          "name": "Turde",
+          "url": "https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Ascensor",
+      "url": "https://open.spotify.com/track/5LRDk1kgftllpeARG2Iv01"
+    },
+    {
+      "album": {
         "name": "ASMR",
         "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
       },
@@ -1166,7 +1206,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 149480,
       "name": "Bossa",
       "url": "https://open.spotify.com/track/7vcW9mEMLdzZrfkNYOKRZg"
@@ -1584,6 +1624,28 @@
       "duration_ms": 154736,
       "name": "chill like that ft. Jesse Baez",
       "url": "https://open.spotify.com/track/1z64753zgOTLJ4Q4FSPSlu"
+    },
+    {
+      "album": {
+        "name": "De Moda",
+        "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124377,
+      "name": "Chilling",
+      "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
     },
     {
       "album": {
@@ -2233,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "DE CERO",
+        "url": "https://open.spotify.com/album/5XUSieNZT04zhhRktFqCvk"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188714,
+      "name": "DE CERO",
+      "url": "https://open.spotify.com/track/48DBhH08j2vBXM5YHL9s2S"
+    },
+    {
+      "album": {
         "name": "De Enero a Diciembre",
         "url": "https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl"
       },
@@ -2675,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/7oB95w3WxmSGIZ6DINTdJK"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/1T1DjLjxX8SHBqva8E8yBt"
+    },
+    {
+      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo"
       },
@@ -2922,7 +3020,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195873,
       "name": "El Father",
       "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
@@ -3300,6 +3398,24 @@
       "duration_ms": 214000,
       "name": "Febrero Azul",
       "url": "https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ"
+    },
+    {
+      "album": {
+        "name": "Fenix",
+        "url": "https://open.spotify.com/album/3GXUV3l50OWhtZWlzILak5"
+      },
+      "artists": [
+        {
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208938,
+      "name": "Fenix",
+      "url": "https://open.spotify.com/track/54sKcWmfXD5XDv8dHe42h7"
     },
     {
       "album": {
@@ -4620,7 +4736,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137794,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
@@ -5015,6 +5131,24 @@
     },
     {
       "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Mi Vida Mi Muerte",
+      "url": "https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV"
+    },
+    {
+      "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
       },
@@ -5062,7 +5196,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 175000,
       "name": "Mil Maneras de Morir",
       "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
@@ -5388,6 +5522,24 @@
       "duration_ms": 163516,
       "name": "Nela",
       "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229787,
+      "name": "Ni Me Conozco",
+      "url": "https://open.spotify.com/track/0xyWkRMb09qdCDhloehCsi"
     },
     {
       "album": {
@@ -5736,6 +5888,24 @@
       "duration_ms": 217399,
       "name": "No Te Voy a Ver",
       "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "album": {
+        "name": "Cervezas y Tabacos",
+        "url": "https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq"
+      },
+      "artists": [
+        {
+          "name": "FE7O",
+          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205943,
+      "name": "nochecer",
+      "url": "https://open.spotify.com/track/1F6PiJWUr4AHOqeM6BWB6R"
     },
     {
       "album": {
@@ -6244,6 +6414,24 @@
       "duration_ms": 169317,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/3xRL44yxBVRAReOGShbXaG"
+    },
+    {
+      "album": {
+        "name": "pensamientos intrusivos",
+        "url": "https://open.spotify.com/album/0v6FPU1D8KG6n5O1rDHjsG"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183548,
+      "name": "pensamientos intrusivos",
+      "url": "https://open.spotify.com/track/4gOS2BMl1hipHqDdx0C5xh"
     },
     {
       "album": {
@@ -6971,6 +7159,24 @@
     },
     {
       "album": {
+        "name": "Se Termin\u00f3",
+        "url": "https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Se Termin\u00f3",
+      "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
+    },
+    {
+      "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR"
       },
@@ -7139,6 +7345,28 @@
     },
     {
       "album": {
+        "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5QhpI19RX6S2azhCwFqt3h"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153362,
+      "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1o2D4uroeEIb4xLVcBHT6P"
+    },
+    {
+      "album": {
         "name": "Siguiendo Tu Voz",
         "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
       },
@@ -7296,6 +7524,28 @@
       "duration_ms": 223847,
       "name": "Sola - Remix",
       "url": "https://open.spotify.com/track/0RaHJJEltK9qqXPVuxhrwq"
+    },
+    {
+      "album": {
+        "name": "Solo Di S\u00ed",
+        "url": "https://open.spotify.com/album/2aztqcna1MEXrKLQm62rc5"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206365,
+      "name": "Solo Di S\u00ed",
+      "url": "https://open.spotify.com/track/5VA6dP1JfkfTqYkQwkVV8c"
     },
     {
       "album": {
@@ -8558,6 +8808,28 @@
       "duration_ms": 195179,
       "name": "ZIGZAG (feat. Alice Wonder)",
       "url": "https://open.spotify.com/track/71E5TGusp7CNoO3hkjiIUx"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Sabes De M\u00ed?",
+        "url": "https://open.spotify.com/album/2pfW9UleMSdCB98FChouuU"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "dellapauta",
+          "url": "https://open.spotify.com/artist/1JyQjD5GZdNX3wD0rH9Nep"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "\u00bfQu\u00e9 Sabes De M\u00ed?",
+      "url": "https://open.spotify.com/track/64v6tIf0t5trbDuGXTqPOY"
     },
     {
       "album": {

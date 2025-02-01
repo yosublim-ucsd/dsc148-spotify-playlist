@@ -621,6 +621,28 @@
     },
     {
       "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209134,
+      "name": "Estou Aqui",
+      "url": "https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT"
+    },
+    {
+      "album": {
         "name": "Estou Contigo",
         "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
@@ -1030,7 +1052,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 238208,
       "name": "Noites Trai\u00e7oeiras",
       "url": "https://open.spotify.com/track/7A1XdisC4ySlYz7kMjivwa"

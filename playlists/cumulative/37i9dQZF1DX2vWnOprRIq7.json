@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "El lado electr\u00f3nico del indie latino, featuring Gianna Sotera & martin allende.",
+  "description": "El lado electr\u00f3nico del indie latino, featuring Juan Baro.",
   "name": "NE\u00d3N",
   "tracks": [
     {
@@ -166,8 +166,8 @@
       },
       "artists": [
         {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+          "name": "LE TORO",
+          "url": "https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN"
         },
         {
           "name": "Josearmen",
@@ -178,7 +178,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217627,
-      "name": "Ac\u00e1 - Remix",
+      "name": "Ac\u00e1",
       "url": "https://open.spotify.com/track/7AfsC17s5xSUoWkljJ0scG"
     },
     {
@@ -4018,6 +4018,24 @@
       "duration_ms": 189747,
       "name": "New Age",
       "url": "https://open.spotify.com/track/1xjZUL0oSuUlRSpcoMYNU1"
+    },
+    {
+      "album": {
+        "name": "Nicho",
+        "url": "https://open.spotify.com/album/3iatoQABmCe2horRQm9TKX"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202677,
+      "name": "Nicho",
+      "url": "https://open.spotify.com/track/0uexhsV03UHJ3x71NT7ya4"
     },
     {
       "album": {

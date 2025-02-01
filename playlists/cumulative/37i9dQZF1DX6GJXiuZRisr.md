@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-561 songs - 1 day 15 hr 12 min
+562 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 |  |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |
-| [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 | 2024-08-30 |  |
+| [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 | 2024-08-30 | 2025-02-01 |
 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 | 2023-06-02 | 2024-01-22 |
 | [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 | 2024-11-28 |
 | [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 | 2024-01-26 |  |
@@ -241,6 +241,7 @@
 | [Illusion](https://open.spotify.com/track/1lWwuDHmwGQ8XcJciMpJ81) | [Bruno Motta](https://open.spotify.com/artist/6rRHgYbcaw2xKpo7LjyGiK) | [Illusion](https://open.spotify.com/album/2ltDN9rhWeMeN8lSz7H3mE) | 3:01 | 2021-05-07 | 2022-04-20 |
 | [In Dreams](https://open.spotify.com/track/2aoj3P5VpXJq5ZvVsRz6si) | [Mark Digital](https://open.spotify.com/artist/30pquATJCsFv9CdqqQlEGA) | [Everlost / in Dreams](https://open.spotify.com/album/5W2arvV5t0UDtY34MbFPAB) | 6:10 | 2021-05-07 | 2022-04-21 |
 | [In My Bones](https://open.spotify.com/track/3iC26Le1kk7MrqUipyjzlk) | [Kiismin](https://open.spotify.com/artist/1FbUnq2UlNRgUmpMx98NMe) | [In My Bones](https://open.spotify.com/album/7hFb7LV5ylY7sGEWzKuK95) | 3:01 | 2022-07-01 | 2022-08-13 |
+| [In My Head](https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [In My Head](https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr) | 3:35 | 2025-01-31 |  |
 | [In My Head](https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [In My Head](https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D) | 3:58 | 2024-04-05 | 2024-08-10 |
 | [In My Mind](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Mind](https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo) | 2:00 | 2024-05-10 |  |
 | [In The Dust](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [In The Dust](https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK) | 3:11 | 2023-10-13 | 2024-11-09 |

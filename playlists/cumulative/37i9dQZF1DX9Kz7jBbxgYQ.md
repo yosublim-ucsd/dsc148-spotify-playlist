@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Aashir Wajahat & Gini
 
-335 songs - 18 hr 55 min
+336 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-03-01 | 2023-04-29 |
 | [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-06 | 2023-03-14 |
 | [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 | 2023-04-28 | 2023-08-19 |
+| [Dilshad](https://open.spotify.com/track/487NdFWy4ie4r5xb0avzKw) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dilshad](https://open.spotify.com/album/1liRfiO6i0jEeosUm4BBNp) | 3:43 | 2025-01-31 |  |
 | [Diya](https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 3:15 | 2023-10-03 | 2024-04-09 |
 | [Do Shaitano](https://open.spotify.com/track/6SrDgvxLztbmuK5jX7hg1T) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Do Shaitano](https://open.spotify.com/album/0TfdtzxV0kkk4vXtXiZcv8) | 3:30 | 2023-02-26 | 2023-04-29 |
 | [Don’t Wanna Love](https://open.spotify.com/track/5lRru9LwvZnd2tVXRfDZZG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Don’t Wanna Love](https://open.spotify.com/album/4BrAHxQqfEIoYLiPf8Y9q4) | 2:29 | 2024-08-13 |  |
@@ -261,7 +262,7 @@
 | [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:50 | 2022-12-28 |  |
 | [Sage](https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Sage](https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn) | 3:50 | 2023-10-03 | 2023-10-15 |
 | [Sajda Karaan](https://open.spotify.com/track/25yA3k7cBNDqejRJUun4Qe) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Sajda Karaan](https://open.spotify.com/album/7qwVYqNUkUX6eq5UBkVzp3) | 3:40 | 2024-01-05 |  |
-| [Sajna](https://open.spotify.com/track/7mLEqVKAkMow4vAlNUtwET) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Lost Path](https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX) | 2:37 | 2024-11-07 |  |
+| [Sajna](https://open.spotify.com/track/7mLEqVKAkMow4vAlNUtwET) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Lost Path](https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX) | 2:37 | 2024-11-07 | 2025-02-01 |
 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 | 2023-04-28 | 2023-11-30 |
 | [Sajna da Dil Torya](https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Sajna da Dil Torya](https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p) | 4:13 | 2024-10-23 |  |
 | [Sapna](https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Sapna](https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE) | 2:42 | 2023-09-08 | 2023-11-30 |

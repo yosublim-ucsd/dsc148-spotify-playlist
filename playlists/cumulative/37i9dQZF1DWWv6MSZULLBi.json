@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Mumford & Sons",
+  "description": "A laid-back trip in the folk scene. Cover: Half Moon Run",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "33\u00b0",
+        "url": "https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270628,
+      "name": "33\u00b0",
+      "url": "https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a"
+    },
+    {
+      "album": {
         "name": "4runner",
         "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
       },
@@ -146,6 +164,24 @@
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu"
+    },
+    {
+      "album": {
+        "name": "514-415",
+        "url": "https://open.spotify.com/album/68tgADpuMYVggWvaBfosiO"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223930,
+      "name": "514-415",
+      "url": "https://open.spotify.com/track/4HIKvlYBPneU1DbxFJEvmT"
     },
     {
       "album": {
@@ -820,7 +856,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 237266,
       "name": "And They Called Her California",
       "url": "https://open.spotify.com/track/0hGjJ09ClfSjrGZFvs73LJ"
@@ -1317,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "album": {
         "name": "Backfire (Better with James)",
         "url": "https://open.spotify.com/album/2EhbwIaVzQcAmsrCg3kttz"
       },
@@ -1368,7 +1422,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 159581,
       "name": "Barn Nursery",
       "url": "https://open.spotify.com/track/7c8QmPRLkfOsrc9CnXwA4B"
@@ -2266,7 +2320,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 279061,
       "name": "Caledonia",
       "url": "https://open.spotify.com/track/6zV8spJFEyL7EnQgRXLpEp"
@@ -3214,7 +3268,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 220515,
       "name": "Constant Love",
       "url": "https://open.spotify.com/track/2oCHHcIzRFlQAYDc4J7oQT"
@@ -3342,7 +3396,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 164307,
       "name": "Country Plaines",
       "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
@@ -9621,6 +9675,24 @@
     },
     {
       "album": {
+        "name": "Leaving Home Again",
+        "url": "https://open.spotify.com/album/6COhwQ1EEP0IOZMzaRMwDc"
+      },
+      "artists": [
+        {
+          "name": "Dana Gavanski",
+          "url": "https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "Leaving Home Again",
+      "url": "https://open.spotify.com/track/6nFC4Y1p83E0qQ3DWqNgFr"
+    },
+    {
+      "album": {
         "name": "Adjustments",
         "url": "https://open.spotify.com/album/4yUmdXZO5MItU75tgCDdaA"
       },
@@ -10162,7 +10234,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 181448,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
@@ -12352,7 +12424,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 299354,
       "name": "Once A Bunch",
       "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
@@ -12468,6 +12540,24 @@
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
+    },
+    {
+      "album": {
+        "name": "Bonnie's Sad Songs",
+        "url": "https://open.spotify.com/album/7h5YjDdN3NHFbhf0SBds97"
+      },
+      "artists": [
+        {
+          "name": "Sam Drysdale",
+          "url": "https://open.spotify.com/artist/6zWCrZExrSgGtBjCO1jkjY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207166,
+      "name": "Only The Strong Survive",
+      "url": "https://open.spotify.com/track/46ckwKvHOQjsovLIiAo75y"
     },
     {
       "album": {
@@ -13557,6 +13647,28 @@
     },
     {
       "album": {
+        "name": "Rattlesnake (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293836,
+      "name": "Rattlesnake (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "album": {
         "name": "The Rise & The Fall",
         "url": "https://open.spotify.com/album/1jYeIPTb1ooEsc939ZFYiy"
       },
@@ -14232,7 +14344,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 174322,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
@@ -19491,6 +19603,24 @@
     },
     {
       "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA"
+      },
+      "artists": [
+        {
+          "name": "Nico Play",
+          "url": "https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176212,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
+    },
+    {
+      "album": {
         "name": "Sanctity of Silence",
         "url": "https://open.spotify.com/album/2x9gBZX2IKiF9TnkgQVUdk"
       },
@@ -19560,6 +19690,24 @@
       "duration_ms": 221034,
       "name": "You'll Never Get To Heaven With That Attitude",
       "url": "https://open.spotify.com/track/69ayK3fANIcCgiiF05xRsr"
+    },
+    {
+      "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
     },
     {
       "album": {

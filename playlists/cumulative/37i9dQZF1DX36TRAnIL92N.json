@@ -1065,6 +1065,32 @@
     },
     {
       "album": {
+        "name": "Dooms Night",
+        "url": "https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Azzido Da Bass",
+          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
+        },
+        {
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205722,
+      "name": "Dooms Night",
+      "url": "https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc"
+    },
+    {
+      "album": {
         "name": "Formula EP",
         "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
       },
@@ -1235,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234997,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz"
       },
@@ -1268,7 +1312,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195223,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1KMru1wRFP6Qhi2jjjQfSb"
@@ -3360,7 +3404,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 163165,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
@@ -3636,7 +3680,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
@@ -3698,6 +3742,24 @@
       "duration_ms": 240123,
       "name": "Sex and the Machine",
       "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
+    },
+    {
+      "album": {
+        "name": "Bigroom Sensual",
+        "url": "https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294866,
+      "name": "Siente (el Ritmo)",
+      "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
     },
     {
       "album": {

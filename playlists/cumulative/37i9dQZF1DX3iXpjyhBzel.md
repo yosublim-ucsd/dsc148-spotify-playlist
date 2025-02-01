@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Jadson Moreno
 
-320 songs - 1 day 7 hr 29 min
+321 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,9 +93,10 @@
 | [Ele é Deus \- Ao Vivo](https://open.spotify.com/track/62mntwFElvpHLNaPf9h8S7) | [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Ele é Deus \(Ao Vivo\)](https://open.spotify.com/album/4dx6B0zaswyAQXyNFjIlEe) | 5:46 | 2022-09-09 | 2023-02-04 |
 | [Ele é Exaltado](https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Ele é Exaltado](https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq) | 3:17 | 2024-06-21 | 2024-08-10 |
 | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/album/3iALD5FS2raKNCjouli13t) | 5:01 | 2023-07-21 | 2023-09-26 |
-| [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 | 2022-09-09 |  |
+| [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 | 2022-09-09 | 2025-02-01 |
 | [Então Profetiza](https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Então Profetiza](https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs) | 4:19 | 2023-09-25 | 2024-04-20 |
 | [Era Deus](https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Era Deus](https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp) | 4:45 | 2022-09-09 | 2024-12-14 |
+| [Escape](https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Escape](https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj) | 4:33 | 2025-01-31 |  |
 | [Escape / Nunca Pare de Lutar](https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Escape / Nunca Pare de Lutar](https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q) | 9:25 | 2025-01-24 |  |
 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 | 2022-09-09 | 2023-04-16 |
 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 | 2022-09-09 |  |

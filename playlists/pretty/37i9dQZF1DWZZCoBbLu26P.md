@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,470 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,506 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 21 | [Brown Cow Stunning](https://open.spotify.com/track/17nicr4bub5sGc9Hac7hUg) | [Monique Heart](https://open.spotify.com/artist/0iJr2eJYe4WsiZrmCn2nV3) | [Brown Cow Stunning](https://open.spotify.com/album/3D4tRIWeEXpUUccba35Rku) | 3:07 |
 | 22 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 23 | [Bitch Like Me](https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Bitch Like Me](https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1) | 2:36 |
-| 24 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 |
-| 25 | [Hot Couture](https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Hot Couture](https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA) | 3:20 |
+| 24 | [Hot Couture](https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Hot Couture](https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA) | 3:20 |
+| 25 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 |
 | 26 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 |
 | 27 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
 | 28 | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Detox](https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC), [Vicky Vox](https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91) | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO) | 4:08 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 41 | [Hurt My Feelings](https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [Hurt My Feelings](https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8) | 3:57 |
 | 42 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
 | 43 | [Loving Me Like That](https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Loving Me Like That](https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY) | 3:06 |
-| 44 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
-| 45 | [Southern Hospitality](https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO) | [Trinity the Tuck](https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS) | [EGO](https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn) | 2:33 |
+| 44 | [Southern Hospitality](https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO) | [Trinity the Tuck](https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS) | [EGO](https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn) | 2:33 |
+| 45 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
 | 46 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |
 | 47 | [Burn Rubber](https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0) | [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Burn Rubber](https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5) | 2:53 |
 | 48 | [Boys Like Me](https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Kaleidoscope](https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9) | 3:22 |

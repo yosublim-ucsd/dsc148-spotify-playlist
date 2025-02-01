@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: gabriela arcos
+> Todo el sonido indie de Chile\. Foto: El Mala Hierba
 
-524 songs - 1 day 7 hr 22 min
+525 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [Somos la resistencia](https://open.spotify.com/track/1vvVoQd0rQbT7aeDHLSCH5) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Somos la resistencia](https://open.spotify.com/album/1EUCQ5BC0rBxyyYDk9jlgq) | 2:51 | 2022-04-15 | 2022-12-10 |
 | [Somos los Mismos de Siempre](https://open.spotify.com/track/01GpVopX5wsjHrSwU5IKiQ) | [ELDANI](https://open.spotify.com/artist/4XIAIb1ugOy9JfmpeSoUAu) | [Somos los Mismos de Siempre](https://open.spotify.com/album/5eSI1GGV109quSOi7YXreh) | 4:28 | 2022-04-15 | 2022-07-29 |
 | [Sonámbulo](https://open.spotify.com/track/27yWuiO04OMNr0ikpQj0Oo) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Sonámbulo](https://open.spotify.com/album/6XGv3w6gzMpsxesukAXsGi) | 3:09 | 2022-04-15 | 2022-12-10 |
+| [Spam](https://open.spotify.com/track/0wLjZKh48ap0wdCmWnv19P) | [El Mala Hierba](https://open.spotify.com/artist/49MaIXLae4M7AJiWKYoxVT) | [Spam](https://open.spotify.com/album/1ThZdEMIHd5oR98h7Pb9dO) | 3:25 | 2025-01-31 |  |
 | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/track/4h0uvgfrsbblEhfn98qO51) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Fernanda Arrau](https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6) | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/album/6zgo4JJtSQmDlg7gcAWEo0) | 5:00 | 2022-04-15 | 2022-07-26 |
 | [Sudamérica Suda](https://open.spotify.com/track/3nf731XsSR9Nnhw0nOylo9) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Sudamérica Suda](https://open.spotify.com/album/55arWmrulZn7MFfD4eDa4o) | 3:08 | 2023-08-11 | 2024-04-19 |
 | [Sudamérica Suda](https://open.spotify.com/track/7wpJU8AhVLL87zJ23NiUpM) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Sudamérica Suda](https://open.spotify.com/album/7gsLYO4xF9zC7mNyLqjKTb) | 3:08 | 2023-05-26 | 2023-07-31 |
@@ -515,7 +516,7 @@
 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 | 2023-12-01 |  |
 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 | 2024-08-16 | 2024-12-07 |
 | [Vuela](https://open.spotify.com/track/1mFrvSk4fWW2MxzhScZIYt) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Vuela](https://open.spotify.com/album/1en2Y56k1SDvNu6zASHwPB) | 4:16 | 2022-04-15 | 2022-07-26 |
-| [Vuela Lejos](https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Vuela Lejos](https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO) | 5:07 | 2022-04-15 |  |
+| [Vuela Lejos](https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Vuela Lejos](https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO) | 5:07 | 2022-04-15 | 2025-02-01 |
 | [Vía Contemplativa](https://open.spotify.com/track/2EdsfzRhbmOZVN9g8WY09R) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:56 | 2022-10-14 | 2023-01-28 |
 | [XAT \- Juanita La O Remix](https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Refresco](https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b) | 3:17 | 2022-04-15 |  |
 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-04 | 2024-04-06 |

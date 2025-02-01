@@ -1,6 +1,6 @@
 {
   "description": "The most romantic tracks of all time, featuring today's hits and all the classics.",
-  "num_followers": 594306,
+  "num_followers": 594440,
   "original_name": "Valentine's Day Love",
   "owner": {
     "name": "Spotify",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-07-15 15:38:15",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu"
+    },
+    {
+      "added_at": "2024-07-15 15:38:15",
+      "album": {
         "name": "My Only One (No Hay Nadie M\u00e1s)",
         "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 198280,
       "name": "My Only One (No Hay Nadie M\u00e1s)",
       "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
-    },
-    {
-      "added_at": "2024-07-15 15:38:15",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu"
     },
     {
       "added_at": "2024-07-15 15:38:15",

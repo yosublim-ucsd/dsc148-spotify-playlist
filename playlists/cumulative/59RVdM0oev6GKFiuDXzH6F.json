@@ -3623,6 +3623,32 @@
     },
     {
       "album": {
+        "name": "Delirious (French Version)",
+        "url": "https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176932,
+      "name": "Delirious (French Version)",
+      "url": "https://open.spotify.com/track/5nGPbqEmQ3ZutQGX4EHw9J"
+    },
+    {
+      "album": {
         "name": "Devil's Music",
         "url": "https://open.spotify.com/album/4S0x97NZrRAZ8PyATGIITT"
       },
@@ -5367,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "Freak Out",
+        "url": "https://open.spotify.com/album/6DGCEXrMI3ZJ4Cy1Hns3NQ"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Freak Out",
+      "url": "https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3"
+    },
+    {
+      "album": {
         "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
         "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
       },
@@ -6748,6 +6792,24 @@
       "duration_ms": 152244,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/5C6PKaVGXnQc2YaS2BhXPF"
+    },
+    {
+      "album": {
+        "name": "Hotel Room Service",
+        "url": "https://open.spotify.com/album/5NoPhIAyQV0M2ISTCnjJbn"
+      },
+      "artists": [
+        {
+          "name": "Ken",
+          "url": "https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Hotel Room Service",
+      "url": "https://open.spotify.com/track/0Jj6YwSqn1o7RqxKlcpBGg"
     },
     {
       "album": {
@@ -18102,7 +18164,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 172000,
       "name": "Wake Up In The Sky (feat. Bianca Tilici)",
       "url": "https://open.spotify.com/track/7167afkupEZnmCAtMeizWv"

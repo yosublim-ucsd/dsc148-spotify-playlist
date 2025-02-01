@@ -1,13 +1,37 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless Bollywood classics, latest trending tracks under a single playlist featuring the best of Arijit Singh, Pritam, A R Rahman, Badshah, AP Dhillon and more. Follow now!",
-  "num_followers": 228534,
+  "num_followers": 228524,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAWHfk3p3J5BG1o7f1SHeme7MszNep9",
+  "snapshot_id": "AAAWKKZ20ArNb4dCN5pmT15wxsd6Cfzt",
   "tracks": [
+    {
+      "added_at": "2025-01-31 11:46:20",
+      "album": {
+        "name": "Jaane Tu (From \"Chhaava\")",
+        "url": "https://open.spotify.com/album/11cmqlCi2li2BrRBwV1otQ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 284721,
+      "name": "Jaane Tu (From \"Chhaava\")",
+      "url": "https://open.spotify.com/track/2xJljikiXXEymW80bqyG6u"
+    },
     {
       "added_at": "2022-07-18 10:03:31",
       "album": {
@@ -203,6 +227,22 @@
       "duration_ms": 281511,
       "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
+      "added_at": "2025-01-31 11:46:30",
+      "album": {
+        "name": "Humsafar",
+        "url": "https://open.spotify.com/album/3hIwPKFytTNO9Vth1PkGDs"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "duration_ms": 211206,
+      "name": "Kabhi Kabhi",
+      "url": "https://open.spotify.com/track/22F7nS0LV4YYt3oPb3xTlV"
     },
     {
       "added_at": "2021-08-07 05:30:49",
@@ -2829,6 +2869,26 @@
       "url": "https://open.spotify.com/track/7doebiokA0utWXWcw7rD82"
     },
     {
+      "added_at": "2021-07-18 12:34:37",
+      "album": {
+        "name": "Mimi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 200218,
+      "name": "Param Sundari",
+      "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
+    },
+    {
       "added_at": "2022-03-04 05:23:44",
       "album": {
         "name": "Tere Bina - Khanvict Remix",
@@ -2861,44 +2921,28 @@
       "url": "https://open.spotify.com/track/2GVVNhSq5gq3rZF2b0UY5a"
     },
     {
-      "added_at": "2021-07-18 12:34:37",
+      "added_at": "2022-01-18 05:44:47",
       "album": {
-        "name": "Mimi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         },
         {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 200218,
-      "name": "Param Sundari",
-      "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
-    },
-    {
-      "added_at": "2021-08-16 05:09:23",
-      "album": {
-        "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/37nWpT1gls52Tu6pymuPw3"
-      },
-      "artists": [
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
         },
         {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         }
       ],
-      "duration_ms": 266005,
-      "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4"
+      "duration_ms": 176232,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
     },
     {
       "added_at": "2022-02-11 06:26:14",
@@ -2929,6 +2973,46 @@
       "url": "https://open.spotify.com/track/1U8rhryVYw9gWZ6zvw4Orc"
     },
     {
+      "added_at": "2021-08-16 05:09:23",
+      "album": {
+        "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/37nWpT1gls52Tu6pymuPw3"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "duration_ms": 266005,
+      "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4"
+    },
+    {
+      "added_at": "2021-08-18 09:40:40",
+      "album": {
+        "name": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 315173,
+      "name": "Jashn-E-Bahaaraa",
+      "url": "https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl"
+    },
+    {
       "added_at": "2019-10-17 07:01:07",
       "album": {
         "name": "Naagin",
@@ -2957,70 +3041,6 @@
       "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
     },
     {
-      "added_at": "2021-08-18 09:40:40",
-      "album": {
-        "name": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 315173,
-      "name": "Jashn-E-Bahaaraa",
-      "url": "https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl"
-    },
-    {
-      "added_at": "2022-01-18 05:44:47",
-      "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
-        }
-      ],
-      "duration_ms": 176232,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
-    },
-    {
-      "added_at": "2020-03-26 10:35:35",
-      "album": {
-        "name": "Genda Phool (feat. Payal Dev)",
-        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Genda Phool (feat. Payal Dev)",
-      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
-    },
-    {
       "added_at": "2024-11-25 04:58:20",
       "album": {
         "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
@@ -3043,6 +3063,26 @@
       "duration_ms": 212108,
       "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
       "url": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u"
+    },
+    {
+      "added_at": "2020-03-26 10:35:35",
+      "album": {
+        "name": "Genda Phool (feat. Payal Dev)",
+        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Genda Phool (feat. Payal Dev)",
+      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
     }
   ],
   "unique_name": "Bollywood Top 50",

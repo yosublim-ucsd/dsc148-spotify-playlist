@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "furry, \u0398\u0394, indie. Cover: <a href=\"https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb\">salv the dog</a> || Visit our <a href=\"https://indieanthro.com\">website</a> for more \u2728",
+  "description": "furry, \u0398\u0394, indie. Cover: <a href=\"https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH?si=xKEjvLs9Qz2sC0ciFa1-9Q\">GABUISLOST</a> || Visit our <a href=\"https://indieanthro.com\">website</a> for more \u2728",
   "name": "indieAnthro",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 92106,
       "name": "big body",
       "url": "https://open.spotify.com/track/0WYOPfaW8hYIUIm4R5EaF9"
@@ -238,6 +238,24 @@
       "duration_ms": 170294,
       "name": "bits&pieces",
       "url": "https://open.spotify.com/track/7uO2WKHjMtqRPu6GbvwQsq"
+    },
+    {
+      "album": {
+        "name": "bleed / lipstick 405",
+        "url": "https://open.spotify.com/album/78lQ2a1xUfkn7I4Fqlqhbl"
+      },
+      "artists": [
+        {
+          "name": "webcage",
+          "url": "https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180624,
+      "name": "bleed",
+      "url": "https://open.spotify.com/track/4fb6ObPU2PA62dRVpTNMjc"
     },
     {
       "album": {
@@ -332,7 +350,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 98482,
       "name": "c.e.d. (manic)",
       "url": "https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 179616,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/77KJzN42xWRix9N3LQOLrA"
@@ -530,7 +548,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 204426,
       "name": "Dog Ears",
       "url": "https://open.spotify.com/track/0e6I94eva07huDA7Fplb01"
@@ -714,7 +732,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137674,
       "name": "enby",
       "url": "https://open.spotify.com/track/7hqHsQlwymS7BIT53hzi9L"
@@ -815,6 +833,24 @@
     },
     {
       "album": {
+        "name": "FFY",
+        "url": "https://open.spotify.com/album/1iOLj4TFXeuh1WWRGaDar1"
+      },
+      "artists": [
+        {
+          "name": "alexx",
+          "url": "https://open.spotify.com/artist/0AmAHEoSgWULygymmiY5AI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140155,
+      "name": "FFY",
+      "url": "https://open.spotify.com/track/1sg2bI7dSVZr9TRqFkWp6j"
+    },
+    {
+      "album": {
         "name": "PAYDAY",
         "url": "https://open.spotify.com/album/7DBDDEEBeZimthRql76K90"
       },
@@ -830,6 +866,24 @@
       "duration_ms": 120465,
       "name": "fist on the wheel",
       "url": "https://open.spotify.com/track/1FDgYnEx0wr95YuCJytmmL"
+    },
+    {
+      "album": {
+        "name": "flabbergasted",
+        "url": "https://open.spotify.com/album/3vnyhozbUXQcWwkw3CUn49"
+      },
+      "artists": [
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "flabbergasted",
+      "url": "https://open.spotify.com/track/17UdncO4Cwa4eJAyY8AiYL"
     },
     {
       "album": {
@@ -862,7 +916,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 136421,
       "name": "galaxy",
       "url": "https://open.spotify.com/track/0eCHafxWdcpnivREAbWlbc"
@@ -891,6 +945,24 @@
     },
     {
       "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165879,
+      "name": "goodbyeee",
+      "url": "https://open.spotify.com/track/2w4Ur3dJ5JxkaUploGOhvc"
+    },
+    {
+      "album": {
         "name": "Fight Malice With Love",
         "url": "https://open.spotify.com/album/2LcUg1gHYiH7YgYtbivFmh"
       },
@@ -906,6 +978,28 @@
       "duration_ms": 211231,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/3iwaBue4azgT6Swq0oma7O"
+    },
+    {
+      "album": {
+        "name": "HEART-Q",
+        "url": "https://open.spotify.com/album/6opCGektpEMDIsIBF376dS"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u3081",
+          "url": "https://open.spotify.com/artist/1JcKmvzJmoRPfK6eFSNumD"
+        },
+        {
+          "name": "Water",
+          "url": "https://open.spotify.com/artist/1NXNw7RoWcUm5GAEdIyvNt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195204,
+      "name": "HEART-Q",
+      "url": "https://open.spotify.com/track/4KeJPooEdtKgS0whhhybaz"
     },
     {
       "album": {
@@ -1374,7 +1468,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 148500,
       "name": "Late Night TV",
       "url": "https://open.spotify.com/track/5p4SJDLLPGnIxtU5vhAZKB"
@@ -1443,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "ONLY US, NEVER THEM",
+        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "lil boy",
+      "url": "https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF"
+    },
+    {
+      "album": {
         "name": "Wolves And Power Lines And Oranges And Waves And Guitar Fights And Some Songs",
         "url": "https://open.spotify.com/album/3ovjiaiNk6njNIaIKRqBmq"
       },
@@ -1476,6 +1588,24 @@
       "duration_ms": 119040,
       "name": "Meet Me at the Convention",
       "url": "https://open.spotify.com/track/1wn8F9YN6js8rZ684bq5tr"
+    },
+    {
+      "album": {
+        "name": "methods",
+        "url": "https://open.spotify.com/album/6tY3AhhtIFLv3xpA6Q9wXc"
+      },
+      "artists": [
+        {
+          "name": "Allen Inuyama",
+          "url": "https://open.spotify.com/artist/56wRZVNHA9eqrWPwvPBOl9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "methods",
+      "url": "https://open.spotify.com/track/1nYg0Tzg7Z0VuLyUFPMM1y"
     },
     {
       "album": {
@@ -1710,7 +1840,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 155990,
       "name": "no amounts",
       "url": "https://open.spotify.com/track/2yLGNPPrlmZgqLzazjVbm2"
@@ -1753,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Non-Binary Ghost",
+        "url": "https://open.spotify.com/album/3WIOcp8NpHPkyRUfudgnxT"
+      },
+      "artists": [
+        {
+          "name": "Dog Weekend",
+          "url": "https://open.spotify.com/artist/1nqT1EKY1ao5WCIsIF1gh5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199759,
+      "name": "Non-Binary Ghost",
+      "url": "https://open.spotify.com/track/6GD3JEry1xH89ZnX9Tijys"
+    },
+    {
+      "album": {
         "name": "Open Me (Thru Stunted Waves; Hold Me in Morning Hues)",
         "url": "https://open.spotify.com/album/1g8rxL9F5i5LpG1su4b6mA"
       },
@@ -1772,6 +1920,24 @@
       "duration_ms": 249194,
       "name": "Open Me",
       "url": "https://open.spotify.com/track/062Qx4ID0e6VUvwufD16ZB"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2RpPntOn2UMMuMeJDJESpt"
+      },
+      "artists": [
+        {
+          "name": "scuttlefuzz",
+          "url": "https://open.spotify.com/artist/4ll5RlLT3paku0bQDJCqlu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116276,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/0NZYY7pVDk67cx23sqLgjh"
     },
     {
       "album": {
@@ -1964,7 +2130,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191232,
       "name": "PUNCTURE WOUND",
       "url": "https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0"
@@ -2088,7 +2254,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 275613,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/4LK7ROH6WX041jScTKtrHD"
@@ -2164,6 +2330,24 @@
       "duration_ms": 126543,
       "name": "silly dancers & necromancers",
       "url": "https://open.spotify.com/track/3j98I7tc7XzE4nOeQwbYuB"
+    },
+    {
+      "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/0UxfpuOL93usUyfqRodI2Y"
+      },
+      "artists": [
+        {
+          "name": "Keep it Together",
+          "url": "https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Slow Start",
+      "url": "https://open.spotify.com/track/2XHym52UhEAbxSymPMUV64"
     },
     {
       "album": {

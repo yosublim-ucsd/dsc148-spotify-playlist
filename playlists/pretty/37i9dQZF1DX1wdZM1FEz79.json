@@ -1,6 +1,6 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Sogaksogak(\uc18c\uac01\uc18c\uac01)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 291723,
+  "num_followers": 291760,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-01-24 08:15:26",
       "album": {
-        "name": "When The Wind Blows - SM STATION",
-        "url": "https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm"
-      },
-      "artists": [
-        {
-          "name": "YOONA",
-          "url": "https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk"
-        }
-      ],
-      "duration_ms": 226168,
-      "name": "When The Wind Blows",
-      "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
-    },
-    {
-      "added_at": "2025-01-24 08:15:26",
-      "album": {
         "name": "because I'm stupid?",
         "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2025-01-24 08:15:26",
       "album": {
-        "name": "A story that will turn into a poem",
-        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
+        "name": "When The Wind Blows - SM STATION",
+        "url": "https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm"
       },
       "artists": [
         {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+          "name": "YOONA",
+          "url": "https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk"
         }
       ],
-      "duration_ms": 235157,
-      "name": "A story that will turn into a poem",
-      "url": "https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA"
+      "duration_ms": 226168,
+      "name": "When The Wind Blows",
+      "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
     },
     {
       "added_at": "2025-01-24 08:15:26",
@@ -711,6 +695,22 @@
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2025-01-24 08:15:26",
+      "album": {
+        "name": "A story that will turn into a poem",
+        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 235157,
+      "name": "A story that will turn into a poem",
+      "url": "https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA"
     },
     {
       "added_at": "2025-01-24 08:15:26",
@@ -815,22 +815,18 @@
     {
       "added_at": "2025-01-24 08:15:26",
       "album": {
-        "name": "First Night",
-        "url": "https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM"
+        "name": "Our Blues, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE"
       },
       "artists": [
         {
-          "name": "LIM KIM",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        },
-        {
-          "name": "Kim Chang-Wan",
-          "url": "https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 216000,
-      "name": "First Night",
-      "url": "https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH"
+      "duration_ms": 224189,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"
     },
     {
       "added_at": "2025-01-24 08:15:26",
@@ -855,18 +851,22 @@
     {
       "added_at": "2025-01-24 08:15:26",
       "album": {
-        "name": "Our Blues, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE"
+        "name": "First Night",
+        "url": "https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        },
+        {
+          "name": "Kim Chang-Wan",
+          "url": "https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH"
         }
       ],
-      "duration_ms": 224189,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"
+      "duration_ms": 216000,
+      "name": "First Night",
+      "url": "https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH"
     },
     {
       "added_at": "2025-01-24 08:15:26",

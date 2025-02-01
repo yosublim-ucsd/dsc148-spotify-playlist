@@ -1,13 +1,169 @@
 {
-  "description": "Genre-less. Quality first always. Cover: FKA twigs",
-  "num_followers": 1339110,
+  "description": "Genre-less. Quality first always. Cover: Jamie xx",
+  "num_followers": 1339043,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5kR2AAAAAA83BVlra/PAv0KjHb/gwYC",
+  "snapshot_id": "Z5xY9wAAAABDdHrzL+pgXwnTqQh7Wyc7",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:39",
+      "album": {
+        "name": "In Waves (Deluxe)",
+        "url": "https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 217074,
+      "name": "F.U.",
+      "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Girl Feels Good",
+      "url": "https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV"
+    },
+    {
+      "added_at": "2025-01-31 05:00:39",
+      "album": {
+        "name": "Let It Hurt",
+        "url": "https://open.spotify.com/album/4hQPmvPZa9falGTfL5DCqq"
+      },
+      "artists": [
+        {
+          "name": "Sirens Of Lesbos",
+          "url": "https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "Let It Hurt",
+      "url": "https://open.spotify.com/track/0L6zAsIMoNEdNfdh0gNPRy"
+    },
+    {
+      "added_at": "2025-01-31 05:00:39",
+      "album": {
+        "name": "BLACK\u2019!ANTIQUE",
+        "url": "https://open.spotify.com/album/5DysldnqrOvaDbYyNHA2WZ"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "duration_ms": 236491,
+      "name": "LAST ONE ALIVE'!",
+      "url": "https://open.spotify.com/track/3A263C6177xoTmIcYiRisE"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/5XXtHaMgI6jW8y69OXGUbq"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "duration_ms": 230727,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3tlav4JW2DJkza7zskaLK2"
+    },
+    {
+      "added_at": "2025-01-31 05:00:39",
+      "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 184689,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/5QcYmW7azJX4J8OTSZcWI8"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/65aCsrip8OcBkTgEMvPSX4"
+    },
+    {
+      "added_at": "2025-01-31 05:00:39",
+      "album": {
+        "name": "On A Trip",
+        "url": "https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        }
+      ],
+      "duration_ms": 197799,
+      "name": "Currency (Count On Me) (ft Cimafunk and PAM\u00c9)",
+      "url": "https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS"
+    },
+    {
+      "added_at": "2025-01-31 05:00:39",
+      "album": {
+        "name": "PROTECT THE CROSS",
+        "url": "https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "PROTECT THE CROSS",
+      "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
+    },
     {
       "added_at": "2025-01-24 05:00:52",
       "album": {
@@ -39,22 +195,6 @@
       "duration_ms": 265706,
       "name": "Room Of Fools",
       "url": "https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI"
-    },
-    {
-      "added_at": "2025-01-24 05:00:52",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/5XXtHaMgI6jW8y69OXGUbq"
-      },
-      "artists": [
-        {
-          "name": "Jaco Jaco",
-          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
-        }
-      ],
-      "duration_ms": 230727,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3tlav4JW2DJkza7zskaLK2"
     },
     {
       "added_at": "2025-01-24 05:00:52",
@@ -139,38 +279,6 @@
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
-    },
-    {
-      "added_at": "2025-01-24 05:00:52",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/5QcYmW7azJX4J8OTSZcWI8"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/65aCsrip8OcBkTgEMvPSX4"
-    },
-    {
-      "added_at": "2025-01-24 05:00:52",
-      "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Girl Feels Good",
-      "url": "https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV"
     },
     {
       "added_at": "2025-01-24 05:00:52",
@@ -649,26 +757,6 @@
       "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "uwu ^^",
-        "url": "https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 162077,
-      "name": "uwu ^^",
-      "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
-    },
-    {
       "added_at": "2024-12-13 05:00:38",
       "album": {
         "name": "Riverside",
@@ -805,22 +893,6 @@
       "url": "https://open.spotify.com/track/4bmxhTRBXj824pT7M9zHPu"
     },
     {
-      "added_at": "2024-12-20 21:04:21",
-      "album": {
-        "name": "Saaheem (A Lu Bit More)",
-        "url": "https://open.spotify.com/album/3LALBNNkDv4cEwnUuciMkS"
-      },
-      "artists": [
-        {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        }
-      ],
-      "duration_ms": 203543,
-      "name": "Show Off",
-      "url": "https://open.spotify.com/track/4y3lRmi6gHWaDmJMaJIIUF"
-    },
-    {
       "added_at": "2024-12-20 05:00:38",
       "album": {
         "name": "GNX",
@@ -895,22 +967,6 @@
       "duration_ms": 204615,
       "name": "Gold Filigree",
       "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Minha Vida - Hope",
-        "url": "https://open.spotify.com/album/1e8s9etJoiLcpjtVyTos4V"
-      },
-      "artists": [
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "In Love We Know Ourselves",
-      "url": "https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1045,26 +1101,6 @@
       "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Drums of Death",
-        "url": "https://open.spotify.com/album/5O2iDeaXzm0HOsEkYartOo"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Koreless",
-          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Drums of Death",
-      "url": "https://open.spotify.com/track/0s2kdkcG5N7ySBbEwTiFEF"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "TRANSA",
@@ -1087,22 +1123,6 @@
       "duration_ms": 327133,
       "name": "You Make Me Feel (Mighty Real)",
       "url": "https://open.spotify.com/track/1sLhKR0VdZ0tgo3stHNEEH"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Piedras 1",
-        "url": "https://open.spotify.com/album/57qOz97NbtxqcIPD9yL3Br"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 281890,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5OklzM8XVb0LRx3yMoIbV8"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1281,6 +1301,26 @@
       "url": "https://open.spotify.com/track/4v9fdnM2Pez9whcdAn0n7s"
     },
     {
+      "added_at": "2024-11-06 17:24:13",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 253834,
+      "name": "Darling, I (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
+    },
+    {
       "added_at": "2024-11-06 17:19:57",
       "album": {
         "name": "Hacker",
@@ -1315,26 +1355,6 @@
       "duration_ms": 257521,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/2KNpdjtaAbWSoWRnkNeD3i"
-    },
-    {
-      "added_at": "2024-11-06 17:24:13",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 253834,
-      "name": "Darling, I (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1547,62 +1567,6 @@
       "duration_ms": 335474,
       "name": "Graucha Max",
       "url": "https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
-      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "CA$HMERE TEAR$",
-        "url": "https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "CA$HMERE TEAR$",
-      "url": "https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/440GQ9ihDk0JBKq944vsvw"
-      },
-      "artists": [
-        {
-          "name": "Ruthven",
-          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
-        }
-      ],
-      "duration_ms": 257040,
-      "name": "The Window",
-      "url": "https://open.spotify.com/track/5sf9YLJBGMTrCBEpUZOwrc"
     },
     {
       "added_at": "2024-10-25 04:00:00",

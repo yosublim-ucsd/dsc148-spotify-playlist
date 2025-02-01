@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 133760,
+  "num_followers": 133771,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
-        "name": "Days With Uncertainty",
-        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 239160,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
-    },
-    {
-      "added_at": "2025-01-09 06:59:33",
-      "album": {
         "name": "early summer 2022",
         "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
@@ -871,6 +855,38 @@
       "duration_ms": 274066,
       "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+    },
+    {
+      "added_at": "2025-01-09 06:59:33",
+      "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+    },
+    {
+      "added_at": "2025-01-09 06:59:33",
+      "album": {
+        "name": "Days With Uncertainty",
+        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
     },
     {
       "added_at": "2025-01-09 06:59:33",
@@ -891,22 +907,6 @@
       "duration_ms": 340573,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
-    },
-    {
-      "added_at": "2025-01-09 06:59:33",
-      "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2025-01-09 06:59:33",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
-        "name": "\u5fc3\u306e\u305d\u3070\u306b",
-        "url": "https://open.spotify.com/album/1iZDg7OG1kv1hUDuOpTFiI"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
-        }
-      ],
-      "duration_ms": 303812,
-      "name": "\u5fc3\u306e\u305d\u3070\u306b",
-      "url": "https://open.spotify.com/track/2hR3yLXHkMQLvdOPR8LGQp"
-    },
-    {
-      "added_at": "2025-01-09 06:59:33",
-      "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 269301,
       "name": "\u30af\u30ec\u30a4",
       "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
+    },
+    {
+      "added_at": "2025-01-09 06:59:33",
+      "album": {
+        "name": "\u5fc3\u306e\u305d\u3070\u306b",
+        "url": "https://open.spotify.com/album/1iZDg7OG1kv1hUDuOpTFiI"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "duration_ms": 303812,
+      "name": "\u5fc3\u306e\u305d\u3070\u306b",
+      "url": "https://open.spotify.com/track/2hR3yLXHkMQLvdOPR8LGQp"
     },
     {
       "added_at": "2025-01-09 06:59:33",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
-        "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
-        "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
-      },
-      "artists": [
-        {
-          "name": "Naotaro Moriyama",
-          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
-        }
-      ],
-      "duration_ms": 457613,
-      "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
-      "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
-    },
-    {
-      "added_at": "2025-01-09 06:59:33",
-      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -1311,18 +1295,34 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
-        "name": "\u4eca\u5e74\u3082\u3053\u3046\u3057\u3066\u4e8c\u4eba\u3067\u30af\u30ea\u30b9\u30de\u30b9\u3092\u795d\u3046",
-        "url": "https://open.spotify.com/album/0rqOOSih1UbpLOB19YNAya"
+        "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
+        "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
       },
       "artists": [
         {
-          "name": "KAN",
-          "url": "https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY"
+          "name": "Naotaro Moriyama",
+          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
         }
       ],
-      "duration_ms": 201240,
-      "name": "\u4eca\u5e74\u3082\u3053\u3046\u3057\u3066\u4e8c\u4eba\u3067\u30af\u30ea\u30b9\u30de\u30b9\u3092\u795d\u3046",
-      "url": "https://open.spotify.com/track/35vwr2rXlNZ9ATUNlgafL2"
+      "duration_ms": 457613,
+      "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
+      "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
+    },
+    {
+      "added_at": "2025-01-09 06:59:33",
+      "album": {
+        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
     },
     {
       "added_at": "2025-01-09 06:59:33",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
-        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
+        "name": "\u4eca\u5e74\u3082\u3053\u3046\u3057\u3066\u4e8c\u4eba\u3067\u30af\u30ea\u30b9\u30de\u30b9\u3092\u795d\u3046",
+        "url": "https://open.spotify.com/album/0rqOOSih1UbpLOB19YNAya"
       },
       "artists": [
         {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+          "name": "KAN",
+          "url": "https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY"
         }
       ],
-      "duration_ms": 266000,
-      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
+      "duration_ms": 201240,
+      "name": "\u4eca\u5e74\u3082\u3053\u3046\u3057\u3066\u4e8c\u4eba\u3067\u30af\u30ea\u30b9\u30de\u30b9\u3092\u795d\u3046",
+      "url": "https://open.spotify.com/track/35vwr2rXlNZ9ATUNlgafL2"
     },
     {
       "added_at": "2025-01-09 06:59:33",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
+        "name": "Double Rift",
+        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 255213,
+      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
+      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
+    },
+    {
+      "added_at": "2025-01-09 06:59:33",
+      "album": {
         "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
         "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
-        "name": "Double Rift",
-        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 255213,
-      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
-      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
-    },
-    {
-      "added_at": "2025-01-09 06:59:33",
-      "album": {
         "name": "\u3081\u3050\u308b",
         "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 265026,
       "name": "\u3081\u3050\u308b",
       "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
+    },
+    {
+      "added_at": "2025-01-09 06:59:33",
+      "album": {
+        "name": "grace",
+        "url": "https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3"
+      },
+      "artists": [
+        {
+          "name": "Nezumi Coo",
+          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "grace",
+      "url": "https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ"
     },
     {
       "added_at": "2025-01-09 06:59:33",
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
-        "name": "grace",
-        "url": "https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3"
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
       "artists": [
         {
-          "name": "Nezumi Coo",
-          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
         }
       ],
-      "duration_ms": 183374,
-      "name": "grace",
-      "url": "https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ"
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
     },
     {
       "added_at": "2025-01-09 06:59:33",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
-        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
-      },
-      "artists": [
-        {
-          "name": "Anzen Chitai",
-          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
-    },
-    {
-      "added_at": "2025-01-09 06:59:33",
-      "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 178546,
       "name": "A Rainy Night in NY",
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
-    },
-    {
-      "added_at": "2025-01-09 06:59:33",
-      "album": {
-        "name": "Freeway",
-        "url": "https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u"
-      },
-      "artists": [
-        {
-          "name": "\u3093oon",
-          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
-        }
-      ],
-      "duration_ms": 230204,
-      "name": "Tokyo Family Restaurant",
-      "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
     },
     {
       "added_at": "2025-01-09 06:59:33",
@@ -1579,6 +1563,38 @@
     {
       "added_at": "2025-01-09 06:59:33",
       "album": {
+        "name": "HOME EP",
+        "url": "https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "duration_ms": 272894,
+      "name": "\u611b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"
+    },
+    {
+      "added_at": "2025-01-09 06:59:33",
+      "album": {
+        "name": "Freeway",
+        "url": "https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u"
+      },
+      "artists": [
+        {
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+        }
+      ],
+      "duration_ms": 230204,
+      "name": "Tokyo Family Restaurant",
+      "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
+    },
+    {
+      "added_at": "2025-01-09 06:59:33",
+      "album": {
         "name": "\u96ea\u89e3",
         "url": "https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 250000,
       "name": "\u96ea\u89e3",
       "url": "https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9"
-    },
-    {
-      "added_at": "2025-01-09 06:59:33",
-      "album": {
-        "name": "HOME EP",
-        "url": "https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF"
-      },
-      "artists": [
-        {
-          "name": "HOME",
-          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
-        }
-      ],
-      "duration_ms": 272894,
-      "name": "\u611b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"
     },
     {
       "added_at": "2025-01-09 06:59:33",

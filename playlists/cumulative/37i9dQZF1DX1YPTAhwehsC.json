@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: (R.I.P.) Mac Miller",
+  "description": "Up and down I-95. Cover: Joey Bada$$",
   "name": "State of Mind",
   "tracks": [
     {
@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 210371,
       "name": "5AM IN PHILLY",
       "url": "https://open.spotify.com/track/2xaCeQ5mTMhMrf8kAei5GW"
@@ -2441,6 +2441,32 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL SCARS (feat. OBanga)",
+        "url": "https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "OBanga",
+          "url": "https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226031,
+      "name": "BEAUTIFUL SCARS (feat. OBanga)",
+      "url": "https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9"
+    },
+    {
+      "album": {
         "name": "MEMENTO (DELUXE)",
         "url": "https://open.spotify.com/album/4ENhG6dvD8niF3TgWaqpER"
       },
@@ -3148,7 +3174,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 148732,
       "name": "BLACC OUT",
       "url": "https://open.spotify.com/track/6zb5XXVsYPpn8opKNcYxNv"
@@ -5569,6 +5595,32 @@
     },
     {
       "album": {
+        "name": "Cooln (feat. Babychiefdoit & PlaqueBoyMax)",
+        "url": "https://open.spotify.com/album/5qFLg4YkztxeuArg7solj9"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111432,
+      "name": "Cooln (feat. Babychiefdoit & PlaqueBoyMax)",
+      "url": "https://open.spotify.com/track/5MSZhvbzEw5w28haXeUyNs"
+    },
+    {
+      "album": {
         "name": "Copy and Paste",
         "url": "https://open.spotify.com/album/4482CbuMK6VujHoVH5KLnM"
       },
@@ -6294,6 +6346,28 @@
       "duration_ms": 122141,
       "name": "Demon (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG"
+    },
+    {
+      "album": {
+        "name": "DENiM (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/6RTdlOjWsTfGGLnVewq33v"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177043,
+      "name": "DENiM",
+      "url": "https://open.spotify.com/track/0LDuxGpxvtnfERsY0aVSC5"
     },
     {
       "album": {
@@ -9116,6 +9190,28 @@
       "duration_ms": 119274,
       "name": "For You (feat. TaTa)",
       "url": "https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV"
+    },
+    {
+      "album": {
+        "name": "Force My Hand (feat. No Savage)",
+        "url": "https://open.spotify.com/album/267O8EYvOnakAmWmOXJZ7z"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        },
+        {
+          "name": "No Savage",
+          "url": "https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276454,
+      "name": "Force My Hand (feat. No Savage)",
+      "url": "https://open.spotify.com/track/0npKzbJ435cSBuB2JTMgqD"
     },
     {
       "album": {
@@ -13400,7 +13496,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 110144,
       "name": "Johnny Bendin (feat. Nr Loaded)",
       "url": "https://open.spotify.com/track/4SkaYL9IkrzJ3MNZMYeUWi"
@@ -13426,6 +13522,24 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
+    {
+      "album": {
+        "name": "Jomo",
+        "url": "https://open.spotify.com/album/1gP1kONUH0NOqIfOGefiRh"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Jomo",
+      "url": "https://open.spotify.com/track/0tR2mUq9HmCLtLR8dE6USl"
     },
     {
       "album": {
@@ -13868,7 +13982,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 159635,
       "name": "kinda up off talent!",
       "url": "https://open.spotify.com/track/6JJgKvq9bw4q4Kfq3vH1Fn"
@@ -14426,7 +14540,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 149387,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/25fbjutYeeQe9HAbJVSCUY"
@@ -15036,6 +15150,24 @@
       "duration_ms": 237673,
       "name": "Lonely (feat. Offset)",
       "url": "https://open.spotify.com/track/2wIXRxIzYm61W5zBHTptpn"
+    },
+    {
+      "album": {
+        "name": "Breath Of Fresh Air (Deluxe)",
+        "url": "https://open.spotify.com/album/63Eu8XBHOdPlqxt89zWGiR"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142198,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/3bjW6TTjHKtMn9b0Q1D07I"
     },
     {
       "album": {
@@ -15700,6 +15832,24 @@
       "duration_ms": 215303,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+    },
+    {
+      "album": {
+        "name": "Showbiz!",
+        "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111837,
+      "name": "man in the mirror",
+      "url": "https://open.spotify.com/track/4KmNLSvaKU0zoJhIptn961"
     },
     {
       "album": {
@@ -16488,6 +16638,28 @@
       "duration_ms": 216414,
       "name": "Mopstick (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO"
+    },
+    {
+      "album": {
+        "name": "MOTION",
+        "url": "https://open.spotify.com/album/6S5UcQiv3zcyJJzywXx7Br"
+      },
+      "artists": [
+        {
+          "name": "FLEE",
+          "url": "https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p"
+        },
+        {
+          "name": "Kai Slick",
+          "url": "https://open.spotify.com/artist/4afi1pWZyVt8aMD7n5eme9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130063,
+      "name": "MOTION",
+      "url": "https://open.spotify.com/track/17syfhrvYUffQmERHITIuK"
     },
     {
       "album": {
@@ -18984,7 +19156,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 199165,
       "name": "Or What",
       "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
@@ -20020,7 +20192,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 166363,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/6fPD92TEq6KsEV7L7nmhZ3"
@@ -29000,7 +29172,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157351,
       "name": "You Know",
       "url": "https://open.spotify.com/track/4hxyVFPeKy0c8k47pYjr5d"

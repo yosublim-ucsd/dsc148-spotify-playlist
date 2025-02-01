@@ -1,256 +1,176 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2460,
+  "num_followers": 2461,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEBNRnhZIaO7aTt+ttjKETcOm10SfA",
+  "snapshot_id": "AAAEBszNAaOOPFIGcldhFWq8VFAmyXfC",
   "tracks": [
     {
-      "added_at": "2025-01-24 13:06:27",
+      "added_at": "2025-01-31 13:31:37",
       "album": {
-        "name": "Scream",
-        "url": "https://open.spotify.com/album/7HuZ90o08kZHEDrsbTCtaP"
+        "name": "ALOHA HAWAII",
+        "url": "https://open.spotify.com/album/2H9FRSHBDxeJh8yGe7Uey4"
       },
       "artists": [
         {
-          "name": "Nomy",
-          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+          "name": "Subway Surfers",
+          "url": "https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ"
         }
       ],
-      "duration_ms": 203238,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/24an7dJToKivN6oV5pCNpK"
+      "duration_ms": 138000,
+      "name": "ALOHA HAWAII",
+      "url": "https://open.spotify.com/track/0smBlg56vgwAM3NF8EndJ4"
     },
     {
-      "added_at": "2025-01-24 13:06:27",
+      "added_at": "2025-01-31 13:31:37",
       "album": {
-        "name": "Hydro",
-        "url": "https://open.spotify.com/album/5UzkXvPMDuDyYm63EwYjyZ"
+        "name": "En andra sista chans",
+        "url": "https://open.spotify.com/album/2AtRQgMrBvLih6xrEGirB0"
       },
       "artists": [
         {
-          "name": "Guru Griff",
-          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
+          "name": "Anders Barsk",
+          "url": "https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "En andra sista chans",
+      "url": "https://open.spotify.com/track/5qpIM4nlfJA40knfPhu3ou"
+    },
+    {
+      "added_at": "2025-01-31 13:31:37",
+      "album": {
+        "name": "Sometimes always",
+        "url": "https://open.spotify.com/album/5RbKgiRbllmub5oh48WA7R"
+      },
+      "artists": [
+        {
+          "name": "Overhead Compartments",
+          "url": "https://open.spotify.com/artist/1l1Ybjg552x1F7EcgmEzYH"
+        }
+      ],
+      "duration_ms": 166168,
+      "name": "Sometimes always",
+      "url": "https://open.spotify.com/track/3ugA3NsCvyuP7ewHDgFOGu"
+    },
+    {
+      "added_at": "2025-01-31 13:31:37",
+      "album": {
+        "name": "C\u00fdra",
+        "url": "https://open.spotify.com/album/6q3euzIBwKajowyadeg5P5"
+      },
+      "artists": [
+        {
+          "name": "Yara Liz",
+          "url": "https://open.spotify.com/artist/2bK30CUQYUBhG7HbOYVPoO"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Selfish Heart",
+      "url": "https://open.spotify.com/track/30sowAkTk06nb2rk5Ywioc"
+    },
+    {
+      "added_at": "2025-01-31 13:31:37",
+      "album": {
+        "name": "Jelly's Sing-Along, Vol. 2",
+        "url": "https://open.spotify.com/album/0mwLJStTYmyKaPq7vMoQbg"
+      },
+      "artists": [
+        {
+          "name": "Jelly and Friends",
+          "url": "https://open.spotify.com/artist/0BpQTnNiRjqYgZIcWtq6x1"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Jelly's Chicken Fried Chicken Dance",
+      "url": "https://open.spotify.com/track/7GFIlcV2RTfj1ceKmA3VZS"
+    },
+    {
+      "added_at": "2025-01-31 13:31:37",
+      "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/2KtbHxbkodZugpQJfOjdfl"
+      },
+      "artists": [
+        {
+          "name": "Kimpatrik",
+          "url": "https://open.spotify.com/artist/610rpF7Ul6xZ5jXlBl4PM5"
+        }
+      ],
+      "duration_ms": 253507,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/3Xkcq0HeNxiTBC6jx5F9js"
+    },
+    {
+      "added_at": "2025-01-31 13:31:37",
+      "album": {
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/5ejCbOJSdw27nRFvgg7Pb4"
+      },
+      "artists": [
+        {
+          "name": "Isabella Delgado",
+          "url": "https://open.spotify.com/artist/5zRi6BSdHxKKEdS2sI0dsF"
+        }
+      ],
+      "duration_ms": 328999,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/67iEaKTb96xJiZuCPqRDuI"
+    },
+    {
+      "added_at": "2025-01-31 13:31:37",
+      "album": {
+        "name": "I am alone again",
+        "url": "https://open.spotify.com/album/41gZMc73PNDxdohhyP2uNn"
+      },
+      "artists": [
+        {
+          "name": "VaterSon",
+          "url": "https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl"
+        }
+      ],
+      "duration_ms": 179121,
+      "name": "I am alone again",
+      "url": "https://open.spotify.com/track/1QXmCsed9NThwEo4LfO4ap"
+    },
+    {
+      "added_at": "2025-01-31 13:31:37",
+      "album": {
+        "name": "We're All Friends - OFFICIAL RLP TAG 2025 SONG",
+        "url": "https://open.spotify.com/album/5FFV4XvRiXn8SEnMivY4mN"
+      },
+      "artists": [
+        {
+          "name": "LuK",
+          "url": "https://open.spotify.com/artist/0VXYph9Pw0atj5otoeNgyX"
         },
         {
-          "name": "back pockets",
-          "url": "https://open.spotify.com/artist/1opF8wXbUWfibFd6JYrnLx"
+          "name": "die tanzmanufaktur",
+          "url": "https://open.spotify.com/artist/0954fvorbWCgIhFtkq6nVS"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Hydro",
-      "url": "https://open.spotify.com/track/0iVOkA7rFkww3NnxziX7Pd"
+      "duration_ms": 167372,
+      "name": "We're All Friends - OFFICIAL RLP TAG 2025 SONG",
+      "url": "https://open.spotify.com/track/7jytzRRUPLeDP0FrBEDIau"
     },
     {
-      "added_at": "2025-01-24 13:06:27",
+      "added_at": "2025-01-31 13:31:37",
       "album": {
-        "name": "My Shadowblade",
-        "url": "https://open.spotify.com/album/2L4mQCySKI9ZhcgIkx1dUL"
+        "name": "Goodbye Ziggy Stardust",
+        "url": "https://open.spotify.com/album/5WWz7EROxRPqfIq5QKXoDJ"
       },
       "artists": [
         {
-          "name": "VOITH",
-          "url": "https://open.spotify.com/artist/4c6Pk5LZuaThZIZ0rSwxmD"
+          "name": "Trevor Tanner",
+          "url": "https://open.spotify.com/artist/6qYPZN3ZMEwFlPwHUEiYKI"
         }
       ],
-      "duration_ms": 168358,
-      "name": "My Shadowblade",
-      "url": "https://open.spotify.com/track/06QyD3Yh2db8f2tsbTHocX"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "STORSAMLING",
-        "url": "https://open.spotify.com/album/2EdKRUz3QRVWZXVC6HFROP"
-      },
-      "artists": [
-        {
-          "name": "Di Bl\u00e5",
-          "url": "https://open.spotify.com/artist/6CJhWUJBU10X51P1VoCbqS"
-        }
-      ],
-      "duration_ms": 147289,
-      "name": "Storsamling",
-      "url": "https://open.spotify.com/track/6QVM3PqP3ft9QQXRLYJuCm"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "GRAVITY",
-        "url": "https://open.spotify.com/album/2uuDZYfUXYPaij7CMv9BTf"
-      },
-      "artists": [
-        {
-          "name": "Tee Ford",
-          "url": "https://open.spotify.com/artist/3mSmHikXYIDRlork6rx1NI"
-        }
-      ],
-      "duration_ms": 212319,
-      "name": "GRAVITY",
-      "url": "https://open.spotify.com/track/1iDEX43QqJ5Y5T9Ah74t2c"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "The Greatest Movie Of All Time",
-        "url": "https://open.spotify.com/album/1XdMc9Sz325nMK5G0mkhe4"
-      },
-      "artists": [
-        {
-          "name": "Annie",
-          "url": "https://open.spotify.com/artist/6CmLjbX98aI1zSKyTvNcRc"
-        }
-      ],
-      "duration_ms": 292588,
-      "name": "The Greatest Movie Of All Time",
-      "url": "https://open.spotify.com/track/55p8AkSsaViiVgpAPQMrU3"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "Brand New Insoles",
-        "url": "https://open.spotify.com/album/2qA8eBy7MwSH8agk5zemiU"
-      },
-      "artists": [
-        {
-          "name": "Wasted Wiltons",
-          "url": "https://open.spotify.com/artist/6epj0nmAW85XlHvm71X6iM"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Prickbaiter",
-      "url": "https://open.spotify.com/track/5K3frFyC28pl3LKl2iegJ4"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "Gult lys",
-        "url": "https://open.spotify.com/album/2eYdW21wKEvG13miA5WuP8"
-      },
-      "artists": [
-        {
-          "name": "Tungtr\u00f8dd",
-          "url": "https://open.spotify.com/artist/3nBz3Kaj6ucr1Vk9pMBLTG"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "Gult lys",
-      "url": "https://open.spotify.com/track/6149xwXCGwksiQW16D4eRT"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "I Always Knew",
-        "url": "https://open.spotify.com/album/1Lq8oiQrrCXaD6IxUAiRB1"
-      },
-      "artists": [
-        {
-          "name": "Molly James",
-          "url": "https://open.spotify.com/artist/4ZUE8ck5BsovhUXPD3ODSK"
-        }
-      ],
-      "duration_ms": 231214,
-      "name": "I Always Knew",
-      "url": "https://open.spotify.com/track/5ydfZ3vDtpqfZOvzQC9vU7"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "VIVO",
-        "url": "https://open.spotify.com/album/2dMIwagFhBNa46KkT4bBXF"
-      },
-      "artists": [
-        {
-          "name": "Pamela",
-          "url": "https://open.spotify.com/artist/6h4hggCVRYtwxt811tOvHz"
-        }
-      ],
-      "duration_ms": 222255,
-      "name": "VIVO",
-      "url": "https://open.spotify.com/track/6LZp9uiUS6v5eKDCmoS0Zr"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "Hardship to Meaning",
-        "url": "https://open.spotify.com/album/0b8JZceKSsKIH3xqrsrz2o"
-      },
-      "artists": [
-        {
-          "name": "LESTOPIAT",
-          "url": "https://open.spotify.com/artist/56QVVacydHoFM9XekY8TeY"
-        }
-      ],
-      "duration_ms": 367770,
-      "name": "Hardship to Meaning",
-      "url": "https://open.spotify.com/track/0Kd0Flg8fVNdEHC4VKQ8nU"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "Speed of Life",
-        "url": "https://open.spotify.com/album/5w9KKvGBnIjQeKSzvZbW2U"
-      },
-      "artists": [
-        {
-          "name": "One Trick Pony",
-          "url": "https://open.spotify.com/artist/3h9e6iOuobD3B9dkfgzH1z"
-        }
-      ],
-      "duration_ms": 184935,
-      "name": "Call Me Highway",
-      "url": "https://open.spotify.com/track/5wqk7Go8vW2cHxTEMABei6"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "LIKE LIGHT",
-        "url": "https://open.spotify.com/album/6ajYwVo4GHXLWeDexGg4wi"
-      },
-      "artists": [
-        {
-          "name": "LAWRENCE LEWIS",
-          "url": "https://open.spotify.com/artist/4XN9uu84gkwAU205TYjsWm"
-        }
-      ],
-      "duration_ms": 169936,
-      "name": "LIKE LIGHT",
-      "url": "https://open.spotify.com/track/7bg0lafMRl0eTz6eajzVK6"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "Confessions To The Sea (CTTS)",
-        "url": "https://open.spotify.com/album/4OantaafW6hXNIxUWecOQP"
-      },
-      "artists": [
-        {
-          "name": "ProjectedMusic",
-          "url": "https://open.spotify.com/artist/08bomUbuQXoKSVQgno5DRu"
-        }
-      ],
-      "duration_ms": 270595,
-      "name": "Confessions To The Sea (CTTS)",
-      "url": "https://open.spotify.com/track/4Ji5ip8Z3Ftwmr56pixUI0"
-    },
-    {
-      "added_at": "2025-01-24 13:06:27",
-      "album": {
-        "name": "Kom och lalla",
-        "url": "https://open.spotify.com/album/2o0PFt4smg0uwLwkZMbx4z"
-      },
-      "artists": [
-        {
-          "name": "Krisgruppen",
-          "url": "https://open.spotify.com/artist/7nobroRHlBTReJR4TcTxfI"
-        }
-      ],
-      "duration_ms": 185225,
-      "name": "Kom och lalla",
-      "url": "https://open.spotify.com/track/2yCaxY1SZllmpuclTAvfoG"
+      "duration_ms": 418838,
+      "name": "Goodbye Ziggy Stardust",
+      "url": "https://open.spotify.com/track/0hdekznWjIcj7TvSF7umoI"
     }
   ],
   "unique_name": "Independent Music Friday",

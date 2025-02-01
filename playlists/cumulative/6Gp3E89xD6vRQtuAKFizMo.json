@@ -4729,6 +4729,28 @@
     },
     {
       "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/4lNn3es3NqNZOPCt0bf0Fs"
       },
@@ -5150,6 +5172,36 @@
       "duration_ms": 151259,
       "name": "My Fix",
       "url": "https://open.spotify.com/track/27tMeLOBeObM0JVjEsnPCo"
+    },
+    {
+      "album": {
+        "name": "My Life (ft. Swae Lee & PnB Rock)",
+        "url": "https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "My Life (ft. Swae Lee & PnB Rock)",
+      "url": "https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b"
     },
     {
       "album": {
@@ -5974,6 +6026,28 @@
       "duration_ms": 151519,
       "name": "Patilla (feat. El Chima En La Casa & JoeyTheGawd)",
       "url": "https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e"
+    },
+    {
+      "album": {
+        "name": "Pecadora",
+        "url": "https://open.spotify.com/album/58lHkFd6stmMU1v2Bz3Fro"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170634,
+      "name": "Pecadora",
+      "url": "https://open.spotify.com/track/4zDcTEkfMzfoca4Ddo4lRe"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 5309,
+  "num_followers": 5306,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAADGTxiB5eObBftU+ObXZfFq",
+  "snapshot_id": "Z5rBAAAAAADSEYeqrVWXZpCMZ49wBQrW",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 276642,
-      "name": "La Calle y Yo",
-      "url": "https://open.spotify.com/track/0qxs6l053dQXareuwE8i8f"
+      "duration_ms": 237840,
+      "name": "S.O.S. de Amor",
+      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 237840,
-      "name": "S.O.S. de Amor",
-      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
+      "duration_ms": 276642,
+      "name": "La Calle y Yo",
+      "url": "https://open.spotify.com/track/0qxs6l053dQXareuwE8i8f"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
-        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 413066,
-      "name": "Tocando Fondo - En Vivo",
-      "url": "https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Capturados",
         "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
       },
       "artists": [
         {
@@ -596,25 +580,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 296472,
-      "name": "\u00bfPor Qu\u00e9?",
-      "url": "https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 340560,
-      "name": "Ave Nocturna",
-      "url": "https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia"
+      "duration_ms": 413066,
+      "name": "Tocando Fondo - En Vivo",
+      "url": "https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq"
     },
     {
       "added_at": null,
@@ -635,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
       "artists": [
         {
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 191750,
-      "name": "Maribel",
-      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
+      "duration_ms": 340560,
+      "name": "Ave Nocturna",
+      "url": "https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia"
     },
     {
       "added_at": null,
@@ -660,15 +628,15 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 346488,
-      "name": "Juan Sin Miedo",
-      "url": "https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ"
+      "duration_ms": 296472,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
       "artists": [
         {
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 277960,
-      "name": "El o Ella",
-      "url": "https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8"
+      "duration_ms": 191750,
+      "name": "Maribel",
+      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
     },
     {
       "added_at": null,
@@ -699,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "El o Ella",
+      "url": "https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 346488,
+      "name": "Juan Sin Miedo",
+      "url": "https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Capturados",
         "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
+        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 268887,
-      "name": "Ciego",
-      "url": "https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b"
+      "duration_ms": 426160,
+      "name": "Exeso de Droga",
+      "url": "https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
-        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 426160,
-      "name": "Exeso de Droga",
-      "url": "https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa"
+      "duration_ms": 268887,
+      "name": "Ciego",
+      "url": "https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b"
     },
     {
       "added_at": null,

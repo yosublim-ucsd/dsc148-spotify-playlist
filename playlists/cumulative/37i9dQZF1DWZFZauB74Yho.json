@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Sierra Hull",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Alison Krauss & Union Station",
   "name": "New Grass",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 189680,
       "name": "Black Wedding Dress",
       "url": "https://open.spotify.com/track/7ykCqJO1qHSouFJRvFAj0J"
@@ -568,6 +568,42 @@
       "duration_ms": 285160,
       "name": "Blade of the King's Tongue",
       "url": "https://open.spotify.com/track/2TpE2ATWlNo9lykPoThv3p"
+    },
+    {
+      "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/0xbxpyVjXiMpQvGnsglKVi"
+      },
+      "artists": [
+        {
+          "name": "Sam Eplin",
+          "url": "https://open.spotify.com/artist/1v0BhkicxgshZuhzy3mR7V"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137818,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/72D2jyjkyYvheRcs0ScZSj"
+    },
+    {
+      "album": {
+        "name": "Blue Ain't the Word",
+        "url": "https://open.spotify.com/album/30i0ogJziOxtmX1icK49di"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "Blue Ain't the Word",
+      "url": "https://open.spotify.com/track/7HTFXALLYa9dkKjmULvSPe"
     },
     {
       "album": {
@@ -752,7 +788,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 218666,
       "name": "Boston Mountains",
       "url": "https://open.spotify.com/track/7FIpePIq2tSTG97tI9l83z"
@@ -886,7 +922,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 177200,
       "name": "Carolina Lightning",
       "url": "https://open.spotify.com/track/2IVkbLIplliO9LiBNG7HM6"
@@ -1143,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Constantine And Icarus",
+        "url": "https://open.spotify.com/album/7jPC3rYLHi7ukEXh292JYz"
+      },
+      "artists": [
+        {
+          "name": "Nash Hamilton",
+          "url": "https://open.spotify.com/artist/3gjMRRFZxevWPIoFolErpP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Constantine And Icarus",
+      "url": "https://open.spotify.com/track/481NhgD6KQhsBkp0kdunY1"
+    },
+    {
+      "album": {
         "name": "Cowboy Special (Take 1)",
         "url": "https://open.spotify.com/album/5QrbO7EV4PSUl1WzI85GMr"
       },
@@ -1158,6 +1212,24 @@
       "duration_ms": 194479,
       "name": "Cowboy Special - Take 1",
       "url": "https://open.spotify.com/track/5CbX4WpPpbapyCCjcKQvRO"
+    },
+    {
+      "album": {
+        "name": "Valley Flower",
+        "url": "https://open.spotify.com/album/24PKkEtz12g5bZshBjcOFC"
+      },
+      "artists": [
+        {
+          "name": "Valley Flower",
+          "url": "https://open.spotify.com/artist/30RBNZU9rtKnfb5dlOm1Ew"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185840,
+      "name": "Critter Junction",
+      "url": "https://open.spotify.com/track/2lymScdF9PmxUGcKKfMZII"
     },
     {
       "album": {
@@ -1257,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/7rBgqTNLshhW2m8nn7zZBM"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214464,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/1ykmpRMuKbowPqXUZQp7xu"
+    },
+    {
+      "album": {
         "name": "Daylight No More",
         "url": "https://open.spotify.com/album/2GN2U6OQHkyNhX4uDvgwE8"
       },
@@ -1290,6 +1380,24 @@
       "duration_ms": 184687,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
+    },
+    {
+      "album": {
+        "name": "Devil's Den",
+        "url": "https://open.spotify.com/album/17B9OD1DC4G3BvcQekbYg4"
+      },
+      "artists": [
+        {
+          "name": "Will Jones",
+          "url": "https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211453,
+      "name": "Devil's Den",
+      "url": "https://open.spotify.com/track/2EHWX1wmzxf0I4Ps51ggr4"
     },
     {
       "album": {
@@ -1465,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Trail Of Flowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218967,
+      "name": "Don\u2019t Let Your Deal Go Down",
+      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
+    },
+    {
+      "album": {
         "name": "Willie",
         "url": "https://open.spotify.com/album/031uUpP8ZfWdLtbjua6bpl"
       },
@@ -1585,6 +1711,32 @@
     },
     {
       "album": {
+        "name": "Early Shadow",
+        "url": "https://open.spotify.com/album/14lPn3Bs8Zm1MFz7TwbjRu"
+      },
+      "artists": [
+        {
+          "name": "Ridgeliners",
+          "url": "https://open.spotify.com/artist/4oMRt4Xf57vW1Tz3Lrmw0k"
+        },
+        {
+          "name": "Michael J Williams",
+          "url": "https://open.spotify.com/artist/0pTZhIRNpxO7lUKGYUfRd4"
+        },
+        {
+          "name": "Justin Bradford",
+          "url": "https://open.spotify.com/artist/7dTY85U7QdSwtUaKG4edhM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196863,
+      "name": "Early Shadow",
+      "url": "https://open.spotify.com/track/0UXfar7exmcgQ8mzDHQVxZ"
+    },
+    {
+      "album": {
         "name": "Election Day",
         "url": "https://open.spotify.com/album/0baYL8idAUg34z6PKiM2N3"
       },
@@ -1600,7 +1752,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 160760,
       "name": "Election Day",
       "url": "https://open.spotify.com/track/6LOaaloupjqOFXEZRENEPa"
@@ -1700,7 +1852,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188440,
       "name": "Faded Love",
       "url": "https://open.spotify.com/track/1GdTvb3c7Qbh9NjSzBDhJo"
@@ -2076,7 +2228,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 245813,
       "name": "Good at Gone",
       "url": "https://open.spotify.com/track/2mNkhG9NtZEu7g7OaUNRVY"
@@ -2783,6 +2935,24 @@
     },
     {
       "album": {
+        "name": "I'm on to You",
+        "url": "https://open.spotify.com/album/5QZBYoMmpEtSErJkeTzwkl"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "I'm on to You",
+      "url": "https://open.spotify.com/track/4J92SofLLfbZZ1y36nvAeC"
+    },
+    {
+      "album": {
         "name": "If A Song Could Change Your Mind",
         "url": "https://open.spotify.com/album/0tK9TufSi8hfLw66Pt3WPF"
       },
@@ -3262,7 +3432,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162508,
       "name": "Leave You Behind",
       "url": "https://open.spotify.com/track/5jTnTImVNfv6NDToLImHa6"
@@ -3569,6 +3739,28 @@
     },
     {
       "album": {
+        "name": "Looks Like The End Of The Road",
+        "url": "https://open.spotify.com/album/1EPAD4QiqoDhh5eWtWrwXV"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220393,
+      "name": "Looks Like The End Of The Road",
+      "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
+    },
+    {
+      "album": {
         "name": "Pickin' On The Doors",
         "url": "https://open.spotify.com/album/4CGYV0NXAcsomCK4swjBuX"
       },
@@ -3857,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/3giyknhZ1amxym7BQNVBux"
+      },
+      "artists": [
+        {
+          "name": "Jaywalkers",
+          "url": "https://open.spotify.com/artist/2jYb9fKcpvvs35wRr8lvlm"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277120,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/5KmP6dRaP4BW36oP2FOedl"
+    },
+    {
+      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/6H3Fq8UMXoqhfibrFLBKHL"
       },
@@ -3978,6 +4188,24 @@
       "duration_ms": 137337,
       "name": "Nothing But Sky",
       "url": "https://open.spotify.com/track/0Ng1cuSZVoFs83b0y0x8yr"
+    },
+    {
+      "album": {
+        "name": "Nowhere, Tennessee",
+        "url": "https://open.spotify.com/album/00ZHRxFrPeaP9KJ1681p6W"
+      },
+      "artists": [
+        {
+          "name": "Lost Patterns",
+          "url": "https://open.spotify.com/artist/2s9hIIcuLrlQIde5CS15TI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Nowhere, Tennessee",
+      "url": "https://open.spotify.com/track/36B7HVS4Wx1ncycG9TFg2l"
     },
     {
       "album": {
@@ -4196,7 +4424,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 175600,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/6orVPtGiIXo7qHV4B6BvOs"
@@ -4266,6 +4494,24 @@
       "duration_ms": 271973,
       "name": "Outrun The Rain",
       "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
+    },
+    {
+      "album": {
+        "name": "Paperback Dream",
+        "url": "https://open.spotify.com/album/7adDoWbboIEPjOza1iFtFe"
+      },
+      "artists": [
+        {
+          "name": "Simon Cropp",
+          "url": "https://open.spotify.com/artist/6EXjT6qi3Syos9JtJjJRDV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171374,
+      "name": "Paperback Dream",
+      "url": "https://open.spotify.com/track/67rcVPWAQ63JxoRyJlnsW9"
     },
     {
       "album": {
@@ -4360,6 +4606,32 @@
       "duration_ms": 272326,
       "name": "Please Mr Please",
       "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
+      },
+      "artists": [
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        },
+        {
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        },
+        {
+          "name": "Kylie Spence",
+          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187924,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
     },
     {
       "album": {
@@ -4732,7 +5004,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191999,
       "name": "Remember Who You Are",
       "url": "https://open.spotify.com/track/5LrXVXR65kGgynYf64jmgP"
@@ -4852,7 +5124,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 289445,
       "name": "Rocky Mountain High (with Trampled by Turtles)",
       "url": "https://open.spotify.com/track/1UEXIRnE5xqYZ5nU3yXuVu"
@@ -5004,7 +5276,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 224000,
       "name": "Second Best",
       "url": "https://open.spotify.com/track/5hnvuzRMuZUu88VgKXpOzz"
@@ -6608,7 +6880,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 234287,
       "name": "What's the Matter with the Mill",
       "url": "https://open.spotify.com/track/62IHyAVDKvjnqBHxvMchkM"
@@ -6698,7 +6970,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 261066,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/6DbmcqpGQDhGymCy2d1DVw"

@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: jasmine.4.t",
-  "num_followers": 32426,
+  "num_followers": 32421,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-01-14 00:00:29",
       "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
+    },
+    {
+      "added_at": "2025-01-14 00:00:29",
+      "album": {
         "name": "Ever New",
         "url": "https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 290001,
       "name": "Ever New - Single Version",
       "url": "https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY"
-    },
-    {
-      "added_at": "2025-01-14 00:00:29",
-      "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2025-01-14 00:00:29",
@@ -1663,8 +1663,8 @@
     {
       "added_at": "2025-01-14 00:00:29",
       "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
       },
       "artists": [
         {
@@ -1672,9 +1672,9 @@
           "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 65519,
-      "name": "Sex Metal",
-      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
+      "duration_ms": 193181,
+      "name": "Sad Girl Summer",
+      "url": "https://open.spotify.com/track/66xT802jNExU9nMii68YnZ"
     },
     {
       "added_at": "2025-01-14 00:00:29",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2025-01-14 00:00:29",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+        "name": "Love Second Music First",
+        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
         }
       ],
-      "duration_ms": 136362,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
+      "duration_ms": 245259,
+      "name": "Love Second Music First",
+      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

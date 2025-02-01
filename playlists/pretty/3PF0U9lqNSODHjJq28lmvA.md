@@ -4,24 +4,19 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,460 likes - 15 songs - 52 min 44 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,461 likes - 10 songs - 37 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Scream](https://open.spotify.com/track/24an7dJToKivN6oV5pCNpK) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Scream](https://open.spotify.com/album/7HuZ90o08kZHEDrsbTCtaP) | 3:23 |
-| 2 | [Hydro](https://open.spotify.com/track/0iVOkA7rFkww3NnxziX7Pd) | [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8), [back pockets](https://open.spotify.com/artist/1opF8wXbUWfibFd6JYrnLx) | [Hydro](https://open.spotify.com/album/5UzkXvPMDuDyYm63EwYjyZ) | 1:36 |
-| 3 | [My Shadowblade](https://open.spotify.com/track/06QyD3Yh2db8f2tsbTHocX) | [VOITH](https://open.spotify.com/artist/4c6Pk5LZuaThZIZ0rSwxmD) | [My Shadowblade](https://open.spotify.com/album/2L4mQCySKI9ZhcgIkx1dUL) | 2:48 |
-| 4 | [Storsamling](https://open.spotify.com/track/6QVM3PqP3ft9QQXRLYJuCm) | [Di Blå](https://open.spotify.com/artist/6CJhWUJBU10X51P1VoCbqS) | [STORSAMLING](https://open.spotify.com/album/2EdKRUz3QRVWZXVC6HFROP) | 2:27 |
-| 5 | [GRAVITY](https://open.spotify.com/track/1iDEX43QqJ5Y5T9Ah74t2c) | [Tee Ford](https://open.spotify.com/artist/3mSmHikXYIDRlork6rx1NI) | [GRAVITY](https://open.spotify.com/album/2uuDZYfUXYPaij7CMv9BTf) | 3:32 |
-| 6 | [The Greatest Movie Of All Time](https://open.spotify.com/track/55p8AkSsaViiVgpAPQMrU3) | [Annie](https://open.spotify.com/artist/6CmLjbX98aI1zSKyTvNcRc) | [The Greatest Movie Of All Time](https://open.spotify.com/album/1XdMc9Sz325nMK5G0mkhe4) | 4:52 |
-| 7 | [Prickbaiter](https://open.spotify.com/track/5K3frFyC28pl3LKl2iegJ4) | [Wasted Wiltons](https://open.spotify.com/artist/6epj0nmAW85XlHvm71X6iM) | [Brand New Insoles](https://open.spotify.com/album/2qA8eBy7MwSH8agk5zemiU) | 2:03 |
-| 8 | [Gult lys](https://open.spotify.com/track/6149xwXCGwksiQW16D4eRT) | [Tungtrødd](https://open.spotify.com/artist/3nBz3Kaj6ucr1Vk9pMBLTG) | [Gult lys](https://open.spotify.com/album/2eYdW21wKEvG13miA5WuP8) | 4:49 |
-| 9 | [I Always Knew](https://open.spotify.com/track/5ydfZ3vDtpqfZOvzQC9vU7) | [Molly James](https://open.spotify.com/artist/4ZUE8ck5BsovhUXPD3ODSK) | [I Always Knew](https://open.spotify.com/album/1Lq8oiQrrCXaD6IxUAiRB1) | 3:51 |
-| 10 | [VIVO](https://open.spotify.com/track/6LZp9uiUS6v5eKDCmoS0Zr) | [Pamela](https://open.spotify.com/artist/6h4hggCVRYtwxt811tOvHz) | [VIVO](https://open.spotify.com/album/2dMIwagFhBNa46KkT4bBXF) | 3:42 |
-| 11 | [Hardship to Meaning](https://open.spotify.com/track/0Kd0Flg8fVNdEHC4VKQ8nU) | [LESTOPIAT](https://open.spotify.com/artist/56QVVacydHoFM9XekY8TeY) | [Hardship to Meaning](https://open.spotify.com/album/0b8JZceKSsKIH3xqrsrz2o) | 6:07 |
-| 12 | [Call Me Highway](https://open.spotify.com/track/5wqk7Go8vW2cHxTEMABei6) | [One Trick Pony](https://open.spotify.com/artist/3h9e6iOuobD3B9dkfgzH1z) | [Speed of Life](https://open.spotify.com/album/5w9KKvGBnIjQeKSzvZbW2U) | 3:04 |
-| 13 | [LIKE LIGHT](https://open.spotify.com/track/7bg0lafMRl0eTz6eajzVK6) | [LAWRENCE LEWIS](https://open.spotify.com/artist/4XN9uu84gkwAU205TYjsWm) | [LIKE LIGHT](https://open.spotify.com/album/6ajYwVo4GHXLWeDexGg4wi) | 2:49 |
-| 14 | [Confessions To The Sea \(CTTS\)](https://open.spotify.com/track/4Ji5ip8Z3Ftwmr56pixUI0) | [ProjectedMusic](https://open.spotify.com/artist/08bomUbuQXoKSVQgno5DRu) | [Confessions To The Sea \(CTTS\)](https://open.spotify.com/album/4OantaafW6hXNIxUWecOQP) | 4:30 |
-| 15 | [Kom och lalla](https://open.spotify.com/track/2yCaxY1SZllmpuclTAvfoG) | [Krisgruppen](https://open.spotify.com/artist/7nobroRHlBTReJR4TcTxfI) | [Kom och lalla](https://open.spotify.com/album/2o0PFt4smg0uwLwkZMbx4z) | 3:05 |
+| 1 | [ALOHA HAWAII](https://open.spotify.com/track/0smBlg56vgwAM3NF8EndJ4) | [Subway Surfers](https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ) | [ALOHA HAWAII](https://open.spotify.com/album/2H9FRSHBDxeJh8yGe7Uey4) | 2:18 |
+| 2 | [En andra sista chans](https://open.spotify.com/track/5qpIM4nlfJA40knfPhu3ou) | [Anders Barsk](https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO) | [En andra sista chans](https://open.spotify.com/album/2AtRQgMrBvLih6xrEGirB0) | 3:24 |
+| 3 | [Sometimes always](https://open.spotify.com/track/3ugA3NsCvyuP7ewHDgFOGu) | [Overhead Compartments](https://open.spotify.com/artist/1l1Ybjg552x1F7EcgmEzYH) | [Sometimes always](https://open.spotify.com/album/5RbKgiRbllmub5oh48WA7R) | 2:46 |
+| 4 | [Selfish Heart](https://open.spotify.com/track/30sowAkTk06nb2rk5Ywioc) | [Yara Liz](https://open.spotify.com/artist/2bK30CUQYUBhG7HbOYVPoO) | [Cýra](https://open.spotify.com/album/6q3euzIBwKajowyadeg5P5) | 3:38 |
+| 5 | [Jelly's Chicken Fried Chicken Dance](https://open.spotify.com/track/7GFIlcV2RTfj1ceKmA3VZS) | [Jelly and Friends](https://open.spotify.com/artist/0BpQTnNiRjqYgZIcWtq6x1) | [Jelly's Sing\-Along, Vol\. 2](https://open.spotify.com/album/0mwLJStTYmyKaPq7vMoQbg) | 3:05 |
+| 6 | [Birds](https://open.spotify.com/track/3Xkcq0HeNxiTBC6jx5F9js) | [Kimpatrik](https://open.spotify.com/artist/610rpF7Ul6xZ5jXlBl4PM5) | [Birds](https://open.spotify.com/album/2KtbHxbkodZugpQJfOjdfl) | 4:13 |
+| 7 | [Tattoos](https://open.spotify.com/track/67iEaKTb96xJiZuCPqRDuI) | [Isabella Delgado](https://open.spotify.com/artist/5zRi6BSdHxKKEdS2sI0dsF) | [Tattoos](https://open.spotify.com/album/5ejCbOJSdw27nRFvgg7Pb4) | 5:28 |
+| 8 | [I am alone again](https://open.spotify.com/track/1QXmCsed9NThwEo4LfO4ap) | [VaterSon](https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl) | [I am alone again](https://open.spotify.com/album/41gZMc73PNDxdohhyP2uNn) | 2:59 |
+| 9 | [We're All Friends \- OFFICIAL RLP TAG 2025 SONG](https://open.spotify.com/track/7jytzRRUPLeDP0FrBEDIau) | [LuK](https://open.spotify.com/artist/0VXYph9Pw0atj5otoeNgyX), [die tanzmanufaktur](https://open.spotify.com/artist/0954fvorbWCgIhFtkq6nVS) | [We're All Friends \- OFFICIAL RLP TAG 2025 SONG](https://open.spotify.com/album/5FFV4XvRiXn8SEnMivY4mN) | 2:47 |
+| 10 | [Goodbye Ziggy Stardust](https://open.spotify.com/track/0hdekznWjIcj7TvSF7umoI) | [Trevor Tanner](https://open.spotify.com/artist/6qYPZN3ZMEwFlPwHUEiYKI) | [Goodbye Ziggy Stardust](https://open.spotify.com/album/5WWz7EROxRPqfIq5QKXoDJ) | 6:58 |
 
-Snapshot ID: `AAAEBNRnhZIaO7aTt+ttjKETcOm10SfA`
+Snapshot ID: `AAAEBszNAaOOPFIGcldhFWq8VFAmyXfC`

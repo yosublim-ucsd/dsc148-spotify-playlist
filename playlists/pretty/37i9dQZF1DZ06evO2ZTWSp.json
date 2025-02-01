@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 485579,
+  "num_followers": 485553,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAD7JmFs7SXf3tpm8rEqoQDm",
+  "snapshot_id": "Z5rBAAAAAAC81oOu2PjhIugE/q29U6Rj",
   "tracks": [
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Eyes",
-        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 226442,
-      "name": "New Eyes (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lizzobangers",
         "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
       },
@@ -847,26 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Panther",
-        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "James Galway",
-          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 159715,
-      "name": "Pink Panther",
-      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
+      "duration_ms": 226442,
+      "name": "New Eyes (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE"
     },
     {
       "added_at": null,
@@ -915,6 +891,30 @@
       "duration_ms": 528480,
       "name": "Sleepdrone/Superposition",
       "url": "https://open.spotify.com/track/3F2KI6FI5w8WadLKkJvyLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Panther",
+        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 159715,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
     },
     {
       "added_at": null,

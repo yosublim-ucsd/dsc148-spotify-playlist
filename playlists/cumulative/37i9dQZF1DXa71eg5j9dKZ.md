@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Maribou State
 
-1,129 songs - 3 day 5 hr 47 min
+1,130 songs - 3 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-09-22 | 2023-02-24 |
 | [Running \(feat\. Meg Myers\)](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 | 2022-06-21 | 2022-07-20 |
 | [Running Away](https://open.spotify.com/track/3lBY1yKEFSa8eKd1F7nirp) | [Decades](https://open.spotify.com/artist/2jNb4TNoYjSHsK5ONo6miz), [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Get So High EP](https://open.spotify.com/album/2A93YSkgFA7OG2fy11yPQX) | 4:11 | 2023-11-24 | 2024-04-26 |
+| [Running Free](https://open.spotify.com/track/12E2DSw5y2UaZf0UMMx23H) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Running Free](https://open.spotify.com/album/0278vtlMV77zoiD3Qu2oJA) | 2:53 | 2025-01-31 |  |
 | [Rush](https://open.spotify.com/track/2RVbDkUFdnZcQuqHWOgZe1) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Rush / Can't Stop Thinking About](https://open.spotify.com/album/2A7lN5fuMXlLQXlgAzuXDN) | 4:06 | 2022-03-25 | 2022-07-15 |
 | [Rush](https://open.spotify.com/track/011Om46G8GRULOn9PRTZ8R) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Rush](https://open.spotify.com/album/03BmU63x6DXBviWnDd4mIV) | 2:52 | 2023-04-13 | 2023-09-01 |
 | [Sadhana](https://open.spotify.com/track/6ilWOSGCIpyRCnVUZsSbEB) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Bollywood Super Hits!](https://open.spotify.com/album/4E8Z8tAqCxz884FxZX8xsY) | 2:53 | 2022-10-06 | 2023-03-25 |
@@ -985,7 +986,7 @@
 | [The Limit](https://open.spotify.com/track/3CmbjLaGKMiyJ6ngsUYN0U) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [tibasko](https://open.spotify.com/album/0yCheJPOQFpPmh6r1JQt2V) | 2:53 | 2022-10-06 | 2022-10-08 |
 | [The Limit](https://open.spotify.com/track/5z6dgJF0CHLk06CJpjxCXb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [tibasko](https://open.spotify.com/album/3PlPv5OzpGsqBpjtFB38U9) | 2:53 | 2022-10-06 | 2022-11-25 |
 | [The Mirror](https://open.spotify.com/track/6KhlNGAr1p74iQ479tw8GT) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO), [Busola](https://open.spotify.com/artist/5bDmlUToUUS4DOghb1nbLg) | [The Mirror](https://open.spotify.com/album/0FTdICLYqebCWdWdAY596a) | 4:09 | 2021-11-24\* | 2022-03-05 |
-| [The Moment](https://open.spotify.com/track/6bHW86YhNTcHuZyum3pzvA) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [The Moment](https://open.spotify.com/album/706hpyftFGBJO4EONLTjrI) | 3:30 | 2024-08-01 |  |
+| [The Moment](https://open.spotify.com/track/6bHW86YhNTcHuZyum3pzvA) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [The Moment](https://open.spotify.com/album/706hpyftFGBJO4EONLTjrI) | 3:30 | 2024-08-01 | 2025-02-01 |
 | [The Morning](https://open.spotify.com/track/3hdx3S5t7iJeqiJ2bzghgl) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [The Morning](https://open.spotify.com/album/1HUJyd3XTDjyZqkLzbqCzI) | 3:09 | 2025-01-24 |  |
 | [The need to avoid](https://open.spotify.com/track/25PIpJMhgUa85Yaz7nvUxV) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Projections](https://open.spotify.com/album/1jLpg42UwBnazMOIgAZtRQ) | 3:08 | 2022-01-28 | 2022-05-06 |
 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 | 2023-04-13 | 2023-11-17 |

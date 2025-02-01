@@ -4409,6 +4409,32 @@
     },
     {
       "album": {
+        "name": "F*DASE O CLT",
+        "url": "https://open.spotify.com/album/4fxe7ZZWxLdselrTehlxnT"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132745,
+      "name": "F*DASE O CLT",
+      "url": "https://open.spotify.com/track/0DZiHCj9HVLWsoNaCRHR7W"
+    },
+    {
+      "album": {
         "name": "Falar de Amor",
         "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
       },
@@ -8014,7 +8040,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 172800,
       "name": "Notas no Plastico",
       "url": "https://open.spotify.com/track/4VSddCixqajam5BOKiH0rC"

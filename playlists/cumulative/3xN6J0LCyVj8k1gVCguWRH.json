@@ -8537,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "Black and Gold",
+        "url": "https://open.spotify.com/album/0g7L15vfD4Se8j467EFykU"
+      },
+      "artists": [
+        {
+          "name": "Fatimah Provillon",
+          "url": "https://open.spotify.com/artist/7xLl7CSuCmdhv3HiQbyL4O"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Black and Gold",
+      "url": "https://open.spotify.com/track/2zC9IoVn7tpmfDR6LSbApD"
+    },
+    {
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/2mVqKnDQcTbYZy7SKMAh84"
       },
@@ -30215,6 +30233,24 @@
     },
     {
       "album": {
+        "name": "Greenish Yellow",
+        "url": "https://open.spotify.com/album/74tvNoiKo4npSAeLsIoCIE"
+      },
+      "artists": [
+        {
+          "name": "Avry",
+          "url": "https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203388,
+      "name": "Greenish Yellow",
+      "url": "https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn"
+    },
+    {
+      "album": {
         "name": "MOON ALT",
         "url": "https://open.spotify.com/album/2R9hIgLyeDEDvoszQyL7fF"
       },
@@ -32662,6 +32698,28 @@
       "duration_ms": 248265,
       "name": "Holy",
       "url": "https://open.spotify.com/track/0OAsTVd2oJ4oIYNKqbEyP4"
+    },
+    {
+      "album": {
+        "name": "Holy Night (Red Trim)",
+        "url": "https://open.spotify.com/album/28n0yWyakbiukUPo5sp3Wt"
+      },
+      "artists": [
+        {
+          "name": "O.G. Soul",
+          "url": "https://open.spotify.com/artist/3LQ4N3GOSoflK0FeWJQglo"
+        },
+        {
+          "name": "B. Griff",
+          "url": "https://open.spotify.com/artist/6FuZtXZTTz5MNP2jixSl3c"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "Holy Night (Red Trim)",
+      "url": "https://open.spotify.com/track/5ZWRijZgLzMIwwUfCiGecI"
     },
     {
       "album": {
@@ -39754,7 +39812,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 186796,
       "name": "Know Myself",
       "url": "https://open.spotify.com/track/18gVkdWpteFqE3l1bVb5QF"
@@ -48824,6 +48882,24 @@
       "duration_ms": 173179,
       "name": "More Than Lovers",
       "url": "https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW"
+    },
+    {
+      "album": {
+        "name": "More Than Need U",
+        "url": "https://open.spotify.com/album/2h3MGbK8xtLuSI75e7bfHN"
+      },
+      "artists": [
+        {
+          "name": "BABO BABY",
+          "url": "https://open.spotify.com/artist/2WfFqtgm0c6mrP1hy1V4F2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186660,
+      "name": "More Than Need U",
+      "url": "https://open.spotify.com/track/0z0uDE2PV0DqdZE13lHSdE"
     },
     {
       "album": {
@@ -59640,6 +59716,24 @@
       "duration_ms": 184504,
       "name": "Realize",
       "url": "https://open.spotify.com/track/1rfe5uamj76ZWrJLwpNdtk"
+    },
+    {
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/2Csof50ShAyBXSsZNacvcL"
+      },
+      "artists": [
+        {
+          "name": "Luke Lasso",
+          "url": "https://open.spotify.com/artist/1qNLvjiHNgbUh4QzuC4wZh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/0UdpxBj2JbkVtyK37eKVQY"
     },
     {
       "album": {

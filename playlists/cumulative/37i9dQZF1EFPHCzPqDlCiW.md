@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-156 songs - 8 hr 21 min
+157 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [High Road](https://open.spotify.com/track/10G9kHt4j2G1tsFgc07NCr) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [High Road](https://open.spotify.com/album/7wpI9zhq75r91vvUuBg367) | 2:35 | 2024-01-29 |  |
 | [Hold On Me](https://open.spotify.com/track/5yZ6i6xF7r86aa06RiT9vA) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Glorious](https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0) | 3:32 | 2024-01-29 |  |
 | [Hollow](https://open.spotify.com/track/1wzkXmEypIDfp1tMJfrsII) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Confessions of a Lonely Heart](https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7) | 3:17 | 2024-01-29 |  |
+| [Home](https://open.spotify.com/track/4dAndgikVkcl6dPZN55sa1) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Home](https://open.spotify.com/album/5UAcuDqW3W4Pmhp31wNKHr) | 2:37 | 2025-01-31 |  |
 | [How Does It Feel](https://open.spotify.com/track/5Ol2D00LPrwnDT23RzQGPH) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:23 | 2024-01-29 |  |
 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 | 2024-10-10 |  |
 | [Humans](https://open.spotify.com/track/7KmEHD4bLjod8nhGFYYU2X) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Humans](https://open.spotify.com/album/5OPflo8FBOC3I0PySfpfef) | 3:33 | 2024-02-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 221865,
+  "num_followers": 221931,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Bakanation",
-        "url": "https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 210755,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Practice",
         "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 185660,
       "name": "Practice",
       "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Bakanation",
+        "url": "https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 210755,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -711,22 +711,18 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Tack Back",
-        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
       "artists": [
         {
           "name": "Kes",
           "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
         }
       ],
-      "duration_ms": 198671,
-      "name": "Tack Back",
-      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -847,18 +843,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+        "name": "Tack Back",
+        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
       },
       "artists": [
         {
           "name": "Kes",
           "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
         }
       ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+      "duration_ms": 198671,
+      "name": "Tack Back",
+      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/5dH41iXlDYAXvBZU9rLnC7"
-      },
-      "artists": [
-        {
-          "name": "Fiyah Marshall",
-          "url": "https://open.spotify.com/artist/75oTVwwcdndH5KNXjj0xaj"
-        },
-        {
-          "name": "Orlando Octave",
-          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
-        }
-      ],
-      "duration_ms": 198554,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/1jIs52DNw8jD0BZ07v5JB0"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "YAGO",
         "url": "https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa"
       },
@@ -1079,6 +1059,26 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5dH41iXlDYAXvBZU9rLnC7"
+      },
+      "artists": [
+        {
+          "name": "Fiyah Marshall",
+          "url": "https://open.spotify.com/artist/75oTVwwcdndH5KNXjj0xaj"
+        },
+        {
+          "name": "Orlando Octave",
+          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
+        }
+      ],
+      "duration_ms": 198554,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/1jIs52DNw8jD0BZ07v5JB0"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
+      },
+      "artists": [
+        {
+          "name": "Olatunji",
+          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+        }
+      ],
+      "duration_ms": 211874,
+      "name": "Oh Yay",
+      "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Mas",
         "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 225251,
       "name": "Long Live Soca",
       "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
-      },
-      "artists": [
-        {
-          "name": "Olatunji",
-          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
-        }
-      ],
-      "duration_ms": 211874,
-      "name": "Oh Yay",
-      "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 335652,
-      "name": "Workey Workey",
-      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Kool Under Fire",
         "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 263693,
       "name": "Sak Pas\u00e9",
       "url": "https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 335652,
+      "name": "Workey Workey",
+      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+        "name": "King Bubba Mashup, Vol. 1",
+        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
       "artists": [
         {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+          "name": "King Bubba Fm",
+          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
         }
       ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+      "duration_ms": 188372,
+      "name": "Who Drinking Rum?",
+      "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "King Bubba Mashup, Vol. 1",
-        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
       },
       "artists": [
         {
-          "name": "King Bubba Fm",
-          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
         }
       ],
-      "duration_ms": 188372,
-      "name": "Who Drinking Rum?",
-      "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
     }
   ],
   "unique_name": "Massive Soca Hits",

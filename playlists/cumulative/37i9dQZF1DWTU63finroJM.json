@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 182000,
       "name": "A LITTLE LIFE",
       "url": "https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV"
@@ -1450,6 +1450,24 @@
       "duration_ms": 203520,
       "name": "Alleine",
       "url": "https://open.spotify.com/track/1ZZOVNsDP6b2plck5AL3tn"
+    },
+    {
+      "album": {
+        "name": "ALLO?C MOI",
+        "url": "https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134746,
+      "name": "ALLO?C MOI",
+      "url": "https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2"
     },
     {
       "album": {
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 183750,
       "name": "Bossy",
       "url": "https://open.spotify.com/track/0Xa178cLLO8OMGoZWGje8P"
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 201905,
       "name": "Contre-c\u0153ur",
       "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
@@ -15489,6 +15507,24 @@
     },
     {
       "album": {
+        "name": "L'id\u00e9e de toi",
+        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122117,
+      "name": "L'id\u00e9e de toi",
+      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
+    },
+    {
+      "album": {
         "name": "L4DY",
         "url": "https://open.spotify.com/album/45h4CMmgfsSyBoXWWLZoap"
       },
@@ -16806,7 +16842,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 186998,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/6soowAK2q88ThzrteFWCvs"
@@ -19029,6 +19065,28 @@
     },
     {
       "album": {
+        "name": "New World Order",
+        "url": "https://open.spotify.com/album/5BfCoFrNlaVgA2X2hzAliD"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        },
+        {
+          "name": "Sherifflazone",
+          "url": "https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130347,
+      "name": "M\u00e9nage \u00c0 Trois",
+      "url": "https://open.spotify.com/track/2ZJbAQc3f1VkNsMrkB7ckF"
+    },
+    {
+      "album": {
         "name": "M\u00edralo",
         "url": "https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl"
       },
@@ -19710,7 +19768,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 146999,
       "name": "niemand",
       "url": "https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh"
@@ -22607,6 +22665,24 @@
     },
     {
       "album": {
+        "name": "Princesse chaos",
+        "url": "https://open.spotify.com/album/5kL7S9rRSDnTMl8UJA8PvK"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205411,
+      "name": "Princesse chaos",
+      "url": "https://open.spotify.com/track/5uwKGwzgA0yZRLFb4sW4iJ"
+    },
+    {
+      "album": {
         "name": "WE'LL DIE THIS WAY",
         "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
       },
@@ -22636,7 +22712,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 158167,
       "name": "PROCESS",
       "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
@@ -26152,7 +26228,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 194928,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
@@ -26962,6 +27038,24 @@
       "duration_ms": 282000,
       "name": "Tapu Te Po",
       "url": "https://open.spotify.com/track/1327O2x1SfFA5wMTag96ou"
+    },
+    {
+      "album": {
+        "name": "tau mich auf",
+        "url": "https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110902,
+      "name": "tau mich auf",
+      "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
     },
     {
       "album": {

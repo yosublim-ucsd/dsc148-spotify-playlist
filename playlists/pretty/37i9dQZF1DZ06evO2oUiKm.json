@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 7521,
+  "num_followers": 7536,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAB2XqNeRr5ZsU7pRSLSaNqY",
+  "snapshot_id": "Z5rBAAAAAACF/RAVCTtRV4I2AAQO3W1U",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+        "name": "Singing You Home - Children's Songs for Family Reunification",
+        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+      "duration_ms": 157966,
+      "name": "Si Pudiera Leer Tus Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing You Home - Children's Songs for Family Reunification",
-        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 157966,
-      "name": "Si Pudiera Leer Tus Sue\u00f1os",
-      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STEP (Music From and Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 359706,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 278309,
       "name": "Our Prayer",
       "url": "https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STEP (Music From and Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 359706,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA"
     },
     {
       "added_at": null,
@@ -699,6 +699,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        },
+        {
+          "name": "Danielle Brooks",
+          "url": "https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE"
+        }
+      ],
+      "duration_ms": 161557,
+      "name": "Miss Celie's Pants",
+      "url": "https://open.spotify.com/track/79ybmPyIMIH5WQ2npAiurG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
         "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
       },
@@ -711,26 +735,6 @@
       "duration_ms": 187128,
       "name": "I've Already Won",
       "url": "https://open.spotify.com/track/6CiLixdgvog7l1tY18vEaz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Johnson",
-          "url": "https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 162468,
-      "name": "Big Dog",
-      "url": "https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI"
     },
     {
       "added_at": null,
@@ -775,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 296655,
-      "name": "At All",
-      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
         "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
       },
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
+      "duration_ms": 296655,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
     },
     {
       "added_at": null,
@@ -872,17 +856,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Oliver Tompsett",
-          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
-        },
-        {
           "name": "Scott Alan",
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 463020,
-      "name": "Always / Goodnight",
-      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
+      "duration_ms": 238937,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
     },
     {
       "added_at": null,
@@ -951,6 +931,30 @@
       "duration_ms": 306450,
       "name": "The Temple",
       "url": "https://open.spotify.com/track/2KOH8NABdzZMGcfL4S9Hzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Oliver Tompsett",
+          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 463020,
+      "name": "Always / Goodnight",
+      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
     },
     {
       "added_at": null,

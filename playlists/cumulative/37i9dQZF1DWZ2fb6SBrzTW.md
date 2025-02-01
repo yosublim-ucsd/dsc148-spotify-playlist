@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-485 songs - 1 day 0 hr 43 min
+486 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [High](https://open.spotify.com/track/0FvTXHU6xNn1jkjpJ6Mvm1) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [High](https://open.spotify.com/album/7iIWG1sDD904p7EcjKCdpO) | 2:48 | 2022-10-07 | 2022-12-03 |
 | [Hiii!](https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Hiii!](https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q) | 2:30 | 2024-06-14 | 2024-09-28 |
 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2024-04-19 |  |
-| [Holiday](https://open.spotify.com/track/73Aq5VsaJ5qCv8QmdF47HJ) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Holiday](https://open.spotify.com/album/4ZBybPxYLlc3XcfV2bDrM0) | 3:38 | 2024-12-16 |  |
+| [Holiday](https://open.spotify.com/track/73Aq5VsaJ5qCv8QmdF47HJ) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Holiday](https://open.spotify.com/album/4ZBybPxYLlc3XcfV2bDrM0) | 3:38 | 2024-12-16 | 2025-02-01 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-05-01 |
 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-05-04 | 2024-04-19 |
 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 | 2024-04-19 | 2024-12-07 |
@@ -293,6 +293,7 @@
 | [Majo](https://open.spotify.com/track/3b3bC9PL21scD8cyqEgHuK) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Majo](https://open.spotify.com/album/62I8Iq14u5T618srVJm3pd) | 3:29 | 2023-06-30 | 2023-07-12 |
 | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 | 2024-02-09 | 2024-06-28 |
 | [Man Of The Year](https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Man Of The Year](https://open.spotify.com/album/0wx7vhMKi20ejhghIHYkHA) | 2:15 | 2022-03-11 | 2022-08-09 |
+| [Management](https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [BIGKHALID](https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB) | [Management](https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq) | 2:35 | 2025-01-31 |  |
 | [Manzi Nte \(feat\. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo\)](https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P), [Silas Africa](https://open.spotify.com/artist/6a4F8FONY3tD2Jidnm4bIG), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Manzi Nte \(feat\. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo\)](https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg) | 7:23 | 2024-05-31 |  |
 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 | 2024-09-27 |  |
 | [Meliza \- Remix](https://open.spotify.com/track/59V2RCdZkPhiHTjxhiojjx) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Meliza \(Remix\)](https://open.spotify.com/album/10XuUdyqYKBGeum6omV8J5) | 3:15 | 2022-05-12 | 2022-08-22 |

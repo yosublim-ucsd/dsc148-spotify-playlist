@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Sunidhi Chauhan
 
-430 songs - 1 day 1 hr 8 min
+431 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Khaamakha](https://open.spotify.com/track/0GPCJqtDyJPVpdVLgp9lfx) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 4:32 | 2024-11-21 |  |
 | [Khata](https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Khata](https://open.spotify.com/album/40p7Y3kJSC4J5r9ZBeYyHe) | 4:10 | 2024-07-26 | 2024-10-05 |
 | [Khayaal](https://open.spotify.com/track/1hlpcQkgSpvHTrdVIz79Ow) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Khayaal](https://open.spotify.com/album/4Ox9ZXam3tPU1uOQrRZKsu) | 3:55 | 2024-02-09 | 2024-05-11 |
-| [Khel](https://open.spotify.com/track/7kxs1qFWTD0wfhFgkfAgC7) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Khel](https://open.spotify.com/album/3vrefq8zmkNCrNJvIfAVIY) | 2:40 | 2024-11-27 |  |
+| [Khel](https://open.spotify.com/track/7kxs1qFWTD0wfhFgkfAgC7) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Khel](https://open.spotify.com/album/3vrefq8zmkNCrNJvIfAVIY) | 2:40 | 2024-11-27 | 2025-02-01 |
 | [Khol Pinjra](https://open.spotify.com/track/7DDICwvqE3u7VBQSWDc4yM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arkadeep Karmakar](https://open.spotify.com/artist/3KLIBp2yncKK6B8w9H44uo), [Ritajaya Banerjee](https://open.spotify.com/artist/56WXTuyUxC708UuZaiX4eP) | [Savi](https://open.spotify.com/album/1y88LjCqrGBeuSEoExLUAX) | 3:08 | 2024-05-28 | 2024-06-18 |
 | [Khoon](https://open.spotify.com/track/6N1nsAE2LfoXET9JG5CU3C) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Khoon](https://open.spotify.com/album/6yHQo67wEqmBn30Rs2i8vy) | 4:18 | 2025-01-24 |  |
 | [Khushiyon Ki Khidkiyaan](https://open.spotify.com/track/79g912tBMwgvwQznCDwfNu) | [Nikitha Venkatesh](https://open.spotify.com/artist/6XkwgUoGqTzwLhVYmZmqeG), [Nimish Shah](https://open.spotify.com/artist/7DxsSjeJmwDkghseVrFfkK) | [Khushiyon Ki Khidkiyaan](https://open.spotify.com/album/3YRZqciPqWlJ2lnpUoOWiZ) | 3:21 | 2024-09-29 | 2024-11-19 |
@@ -212,6 +212,7 @@
 | [Lagan Lagi](https://open.spotify.com/track/4cDQsIPjnQAHhUjLCN7rrr) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Lagan Lagi](https://open.spotify.com/album/2S0LmcQ8W7moq1KKFcDVgB) | 2:52 | 2023-11-29 | 2024-01-13 |
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2021-12-10 | 2022-01-05 |
 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-02-13 | 2025-01-09 |
+| [Le Aayi](https://open.spotify.com/track/4MM1WM13IhM0wBoKw7v3tv) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Le Aayi](https://open.spotify.com/album/5DuFyiWVmWqLDAvcavvqJp) | 3:06 | 2025-01-31 |  |
 | [Learn To Love](https://open.spotify.com/track/1WjCn7G3DFoUoef9KOUA7L) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Learn To Love](https://open.spotify.com/album/0KcRvG80OuG5emQMmV45kT) | 2:59 | 2024-09-03 | 2024-11-23 |
 | [Lehere Hai \(From "Saatho Saagar – Side B \- Hindi"\)](https://open.spotify.com/track/5EKK6TEGld16Bq4j6Xxuoh) | [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k), [Shiny Das](https://open.spotify.com/artist/5VcrbyCZvtzeIRzJwTQz62), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Lehere Hai \(From "Saatho Saagar – Side B \- Hindi"\)](https://open.spotify.com/album/2FMXCxTyUu580iquf7Uh4K) | 5:23 | 2024-08-18 | 2024-08-31 |
 | [Let's Talk](https://open.spotify.com/track/0SF1PYDHRXxN8oCuYHraps) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Let's Talk](https://open.spotify.com/album/52pzhhnKRFK4ZaeKw84TRa) | 2:19 | 2023-07-14 | 2023-07-26 |

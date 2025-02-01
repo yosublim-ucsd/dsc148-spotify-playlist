@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-662 songs - 1 day 9 hr 35 min
+664 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Bloodpressure](https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB) | [Rogers & Dean](https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Bloodpressure](https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM) | 3:28 | 2022-10-14 | 2023-04-28 |
 | [blu](https://open.spotify.com/track/0UmTv1JVIm9vNhadCw4NrR) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [blu](https://open.spotify.com/album/4yczkllNRAfDQKofIveoZD) | 1:15 | 2024-09-24 |  |
 | [Bonfire](https://open.spotify.com/track/3yjKGtGhLesxTVJ9HaRa1i) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Bonfire](https://open.spotify.com/album/1ZRJhmMnwd7PZh3WJ0xOrl) | 2:27 | 2022-12-22 | 2023-04-28 |
+| [Boogie](https://open.spotify.com/track/2LEHRl9KCMP7nzpV2abQ86) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV), [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [Boogie](https://open.spotify.com/album/4iWVGaJbKCoeEMvp0pOsBF) | 2:02 | 2025-01-31 |  |
 | [Bot Fight](https://open.spotify.com/track/29g0FD7lk8B3Qj2VXKihLt) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Bot Fight](https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg) | 4:35 | 2022-08-05 | 2023-04-28 |
 | [BOUNCE!](https://open.spotify.com/track/0tDQdGzAuoz7H21SYlAyCj) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [BOUNCE!](https://open.spotify.com/album/2W9hlXiWGgzaeZ3N6LavPE) | 2:30 | 2022-06-17 | 2023-04-28 |
 | [Break My Heart](https://open.spotify.com/track/7f4Gk0qPZ3kOYLE1Nngilx) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [Break My Heart](https://open.spotify.com/album/7i5fZ6T70XUTzkd8xiR3p8) | 3:03 | 2024-10-18 |  |
@@ -226,6 +227,7 @@
 | [feel someth!ng](https://open.spotify.com/track/4xj9oZ67frEPQrlf8rlR89) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [false / youth](https://open.spotify.com/album/5aaY5bclpHazZWkLinHh9S) | 3:31 | 2022-12-06 | 2023-04-28 |
 | [Feelings](https://open.spotify.com/track/7wUW5qYK19RlL6ljqDbc5x) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G) | [Feelings](https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5) | 2:54 | 2023-08-08 | 2023-12-14 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-04-28 |
+| [Feelings Fade](https://open.spotify.com/track/0waYUrVgNfMbrIpImHgKg9) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Wwings](https://open.spotify.com/artist/3tqTQFEyGKpdsDZjlxjyqS) | [Feelings Fade](https://open.spotify.com/album/3Rmh9O67BIF8Y86djdKFSa) | 3:02 | 2025-01-31 |  |
 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 | 2024-03-15 | 2024-09-29 |
 | [Fighting Inside](https://open.spotify.com/track/5CMckaGgXeAK21PO1GbXFs) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Fighting Inside](https://open.spotify.com/album/1btvMyRjDakN00uJOOZU1V) | 2:32 | 2023-12-13 | 2024-03-22 |
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-10 |

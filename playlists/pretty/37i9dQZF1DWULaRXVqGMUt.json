@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 56708,
+  "num_followers": 56739,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Piano-Blues & Boogie-Woogie",
+        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
+      },
+      "artists": [
+        {
+          "name": "Christian Bleiming",
+          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
+        }
+      ],
+      "duration_ms": 217260,
+      "name": "C-Jam Boogie",
+      "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -439,6 +455,22 @@
       "duration_ms": 162600,
       "name": "Boogie Woogie Man",
       "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "New Way",
+        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
+      },
+      "artists": [
+        {
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Laci's Boogie",
+      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -475,54 +507,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "New Way",
-        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
-      },
-      "artists": [
-        {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
-        }
-      ],
-      "duration_ms": 332400,
-      "name": "Laci's Boogie",
-      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Piano-Blues & Boogie-Woogie",
-        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
-      },
-      "artists": [
-        {
-          "name": "Christian Bleiming",
-          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
-        }
-      ],
-      "duration_ms": 217260,
-      "name": "C-Jam Boogie",
-      "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Yancey Special",
-        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Yancey",
-          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
-        }
-      ],
-      "duration_ms": 172460,
-      "name": "Yancey Stomp",
-      "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "The Lost Paramount Tapes",
         "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
       },
@@ -555,22 +539,34 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Stomp",
-        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
+        "name": "Yancey Special",
+        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
       },
       "artists": [
         {
-          "name": "Bob Seeley",
-          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
-        },
-        {
-          "name": "Bob Baldori",
-          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
         }
       ],
-      "duration_ms": 287190,
-      "name": "Boogie Stomp",
-      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
+      "duration_ms": 172460,
+      "name": "Yancey Stomp",
+      "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Rum and Coke",
+        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "501 Boogie",
+      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Rum and Coke",
-        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
+        "name": "Boogie Stomp",
+        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Bob Seeley",
+          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
+        },
+        {
+          "name": "Bob Baldori",
+          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
         }
       ],
-      "duration_ms": 208067,
-      "name": "501 Boogie",
-      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
+      "duration_ms": 287190,
+      "name": "Boogie Stomp",
+      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Albert Ammons & Pete Johnson",
-          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Barrelhouse Boogie",
-      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Barrelhouse Boogie",
+      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie",
-        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
-      },
-      "artists": [
-        {
-          "name": "Henning Pertiet",
-          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Get in the Groove, Boys!",
-      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Boogie Woogie 50",
         "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 150973,
       "name": "Marie",
       "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
+      },
+      "artists": [
+        {
+          "name": "Henning Pertiet",
+          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Get in the Groove, Boys!",
+      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
     },
     {
       "added_at": "2024-05-30 16:27:59",

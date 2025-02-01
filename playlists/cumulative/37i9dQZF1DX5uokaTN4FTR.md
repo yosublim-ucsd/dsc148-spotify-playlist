@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: BL3SS, CamrinWatsin
+> The UK's biggest dance playlist! Cover: Bou, Aitch
 
 640 songs - 1 day 9 hr 27 min
 

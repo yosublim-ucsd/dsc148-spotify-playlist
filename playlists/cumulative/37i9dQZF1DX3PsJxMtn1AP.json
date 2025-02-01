@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "AIO (Bosq Remix)",
+        "url": "https://open.spotify.com/album/398yIs7sB6fNFJkpbMJcAg"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193542,
+      "name": "AIO - Bosq Remix",
+      "url": "https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE"
+    },
+    {
+      "album": {
         "name": "Al Pie del Volc\u00e1n",
         "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
       },
@@ -408,7 +430,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 200799,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3A78WpoH8cs834OAPZbyqj"
@@ -720,7 +742,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 225490,
       "name": "Ataque de P\u00e1nico",
       "url": "https://open.spotify.com/track/3qoUZtR9H0TSdbqoeUsfs4"
@@ -818,6 +840,28 @@
       "duration_ms": 209021,
       "name": "Barley",
       "url": "https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE"
+    },
+    {
+      "album": {
+        "name": "bastard",
+        "url": "https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136157,
+      "name": "bastard",
+      "url": "https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ"
     },
     {
       "album": {
@@ -1064,6 +1108,24 @@
       "duration_ms": 262427,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
+    },
+    {
+      "album": {
+        "name": "Besties",
+        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
     },
     {
       "album": {
@@ -1765,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/0icWXRGdopPIamBatGerqU"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249990,
+      "name": "Constelaci\u00f3n",
+      "url": "https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO"
+    },
+    {
+      "album": {
         "name": "Continental",
         "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
       },
@@ -1926,7 +2006,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 214187,
       "name": "Dance on the World",
       "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
@@ -3254,7 +3334,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 292355,
       "name": "H.B.W",
       "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
@@ -3955,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "Wah!!!",
+        "url": "https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300570,
+      "name": "Kids Go Down (\u5b69\u5b50\u4eec\u7684\u65f6\u5149)",
+      "url": "https://open.spotify.com/track/4tSnOJt0gQai61lN8wo5b9"
+    },
+    {
+      "album": {
         "name": "People Who Aren\u2019t There Anymore",
         "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
       },
@@ -4474,7 +4572,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191942,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/1z5gCDJRjiRcDyJ7WVFpOL"
@@ -4640,7 +4738,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 287185,
       "name": "L\u00f8veskatt",
       "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
@@ -4927,6 +5025,32 @@
     },
     {
       "album": {
+        "name": "Me Pasa (Piscis)",
+        "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201529,
+      "name": "Me Pasa (Piscis)",
+      "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
+    },
+    {
+      "album": {
         "name": "Sus Dog",
         "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
       },
@@ -5026,6 +5150,32 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "album": {
+        "name": "Misi\u00f3n S******",
+        "url": "https://open.spotify.com/album/78s2fiZPOZXqHMeXbHbJiR"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107130,
+      "name": "Misi\u00f3n S******",
+      "url": "https://open.spotify.com/track/6XR4OCEF7S6UyI6XkDcLnd"
     },
     {
       "album": {
@@ -5703,6 +5853,28 @@
     },
     {
       "album": {
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210994,
+      "name": "Peace Talk",
+      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "album": {
         "name": "Pens\u00e1ndote",
         "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
@@ -5924,7 +6096,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 434758,
       "name": "Pray for Me",
       "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
@@ -5946,6 +6118,24 @@
       "duration_ms": 216374,
       "name": "Pretty In Possible",
       "url": "https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7"
+    },
+    {
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/0MamCSh5CYI0mJUsPXvWjn"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327120,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/0PGaDIj6NIB2rW7KUW3Yjz"
     },
     {
       "album": {
@@ -5986,7 +6176,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 264176,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
@@ -6270,7 +6460,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 219411,
       "name": "REMEMBER",
       "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
@@ -6440,7 +6630,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 156839,
       "name": "RUFF RIDE",
       "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
@@ -6996,6 +7186,24 @@
       "duration_ms": 216586,
       "name": "Song Of The Lake",
       "url": "https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih"
+    },
+    {
+      "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225231,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS"
     },
     {
       "album": {
@@ -8303,6 +8511,36 @@
     },
     {
       "album": {
+        "name": "In Waves",
+        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        },
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208334,
+      "name": "Waited All Night",
+      "url": "https://open.spotify.com/track/4gBniy3TwR9o2JDBx48TlD"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/6KK8Hcp5en0xPxmOfHuen0"
       },
@@ -8708,7 +8946,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 327133,
       "name": "You Make Me Feel (Mighty Real)",
       "url": "https://open.spotify.com/track/1sLhKR0VdZ0tgo3stHNEEH"

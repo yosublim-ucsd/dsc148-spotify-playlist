@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125483,
+  "num_followers": 125484,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATmqJqHR5pltSXJZ4q4LLNnxWadOBk",
+  "snapshot_id": "AAATnVKJd/OABq2sOHaC4KSUz3MO6wOE",
   "tracks": [
+    {
+      "added_at": "2025-01-31 16:10:49",
+      "album": {
+        "name": "Monstercat x Hospital Records",
+        "url": "https://open.spotify.com/album/15NgKtJaUrVVJ7UwvtWtiO"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 179129,
+      "name": "99 Octane",
+      "url": "https://open.spotify.com/track/58HDy7QoiDCFZG9sxTxRfN"
+    },
     {
       "added_at": "2025-01-30 16:02:13",
       "album": {

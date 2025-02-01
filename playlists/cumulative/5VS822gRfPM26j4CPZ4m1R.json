@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Bumpy's Weekend",
+        "url": "https://open.spotify.com/album/05Ir7UhaHYEoVQGrnocVIh"
+      },
+      "artists": [
+        {
+          "name": "Hector Gachan",
+          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161211,
+      "name": "Bumpy's Weekend",
+      "url": "https://open.spotify.com/track/3GHVZtUIcYXkwLFMwyP6qe"
+    },
+    {
+      "album": {
         "name": "Grand Eug\u00e8ne",
         "url": "https://open.spotify.com/album/60doKMH86BYnApXvT5jeic"
       },

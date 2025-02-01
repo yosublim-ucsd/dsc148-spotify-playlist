@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> OSUN\(오선\)\)
 
-1,445 songs - 3 day 6 hr 35 min
+1,447 songs - 3 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,6 +883,7 @@
 | [No easy](https://open.spotify.com/track/7t7pSYuiuIjYZTVOFoAu1g) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [94\-24](https://open.spotify.com/album/3WTaiRDQ8hjdhDgwolkn3t) | 3:06 | 2024-11-22 |  |
 | [No easy \(Feat\. Nosun, KEEM HYO\-EUN, Hash Swan\) \- Remix](https://open.spotify.com/track/3aXiutpK9zdul0mft0h6nc) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [94\-24 +1](https://open.spotify.com/album/3UjYTwZtOSekvKHgjM7ByQ) | 3:35 | 2025-01-23 |  |
 | [no fun \(Feat\. Peakboy\)](https://open.spotify.com/track/3U7NEQc5oILzqlMdsqwB2f) | [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l) | [love supreme](https://open.spotify.com/album/5gUavt2cFRjQrHbpE1yO60) | 2:17 | 2024-03-21 | 2024-06-05 |
+| [No Look](https://open.spotify.com/track/6uWbwbBteI7SnCyPCVuWXU) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [No Look](https://open.spotify.com/album/54TAga0U0ZrNmSYDO0t7Bd) | 2:32 | 2025-01-31 |  |
 | [No Lowkey](https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [No Lowkey](https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E) | 2:19 | 2024-04-09 | 2024-11-28 |
 | [NO MAYBES](https://open.spotify.com/track/5QrsJ1r4M1VOeorm7fEoSM) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [NO MAYBES](https://open.spotify.com/album/5my2wF3HhirnjagetqhLLC) | 3:55 | 2022-02-22 | 2022-07-06 |
 | [No One Likes Us \(Prod\. Nochang\)](https://open.spotify.com/track/3TVPGk9hkCLnUP17yOAxAJ) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [BlackNut](https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh) | [AP Alchemy : Side A](https://open.spotify.com/album/5W1I3pow4MLYcqTIqTfEVv) | 3:35 | 2023-03-22 | 2024-03-09 |
@@ -1026,6 +1027,7 @@
 | [Resurrection \(feat\. YDG\)](https://open.spotify.com/track/2T4w6YMfsCO7kxGb3sDFUH) | [Snacky Chan](https://open.spotify.com/artist/4UTKdKB32XqCsQGLjZEfmw), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Resurrection](https://open.spotify.com/album/7BP4nBoe808i5YvnvJLAEA) | 3:22 | 2023-01-20 | 2023-03-28 |
 | [Revenge Season \(Feat\. Chillin Homie\)](https://open.spotify.com/track/0zViWFqw7P41WTPwj4Nvse) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [＋](https://open.spotify.com/album/6yd7PgSlEG6FC0D9XL3x8c) | 3:52 | 2024-10-10 |  |
 | [REVERSAL](https://open.spotify.com/track/5AfjdjSxYWRPIyMtbbJGec) | [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p) | [REVERSAL](https://open.spotify.com/album/4XlnRNtbC9nnYtQWtVpDO5) | 2:42 | 2022-12-20 | 2022-12-28 |
+| [RHYMING](https://open.spotify.com/track/5a3SgFk6c5UcZ8gxVcmToo) | [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV) | [RHYMING](https://open.spotify.com/album/4dv7zcF9l7r6WdbB3pPXuX) | 3:21 | 2025-01-31 |  |
 | [Rhymonic Storm](https://open.spotify.com/track/1qNXErOFFCV5tHA2yehGIq) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [FANATIC : 13th Anniversary Edition](https://open.spotify.com/album/5Pywv3nGXSPqpENgc6Mtdp) | 2:44 | 2023-01-03 | 2023-01-11 |
 | [rhythm of the city](https://open.spotify.com/track/76bK4fjOmHUQStlH1n9NVq) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [THE:RISE 5 with Baund](https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB) | 2:45 | 2023-03-06 | 2023-04-19 |
 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 | 2022-02-14 | 2022-07-08 |

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Nebrugg",
-  "num_followers": 145533,
+  "num_followers": 145546,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -771,54 +771,6 @@
     {
       "added_at": "2025-01-24 03:01:22",
       "album": {
-        "name": "TRAP BRASILEIRO",
-        "url": "https://open.spotify.com/album/0fNbQSIWEf9B57wx8YSPw3"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Cassin",
-          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
-        }
-      ],
-      "duration_ms": 306316,
-      "name": "PARIS FASHION WEEK",
-      "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
-    },
-    {
-      "added_at": "2025-01-24 03:01:22",
-      "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pra Se Entorpecer",
-      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
-    },
-    {
-      "added_at": "2025-01-24 03:01:22",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -847,6 +799,54 @@
       "duration_ms": 157868,
       "name": "Casa Bomba",
       "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
+    },
+    {
+      "added_at": "2025-01-24 03:01:22",
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pra Se Entorpecer",
+      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
+    },
+    {
+      "added_at": "2025-01-24 03:01:22",
+      "album": {
+        "name": "TRAP BRASILEIRO",
+        "url": "https://open.spotify.com/album/0fNbQSIWEf9B57wx8YSPw3"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Cassin",
+          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
+        }
+      ],
+      "duration_ms": 306316,
+      "name": "PARIS FASHION WEEK",
+      "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
     },
     {
       "added_at": "2025-01-24 03:01:22",

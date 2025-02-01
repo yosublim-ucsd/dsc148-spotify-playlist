@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 469865,
+  "num_followers": 469928,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAADgu8D9VVgmEOFYmwm3pjgl",
+  "snapshot_id": "Z5rBAAAAAADqzHO4Jz8lltzUVd39F3iH",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Nothin' To Lose",
-      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
+      "duration_ms": 213000,
+      "name": "Do You Love Me",
+      "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
       "artists": [
         {
@@ -628,41 +628,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Do You Love Me",
-      "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Beth - Live",
-      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Christine Sixteen",
-      "url": "https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3"
+      "duration_ms": 207226,
+      "name": "Nothin' To Lose",
+      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
     },
     {
       "added_at": null,
@@ -683,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
       "artists": [
         {
@@ -692,9 +660,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 267933,
-      "name": "Dirty Livin'",
-      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
+      "duration_ms": 194466,
+      "name": "Christine Sixteen",
+      "url": "https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3"
     },
     {
       "added_at": null,
@@ -708,9 +676,25 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 149720,
-      "name": "See You Tonight - Live",
-      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+      "duration_ms": 175013,
+      "name": "Beth - Live",
+      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Dirty Livin'",
+      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 149720,
+      "name": "See You Tonight - Live",
+      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 202266,
       "name": "100,000 Years",
       "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "Comin' Home - Live From MTV Unplugged/1995",
-      "url": "https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 185333,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "Comin' Home - Live From MTV Unplugged/1995",
+      "url": "https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0"
     }
   ],
   "unique_name": "This Is KISS",

@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 133278,
+  "num_followers": 133324,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5ekggAAAADDAl26/vEZ3eHHGWcqu5Ux",
+  "snapshot_id": "Z5xY6gAAAAC/1oGiOAP8hcWQnms/1BaD",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:26",
+      "album": {
+        "name": "Are You Bad Or Not?",
+        "url": "https://open.spotify.com/album/3pMgFuVJZhE97yUU8rzZxd"
+      },
+      "artists": [
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        }
+      ],
+      "duration_ms": 114594,
+      "name": "Are You Bad Or Not?",
+      "url": "https://open.spotify.com/track/4yhwd5qPo0KZfKjNPiQEWl"
+    },
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
@@ -1835,22 +1851,6 @@
       "duration_ms": 173148,
       "name": "All My Love (feat. Olivera)",
       "url": "https://open.spotify.com/track/4axALpFKrIPxwQRnYJ1Zmc"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4InKmaH0ORYbiXCaHo8hSg"
-      },
-      "artists": [
-        {
-          "name": "Ken@Work",
-          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
-        }
-      ],
-      "duration_ms": 356983,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC"
     },
     {
       "added_at": "2022-09-02 04:02:00",

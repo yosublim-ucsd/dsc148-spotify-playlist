@@ -1,15 +1,195 @@
 {
-  "description": "Descubre los nuevos \u00e1lbumes de m\u00fasica mexicana del 2025. Hit shuffle for a mixed listening experience. Cover: Hector Rubio",
-  "num_followers": 19261,
+  "description": "Descubre los nuevos \u00e1lbumes de m\u00fasica mexicana del 2025. Hit shuffle for a mixed listening experience. Cover: El Fantasma, Los Dos Carnales, Gerardo Diaz y su Gerarqu\u00eda",
+  "num_followers": 19271,
   "original_name": "New M\u00fasica Mexicana albums ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeegAAAACoSuQm44KlY5vmFR/njoLF",
+  "snapshot_id": "Z5xY7QAAAABy3hSBVyfL3xtFjdZUeWXg",
   "tracks": [
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Entre Hierba, Polvo y Plomo",
+        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 215594,
+      "name": "Entre Hierba, Polvo y Plomo",
+      "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Entre Hierba, Polvo y Plomo",
+        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 166190,
+      "name": "El Falsete del Potrero",
+      "url": "https://open.spotify.com/track/4KzLrPyBU5o2ptSRjAHYtp"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Entre Hierba, Polvo y Plomo",
+        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 191116,
+      "name": "Como un Fantasma",
+      "url": "https://open.spotify.com/track/0n9QY8FC316hdliuk5g5bQ"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Torre Infiel, Vol. 2",
+        "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Joyas Y Mujeres",
+      "url": "https://open.spotify.com/track/3mEHrF2D2WUKwGlZZpyM0r"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Torre Infiel, Vol. 2",
+        "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Mex Tex",
+      "url": "https://open.spotify.com/track/2K1e0lTfhJIUXKf6pGKG8y"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Torre Infiel, Vol. 2",
+        "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 305828,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/3ssrMpzUCMixJVH065862p"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX"
+      },
+      "artists": [
+        {
+          "name": "Said Norzagaray",
+          "url": "https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Baccarat",
+      "url": "https://open.spotify.com/track/0xKYzVe655Sd39IWpbIko6"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX"
+      },
+      "artists": [
+        {
+          "name": "Said Norzagaray",
+          "url": "https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp"
+        },
+        {
+          "name": "Carlos Caro",
+          "url": "https://open.spotify.com/artist/3zXsxf39Mj3d96u8Seopdd"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "Peaky Blinders",
+      "url": "https://open.spotify.com/track/6OGOuMMoOvAdFotkq2giGI"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX"
+      },
+      "artists": [
+        {
+          "name": "Said Norzagaray",
+          "url": "https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/4u4nBxIwF0cnTnLIiyXW1C"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "SMOKING",
         "url": "https://open.spotify.com/album/0qJe3Gd8xCEzeIJsZI9h9W"
@@ -25,7 +205,7 @@
       "url": "https://open.spotify.com/track/6OXxkXMduFmgRuvBpgjSyH"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "SMOKING",
         "url": "https://open.spotify.com/album/0qJe3Gd8xCEzeIJsZI9h9W"
@@ -41,7 +221,7 @@
       "url": "https://open.spotify.com/track/2922csjGvNYNyz4DZCmNVU"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "SMOKING",
         "url": "https://open.spotify.com/album/0qJe3Gd8xCEzeIJsZI9h9W"
@@ -57,7 +237,7 @@
       "url": "https://open.spotify.com/track/6awRebQRiXyTqidHa9N4XL"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Origen",
         "url": "https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI"
@@ -77,7 +257,7 @@
       "url": "https://open.spotify.com/track/7gPyZNuhbN4VWxgL6RsFyI"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Origen",
         "url": "https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI"
@@ -97,7 +277,7 @@
       "url": "https://open.spotify.com/track/4hZLo9hT4JbGxDKkAwbNUe"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Origen",
         "url": "https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI"
@@ -117,7 +297,7 @@
       "url": "https://open.spotify.com/track/1bY57XDbDpzpbxDtrdoBST"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Ambiciones",
         "url": "https://open.spotify.com/album/7vGR7HsVhp03wQP3m3IjO7"
@@ -133,7 +313,7 @@
       "url": "https://open.spotify.com/track/3aRSCHA7rQKooRTxOGx8IH"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Ambiciones",
         "url": "https://open.spotify.com/album/7vGR7HsVhp03wQP3m3IjO7"
@@ -149,7 +329,7 @@
       "url": "https://open.spotify.com/track/4hwrYQSv0H5nmwGpHlHlo5"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Ambiciones",
         "url": "https://open.spotify.com/album/7vGR7HsVhp03wQP3m3IjO7"
@@ -165,7 +345,7 @@
       "url": "https://open.spotify.com/track/75WVLhOAu4c3sNVh2FvcHN"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Ese Que Se Fue",
         "url": "https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf"
@@ -181,7 +361,7 @@
       "url": "https://open.spotify.com/track/1m5gWZ8Yz4kSAC3wAiG3KI"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Do\u00f1a Soledad",
         "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
@@ -197,7 +377,7 @@
       "url": "https://open.spotify.com/track/7dqbqa2ovxh5iyN1N1SRS3"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Do\u00f1a Soledad",
         "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
@@ -213,7 +393,7 @@
       "url": "https://open.spotify.com/track/15DG2OuAkZUVryrVbi0s2E"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "La Torre De Oro",
         "url": "https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y"
@@ -229,7 +409,7 @@
       "url": "https://open.spotify.com/track/0UuHledJeNZ99QsL1C3VWo"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "La Torre De Oro",
         "url": "https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y"
@@ -245,7 +425,7 @@
       "url": "https://open.spotify.com/track/5rxQ3cNVvbrGUYV4TiW6Du"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "La Torre De Oro",
         "url": "https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y"
@@ -261,7 +441,7 @@
       "url": "https://open.spotify.com/track/7fYkKnyZYv4mgNTidG71Ic"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Con Tokio",
         "url": "https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw"
@@ -277,7 +457,7 @@
       "url": "https://open.spotify.com/track/6mRIRKXeOUtPSYbkjEuQY1"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Con Tokio",
         "url": "https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw"
@@ -293,7 +473,7 @@
       "url": "https://open.spotify.com/track/0A1QcqkpZpcZEpJ5oouMbA"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Con Tokio",
         "url": "https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw"
@@ -309,7 +489,7 @@
       "url": "https://open.spotify.com/track/0Oyew5PGDqAALEGgSRJYpg"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "QSFCE",
         "url": "https://open.spotify.com/album/0x69KZkG9mMgnQXyV4lTDk"
@@ -329,7 +509,7 @@
       "url": "https://open.spotify.com/track/4M9IDxDcuY2Cdk7vx2OiKN"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "QSFCE",
         "url": "https://open.spotify.com/album/0x69KZkG9mMgnQXyV4lTDk"
@@ -345,7 +525,7 @@
       "url": "https://open.spotify.com/track/244GwFv9Urc37Z7pyctpee"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
+      "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "QSFCE",
         "url": "https://open.spotify.com/album/0x69KZkG9mMgnQXyV4lTDk"

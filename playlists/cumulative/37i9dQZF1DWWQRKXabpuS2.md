@@ -2,14 +2,14 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. غلاف: سلطان المرشد
+> كل شي خليجي جديد\. غلاف: عايض
 
-382 songs - 1 day 2 hr 20 min
+384 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3Ashan Tkoon Belsorah](https://open.spotify.com/track/4V0m0Mm58oDkPLBghkAD7F) | [Essam Kamal](https://open.spotify.com/artist/7yFfaC7g3jtOSQiJGUF0iD) | [3Ashan Tkoon Belsorah](https://open.spotify.com/album/4giImzhcoUvVtzddBsBIUD) | 5:14 | 2022-06-14 | 2023-01-11 |
-| [3L Sotek](https://open.spotify.com/track/2hjcGxt56fyWb8yxmCiq4i) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [3L Sotek](https://open.spotify.com/album/6UywTrkkieHWMaLQwYdZjx) | 3:15 | 2024-04-18 |  |
+| [3L Sotek](https://open.spotify.com/track/2hjcGxt56fyWb8yxmCiq4i) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [3L Sotek](https://open.spotify.com/album/6UywTrkkieHWMaLQwYdZjx) | 3:15 | 2024-04-18 | 2025-02-01 |
 | [6Air Elma7abba](https://open.spotify.com/track/1uLo7VvVInEf4mG1ne1GH8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [6air Elma7abba](https://open.spotify.com/album/51iqAWJczGv01DPAdNCU0B) | 5:19 | 2022-05-02 | 2022-09-29 |
 | [A3eesh Elyoum](https://open.spotify.com/track/3eSG8kCHjXHcXb5THol7Ch) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [A3eesh Elyoum](https://open.spotify.com/album/0ruoI8m2TFS6oiodKiEwPy) | 4:31 | 2022-09-16 | 2023-03-25 |
 | [Abghani](https://open.spotify.com/track/2dCjWuh8bNEU0gkWrlUbvD) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Abghani](https://open.spotify.com/album/6BPDqnmk4okiP45OUTQo6F) | 3:55 | 2023-12-29 | 2024-07-27 |
@@ -23,9 +23,10 @@
 | [Ahla Khabar](https://open.spotify.com/track/0lrd2S6pAlPM9NNRaGVYQz) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Ahla Khabar](https://open.spotify.com/album/396A3BYDQJVWQcePUVOoeL) | 3:24 | 2023-05-24 | 2023-12-09 |
 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 | 2022-04-05 | 2022-11-08 |
 | [Ahmed Allah Aleek](https://open.spotify.com/track/3wHwGaImG08yAIzOnh8qc4) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ahmed Allah Aleek](https://open.spotify.com/album/64pCUD9wMYdC4lQZOryvaB) | 2:26 | 2023-09-18 | 2024-04-11 |
+| [Aijrah From Ayed Album 2025](https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Aijrah From Ayed Album 2025](https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J) | 4:14 | 2025-01-31 |  |
 | [Akhaf Admank](https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Akhaf Admank](https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH) | 3:32 | 2024-07-30 |  |
 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 | 2023-02-24 | 2023-09-19 |
-| [Akher Dewa](https://open.spotify.com/track/5va2QPTuewBSnuelOg5KNr) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Akher Dewa](https://open.spotify.com/album/6JM8uw45QxwGoG9g3I5szu) | 4:56 | 2024-05-01 |  |
+| [Akher Dewa](https://open.spotify.com/track/5va2QPTuewBSnuelOg5KNr) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Akher Dewa](https://open.spotify.com/album/6JM8uw45QxwGoG9g3I5szu) | 4:56 | 2024-05-01 | 2025-02-01 |
 | [Akher Ensanah](https://open.spotify.com/track/2XkedYpoTNAhTqDYNCzC9O) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Akher Ensanah](https://open.spotify.com/album/4nxeckkOz5dSc61Mk0kc4V) | 2:58 | 2024-08-01 |  |
 | [Akhtht Al Thaar](https://open.spotify.com/track/2ShZOjo6DVToCvT4Q4eoLC) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Akhtht Al Thaar](https://open.spotify.com/album/5PbRU9jwHXjhqttJdoy2bW) | 3:39 | 2022-07-27 | 2022-09-15 |
 | [Al Aalam Ant](https://open.spotify.com/track/4aUODuciPbGIodFqOmY0Gs) | [Nawal](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Aalam Ant](https://open.spotify.com/album/2Wp5D6EUFjUmW2HNqnGJv3) | 6:42 | 2024-06-20 |  |
@@ -367,6 +368,7 @@
 | [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 | 2023-06-30 | 2024-02-01 |
 | [ليلة وصالك](https://open.spotify.com/track/6BCDeCmDw39YPG2L4T1nGM) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [ليلة وصالك](https://open.spotify.com/album/5j5SPlaI0ERnjeQdu0EzMZ) | 5:40 | 2024-02-21 | 2024-04-19 |
 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 | 2023-03-01 | 2023-09-30 |
+| [ماكنا حبايب](https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ماكنا حبايب](https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1) | 4:11 | 2025-01-31 |  |
 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 | 2023-04-26 | 2023-11-16 |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |
 | [مرحبا بك](https://open.spotify.com/track/7zGF0G34lky0sgWz6uQux8) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC), [مشجع مسفر](https://open.spotify.com/artist/6xNGM5MRDYPJajquB1R2Ch) | [مرحبا بك](https://open.spotify.com/album/6NoZaRWPTa6i4krd7rGh4I) | 3:25 | 2021-12-23 | 2022-04-05 |

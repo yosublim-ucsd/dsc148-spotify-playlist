@@ -5114,7 +5114,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 180610,
       "name": "Mind Eraser",
       "url": "https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5"
@@ -6370,6 +6370,24 @@
       "duration_ms": 325966,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/2P2earmjJAjuoUbW9du0WB"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/1eopLgagQLPUfXgCKs9hQ0"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226030,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/610KP4pndeyVkGo0wtYK23"
     },
     {
       "album": {

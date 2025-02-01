@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-874 songs - 1 day 23 hr 35 min
+875 songs - 1 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 | 2021-12-15 | 2022-07-29 |
 | [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 | 2024-10-23 |
 | [All A Dream](https://open.spotify.com/track/10RWFqvHZ9eMZFkLo0fbvW) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 2:28 | 2024-04-05 |  |
+| [All Aboard](https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book II](https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA) | 2:10 | 2025-01-31 |  |
 | [All Bad](https://open.spotify.com/track/0G6ExlA2fcJIDGoayswUNT) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:51 | 2021-12-15 | 2022-04-05 |
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-14 |  |
 | [all I'll do is love you more](https://open.spotify.com/track/14928p8uoAlqgb21MWAQsV) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [all I'll do is love you more](https://open.spotify.com/album/0NYUUTEcSnMplI7TgpRblO) | 2:31 | 2023-07-14 | 2023-11-11 |
@@ -407,7 +408,7 @@
 | [Kimmi](https://open.spotify.com/track/4PICq5Ndi0cEWsyRAEWED6) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [I'll Miss You](https://open.spotify.com/album/1Rmb0T7FGzLK9fOrZHmwyz) | 4:34 | 2021-12-15 | 2022-07-29 |
 | [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 | 2021-12-15 | 2022-05-09 |
 | [Kissing In Da Club](https://open.spotify.com/track/4S54f2Nkw5F44UA2ib54CA) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Kissing In Da Club](https://open.spotify.com/album/5NqEMtMuEbO6RGgHOfJ9sP) | 2:27 | 2024-08-23 | 2025-01-10 |
-| [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 | 2023-07-28 |  |
+| [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 | 2023-07-28 | 2025-02-01 |
 | [KMS](https://open.spotify.com/track/4ZKPZXtB2PabDQ1Rei2ElK) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS](https://open.spotify.com/album/1Hi2mMUYpuLqN6WDTNmui5) | 2:25 | 2022-02-11 | 2022-04-21 |
 | [KMS \- A COLORS SHOW](https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS \- A COLORS SHOW](https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt) | 2:26 | 2022-06-30 | 2023-06-17 |
 | [KOKO](https://open.spotify.com/track/0WHJJNkkCYGbDNDYUW8RA3) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Hold My Drink, Watch This.](https://open.spotify.com/album/7DTiWmmTONvedPmSiaDYEO) | 2:38 | 2024-11-08 |  |

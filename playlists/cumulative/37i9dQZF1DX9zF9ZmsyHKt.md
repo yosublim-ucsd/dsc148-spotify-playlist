@@ -2,9 +2,9 @@
 
 ### [Melodys Marcantes](https://open.spotify.com/playlist/37i9dQZF1DX9zF9ZmsyHKt)
 
-> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
+> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Banda AR\-15, Manu Bahtidão
 
-285 songs - 16 hr 51 min
+287 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 | 2021-10-15 | 2024-04-19 |
 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 | 2021-10-15 | 2024-10-23 |
 | [Escalafobética](https://open.spotify.com/track/019mxjbmWqoWHrBG2hiyG0) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY) | [Taurina](https://open.spotify.com/album/45ccYpkbtVrDl2gpzfYrFS) | 2:52 | 2021-10-15 | 2022-07-29 |
+| [Esperança](https://open.spotify.com/track/65XEiVtu5lTjBqsAfJeafb) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Esperança](https://open.spotify.com/album/2mwMZXG1mfvuSNAGun4qZL) | 2:55 | 2025-01-31 |  |
 | [Espia Escuta \(Badsista Remix\)](https://open.spotify.com/track/1TDNfarLxPCLVe7Qjm8YQ6) | [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN), [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Espia Escuta \(Badsista Remix\)](https://open.spotify.com/album/6oGZFbDZGaEi0zx8nqEdzi) | 3:00 | 2021-10-15 | 2022-07-28 |
 | [Esquema](https://open.spotify.com/track/3ys5QgBxPRSIthnJOVw05m) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Esquema](https://open.spotify.com/album/1lTTqZStAPfvDGL09RdPtQ) | 2:41 | 2021-10-15 | 2022-07-29 |
 | [Essa Vista](https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:52 | 2021-10-15 | 2023-06-24 |
@@ -113,7 +114,7 @@
 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 | 2024-10-22 |  |
 | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r) | 2:17 | 2021-10-15 | 2024-10-23 |
 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 | 2024-10-22 |  |
-| [Ex Mai Love](https://open.spotify.com/track/0YcjaVx3KKr0AVZ15YKHJs) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Treme](https://open.spotify.com/album/0bEhleLUVlS997I3NTHJ4f) | 2:55 | 2024-10-22 |  |
+| [Ex Mai Love](https://open.spotify.com/track/0YcjaVx3KKr0AVZ15YKHJs) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Treme](https://open.spotify.com/album/0bEhleLUVlS997I3NTHJ4f) | 2:55 | 2024-10-22 | 2025-02-01 |
 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 | 2024-10-22 |  |
 | [Falei de você pra minha mãe](https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Falei de você pra minha mãe](https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8) | 2:42 | 2021-10-15 | 2024-10-23 |
 | [Feito Fumaça](https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1) | [Obinrin Trio](https://open.spotify.com/artist/7vnpP7uPPqCGiS6PrIap7R), [Ju Strassacapa](https://open.spotify.com/artist/1k3OzqzWVyCPRmwcKPpXWH) | [Origem](https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8) | 4:41 | 2021-10-15 | 2024-10-23 |
@@ -182,6 +183,7 @@
 | [Não Precisa Ser Amélia](https://open.spotify.com/track/6FDZdbHaAHY6a1JvOg7Fbo) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Igreja Lesbiteriana, Um Chamado](https://open.spotify.com/album/0ElU2CZRo8BffDKE1bXB8z) | 5:36 | 2021-10-15 | 2024-08-07 |
 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 | 2021-10-15 | 2024-10-23 |
 | [Não Teve Amor](https://open.spotify.com/track/7snWZdqdQAVX61XEOTE5vw) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 3:12 | 2024-10-22 |  |
+| [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 | 2025-01-31 |  |
 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 | 2024-10-22 |  |
 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 | 2021-10-15 | 2024-10-23 |
 | [O Cego](https://open.spotify.com/track/6mKaNYuUImjvll3Wo1ZWBl) | [Ana de Oliveira](https://open.spotify.com/artist/45Wjw8c4PUTkSrgRe2k0dP) | [Ana pra Você](https://open.spotify.com/album/7daUfMO9pGu70hZWustNvv) | 2:38 | 2024-10-22 |  |
@@ -223,7 +225,7 @@
 | [Que Tiro Foi Esse](https://open.spotify.com/track/7g9l2KZ1IsxJReWQeMzqX2) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [Que Tiro Foi Esse](https://open.spotify.com/album/3G3VEfeCybeGdKbeBkQaGH) | 2:42 | 2021-10-15 | 2024-10-23 |
 | [Quem de nós Dois \(La Mia Storia Tra Le Dita\)](https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Rita Joana Iracema Carolina](https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK) | 5:05 | 2021-10-15 | 2024-10-23 |
 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 | 2024-10-22 |  |
-| [Quem Não Te Quer Sou Eu](https://open.spotify.com/track/3i01zVlVe3jsSx5nAg3JFW) | [Banda Sayonara](https://open.spotify.com/artist/4WudSn9b3V05mnxaH9uNks) | [Momentos e Lembranças](https://open.spotify.com/album/5kmSkvWYwTykPKGxdN7GVM) | 3:56 | 2024-10-22 |  |
+| [Quem Não Te Quer Sou Eu](https://open.spotify.com/track/3i01zVlVe3jsSx5nAg3JFW) | [Banda Sayonara](https://open.spotify.com/artist/4WudSn9b3V05mnxaH9uNks) | [Momentos e Lembranças](https://open.spotify.com/album/5kmSkvWYwTykPKGxdN7GVM) | 3:56 | 2024-10-22 | 2025-02-01 |
 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 | 2021-10-15 | 2024-10-23 |
 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 | 2021-10-15 | 2024-10-18 |
 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 | 2021-10-15 | 2024-10-23 |

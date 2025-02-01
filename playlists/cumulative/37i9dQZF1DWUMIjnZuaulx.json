@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 374780,
       "name": "Again",
       "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
@@ -430,6 +430,24 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189799,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/0Lo3YUgrsai0heN46qFzZo"
     },
     {
       "album": {
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 167873,
       "name": "Church Doors",
       "url": "https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr"
@@ -2679,6 +2697,28 @@
     },
     {
       "album": {
+        "name": "Freedom chant (Live)",
+        "url": "https://open.spotify.com/album/7Gs5hlOMJxcpBeVQQAfUpm"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        },
+        {
+          "name": "Chinedu Ndubueze",
+          "url": "https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397878,
+      "name": "Freedom chant - Live",
+      "url": "https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG"
+    },
+    {
+      "album": {
         "name": "From My Savior",
         "url": "https://open.spotify.com/album/1LRH1yU3aHVG5oJNbEkEK5"
       },
@@ -3404,7 +3444,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 253074,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/0RamNJ3yMsYouJLTFBCgX5"
@@ -4020,7 +4060,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 337354,
       "name": "Hear My Voice",
       "url": "https://open.spotify.com/track/2yAtTMvXjhdGbztgOopyE2"
@@ -4253,6 +4293,28 @@
     },
     {
       "album": {
+        "name": "Give It More Time",
+        "url": "https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Hold Me Up",
+      "url": "https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4fU9ITUXYd3QqGq1PrqwAa"
       },
@@ -4268,6 +4330,24 @@
       "duration_ms": 362096,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4UZDdmrCg7jOwQJiMnN36S"
+    },
+    {
+      "album": {
+        "name": "Choirmaster II (Live)",
+        "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370399,
+      "name": "Hold On - Live",
+      "url": "https://open.spotify.com/track/4QTXebgW5IJJS8WpBLn6Zc"
     },
     {
       "album": {
@@ -4422,6 +4502,24 @@
       "duration_ms": 204437,
       "name": "Holy Hands",
       "url": "https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E"
+    },
+    {
+      "album": {
+        "name": "Heart of a Human",
+        "url": "https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204437,
+      "name": "Holy Hands",
+      "url": "https://open.spotify.com/track/3MnYUOvImXxU0h2bKGtVCN"
     },
     {
       "album": {
@@ -5178,7 +5276,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 428181,
       "name": "I've Been Waiting - Live",
       "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
@@ -5398,7 +5496,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 300456,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/7FWPGGPSGLBmiFveze2jVw"
@@ -8217,6 +8315,40 @@
     },
     {
       "album": {
+        "name": "One Hallelujah",
+        "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345179,
+      "name": "One Hallelujah",
+      "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
+    },
+    {
+      "album": {
         "name": "One Name (Jesus) [Live]",
         "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
@@ -8639,6 +8771,24 @@
     },
     {
       "album": {
+        "name": "Proverbs 3 (Live)",
+        "url": "https://open.spotify.com/album/3PIsoOqMBxnpppTKRnEXZ0"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Proverbs 3 - Live",
+      "url": "https://open.spotify.com/track/7fnF0NlZkkPPFJANfOk45V"
+    },
+    {
+      "album": {
         "name": "Psalm 30",
         "url": "https://open.spotify.com/album/4GXTM2DYx5lfs0lFrEEwJ1"
       },
@@ -8650,7 +8800,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 142000,
       "name": "Psalm 30:1",
       "url": "https://open.spotify.com/track/4vBFpJWv0xDfWjzySe9WmY"
@@ -9308,7 +9458,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193033,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/0Rd0r29yvQRpo5uekYGB1Z"
@@ -9468,7 +9618,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 182386,
       "name": "So Good To Me (HALLELUJAH!)",
       "url": "https://open.spotify.com/track/2nbNrq7DcQad5jb1otsM3s"
@@ -9490,7 +9640,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 149566,
       "name": "So What",
       "url": "https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW"
@@ -12388,7 +12538,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 301166,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/7tT3kZyaweAcc7pf7uhd2m"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 11341,
+  "num_followers": 11362,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABhQYDf9ob8ZuEcemJgCsRz",
+  "snapshot_id": "Z5rBAAAAAABrFLFka3Z+76bQLcwHu1+d",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PADRIM",
+        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "CONFIO",
+      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EU GOSTO DE GAROTAS",
         "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
       },
@@ -483,30 +507,6 @@
       "duration_ms": 175748,
       "name": "CAMISA 10",
       "url": "https://open.spotify.com/track/2mZcF2Nfx3bG4cEognxsuz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PADRIM",
-        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "CONFIO",
-      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
     },
     {
       "added_at": null,
@@ -604,13 +604,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 132213,
-      "name": "After",
-      "url": "https://open.spotify.com/track/40D3BjcNrKXsn1dUNBGGJC"
+      "duration_ms": 194338,
+      "name": "Camarim",
+      "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
     },
     {
       "added_at": null,
@@ -724,17 +728,13 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         }
       ],
-      "duration_ms": 194338,
-      "name": "Camarim",
-      "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
+      "duration_ms": 132213,
+      "name": "After",
+      "url": "https://open.spotify.com/track/40D3BjcNrKXsn1dUNBGGJC"
     },
     {
       "added_at": null,

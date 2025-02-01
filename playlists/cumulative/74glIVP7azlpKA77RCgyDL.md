@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Employed to Serve.
 
-897 songs - 2 day 8 hr 23 min
+903 songs - 2 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Demon Killer](https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Phenomena II](https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo) | 5:18 | 2024-08-23 |  |
 | [Demons](https://open.spotify.com/track/3JixPLD5JPEMwuvXDBEopC) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Demons](https://open.spotify.com/album/2fhfxWeJs1pDssqnLvqc7U) | 2:47 | 2023-07-14 | 2024-02-03 |
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-02-17 | 2024-02-03 |
+| [Depraved Idol](https://open.spotify.com/track/5kt6KuCw6Zve6JhI4xRV4a) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Depraved Idol](https://open.spotify.com/album/6TqWBOgLzqNVZBZ3neOBWK) | 2:32 | 2025-01-31 |  |
 | [Desert Carnage](https://open.spotify.com/track/09ndVy44UKGyXHe5c0NjEQ) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Desert Carnage](https://open.spotify.com/album/4oLWb1iJuQx5qPRWmn5rQ6) | 3:59 | 2023-09-22 | 2024-02-03 |
 | [Desire](https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Desire](https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj) | 5:01 | 2022-04-22 | 2023-07-15 |
 | [Desolation's Flower](https://open.spotify.com/track/7gX1NBorrOZqpLYBlRIW3F) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/3AmTVBNLadBMNE4OlVro6S) | 8:29 | 2023-08-04 | 2024-02-03 |
@@ -438,6 +439,7 @@
 | [MaBeLu](https://open.spotify.com/track/14gGfvwn3Fdb74NKTBy6Di) | [MTVoid](https://open.spotify.com/artist/18zL2Ycw9paUbgS4TiAgOP) | [MaBeLu](https://open.spotify.com/album/0WeHR1XLB4yHTKAwWOh7uM) | 3:47 | 2023-09-08 | 2024-02-03 |
 | [Made Me This Way](https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Made Me This Way](https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi) | 3:30 | 2024-07-05 |  |
 | [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 | 2023-07-15 |
+| [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 | 2025-01-31 |  |
 | [Malignant Perfection](https://open.spotify.com/track/2NVntSbt0SCX7FZI6dmdQv) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Malignant Perfection](https://open.spotify.com/album/17QXH9X3v0VZBi3hTsSPZt) | 6:45 | 2024-10-25 |  |
 | [Mammoth's Hand](https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Mammoth's Hand](https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2) | 3:53 | 2024-08-09 |  |
 | [Man Without Fear](https://open.spotify.com/track/6F5ludZs5W93BB4JBsGIPQ) | [bulletsbetweentongues](https://open.spotify.com/artist/0EWT2MtvWeCf1yvvLf2EeG) | [Man Without Fear](https://open.spotify.com/album/6ZAUIdWYngfvh3qLWXv1wy) | 3:34 | 2024-01-19 |  |
@@ -692,6 +694,7 @@
 | [STRAITJACKET AFTERBIRTH](https://open.spotify.com/track/1XpGYpAK3SvsMIJv0zKfsM) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR), [SCARAB](https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX) | [AUTOMATIC DEATH PROTOCOL](https://open.spotify.com/album/3TV7pYsruvNpnvcWU5UiOc) | 3:29 | 2023-12-08 | 2024-02-03 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2023-07-15 |
 | [Strangled By Hatred](https://open.spotify.com/track/65B2NhSzmvxgjlSeOYEGjn) | [Laceration](https://open.spotify.com/artist/762Ablx3xD0IF4ijV5Eq2G) | [Strangled By Hatred](https://open.spotify.com/album/3YqXnuGlKmUZoDYcxT5t8M) | 4:59 | 2024-07-05 |  |
+| [Stress Positions](https://open.spotify.com/track/7yBD5X9gABxFVWhFq58t3y) | [Vacuous](https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS) | [Stress Positions](https://open.spotify.com/album/7AqOyXDy5EIoBWVoqFcTWb) | 4:07 | 2025-01-31 |  |
 | [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 | 2024-01-12 |  |
 | [such.a.shame](https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [such.a.shame](https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw) | 3:18 | 2022-02-25 | 2023-07-15 |
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/1f9GowTtuwSkdJfKBk3VeU) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/album/2Ow8BhxOQJDErR0ei0RYHo) | 2:44 | 2024-04-26 |  |
@@ -704,6 +707,7 @@
 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 | 2022-05-20 | 2023-07-15 |
 | [Supernatural](https://open.spotify.com/track/2CJo2Yy3sipDQ3XyiL3Vha) | [Julie Christmas](https://open.spotify.com/artist/4rHZDNrVu2XkdO7eysOHei) | [Supernatural](https://open.spotify.com/album/2SVkD5ABH9AXwPhn5awnVn) | 3:35 | 2024-04-19 |  |
 | [Superstitious Vision](https://open.spotify.com/track/3VPS0fDgL5dJunXVUZAn7N) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [Dark Superstition](https://open.spotify.com/album/7BhpoTy951vKzT7xeQJg9e) | 3:52 | 2024-05-17 |  |
+| [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/track/3xlNhQWwb0WS3w6P3VJpJF) | [JIVEBOMB](https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV) | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/album/0B0BWGwmFIg2OUqbYLSUge) | 1:26 | 2025-01-31 |  |
 | [Survival Is Vengeance](https://open.spotify.com/track/5p61JWK78nkyZO9JLUhhDf) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Survival Is Vengeance](https://open.spotify.com/album/6N1U0MdbQfOx98lWV3Xjgh) | 1:45 | 2022-07-22 | 2023-07-15 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2023-07-15 |
 | [Sweet Jesus Wept Shit](https://open.spotify.com/track/6LFtB65EHqd7U85PhBEUjo) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Sweet Jesus Wept Shit](https://open.spotify.com/album/7gYrrE3z5TFefKMmFzs9Gd) | 3:12 | 2022-07-01 | 2023-07-15 |
@@ -770,6 +774,7 @@
 | [The Requiem](https://open.spotify.com/track/6hfkFSmTZktAqOoPV1Jqlf) | [Deadbody](https://open.spotify.com/artist/1wGgCyV0NZ50dH1aEoKjma) | [The Requiem](https://open.spotify.com/album/3d7HL1BTrcrfkjvOrAQQMf) | 1:43 | 2022-10-21 | 2023-07-15 |
 | [The Seed That Dreamed Of Its Own Creation](https://open.spotify.com/track/7G2A1TVHR1tXpB13upMe6y) | [Lowen](https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9) | [The Seed That Dreamed Of Its Own Creation](https://open.spotify.com/album/5xGngVEkhiPb8bh7zOxaMN) | 3:26 | 2024-07-05 |  |
 | [The Serpent and the Rainbow](https://open.spotify.com/track/2CkpD7gqMXrrpTCJ9TZ0bw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:57 | 2022-12-16 | 2023-07-15 |
+| [The Shit Ov God](https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC) | 5:36 | 2025-01-31 |  |
 | [The Silence Beyond Life](https://open.spotify.com/track/1oywTxidTBZiX9uYsW3u9z) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [The Silence Beyond Life](https://open.spotify.com/album/2ETcW1eIJaZbNSTBiZdmCR) | 4:18 | 2023-09-08 | 2024-02-03 |
 | [The Sin of Human Frailty](https://open.spotify.com/track/5JZnn0DbRP9ZrpNfut6nCx) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/259zMZ6YBj39MehGYMR80C) | 2:11 | 2023-09-15 | 2024-02-03 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 | 2024-02-03 |
@@ -903,6 +908,7 @@
 | [Zombie Inferno](https://open.spotify.com/track/3kDii17lJocLG2jfWGzecS) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ) | [Zombie Inferno](https://open.spotify.com/album/6OsZBopYtCRSANJJ7FwI7Y) | 4:07 | 2022-07-01 | 2023-07-15 |
 | [Истина](https://open.spotify.com/track/2vKRArTlpWvplOjsVX7zjG) | [Рожь](https://open.spotify.com/artist/6H4aSq8C0uNkxUKDsC2t0j) | [Всё](https://open.spotify.com/album/3WxKplxyqg68yCQHtNucAo) | 9:59 | 2023-01-06 | 2024-02-03 |
 | [いとをかしMyType](https://open.spotify.com/track/2FWQeQtJToIZdZWuaivtJd) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ぶっちぎり東京](https://open.spotify.com/album/0g7BacE5bE3ScvHzmQqbFq) | 3:07 | 2024-12-06 |  |
+| [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 | 2025-01-31 |  |
 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-01-13 | 2024-02-03 |
 | [知恵](https://open.spotify.com/track/5fJKzNZbsGbeA8w8yKPGaS) | [moreru](https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4) | [山田花子](https://open.spotify.com/album/6p4e0G8qlZMvSpcpviffAw) | 3:26 | 2022-04-01 | 2023-07-15 |
 

@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 126666,
       "name": "Connection - Remix",
       "url": "https://open.spotify.com/track/3VKjKet2Tr9TRKyC6wJl8p"
@@ -2120,6 +2120,24 @@
       "duration_ms": 116756,
       "name": "Cosca",
       "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
+    },
+    {
+      "album": {
+        "name": "Creole",
+        "url": "https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt"
+      },
+      "artists": [
+        {
+          "name": "Tre Mission",
+          "url": "https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149056,
+      "name": "Creole",
+      "url": "https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A"
     },
     {
       "album": {
@@ -4911,6 +4929,32 @@
     },
     {
       "album": {
+        "name": "Madvillainy Demos",
+        "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166016,
+      "name": "Just for Kicks (\u201cMeat Grinder\u201d demo)",
+      "url": "https://open.spotify.com/track/0xSGp6VPeckr3Inxz3IrA9"
+    },
+    {
+      "album": {
         "name": "Fonografie",
         "url": "https://open.spotify.com/album/51BV0BTpQyhZK550yPfYQO"
       },
@@ -6748,7 +6792,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 222027,
       "name": "PARADIGM",
       "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"

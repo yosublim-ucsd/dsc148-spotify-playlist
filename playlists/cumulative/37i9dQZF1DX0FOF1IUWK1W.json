@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Hugo & Guilherme com Wesley Safad\u00e3o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Anitta e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 283636,
       "name": "A Danada Me Ligando",
       "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 186165,
       "name": "Calculista",
       "url": "https://open.spotify.com/track/5mPn4ueXc1oua018FDvknz"
@@ -7497,6 +7497,28 @@
     },
     {
       "album": {
+        "name": "Eu, Yasmin Santos - Vol 03 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/582iI9y9mWOpUKUive4cnU"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161920,
+      "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Aw7IBvOzLPqlJRPCqnTkL"
+    },
+    {
+      "album": {
         "name": "Eu, Yasmin Santos - Vol 02 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1eXX7zFkpjldlRL6FiWpwL"
       },
@@ -7512,7 +7534,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161920,
       "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
       "url": "https://open.spotify.com/track/5WD8Ctp0FgPSO3HCcKwxuT"
@@ -10003,6 +10025,28 @@
     },
     {
       "album": {
+        "name": "Saudade Burra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2d4qNcAXn99Jhnup9I7vLM"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Saudade Burra - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xyIg09M1MhiohypbUdeYt"
+    },
+    {
+      "album": {
         "name": "Saudade da Minha Vida (Ao Vivo)",
         "url": "https://open.spotify.com/album/12cggEPGtw4AamOwbk6Got"
       },
@@ -10040,6 +10084,32 @@
       "duration_ms": 144665,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G"
+    },
+    {
+      "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160846,
+      "name": "Sei Que Tu Me Odeia",
+      "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
     },
     {
       "album": {
@@ -10689,6 +10759,32 @@
     },
     {
       "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220218,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
+    },
+    {
+      "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
       },
@@ -10704,6 +10800,32 @@
       "duration_ms": 203337,
       "name": "S\u00f3 F\u00e9",
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
+    },
+    {
+      "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169546,
+      "name": "S\u00f3 Quero Ver",
+      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
     },
     {
       "album": {
@@ -11566,7 +11688,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 164466,
       "name": "Uma e Quinze da Manh\u00e3",
       "url": "https://open.spotify.com/track/39O9PGzlZnVTOhAYQjyBRG"
@@ -11756,7 +11878,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 160864,
       "name": "Vamo de Pagodin",
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"

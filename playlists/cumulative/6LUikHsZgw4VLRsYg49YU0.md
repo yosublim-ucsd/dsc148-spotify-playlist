@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-241 songs - 14 hr 3 min
+242 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Blur \(feat\. Foster The People\)](https://open.spotify.com/track/653SgdD6rQ9YPtsqRgQVzm) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Blur \(feat\. Foster The People\)](https://open.spotify.com/album/4HllYKJ6UAchXK6qLPtPYP) | 3:01 | 2022-02-18 | 2022-12-10 |
 | [Boing Boing \(feat\. The Seige\)](https://open.spotify.com/track/5blgGSISAzYnuX6ONoSQD6) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [The Seige](https://open.spotify.com/artist/6Cny0Wt5OKLct1rGOLmu80) | [Level 1](https://open.spotify.com/album/35zGHE4j9ABvh5LI0z2wuP) | 3:37 | 2022-02-18 | 2022-12-10 |
 | [Bounce \(feat\. Snoop Dogg\)](https://open.spotify.com/track/735f5J0cA4VqAyxmsARit0) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Julian Banks](https://open.spotify.com/artist/3A8Sb8zHKRoN7f0V5Av3WH), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bounce \(feat\. Snoop Dogg\)](https://open.spotify.com/album/3mYfeERSi1IeIA0Nq0QY7M) | 2:37 | 2022-02-18 | 2022-12-10 |
+| [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 | 2025-01-31 |  |
 | [BREAK LAW](https://open.spotify.com/track/223t7TwvWm5PuE1IuWpRZM) | [Dog Blood](https://open.spotify.com/artist/2amyu5pkgYMYdNQZmB3GgY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Turn Off The Lights](https://open.spotify.com/album/1Pg5Ot24fhSbQbxqV5OTZS) | 4:02 | 2022-02-18 | 2022-12-10 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-12 |  |
 | [Call You Mine \(feat\. Bebe Rexha\) \- Asketa & Natan Chaim Remix](https://open.spotify.com/track/5EdYlCWou17k0N1PADLKfO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [Call You Mine \(Remixes\)](https://open.spotify.com/album/1nqYsOef1yKKuGOVchbsk6) | 3:03 | 2022-02-18 | 2022-12-10 |

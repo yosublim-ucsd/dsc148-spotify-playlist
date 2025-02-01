@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con FEMI.",
+  "description": "Flow sudamericano con Polim\u00e1 Westcoast y C.R.O",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -660,7 +660,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137559,
       "name": "24/7 6.5",
       "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 159101,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
@@ -3244,7 +3244,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 351910,
       "name": "BAD BOY (feat. Juhn, Jairo Vera, Sayian Jimmy, Nysix Music, CamiMusic & Montana the Producer) - Remix",
       "url": "https://open.spotify.com/track/1aJT5lePkBJ0bAmhptUys7"
@@ -7176,7 +7176,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 233845,
       "name": "Corte Gangster",
       "url": "https://open.spotify.com/track/5IZsaDvrsmMJKgbNHyJpc2"
@@ -7357,6 +7357,32 @@
     },
     {
       "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/1dVSmnFeHz8KhgwpS5XCm6"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/3c0c2A3GRAzWOUs2KneW1E"
+    },
+    {
+      "album": {
         "name": "Cu4tro",
         "url": "https://open.spotify.com/album/20Eimnv9BdL7PQ1WGnbQX3"
       },
@@ -7402,7 +7428,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 205333,
       "name": "Cuando Ella Me Vio",
       "url": "https://open.spotify.com/track/1KRkJH7aHACngrupLMkP7F"
@@ -8980,6 +9006,32 @@
       "duration_ms": 180173,
       "name": "Dime D\u00f3nde",
       "url": "https://open.spotify.com/track/4cvNRoECGS2sUiw5Q5RRsb"
+    },
+    {
+      "album": {
+        "name": "Dime si te gusto",
+        "url": "https://open.spotify.com/album/75MMBv9kb0Kk8AU6X9QQ7O"
+      },
+      "artists": [
+        {
+          "name": "Felolaefe",
+          "url": "https://open.spotify.com/artist/1d6X8cIaHb05jj6SYoHUjV"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "JulianoChieff",
+          "url": "https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Dime si te gusto",
+      "url": "https://open.spotify.com/track/12OCS6fQMyEk0YtHOO5fkT"
     },
     {
       "album": {
@@ -10640,7 +10692,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 303582,
       "name": "Enrolar - Fantastic Four Remix",
       "url": "https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL"
@@ -12949,6 +13001,24 @@
     },
     {
       "album": {
+        "name": "Hasta Que Salga el Sol",
+        "url": "https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/2KbPTTNKEYlOUmW34shHOW"
+    },
+    {
+      "album": {
         "name": "Glocko",
         "url": "https://open.spotify.com/album/7sBFofbqWdbYEe5SDv7X1b"
       },
@@ -14078,6 +14148,28 @@
       "duration_ms": 203008,
       "name": "I Don't Sleep - Remix",
       "url": "https://open.spotify.com/track/6VzbeqtKkPOaAxiNeXhomy"
+    },
+    {
+      "album": {
+        "name": "I GOT IT",
+        "url": "https://open.spotify.com/album/58pDA3AeMi3dl6LJcmpBVV"
+      },
+      "artists": [
+        {
+          "name": "Matias Fisher",
+          "url": "https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "I GOT IT",
+      "url": "https://open.spotify.com/track/1FcNbP0DBOn0WM7TD8Ot9M"
     },
     {
       "album": {
@@ -15997,6 +16089,28 @@
     },
     {
       "album": {
+        "name": "La Vuelta",
+        "url": "https://open.spotify.com/album/6CRv14nSCF3KaRAC7PyYvF"
+      },
+      "artists": [
+        {
+          "name": "Killua97",
+          "url": "https://open.spotify.com/artist/404oLEm20rXDCHi61f6uvg"
+        },
+        {
+          "name": "Tronick Beats",
+          "url": "https://open.spotify.com/artist/2lBqEjGnYGV6uSLTLfIMr8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163109,
+      "name": "La Vuelta",
+      "url": "https://open.spotify.com/track/61dVx9uJprp89WFQorftES"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Vez",
         "url": "https://open.spotify.com/album/3A6Tu66gGio1K8EwwzVxAe"
       },
@@ -16496,6 +16610,28 @@
       "duration_ms": 135529,
       "name": "Ley Seca",
       "url": "https://open.spotify.com/track/3HU1hZwW0Ga7QUng9Qsc0e"
+    },
+    {
+      "album": {
+        "name": "LGN",
+        "url": "https://open.spotify.com/album/2hirDNFSxe3FlmuprSisD1"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184874,
+      "name": "LGN",
+      "url": "https://open.spotify.com/track/3vgw6WZLvD9lqt9TrcqVER"
     },
     {
       "album": {
@@ -24686,7 +24822,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 196759,
       "name": "PERCOSEX",
       "url": "https://open.spotify.com/track/6DAbtwdNegFUXQJQyKypig"
@@ -32268,6 +32404,32 @@
       "duration_ms": 202173,
       "name": "UN BANDOLERO (feat. C.R.O)",
       "url": "https://open.spotify.com/track/3vh0hTfg90xqPMI5J6Z90p"
+    },
+    {
+      "album": {
+        "name": "Un Besito",
+        "url": "https://open.spotify.com/album/6mDnbII3fazVP0CVNeLVx6"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Forest",
+          "url": "https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250831,
+      "name": "Un Besito",
+      "url": "https://open.spotify.com/track/5uVYRddycQ8lBMgqM7gQhn"
     },
     {
       "album": {

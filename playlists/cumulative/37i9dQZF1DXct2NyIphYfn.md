@@ -4,7 +4,7 @@
 
 > Some of the most beautiful love songs in French.
 
-185 songs - 11 hr 25 min
+186 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Ecoute mon coeur](https://open.spotify.com/track/3S2SYHTaWB06riIlXKaOjm) | [Ria Bartok](https://open.spotify.com/artist/72a2NwGKFzbqBp88CGkWKO) | [La Belle Epoque \- EMI's French Girls 1965\-68](https://open.spotify.com/album/5etrwdUj5I4qj9rlGNPJR1) | 3:08 | 2021-01-30 | 2023-01-27 |
 | [Ecoute mon coeur](https://open.spotify.com/track/2bpUzToJJlq6TJ1NH1VD32) | [Ria Bartok](https://open.spotify.com/artist/72a2NwGKFzbqBp88CGkWKO) | [Tu la revois](https://open.spotify.com/album/498DWnPdxp2NhcZcfBLdIM) | 3:10 | 2021-01-30 | 2022-07-29 |
 | [Effeuille\-moi le coeur](https://open.spotify.com/track/1k68669ntnKMiCCNXL7vas) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH) | [Effeuille\-moi le cœur](https://open.spotify.com/album/6wlgztSzCfeoD3RZsKiSqE) | 2:19 | 2021-01-30 | 2022-07-29 |
-| [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2024-01-16 |  |
+| [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2024-01-16 | 2025-02-01 |
+| [Ensemble \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 | 2025-01-31 |  |
 | [Escale à Madrid](https://open.spotify.com/track/2SpKEnFdyDWnHs1ZD33Lan) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:40 | 2022-01-18 |  |
 | [Et je t'aime encore](https://open.spotify.com/track/0enVQlLvLZ4zKBk9ugnayG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [1 fille & 4 types](https://open.spotify.com/album/5j2HOG1RPwjjgioUOWLcS7) | 3:26 | 2021-01-30 | 2022-07-23 |
 | [Et je t'aime encore \- English version](https://open.spotify.com/track/2Fp37ixPar6VZYhFhGaKg5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 3:24 | 2021-01-30 | 2022-11-28 |

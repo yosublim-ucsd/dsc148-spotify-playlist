@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-213 songs - 19 hr 40 min
+214 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Hungersite](https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 7:06 | 2022-06-23 | 2024-02-03 |
 | [I Am The Wheel \(It Could Happen to You\)](https://open.spotify.com/track/5F6EqL3QZGnRJjA9XPWXoC) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [I Am The Wheel \(It Could Happen to You\)](https://open.spotify.com/album/4Iy72zn3aCGtRsGIfmOPov) | 3:33 | 2024-02-23 | 2024-03-30 |
 | [I Go To Work](https://open.spotify.com/track/5JcuGefnbHdsRDCwxa6a2t) | [Kev Rowe](https://open.spotify.com/artist/1hTerDFNMFDQGcwDMJHAVm) | [I Go To Work](https://open.spotify.com/album/0zYl2aLQ8iZ3ZdAlAFf9Hl) | 2:31 | 2023-06-09 |  |
+| [In Stride](https://open.spotify.com/track/59a1MKfzdwxr2SmiSrMPFf) | [Moe](https://open.spotify.com/artist/5RRzOVMwjs3M36WiuJcBJ1) | [Circle of Giants](https://open.spotify.com/album/2XLXTlsbYvGt8ABoDpHDlg) | 4:14 | 2025-01-31 |  |
 | [In the Shadow of the Mountain](https://open.spotify.com/track/1IT6PwgBR7nkE9oL9CAqqy) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [How to Dream in Color](https://open.spotify.com/album/3mAcc0urYeQn27UJsAQVN9) | 8:31 | 2024-07-12 |  |
 | [Inside Out](https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:13 | 2022-07-15 |  |
 | [Ishmael](https://open.spotify.com/track/4cXii3eY0wiLiMYXJXHjpc) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Ishmael](https://open.spotify.com/album/1H38Z8Ck6kaSbnghLJ9HxT) | 4:39 | 2023-06-09 | 2024-06-29 |
@@ -103,7 +104,7 @@
 | [Just a Little](https://open.spotify.com/track/0PixrKu6hDBnpMEWnWaJg9) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/3T1ehbNdVLYuXw279GohoO) | 6:10 | 2022-06-23 | 2022-07-29 |
 | [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 | 2022-06-23 | 2024-02-03 |
 | [Just Music](https://open.spotify.com/track/4Ixf4fxQiHDcUNgK2KtDXY) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Just Music](https://open.spotify.com/album/7EB6VqMWgy5CVXMqOVvDGG) | 6:22 | 2023-04-07 | 2024-02-24 |
-| [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 | 2022-06-23 |  |
+| [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 | 2022-06-23 | 2025-02-01 |
 | [Keep Dreaming](https://open.spotify.com/track/4XQWGTjlBLQvfqfjRAgXnA) | [The Moon City Masters](https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr) | [Keep Dreaming](https://open.spotify.com/album/1RnnEOalfBnLlOXVmBP6aQ) | 4:21 | 2024-04-26 |  |
 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 | 2022-06-23 | 2023-06-24 |
 | [Kinetic Bump](https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt) | [The Mantras](https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji) | [Jambands Ruined My Life](https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU) | 6:15 | 2022-06-23 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Tenth Avenue North",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -342,6 +342,24 @@
       "duration_ms": 266200,
       "name": "Amazing Grace / My Chains Are Gone",
       "url": "https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr"
+    },
+    {
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/35I3FfbWQsifBlPcIGJa7E"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235750,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/4v6SzqiQf66IlrpUukDRnj"
     },
     {
       "album": {
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 153940,
       "name": "Church Kids",
       "url": "https://open.spotify.com/track/744gRHKFPX3ixps7BwP9TS"
@@ -3746,7 +3764,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 279346,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/71sLjRnlC27zrIqwI9uGUr"
@@ -4504,7 +4522,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 234480,
       "name": "Jesus I Will Worship You - Acoustic",
       "url": "https://open.spotify.com/track/4attQDOxN8U5vzr9Gxbkew"
@@ -4552,6 +4570,24 @@
       "duration_ms": 162470,
       "name": "Jesus Is Why",
       "url": "https://open.spotify.com/track/2kU1Z4SoJYH18cGGTfdkyY"
+    },
+    {
+      "album": {
+        "name": "Jesus Loves",
+        "url": "https://open.spotify.com/album/2a5kK7pL7IeyfEnNnDrs9i"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251933,
+      "name": "Jesus Loves",
+      "url": "https://open.spotify.com/track/6RJ2RMBiczjNiwr1SqEgFt"
     },
     {
       "album": {
@@ -4932,6 +4968,24 @@
       "duration_ms": 294320,
       "name": "Light a Fire",
       "url": "https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG"
+    },
+    {
+      "album": {
+        "name": "Light Inside You",
+        "url": "https://open.spotify.com/album/2ZxWdxxkqPE8M7IzqLdm4F"
+      },
+      "artists": [
+        {
+          "name": "Allison Eide",
+          "url": "https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220608,
+      "name": "Light Inside You",
+      "url": "https://open.spotify.com/track/0fxM1E1J7TtWkIqCFKLhMS"
     },
     {
       "album": {
@@ -5808,7 +5862,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 196941,
       "name": "Need To Know",
       "url": "https://open.spotify.com/track/2OnLaG9fe1OIMmRNeTfqAw"
@@ -7022,6 +7076,24 @@
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
+    },
+    {
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/5UKAigF7RxWyjxARkwTAiA"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208828,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/13j56vvhMv42EYRlG3EJ7x"
     },
     {
       "album": {
@@ -8540,7 +8612,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 290600,
       "name": "These are the Days (feat. Amy Grant)",
       "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
@@ -9104,6 +9176,28 @@
       "duration_ms": 228613,
       "name": "What I'm Waiting For",
       "url": "https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK"
+    },
+    {
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/5N5tvgh2mRRBRs6oz5Poc1"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        },
+        {
+          "name": "Megan Danielle",
+          "url": "https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252133,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/6W0GK0gyb1pLwCTJnPN2OF"
     },
     {
       "album": {

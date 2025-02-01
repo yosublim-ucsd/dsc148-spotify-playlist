@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 171780,
+  "num_followers": 171799,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAACloXuchADhmeF7hujtwSkQ",
+  "snapshot_id": "Z5rBAAAAAAASL3VbbPnPRwiEmqyU6/Mn",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Postcards From Texas",
         "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 183242,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Settling Down",
-      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wranglers",
-        "url": "https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 178196,
-      "name": "Wranglers",
-      "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 245333,
       "name": "Famous In a Small Town",
       "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wranglers",
+        "url": "https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 178196,
+      "name": "Wranglers",
+      "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still That Cowboy (feat. Miranda Lambert)",
-        "url": "https://open.spotify.com/album/1hzGcSEv6qkgmOxFImQWwq"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 214020,
-      "name": "Still That Cowboy (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/1JPdtYnnWIIuHUsTfmtvKU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still That Cowboy (feat. Miranda Lambert)",
+        "url": "https://open.spotify.com/album/1hzGcSEv6qkgmOxFImQWwq"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 214020,
+      "name": "Still That Cowboy (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/1JPdtYnnWIIuHUsTfmtvKU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 205400,
       "name": "Actin' Up",
       "url": "https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 136280,
-      "name": "Armadillo",
-      "url": "https://open.spotify.com/track/0ffSNNyKBwBUl7W9fOuS5O"
     },
     {
       "added_at": null,
@@ -919,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 136280,
+      "name": "Armadillo",
+      "url": "https://open.spotify.com/track/0ffSNNyKBwBUl7W9fOuS5O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 223201,
-      "name": "No Man's Land",
-      "url": "https://open.spotify.com/track/161YJMujRNIZNYn01GSDTs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell On Heels",
         "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 196733,
       "name": "Takin' Pills",
       "url": "https://open.spotify.com/track/2I8sTYMwuTsTL3K5vR6MB5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 223201,
+      "name": "No Man's Land",
+      "url": "https://open.spotify.com/track/161YJMujRNIZNYn01GSDTs"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

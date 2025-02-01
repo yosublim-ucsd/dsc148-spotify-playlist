@@ -6411,24 +6411,6 @@
     },
     {
       "album": {
-        "name": "\u67d4\u8edf\u5264DOPE",
-        "url": "https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "date_added": "2025-01-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206400,
-      "name": "Fuwa Fuwa",
-      "url": "https://open.spotify.com/track/5pgmzxy4ZKqHBXwtErA8pV"
-    },
-    {
-      "album": {
         "name": "Fuwa Fuwa",
         "url": "https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3"
       },
@@ -6444,6 +6426,24 @@
       "duration_ms": 206400,
       "name": "Fuwa Fuwa",
       "url": "https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo"
+    },
+    {
+      "album": {
+        "name": "\u67d4\u8edf\u5264DOPE",
+        "url": "https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206566,
+      "name": "Fuwa Fuwa",
+      "url": "https://open.spotify.com/track/5pgmzxy4ZKqHBXwtErA8pV"
     },
     {
       "album": {

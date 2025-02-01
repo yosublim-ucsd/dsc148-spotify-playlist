@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195572,
       "name": "300 no 7",
       "url": "https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto (feat. Veigh & Niink)",
       "url": "https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 150992,
       "name": "Amigo Da Minha Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 154727,
       "name": "Body Splash - Ao Vivo",
       "url": "https://open.spotify.com/track/1AM8pZn5uY89vkItAH5bm3"
@@ -2319,6 +2319,28 @@
     },
     {
       "album": {
+        "name": "Dia 1 (Vers\u00e3o Forr\u00f3)",
+        "url": "https://open.spotify.com/album/13Vri2HCMUTjMNpCsmqeqH"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174692,
+      "name": "Dia 1 - Vers\u00e3o Forr\u00f3",
+      "url": "https://open.spotify.com/track/6koWqVkAn42qhbUITr4lxi"
+    },
+    {
+      "album": {
         "name": "Dia de Fluxo",
         "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
       },
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 134000,
       "name": "E A\u00ed Como Que T\u00e1 ?",
       "url": "https://open.spotify.com/track/44BehH5rk8B5K4OtRxqpez"
@@ -2892,7 +2914,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137272,
       "name": "ESCADA DO PR\u00c9DIO",
       "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
@@ -3157,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "Retr\u00f4, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tlIwC64SXmEK3dR2fRnCc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185521,
+      "name": "Farra da Marcinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/69DenmsFlfhs6yPhkJg382"
+    },
+    {
+      "album": {
         "name": "Faz um Vuk Vuk (Teto Espelhado)",
         "url": "https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H"
       },
@@ -3202,6 +3246,28 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
+        "name": "Fechando o Circo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XE2K6nUxUPazElDJuNBuk"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134159,
+      "name": "Fechando o Circo - Ao Vivo",
+      "url": "https://open.spotify.com/track/37bToUvlC32varJ3IT4XUE"
     },
     {
       "album": {
@@ -4872,7 +4938,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 141230,
       "name": "MTG PASSA PASSA PRA EU SARRAR",
       "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
@@ -5782,7 +5848,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 144461,
       "name": "PARECE - Ao Vivo",
       "url": "https://open.spotify.com/track/77X5UMAX4FjUx1aOaLqotz"
@@ -6010,10 +6076,32 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188823,
       "name": "Pilantra e Meio",
       "url": "https://open.spotify.com/track/2k7EhDUKXApmeYVew9xeDf"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/3tRFdxNLBgGjiqvqih1nRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        },
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188823,
+      "name": "Pilantra e Meio",
+      "url": "https://open.spotify.com/track/6h3EEYgtIuOjeqQPIC3H37"
     },
     {
       "album": {
@@ -6886,6 +6974,32 @@
       "duration_ms": 172091,
       "name": "SE ARREPENDIMENTO MATASSE - Ao Vivo",
       "url": "https://open.spotify.com/track/5pmQRsVD9qPoF4VXoITPUC"
+    },
+    {
+      "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160846,
+      "name": "Sei Que Tu Me Odeia",
+      "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
     },
     {
       "album": {
@@ -7917,6 +8031,28 @@
     },
     {
       "album": {
+        "name": "Universo",
+        "url": "https://open.spotify.com/album/5GDXm353fnLjCzi2dl4rgZ"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190367,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/0kdLrg7jLzNcfTgL0cdwoN"
+    },
+    {
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
       },
@@ -8167,6 +8303,28 @@
     },
     {
       "album": {
+        "name": "Retr\u00f4, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tlIwC64SXmEK3dR2fRnCc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Raphaela Santos",
+          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Voc\u00ea Lembra - Ao Vivo",
+      "url": "https://open.spotify.com/track/6rMteVnxuGa7Dixs0SPW4l"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -8310,7 +8468,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 190380,
       "name": "\u00c9 Que Eu Sofri Demais",
       "url": "https://open.spotify.com/track/6Hp39ODlBU7yusKfv3s0zP"
@@ -8426,6 +8584,28 @@
       "duration_ms": 150449,
       "name": "\u00daltima Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/4y93vvzu2h8MITw7YyUTcI"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Vez (Ao Vivo)",
+        "url": "https://open.spotify.com/album/418ct2fwwJyZDUF2mmJnMD"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145541,
+      "name": "\u00daltima Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WzgvHWoHNZTVigfgCyiDR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKzoK95AbRy9"

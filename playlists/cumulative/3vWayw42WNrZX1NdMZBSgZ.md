@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Tiago IORC &amp; Kany Garcia
+> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Pedro Capó
 
-861 songs - 1 day 21 hr 54 min
+863 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Creció La Cuenta](https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Creció La Cuenta](https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh) | 3:33 | 2023-04-12 | 2023-06-01 |
 | [Croketita](https://open.spotify.com/track/2viKn02L839kO9ka0FqCkm) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Croketita](https://open.spotify.com/album/3CjX01NbNniBDmTIhMzWaj) | 2:48 | 2024-10-07 |  |
 | [CRUSH](https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CRUSH](https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf) | 3:53 | 2023-10-27 |  |
+| [CRUZ](https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CRUZ](https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq) | 3:03 | 2025-01-31 |  |
 | [Cuando Me Dé la Gana](https://open.spotify.com/track/2joHNbSdBZtZC5NlEQDUkZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AGUILERA](https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa) | 3:26 | 2022-06-03 | 2023-05-26 |
 | [Cuatro Hielos](https://open.spotify.com/track/7E3HPajHtNdDKzhsw1leJ3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Cuatro Hielos](https://open.spotify.com/album/3Q13UiN37fcQrawW6x7kkx) | 3:23 | 2024-08-09 |  |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-03-24 | 2023-05-26 |
@@ -383,6 +384,7 @@
 | [La Botella](https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 3:06 | 2024-03-29 | 2024-07-03 |
 | [La Bruja](https://open.spotify.com/track/1jYmFEVdOkPfhxuYF5fE7S) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [La Bruja](https://open.spotify.com/album/3wYjwsYatnNrbwTOSAt5AL) | 3:30 | 2022-09-23 | 2023-05-26 |
 | [La Canción Que Llora](https://open.spotify.com/track/2S5F9O4Flxl0dKyjDbMnDl) | [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [La Canción Que Llora](https://open.spotify.com/album/4Pw0vJ5tTi6RvA7I6da9ZS) | 2:08 | 2023-05-05 | 2023-05-31 |
+| [La Carretera](https://open.spotify.com/track/2NvnmIJHPoDLqPIGmoMZS7) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/7gFsnxX16N2ZoPI23SibID) | 3:15 | 2025-01-31 |  |
 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 | 2022-08-16 | 2023-06-03 |
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-11-17 | 2023-05-26 |
 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 | 2022-09-14 | 2023-05-26 |

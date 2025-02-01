@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Calm Skies",
+        "url": "https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ"
+      },
+      "artists": [
+        {
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194796,
+      "name": "Calm Skies",
+      "url": "https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH"
+    },
+    {
+      "album": {
         "name": "Catacea Animals",
         "url": "https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195340,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 133667,
       "name": "Early Forest Serenade",
       "url": "https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV"
@@ -918,6 +936,24 @@
       "duration_ms": 278414,
       "name": "Fleuriste - Meditation",
       "url": "https://open.spotify.com/track/69f7nyk91VrWuNXjAOENML"
+    },
+    {
+      "album": {
+        "name": "Flod",
+        "url": "https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5"
+      },
+      "artists": [
+        {
+          "name": "Caspian Nerida",
+          "url": "https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Flod",
+      "url": "https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM"
     },
     {
       "album": {
@@ -1249,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Go Zone",
+        "url": "https://open.spotify.com/album/3zfaOt4eJCGznSk0RwOvv8"
+      },
+      "artists": [
+        {
+          "name": "Turtle Man.",
+          "url": "https://open.spotify.com/artist/5Gib53WHQDHw7pCPbpH6Pb"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Go Zone",
+      "url": "https://open.spotify.com/track/7dwr8pUzH2PkP37R3yOMAF"
+    },
+    {
+      "album": {
         "name": "Golden Sky",
         "url": "https://open.spotify.com/album/57F1Vi6HQ24RkweWm87Yyt"
       },
@@ -1336,6 +1390,24 @@
       "duration_ms": 197879,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV"
+    },
+    {
+      "album": {
+        "name": "Hum of Nature",
+        "url": "https://open.spotify.com/album/3oHGle3A4HHKCOtR7FcMgG"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Hum of Nature",
+      "url": "https://open.spotify.com/track/6xZZPNVplKrbBbummb1VrS"
     },
     {
       "album": {
@@ -2423,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "Scots Pine",
+        "url": "https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171305,
+      "name": "Scots Pine",
+      "url": "https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h"
+    },
+    {
+      "album": {
         "name": "Secrets of the Forest",
         "url": "https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433"
       },
@@ -2600,7 +2690,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 169163,
       "name": "Skygazer",
       "url": "https://open.spotify.com/track/58O4KUkOrPi7fOBmGRaOpv"
@@ -2964,10 +3054,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 148000,
       "name": "Theta Forest Bath 114-118 Hz",
       "url": "https://open.spotify.com/track/45y0L5NIzj9jot9exjjXvw"
+    },
+    {
+      "album": {
+        "name": "Thorns of Life",
+        "url": "https://open.spotify.com/album/1WZAh7SNiSuPIVH4B8PE5m"
+      },
+      "artists": [
+        {
+          "name": "Lula Dreamer",
+          "url": "https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263999,
+      "name": "Thorns of Life",
+      "url": "https://open.spotify.com/track/0hnmVaXmMT3F9LalPEkEYJ"
     },
     {
       "album": {
@@ -3234,7 +3342,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 158000,
       "name": "Willow",
       "url": "https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp"
@@ -3270,7 +3378,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 148615,
       "name": "Woodland Bath",
       "url": "https://open.spotify.com/track/2ZvX4lwsVoODY65iuuebZX"

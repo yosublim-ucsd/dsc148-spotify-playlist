@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-298 songs - 18 hr 26 min
+299 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All This Time](https://open.spotify.com/track/7sCjuA6HWsFzPt4KvM1w6J) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [All This Time](https://open.spotify.com/album/2x0tgivEmpZRjEI2F3NQt9) | 3:34 | 2024-05-17 | 2024-10-12 |
 | [Alright](https://open.spotify.com/track/7eesGl3Q4HJrPQ6j6DGob9) | [LUXXURY](https://open.spotify.com/artist/562q9ntuNSaVyt1bvPa77z) | [Alright](https://open.spotify.com/album/4orSRxzSk8phgNzUvXhR22) | 3:26 | 2022-07-08 | 2023-03-04 |
 | [Another Day Gone](https://open.spotify.com/track/1JZDE8ZhpxlWYy1r09vjDe) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq), [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [Another Day Gone](https://open.spotify.com/album/70aBKFu1NTqccXTHPVr682) | 3:37 | 2022-09-30 | 2024-03-23 |
+| [Are You Bad Or Not?](https://open.spotify.com/track/4yhwd5qPo0KZfKjNPiQEWl) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Are You Bad Or Not?](https://open.spotify.com/album/3pMgFuVJZhE97yUU8rzZxd) | 1:54 | 2025-01-31 |  |
 | [Back On The Market](https://open.spotify.com/track/101VG9VldAUT9IBb5HmZkK) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Diva Of The People](https://open.spotify.com/album/3YtYblPnkxihBxr4hjDjhk) | 4:30 | 2024-09-06 |  |
 | [Back to You](https://open.spotify.com/track/5SIqGf6nEnGaUDrCX2hIDd) | [Bazza Ranks](https://open.spotify.com/artist/7EUQfwlMtkjAf9Gp7oxGIV), [Turnstyle](https://open.spotify.com/artist/1FcfLoKSTD6x8z6Xj0SE2n), [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy) | [Back To You](https://open.spotify.com/album/2gTkzjTfLj6rLfLuo63zgJ) | 3:44 | 2023-11-10 |  |
 | [Begin Again \- Single Edit](https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Begin Again](https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21) | 3:37 | 2023-04-14 | 2023-05-13 |
@@ -43,7 +44,7 @@
 | [Celebrate \- Radio Edit](https://open.spotify.com/track/5dEk9sFFB5jpi2RWXKep3Z) | [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [Sheree Hicks](https://open.spotify.com/artist/79dkWGNPlut8iOyyqPw9Ru) | [Celebrate \(Radio Edit\)](https://open.spotify.com/album/3QIlKE97catBOG2cz5Pan4) | 3:34 | 2023-11-10 |  |
 | [Celebrities](https://open.spotify.com/track/4ZUrFcdrdXge2KavbwF1QG) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Celebrities](https://open.spotify.com/album/0HQYwb8lUcmwfYjtlpT2t0) | 2:34 | 2023-04-07 |  |
 | [Chain Reaction](https://open.spotify.com/track/0AKaQvBIQ2hyFWZ5OUHaii) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Chain Reaction](https://open.spotify.com/album/1RTA4XUMyit5gXC2Jkmd0f) | 4:09 | 2021-10-01 | 2022-11-05 |
-| [Change Your Mind](https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Change Your Mind](https://open.spotify.com/album/4InKmaH0ORYbiXCaHo8hSg) | 5:56 | 2023-01-27 |  |
+| [Change Your Mind](https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Change Your Mind](https://open.spotify.com/album/4InKmaH0ORYbiXCaHo8hSg) | 5:56 | 2023-01-27 | 2025-02-01 |
 | [Changed For The Better \- Disco Version](https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Night Versions](https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc) | 4:34 | 2024-10-04 |  |
 | [Children](https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Children](https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t) | 3:41 | 2021-10-15 | 2023-02-18 |
 | [Children \(What Time It Is\)](https://open.spotify.com/track/62mKCfQX5J2nnEq8lSwuOX) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Children \(What Time It Is\)](https://open.spotify.com/album/5OOn9cixybs44lmmeFx4GI) | 3:41 | 2023-10-13 |  |

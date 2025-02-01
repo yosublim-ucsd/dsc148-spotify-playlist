@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 506588,
+  "num_followers": 506808,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Crecia",
         "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2067,18 +2067,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Mente Gitana",
-        "url": "https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY"
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 213818,
-      "name": "Mente Gitana",
-      "url": "https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx"
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2111,26 +2119,18 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
+        "name": "Mente Gitana",
+        "url": "https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY"
       },
       "artists": [
         {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         }
       ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
+      "duration_ms": 213818,
+      "name": "Mente Gitana",
+      "url": "https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx"
     },
     {
       "added_at": "2024-03-08 16:14:30",

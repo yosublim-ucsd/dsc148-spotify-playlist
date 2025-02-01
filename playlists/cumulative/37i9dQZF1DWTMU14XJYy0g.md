@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre\. Foto: Turf
+> Más vivo que nunca, más nuestro que siempre\. Foto: Fito Paez
 
-340 songs - 21 hr 7 min
+341 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 | 2023-06-02 | 2023-09-02 |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 | 2023-09-27 |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-21 |  |
+| [Cuando el Circo Llega al Pueblo](https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL) | 3:17 | 2025-01-31 |  |
 | [Cuchillos y Escudos](https://open.spotify.com/track/4Kr7A6YCXPcsjGy4iPpOYU) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Cuchillos y Escudos](https://open.spotify.com/album/5a63Im2wu5TKzoPsf8zbNn) | 3:54 | 2024-04-12 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
 | [Dale Angelito](https://open.spotify.com/track/3oEGswg4NkoxtoDyDshBCn) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Dale Angelito](https://open.spotify.com/album/45H9ccDS5ocqhQU75km44B) | 4:10 | 2024-12-20 |  |
@@ -113,7 +114,7 @@
 | [En este barco](https://open.spotify.com/track/5B01Fnm4PeiufRUSnmhqC4) | [Arbolito](https://open.spotify.com/artist/7pa4Z64S1qU90QytnRJgoJ) | [En este barco](https://open.spotify.com/album/5udDSHfYBJMpvQ6O6ZufQu) | 4:02 | 2023-06-02 | 2023-06-17 |
 | [En la Vereda del Sol](https://open.spotify.com/track/4cyCrbeYfe7xEozbfG2n23) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En la Vereda del Sol](https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F) | 3:41 | 2022-07-08 |  |
 | [En Redondel](https://open.spotify.com/track/5D6vcVOKAzLeJ5zRfW6nGL) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [En Redondel](https://open.spotify.com/album/1VfGbyob5VJXF8D5AtH3GR) | 4:23 | 2022-06-24 | 2024-06-08 |
-| [Encantan](https://open.spotify.com/track/4GrxCRx9CbGqTGqXqUfG8X) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Un Mar de Soles Rojos](https://open.spotify.com/album/6QglGhUVduN4MC8BFzBP6O) | 4:03 | 2022-09-09 |  |
+| [Encantan](https://open.spotify.com/track/4GrxCRx9CbGqTGqXqUfG8X) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Un Mar de Soles Rojos](https://open.spotify.com/album/6QglGhUVduN4MC8BFzBP6O) | 4:03 | 2022-09-09 | 2025-02-01 |
 | [Encuentro Con un Ángel Amateur \- En Vivo](https://open.spotify.com/track/0tyUt9J9teuyBsuZqaeKWh) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Encuentro Con un Ángel Amateur \(En Vivo\)](https://open.spotify.com/album/4gt3JKDF9BbTsJb1Np8PSp) | 3:33 | 2022-06-24 | 2023-09-27 |
 | [Encuentros Cercanos](https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 4:26 | 2022-06-24 | 2023-04-29 |
 | [Es Clara](https://open.spotify.com/track/4qjbWPK08sOcDls6mURNSu) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Clara](https://open.spotify.com/album/01AWewQ88qLqXKxHinZf6y) | 3:47 | 2023-07-28 |  |

@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring Rose Gray
+> Celebrating women at the center of innovation in electronic music\. Featuring FKA twigs
 
-506 songs - 1 day 8 hr 3 min
+509 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [All My Friends Are Hot](https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [All My Friends Are Hot](https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0) | 2:59 | 2024-06-07 |  |
 | [All my friends know \- Anz Remix](https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 5:11 | 2022-03-08 | 2023-03-08 |
 | [All Of Me](https://open.spotify.com/track/07H6zHibXp6CkzTiRoc5Nh) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [All Of Me](https://open.spotify.com/album/2yPbsIMTxSlmO4AW2w89Yd) | 3:17 | 2024-03-01 | 2024-06-08 |
-| [all these little words](https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [all these little words](https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ) | 2:17 | 2024-06-24 |  |
+| [all these little words](https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [all these little words](https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ) | 2:17 | 2024-06-24 | 2025-02-01 |
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-05-31 | 2024-09-07 |
 | [AMNESIA](https://open.spotify.com/track/6YkdntnOfV8pzUkPhIzz2w) | [heynat](https://open.spotify.com/artist/6DOHWRB8ilr8mOJN5DKOVl) | [AMNESIA](https://open.spotify.com/album/1QfmD8pxQPt9OwY2G08iVN) | 2:07 | 2024-09-06 | 2024-11-23 |
 | [Apollo](https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T) | 7:00 | 2023-03-07 | 2024-03-02 |
@@ -86,9 +86,9 @@
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-03-07 | 2024-03-02 |
 | [Clearly Rushing](https://open.spotify.com/track/6XySYT472SweJ5kSOr3aFC) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Clearly Rushing](https://open.spotify.com/album/2caDuxe2VEqkt2Xq17ekF2) | 3:20 | 2024-03-01 | 2024-03-30 |
 | [Close To You](https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Close To You](https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ) | 2:52 | 2024-05-17 | 2024-08-24 |
-| [Close to You](https://open.spotify.com/track/6A0V9bTkmRYCsGtbg1MuN9) | [Pina Tesla](https://open.spotify.com/artist/4cdNLTbg5gmVILlui2cIFB) | [Beyond Physics](https://open.spotify.com/album/67H1LhhFdyYflclhcWKZ7z) | 5:30 | 2024-10-11 |  |
+| [Close to You](https://open.spotify.com/track/6A0V9bTkmRYCsGtbg1MuN9) | [Pina Tesla](https://open.spotify.com/artist/4cdNLTbg5gmVILlui2cIFB) | [Beyond Physics](https://open.spotify.com/album/67H1LhhFdyYflclhcWKZ7z) | 5:30 | 2024-10-11 | 2025-02-01 |
 | [Club classics featuring bb trickz](https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:54 | 2024-10-11 | 2024-11-16 |
-| [Coconut Water](https://open.spotify.com/track/2DSWwPZYH00L6NYQBxe6Uf) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Coconut Water](https://open.spotify.com/album/5NghVRPpgs6d7GXEBsk22G) | 3:24 | 2024-12-06 |  |
+| [Coconut Water](https://open.spotify.com/track/2DSWwPZYH00L6NYQBxe6Uf) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Coconut Water](https://open.spotify.com/album/5NghVRPpgs6d7GXEBsk22G) | 3:24 | 2024-12-06 | 2025-02-01 |
 | [Come Back Home](https://open.spotify.com/track/2qTZLwkM28xYCCPpLVsoba) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Come Back Home](https://open.spotify.com/album/7218sq4IjCey3jaEvEq7ot) | 4:03 | 2024-03-01 | 2024-04-19 |
 | [Come My Way](https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K) | [Dana Lu](https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj), [Taina Rain](https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz) | [Worldwide Link\-Up](https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO) | 2:48 | 2024-03-01 |  |
 | [Come Thru](https://open.spotify.com/track/0hn8lFibQnnruBtfjOTmTO) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:17 | 2024-06-28 | 2025-01-25 |
@@ -378,6 +378,7 @@
 | [Right Here](https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Right Here](https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp) | 3:49 | 2024-05-17 | 2025-01-11 |
 | [Right Spot](https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Right Spot](https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0) | 2:50 | 2024-03-29 | 2024-05-18 |
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-04-19 | 2024-06-25 |
+| [Room Of Fools](https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:25 | 2025-01-31 |  |
 | [Rosa](https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Rosa](https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy) | 2:51 | 2024-03-01 | 2024-06-18 |
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-03-01 | 2022-07-29 |
 | [Rotating In Unison](https://open.spotify.com/track/3Ehu6JzePF1MksnKJda1cL) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC) | 5:01 | 2022-03-08 | 2023-03-08 |
@@ -418,6 +419,7 @@
 | [Start Over \- Album Edit](https://open.spotify.com/track/6NiUjNWHzjvPWLwvXQrFdU) | [VONDA7](https://open.spotify.com/artist/0Glk45UpQ9Tz1yp6GvhUBM) | [Start Over](https://open.spotify.com/album/7vKiOU01DT6ZkwRaelLlOn) | 4:27 | 2021-03-01 | 2023-03-08 |
 | [Statues](https://open.spotify.com/track/0FwofbwNN7OIlackHsjnCz) | [Val Fleury](https://open.spotify.com/artist/2Ql2PvnHtaP4FL8nI13mSv) | [Statues](https://open.spotify.com/album/4wUcF3CL2LGlmJP1vmWcZn) | 4:01 | 2024-03-01 | 2024-05-03 |
 | [Stick Around](https://open.spotify.com/track/6qXb2XLxORRLTXIBa30nHZ) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Stick Around](https://open.spotify.com/album/6Q7TozLPNkSJFfMH1GawgN) | 3:10 | 2024-05-24 | 2024-08-10 |
+| [Sticky](https://open.spotify.com/track/3Si0hc3hxlehGK53jYjgVF) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:57 | 2025-01-31 |  |
 | [still?](https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [still?](https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h) | 3:07 | 2024-03-15 | 2024-08-17 |
 | [Stingray Shuffle](https://open.spotify.com/track/0NRQU03YgYNli44FANtQDN) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/7JsfdXH01XsWF2uVqvpPOk) | 2:43 | 2022-03-08 | 2024-03-02 |
 | [Stingray Shuffle](https://open.spotify.com/track/2J09O7CPiXmSpdoPMRJGTq) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/06w1pVdYAlr4Bg1czQZ5fu) | 2:43 | 2021-03-01 | 2022-07-29 |
@@ -443,6 +445,7 @@
 | [TASTY](https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 2:24 | 2021-03-01 | 2023-03-08 |
 | [Taurus \- Edit](https://open.spotify.com/track/3KCt7n8V8ExJENNTOD24BL) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [Taurus \(Edit\)](https://open.spotify.com/album/5XM05960qgIsD1LU9dEJtW) | 3:18 | 2024-04-26 | 2024-07-25 |
 | [Tempelhof](https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Movimiento](https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI) | 5:33 | 2024-06-07 | 2024-10-12 |
+| [TEMPO](https://open.spotify.com/track/6onDQO5YoJX83RzAV2m0wN) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [TEMPO](https://open.spotify.com/album/4ycWtoMMvLwccXEjXxpmeh) | 3:14 | 2025-01-31 |  |
 | [The Cycle](https://open.spotify.com/track/768m6Ckgon2o15cceVVuuV) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [The Cycle](https://open.spotify.com/album/5OVbv5PBbJ97x5sWqcg3eF) | 3:44 | 2024-03-01 | 2024-05-18 |
 | [The Danger](https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/432bdHnwL1efoKDkSdROUz) | 2:27 | 2024-04-19 | 2024-04-27 |
 | [The Danger](https://open.spotify.com/track/1virgARM9gdMB8kUWX46B0) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/7FK9DwGJvYlLuT78hXgcer) | 2:27 | 2024-03-01 | 2024-04-19 |

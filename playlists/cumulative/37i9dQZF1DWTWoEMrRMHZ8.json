@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: 5 a seco",
+  "description": "As belas novidades da MPB. Foto: T\u00f3 Brandileone, ANAVIT\u00d3RIA",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 205533,
       "name": "A For\u00e7a",
       "url": "https://open.spotify.com/track/3aKm1sKmqCcfrl6gCihFhG"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 186700,
       "name": "ARRASTO",
       "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193034,
       "name": "Bem Humorado",
       "url": "https://open.spotify.com/track/4R1ER60t5dJKc3l1PAuXuS"
@@ -4289,6 +4289,28 @@
     },
     {
       "album": {
+        "name": "Deixa de Brincadeira",
+        "url": "https://open.spotify.com/album/53aSk8NUasHQ3ySnO4FriS"
+      },
+      "artists": [
+        {
+          "name": "MAO di Sampa",
+          "url": "https://open.spotify.com/artist/1vVeEPclsJQbh16uPrral2"
+        },
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Deixa de Brincadeira",
+      "url": "https://open.spotify.com/track/3Tf4wqYk2Gu5ZizjYGE5xY"
+    },
+    {
+      "album": {
         "name": "Olho D'\u00c1gua",
         "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
@@ -4765,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "50 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
+      },
+      "artists": [
+        {
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263014,
+      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
+    },
+    {
+      "album": {
         "name": "Do Acaso",
         "url": "https://open.spotify.com/album/3LyypTwqJAdyo78uTm6Hg6"
       },
@@ -4922,7 +4962,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 332868,
       "name": "Dora",
       "url": "https://open.spotify.com/track/4Szb386es2OZQPo0wRsP8l"
@@ -5164,6 +5204,28 @@
       "duration_ms": 244600,
       "name": "Ela (Cita\u00e7\u00e3o a Menina Dan\u00e7a)",
       "url": "https://open.spotify.com/track/6fJijNhTg47mEoRwEjb0oQ"
+    },
+    {
+      "album": {
+        "name": "JV30 Tour Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342150,
+      "name": "Ela Une Todas as Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
     },
     {
       "album": {
@@ -8477,6 +8539,28 @@
     },
     {
       "album": {
+        "name": "Me Vestir De Voc\u00ea",
+        "url": "https://open.spotify.com/album/1UNLe36ydBfygdT07cdIJ2"
+      },
+      "artists": [
+        {
+          "name": "Nyron Higor",
+          "url": "https://open.spotify.com/artist/2WYlmnoa3sQwZVX6CYwlsQ"
+        },
+        {
+          "name": "Johanna",
+          "url": "https://open.spotify.com/artist/7tmXS0T1Evaj5cH4WCfGHX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116273,
+      "name": "Me Vestir De Voc\u00ea",
+      "url": "https://open.spotify.com/track/7iVSJXxsP4WUKqEJ8pizMP"
+    },
+    {
+      "album": {
         "name": "\u00c1urea Martins e Jo\u00e3o Senise Celebram Sinatra & Jobim",
         "url": "https://open.spotify.com/album/0EfJaMIyZdwDmqmQ968t1b"
       },
@@ -9176,7 +9260,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 168559,
       "name": "Mundo Livre",
       "url": "https://open.spotify.com/track/750UCyeKNcmpRQmJ2ZmPgR"
@@ -10502,7 +10586,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 202806,
       "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
       "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
@@ -11949,6 +12033,32 @@
     },
     {
       "album": {
+        "name": "Pote D'\u00c1gua",
+        "url": "https://open.spotify.com/album/2hf5j7Y5mt0cE37GsEwfdg"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Lourimbau",
+          "url": "https://open.spotify.com/artist/2DADvBzRBVfGLburXTOb7y"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208074,
+      "name": "Pote D'\u00c1gua",
+      "url": "https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA"
+    },
+    {
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -11990,10 +12100,28 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185250,
       "name": "Pouca Bobagem",
       "url": "https://open.spotify.com/track/6HuTblOraBoMTQ6BCbLgiX"
+    },
+    {
+      "album": {
+        "name": "Pra Dizer",
+        "url": "https://open.spotify.com/album/15b0Pn1L8vALk89rnQNzln"
+      },
+      "artists": [
+        {
+          "name": "Felipe Barros",
+          "url": "https://open.spotify.com/artist/4rSVtarf8lyE09Sg2awDy5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175626,
+      "name": "Pra Dizer",
+      "url": "https://open.spotify.com/track/0VfxRBK6mIhqJZF1kdF0zg"
     },
     {
       "album": {
@@ -12172,6 +12300,32 @@
       "duration_ms": 223146,
       "name": "Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/7liHoUtzVaTmU9jbsUlEzf"
+    },
+    {
+      "album": {
+        "name": "Praia do Futuro",
+        "url": "https://open.spotify.com/album/24izpsE4XkFEwNRoauYBPg"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321115,
+      "name": "Praia do Futuro",
+      "url": "https://open.spotify.com/track/78HsMq1JAmcODsD2jvfXyc"
     },
     {
       "album": {
@@ -12790,7 +12944,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 140958,
       "name": "Quem Nos Dera",
       "url": "https://open.spotify.com/track/7CExS7KbwVINZ1diUiGXE8"
@@ -13636,6 +13790,28 @@
       "duration_ms": 236522,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
+    },
+    {
+      "album": {
+        "name": "Ao Persistirem os Sintomas",
+        "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3 Brandileone",
+          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Salto",
+      "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
     },
     {
       "album": {
@@ -14802,6 +14978,24 @@
       "duration_ms": 167713,
       "name": "Sou Eu Que Vou Trabalhar",
       "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
+    },
+    {
+      "album": {
+        "name": "Sou Fera",
+        "url": "https://open.spotify.com/album/2QcCVGNR3XKvYOHhCGjHao"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246875,
+      "name": "Sou Fera",
+      "url": "https://open.spotify.com/track/0HxX5p4HIO4pULJkCRbbqX"
     },
     {
       "album": {
@@ -16417,6 +16611,32 @@
     },
     {
       "album": {
+        "name": "Um Triz",
+        "url": "https://open.spotify.com/album/3NUebQrHVZGIiKMd4KAEq3"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Tatiana Parra",
+          "url": "https://open.spotify.com/artist/4UPAR5j8CLFlb68v9KFiZV"
+        },
+        {
+          "name": "Ot\u00e1vio Toledo",
+          "url": "https://open.spotify.com/artist/0urNub4uP9SqK6JYZuDEbd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224908,
+      "name": "Um Triz",
+      "url": "https://open.spotify.com/track/2902oGw1QmvUqjVA6xkBcL"
+    },
+    {
+      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
         "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
       },
@@ -16472,7 +16692,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 159434,
       "name": "Uma nova hist\u00f3ria",
       "url": "https://open.spotify.com/track/2KHtLExG4RWkxSa9uzSBmF"
@@ -17384,7 +17604,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217525,
       "name": "\u00c9 Hora",
       "url": "https://open.spotify.com/track/5AmkIw8rvELi7RL3QVafnv"

@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1786165,
+  "num_followers": 1786723,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "Dusk And Summer",
-        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Vindicated",
-      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "Boys Like Girls",
         "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 206520,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "Dusk And Summer",
+        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Vindicated",
+      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Stare At The Sun",
-      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "Everything In Transit",
         "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 194440,
       "name": "The Mixed Tape - 2015 Remastered",
       "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+        "name": "I Am The Movie",
+        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
         }
       ],
-      "duration_ms": 186893,
-      "name": "L.G. FUAD",
-      "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
+      "duration_ms": 200200,
+      "name": "My Favorite Accident",
+      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "I Am The Movie",
-        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
         }
       ],
-      "duration_ms": 200200,
-      "name": "My Favorite Accident",
-      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
+      "duration_ms": 186893,
+      "name": "L.G. FUAD",
+      "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "For All Of This",
-        "url": "https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk"
-      },
-      "artists": [
-        {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
-        }
-      ],
-      "duration_ms": 210053,
-      "name": "I Want To Hear You Sad",
-      "url": "https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "Keep Doing What You're Doing",
         "url": "https://open.spotify.com/album/6CIF1X6UWZeUzsOEv1GzpH"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 159931,
       "name": "Match & Tinder",
       "url": "https://open.spotify.com/track/1M5F0iablulCzXqiFSyRHI"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "For All Of This",
+        "url": "https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "duration_ms": 210053,
+      "name": "I Want To Hear You Sad",
+      "url": "https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "Beneath Medicine Tree",
-        "url": "https://open.spotify.com/album/2A3RTuMZ7RgGmcvTSpRe6A"
-      },
-      "artists": [
-        {
-          "name": "Copeland",
-          "url": "https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/3kfAwtNyAYduUt1jhxDKZQ"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "Maybe This Place Is The Same And We're Just Changing",
         "url": "https://open.spotify.com/album/15hosvWOCdHKAhXNomH9Ln"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 201577,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6IJPRTfpS3CkUy67iNCnIg"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "Beneath Medicine Tree",
+        "url": "https://open.spotify.com/album/2A3RTuMZ7RgGmcvTSpRe6A"
+      },
+      "artists": [
+        {
+          "name": "Copeland",
+          "url": "https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN"
+        }
+      ],
+      "duration_ms": 286066,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/3kfAwtNyAYduUt1jhxDKZQ"
     },
     {
       "added_at": "2025-01-17 01:36:25",

@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: La T & La M & Lauty Gram.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Peipper y Roze Oficial
 
-613 songs - 1 day 6 hr 28 min
+614 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Cuando Baila](https://open.spotify.com/track/3GE0n3hIazM0BGBSbDTer1) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Cuando Baila](https://open.spotify.com/album/6JKsJRQSeJRvn1LQakdxC1) | 2:23 | 2023-07-28 | 2023-08-05 |
 | [CUANDO SALE EL SOL](https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [CUANDO SALE EL SOL](https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI) | 2:56 | 2023-12-15 | 2024-05-25 |
 | [Cuando Se Pone a Bailar](https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Cuando Se Pone a Bailar](https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX) | 3:15 | 2021-12-23 |  |
+| [Culpable](https://open.spotify.com/track/47MMJy4ZaE28ApRUipoddu) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Culpable](https://open.spotify.com/album/6T85XAZkuYE9NqkMzMfdF2) | 2:51 | 2025-01-31 |  |
 | [Culpable o No](https://open.spotify.com/track/0PNkST00gopYa35OLKfju2) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Culpable o No](https://open.spotify.com/album/7cpSPJeI3YMC56xp7lsz19) | 2:17 | 2021-12-23 | 2022-05-07 |
 | [Cumbia Cheta](https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Cami Raj](https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ) | [Cumbia Cheta](https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn) | 2:31 | 2023-11-23 |  |
 | [Cumbia Con Soda \- En Vivo](https://open.spotify.com/track/2jW6blJZO7ZgBICluafKRl) | [Pasto Seco](https://open.spotify.com/artist/5il1LfQizqVTfjSzhi1bt7) | [Cumbia Con Soda \(En Vivo\)](https://open.spotify.com/album/70luQUrkuFFdxBtmUe7GkK) | 3:32 | 2022-06-17 | 2022-07-02 |
@@ -373,7 +374,7 @@
 | [NO VUELVO A CAER](https://open.spotify.com/track/71mPUsIl4zcHwiJKYB24op) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [NO VUELVO A CAER](https://open.spotify.com/album/43UowDzr6bGW5PT5gMyu7Y) | 2:24 | 2023-11-24 | 2024-09-07 |
 | [Noche de Buenos Besos](https://open.spotify.com/track/6ILIhq9LFEVu3k2casEiQB) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Dj Ronel](https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Noche de Buenos Besos](https://open.spotify.com/album/4EkbDtwqjpDjip1JalgQlO) | 2:26 | 2024-10-04 |  |
 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 | 2021-12-23 |  |
-| [Noche Fría](https://open.spotify.com/track/36E9wb5dk5uLwb20L5g81m) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Noche Fría](https://open.spotify.com/album/2GCWhv07264jkFMVI0NCX3) | 3:04 | 2024-10-11 |  |
+| [Noche Fría](https://open.spotify.com/track/36E9wb5dk5uLwb20L5g81m) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Noche Fría](https://open.spotify.com/album/2GCWhv07264jkFMVI0NCX3) | 3:04 | 2024-10-11 | 2025-02-01 |
 | [Noche Loca](https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:58 | 2021-12-23 |  |
 | [Nos Cruzamos \- Remix](https://open.spotify.com/track/32DYZt0ENPQd7eZSn3FRaI) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w) | [Nos Cruzamos \(Remix\)](https://open.spotify.com/album/46syaxlh6zk48mEIWLO47Z) | 2:15 | 2024-04-19 | 2024-06-08 |
 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 | 2022-12-23 | 2023-10-23 |

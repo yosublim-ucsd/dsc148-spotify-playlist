@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Killswitch Engage on top of today's best Metal playlist.",
+  "description": "All That Remains on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 510013,
       "name": "Am\u00e9thyste",
       "url": "https://open.spotify.com/track/5i7bzDgRehQfktqxu7xHqV"
@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Cross The Divide",
+        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258209,
+      "name": "Cross the Divide",
+      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
+    },
+    {
+      "album": {
         "name": "Crosses (feat. Spencer Chamberlain of Underoath)",
         "url": "https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv"
       },
@@ -4297,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "Du\u00e9l",
+        "url": "https://open.spotify.com/album/4HyB0J8FeoBzdGT12ZaPVN"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Du\u00e9l",
+      "url": "https://open.spotify.com/track/71X2JVYR4k6iZvdDByQL6w"
+    },
+    {
+      "album": {
         "name": "Dying Life",
         "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
       },
@@ -4612,6 +4648,24 @@
       "duration_ms": 221000,
       "name": "Eternal Spirits",
       "url": "https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg"
+    },
+    {
+      "album": {
+        "name": "Even If It Kills Me",
+        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212239,
+      "name": "Even If It Kills Me",
+      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
     },
     {
       "album": {
@@ -5316,7 +5370,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 283714,
       "name": "Forever Cold",
       "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
@@ -7360,7 +7414,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 249285,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/5xA7brxtQFDNQBJDyOHHWc"
@@ -7400,6 +7454,24 @@
       "duration_ms": 257798,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
+    },
+    {
+      "album": {
+        "name": "AntiFragile",
+        "url": "https://open.spotify.com/album/3IFjSlXvV4NUaT8oj4jfS2"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263622,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/7zt0lB2yZxjkfr2T224gHZ"
     },
     {
       "album": {
@@ -7984,7 +8056,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 191120,
       "name": "Lower Purpose",
       "url": "https://open.spotify.com/track/4qZXF8cijXbF3RTRRnwHRe"
@@ -8121,6 +8193,24 @@
     },
     {
       "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt"
+    },
+    {
+      "album": {
         "name": "Remade In Misery",
         "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
       },
@@ -8186,7 +8276,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 233624,
       "name": "Mammoth's Hand",
       "url": "https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M"
@@ -8414,7 +8504,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 218000,
       "name": "MelancHoly",
       "url": "https://open.spotify.com/track/4GwnngTJG91SbjbAC541wx"
@@ -8494,6 +8584,24 @@
       "duration_ms": 186129,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq"
+    },
+    {
+      "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
       "album": {
@@ -8696,7 +8804,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 192611,
       "name": "nerv",
       "url": "https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4"
@@ -8946,7 +9054,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 361130,
       "name": "Night Terror - Radio Edit",
       "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
@@ -11208,7 +11316,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 212205,
       "name": "Severance",
       "url": "https://open.spotify.com/track/1WseyLAfQ6qxGqwE1yUM3T"
@@ -11454,6 +11562,24 @@
       "duration_ms": 235261,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4CBdaNfqAK3CNkGtf1I6dE"
+    },
+    {
+      "album": {
+        "name": "Silver Swarm",
+        "url": "https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273524,
+      "name": "Silver Swarm",
+      "url": "https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR"
     },
     {
       "album": {
@@ -13639,6 +13765,24 @@
     },
     {
       "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
+    },
+    {
+      "album": {
         "name": "Absolute Elsewhere",
         "url": "https://open.spotify.com/album/7hriIeLMviZKpNfcXgpsd8"
       },
@@ -14200,6 +14344,24 @@
       "duration_ms": 146079,
       "name": "Torn From Your Silhouette",
       "url": "https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L"
+    },
+    {
+      "album": {
+        "name": "Trembling Level",
+        "url": "https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "Trembling Level",
+      "url": "https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes"
     },
     {
       "album": {

@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 471107,
       "name": "Aquele Que Beber - Ao Vivo",
       "url": "https://open.spotify.com/track/76LY8H66amFMZ4NedxAa8W"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 229297,
       "name": "Chega De Viver Com Medo - Espont\u00e2neo",
       "url": "https://open.spotify.com/track/6fCmIhmUoTDQFNAVDr8ydI"
@@ -2044,6 +2044,24 @@
       "duration_ms": 450560,
       "name": "Enche-me - Ao Vivo",
       "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj"
+      },
+      "artists": [
+        {
+          "name": "Jeyzer Maia",
+          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273734,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9"
     },
     {
       "album": {
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 255285,
       "name": "J\u00e1 Venci",
       "url": "https://open.spotify.com/track/0UfVSKatijzq6kluKkfRid"
@@ -4160,7 +4178,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 346000,
       "name": "Nissi",
       "url": "https://open.spotify.com/track/5JMEZTrbD5YmqBilK7SUeT"
@@ -4741,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "O Senhor, n\u00e3o os \u00eddolos",
+        "url": "https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk"
+      },
+      "artists": [
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618059,
+      "name": "O Senhor, n\u00e3o os \u00eddolos",
+      "url": "https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB"
+    },
+    {
+      "album": {
         "name": "O Tamanho da Tua Dor",
         "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
       },
@@ -5098,6 +5134,28 @@
       "duration_ms": 330220,
       "name": "Peregrino - Ao vivo",
       "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+    },
+    {
+      "album": {
+        "name": "Perfeito Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hgoZyP0leG6t0xzaf5FrS"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304426,
+      "name": "Perfeito Amor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5AQlWBv431Lbhj9ASZ3KZp"
     },
     {
       "album": {
@@ -5640,7 +5698,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 256161,
       "name": "Raridade (Releitura)",
       "url": "https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th"
@@ -6611,6 +6669,32 @@
     },
     {
       "album": {
+        "name": "Teus Altares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4VUyhWsEBtbEWYLLoYDLRH"
+      },
+      "artists": [
+        {
+          "name": "Poiema Music",
+          "url": "https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf"
+        },
+        {
+          "name": "Andr\u00e9 Brisa",
+          "url": "https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun"
+        },
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497272,
+      "name": "Teus Altares - Ao Vivo",
+      "url": "https://open.spotify.com/track/0iN5UdqsMdOV1ODLrTYyLT"
+    },
+    {
+      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -7190,6 +7274,24 @@
       "duration_ms": 398823,
       "name": "Vento Impetuoso",
       "url": "https://open.spotify.com/track/7rV0gKsZndQeQ3OhXxoAGM"
+    },
+    {
+      "album": {
+        "name": "Verdadeira Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Lima",
+          "url": "https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367167,
+      "name": "Verdadeira Adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE"
     },
     {
       "album": {

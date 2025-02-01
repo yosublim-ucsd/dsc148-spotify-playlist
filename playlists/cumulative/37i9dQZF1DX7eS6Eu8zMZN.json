@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Astro (Y Que El Mundo Espere) [B-side]",
+        "url": "https://open.spotify.com/album/1Fnbk82nypEADTWeEgkWYx"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335706,
+      "name": "Astro (Y Que El Mundo Espere) - B-side",
+      "url": "https://open.spotify.com/track/0Bf96DHQYyzeoaZe4CaMIs"
+    },
+    {
+      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -190,7 +212,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 263500,
       "name": "Bolero Falaz",
       "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
@@ -280,7 +302,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 296148,
       "name": "Cuando Pase El Temblor",
       "url": "https://open.spotify.com/track/1oEKw4f4pihhfAkl6pHAVt"
@@ -425,6 +447,28 @@
     },
     {
       "album": {
+        "name": "Dolores Rayo",
+        "url": "https://open.spotify.com/album/5wgyt0hXCIEfcQ17RY4hpm"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        },
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218229,
+      "name": "Dolores Rayo",
+      "url": "https://open.spotify.com/track/14W89BgLXCMD27ZTp9B6K3"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of"
       },
@@ -490,7 +534,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 151764,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11"
@@ -836,7 +880,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 220750,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/6vDU3LYv7ElyyDqghIbYNO"
@@ -944,7 +988,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 232441,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/0mcUQ5mkevgbOpuLDAPTKF"
@@ -1719,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "Quiero Dormir Cansado (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290752,
+      "name": "Quiero Dormir Cansado - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9reme O \u00c1ndate",
         "url": "https://open.spotify.com/album/4wlka6GEj5ZpmS4wkE5pO2"
       },
@@ -2154,7 +2220,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 174813,
       "name": "\u00daltimo D\u00eda",
       "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"

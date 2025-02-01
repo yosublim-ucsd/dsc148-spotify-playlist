@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "7 Dias",
+        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180688,
+      "name": "7 Dias",
+      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+    },
+    {
+      "album": {
         "name": "77",
         "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
       },
@@ -664,6 +686,24 @@
       "duration_ms": 168086,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "album": {
+        "name": "PA'L CORA EP. 02",
+        "url": "https://open.spotify.com/album/21oGI6V204SgNkl2iXmtjQ"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253269,
+      "name": "A Solas con la Botella",
+      "url": "https://open.spotify.com/track/4eOCDe8x4K4bFIhpbtIbfZ"
     },
     {
       "album": {
@@ -2228,7 +2268,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185217,
       "name": "Avi\u00f3n Privado",
       "url": "https://open.spotify.com/track/0znYhe5amMBw6Ug7EzR2Rc"
@@ -2416,7 +2456,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195100,
       "name": "Bachata B\u00e9lica",
       "url": "https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR"
@@ -6341,6 +6381,32 @@
     },
     {
       "album": {
+        "name": "DICIEMBRE",
+        "url": "https://open.spotify.com/album/3HV3chanuZQZ302jOq7C4x"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "DICIEMBRE",
+      "url": "https://open.spotify.com/track/4zTD9DUG5fLc2fP3EJafoV"
+    },
+    {
+      "album": {
         "name": "Dif\u00edcil Tu Caso",
         "url": "https://open.spotify.com/album/4toyhAt9fgtGec8ZacJerj"
       },
@@ -9445,6 +9511,28 @@
     },
     {
       "album": {
+        "name": "Gallos Y Caballos",
+        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158543,
+      "name": "Gallos Y Caballos",
+      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
+    },
+    {
+      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/387ZKmWvAQEtEgypCHU72z"
       },
@@ -9498,7 +9586,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157893,
       "name": "Garreada De Shein (feat. Charly Flames, Starboooy., Alberto Producer, Brau Y Tito)",
       "url": "https://open.spotify.com/track/5eyNqiT0jJbjoq9Qr7XgOV"
@@ -9752,7 +9840,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 123261,
       "name": "GPI",
       "url": "https://open.spotify.com/track/12KKiT4zlAF4nbh4YTuJMB"
@@ -11496,7 +11584,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 177538,
       "name": "La Matraca (Remix)",
       "url": "https://open.spotify.com/track/1umDTlmpNfOjoG0EpS267S"
@@ -11890,7 +11978,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 187200,
       "name": "La Trinidad",
       "url": "https://open.spotify.com/track/43SEzRHiv6GvPg9zOyVrX6"
@@ -12406,6 +12494,32 @@
       "duration_ms": 143753,
       "name": "Ll\u00e9vatelo",
       "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
+    },
+    {
+      "album": {
+        "name": "LMPDGTO",
+        "url": "https://open.spotify.com/album/70ZFuIv9jzQT0tVlQNeQ9w"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "LMPDGTO",
+      "url": "https://open.spotify.com/track/2bHzhgRITAIaZJt3zxe7TY"
     },
     {
       "album": {
@@ -14591,6 +14705,32 @@
     },
     {
       "album": {
+        "name": "Misi\u00f3n S******",
+        "url": "https://open.spotify.com/album/78s2fiZPOZXqHMeXbHbJiR"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107130,
+      "name": "Misi\u00f3n S******",
+      "url": "https://open.spotify.com/track/6XR4OCEF7S6UyI6XkDcLnd"
+    },
+    {
+      "album": {
         "name": "Mismo Amor",
         "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
       },
@@ -15448,7 +15588,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217298,
       "name": "Nena Moxita",
       "url": "https://open.spotify.com/track/240m64g59DMzPCcHZNZ6Ps"
@@ -15812,7 +15952,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 202324,
       "name": "No Fui Yo",
       "url": "https://open.spotify.com/track/3AJAJkOQJwzxaOFjjGommM"
@@ -18555,6 +18695,24 @@
     },
     {
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/0MamCSh5CYI0mJUsPXvWjn"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327120,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/0PGaDIj6NIB2rW7KUW3Yjz"
+    },
+    {
+      "album": {
         "name": "PROBLEMAS",
         "url": "https://open.spotify.com/album/6GCmaOPBfqVLJRk6f2AHaw"
       },
@@ -20982,7 +21140,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206365,
       "name": "Solo Di S\u00ed",
       "url": "https://open.spotify.com/track/5VA6dP1JfkfTqYkQwkVV8c"
@@ -21222,6 +21380,24 @@
       "duration_ms": 259827,
       "name": "Suburbios",
       "url": "https://open.spotify.com/track/1EwMmSJe5rk0Nd0DiD8v6w"
+    },
+    {
+      "album": {
+        "name": "sue\u00f1a lindo, coraz\u00f3n / nuestra casa en el mar",
+        "url": "https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122624,
+      "name": "sue\u00f1a lindo, coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
     },
     {
       "album": {
@@ -21845,6 +22021,28 @@
     },
     {
       "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "album": {
         "name": "Te Vale Madre",
         "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
       },
@@ -21864,6 +22062,32 @@
       "duration_ms": 151600,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
+    },
+    {
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/28XheYO8LENCbxaxnTCEpD"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273191,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/1efCQf19awAV54qzlWJlZF"
     },
     {
       "album": {
@@ -23526,7 +23750,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 146896,
       "name": "Un Pacto",
       "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"

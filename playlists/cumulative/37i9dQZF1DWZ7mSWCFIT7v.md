@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 |  |
+| [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2025-02-01 |
 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 | 2022-12-20 |  |
 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 |  |
 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 | 2021-10-06 | 2022-07-29 |
@@ -203,7 +203,7 @@
 | [Mind Body](https://open.spotify.com/track/7GoJMQInrLcrTD1K19I4HB) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu) | 6:45 | 2021-10-06 | 2022-07-27 |
 | [Mist/Haze](https://open.spotify.com/track/51KBee4p5nVrPyLgTwpEC4) | [Friendly Chemist](https://open.spotify.com/artist/03CXtBOwnoV9TG6zNVqxrp) | [Touch of Jupiter](https://open.spotify.com/album/5e8J2ocCRv1YvvH8W8zqrr) | 5:48 | 2021-10-06 | 2022-07-26 |
 | [Mizu\-Iro](https://open.spotify.com/track/1Gg1LzqEi4eL2AV8hlTI5x) | [TENTENKO](https://open.spotify.com/artist/0Z0T5Cm2d7m8L0qCTzI6yD) | [An Antworten EP](https://open.spotify.com/album/5xJQeowjdaLP0GKJdRUjaO) | 6:28 | 2021-10-06 | 2022-07-27 |
-| [Momentum](https://open.spotify.com/track/5CvGlnk06OQD32B87F2qbt) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Momentum](https://open.spotify.com/album/5sZ8D45IwJ8mNpRHf9AtGV) | 4:25 | 2021-10-06 | 2025-01-12 |
+| [Momentum](https://open.spotify.com/track/5CvGlnk06OQD32B87F2qbt) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Momentum](https://open.spotify.com/album/5sZ8D45IwJ8mNpRHf9AtGV) | 4:25 | 2021-10-06 |  |
 | [Morning Sun](https://open.spotify.com/track/1Si3jjKdNox3btMEcfRx0V) | [Below Clouds](https://open.spotify.com/artist/28Ml3ItdZ6mbi1q7X8hvfw) | [Morning Sun](https://open.spotify.com/album/3RRzxZkIeB5CLtTm7Fl2Lv) | 5:42 | 2022-04-12 | 2022-07-29 |
 | [Mountain](https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL) | 2:15 | 2021-10-06 | 2024-04-19 |
 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 | 2021-10-06 | 2023-02-03 |

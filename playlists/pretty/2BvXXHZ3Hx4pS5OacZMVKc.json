@@ -1,12 +1,12 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 133834,
-  "original_name": "Gaming Music 2024",
+  "num_followers": 133828,
+  "original_name": "Gaming Music 2025",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAL68AO7dLTxZg4MvU7aRB7QH7gHNtb",
+  "snapshot_id": "AAAL70DvGLHWPqBgy010jy6atUwz9AgK",
   "tracks": [
     {
       "added_at": "2024-11-19 14:40:38",
@@ -159,6 +159,26 @@
       "duration_ms": 180689,
       "name": "You Get Me High",
       "url": "https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht"
+    },
+    {
+      "added_at": "2025-01-31 10:11:25",
+      "album": {
+        "name": "Feelings Fade",
+        "url": "https://open.spotify.com/album/3Rmh9O67BIF8Y86djdKFSa"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Wwings",
+          "url": "https://open.spotify.com/artist/3tqTQFEyGKpdsDZjlxjyqS"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Feelings Fade",
+      "url": "https://open.spotify.com/track/0waYUrVgNfMbrIpImHgKg9"
     },
     {
       "added_at": "2024-11-19 14:40:38",
@@ -1921,6 +1941,6 @@
       "url": "https://open.spotify.com/track/5ShOfO7H7GhaSH3m3UL8pg"
     }
   ],
-  "unique_name": "Gaming Music 2024",
+  "unique_name": "Gaming Music 2025",
   "url": "https://open.spotify.com/playlist/2BvXXHZ3Hx4pS5OacZMVKc"
 }

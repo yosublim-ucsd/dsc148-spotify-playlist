@@ -4,7 +4,7 @@
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gabriel Brito, Kaique e Felipe
 
-95 songs - 6 hr 19 min
+96 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Duas Vezes Mais](https://open.spotify.com/track/2UxerwRMfxlSTBcKhWdUhA) | [Jonas Maciel](https://open.spotify.com/artist/3UiDvGmreSdFHLFAQmk5NY) | [Duas Vezes Mais](https://open.spotify.com/album/6Pq1Yz43OJMhFtl0spnifB) | 2:46 | 2023-06-23 | 2023-09-02 |
 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 | 2023-09-01 |  |
 | [Estações](https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Estações](https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2) | 2:47 | 2023-06-23 | 2024-08-10 |
+| [Estou Aqui](https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Estou Aqui](https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z) | 3:29 | 2025-01-31 |  |
 | [Estou Contigo](https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Estou Contigo](https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE) | 4:09 | 2023-06-23 |  |
 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 | 2023-06-23 |  |
 | [Estou no Controle](https://open.spotify.com/track/1WDXhve7KOKXp38Sy0eiL1) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [Estou no Controle](https://open.spotify.com/album/2LqLcq7bxp7pOMyMaLTx9M) | 4:59 | 2023-06-23 | 2024-12-14 |
@@ -61,7 +62,7 @@
 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 | 2023-09-01 |  |
 | [No Céu Não Entra Pecado](https://open.spotify.com/track/5uTOR5Uxjbf3Y1YNGaGWTP) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [No Céu Não Entra Pecado](https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt) | 4:16 | 2023-06-23 | 2024-06-29 |
 | [Noites Traiçoeiras](https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Noites Traiçoeiras](https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s) | 4:12 | 2025-01-24 |  |
-| [Noites Traiçoeiras](https://open.spotify.com/track/7A1XdisC4ySlYz7kMjivwa) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [GBArraiá](https://open.spotify.com/album/3W6Q8yEjt11yOG4qgNWTOx) | 3:58 | 2024-07-19 |  |
+| [Noites Traiçoeiras](https://open.spotify.com/track/7A1XdisC4ySlYz7kMjivwa) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [GBArraiá](https://open.spotify.com/album/3W6Q8yEjt11yOG4qgNWTOx) | 3:58 | 2024-07-19 | 2025-02-01 |
 | [Não e Fake News \- Ao Vivo](https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não é Fake News \(Ao Vivo\)](https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9) | 3:26 | 2023-10-06 |  |
 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 | 2024-06-14 |  |
 | [Nós \- Acústico](https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Nós \(Acústico\)](https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI) | 4:15 | 2023-06-23 |  |

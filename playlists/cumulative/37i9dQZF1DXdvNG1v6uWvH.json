@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "33\u00b0",
+        "url": "https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270628,
+      "name": "33\u00b0",
+      "url": "https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a"
+    },
+    {
+      "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
       },
@@ -3418,7 +3436,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 133108,
       "name": "Allskonar flott",
       "url": "https://open.spotify.com/track/2Wf9s3io2N49ZI4TgAK6Os"
@@ -6002,6 +6020,24 @@
       "duration_ms": 151374,
       "name": "Back In Color",
       "url": "https://open.spotify.com/track/1In2sRnSSw1gxCyXCXAczq"
+    },
+    {
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "album": {
@@ -15405,6 +15441,28 @@
     },
     {
       "album": {
+        "name": "Crazy Heart",
+        "url": "https://open.spotify.com/album/4QM6NDuuxJIyY1YR5rlN4t"
+      },
+      "artists": [
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        },
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "Crazy Heart",
+      "url": "https://open.spotify.com/track/2b7uPetm5pDLtRv1nIsL0H"
+    },
+    {
+      "album": {
         "name": "Crazy Lover",
         "url": "https://open.spotify.com/album/4NBOsz0tSRy7GIyXwLKreD"
       },
@@ -15420,7 +15478,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 244000,
       "name": "Crazy Lover",
       "url": "https://open.spotify.com/track/6M7rnM2cdNlInFcwJtCIkq"
@@ -20398,7 +20456,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 162985,
       "name": "Earl (She A Freak)",
       "url": "https://open.spotify.com/track/3NZ4IGXh3ZFrpbjFW3FPZu"
@@ -29611,6 +29669,28 @@
     },
     {
       "album": {
+        "name": "Good Guy",
+        "url": "https://open.spotify.com/album/19D5XuGpFJSXK3EmotABrp"
+      },
+      "artists": [
+        {
+          "name": "DT James",
+          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+        },
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/2Kb9FvBUAZE5fyXOMhxmOA"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154766,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/4bPctUvrCpmuuJAK7DgalR"
+    },
+    {
+      "album": {
         "name": "Good Guy (feat. Faye Webster)",
         "url": "https://open.spotify.com/album/6Ouzph5Hu9vK5cBP84ZaTW"
       },
@@ -31096,7 +31176,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217491,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/4vi9diRzpYp8XWVh0ksg62"
@@ -39839,6 +39919,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Almost Like You\u2019re Here",
+        "url": "https://open.spotify.com/album/1CmW2ezh4ClPrnky18Iwwr"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "It\u2019s Almost Like You\u2019re Here",
+      "url": "https://open.spotify.com/track/6dkbwlR6IEUINiPhj0t2hD"
+    },
+    {
+      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
@@ -42487,6 +42585,28 @@
     },
     {
       "album": {
+        "name": "late nights in december",
+        "url": "https://open.spotify.com/album/0iT1zLQwSqOPi5gUwyFuEQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Javan",
+          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
+        },
+        {
+          "name": "Rivio",
+          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "late nights in december",
+      "url": "https://open.spotify.com/track/7qLZ96mV5ioVdDafLopkMY"
+    },
+    {
+      "album": {
         "name": "Late to the Party",
         "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
       },
@@ -43640,7 +43760,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 145414,
       "name": "Life Witness",
       "url": "https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF"
@@ -43860,6 +43980,24 @@
       "duration_ms": 131000,
       "name": "LIGHT ME UP",
       "url": "https://open.spotify.com/track/2kddNJf7IKAQNMGr9I6o6f"
+    },
+    {
+      "album": {
+        "name": "Big After I Die",
+        "url": "https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj"
     },
     {
       "album": {
@@ -45782,6 +45920,28 @@
       "duration_ms": 112409,
       "name": "Love Game",
       "url": "https://open.spotify.com/track/1sPMAxEKbcbfu61aQePk65"
+    },
+    {
+      "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "album": {
@@ -48832,7 +48992,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 265853,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/74aWxcXVheDpFxGDpTFDza"
@@ -62905,6 +63065,24 @@
     },
     {
       "album": {
+        "name": "Sadgirl",
+        "url": "https://open.spotify.com/album/0VhRvAbpUNvWlUTkf4Fkv1"
+      },
+      "artists": [
+        {
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Sadgirl",
+      "url": "https://open.spotify.com/track/4wqpxVWSrEoWfSne7WNklb"
+    },
+    {
+      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4"
       },
@@ -64630,7 +64808,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 265573,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/6kQPC4GgjQQfym3fSM6bx4"
@@ -69896,6 +70074,24 @@
       "duration_ms": 137000,
       "name": "Stoner",
       "url": "https://open.spotify.com/track/3Cr1VDxAsrPbkldz1eUUMm"
+    },
+    {
+      "album": {
+        "name": "Stones Throw",
+        "url": "https://open.spotify.com/album/7fa2eM6t127lSiQwSbJXID"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213372,
+      "name": "Stones Throw",
+      "url": "https://open.spotify.com/track/1RsbQnbk4ZFYDhfgp3IAYY"
     },
     {
       "album": {
@@ -78882,7 +79078,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 172444,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/43lrjztUhrmaMoVi6kSfHD"
@@ -83503,6 +83699,24 @@
     },
     {
       "album": {
+        "name": "Feathers And Stone",
+        "url": "https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH"
+    },
+    {
+      "album": {
         "name": "WOMAN\u2019S WORLD",
         "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
       },
@@ -85162,7 +85376,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 298000,
       "name": "\u00d3st\u00f6\u00f0ug",
       "url": "https://open.spotify.com/track/3DYpoHxQSL0aiVvpUKsgws"

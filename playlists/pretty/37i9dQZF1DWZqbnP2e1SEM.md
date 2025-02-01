@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,187 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,172 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 88 | [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 |
 | 89 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 |
 | 90 | [Soul](https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Soul](https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c) | 2:37 |
-| 91 | [Push That](https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn) | [Stoley](https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR) | [Push That](https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH) | 3:25 |
-| 92 | [The Miracle Makers \- Edit](https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [The Miracle Makers](https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44) | 3:30 |
+| 91 | [The Miracle Makers \- Edit](https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [The Miracle Makers](https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44) | 3:30 |
+| 92 | [Push That](https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn) | [Stoley](https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR) | [Push That](https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH) | 3:25 |
 | 93 | [FIREFLY](https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIREFLY](https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b) | 2:57 |
 | 94 | [Promise](https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Promise](https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP) | 3:02 |
 | 95 | [Shout \- Arielle Free Remix / Radio Edit](https://open.spotify.com/track/4xHP0k7RvIAkVHYyeh583z) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ), [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Shout \(Arielle Free Remix\)](https://open.spotify.com/album/7LQ1D7hsss0TMOPAeboQ5P) | 3:05 |
 | 96 | [Mantra](https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Mantra](https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun) | 3:07 |
 | 97 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
-| 98 | [If Only I Knew](https://open.spotify.com/track/66H7ULe9JbxBVVWsfLi8JC) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [If Only I Knew](https://open.spotify.com/album/3VIlxPfmem99BaiIOUQqDX) | 3:43 |
-| 99 | [Bonito](https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Bonito](https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU) | 2:43 |
+| 98 | [Bonito](https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Bonito](https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU) | 2:43 |
+| 99 | [If Only I Knew](https://open.spotify.com/track/66H7ULe9JbxBVVWsfLi8JC) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [If Only I Knew](https://open.spotify.com/album/3VIlxPfmem99BaiIOUQqDX) | 3:43 |
 | 100 | [Back \(feat\. Flirta D\)](https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Back \(feat\. Flirta D\)](https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7) | 3:07 |
 
 Snapshot ID: `Zuys8AAAAACQq0AC4jBxDVCP8WxJohQJ`

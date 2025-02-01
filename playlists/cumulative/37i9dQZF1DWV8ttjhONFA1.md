@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: LUASÓ
+> El nuevo sonido argentino lo encontrás acá\. Foto: Koino Yokan
 
-333 songs - 18 hr 14 min
+335 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Buen día](https://open.spotify.com/track/1KudG9EH6Gga8GGMlmX6iu) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Buen día](https://open.spotify.com/album/7rPvyhpzjEeqxmiwi1yVyZ) | 3:35 | 2023-12-15 | 2024-04-06 |
 | [Buscala](https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Conversación Cultural](https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV) | 3:15 | 2023-12-15 | 2024-04-27 |
 | [C me apagó el coso](https://open.spotify.com/track/33hPveqI2sVkwHGm0vrWGQ) | [dinastia](https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [C me apagó el coso](https://open.spotify.com/album/7y9G19YJdQI4nbfRZxEloG) | 2:03 | 2024-07-12 | 2024-08-13 |
-| [Caballos](https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Arco y Flecha](https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR) | 2:43 | 2024-06-14 |  |
+| [Caballos](https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Arco y Flecha](https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR) | 2:43 | 2024-06-14 | 2025-02-01 |
 | [Cabildo y Juramento](https://open.spotify.com/track/0fQbLONJQqFSePMz1I4UNT) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 3:23 | 2024-04-05 |  |
 | [Cada Vez](https://open.spotify.com/track/1UjqPxX0ctIYOX5tlKSKGa) | [Ele Mariani](https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S) | [Cada Vez](https://open.spotify.com/album/5p9ZmyEOHBMRG0d2MsBeB5) | 3:12 | 2024-08-02 | 2024-11-30 |
 | [Calma](https://open.spotify.com/track/4QE94tGcWV3QrWucq3cgu0) | [RENE](https://open.spotify.com/artist/7fd0yw8CBSWW8EhCwiQmtQ) | [Calma](https://open.spotify.com/album/7pGO4s7Fy3oEt9SFXPtvIs) | 3:18 | 2025-01-24 |  |
@@ -88,7 +88,7 @@
 | [Dame](https://open.spotify.com/track/1pxxpLKCYBNWa8f5TP8Xpq) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [Dame](https://open.spotify.com/album/5ozohAzMDOjPCCfXWeIa2J) | 3:15 | 2024-02-16 | 2024-04-13 |
 | [De Fábrica](https://open.spotify.com/track/6vPW7S8aaT7CttBIcew6ld) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica](https://open.spotify.com/album/0au5YMCSJqzY6ULb8Qqzd0) | 4:18 | 2024-09-06 |  |
 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 | 2023-12-15 | 2024-04-06 |
-| [Delfin](https://open.spotify.com/track/0KRGu9DnyDdJAuZ3Ivw9UV) | [Color Sirena](https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [Ficciones](https://open.spotify.com/album/3PxmJDkSUG0mpsSAkDa6Do) | 3:55 | 2024-10-18 |  |
+| [Delfin](https://open.spotify.com/track/0KRGu9DnyDdJAuZ3Ivw9UV) | [Color Sirena](https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [Ficciones](https://open.spotify.com/album/3PxmJDkSUG0mpsSAkDa6Do) | 3:55 | 2024-10-18 | 2025-02-01 |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2024-04-05 |  |
 | [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 | 2024-03-15 | 2024-05-03 |
 | [Desesperada](https://open.spotify.com/track/6T4R0YI4KNnZiIRKexvAdD) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Desesperada](https://open.spotify.com/album/1g6DyyHl9LsMBv6VT7gFQM) | 4:34 | 2024-03-22 | 2024-10-12 |
@@ -125,6 +125,7 @@
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2024-04-05 |  |
 | [El Próximo Verano \- Remix](https://open.spotify.com/track/3Z5nOXDhBg9nHKxs6y72Pz) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V), [Malta Caramelo](https://open.spotify.com/artist/4nMH5OWOUdGltvRpXDydPm) | [El Próximo Verano](https://open.spotify.com/album/2B7oDoRSWa6M7jCmnCHcER) | 4:08 | 2024-10-04 |  |
 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 | 2024-04-05 | 2024-11-09 |
+| [El sur](https://open.spotify.com/track/3PwQiQVKLTcF5CqNntuGO1) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [El sur](https://open.spotify.com/album/7H9bMPCQrnYYf3lasaHHYT) | 4:18 | 2025-01-31 |  |
 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 | 2024-04-05 | 2024-08-17 |
 | [El Último Romance](https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [El Último Romance](https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S) | 5:02 | 2023-12-22 | 2024-02-24 |
 | [Ella se burló de mí](https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:30 | 2023-12-15 | 2024-04-06 |
@@ -221,6 +222,7 @@
 | [Nadena](https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Nadena](https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh) | 2:25 | 2024-10-11 |  |
 | [Nadie Estaba Preparado](https://open.spotify.com/track/2511lKYBKh9VmTC114yr5C) | [Barco](https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom) | [Nadie Estaba Preparado](https://open.spotify.com/album/5cFHeJyZ6KgnLEZlQKRs7f) | 2:45 | 2023-12-15 | 2024-02-17 |
 | [NEFERTITI](https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [NEFERTITI](https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE) | 2:36 | 2024-01-19 | 2024-05-11 |
+| [Nicho](https://open.spotify.com/track/0uexhsV03UHJ3x71NT7ya4) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Nicho](https://open.spotify.com/album/3iatoQABmCe2horRQm9TKX) | 3:22 | 2025-01-31 |  |
 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 | 2024-11-29 |  |
 | [No Atino](https://open.spotify.com/track/5td8jX3DtJQUGN02ivNBEL) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [No Atino](https://open.spotify.com/album/3Z9kcMdQsIRQstiVVoJoQt) | 2:39 | 2024-09-06 |  |
 | [No hay más tiempo](https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No hay más tiempo](https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC) | 3:07 | 2024-11-29 |  |

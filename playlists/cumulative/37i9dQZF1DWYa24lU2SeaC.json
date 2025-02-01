@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous vos titres Disney pr\u00e9f\u00e9r\u00e9s incluant la musique de Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!",
+  "description": "Tous vos titres Disney pr\u00e9f\u00e9r\u00e9s incluant la musique de Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!",
   "name": "Disney Hits France",
   "tracks": [
     {
@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Vaiana 2 (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/4NrZm4RmgLznbzmUZsO4Q1"
+      },
+      "artists": [
+        {
+          "name": "Ana Ka",
+          "url": "https://open.spotify.com/artist/1amw8WDD1y1EYplXVX4M6b"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184693,
+      "name": "Invente ta route",
+      "url": "https://open.spotify.com/track/5T4t0jeGYQ42cvYQULhCiM"
+    },
+    {
+      "album": {
         "name": "It's All Right (From \"Soul\"/Duet Version)",
         "url": "https://open.spotify.com/album/3cY3iLpzQzRZcUabdnHH4f"
       },
@@ -1104,6 +1122,24 @@
       "duration_ms": 261026,
       "name": "Je te cherche",
       "url": "https://open.spotify.com/track/61UKFFulJ7bwozNc9YC9Mv"
+    },
+    {
+      "album": {
+        "name": "Vaiana 2 (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/4NrZm4RmgLznbzmUZsO4Q1"
+      },
+      "artists": [
+        {
+          "name": "Anthony Kavanagh",
+          "url": "https://open.spotify.com/artist/6PnzwaATnHONRc26Zs81XO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Je vais avoir un chee-hoo ?",
+      "url": "https://open.spotify.com/track/65jYyUQ3Paum6fHbTfNq9j"
     },
     {
       "album": {
@@ -1838,6 +1874,28 @@
       "duration_ms": 267504,
       "name": "Nothing Is Lost (You Give Me Strength)",
       "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
+    },
+    {
+      "album": {
+        "name": "Vaiana 2 (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/4NrZm4RmgLznbzmUZsO4Q1"
+      },
+      "artists": [
+        {
+          "name": "Cerise Calixte",
+          "url": "https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP"
+        },
+        {
+          "name": "Cast - Vaiana 2",
+          "url": "https://open.spotify.com/artist/4dePVTbhKJrnuJrMYytMA8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "Notre paradis",
+      "url": "https://open.spotify.com/track/329Q78PdTtJCsSw6N6QLM8"
     },
     {
       "album": {

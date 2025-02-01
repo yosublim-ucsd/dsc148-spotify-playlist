@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-223 songs - 14 hr 21 min
+226 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-06-27 | 2024-10-25 |
 | [Born a Riot](https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Born a Riot](https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc) | 2:39 | 2024-06-27 | 2024-09-07 |
 | [Break My Lying Tongue](https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Break My Lying Tongue](https://open.spotify.com/album/6c98Sbfq18dN7DYxxLIOUs) | 3:50 | 2024-06-27 | 2024-09-20 |
-| [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 | 2025-01-03 |  |
+| [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 | 2025-01-03 | 2025-02-01 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-08 | 2024-09-07 |
 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 | 2024-12-19 |  |
 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 | 2024-06-27 | 2024-08-30 |
@@ -58,8 +58,9 @@
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 | 2024-11-29 |
 | [Disaster](https://open.spotify.com/track/79pdnZdZDC7AAyio8d3KI2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Disaster](https://open.spotify.com/album/6Q8TEJkHFBDc3KQyoAv2va) | 3:45 | 2025-01-23 |  |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-06-27 | 2024-09-07 |
-| [Do You Feel Normal](https://open.spotify.com/track/0pFuiLV4YNQwjyBXJz4sOm) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Do You Feel Normal](https://open.spotify.com/album/5HMUc1d2gYS0izJrMY3a7N) | 3:35 | 2025-01-09 |  |
+| [Do You Feel Normal](https://open.spotify.com/track/0pFuiLV4YNQwjyBXJz4sOm) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Do You Feel Normal](https://open.spotify.com/album/5HMUc1d2gYS0izJrMY3a7N) | 3:35 | 2025-01-09 | 2025-02-01 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 | 2024-10-04 |
+| [Don't Let Me Bring You Down](https://open.spotify.com/track/4k92mQm38pUHtfrFEkmZeI) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Overdriver](https://open.spotify.com/album/0shNp38H68PQgYidEQm1K7) | 3:15 | 2025-01-31 |  |
 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 | 2024-06-27 |  |
 | [Double Nature](https://open.spotify.com/track/07yVHMlXo1yYj5pnpK5f5x) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Latest Version of the Truth](https://open.spotify.com/album/4hj9NQZbhv7LjEO147YBWx) | 4:44 | 2024-12-19 |  |
 | [Dream Stealer](https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Dream Stealer](https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld) | 4:29 | 2024-08-01 | 2024-10-18 |
@@ -81,7 +82,7 @@
 | [Game of Faces](https://open.spotify.com/track/49loMZxyVpQJZCX0O1sSwV) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Game of Faces](https://open.spotify.com/album/4BsHur1DtAVOm4rvjrK7mZ) | 3:15 | 2024-11-28 | 2025-01-10 |
 | [Gemini](https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/28hLStD389vh57mwsDykXg) | 4:45 | 2024-09-26 |  |
 | [Get a Grip](https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Evil Eye / Get a Grip](https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF) | 4:01 | 2024-06-27 | 2024-08-02 |
-| [Give Us The Moon](https://open.spotify.com/track/37dCaPY3aPkCpxhnjicEDg) | [The Night Flight Orchestra](https://open.spotify.com/artist/6xPOeIDWmM9ooOw7SBknMl) | [Give Us The Moon](https://open.spotify.com/album/2FkWJRSe1EeVVwVuijAdal) | 3:45 | 2025-01-16 |  |
+| [Give Us The Moon](https://open.spotify.com/track/37dCaPY3aPkCpxhnjicEDg) | [The Night Flight Orchestra](https://open.spotify.com/artist/6xPOeIDWmM9ooOw7SBknMl) | [Give Us The Moon](https://open.spotify.com/album/2FkWJRSe1EeVVwVuijAdal) | 3:45 | 2025-01-16 | 2025-02-01 |
 | [GODDESS](https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [GODDESS](https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx) | 3:10 | 2024-10-24 |  |
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2024-06-27 |  |
 | [Grand Finale](https://open.spotify.com/track/0UIYcRAhNjvDrDdo8TCGcH) | [Reach](https://open.spotify.com/artist/4PAH2hYK4vEvxLEwCg9zQ2) | [Prophecy](https://open.spotify.com/album/1PlAzDc2xlmK33ykOEA80P) | 4:14 | 2024-06-27 | 2024-11-08 |
@@ -145,6 +146,7 @@
 | [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 | 2025-01-09 |  |
 | [Overdrive](https://open.spotify.com/track/3txPM4gTomDS4W74QjQJGb) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dopamine](https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu) | 2:26 | 2024-06-27 | 2024-09-07 |
 | [Pain In Every Way](https://open.spotify.com/track/7MhqFkmXyoGWLMSS0Zoc2W) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Pain In Every Way](https://open.spotify.com/album/2V5tlQoEflZEopXoFYLGnH) | 3:32 | 2024-06-27 | 2024-08-02 |
+| [Paloma](https://open.spotify.com/track/3s9Hi8xoJKsd3VDRnPxOZi) | [The Night Flight Orchestra](https://open.spotify.com/artist/6xPOeIDWmM9ooOw7SBknMl) | [Give Us The Moon](https://open.spotify.com/album/20AtqMaAxXaiCFxeq2XDpV) | 5:05 | 2025-01-31 |  |
 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 | 2024-06-27 |  |
 | [Parasite](https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [THE DAY WE LEFT EARTH](https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL), [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Parasite](https://open.spotify.com/album/6m99BaJU8IxfWcfqPGRZwu) | 3:16 | 2024-06-27 | 2024-09-20 |
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 |  |
@@ -222,6 +224,7 @@
 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 | 2024-11-07 |  |
 | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/track/2SiXTix2P7Xwnzt3Ji31e4) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/album/4wSlW89hvBHn0lD7iHijyT) | 3:10 | 2024-09-26 | 2024-12-20 |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 | 2024-11-01 |
+| [WONDERWaLL \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-31 |  |
 | [Wow! Wow! Wow!](https://open.spotify.com/track/65UAJffAS7gUxrqYBIqrU2) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Wow! Wow! Wow!](https://open.spotify.com/album/1GaAZvieXoy9wQw8Fq1EFG) | 3:40 | 2024-06-27 | 2024-08-02 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-06-27 | 2024-08-02 |
 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 | 2024-11-07 |  |

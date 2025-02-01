@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Mastodon",
+  "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Bloodywood",
   "name": "Heavy Metal",
   "tracks": [
     {
@@ -334,6 +334,24 @@
       "duration_ms": 227335,
       "name": "A.F. Day",
       "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
+    },
+    {
+      "album": {
+        "name": "A.N.G.S.T",
+        "url": "https://open.spotify.com/album/2jxI0Ma0GPmKiGoRlrQOLe"
+      },
+      "artists": [
+        {
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308796,
+      "name": "A.N.G.S.T.",
+      "url": "https://open.spotify.com/track/2pyjEyfm9ZTlYJwmq1m3xZ"
     },
     {
       "album": {
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 277186,
       "name": "Blood Of The Elves",
       "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 166706,
       "name": "Break Stuff",
       "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
@@ -3125,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Cross The Divide",
+        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258209,
+      "name": "Cross the Divide",
+      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
+    },
+    {
+      "album": {
         "name": "Bring Out Your Dead",
         "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
       },
@@ -3776,7 +3812,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
@@ -4960,7 +4996,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208613,
       "name": "Expect Total Hell",
       "url": "https://open.spotify.com/track/07szbH4lUAPjGxVKeuTUTw"
@@ -6208,7 +6244,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161323,
       "name": "Guess Who's Back",
       "url": "https://open.spotify.com/track/1ryULElwveye7LHLbLQPeO"
@@ -6849,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/1VWjKU9656yLo3YwtnSVPb"
+      },
+      "artists": [
+        {
+          "name": "Bonfire",
+          "url": "https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253146,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/5FKSyEdE0RvXOazOj2uEns"
+    },
+    {
+      "album": {
         "name": "Highlander",
         "url": "https://open.spotify.com/album/3hkHaaVtwSP3sWoQsj1mA5"
       },
@@ -7323,6 +7377,24 @@
     },
     {
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+    },
+    {
+      "album": {
         "name": "I Bring Light Into the Dark",
         "url": "https://open.spotify.com/album/00Jw1HA9zSSV3LHtDPHdfz"
       },
@@ -7760,7 +7832,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 249230,
       "name": "In Black and White - New Version 2021",
       "url": "https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB"
@@ -8881,6 +8953,28 @@
     },
     {
       "album": {
+        "name": "Machines of Our Disgrace",
+        "url": "https://open.spotify.com/album/26Ow9WZWh8HvqoLV7JdIa2"
+      },
+      "artists": [
+        {
+          "name": "Circle of Dust",
+          "url": "https://open.spotify.com/artist/60GtR6PIcDY1pikPgKHNk9"
+        },
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "Machines of Our Disgrace - Single Edit",
+      "url": "https://open.spotify.com/track/0JsAGWQvyJkuJdemFSi20y"
+    },
+    {
+      "album": {
         "name": "Made Of Metal",
         "url": "https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN"
       },
@@ -8932,6 +9026,24 @@
       "duration_ms": 292466,
       "name": "Magic Signs",
       "url": "https://open.spotify.com/track/3ds3h3P2TsIYofkxHc3mtB"
+    },
+    {
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt"
     },
     {
       "album": {
@@ -9108,7 +9220,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 256538,
       "name": "Masquerade of Madness",
       "url": "https://open.spotify.com/track/0OV5HT4cXI78HHoYe2ioXa"
@@ -9462,6 +9574,24 @@
       "duration_ms": 257838,
       "name": "Midnight Bells",
       "url": "https://open.spotify.com/track/7msGMGvVPC1bM40OSfCSSL"
+    },
+    {
+      "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
       "album": {
@@ -9984,7 +10114,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 264120,
       "name": "Never the Heroes",
       "url": "https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY"
@@ -11272,7 +11402,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 337992,
       "name": "Pillars of Serpents",
       "url": "https://open.spotify.com/track/42ASpTtai1npURX7qDsteD"
@@ -11294,7 +11424,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 221897,
       "name": "Pin Me Down",
       "url": "https://open.spotify.com/track/0rurrp5gL7beslpOp9u9Za"
@@ -11728,7 +11858,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 267813,
       "name": "Purified by Vengeance (Instrumental) [feat. Mark Holcomb, Periphery & Mick Gordon]",
       "url": "https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2"
@@ -11822,7 +11952,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 242146,
       "name": "Queen of Shadow (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
@@ -13795,6 +13925,24 @@
     },
     {
       "album": {
+        "name": "Spider Lilly",
+        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
+      },
+      "artists": [
+        {
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274243,
+      "name": "Spider Lilly",
+      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
+    },
+    {
+      "album": {
         "name": "Spillways [Feat. Joe Elliott]",
         "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
       },
@@ -14139,6 +14287,24 @@
     },
     {
       "album": {
+        "name": "Stirb Langsam",
+        "url": "https://open.spotify.com/album/4RHqzZdNV2yzr4DHvTq8Hx"
+      },
+      "artists": [
+        {
+          "name": "Nachtblut",
+          "url": "https://open.spotify.com/artist/5B0OyK2i2akNMaYj3voQ3j"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275264,
+      "name": "Stirb Langsam",
+      "url": "https://open.spotify.com/track/1NyTtDuy0SmNecrrddmrjI"
+    },
+    {
+      "album": {
         "name": "Stockholm Syndrome",
         "url": "https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x"
       },
@@ -14262,6 +14428,24 @@
       "duration_ms": 241158,
       "name": "Strongest Of The Strong",
       "url": "https://open.spotify.com/track/6hPlZWKfEk8bEF4SA71XMt"
+    },
+    {
+      "album": {
+        "name": "Suffer in Silence",
+        "url": "https://open.spotify.com/album/5iXE5eNja6cC8c3dK2KH7E"
+      },
+      "artists": [
+        {
+          "name": "Gemini Syndrome",
+          "url": "https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Suffer in Silence",
+      "url": "https://open.spotify.com/track/35ID1xiBF9LkSqzECxF9cc"
     },
     {
       "album": {
@@ -14464,6 +14648,24 @@
       "duration_ms": 250866,
       "name": "Syntax Terror",
       "url": "https://open.spotify.com/track/502EEHwLnYY3oGlBKvAPIt"
+    },
+    {
+      "album": {
+        "name": "Tadka",
+        "url": "https://open.spotify.com/album/5amuuw3Kg9y0Db7S06WJj7"
+      },
+      "artists": [
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262064,
+      "name": "Tadka",
+      "url": "https://open.spotify.com/track/1bzEg4DkUQOhXDFn89Fex7"
     },
     {
       "album": {
@@ -15495,6 +15697,24 @@
     },
     {
       "album": {
+        "name": "The Prodigal Ones",
+        "url": "https://open.spotify.com/album/3fTCl3lz6B08gV5WO8a2sI"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "The Prodigal Ones",
+      "url": "https://open.spotify.com/track/4Wu5bEby9DaBGBypEfQN8g"
+    },
+    {
+      "album": {
         "name": "Moonglow",
         "url": "https://open.spotify.com/album/5YjtryDPR0CWnBNRowJCiC"
       },
@@ -15652,6 +15872,24 @@
       "duration_ms": 372626,
       "name": "The Shellback",
       "url": "https://open.spotify.com/track/5bh6QfHWuR1YdnKOdj8kYA"
+    },
+    {
+      "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
     },
     {
       "album": {
@@ -16079,6 +16317,24 @@
     },
     {
       "album": {
+        "name": "To Live Deliciously",
+        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332226,
+      "name": "To Live Deliciously",
+      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
+    },
+    {
+      "album": {
         "name": "Together We Rise",
         "url": "https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V"
       },
@@ -16090,7 +16346,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 302628,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T"
@@ -17540,7 +17796,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 359746,
       "name": "WIERSZALIN III",
       "url": "https://open.spotify.com/track/6TsQ3SN7pVyIzZQklB7V46"
@@ -17864,7 +18120,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 212714,
       "name": "WRONG END OF THE KNIFE",
       "url": "https://open.spotify.com/track/5HQVggVFebVhn765vhWz7J"
@@ -18160,6 +18416,24 @@
       "duration_ms": 232106,
       "name": "\u00d6vergivenheten - Single Edit",
       "url": "https://open.spotify.com/track/4N7F0yJ3IqPJbsqB3z0huv"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe"

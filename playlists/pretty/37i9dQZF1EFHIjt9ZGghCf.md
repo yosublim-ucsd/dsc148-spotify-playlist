@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776 likes - 132 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 132 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 90 | [Let My Heart Dance](https://open.spotify.com/track/6yYOLd0hCWamG8grPlUHQw) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 3:14 |
 | 91 | [Mary’s Song \- Live](https://open.spotify.com/track/7DzqNeU96i94uSQ46hSnFk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:33 |
 | 92 | [Free Falling](https://open.spotify.com/track/7mUhoT53JAHiFbh3wfHVZe) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:54 |
-| 93 | [Take Me to the River](https://open.spotify.com/track/1YbR4gWmyMSnZJEOKppuIx) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:31 |
-| 94 | [A Reason to Dance \(Live\)](https://open.spotify.com/track/2EhWeDXgzMNM68RKrQDmAs) | [All Nations Worship Assembly Atlanta](https://open.spotify.com/artist/4KbJIMQX4cgPen58azB9JA) | [A Reason to Dance \(Live\)](https://open.spotify.com/album/5bE6EdmylycgoRzXfPCRAF) | 6:56 |
+| 93 | [A Reason to Dance \(Live\)](https://open.spotify.com/track/2EhWeDXgzMNM68RKrQDmAs) | [All Nations Worship Assembly Atlanta](https://open.spotify.com/artist/4KbJIMQX4cgPen58azB9JA) | [A Reason to Dance \(Live\)](https://open.spotify.com/album/5bE6EdmylycgoRzXfPCRAF) | 6:56 |
+| 94 | [Take Me to the River](https://open.spotify.com/track/1YbR4gWmyMSnZJEOKppuIx) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:31 |
 | 95 | [I Found You \(feat\. Dante Bowe & Aaron Moses\)](https://open.spotify.com/track/6rWlOBdYTr4b642nY7dqcy) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 3:34 |
 | 96 | [real kind of love](https://open.spotify.com/track/3oufQfxtm0Kpos3oRzJv7f) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:49 |
 | 97 | [You're Beautiful \(feat\. Joe L Barnes\)](https://open.spotify.com/track/52VQIFX5974rO9MxhnDL2f) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 3:06 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 131 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 132 | [Champion/Gratitude \- Live](https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b) | 10:46 |
 
-Snapshot ID: `AboR9gAAAACzs+tv945JHs8IbWb5p8Gi`
+Snapshot ID: `AboXqgAAAABy19s/3jbkb7V1UJjs61eu`

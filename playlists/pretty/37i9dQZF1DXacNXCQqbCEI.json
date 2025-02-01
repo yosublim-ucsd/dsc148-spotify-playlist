@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 354876,
+  "num_followers": 354896,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -587,8 +587,8 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Varias Dudas Despu\u00e9s",
-        "url": "https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG"
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
         }
       ],
-      "duration_ms": 253626,
-      "name": "Me Recordaras",
-      "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Levanta Muertos",
+      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "No Soy Tu Princesa (Remix)",
         "url": "https://open.spotify.com/album/1Lx4HEkkQ9ZZFybJWErPCX"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 190840,
       "name": "No Soy Tu Princesa - Remix",
       "url": "https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Levanta Muertos",
-      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Chinito Rulo (Remix)",
-        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
-      },
-      "artists": [
-        {
-          "name": "Shushupe",
-          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
-        },
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 187198,
-      "name": "Chinito Rulo (Remix)",
-      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Momoto",
         "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 459720,
       "name": "Momoto",
       "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Chinito Rulo (Remix)",
+        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+      },
+      "artists": [
+        {
+          "name": "Shushupe",
+          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 187198,
+      "name": "Chinito Rulo (Remix)",
+      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
-        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
       },
       "artists": [
         {
-          "name": "Plu Con Pla",
-          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
         }
       ],
-      "duration_ms": 291000,
-      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Corredor Del Jaguar",
-        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
+        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
+        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
       },
       "artists": [
         {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+          "name": "Plu Con Pla",
+          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 199799,
-      "name": "Frio Severo",
-      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
+      "duration_ms": 291000,
+      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

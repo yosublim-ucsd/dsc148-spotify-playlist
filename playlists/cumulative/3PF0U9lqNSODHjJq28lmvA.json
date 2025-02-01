@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "ALOHA HAWAII",
+        "url": "https://open.spotify.com/album/2H9FRSHBDxeJh8yGe7Uey4"
+      },
+      "artists": [
+        {
+          "name": "Subway Surfers",
+          "url": "https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "ALOHA HAWAII",
+      "url": "https://open.spotify.com/track/0smBlg56vgwAM3NF8EndJ4"
+    },
+    {
+      "album": {
         "name": "Alone, with you",
         "url": "https://open.spotify.com/album/2VqUCQoDxiXs9LzE7WOjBC"
       },
@@ -4199,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/2KtbHxbkodZugpQJfOjdfl"
+      },
+      "artists": [
+        {
+          "name": "Kimpatrik",
+          "url": "https://open.spotify.com/artist/610rpF7Ul6xZ5jXlBl4PM5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253507,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/3Xkcq0HeNxiTBC6jx5F9js"
+    },
+    {
+      "album": {
         "name": "ULTRAVIOLET",
         "url": "https://open.spotify.com/album/6KZEU1U8ZkQo5kDTqdUJwT"
       },
@@ -5990,7 +6026,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 184935,
       "name": "Call Me Highway",
       "url": "https://open.spotify.com/track/5wqk7Go8vW2cHxTEMABei6"
@@ -7890,7 +7926,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 270595,
       "name": "Confessions To The Sea (CTTS)",
       "url": "https://open.spotify.com/track/4Ji5ip8Z3Ftwmr56pixUI0"
@@ -12276,6 +12312,24 @@
       "duration_ms": 222074,
       "name": "En ainna plass",
       "url": "https://open.spotify.com/track/06lpFe4rZDZB7WX56NLNdh"
+    },
+    {
+      "album": {
+        "name": "En andra sista chans",
+        "url": "https://open.spotify.com/album/2AtRQgMrBvLih6xrEGirB0"
+      },
+      "artists": [
+        {
+          "name": "Anders Barsk",
+          "url": "https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204853,
+      "name": "En andra sista chans",
+      "url": "https://open.spotify.com/track/5qpIM4nlfJA40knfPhu3ou"
     },
     {
       "album": {
@@ -17053,6 +17107,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Ziggy Stardust",
+        "url": "https://open.spotify.com/album/5WWz7EROxRPqfIq5QKXoDJ"
+      },
+      "artists": [
+        {
+          "name": "Trevor Tanner",
+          "url": "https://open.spotify.com/artist/6qYPZN3ZMEwFlPwHUEiYKI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418838,
+      "name": "Goodbye Ziggy Stardust",
+      "url": "https://open.spotify.com/track/0hdekznWjIcj7TvSF7umoI"
+    },
+    {
+      "album": {
         "name": "Goth Babe",
         "url": "https://open.spotify.com/album/2Qb2Rsf6RSDfcn8UwnMTCm"
       },
@@ -17226,7 +17298,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 212319,
       "name": "GRAVITY",
       "url": "https://open.spotify.com/track/1iDEX43QqJ5Y5T9Ah74t2c"
@@ -17410,7 +17482,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 289266,
       "name": "Gult lys",
       "url": "https://open.spotify.com/track/6149xwXCGwksiQW16D4eRT"
@@ -17944,7 +18016,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 367770,
       "name": "Hardship to Meaning",
       "url": "https://open.spotify.com/track/0Kd0Flg8fVNdEHC4VKQ8nU"
@@ -19566,7 +19638,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 96000,
       "name": "Hydro",
       "url": "https://open.spotify.com/track/0iVOkA7rFkww3NnxziX7Pd"
@@ -19880,10 +19952,28 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 231214,
       "name": "I Always Knew",
       "url": "https://open.spotify.com/track/5ydfZ3vDtpqfZOvzQC9vU7"
+    },
+    {
+      "album": {
+        "name": "I am alone again",
+        "url": "https://open.spotify.com/album/41gZMc73PNDxdohhyP2uNn"
+      },
+      "artists": [
+        {
+          "name": "VaterSon",
+          "url": "https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179121,
+      "name": "I am alone again",
+      "url": "https://open.spotify.com/track/1QXmCsed9NThwEo4LfO4ap"
     },
     {
       "album": {
@@ -22255,6 +22345,24 @@
     },
     {
       "album": {
+        "name": "Jelly's Sing-Along, Vol. 2",
+        "url": "https://open.spotify.com/album/0mwLJStTYmyKaPq7vMoQbg"
+      },
+      "artists": [
+        {
+          "name": "Jelly and Friends",
+          "url": "https://open.spotify.com/artist/0BpQTnNiRjqYgZIcWtq6x1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Jelly's Chicken Fried Chicken Dance",
+      "url": "https://open.spotify.com/track/7GFIlcV2RTfj1ceKmA3VZS"
+    },
+    {
+      "album": {
         "name": "Jennaie",
         "url": "https://open.spotify.com/album/6PCBgIwWnTJSwJK11K81dC"
       },
@@ -23410,7 +23518,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185225,
       "name": "Kom och lalla",
       "url": "https://open.spotify.com/track/2yCaxY1SZllmpuclTAvfoG"
@@ -25096,7 +25204,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 169936,
       "name": "LIKE LIGHT",
       "url": "https://open.spotify.com/track/7bg0lafMRl0eTz6eajzVK6"
@@ -29060,7 +29168,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 168358,
       "name": "My Shadowblade",
       "url": "https://open.spotify.com/track/06QyD3Yh2db8f2tsbTHocX"
@@ -34022,7 +34130,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 123333,
       "name": "Prickbaiter",
       "url": "https://open.spotify.com/track/5K3frFyC28pl3LKl2iegJ4"
@@ -36858,7 +36966,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 203238,
       "name": "Scream",
       "url": "https://open.spotify.com/track/24an7dJToKivN6oV5pCNpK"
@@ -37094,6 +37202,24 @@
       "duration_ms": 245760,
       "name": "Self Care",
       "url": "https://open.spotify.com/track/7EehdkwKgw6orOZcXhT0QM"
+    },
+    {
+      "album": {
+        "name": "C\u00fdra",
+        "url": "https://open.spotify.com/album/6q3euzIBwKajowyadeg5P5"
+      },
+      "artists": [
+        {
+          "name": "Yara Liz",
+          "url": "https://open.spotify.com/artist/2bK30CUQYUBhG7HbOYVPoO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218453,
+      "name": "Selfish Heart",
+      "url": "https://open.spotify.com/track/30sowAkTk06nb2rk5Ywioc"
     },
     {
       "album": {
@@ -39417,6 +39543,24 @@
     },
     {
       "album": {
+        "name": "Sometimes always",
+        "url": "https://open.spotify.com/album/5RbKgiRbllmub5oh48WA7R"
+      },
+      "artists": [
+        {
+          "name": "Overhead Compartments",
+          "url": "https://open.spotify.com/artist/1l1Ybjg552x1F7EcgmEzYH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166168,
+      "name": "Sometimes always",
+      "url": "https://open.spotify.com/track/3ugA3NsCvyuP7ewHDgFOGu"
+    },
+    {
+      "album": {
         "name": "Somewhere In The Middle",
         "url": "https://open.spotify.com/album/00xfDV63oSg4Zcr6sD1LDJ"
       },
@@ -40680,7 +40824,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 147289,
       "name": "Storsamling",
       "url": "https://open.spotify.com/track/6QVM3PqP3ft9QQXRLYJuCm"
@@ -41965,6 +42109,24 @@
     },
     {
       "album": {
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/5ejCbOJSdw27nRFvgg7Pb4"
+      },
+      "artists": [
+        {
+          "name": "Isabella Delgado",
+          "url": "https://open.spotify.com/artist/5zRi6BSdHxKKEdS2sI0dsF"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328999,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/67iEaKTb96xJiZuCPqRDuI"
+    },
+    {
+      "album": {
         "name": "Mucho mas cercano",
         "url": "https://open.spotify.com/album/3ksg3QAfsbrGsqRiBzFRE1"
       },
@@ -42746,7 +42908,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 292588,
       "name": "The Greatest Movie Of All Time",
       "url": "https://open.spotify.com/track/55p8AkSsaViiVgpAPQMrU3"
@@ -47006,7 +47168,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 222255,
       "name": "VIVO",
       "url": "https://open.spotify.com/track/6LZp9uiUS6v5eKDCmoS0Zr"
@@ -47904,6 +48066,28 @@
       "duration_ms": 198857,
       "name": "We zoeken die stapels",
       "url": "https://open.spotify.com/track/7i0RhZXX11MS22AyuobntW"
+    },
+    {
+      "album": {
+        "name": "We're All Friends - OFFICIAL RLP TAG 2025 SONG",
+        "url": "https://open.spotify.com/album/5FFV4XvRiXn8SEnMivY4mN"
+      },
+      "artists": [
+        {
+          "name": "LuK",
+          "url": "https://open.spotify.com/artist/0VXYph9Pw0atj5otoeNgyX"
+        },
+        {
+          "name": "die tanzmanufaktur",
+          "url": "https://open.spotify.com/artist/0954fvorbWCgIhFtkq6nVS"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167372,
+      "name": "We're All Friends - OFFICIAL RLP TAG 2025 SONG",
+      "url": "https://open.spotify.com/track/7jytzRRUPLeDP0FrBEDIau"
     },
     {
       "album": {

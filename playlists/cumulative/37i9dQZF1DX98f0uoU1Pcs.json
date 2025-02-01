@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a unique mix of rock, punk, alt & indie. Cover: Pixies",
+  "description": "a unique mix of rock, punk, alt & indie. Cover: Black Country, New Road",
   "name": "Noisy",
   "tracks": [
     {
@@ -128,6 +128,42 @@
       "duration_ms": 244223,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf"
+    },
+    {
+      "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA"
+    },
+    {
+      "album": {
+        "name": "After You",
+        "url": "https://open.spotify.com/album/6VISuMapTvAnaTvltpE7FC"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148724,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/0fIvB3uEk6K6T9JACYD66O"
     },
     {
       "album": {
@@ -662,7 +698,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 360995,
       "name": "Backseat Girl",
       "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
@@ -904,6 +940,24 @@
       "duration_ms": 212754,
       "name": "Best Of Friends",
       "url": "https://open.spotify.com/track/3pZZrFZEN1pcOUiPGDqcjd"
+    },
+    {
+      "album": {
+        "name": "Besties",
+        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
     },
     {
       "album": {
@@ -1480,6 +1534,24 @@
       "duration_ms": 209800,
       "name": "Build a Bridge",
       "url": "https://open.spotify.com/track/04X3gZTOCcaBtoTYCV3X3K"
+    },
+    {
+      "album": {
+        "name": "Building 650",
+        "url": "https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr"
     },
     {
       "album": {
@@ -2068,7 +2140,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 176757,
       "name": "Collect",
       "url": "https://open.spotify.com/track/252ODAgPlMKwwh9XWo8xgW"
@@ -2887,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Dog Dribble",
+        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Dog Dribble",
+      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
+    },
+    {
+      "album": {
         "name": "Dogear",
         "url": "https://open.spotify.com/album/16BjbpK5u6IOKJPhsR0UOD"
       },
@@ -3388,7 +3478,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 366946,
       "name": "Ecig",
       "url": "https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX"
@@ -4224,6 +4314,24 @@
       "duration_ms": 274120,
       "name": "Four Leaf Clover",
       "url": "https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC"
+    },
+    {
+      "album": {
+        "name": "Fourth Street",
+        "url": "https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl"
+      },
+      "artists": [
+        {
+          "name": "Dutch Interior",
+          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252360,
+      "name": "Fourth Street",
+      "url": "https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB"
     },
     {
       "album": {
@@ -5070,7 +5178,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 226594,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz"
@@ -5468,6 +5576,24 @@
       "duration_ms": 184562,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL"
+    },
+    {
+      "album": {
+        "name": "High Value Male",
+        "url": "https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx"
+      },
+      "artists": [
+        {
+          "name": "Papa Jupe's T.C.",
+          "url": "https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222370,
+      "name": "High Value Male",
+      "url": "https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6"
     },
     {
       "album": {
@@ -8794,7 +8920,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 243462,
       "name": "Oh Well",
       "url": "https://open.spotify.com/track/7hTKP9eipC9wQLklpbojTX"
@@ -8870,6 +8996,24 @@
       "duration_ms": 256773,
       "name": "On The Road",
       "url": "https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX"
+    },
+    {
+      "album": {
+        "name": "One More Trip Around The Sun",
+        "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272800,
+      "name": "One More Trip Around The Sun",
+      "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
     },
     {
       "album": {
@@ -9068,6 +9212,24 @@
       "duration_ms": 216108,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
+    },
+    {
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
       "album": {
@@ -10222,7 +10384,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 197973,
       "name": "Running The Madness",
       "url": "https://open.spotify.com/track/1RYxVFfhqEF7z4ZEwovlTH"
@@ -10366,7 +10528,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 257000,
       "name": "Schmetterling",
       "url": "https://open.spotify.com/track/1FdKU2jBVHNlsY5SdT5v9N"
@@ -10780,7 +10942,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 196440,
       "name": "Sick Sweet",
       "url": "https://open.spotify.com/track/4nWJkUQsbhL411zU29VNYK"
@@ -11248,7 +11410,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 287701,
       "name": "Squid",
       "url": "https://open.spotify.com/track/61k4hy4UTqLzx7U5c4jxJC"
@@ -13054,7 +13216,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
@@ -13202,6 +13364,24 @@
       "duration_ms": 318652,
       "name": "Warm Storm",
       "url": "https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX"
+    },
+    {
+      "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
     },
     {
       "album": {

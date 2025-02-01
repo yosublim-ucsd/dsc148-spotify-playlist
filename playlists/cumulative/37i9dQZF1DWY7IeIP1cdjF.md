@@ -2,9 +2,9 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Bad Bunny, Neton Vega, Blessd, KAROL G, and more\. 🔥🍑
+> Reggaeton hits from J Balvin, Bad Bunny, Neton Vega, KAROL G, and more\. 🔥🍑
 
-574 songs - 1 day 7 hr 47 min
+575 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [EN VISTO](https://open.spotify.com/track/1fFB8ahI0ZwU3X9mimCpjb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 2:33 | 2023-09-15 | 2023-11-11 |
 | [Enrolar \- Fantastic Four Remix](https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Enrolar \(Fantastic Four Remix\)](https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO) | 5:03 | 2024-04-19 | 2024-05-18 |
 | [Entendemos](https://open.spotify.com/track/2Pz9DnS04JtX70gERPeorz) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Sistema](https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM) | 3:33 | 2021-12-24 | 2022-02-05 |
-| [Entre Comillas](https://open.spotify.com/track/3DZbD0uamk2l6pm9p9hyWP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [El Alma De La Fiesta](https://open.spotify.com/album/32y8xkeCWnJhMuuP4rHcYX) | 3:43 | 2024-12-13 |  |
+| [Entre Comillas](https://open.spotify.com/track/3DZbD0uamk2l6pm9p9hyWP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [El Alma De La Fiesta](https://open.spotify.com/album/32y8xkeCWnJhMuuP4rHcYX) | 3:43 | 2024-12-13 | 2025-02-01 |
 | [ENVIGADO](https://open.spotify.com/track/3gmtblJALwQcketcpUjK5e) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [ENVIGADO](https://open.spotify.com/album/5XCVSBjX4okDLL5xRfUmeU) | 3:40 | 2024-05-10 | 2024-06-23 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-11 | 2022-11-14 |
 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 | 2022-03-04 | 2022-03-12 |
@@ -454,6 +454,7 @@
 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-03-17 | 2023-04-29 |
 | [Revolú](https://open.spotify.com/track/4lqJsJd7kqWVvamQ4aFHA8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:35 | 2024-11-15 |  |
 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 | 2023-04-07 | 2023-04-29 |
+| [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-01-31 |  |
 | [RITMO DE MEDALLO](https://open.spotify.com/track/30ZwYmaZ9rrmjlEHLhF8qR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 1:58 | 2023-10-06 | 2023-12-02 |
 | [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-09-29 | 2023-10-13 |
 | [Rolls\-Royce](https://open.spotify.com/track/0MvBwodAYMxyL4VHqFI1QM) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Rolls\-Royce](https://open.spotify.com/album/4oqhWvUVK4EunS0ALx8svu) | 3:25 | 2023-06-09 | 2023-07-29 |

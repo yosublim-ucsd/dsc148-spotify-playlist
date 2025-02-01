@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,285 likes - 50 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,346 likes - 50 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 28 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 |
 | 29 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
 | 30 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 |
-| 31 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 |
-| 32 | [Surya Namaskar Mantra](https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Surya Namaskar Mantra](https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ) | 6:33 |
+| 31 | [Surya Namaskar Mantra](https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Surya Namaskar Mantra](https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ) | 6:33 |
+| 32 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 |
 | 33 | [Sri Krishnam Sharanam](https://open.spotify.com/track/5pI8lmM1oO98tQJAgHZRM4) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [My Krishna Favourites](https://open.spotify.com/album/48ZoHCSFnH4BQiRKXxTuUX) | 11:48 |
 | 34 | [Om Tryambakam: Mantra for Health](https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 8:33 |
 | 35 | [Shreeman Narayan Narayan Hari Hari \(Slowed+Reverb\)](https://open.spotify.com/track/6FKnIfpuNmME5OwIjU9p4s) | [Devashri Golambare](https://open.spotify.com/artist/6aemmgP92XrDhb5NoFdNjH) | [Shreeman Narayan Narayan Hari Hari \(Slowed+Reverb\)](https://open.spotify.com/album/2rFfLhWfXtDcVDPtgDPTnw) | 9:59 |

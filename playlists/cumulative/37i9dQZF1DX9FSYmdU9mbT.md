@@ -2,9 +2,9 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Maria Bethânia, Caetano Veloso
+> Os grandes artistas da MPB\. Foto: Tim Maia
 
-164 songs - 10 hr 22 min
+166 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,11 +101,12 @@
 | [Metamorfose Ambulante](https://open.spotify.com/track/2Yk0HvfTaijA47aM0Fj88u) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ["Krig\-Ha, Bandolo"](https://open.spotify.com/album/2xRddGxRH0KdDWLNE5b0iu) | 3:51 | 2022-06-24 | 2024-04-19 |
 | [Meu Bem\-Querer \(Ao Vivo\)](https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:14 | 2024-01-29 |  |
 | [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-04-22 | 2024-08-24 |
-| [Monólogo](https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Canções Para Um Novo Mundo](https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5) | 3:12 | 2025-01-14 |  |
+| [Monólogo](https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Canções Para Um Novo Mundo](https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5) | 3:12 | 2025-01-14 | 2025-02-01 |
 | [Mutirão de Amor \- Ao Vivo](https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Eterna Alegria \(Special Edition\) \[Ao Vivo\]](https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z) | 3:25 | 2024-09-13 |  |
 | [Nem um Dia](https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Malásia](https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa) | 5:46 | 2021-12-31 |  |
 | [Noturno \(Coração Alado\)](https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [JB FM](https://open.spotify.com/artist/1xwN91NLLDytxVQkqclZRu) | [Couvert Artístico JB FM: Fagner](https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue) | 4:36 | 2022-08-26 |  |
 | [Nu Com a Minha Música](https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Nu Com a Minha Música \(EP\)](https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw) | 4:43 | 2021-12-31 |  |
+| [Não Sei Dançar](https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Lima](https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj) | 5:05 | 2025-01-31 |  |
 | [Não é um Bolero](https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw) | 4:21 | 2021-12-31 |  |
 | [Não É um Bolero](https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M) | 4:21 | 2022-06-24 | 2024-04-19 |
 | [Não É um Bolero](https://open.spotify.com/track/0B5J5ftNUXMbcsjHz6hb71) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Não É um Bolero](https://open.spotify.com/album/7bTQyV5D8AuUgWaAV7kyDu) | 4:23 | 2022-11-09 | 2022-11-13 |
@@ -130,7 +131,7 @@
 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 | 2021-12-31 |  |
 | [Paisagem da Janela \- Ao Vivo](https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tênis + Clube \- Ao Vivo No Circo Voador](https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ) | 3:12 | 2021-12-31 |  |
 | [Planos do Céu](https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Planos do Céu](https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V) | 4:07 | 2024-07-26 | 2024-12-10 |
-| [Pote D'Água](https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lourimbau](https://open.spotify.com/artist/2DADvBzRBVfGLburXTOb7y), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Pote D'Água](https://open.spotify.com/album/2hf5j7Y5mt0cE37GsEwfdg) | 3:28 | 2025-01-17 |  |
+| [Pote D'Água](https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lourimbau](https://open.spotify.com/artist/2DADvBzRBVfGLburXTOb7y), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Pote D'Água](https://open.spotify.com/album/2hf5j7Y5mt0cE37GsEwfdg) | 3:28 | 2025-01-17 | 2025-02-01 |
 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 | 2021-12-31 |  |
 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 | 2021-12-31 |  |
 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 | 2021-12-31 |  |
@@ -172,5 +173,6 @@
 | [É Hora](https://open.spotify.com/track/5AmkIw8rvELi7RL3QVafnv) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Origem \(73\-75\)](https://open.spotify.com/album/7G1EZVDStHryU6HEgLoeEQ) | 3:37 | 2024-12-06 |  |
 | [É O Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/4NTR6pdFJ0WeDcNk5SQ222) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/2i3C0flV9Ja7NWidhVLKl2) | 4:01 | 2021-12-31 | 2023-05-27 |
 | [É o Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/6LjrP4M1HHQk6CbpV4Cvdd) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/2qE704S1dUX6fllitqbJWz) | 4:01 | 2023-04-07 | 2023-10-21 |
+| [É Preciso Dar Um Jeito, Meu Amigo](https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:47 | 2025-01-31 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: SDM, Rim'K
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,919 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,931 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Run](https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Run](https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4) | 2:59 |
 | 2 | [Elle est bonne](https://open.spotify.com/track/1NY5sirmSCfQ7w8eIwQ6nB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:59 |
-| 3 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
-| 4 | [02:00](https://open.spotify.com/track/62L3acprR92NoRib0zWigG) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:17 |
-| 5 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
+| 3 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
+| 4 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
+| 5 | [02:00](https://open.spotify.com/track/62L3acprR92NoRib0zWigG) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:17 |
 | 6 | [Alpha](https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:48 |
 | 7 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 |
 | 8 | [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 50 | [Prime](https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Prime](https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP) | 2:58 |
 | 51 | [TRISTE & CÉLÈBRE](https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [MAELSTRÖM](https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl) | 1:48 |
 
-Snapshot ID: `Z5MegAAAAAAplnzQ+XdluQrs4/Ds2Icz`
+Snapshot ID: `Z5xY9wAAAACLyoWtRaZ7uDF4sElI0Z7I`

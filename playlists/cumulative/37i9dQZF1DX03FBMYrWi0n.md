@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: La Sécurité
 
-221 songs - 12 hr 50 min
+222 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Boys Will Be Boys](https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Contre\-sens](https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX) | 3:53 | 2024-05-24 |  |
 | [Butane](https://open.spotify.com/track/4Gz17gxip7P72DZ8CIzwRI) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Butane](https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd) | 3:47 | 2023-03-10 | 2023-05-08 |
 | [C'est la vie](https://open.spotify.com/track/0APhfeS3AIbmKCa01WK2YO) | [Peanut Butter Sunday](https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB) | [Quoi\-ce y'a pour souper?](https://open.spotify.com/album/7xI5Vn3wJ1LGK5cHI52XdW) | 3:35 | 2023-08-18 | 2023-09-09 |
-| [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2023-02-10 |  |
+| [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2023-02-10 | 2025-02-01 |
 | [Cantalou](https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:31 | 2023-02-10 |  |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2023-02-10 |  |
 | [Ce qu'on aura](https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Ce qu'on aura](https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl) | 3:56 | 2024-01-26 | 2024-06-01 |
@@ -105,6 +105,7 @@
 | [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 | 2024-04-05 | 2024-04-19 |
 | [K9](https://open.spotify.com/track/6vKKnSBuPeE7ZQLfwjW4re) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 5:02 | 2023-06-16 | 2024-09-21 |
 | [Kaléidoscope](https://open.spotify.com/track/0Ftgq4He4Gf6llPi0sJfaY) | [Caravane](https://open.spotify.com/artist/6hCBXCqoy6C3nNddhQsWRT) | [Kaléidoscope](https://open.spotify.com/album/27nWncmd558GGghngqlC4T) | 2:07 | 2023-10-20 | 2023-11-16 |
+| [Ketchup](https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Ketchup](https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY) | 2:44 | 2025-01-31 |  |
 | [L'heure des fontaines](https://open.spotify.com/track/1r5bR0LbpqBVHQqZvzICuJ) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [L'heure des fontaines](https://open.spotify.com/album/2bjM6zDrQDanqa1AGX2QWA) | 2:58 | 2023-10-27 | 2023-12-10 |
 | [l'Île](https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [l'Île](https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U) | 3:02 | 2023-06-02 | 2023-09-30 |
 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 | 2023-02-10 |  |

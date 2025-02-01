@@ -1,6 +1,6 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 5344,
+  "num_followers": 5363,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "Vulgar Display of Power",
         "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 315120,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 278746,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "That's The Spirit",
         "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 222093,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 278746,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "Koi No Yokan",
         "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 164986,
       "name": "Swerve City",
       "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Wash It All Away",
-      "url": "https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 210133,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Wash It All Away",
+      "url": "https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/5adBpeh1CjHAzlM2i8nYFR"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/5adBpeh1CjHAzlM2i8nYFR"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Soldiers",
-        "url": "https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ"
-      },
-      "artists": [
-        {
-          "name": "Otherwise",
-          "url": "https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa"
-        }
-      ],
-      "duration_ms": 241848,
-      "name": "Soldiers",
-      "url": "https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 279333,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "Soldiers",
+        "url": "https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ"
+      },
+      "artists": [
+        {
+          "name": "Otherwise",
+          "url": "https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa"
+        }
+      ],
+      "duration_ms": 241848,
+      "name": "Soldiers",
+      "url": "https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Phenomenon",
-        "url": "https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM"
-      },
-      "artists": [
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 210706,
       "name": "Asking for It",
       "url": "https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Don\u2019t Want To Be Here Anymore",
+      "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
         "name": "Dark Before Dawn",
         "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 223546,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Don\u2019t Want To Be Here Anymore",
-      "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
     },
     {
       "added_at": "2024-09-02 13:40:17",

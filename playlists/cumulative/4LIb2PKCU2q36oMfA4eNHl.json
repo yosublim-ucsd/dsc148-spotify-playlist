@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185558,
       "name": "It\u2019s Just Like Falling Asleep",
       "url": "https://open.spotify.com/track/0N4WBR930pFq8xog7jvTZN"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 314295,
       "name": "Mr Man - Dusky Revisit",
       "url": "https://open.spotify.com/track/6ONDVODCret7ec2c1xxwkJ"
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 187428,
       "name": "Outro",
       "url": "https://open.spotify.com/track/1KhqgEhefduhFEIwUwMxMT"
@@ -3814,6 +3814,24 @@
       "duration_ms": 190735,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/676TDDDpvxBeddNHeJJ5Uy"
+    },
+    {
+      "album": {
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269935,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/7t5a28dyiW0JajSQ3CFuzg"
     },
     {
       "album": {
@@ -4556,7 +4574,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 102400,
       "name": "Thank You For Being With Us",
       "url": "https://open.spotify.com/track/3isilANQ3FmcSFoIEMAcnc"
@@ -4940,6 +4958,32 @@
       "duration_ms": 179000,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/6tbkjEH6uEajWZjrLzd3CK"
+    },
+    {
+      "album": {
+        "name": "Watch You Say Goodbye",
+        "url": "https://open.spotify.com/album/41hWpc9fB0AeSSIGpNsSLv"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Martire",
+          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
+        },
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        },
+        {
+          "name": "Ellyn Woods",
+          "url": "https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194892,
+      "name": "Watch You Say Goodbye",
+      "url": "https://open.spotify.com/track/3pIBbGT18ynA3uVi4PbV5T"
     },
     {
       "album": {

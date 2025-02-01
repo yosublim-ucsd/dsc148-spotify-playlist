@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con M\u00e9rida en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Sofish en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193600,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/0icWXRGdopPIamBatGerqU"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249990,
+      "name": "Constelaci\u00f3n",
+      "url": "https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO"
+    },
+    {
+      "album": {
         "name": "Contenta",
         "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
       },
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 178160,
       "name": "Desastre Emocional",
       "url": "https://open.spotify.com/track/7ra9A7fAuuEjTyadsObgHI"
@@ -3086,6 +3104,24 @@
       "duration_ms": 178588,
       "name": "disfraz",
       "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
+    },
+    {
+      "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/7oB95w3WxmSGIZ6DINTdJK"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/1T1DjLjxX8SHBqva8E8yBt"
     },
     {
       "album": {
@@ -3438,7 +3474,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 251546,
       "name": "El Llamado",
       "url": "https://open.spotify.com/track/1Z0IeSBzx9xFvwAZHSovaC"
@@ -3500,7 +3536,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 263600,
       "name": "ella brilla",
       "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
@@ -7359,6 +7395,24 @@
     },
     {
       "album": {
+        "name": "Nuevo A\u00f1o",
+        "url": "https://open.spotify.com/album/2PXL2vzFmtqMqeq6DsYH3R"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164170,
+      "name": "Nuevo A\u00f1o",
+      "url": "https://open.spotify.com/track/5YS8z363BIlihUBcvFGmGN"
+    },
+    {
+      "album": {
         "name": "Femme Fatale",
         "url": "https://open.spotify.com/album/6wX6esnD9cfrG4WszpaE4r"
       },
@@ -7954,6 +8008,24 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "album": {
+        "name": "pensamientos intrusivos",
+        "url": "https://open.spotify.com/album/0v6FPU1D8KG6n5O1rDHjsG"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183548,
+      "name": "pensamientos intrusivos",
+      "url": "https://open.spotify.com/track/4gOS2BMl1hipHqDdx0C5xh"
     },
     {
       "album": {

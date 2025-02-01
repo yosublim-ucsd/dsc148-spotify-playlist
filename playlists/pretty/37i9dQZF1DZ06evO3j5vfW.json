@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71925,
+  "num_followers": 71927,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAB3SmWqt/ShmcBpVhip2ao3",
+  "snapshot_id": "Z5rBAAAAAAA2GLmFkpoEYAedEa4qMjvs",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To The Floor (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
+      },
+      "artists": [
+        {
+          "name": "Loud 'N Bright",
+          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "To The Floor (Nicky Romero Edit)",
+      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 201904,
       "name": "Sign",
       "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To The Floor (Nicky Romero Edit)",
-        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
-      },
-      "artists": [
-        {
-          "name": "Loud 'N Bright",
-          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "To The Floor (Nicky Romero Edit)",
-      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 238636,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
+        "name": "Here We Go (Hey Boy, Hey Girl)",
+        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
       },
       "artists": [
         {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "Amba Shepherd",
-          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
         }
       ],
-      "duration_ms": 202968,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
+      "duration_ms": 158095,
+      "name": "Here We Go (Hey Boy, Hey Girl)",
+      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
     },
     {
       "added_at": null,
@@ -1075,22 +1071,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here We Go (Hey Boy, Hey Girl)",
-        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Amba Shepherd",
+          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Here We Go (Hey Boy, Hey Girl)",
-      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
+      "duration_ms": 202968,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
     },
     {
       "added_at": null,
@@ -1155,26 +1155,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
+        "name": "Neon Future III",
+        "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
       },
       "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Alexander Tidebrink",
-          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
         }
       ],
-      "duration_ms": 253440,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
+      "duration_ms": 198281,
+      "name": "Be Somebody (feat. Kiiara)",
+      "url": "https://open.spotify.com/track/0YnJVay1kDxknXcIigPSvn"
     }
   ],
   "unique_name": "This Is Nicky Romero",

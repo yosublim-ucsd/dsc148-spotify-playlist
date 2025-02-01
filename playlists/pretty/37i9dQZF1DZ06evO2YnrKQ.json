@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 22972,
+  "num_followers": 22978,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAC2Xk2FcTAzDYm9mXCrWIoK",
+  "snapshot_id": "Z5rBAAAAAACVm7HEkTbJ3LXXfwn26lAn",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Switcheroo Series",
-        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
+        "name": "Crisis (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 347253,
-      "name": "Tonight, I'm Going to Wash the Hippy",
-      "url": "https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1"
+      "duration_ms": 255293,
+      "name": "Thrones",
+      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crisis (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
+        "name": "The Switcheroo Series",
+        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 255293,
-      "name": "Thrones",
-      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
+      "duration_ms": 347253,
+      "name": "Tonight, I'm Going to Wash the Hippy",
+      "url": "https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1"
     },
     {
       "added_at": null,

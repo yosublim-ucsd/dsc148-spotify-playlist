@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,516 likes - 590 songs - 1 day 17 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,515 likes - 590 songs - 1 day 17 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -575,14 +575,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 565 | [The Muse \- 12" Version](https://open.spotify.com/track/5c9oymBkuArYOh6GOPjOPs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 4:22 |
 | 566 | [Taivas Katseessaan](https://open.spotify.com/track/32kVv2gCU558EavsvX4dq1) | [Pentti Hietanen](https://open.spotify.com/artist/5WKwKSJSvST4M68V2NerXc) | [Kyynelten Kiertorata](https://open.spotify.com/album/4tIiXIOacVfOQDnFEFajSP) | 3:31 |
 | 567 | [Back To The Aquarium](https://open.spotify.com/track/0XdP5Xlov5R5tmXN7tBYyL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:53 |
-| 568 | [The Wrong Gift](https://open.spotify.com/track/6WmTBqoLd5agrTigmY9UlX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 3:00 |
-| 569 | [Hero On Parade](https://open.spotify.com/track/1lyoDgnhdyrlrkmSgoKZMt) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Somewhere In America](https://open.spotify.com/album/67K5EUC0hv16IqV55Zqp9O) | 3:20 |
-| 570 | [The Aquarium](https://open.spotify.com/track/1SvfoPOzHfMOUUrpIFWYfT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:11 |
-| 571 | [Multiple Personality](https://open.spotify.com/track/22T5cU9o04iPYXpo3IlDkX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:22 |
-| 572 | [Driving To Jack's](https://open.spotify.com/track/5opXTi9lUzpY5DquFhgeLw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 |
-| 573 | [Steven Redecorates](https://open.spotify.com/track/54vKtWNvyQ4SEvGP5t2YMi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:42 |
-| 574 | [Sarah Escapes](https://open.spotify.com/track/65BiTzOh9L9VP7av8YtIJC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:44 |
-| 575 | [Are We Laughing?](https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 |
+| 568 | [The Aquarium](https://open.spotify.com/track/1SvfoPOzHfMOUUrpIFWYfT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:11 |
+| 569 | [The Wrong Gift](https://open.spotify.com/track/6WmTBqoLd5agrTigmY9UlX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 3:00 |
+| 570 | [Hero On Parade](https://open.spotify.com/track/1lyoDgnhdyrlrkmSgoKZMt) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Somewhere In America](https://open.spotify.com/album/67K5EUC0hv16IqV55Zqp9O) | 3:20 |
+| 571 | [Sarah Escapes](https://open.spotify.com/track/65BiTzOh9L9VP7av8YtIJC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:44 |
+| 572 | [Multiple Personality](https://open.spotify.com/track/22T5cU9o04iPYXpo3IlDkX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:22 |
+| 573 | [Driving To Jack's](https://open.spotify.com/track/5opXTi9lUzpY5DquFhgeLw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 |
+| 574 | [Are We Laughing?](https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 |
+| 575 | [Steven Redecorates](https://open.spotify.com/track/54vKtWNvyQ4SEvGP5t2YMi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:42 |
 | 576 | [Take A Walk With Me](https://open.spotify.com/track/1XeIRu72rmMcmLXaBFL1Sk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:29 |
 | 577 | [Driving Home](https://open.spotify.com/track/5m0r7BBTv6mhkcB1ZQ6702) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:49 |
 | 578 | [Better Have A Gift](https://open.spotify.com/track/7j8ryi6b9DXpkCYtFRvbNp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:06 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 589 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 |
 | 590 | [Driving To Universal](https://open.spotify.com/track/040KoSuQEPnxcuOoEYJVVI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:17 |
 
-Snapshot ID: `AboSAAAAAADEaJcAlNGPfcKWtfesMN/i`
+Snapshot ID: `AboXyAAAAABKZpaX7t5Z/Oa9Ptp0wS70`

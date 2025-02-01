@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/3sHmvrCn5ZTEMeCGnkQytk"
+      },
+      "artists": [
+        {
+          "name": "Kayce Laine",
+          "url": "https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Ad Astra",
+      "url": "https://open.spotify.com/track/0Xj3UaGsskZSPvzYowxMmd"
+    },
+    {
+      "album": {
         "name": "Ahimsa",
         "url": "https://open.spotify.com/album/4ik1k0ZjV52DGDKqQXiZ4m"
       },
@@ -437,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Circle of Protection",
+        "url": "https://open.spotify.com/album/0mUiJQB1s4kBqh9doY0977"
+      },
+      "artists": [
+        {
+          "name": "Healing Potion",
+          "url": "https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152679,
+      "name": "Circle of Protection",
+      "url": "https://open.spotify.com/track/66jbpDBE9mr18aHsnk6QzV"
+    },
+    {
+      "album": {
         "name": "Crystal Singing Bowl Solo Collection",
         "url": "https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08"
       },
@@ -676,7 +712,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 227777,
       "name": "Delta",
       "url": "https://open.spotify.com/track/60F0k85iy85pjlPEhj5AQN"
@@ -1562,6 +1598,24 @@
       "duration_ms": 176000,
       "name": "New Breaths (Sound Bath)",
       "url": "https://open.spotify.com/track/2YppGyFYPKYX0CCMW12rc0"
+    },
+    {
+      "album": {
+        "name": "New Force",
+        "url": "https://open.spotify.com/album/0lwbr5oIOR3CFgSC8lt4Fm"
+      },
+      "artists": [
+        {
+          "name": "Ashami Mantras",
+          "url": "https://open.spotify.com/artist/2GRKiHcYCBni3lSujepe79"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171900,
+      "name": "New Force",
+      "url": "https://open.spotify.com/track/6kVYw6szdMMK7jcZKhQzQd"
     },
     {
       "album": {

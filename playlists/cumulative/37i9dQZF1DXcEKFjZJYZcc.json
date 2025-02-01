@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0MqoHMpKaqsbk3SoczCHdm"
+      },
+      "artists": [
+        {
+          "name": "Glenn Natale",
+          "url": "https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148066,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/60TxqqKAFvonXBZ0NbSFXB"
+    },
+    {
+      "album": {
         "name": "Eisriesenwelt",
         "url": "https://open.spotify.com/album/62GiMxJNxVwm31dn89uC5t"
       },
@@ -5348,6 +5366,24 @@
       "duration_ms": 143867,
       "name": "Utsjoki",
       "url": "https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH"
+    },
+    {
+      "album": {
+        "name": "Vallem Amnis",
+        "url": "https://open.spotify.com/album/31OAlgXkFQC6cNqPgI4OYr"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "Vallem Amnis",
+      "url": "https://open.spotify.com/track/6eBxKLQLiUFAyKTk1ne3gt"
     },
     {
       "album": {

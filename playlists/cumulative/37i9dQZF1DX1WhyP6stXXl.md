@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Leony, G\-Eazy, Felix Jaehn
 
-725 songs - 1 day 12 hr 29 min
+727 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Crush](https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Crush](https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D) | 3:15 | 2024-08-01 | 2024-08-30 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-08 | 2024-09-06 |
 | [Cry Baby](https://open.spotify.com/track/0NrOeqIaRmnZT1xWw4Onr1) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Cry Baby](https://open.spotify.com/album/3ESzkaJUUVHRvClOdjzoNV) | 2:55 | 2024-12-05 | 2025-01-10 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [cupped and open](https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [cupped and open](https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT) | 3:56 | 2024-11-14 | 2024-12-13 |
 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 | 2024-06-28 | 2024-07-19 |
 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 | 2024-10-31 | 2024-11-22 |
@@ -402,6 +403,7 @@
 | [Losing My Mind](https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Losing My Mind](https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH) | 3:10 | 2024-11-21 | 2024-12-20 |
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-03 | 2024-10-25 |
 | [love does not need time](https://open.spotify.com/track/0cNmv2ef2bKHXKkCzGCBBl) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [love does not need time](https://open.spotify.com/album/0OMwbEe3eWjbmkDzO7hQxO) | 2:18 | 2024-11-14 | 2024-12-13 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-16 | 2025-01-31 |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-30 |  |
 | [Love Me](https://open.spotify.com/track/1sk5k0JRthaPJXBVxAK1fE) | [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [Love Me](https://open.spotify.com/album/66jmQLa1ALLwEfp9axy0dk) | 2:20 | 2024-11-08 | 2024-12-06 |
@@ -569,7 +571,7 @@
 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-01-16 |  |
 | [small](https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [small](https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk) | 3:33 | 2024-10-31 | 2024-11-15 |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 | 2025-01-24 |
-| [Snake](https://open.spotify.com/track/4phAC7DuhNZHyoB0l1li4j) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Snake](https://open.spotify.com/album/6QeWrzNuMVIGNKwwsNjksS) | 1:53 | 2025-01-16 |  |
+| [Snake](https://open.spotify.com/track/4phAC7DuhNZHyoB0l1li4j) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Snake](https://open.spotify.com/album/6QeWrzNuMVIGNKwwsNjksS) | 1:53 | 2025-01-16 | 2025-02-01 |
 | [Solitude](https://open.spotify.com/track/534LueCImkuvFriDEIxUiS) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:33 | 2024-06-28 | 2024-07-13 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-26 | 2024-10-25 |
 | [Somebody \(Like You\)](https://open.spotify.com/track/1yQ7T5MWkQ7CXTgy4yXZRa) | [Thorsteinn Einarsson](https://open.spotify.com/artist/7kCeNecZvb7zxsnRUC8jTV) | [Somebody \(Like You\)](https://open.spotify.com/album/1qrMquuRAb6EwlOs1NE9DJ) | 2:42 | 2025-01-16 |  |

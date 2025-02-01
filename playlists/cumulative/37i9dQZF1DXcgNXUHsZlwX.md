@@ -2,9 +2,9 @@
 
 ### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
 
-> De la douceur pour accompagner votre journée\. 🍂
+> De la douceur pour accompagner votre journée\. ❄️
 
-482 songs - 1 day 4 hr 45 min
+484 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Appelle\-moi](https://open.spotify.com/track/3gGA2wHqIwip7i1XclXuKH) | [Véronique Trudel](https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK) | [Appelle\-moi](https://open.spotify.com/album/4lOU01m2Y2XkoVt8o9eMER) | 2:21 | 2021-04-04 | 2021-05-08 |
 | [Appropriation culturelle](https://open.spotify.com/track/2BQHeP5BLPpkEOlEv5CTVD) | [Navet Confit](https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D) | [Engagement, Lutte, Clan et Respect](https://open.spotify.com/album/5XhvCnXCEABGZeUoEkFv5t) | 5:37 | 2021-01-21 | 2021-11-19 |
 | [Après l'hiver](https://open.spotify.com/track/4qhO29pgBSBxOwZSpO5RQC) | [Véronique Trudel](https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK) | [Après l'hiver](https://open.spotify.com/album/3USD6naxmACbrfRGb76QKS) | 3:45 | 2021-01-03\* | 2022-07-20 |
+| [Ariane](https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:13 | 2025-01-31 |  |
 | [As My Old Man Always Said](https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 4:23 | 2022-02-04 |  |
 | [Asthmatique](https://open.spotify.com/track/2DU6yZypEq53onPfGcEGRu) | [Momo](https://open.spotify.com/artist/20svWRM5QSvvXMOWkyaHPN) | [Asthmatique](https://open.spotify.com/album/6cn7KRTqHatOtns7JlYIPY) | 2:14 | 2021-06-14 | 2021-10-23 |
 | [Au bout du monde](https://open.spotify.com/track/6hcoT48e93uJSiqES3eKMy) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Au bout du monde](https://open.spotify.com/album/3GglngNuy4H740Q3cfTv31) | 2:53 | 2022-02-25 | 2022-06-24 |
@@ -109,7 +110,7 @@
 | [Elle](https://open.spotify.com/track/74tfYbU9V6E73Kzf8KoxgE) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf), [David Bujold](https://open.spotify.com/artist/3erXqFbSNsihvzkRJSHZV7) | [L'éternel retour](https://open.spotify.com/album/0QdAA0cQPcVj2bM4kr7uNn) | 7:29 | 2021-01-16 | 2021-10-08 |
 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 | 2021-01-03\* |  |
 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 | 2024-08-24 |
-| [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 | 2021-01-03\* |  |
+| [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 | 2021-01-03\* | 2025-02-01 |
 | [Encore et encore](https://open.spotify.com/track/4kQtxAuiMW992AmzaEparm) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Encore et encore](https://open.spotify.com/album/5hu4NysMSIE8CykyRcYEYs) | 4:20 | 2021-01-03\* | 2021-09-30 |
 | [Endorphine](https://open.spotify.com/track/7FrdYdwPYseFuWGmJGjkb3) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Endorphine](https://open.spotify.com/album/0KBYgJIJdIoK6CdtepIwZO) | 3:58 | 2021-01-03\* | 2021-01-15 |
 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2023-10-20 |  |
@@ -384,10 +385,11 @@
 | [Qtv](https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 4:59 | 2022-10-14 | 2023-05-07 |
 | [Qtv](https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 4:59 | 2021-07-31 | 2022-10-13 |
 | [Quand j'te vois](https://open.spotify.com/track/0eaLnITFfQL5Qn0MvjWDGl) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Des milliers de plumes](https://open.spotify.com/album/7CUWKrepTHMWp3YmfgF20h) | 3:39 | 2021-01-03\* | 2021-01-30 |
+| [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 | 2025-01-31 |  |
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-07-25 |
-| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 |  |
+| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 | 2025-02-01 |
 | [Qué vendrá](https://open.spotify.com/track/7vM9PYre666so0kS0IBEhJ) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Qué vendrá](https://open.spotify.com/album/5IoQT1ITAc60MPlgMLSjQh) | 2:57 | 2021-02-23 | 2021-05-28 |
 | [Radio bingo](https://open.spotify.com/track/0sGeklmSEIOvf71AJqsPvK) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [J'ai Bu](https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK) | 4:24 | 2021-01-03\* | 2021-10-02 |
 | [Ramenez\-moi](https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Ramenez\-moi](https://open.spotify.com/album/1m9GgPn0v6d9X0504FKYa5) | 3:13 | 2021-02-13 | 2022-02-12 |

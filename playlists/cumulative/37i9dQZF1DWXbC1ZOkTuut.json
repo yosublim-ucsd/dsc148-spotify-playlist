@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de m\u00fasica mexicana del 2025. Hit shuffle for a mixed listening experience. Cover: Hector Rubio",
+  "description": "Descubre los nuevos \u00e1lbumes de m\u00fasica mexicana del 2025. Hit shuffle for a mixed listening experience. Cover: El Fantasma, Los Dos Carnales, Gerardo Diaz y su Gerarqu\u00eda",
   "name": "New M\u00fasica Mexicana albums ",
   "tracks": [
     {
@@ -1103,6 +1103,32 @@
     },
     {
       "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX"
+      },
+      "artists": [
+        {
+          "name": "Said Norzagaray",
+          "url": "https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Baccarat",
+      "url": "https://open.spotify.com/track/0xKYzVe655Sd39IWpbIko6"
+    },
+    {
+      "album": {
         "name": "Tributo A Joan Sebastian",
         "url": "https://open.spotify.com/album/6mL8a6g8HCsvlBKj1gvw7w"
       },
@@ -2126,6 +2152,28 @@
       "duration_ms": 162146,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
+    },
+    {
+      "album": {
+        "name": "Entre Hierba, Polvo y Plomo",
+        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191116,
+      "name": "Como un Fantasma",
+      "url": "https://open.spotify.com/track/0n9QY8FC316hdliuk5g5bQ"
     },
     {
       "album": {
@@ -3545,6 +3593,32 @@
     },
     {
       "album": {
+        "name": "Entre Hierba, Polvo y Plomo",
+        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166190,
+      "name": "El Falsete del Potrero",
+      "url": "https://open.spotify.com/track/4KzLrPyBU5o2ptSRjAHYtp"
+    },
+    {
+      "album": {
         "name": "Pa Que Sepan Como Roza La Cadena",
         "url": "https://open.spotify.com/album/1xoUpJwGPhfq2jqg7OtjdS"
       },
@@ -4567,6 +4641,32 @@
     },
     {
       "album": {
+        "name": "Entre Hierba, Polvo y Plomo",
+        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215594,
+      "name": "Entre Hierba, Polvo y Plomo",
+      "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "album": {
         "name": "Te Llevo En La Sangre",
         "url": "https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU"
       },
@@ -5580,6 +5680,24 @@
       "duration_ms": 166197,
       "name": "Jesus Malverde",
       "url": "https://open.spotify.com/track/4HQ1nLrJqx5qEAV0KIQ2wB"
+    },
+    {
+      "album": {
+        "name": "Torre Infiel, Vol. 2",
+        "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Joyas Y Mujeres",
+      "url": "https://open.spotify.com/track/3mEHrF2D2WUKwGlZZpyM0r"
     },
     {
       "album": {
@@ -7685,6 +7803,24 @@
     },
     {
       "album": {
+        "name": "Torre Infiel, Vol. 2",
+        "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Mex Tex",
+      "url": "https://open.spotify.com/track/2K1e0lTfhJIUXKf6pGKG8y"
+    },
+    {
+      "album": {
         "name": "Rancheras & Adictivas",
         "url": "https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m"
       },
@@ -9358,6 +9494,28 @@
       "duration_ms": 171334,
       "name": "PATRAS (with Yahritza Y Su Esencia)",
       "url": "https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9"
+    },
+    {
+      "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX"
+      },
+      "artists": [
+        {
+          "name": "Said Norzagaray",
+          "url": "https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp"
+        },
+        {
+          "name": "Carlos Caro",
+          "url": "https://open.spotify.com/artist/3zXsxf39Mj3d96u8Seopdd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208153,
+      "name": "Peaky Blinders",
+      "url": "https://open.spotify.com/track/6OGOuMMoOvAdFotkq2giGI"
     },
     {
       "album": {
@@ -11557,6 +11715,28 @@
     },
     {
       "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX"
+      },
+      "artists": [
+        {
+          "name": "Said Norzagaray",
+          "url": "https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143520,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/4u4nBxIwF0cnTnLIiyXW1C"
+    },
+    {
+      "album": {
         "name": "DESDE MI HABITACI\u00d3N",
         "url": "https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE"
       },
@@ -11692,6 +11872,24 @@
       "duration_ms": 255000,
       "name": "Te Agradezco Si Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/3xoGORtZcE4n4NHYNzYgFe"
+    },
+    {
+      "album": {
+        "name": "Torre Infiel, Vol. 2",
+        "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305828,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/3ssrMpzUCMixJVH065862p"
     },
     {
       "album": {

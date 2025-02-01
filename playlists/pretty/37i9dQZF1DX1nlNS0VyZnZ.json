@@ -1,6 +1,6 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 22331,
+  "num_followers": 22383,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "25 Horas",
-        "url": "https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr"
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
       "artists": [
         {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 247595,
-      "name": "25 Horas",
-      "url": "https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT"
+      "duration_ms": 293106,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
     },
     {
       "added_at": "2024-09-06 21:04:14",
@@ -59,18 +59,18 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+        "name": "25 Horas",
+        "url": "https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr"
       },
       "artists": [
         {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
         }
       ],
-      "duration_ms": 293106,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
+      "duration_ms": 247595,
+      "name": "25 Horas",
+      "url": "https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT"
     },
     {
       "added_at": "2024-09-06 21:04:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "Mi Propuesta 1996",
-        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 279680,
-      "name": "Ni Tu Ni Yo",
-      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
-    },
-    {
-      "added_at": "2024-09-06 21:04:14",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 268426,
       "name": "Este Ritmo Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/5562EZVkcwO43I03C29RuK"
+    },
+    {
+      "added_at": "2024-09-06 21:04:14",
+      "album": {
+        "name": "Mi Propuesta 1996",
+        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Ni Tu Ni Yo",
+      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
     },
     {
       "added_at": "2024-09-06 21:04:14",

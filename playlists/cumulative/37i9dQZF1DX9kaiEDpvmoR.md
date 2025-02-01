@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-284 songs - 16 hr 16 min
+286 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dekadens](https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI) | [Lustans Lakejer](https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN) | [Dekadens](https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ) | 3:27 | 2024-06-27 | 2024-08-23 |
 | [Del av dig \- Edit](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig \(Edit\)](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-06 | 2024-12-08 |
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-12 |  |
+| [Den känslan](https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Den känslan](https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2) | 2:46 | 2025-01-31 |  |
 | [Den var aldrig jag](https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Den var aldrig jag](https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4) | 4:04 | 2024-06-27 | 2024-08-09 |
 | [Det blir inte bättre](https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Det blir inte bättre](https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC) | 3:15 | 2024-06-27 | 2024-08-23 |
 | [Det bästa av allt](https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Somliga av oss](https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD) | 3:26 | 2024-10-17 |  |
@@ -225,7 +226,7 @@
 | [Som en sprucken mandolin](https://open.spotify.com/track/6NmjnuBzH9lE7AzKDLwadl) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Alla kan dansa](https://open.spotify.com/album/7iCxq3oFrvvFV2ojh0vaHA) | 3:40 | 2024-09-26 | 2024-11-08 |
 | [Som jag har längtat](https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Som jag har längtat](https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG) | 3:26 | 2024-06-27 | 2024-08-09 |
 | [Som sommaren](https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Som sommaren](https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa) | 3:48 | 2024-06-27 | 2024-08-16 |
-| [Someone You Used To Know](https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Someone You Used To Know](https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0) | 2:55 | 2024-09-12 |  |
+| [Someone You Used To Know](https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Someone You Used To Know](https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0) | 2:55 | 2024-09-12 | 2025-02-01 |
 | [Somethin' 'Bout A Woman](https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:30 | 2024-08-22 |  |
 | [Sommar utan slut](https://open.spotify.com/track/6VnbltOei0GciP5hgS7hk1) | [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR) | [Sommar utan slut](https://open.spotify.com/album/5BRyqlq7mMnNWE2mHSDxRF) | 3:03 | 2024-06-27 | 2024-08-09 |
 | [Sommarens famn](https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Sommarens famn](https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f) | 2:54 | 2024-06-27 | 2024-09-15 |
@@ -266,6 +267,7 @@
 | [Vill ha mer \- 2024 Version](https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII) | [Nordman](https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN) | [Vill ha mer \(2024 Version\)](https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl) | 2:44 | 2024-08-08 | 2024-10-13 |
 | [Vingar](https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Vingar](https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au) | 2:53 | 2024-06-27 | 2024-08-16 |
 | [Vinna guldet](https://open.spotify.com/track/28mPNsXcbYfUqNWMIAcqMb) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Vinna guldet](https://open.spotify.com/album/5GjvBVTWyQMXI7TCMLMKgR) | 3:05 | 2024-06-27 | 2024-08-09 |
+| [Voice Of The Silent](https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Voice Of The Silent](https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh) | 2:49 | 2025-01-31 |  |
 | [Vår vänskap består](https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD) | [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx), [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [Vår vänskap består](https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x) | 2:50 | 2024-09-19 | 2025-01-10 |
 | [Vårt år](https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vårt år](https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn) | 3:02 | 2024-10-24 | 2025-01-17 |
 | [Våt cigg](https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Våt cigg](https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip) | 2:57 | 2024-06-27 | 2024-08-30 |
@@ -280,7 +282,7 @@
 | [When The Time Is Right](https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr) | [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [When The Time Is Right](https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY) | 4:45 | 2024-10-03 | 2025-01-12 |
 | [Whenever Until Forever](https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Whenever Until Forever](https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH) | 3:44 | 2024-06-27 | 2024-08-30 |
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-08-22 |  |
-| [Whiskey Tears II](https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Whiskey Tears II](https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2) | 2:56 | 2025-01-09 |  |
+| [Whiskey Tears II](https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Whiskey Tears II](https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2) | 2:56 | 2025-01-09 | 2025-02-01 |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 |  |
 | [WILDSIDE](https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [WILDSIDE](https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV) | 2:47 | 2024-06-27 |  |
 | [Will You Run Away With Me](https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa) | 3:33 | 2024-10-17 | 2025-01-31 |

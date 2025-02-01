@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,804 likes - 329 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,803 likes - 329 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,9 +176,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 166 | [Yet](https://open.spotify.com/track/0tGZPaV2bO7ED43Ll0MlSZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:08 |
 | 167 | [McQueen](https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl) | [TrifeDrew](https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [McQueen](https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an) | 2:36 |
 | 168 | [Get Mine \(feat\. Snoop Dogg\)](https://open.spotify.com/track/03ELrHI2mfPwyi4ctQtvCx) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Get Mine \(feat\. Snoop Dogg\)](https://open.spotify.com/album/7IGKyfuDgE7Tq4CpLhBjqX) | 3:03 |
-| 169 | [Wokstar](https://open.spotify.com/track/50TQ7LHaimRwCKX7PZj7QJ) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:29 |
-| 170 | [Backboards \(feat\. Young Thug\)](https://open.spotify.com/track/64cvzCo2XswHSPREfMtIg6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Meekend](https://open.spotify.com/album/4Zni60dy8tgWwxLrDjlNeq) | 3:10 |
-| 171 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 |
+| 169 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 |
+| 170 | [Wokstar](https://open.spotify.com/track/50TQ7LHaimRwCKX7PZj7QJ) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:29 |
+| 171 | [Backboards \(feat\. Young Thug\)](https://open.spotify.com/track/64cvzCo2XswHSPREfMtIg6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Meekend](https://open.spotify.com/album/4Zni60dy8tgWwxLrDjlNeq) | 3:10 |
 | 172 | [Shake Sum](https://open.spotify.com/track/6Vr31KGNweHkfbqKpiAycA) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Young & Reckless](https://open.spotify.com/album/2jHVJj1fmzK4MGG0YozqD1) | 4:47 |
 | 173 | [Yellow Tape \(feat\. 21 Savage\)](https://open.spotify.com/track/0dI3G3tjLkyLOwqQebIFUO) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 3:24 |
 | 174 | [Bumblebee](https://open.spotify.com/track/0H7vYjXIEpGMPvzBXVApHJ) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:00 |
@@ -229,8 +229,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 219 | [Trap Star](https://open.spotify.com/track/39MJKyP5VPNP3kattTx9iO) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:22 |
 | 220 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
 | 221 | [No Jewelry](https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:36 |
-| 222 | [Big Dog](https://open.spotify.com/track/7FRMyc0lIplQaI3hdDvA61) | [MoeIsBetter](https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO) | [Big Dog](https://open.spotify.com/album/0rLpjEZaIvtqY1kqfK5ylv) | 2:30 |
-| 223 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 222 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 223 | [Big Dog](https://open.spotify.com/track/7FRMyc0lIplQaI3hdDvA61) | [MoeIsBetter](https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO) | [Big Dog](https://open.spotify.com/album/0rLpjEZaIvtqY1kqfK5ylv) | 2:30 |
 | 224 | [Aint Hard To Love](https://open.spotify.com/track/2KOr4KwQhSUdREDKj7Jdtf) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her \(Deluxe\)](https://open.spotify.com/album/1fMrXrKmZlzH6uM2O76Zz8) | 2:51 |
 | 225 | [Die In It](https://open.spotify.com/track/7l0ZJgT7qivX45J0D9fgKf) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 2:40 |
 | 226 | [Making of a Murderer](https://open.spotify.com/track/0TiwfeDAJOO0t5xOtugG7b) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:46 |
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 328 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 329 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AboSAAAAAADxurZd7E11O+CMCQL04MYl`
+Snapshot ID: `AboXlgAAAABn9wAIR3+YDViU5cp6lGMk`

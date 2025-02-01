@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-15",
-  "description": "Music from shows and movies you love including Interior Chinatown, now streaming on Hulu.",
+  "description": "Music from shows and movies you love including Paradise, now streaming on Hulu.",
   "name": "Hulu Hits",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 323106,
       "name": "Cheryl - From \"A Small Light: Episode 2\"",
       "url": "https://open.spotify.com/track/07XRSCOruiB0cV7Byi9Ktk"
+    },
+    {
+      "album": {
+        "name": "Paradise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Khosla",
+          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253769,
+      "name": "Christian Laettner",
+      "url": "https://open.spotify.com/track/3ppQ2k0mEcrxtxwUwX6okO"
     },
     {
       "album": {
@@ -798,6 +816,24 @@
       "duration_ms": 93944,
       "name": "Good Morning U.S.A. - Main Title Theme",
       "url": "https://open.spotify.com/track/5zqEtv7hgqhMTpFGRFZSpE"
+    },
+    {
+      "album": {
+        "name": "Paradise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Khosla",
+          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177377,
+      "name": "Grain of Salt",
+      "url": "https://open.spotify.com/track/1WKHA0UABRMMQEwChZVlhM"
     },
     {
       "album": {
@@ -1584,6 +1620,24 @@
       "duration_ms": 46179,
       "name": "Our Future",
       "url": "https://open.spotify.com/track/1jwILGKatMdgH2i7W03tJN"
+    },
+    {
+      "album": {
+        "name": "Paradise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Khosla",
+          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66824,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7xPXAu8b27xAbIugYXKmC5"
     },
     {
       "album": {

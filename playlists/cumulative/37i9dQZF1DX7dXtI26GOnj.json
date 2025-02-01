@@ -3207,6 +3207,28 @@
     },
     {
       "album": {
+        "name": "Estoy Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159755,
+      "name": "Estoy Aqu\u00ed - Remix",
+      "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
+    },
+    {
+      "album": {
         "name": "Eu Dou Tchau",
         "url": "https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI"
       },
@@ -5436,7 +5458,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 184242,
       "name": "Mania",
       "url": "https://open.spotify.com/track/0bbU8BfR7SeS1qE5Xpxzid"

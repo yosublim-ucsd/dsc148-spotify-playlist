@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Isadora Pompeo
 
-148 songs - 15 hr 27 min
+149 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 | 2022-09-02 | 2024-11-30 |
 | [Jeová Jireh](https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jeová Jireh](https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse) | 6:30 | 2023-02-24 |  |
 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 | 2022-09-02 | 2024-07-19 |
+| [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS) | [Vitor Santana](https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ) | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w) | 4:49 | 2025-01-31 |  |
 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 | 2022-09-02 | 2024-12-14 |
 | [Lindo Momento](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 | 2024-04-19 |  |
 | [Lindo És + Só Quero Ver Você \- Ao Vivo](https://open.spotify.com/track/2pIQ9nPm7mz5doKqv25tcy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Livres Ao Vivo Em São Paulo](https://open.spotify.com/album/2KiB0YFcNRgKOnlji9Ysx7) | 7:27 | 2022-10-07 | 2022-11-14 |
@@ -112,7 +113,7 @@
 | [Porque Ele Vive](https://open.spotify.com/track/2W9PRczUyBnRi8t4wzpwwq) | [Victor Valente](https://open.spotify.com/artist/0bvD77fzjmlT6znB31jexq), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Porque Ele Vive](https://open.spotify.com/album/2GvTMDNnh6WJfkeL0VDNkC) | 6:52 | 2024-01-05 | 2024-12-14 |
 | [Porque Ele Vive \- Ao Vivo](https://open.spotify.com/track/5vf2Pm7OtecvE7qEU6BIwX) | [Victor Valente](https://open.spotify.com/artist/0bvD77fzjmlT6znB31jexq), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Porque Ele Vive \(Ao Vivo\)](https://open.spotify.com/album/3X085WzabzRlHOkk66f3vX) | 6:52 | 2022-09-02 | 2024-04-19 |
 | [Promessas \(Promises\) \- Ao Vivo](https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Promessas \(Promises\) \[Ao Vivo\]](https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj) | 5:47 | 2023-02-06 |  |
-| [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 | 2022-09-02 |  |
+| [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 | 2022-09-02 | 2025-02-01 |
 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 | 2024-09-13 |  |
 | [Reacende a Chama \- Ao Vivo](https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Reacende a Chama \(Ao Vivo\)](https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc) | 7:57 | 2024-09-13 |  |
 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 | 2022-09-02 | 2023-02-07 |

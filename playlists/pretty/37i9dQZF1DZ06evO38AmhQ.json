@@ -1,29 +1,13 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21356,
+  "num_followers": 21375,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABdNqfnVe9rbCS6xkYGtDIf",
+  "snapshot_id": "Z5rBAAAAAAC7r96L1CSv9/iUIgPp/M6r",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Wanna Be An Aussie",
-        "url": "https://open.spotify.com/album/2piyE4rtwMCRL2ZoHZfybV"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "If You Wanna Be An Aussie",
-      "url": "https://open.spotify.com/track/1FYOtnbDojzxROBLGJBwsn"
-    },
     {
       "added_at": null,
       "album": {
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If You Wanna Be An Aussie",
+        "url": "https://open.spotify.com/album/2piyE4rtwMCRL2ZoHZfybV"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "If You Wanna Be An Aussie",
+      "url": "https://open.spotify.com/track/1FYOtnbDojzxROBLGJBwsn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boomerang Caf\u00e9",
         "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
       },
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "John Williamson: In Symphony",
-        "url": "https://open.spotify.com/album/4SvEahcLlJcRGaI8qRI4DK"
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 228186,
-      "name": "A Bushman Can't Survive",
-      "url": "https://open.spotify.com/track/52vVnJVanG26T4XMGkU1Tq"
+      "duration_ms": 271160,
+      "name": "Tubbo Station",
+      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+        "name": "John Williamson: In Symphony",
+        "url": "https://open.spotify.com/album/4SvEahcLlJcRGaI8qRI4DK"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 271160,
-      "name": "Tubbo Station",
-      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
+      "duration_ms": 228186,
+      "name": "A Bushman Can't Survive",
+      "url": "https://open.spotify.com/track/52vVnJVanG26T4XMGkU1Tq"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
       "duration_ms": 184906,
       "name": "Hillbilly Road",
       "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Album No.2",
-        "url": "https://open.spotify.com/album/0xuEMIv7f7oEMCtqM9Tgxu"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "You Come Back to Tassie",
-      "url": "https://open.spotify.com/track/1WzMWFopWcmhjCNr5eriDA"
     }
   ],
   "unique_name": "This Is John Williamson",

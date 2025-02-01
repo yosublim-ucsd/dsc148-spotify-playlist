@@ -252,7 +252,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 290655,
       "name": "All Your Days",
       "url": "https://open.spotify.com/track/40J1TaiS7nLpfHbF0SBL4K"
@@ -1626,6 +1626,32 @@
       "duration_ms": 225000,
       "name": "Lado a Lado",
       "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
+    },
+    {
+      "album": {
+        "name": "Leva-Me Al\u00e9m (One ao Vivo)",
+        "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        },
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Leva-Me Al\u00e9m (One ao Vivo)",
+      "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
     },
     {
       "album": {

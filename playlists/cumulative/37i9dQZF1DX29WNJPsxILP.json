@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
+  "description": "Best of Hindi Hip-Hop! Cover: Aanchal Tyagi & Raga",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -180,10 +180,36 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 149025,
       "name": "ABEYY DON HU",
       "url": "https://open.spotify.com/track/7LRFECXdwOyHhVk26w4ORH"
+    },
+    {
+      "album": {
+        "name": "FEROZI: THE ARRIVAL",
+        "url": "https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l"
+      },
+      "artists": [
+        {
+          "name": "FEROZI",
+          "url": "https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "ZeroToOne",
+          "url": "https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184363,
+      "name": "AGONY",
+      "url": "https://open.spotify.com/track/3LVc6NSg797cu24aF8dR3x"
     },
     {
       "album": {
@@ -698,7 +724,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 214153,
       "name": "Brahamachari",
       "url": "https://open.spotify.com/track/71Rp11WbiT4jNFsvsVTULU"
@@ -3267,6 +3293,32 @@
     },
     {
       "album": {
+        "name": "FEROZI: THE ARRIVAL",
+        "url": "https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l"
+      },
+      "artists": [
+        {
+          "name": "FEROZI",
+          "url": "https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "ZeroToOne",
+          "url": "https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "NO ID",
+      "url": "https://open.spotify.com/track/1V4FMAMLpKEATaJTtwY7Z8"
+    },
+    {
+      "album": {
         "name": "No Mercy",
         "url": "https://open.spotify.com/album/2aBu3zCR9Z69Xy2fZuhQv0"
       },
@@ -3498,7 +3550,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 303937,
       "name": "RED",
       "url": "https://open.spotify.com/track/7zrjicr33yF4WpDAdbvebQ"
@@ -3788,7 +3840,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 255254,
       "name": "Shakti Aur Kshama",
       "url": "https://open.spotify.com/track/67CZPR2aGFSTKL1r1zlzN8"
@@ -4229,6 +4281,28 @@
     },
     {
       "album": {
+        "name": "Naala Paar",
+        "url": "https://open.spotify.com/album/1Wyju7Q67NoXso8hBrBvCB"
+      },
+      "artists": [
+        {
+          "name": "OG Lucifer",
+          "url": "https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g"
+        },
+        {
+          "name": "Calm",
+          "url": "https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184639,
+      "name": "Terey papa",
+      "url": "https://open.spotify.com/track/7vIXP7osY1jcyIpX9hCeLt"
+    },
+    {
+      "album": {
         "name": "THAPPAD!",
         "url": "https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0"
       },
@@ -4244,6 +4318,24 @@
       "duration_ms": 114957,
       "name": "THAPPAD!",
       "url": "https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y"
+    },
+    {
+      "album": {
+        "name": "The Last Talk",
+        "url": "https://open.spotify.com/album/0JZrr1iTr7TK2C5YIqAaEm"
+      },
+      "artists": [
+        {
+          "name": "The Singh",
+          "url": "https://open.spotify.com/artist/5dFkHVAGFrmhjPwvfIQg14"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180678,
+      "name": "The Last Talk",
+      "url": "https://open.spotify.com/track/6Aq4cO87R2tW0pvEaJudhH"
     },
     {
       "album": {

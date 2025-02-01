@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 74661,
+  "num_followers": 74715,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAACaBvxbgjstoTPQAgBN9O7s",
+  "snapshot_id": "Z5rBAAAAAACPmrt3JeBRWIXfhfKsSx0p",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Acci\u00f3n",
-        "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
       "artists": [
         {
-          "name": "La Revancha RC",
-          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
-        },
-        {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 158270,
-      "name": "En Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
+      "duration_ms": 169745,
+      "name": "El Dos Letras De Jalisco (En Vivo)",
+      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
     },
     {
       "added_at": null,
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+        "name": "En Acci\u00f3n",
+        "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "La Revancha RC",
+          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
         },
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 169745,
-      "name": "El Dos Letras De Jalisco (En Vivo)",
-      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
+      "duration_ms": 158270,
+      "name": "En Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
     },
     {
       "added_at": null,

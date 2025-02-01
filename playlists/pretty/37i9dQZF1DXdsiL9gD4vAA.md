@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,253 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,298 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 21 | [Baalam](https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Baalam](https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2) | 4:20 |
 | 22 | [Gulon Mein Rang Bharey](https://open.spotify.com/track/5SRZ2MMFN7WD626usnTOma) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 6:13 |
 | 23 | [Baat Itni Si](https://open.spotify.com/track/4ISPpMP57Se1MYcDobKNnF) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Baat Itni Si](https://open.spotify.com/album/2jMB523HNQd8eMeZsspmhY) | 5:34 |
-| 24 | [Hoke Majboor](https://open.spotify.com/track/0AT0gJ1ItX40XbIChd106B) | [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Akshay Raheja](https://open.spotify.com/artist/7kF45gEqMa6LuPf1fA7hsr), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Taaza Khabar \(Season 2\)](https://open.spotify.com/album/1Tr46FL0dcPJAROmjY1PKm) | 4:17 |
-| 25 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 |
+| 24 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 |
+| 25 | [Hoke Majboor](https://open.spotify.com/track/0AT0gJ1ItX40XbIChd106B) | [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Akshay Raheja](https://open.spotify.com/artist/7kF45gEqMa6LuPf1fA7hsr), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Taaza Khabar \(Season 2\)](https://open.spotify.com/album/1Tr46FL0dcPJAROmjY1PKm) | 4:17 |
 | 26 | [Mehsoos \- From "Jashn \-E\- Ghazal"](https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Mehsoos \(From "Jashn \-E\- Ghazal"\)](https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX) | 5:06 |
 | 27 | [Ek Purana Mausam Lauta](https://open.spotify.com/track/1F3BM9e09myeUXSyj5czjr) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 6:16 |
 | 28 | [Bohot Bechain](https://open.spotify.com/track/3GtNTPRVYv86zXqrnLctlo) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Bohot Bechain](https://open.spotify.com/album/43GiOUSgHdwyo9PD6Bh6ZI) | 3:51 |

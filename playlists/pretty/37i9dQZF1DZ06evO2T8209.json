@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 674386,
+  "num_followers": 674748,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAABe5H1AVOb2yHXHcgpo4MRB",
+  "snapshot_id": "Z5rBAAAAAABiqhV6ZyAUvG+wj6od6Yoj",
   "tracks": [
     {
       "added_at": null,
@@ -668,17 +668,21 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 334363,
-      "name": "SMUCKERS (feat. Lil Wayne & Kanye West)",
-      "url": "https://open.spotify.com/track/078C2jXg7XsMgW78Gfx1JA"
+      "duration_ms": 179042,
+      "name": "FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)",
+      "url": "https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ"
     },
     {
       "added_at": null,
@@ -744,21 +748,17 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 179042,
-      "name": "FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)",
-      "url": "https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ"
+      "duration_ms": 334363,
+      "name": "SMUCKERS (feat. Lil Wayne & Kanye West)",
+      "url": "https://open.spotify.com/track/078C2jXg7XsMgW78Gfx1JA"
     },
     {
       "added_at": null,

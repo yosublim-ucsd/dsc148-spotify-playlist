@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 578052,
+  "num_followers": 578067,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5emfgAAAACMyHSdgyYZjuzRG9HzFJEw",
+  "snapshot_id": "Z5xY/gAAAAClvsGQzhqDLHGlH+m64lD0",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:27",
@@ -23,6 +23,30 @@
       "duration_ms": 123750,
       "name": "Wild and Steady",
       "url": "https://open.spotify.com/track/4y5w91db336cCz1AwPCNna"
+    },
+    {
+      "added_at": "2025-01-31 05:00:46",
+      "album": {
+        "name": "Say Yea (datadata Remix)",
+        "url": "https://open.spotify.com/album/2JIkxVX36uu3QYMK1AoD0a"
+      },
+      "artists": [
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        },
+        {
+          "name": "Bad Colours",
+          "url": "https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX"
+        },
+        {
+          "name": "datadata",
+          "url": "https://open.spotify.com/artist/3sgx42RuEGpRA5ejDfVgJ2"
+        }
+      ],
+      "duration_ms": 361819,
+      "name": "Say Yea - datadata Remix",
+      "url": "https://open.spotify.com/track/2fu0TreaZ0LrYRBuxuMGOr"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -903,30 +927,6 @@
       "duration_ms": 178457,
       "name": "Anzio",
       "url": "https://open.spotify.com/track/6hKaFy6fU9YR0H1SWqh1LT"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "MM.MMBL",
-        "url": "https://open.spotify.com/album/6e68CE8DwL8PrmKNUE8eFx"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Damon the Soulful Samurai",
-          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "MM.MMBL",
-      "url": "https://open.spotify.com/track/1RQEYUVt1pivgTFWGTi3wl"
     },
     {
       "added_at": "2023-07-07 04:01:00",

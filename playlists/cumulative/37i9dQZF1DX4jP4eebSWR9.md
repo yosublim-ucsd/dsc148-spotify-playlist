@@ -4,7 +4,7 @@
 
 > 50 Hits in einer Playlist! Cover: Oimara
 
-119 songs - 5 hr 45 min
+120 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-19 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-09-10 | 2024-10-02 |
 | [Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von hier an blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:56 | 2025-01-28 |  |
-| [NÜCHTERN](https://open.spotify.com/track/1uUo1d1amOQEfjOWirEw5Q) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [NÜCHTERN](https://open.spotify.com/album/7xKFVx6gSDKbJSfR9bPe3X) | 3:15 | 2024-11-12 |  |
+| [NÜCHTERN](https://open.spotify.com/track/1uUo1d1amOQEfjOWirEw5Q) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [NÜCHTERN](https://open.spotify.com/album/7xKFVx6gSDKbJSfR9bPe3X) | 3:15 | 2024-11-12 | 2025-02-01 |
 | [Out Of The Dark](https://open.spotify.com/track/5tJVkABJRZkTq7Dqjv6xiz) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Out Of The Dark](https://open.spotify.com/album/15DqWPxOLxClMpeKXhDGSP) | 2:47 | 2024-09-10 | 2025-01-17 |
 | [Panama](https://open.spotify.com/track/3qcreqi8RaGqahtJSQDxNI) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Glückskind](https://open.spotify.com/album/2J3En8aAFnHAT3rgsobCoI) | 2:37 | 2024-09-10 | 2025-01-29 |
 | [Pazifik](https://open.spotify.com/track/3dDaZtrQzWW9IPJz4Az2oY) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/0gEde8rFCDJYdovwdVRKtq) | 3:01 | 2024-10-01 | 2024-11-13 |
@@ -111,6 +111,7 @@
 | [São Paulo](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-05 |  |
 | [Tanzalarm](https://open.spotify.com/track/1wtXpsjzyFyCh4mOtHbZTl) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Kinder der Nacht](https://open.spotify.com/album/03ZSs84M2XclxatHoirtDv) | 2:55 | 2024-09-17 | 2024-11-20 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-10 | 2024-10-23 |
+| [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 | 2025-01-31 |  |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-29 |  |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-14 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-10 |  |

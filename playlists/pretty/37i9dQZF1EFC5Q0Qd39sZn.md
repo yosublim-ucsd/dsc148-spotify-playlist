@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,943 likes - 571 songs - 1 day 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,959 likes - 571 songs - 1 day 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 194 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 |
 | 195 | [Superhuman](https://open.spotify.com/track/4eMiknze54I87MoQ9yemCq) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/1DVit0dyCMSGJ4urswE5Sf) | 4:10 |
 | 196 | [Rosie](https://open.spotify.com/track/3lf07xbXUAdsYlSJpRYQOp) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/1iHo9sJ9iZ8JKQDJMwAGyj) | 4:50 |
-| 197 | [Emotional Fire](https://open.spotify.com/track/4kQrlvq96vwdZx1OwOTaNS) | [Denise](https://open.spotify.com/artist/0c2b43v45DAQa34Xbzbx7H) | [Emotional Fire](https://open.spotify.com/album/3lyRFZvFmRFxMfAoiYyz1S) | 5:36 |
-| 198 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
+| 197 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
+| 198 | [Emotional Fire](https://open.spotify.com/track/4kQrlvq96vwdZx1OwOTaNS) | [Denise](https://open.spotify.com/artist/0c2b43v45DAQa34Xbzbx7H) | [Emotional Fire](https://open.spotify.com/album/3lyRFZvFmRFxMfAoiYyz1S) | 5:36 |
 | 199 | [No Quiero Estar Solo \- I Don't Want To Live Without Your Love](https://open.spotify.com/track/045UJJgTyiur8Nb43cgHdB) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Tesoros De Colección](https://open.spotify.com/album/4FXrmGk8amalcdXTBy33Il) | 3:50 |
 | 200 | [My First Night With You](https://open.spotify.com/track/0VXzpNAbCLTkNngCzHaYIx) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Mya](https://open.spotify.com/album/4O1WKiIEXNy7iycHEI681e) | 5:38 |
 | 201 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
@@ -444,11 +444,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 434 | [Fatal Distraction](https://open.spotify.com/track/74mzeu6A1lTjgYRZEW8kcG) | [IF YOU DARE](https://open.spotify.com/artist/24LhTHlri6WopEv4StByYo) | [IF YOU DARE VOL\. 1](https://open.spotify.com/album/4bqo5KzYrGTaiehKdyRJ3S) | 3:22 |
 | 435 | [Gently](https://open.spotify.com/track/4kj31RH60b7uWxEfLcaJ4m) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb) | [NOTHING BUT YOUR LOVE](https://open.spotify.com/album/5wlTeR34vv69owNdWR7lVt) | 4:49 |
 | 436 | [Sheltered Heart](https://open.spotify.com/track/7vs9x1UUlXQkBIyaV7KcVP) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Looking For Freedom](https://open.spotify.com/album/2E5SRcJqYXGXyJTAZOgmnB) | 4:44 |
-| 437 | [5 Minutes With God](https://open.spotify.com/track/1ze44zUyRnPSqgjJMIrGje) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/5o6uSZ10sJSUnn8WomuO3R) | 3:31 |
+| 437 | [5 Minutes With God](https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq) | 3:31 |
 | 438 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
 | 439 | [Fistibal \- Festival](https://open.spotify.com/track/4BgyQHLsjTIf7R3z4RmlP3) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Tuge](https://open.spotify.com/artist/2mE1cHocWbynDUIJFcruHT) | [Creole 101 \- Welcome To Haiti](https://open.spotify.com/album/274HvIfpOTSegdX30cCuOL) | 4:28 |
-| 440 | [Best Thing You Ever Did](https://open.spotify.com/track/4KYM8ZCAPIowhO85pNERZD) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Masterplan](https://open.spotify.com/album/7bHRwZ8Q98rlqD8vPSBV29) | 3:24 |
-| 441 | [Don't Want To Live Without Your Love](https://open.spotify.com/track/185mYjhMPzy5gu6ODIkccu) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R) | [Israel's King](https://open.spotify.com/album/0FUOLix414SaW34JbJMpJN) | 3:47 |
+| 440 | [Don't Want To Live Without Your Love](https://open.spotify.com/track/185mYjhMPzy5gu6ODIkccu) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R) | [Israel's King](https://open.spotify.com/album/0FUOLix414SaW34JbJMpJN) | 3:47 |
+| 441 | [Best Thing You Ever Did](https://open.spotify.com/track/4KYM8ZCAPIowhO85pNERZD) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Masterplan](https://open.spotify.com/album/7bHRwZ8Q98rlqD8vPSBV29) | 3:24 |
 | 442 | [To Get Here](https://open.spotify.com/track/549Sv1sewmEpAai5QaZCTd) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Last Movie Star Original Motion Picture Soundtrack](https://open.spotify.com/album/0jmKUjTFXhaf7Eialk8efy) | 3:38 |
 | 443 | [Quitte\-moi](https://open.spotify.com/track/0KSuovcivqc10FWHWFUURH) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 4:03 |
 | 444 | [There You'll Be \- Dal Film Pearl Harbour](https://open.spotify.com/track/41mYwd1noYXctLrGYj32fG) | [Film Orchestra](https://open.spotify.com/artist/6GE3gIjUijpFNel1OIfNr9) | [Film Oscar Vol\. 1 Cover Version](https://open.spotify.com/album/7kJdB7buEQagGUTfcN3nJC) | 4:00 |
@@ -518,8 +518,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [When I'm Back On My Feet Again](https://open.spotify.com/track/3GvdGso8ZdbPZzbHIzD95Q) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All The Hits Plus More](https://open.spotify.com/album/3Hv6VQrsjzCGOUV9Fqqq00) | 3:52 |
 | 509 | [Tha Erthi I Stigmi](https://open.spotify.com/track/1jDo9nKix9y305VlicOFu9) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Ola Kala](https://open.spotify.com/album/39GdeRL0leLnxKMP2zom9w) | 4:03 |
 | 510 | [Your Obsession](https://open.spotify.com/track/1zQkpt3TuwduNZrQ4U0T07) | [Joanna](https://open.spotify.com/artist/509TH9RYrGomXzXwSVeaQP) | [This Crazy Life](https://open.spotify.com/album/36w2dambPh1D43TPTPoKRY) | 3:49 |
-| 511 | [Healing Hands](https://open.spotify.com/track/45S5Lg9vVbT4algYHRk97K) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [On & On](https://open.spotify.com/album/5F5bq9xgTMfKk9F1gzNsZh) | 6:08 |
-| 512 | [Svět Je Svět, Ne Ráj](https://open.spotify.com/track/4keBIQie4yPy5sDQJV5aFO) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Když Muž Se Ženou Snídá](https://open.spotify.com/album/2XMEwyrBI0T2azLQVaQZxN) | 3:46 |
+| 511 | [Svět Je Svět, Ne Ráj](https://open.spotify.com/track/4keBIQie4yPy5sDQJV5aFO) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Když Muž Se Ženou Snídá](https://open.spotify.com/album/2XMEwyrBI0T2azLQVaQZxN) | 3:46 |
+| 512 | [Healing Hands](https://open.spotify.com/track/45S5Lg9vVbT4algYHRk97K) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [On & On](https://open.spotify.com/album/5F5bq9xgTMfKk9F1gzNsZh) | 6:08 |
 | 513 | [Unchained](https://open.spotify.com/track/0T4Ryrgc36gWWCrKQwaHaQ) | [Silent Rage](https://open.spotify.com/artist/3PC3r6mBJjbYD8MaMoloZs) | [Still Alive](https://open.spotify.com/album/58pkZZiIZsy4qQez8yKLY1) | 4:36 |
 | 514 | [I Will Remember Your Smile](https://open.spotify.com/track/0ETeVhmVRNtuGDOYBEZ0kS) | [Jene](https://open.spotify.com/artist/7Ggrr1yd3ZQWqSHI6WZuYB) | [Empire](https://open.spotify.com/album/74sLXrx2UNRsY1ZRd8BHOI) | 4:33 |
 | 515 | [The Ones You Love](https://open.spotify.com/track/1UzAqWHz96lIutGzR6aQYw) | [Zendee](https://open.spotify.com/artist/4naOha45BMkEKW6fnTPQ3A) | [I Believe](https://open.spotify.com/album/1JpQ5L6frqPta1oGw2PzhI) | 3:46 |
@@ -580,4 +580,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 570 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 571 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 
-Snapshot ID: `AboSAAAAAADGtSPCCqCywCAR9vm0otAh`
+Snapshot ID: `AboXlgAAAADvGsEyBSXtuZjFrThcO8P8`

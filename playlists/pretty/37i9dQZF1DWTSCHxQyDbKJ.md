@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: jasmine.4.t
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,426 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,421 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 69 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 |
 | 70 | [Mountain out of a Molehill](https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill](https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j) | 3:25 |
 | 71 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 |
-| 72 | [Ever New \- Single Version](https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Ever New](https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO) | 4:50 |
-| 73 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
+| 72 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
+| 73 | [Ever New \- Single Version](https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Ever New](https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO) | 4:50 |
 | 74 | [L.E.E.C.H.E.S](https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 4:04 |
 | 75 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 |
 | 76 | [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 94 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 |
 | 95 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 |
 | 96 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 |
-| 97 | [Sex Metal](https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 1:05 |
+| 97 | [Sad Girl Summer](https://open.spotify.com/track/66xT802jNExU9nMii68YnZ) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 3:13 |
 | 98 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 |
 | 99 | [Cheap Love](https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Cheap Love](https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9) | 3:05 |
-| 100 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 |
+| 100 | [Love Second Music First](https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Love Second Music First](https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe) | 4:05 |
 
 Snapshot ID: `Z4WpHQAAAADpSVQG+bDIJLRxh5nl9vi2`

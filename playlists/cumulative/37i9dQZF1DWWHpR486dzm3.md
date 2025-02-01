@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Topi Saha.
 
-524 songs - 1 day 7 hr 50 min
+525 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Come On In](https://open.spotify.com/track/6hoeicEiSiNZeiYHlsWtUe) | [Liisa Pentti](https://open.spotify.com/artist/7o3YN0mGGbr0DKjMZBfEta) | [Seems Familiar But So Strange](https://open.spotify.com/album/7e5Tpz7tzdK53RMcorgoTS) | 3:00 | 2024-09-19 | 2024-10-18 |
 | [Cray Cray](https://open.spotify.com/track/21aZ0rxNLbh50x0srJTAx7) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Cray Cray](https://open.spotify.com/album/4t5jMtlXpE1l0dx410QagB) | 4:11 | 2024-08-01 | 2024-09-06 |
 | [Dialogi](https://open.spotify.com/track/5RU8B1BqzuMbGs6hFsuecQ) | [AkDK](https://open.spotify.com/artist/6WGt9hU7LwYQ3wkKxrzPRi) | [Toinen Näytös](https://open.spotify.com/album/6L7JBoeuSEqzXCXk2oLPqH) | 3:34 | 2024-10-03 | 2024-11-22 |
+| [Diamond](https://open.spotify.com/track/0GqRI02xFG27DtgbO8tOrb) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Diamond](https://open.spotify.com/album/6XtxwJB1f2CM4q6OZOnMtQ) | 3:25 | 2025-01-31 |  |
 | [Do I Do](https://open.spotify.com/track/2sPWbISisYcFDSmNJkHIzp) | [Velvetcut](https://open.spotify.com/artist/5I4dHTktG9F9eYt3I9kVz4) | [Do I Do](https://open.spotify.com/album/6qMzV5XcEmrofQPYtci0Np) | 3:05 | 2024-08-02 | 2024-09-13 |
 | [Don't Let Nobody](https://open.spotify.com/track/2Xundj7ojtRnVc4jtgdhW8) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Introducing Emilia Sisco](https://open.spotify.com/album/1lvOIuc3C9zGYDC1RvaOEW) | 4:40 | 2024-12-05 | 2025-01-10 |
 | [Dopamine](https://open.spotify.com/track/1aIQDZKcwX6NgpZkOkv58i) | [Honey Crisp](https://open.spotify.com/artist/1tk7aANlL5yiOLqajatBHV) | [Dopamine](https://open.spotify.com/album/3H3HWZ32mpA1lHo1O1emrh) | 2:48 | 2024-11-28 | 2025-01-10 |
@@ -316,7 +317,7 @@
 | [Naiivi rakkaus](https://open.spotify.com/track/6p5uK4S00hzc3OUqzE9FBq) | [Leeni](https://open.spotify.com/artist/4qFbzYlUZ5e7oeirpDdQ0z) | [Naiivi rakkaus](https://open.spotify.com/album/3N8nN42TGbS9tN09VBghbv) | 3:11 | 2024-09-12 | 2024-10-11 |
 | [Narkkari](https://open.spotify.com/track/6fr0IQODEejkQ9qDqNUzeK) | [Janeveera](https://open.spotify.com/artist/3sFdVn4olCxJnN7geK95jg) | [Narkkari](https://open.spotify.com/album/4LedmvNtP7zqa8vZbRlDYi) | 3:29 | 2024-11-28 | 2025-01-24 |
 | [Neighbours](https://open.spotify.com/track/0iyxwM8XRMo96el0acBxHm) | [Haydé](https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu) | [Neighbours](https://open.spotify.com/album/4fTgZJ9lQIrvZeKw3T0cfI) | 4:07 | 2024-11-28 | 2025-01-24 |
-| [Neiti etsivä](https://open.spotify.com/track/2G3rEJIk1oEVRLMl3fGMR1) | [Helmi Ada](https://open.spotify.com/artist/1c0z82L730om1smkNCNHCE) | [Neiti etsivä](https://open.spotify.com/album/0FYN33JtAPLyXkgqsJ6sPS) | 2:42 | 2024-11-28 |  |
+| [Neiti etsivä](https://open.spotify.com/track/2G3rEJIk1oEVRLMl3fGMR1) | [Helmi Ada](https://open.spotify.com/artist/1c0z82L730om1smkNCNHCE) | [Neiti etsivä](https://open.spotify.com/album/0FYN33JtAPLyXkgqsJ6sPS) | 2:42 | 2024-11-28 | 2025-02-01 |
 | [Nights](https://open.spotify.com/track/6e8XvMq1viYrgkS3K1eZVF) | [Amos Blomqvist](https://open.spotify.com/artist/0LIJtV591GKTw8cdqorMWi) | [Nights](https://open.spotify.com/album/7rLgFC2XWZ9PDldpfpED7E) | 2:42 | 2024-07-02 | 2024-07-05 |
 | [Niinkö se on](https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Niinkö se on](https://open.spotify.com/album/33THwx65YG8Y7ulkpod0Xg) | 3:31 | 2024-11-21 | 2025-01-03 |
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-07-02 | 2024-07-05 |

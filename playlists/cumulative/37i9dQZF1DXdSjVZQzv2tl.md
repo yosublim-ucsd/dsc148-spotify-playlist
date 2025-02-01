@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto
 
-283 songs - 13 hr 18 min
+284 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Fala Mal de Mim \- Ao Vivo](https://open.spotify.com/track/6gEOM9IEBzvTdbwNrSkBdC) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Fala Mal de Mim \(Ao Vivo\)](https://open.spotify.com/album/5cCDnN0XpXRSfYCd7vUAAB) | 3:24 | 2022-07-15 | 2022-11-11 |
 | [FALTA DE QUÊ?](https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [FALTA DE QUÊ?](https://open.spotify.com/album/0Dq8h1ncJUPjvgSbhF2DPt) | 2:32 | 2024-05-24 | 2024-11-29 |
 | [Faz Amor Comigo Só Hoje \- Ao Vivo](https://open.spotify.com/track/7Kba4OaxQFQ1zlknQUpNqN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Faz Amor Comigo Só Hoje \(Ao Vivo\)](https://open.spotify.com/album/3J7UQC40YfybB6TvralOEK) | 2:28 | 2021-12-31 | 2022-02-12 |
+| [Fechando o Circo \- Ao Vivo](https://open.spotify.com/track/37bToUvlC32varJ3IT4XUE) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Fechando o Circo \(Ao Vivo\)](https://open.spotify.com/album/6XE2K6nUxUPazElDJuNBuk) | 2:14 | 2025-01-31 |  |
 | [Felicidade Dela \- Ao Vivo](https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ) | 2:45 | 2022-04-08 | 2023-01-21 |
 | [Fetiche \- Ao Vivo](https://open.spotify.com/track/2pWxJlc5mZI69h4iu1rbRA) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Cristinas](https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3) | [Fetiche \(Ao Vivo\)](https://open.spotify.com/album/3pBXedrZTsRkC8e48zB4B2) | 2:21 | 2024-12-06 |  |
 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 | 2021-12-31 | 2022-04-09 |
@@ -193,7 +194,7 @@
 | [Nota de Repúdio \- Ao Vivo](https://open.spotify.com/track/3agFBAMPiIvzfTh7a9Udm6) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Nota de Repúdio \(Ao Vivo\)](https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0) | 2:44 | 2021-12-31 | 2022-06-04 |
 | [Não Deixou De Ser Esquema \- Ao Vivo](https://open.spotify.com/track/1mKOv0zYm26WLPQRLEwRAR) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora UDI, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/2LwT0vZAXJCOciOvTbAZdf) | 2:31 | 2024-02-02 | 2024-09-20 |
 | [Não Me Arranha \- Ao Vivo](https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs) | 2:39 | 2021-12-31 | 2022-07-16 |
-| [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 | 2024-08-23 |  |
+| [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 | 2024-08-23 | 2025-02-01 |
 | [Não Me Recomendo \- Ao Vivo](https://open.spotify.com/track/6YGC1K8FOpTOIZApTtmmA1) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Junto e Misturado \(Ao Vivo\)](https://open.spotify.com/album/6w5n80QFECw1l9r6pz8YRh) | 2:44 | 2022-01-21 | 2022-01-29 |
 | [Não Parei De Sofrer](https://open.spotify.com/track/4zN7Kfk6s75jBOEehLHzV2) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Não Parei De Sofrer](https://open.spotify.com/album/6uUkwRbRO8rTxPXDBIW0e9) | 2:56 | 2021-12-31 | 2022-07-23 |
 | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/track/2LEV3lTRxKqLBfmt5BWkLj) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/album/74QtfHHV8sXA7CUKzRHfk2) | 2:55 | 2022-06-14 | 2022-09-10 |

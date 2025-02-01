@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 129259,
       "name": "4 Deep",
       "url": "https://open.spotify.com/track/0UxQlSj48BF8H8F1lZZBoi"
@@ -1814,6 +1814,28 @@
       "duration_ms": 191546,
       "name": "Blick Sum",
       "url": "https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3"
+    },
+    {
+      "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
     {
       "album": {
@@ -6790,7 +6812,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 144672,
       "name": "Let Me See Something (with Dusty Locane)",
       "url": "https://open.spotify.com/track/3DMgyp1pF4Ztq1KuN3fUPM"
@@ -9198,6 +9220,28 @@
       "duration_ms": 158750,
       "name": "Pose",
       "url": "https://open.spotify.com/track/6KvnHekckJj5O0Op3cplgo"
+    },
+    {
+      "album": {
+        "name": "VAYTRIX RELOADED",
+        "url": "https://open.spotify.com/album/6rzQ2UIpcizzS0h1CWSsaY"
+      },
+      "artists": [
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        },
+        {
+          "name": "Pablo Skywalkin",
+          "url": "https://open.spotify.com/artist/612OhNltlGBZCgJjF8edTo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137321,
+      "name": "prada",
+      "url": "https://open.spotify.com/track/63LQlYHoH3NcwwmX69EobP"
     },
     {
       "album": {

@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 127153,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/3bo0u4LbwBpmyEfJcVP2Nw"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 128000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/1hc4YKpgFFFbK6YMuDXTnu"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 109075,
       "name": "Carajillo",
       "url": "https://open.spotify.com/track/2IMBbincKzb9X0N3phueCk"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 142052,
       "name": "Celebrate You",
       "url": "https://open.spotify.com/track/5ZmTz0zMu1ENE9ksmNKuBi"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 128852,
       "name": "Chillin'",
       "url": "https://open.spotify.com/track/54G7nglEzYJdrIfCcur3El"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 120023,
       "name": "Happy Moments",
       "url": "https://open.spotify.com/track/3t6XG8oYtSiLnvERIgLBMj"
@@ -4146,7 +4146,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 136223,
       "name": "Jazz for my soul",
       "url": "https://open.spotify.com/track/4MD7x2aG2Tcmx6fXDhC6pI"
@@ -4534,6 +4534,24 @@
       "duration_ms": 105205,
       "name": "la donna e la chitarra",
       "url": "https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb"
+    },
+    {
+      "album": {
+        "name": "La La Land",
+        "url": "https://open.spotify.com/album/472UfaN36z7PAcVgWmSHaN"
+      },
+      "artists": [
+        {
+          "name": "Ge\u00f3rgia Neve",
+          "url": "https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118833,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/30ove5oED4KLdLHs8gWjFT"
     },
     {
       "album": {
@@ -5318,6 +5336,24 @@
       "duration_ms": 92500,
       "name": "Lucy Dreamer",
       "url": "https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6"
+    },
+    {
+      "album": {
+        "name": "lumin",
+        "url": "https://open.spotify.com/album/49sb7vqnl2M5v1IvxUoVLS"
+      },
+      "artists": [
+        {
+          "name": "hazze haze",
+          "url": "https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121997,
+      "name": "lumin",
+      "url": "https://open.spotify.com/track/2iglmUKVO1h9C5EVItO076"
     },
     {
       "album": {
@@ -6295,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "Nightcaps",
+        "url": "https://open.spotify.com/album/2vGVMY6AflKiVFQteeirTe"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120674,
+      "name": "Nightcaps",
+      "url": "https://open.spotify.com/track/7zW9IOX48QcVWWQcYRN2UP"
+    },
+    {
+      "album": {
         "name": "Carolina Sound",
         "url": "https://open.spotify.com/album/0Vux1XegJB79Un1aRtrRog"
       },
@@ -6752,7 +6806,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 127087,
       "name": "Palm Beach",
       "url": "https://open.spotify.com/track/3EK9wi1Guh6qmKuPbjGKIC"
@@ -7542,10 +7596,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 128729,
       "name": "Royal Highness",
       "url": "https://open.spotify.com/track/7uJKZCjiHRAde6xQm2Kx0Q"
+    },
+    {
+      "album": {
+        "name": "rudd",
+        "url": "https://open.spotify.com/album/47CKQaWItZgAcSNT2E0YBN"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "rudd",
+      "url": "https://open.spotify.com/track/522EJ1w4QKkrP6FWOz7rpu"
     },
     {
       "album": {
@@ -7614,7 +7686,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 62196,
       "name": "russian cream",
       "url": "https://open.spotify.com/track/2L388X897NmPNNiv6cuHUC"
@@ -7712,7 +7784,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 167715,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/1M1Du0TUK8uC2CNBAbcG46"
@@ -8420,7 +8492,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 129863,
       "name": "Staying Inside Tonight",
       "url": "https://open.spotify.com/track/5Wkh4tytIpCave04bDIr58"
@@ -8698,7 +8770,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 120000,
       "name": "Summertime in Rio",
       "url": "https://open.spotify.com/track/74zTWV2U5WvSqbOt1l1atE"
@@ -8738,7 +8810,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 149101,
       "name": "Sun Pearl",
       "url": "https://open.spotify.com/track/5LjZEYX7n9A11HWjK6p6i4"
@@ -9218,7 +9290,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 132558,
       "name": "The Daily Special",
       "url": "https://open.spotify.com/track/0cymQFMEAd4himK9cKzwEw"
@@ -9765,6 +9837,24 @@
     },
     {
       "album": {
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/1kOTMdoRZCwHBpiarfZrIo"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113932,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/3oP3RjoluRX6gZSHVHsJim"
+    },
+    {
+      "album": {
         "name": "Playground Sessions Vol 1",
         "url": "https://open.spotify.com/album/2fPD6SfAuDrOmNMBjNpeTa"
       },
@@ -10002,7 +10092,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 122000,
       "name": "Twice",
       "url": "https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY"

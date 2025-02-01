@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,219 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,227 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 58 | [WYN?](https://open.spotify.com/track/6n99GemuJTbOLteL66QpBa) | [2famousjayy](https://open.spotify.com/artist/0yDwTqMPtBFHvqXxmMorSc) | [WYN?](https://open.spotify.com/album/56V8zJi2KpJT9rJ65HK2XE) | 2:36 |
 | 59 | [Who You Touch Pt\. 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Defiant Presents: Jiggy In Jersey](https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v) | 2:18 |
 | 60 | [Bbl Drizzy \(Jersey Club\)](https://open.spotify.com/track/4FlUWawGvc3f1xV78SVEPx) | [Fazobeats](https://open.spotify.com/artist/5fpOmsbbaKJNE4hqbPzMhT), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Bbl Drizzy \(Jersey Club\)](https://open.spotify.com/album/1UTiZHIMa2jspPMZWdyVFZ) | 2:08 |
-| 61 | [Mariah](https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [Crying in the Club](https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN) | 3:05 |
+| 61 | [Anytime I Want, Pt\. 2](https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu) | [DJ SoulChild AC](https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH), [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [NJ Turnpike, Vol\. 1 \(A Jersey Club Mixtape\)](https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6) | 1:32 |
 | 62 | [Chicago \(Jersey Club\)](https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Chicago \(Jersey Club\)](https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX) | 1:58 |
-| 63 | [Anytime I Want, Pt\. 2](https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu) | [DJ SoulChild AC](https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH), [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [NJ Turnpike, Vol\. 1 \(A Jersey Club Mixtape\)](https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6) | 1:32 |
+| 63 | [Mariah](https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [Crying in the Club](https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN) | 3:05 |
 | 64 | [My Back \(Jersey Club\)](https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [My Back \(Jersey Club\)](https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy) | 2:07 |
 | 65 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 66 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 72 | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU) | 2:03 |
 | 73 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 | 74 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
-| 75 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
+| 75 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
 
 Snapshot ID: `Z5eh7AAAAABnVuvZ08iDg8/Yllx0MBle`

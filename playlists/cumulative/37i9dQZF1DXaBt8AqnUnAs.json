@@ -105,6 +105,44 @@
     },
     {
       "album": {
+        "name": "Empate T\u00e9cnico",
+        "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Malu Original",
+          "url": "https://open.spotify.com/artist/3UgDjYJgPcLRrFoLa1YzTY"
+        },
+        {
+          "name": "Young Chencs",
+          "url": "https://open.spotify.com/artist/5YMGTiKafkJq2cgzBuXkYi"
+        },
+        {
+          "name": "Roddy Beatz",
+          "url": "https://open.spotify.com/artist/1aiooQGjujU5tpc42EdHN7"
+        },
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/5sQMSS0qgsFJ8IloqMBlU8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163802,
+      "name": "4 Porqu\u00eas",
+      "url": "https://open.spotify.com/track/6i36cTqKF7Jnmou2Ga0rTU"
+    },
+    {
+      "album": {
         "name": "41",
         "url": "https://open.spotify.com/album/0j5hj2LagmGhWKkbrHGm2X"
       },
@@ -6154,7 +6192,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 139605,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
@@ -8922,7 +8960,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 168205,
       "name": "No Jogo",
       "url": "https://open.spotify.com/track/3tOyknliFTUbL5sULJoBOV"

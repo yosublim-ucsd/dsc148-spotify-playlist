@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Matt Maltese",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Julien Baker & TORRES",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 275721,
       "name": "33",
       "url": "https://open.spotify.com/track/0vELLfbzOzdDCjDg3GXYoJ"
+    },
+    {
+      "album": {
+        "name": "33\u00b0",
+        "url": "https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270628,
+      "name": "33\u00b0",
+      "url": "https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a"
     },
     {
       "album": {
@@ -3403,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "album": {
         "name": "Backfire",
         "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
       },
@@ -5787,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Lefty",
+        "url": "https://open.spotify.com/album/0FMTkGSfXaHiIh6rThhij1"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153974,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/32PuSrhtooW3QxXDASnQu0"
+    },
+    {
+      "album": {
         "name": "Breast of Glass/Frolic",
         "url": "https://open.spotify.com/album/1i5BixhgJGlO0os0MbtHEm"
       },
@@ -7068,7 +7122,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 238874,
       "name": "Caspian Tiger",
       "url": "https://open.spotify.com/track/2EBzn3R5tDPiYY9F77jYlm"
@@ -8352,7 +8406,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 272214,
       "name": "Confession",
       "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
@@ -10364,6 +10418,24 @@
       "duration_ms": 169071,
       "name": "Dinah",
       "url": "https://open.spotify.com/track/76nhUDM03ZOoQQIDP7AxFk"
+    },
+    {
+      "album": {
+        "name": "Dinosaurs",
+        "url": "https://open.spotify.com/album/6CASff8dSdBSII1u8mcYeU"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158440,
+      "name": "Dinosaurs",
+      "url": "https://open.spotify.com/track/4eiswoBDGxyhnIJC3CBMJu"
     },
     {
       "album": {
@@ -19947,6 +20019,24 @@
     },
     {
       "album": {
+        "name": "i could be your hands",
+        "url": "https://open.spotify.com/album/7bvImW5Fd4it9hJQ36QWt9"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237217,
+      "name": "i could be your hands",
+      "url": "https://open.spotify.com/track/3wAhqMAdeZ9km9WmBGSpLN"
+    },
+    {
+      "album": {
         "name": "I Could Drive You Crazy",
         "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
       },
@@ -23058,7 +23148,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193540,
       "name": "Jeopardy",
       "url": "https://open.spotify.com/track/5cuKZ1lvK0roPMh2MujOS8"
@@ -23152,7 +23242,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 251840,
       "name": "Joel Roberts",
       "url": "https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa"
@@ -24668,7 +24758,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 195560,
       "name": "Life of Mine",
       "url": "https://open.spotify.com/track/2anJwJBUEe1bD63XaqRVXT"
@@ -25034,6 +25124,24 @@
       "duration_ms": 220413,
       "name": "Lines in the Levee",
       "url": "https://open.spotify.com/track/1nwCUobJyADXmUFw3GHu7g"
+    },
+    {
+      "album": {
+        "name": "Liquid Gold 25",
+        "url": "https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267969,
+      "name": "Liquid Gold 25",
+      "url": "https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA"
     },
     {
       "album": {
@@ -25719,6 +25827,28 @@
     },
     {
       "album": {
+        "name": "Looks Like The End Of The Road",
+        "url": "https://open.spotify.com/album/1EPAD4QiqoDhh5eWtWrwXV"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220393,
+      "name": "Looks Like The End Of The Road",
+      "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
+    },
+    {
+      "album": {
         "name": "Loose Ends",
         "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
       },
@@ -25986,7 +26116,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 131818,
       "name": "Love",
       "url": "https://open.spotify.com/track/76I70X6G9quUz4njqSSTRM"
@@ -26290,7 +26420,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 232027,
       "name": "Love Until We Die",
       "url": "https://open.spotify.com/track/5OkJSnECySqrYjJyl6TZti"
@@ -26656,7 +26786,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 360879,
       "name": "Mahk Jchi (feat. Pura F\u00e9)",
       "url": "https://open.spotify.com/track/2tKZlz2ErffzYLObokKv3S"
@@ -27966,7 +28096,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 156346,
       "name": "mistake",
       "url": "https://open.spotify.com/track/2VkcrRCSaTORydPZVBv4i1"
@@ -33848,7 +33978,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 255000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth"
@@ -34076,6 +34206,28 @@
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/3GUYJ7OTe0pBxlbuz5iK2R"
+    },
+    {
+      "album": {
+        "name": "Rattlesnake (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293836,
+      "name": "Rattlesnake (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
     },
     {
       "album": {
@@ -35588,7 +35740,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 188893,
       "name": "Same Star",
       "url": "https://open.spotify.com/track/3zQQHSfrrSaQlmHV7qcEY3"
@@ -35910,6 +36062,24 @@
       "duration_ms": 165097,
       "name": "Say I",
       "url": "https://open.spotify.com/track/0Ce1uvHTCRazNpIj6JVbO6"
+    },
+    {
+      "album": {
+        "name": "Say I Love You",
+        "url": "https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245180,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u"
     },
     {
       "album": {
@@ -37276,7 +37446,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 176519,
       "name": "Sleepwalking (feat. Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/24BsZ8lMbzHz1C2QjuP6Pd"
@@ -38395,6 +38565,24 @@
     },
     {
       "album": {
+        "name": "Southeast Dixie Highway",
+        "url": "https://open.spotify.com/album/1k17NRYAWp1Rmzw4HOlJwF"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247867,
+      "name": "Southeast Dixie Highway",
+      "url": "https://open.spotify.com/track/5QP5MD2z77LMJXyctzPliS"
+    },
+    {
+      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
       },
@@ -38446,6 +38634,28 @@
       "duration_ms": 187800,
       "name": "Sparrows",
       "url": "https://open.spotify.com/track/5aacBMBoY2rFQQQBnnXYLT"
+    },
+    {
+      "album": {
+        "name": "Speak Too Soon (feat. Hans Williams)",
+        "url": "https://open.spotify.com/album/5vc1BN8ua7hlFp5Ohm8YiF"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        },
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179028,
+      "name": "Speak Too Soon (feat. Hans Williams)",
+      "url": "https://open.spotify.com/track/57xHYfCID32ZMMI6R31vSA"
     },
     {
       "album": {
@@ -39270,6 +39480,24 @@
       "duration_ms": 190714,
       "name": "Stones & Waves",
       "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
+    },
+    {
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/54oOmMsnYFVTPJNMUfOoVn"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4mxFaIwx27IQyUYYeuUfcm"
     },
     {
       "album": {
@@ -40303,6 +40531,28 @@
     },
     {
       "album": {
+        "name": "Sylvia",
+        "url": "https://open.spotify.com/album/1PqBRShBcNCi2gKM7CHfd5"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140193,
+      "name": "Sylvia",
+      "url": "https://open.spotify.com/track/0dLFlKIw6up52Aftqd88Mx"
+    },
+    {
+      "album": {
         "name": "Symmetry",
         "url": "https://open.spotify.com/album/6DoYDzc4MDhhGYycrLo7r6"
       },
@@ -40730,6 +40980,24 @@
       "duration_ms": 120760,
       "name": "Taped In Front Of A Live Studio Audience",
       "url": "https://open.spotify.com/track/7h6OB5cXAxFYOIijSSe4KE"
+    },
+    {
+      "album": {
+        "name": "tapestry",
+        "url": "https://open.spotify.com/album/4vaB3HaSIgQKblcli3ic0u"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173718,
+      "name": "tapestry",
+      "url": "https://open.spotify.com/track/1EaKi6hkRylYBlRUSgHGhT"
     },
     {
       "album": {
@@ -46178,7 +46446,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 165768,
       "name": "Wait It Out",
       "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"
@@ -46388,7 +46656,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 251000,
       "name": "Walking Contradiction - feat. Steve Ignorant",
       "url": "https://open.spotify.com/track/1hWhFP0TQTEJ3EUxt7VnHW"
@@ -46428,7 +46696,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 230588,
       "name": "Walls",
       "url": "https://open.spotify.com/track/7cSpDt647u9UXU2fU5clO3"
@@ -48519,6 +48787,24 @@
     },
     {
       "album": {
+        "name": "Living Ghost",
+        "url": "https://open.spotify.com/album/6cOpPRnzFVeC0nJTZmCQ2O"
+      },
+      "artists": [
+        {
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329875,
+      "name": "Wildfire (Gone, Gone, Gone) / Death Song",
+      "url": "https://open.spotify.com/track/1VGENSgt3c628FEF6GjZKt"
+    },
+    {
+      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/4J4h1hf3qrSxEdDH6owTMC"
       },
@@ -48530,7 +48816,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 184948,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/1C9qqEC3qObxvjLS55rnhO"
@@ -49842,6 +50128,24 @@
       "duration_ms": 221584,
       "name": "you were mine",
       "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
+    },
+    {
+      "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
     },
     {
       "album": {

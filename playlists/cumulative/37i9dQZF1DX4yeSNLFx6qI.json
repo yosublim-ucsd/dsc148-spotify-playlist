@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 107320,
       "name": "50/50",
       "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "danito",
+        "url": "https://open.spotify.com/album/2KKTCJwzwEeuEO8fOW8JeA"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237395,
+      "name": "danito",
+      "url": "https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh"
+    },
+    {
+      "album": {
         "name": "De la Ilusi\u00f3n Al Miedo",
         "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -2146,7 +2164,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 190398,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
@@ -2812,7 +2830,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 202282,
       "name": "m\u00e1s y menos",
       "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
@@ -3474,6 +3492,24 @@
       "duration_ms": 199640,
       "name": "Para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku"
+    },
+    {
+      "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "pasatiempo",
+      "url": "https://open.spotify.com/track/1IwMWBD9BBE4QUReJZlXo7"
     },
     {
       "album": {
@@ -4980,7 +5016,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 196412,
       "name": "Un Coco",
       "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"

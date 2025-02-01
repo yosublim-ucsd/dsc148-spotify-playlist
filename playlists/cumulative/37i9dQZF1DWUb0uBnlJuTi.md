@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Skinny Hightower
 
-436 songs - 1 day 9 hr 15 min
+437 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Black Octopus](https://open.spotify.com/track/2cDgtkuxmABPn530SRo5bo) | [Brian Auger](https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ) | [Search Party](https://open.spotify.com/album/2X18R3tkxqnZgeoivKFKWa) | 3:51 | 2022-04-08 |  |
 | [Blood Chief \- Live in Studio](https://open.spotify.com/track/4cV7k8bph31wVkk74TbRCv) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [Live At: Archive Group Studios](https://open.spotify.com/album/0IENaoZTdX50sMypwcgD4H) | 3:18 | 2022-05-06 | 2023-09-30 |
 | [Blue Raz](https://open.spotify.com/track/6pnx7j90PjcBjW1zCLsOzK) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [SAM GREENFIELD RULES](https://open.spotify.com/album/5OtJfcbiA85pLR4X03GyOU) | 4:54 | 2023-11-17 | 2024-06-22 |
-| [Blues 3+1](https://open.spotify.com/track/36GrhjwWLnKgkPdPt2ARhB) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Bluesmith](https://open.spotify.com/album/2SOx7jfiPndedYKj8HSZx5) | 4:52 | 2020-10-09 |  |
+| [Blues 3+1](https://open.spotify.com/track/36GrhjwWLnKgkPdPt2ARhB) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Bluesmith](https://open.spotify.com/album/2SOx7jfiPndedYKj8HSZx5) | 4:52 | 2020-10-09 | 2025-02-01 |
 | [Blues for Ben](https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Matt Perrine](https://open.spotify.com/artist/0VGGoSJ5nWffYusuewbRBt), [Ben Ellman](https://open.spotify.com/artist/7EKeFhgvnTpJCPTDxdNE2k), [Craig Klein](https://open.spotify.com/artist/6jCrDuxxV1VcvdYQ12dWdU), [Michael Ray](https://open.spotify.com/artist/73kCgUvgtaxON0CnIWKJYd) | [All Kooked Out!](https://open.spotify.com/album/6NnQ67dG6cM88SGs9W3fh7) | 4:59 | 2020-10-09 |  |
 | [Bonita Applebum \(Daylight\)](https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Award Tour \(We Gettin' Down\) / Bonita Applebum \(Daylight\)](https://open.spotify.com/album/6CEhge3xbNldIrK6czWdgR) | 4:04 | 2022-04-01 |  |
 | [Booker Time](https://open.spotify.com/track/4FEf0SPcWVicIXsPz7HkHl) | [Steven Bernstein & The Hot 9](https://open.spotify.com/artist/3YiY7EDAAT6BwoFjZEgeTT), [Steven Bernstein](https://open.spotify.com/artist/5pCNKFvPUY8L47ExfM4WLj) | [Booker Time](https://open.spotify.com/album/5iszc42qhIDJpOZJLKXFcj) | 6:09 | 2022-03-04 |  |
@@ -187,6 +187,7 @@
 | [Le Temps](https://open.spotify.com/track/3Dj70LxvP07JwexR0mTGN4) | [Ludovic Louis](https://open.spotify.com/artist/7dzml0MudQRS956whBQ455), [Rossy De Palma](https://open.spotify.com/artist/7qfJiqIiUlCzDd0lIidYos) | [Le Temps](https://open.spotify.com/album/1n4hvFzzdgmA0gpxjnWW9H) | 4:20 | 2024-05-03 |  |
 | [Liberation](https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo) | 5:14 | 2024-03-22 |  |
 | [Liberation](https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 5:14 | 2024-03-22 | 2024-04-19 |
+| [Life from Below](https://open.spotify.com/track/7qhBrciO8EiTeSJ58T61OP) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Life from Below](https://open.spotify.com/album/5y0MDB62cM5fpfqVIHKbUI) | 3:42 | 2025-01-31 |  |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 | 2022-08-26 | 2023-04-22 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU) | 3:23 | 2022-08-26 | 2022-11-07 |
 | [Life on Mars \- OPOLOPO Extended Remix](https://open.spotify.com/track/4H2LU89UYYHhy5CNkbNaaY) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Life on Mars \(OPOLOPO Remix\)](https://open.spotify.com/album/0gu7LOuWpnplQkrYonsNnk) | 10:04 | 2022-02-25 | 2024-07-06 |

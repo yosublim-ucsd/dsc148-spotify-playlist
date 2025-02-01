@@ -1,13 +1,285 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Matt Maltese",
-  "num_followers": 834151,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Julien Baker & TORRES",
+  "num_followers": 834823,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5O/2AAAAABuPLhu9rZk/wuhidD4fdxZ",
+  "snapshot_id": "Z5xY8wAAAAB1Q40UT/eg+iuPjMvG8s52",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Rattlesnake (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 293836,
+      "name": "Rattlesnake (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Sylvia",
+        "url": "https://open.spotify.com/album/1PqBRShBcNCi2gKM7CHfd5"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 140193,
+      "name": "Sylvia",
+      "url": "https://open.spotify.com/track/0dLFlKIw6up52Aftqd88Mx"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "33\u00b0",
+        "url": "https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 270628,
+      "name": "33\u00b0",
+      "url": "https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "i could be your hands",
+        "url": "https://open.spotify.com/album/7bvImW5Fd4it9hJQ36QWt9"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "i could be your hands",
+      "url": "https://open.spotify.com/track/3wAhqMAdeZ9km9WmBGSpLN"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Liquid Gold 25",
+        "url": "https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 267969,
+      "name": "Liquid Gold 25",
+      "url": "https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Southeast Dixie Highway",
+        "url": "https://open.spotify.com/album/1k17NRYAWp1Rmzw4HOlJwF"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 247867,
+      "name": "Southeast Dixie Highway",
+      "url": "https://open.spotify.com/track/5QP5MD2z77LMJXyctzPliS"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Lefty",
+        "url": "https://open.spotify.com/album/0FMTkGSfXaHiIh6rThhij1"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 153974,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/32PuSrhtooW3QxXDASnQu0"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Dinosaurs",
+        "url": "https://open.spotify.com/album/6CASff8dSdBSII1u8mcYeU"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "duration_ms": 158440,
+      "name": "Dinosaurs",
+      "url": "https://open.spotify.com/track/4eiswoBDGxyhnIJC3CBMJu"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Speak Too Soon (feat. Hans Williams)",
+        "url": "https://open.spotify.com/album/5vc1BN8ua7hlFp5Ohm8YiF"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        },
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 179028,
+      "name": "Speak Too Soon (feat. Hans Williams)",
+      "url": "https://open.spotify.com/track/57xHYfCID32ZMMI6R31vSA"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/54oOmMsnYFVTPJNMUfOoVn"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 200624,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4mxFaIwx27IQyUYYeuUfcm"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Living Ghost",
+        "url": "https://open.spotify.com/album/6cOpPRnzFVeC0nJTZmCQ2O"
+      },
+      "artists": [
+        {
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
+        }
+      ],
+      "duration_ms": 329875,
+      "name": "Wildfire (Gone, Gone, Gone) / Death Song",
+      "url": "https://open.spotify.com/track/1VGENSgt3c628FEF6GjZKt"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "tapestry",
+        "url": "https://open.spotify.com/album/4vaB3HaSIgQKblcli3ic0u"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 173718,
+      "name": "tapestry",
+      "url": "https://open.spotify.com/track/1EaKi6hkRylYBlRUSgHGhT"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Say I Love You",
+        "url": "https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 245180,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u"
+    },
+    {
+      "added_at": "2025-01-31 05:00:35",
+      "album": {
+        "name": "Looks Like The End Of The Road",
+        "url": "https://open.spotify.com/album/1EPAD4QiqoDhh5eWtWrwXV"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 220393,
+      "name": "Looks Like The End Of The Road",
+      "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
+    },
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
@@ -2279,282 +2551,6 @@
       "duration_ms": 214548,
       "name": "Curse The Man",
       "url": "https://open.spotify.com/track/0q1I8KyMQ4fM9LcrX8YkS9"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Whispering Pines",
-        "url": "https://open.spotify.com/album/5BlyT55fQ4Vj6ju1hSjRhb"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 176519,
-      "name": "Sleepwalking (feat. Sasha Alex Sloan)",
-      "url": "https://open.spotify.com/track/24BsZ8lMbzHz1C2QjuP6Pd"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Wait It Out",
-        "url": "https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Wait It Out",
-      "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Caspian Tiger",
-        "url": "https://open.spotify.com/album/52JLrnYUkQshCqrNLMnSYn"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 238874,
-      "name": "Caspian Tiger",
-      "url": "https://open.spotify.com/track/2EBzn3R5tDPiYY9F77jYlm"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Same Star",
-        "url": "https://open.spotify.com/album/3FZMwscS85zCvWe4ETvYAR"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Same Star",
-      "url": "https://open.spotify.com/track/3zQQHSfrrSaQlmHV7qcEY3"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "In Vine",
-        "url": "https://open.spotify.com/album/7DO5cC2XLNYtB1TYce0DZQ"
-      },
-      "artists": [
-        {
-          "name": "Racoma",
-          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Life of Mine",
-      "url": "https://open.spotify.com/track/2anJwJBUEe1bD63XaqRVXT"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/5ppz9YimLdJC5Mudyk5Jv0"
-      },
-      "artists": [
-        {
-          "name": "N.I.K",
-          "url": "https://open.spotify.com/artist/5ZxZX70VVUDqKeK0TI1D2l"
-        },
-        {
-          "name": "Alvian",
-          "url": "https://open.spotify.com/artist/3BTDxFVCNkEpVkB2B8cEdr"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/7cSpDt647u9UXU2fU5clO3"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/43iRFJBKyigjwAIXnCBSEt"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "mistake",
-        "url": "https://open.spotify.com/album/1cA2MMkwjTl4XsWlc5A8PF"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 156346,
-      "name": "mistake",
-      "url": "https://open.spotify.com/track/2VkcrRCSaTORydPZVBv4i1"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Jeopardy",
-        "url": "https://open.spotify.com/album/6DNFh6eNFSlBghsAeQuwkp"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 193540,
-      "name": "Jeopardy",
-      "url": "https://open.spotify.com/track/5cuKZ1lvK0roPMh2MujOS8"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Love Until We Die",
-        "url": "https://open.spotify.com/album/1NXhH6n6Maz9h9rfJ9JH4a"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 232027,
-      "name": "Love Until We Die",
-      "url": "https://open.spotify.com/track/5OkJSnECySqrYjJyl6TZti"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Walking Contradiction (feat. Steve Ignorant)",
-        "url": "https://open.spotify.com/album/1stwbUbB36rb50D7S5ddzj"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        },
-        {
-          "name": "Steve Ignorant",
-          "url": "https://open.spotify.com/artist/6j2TgxYyBUVwhFg7fYaDEY"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Walking Contradiction - feat. Steve Ignorant",
-      "url": "https://open.spotify.com/track/1hWhFP0TQTEJ3EUxt7VnHW"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/33nfqKiDCVUC2rh3H81A09"
-      },
-      "artists": [
-        {
-          "name": "Chelou",
-          "url": "https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq"
-        }
-      ],
-      "duration_ms": 131818,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/76I70X6G9quUz4njqSSTRM"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "American Railroad",
-        "url": "https://open.spotify.com/album/1HWrVS6hMHt1uHiUBCpxaR"
-      },
-      "artists": [
-        {
-          "name": "Silkroad Ensemble",
-          "url": "https://open.spotify.com/artist/5ZwvWOcjjYC5gHX2NKyxBl"
-        },
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Pura F\u00e9",
-          "url": "https://open.spotify.com/artist/4X29e8gzgjLJ6ZpFp6TljL"
-        }
-      ],
-      "duration_ms": 360879,
-      "name": "Mahk Jchi (feat. Pura F\u00e9)",
-      "url": "https://open.spotify.com/track/2tKZlz2ErffzYLObokKv3S"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272214,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/4J4h1hf3qrSxEdDH6owTMC"
-      },
-      "artists": [
-        {
-          "name": "Christian Hayes",
-          "url": "https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu"
-        }
-      ],
-      "duration_ms": 184948,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/1C9qqEC3qObxvjLS55rnhO"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Joel Roberts",
-        "url": "https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh"
-      },
-      "artists": [
-        {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Joel Roberts",
-      "url": "https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa"
     }
   ],
   "unique_name": "Fresh Folk",

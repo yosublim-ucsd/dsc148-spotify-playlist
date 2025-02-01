@@ -1,15 +1,15 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=JSjNy0j-ThaXPGg4PoiSYQ\">Sjava</a>",
-  "num_followers": 115249,
+  "num_followers": 115793,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5wIGgAAAACcnD7RURUApafvKZrovCZv",
+  "snapshot_id": "Z5yf7QAAAABci8GrlqqyXgTJwTB4rxuJ",
   "tracks": [
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Inkanyezi (Live)",
         "url": "https://open.spotify.com/album/4VfnwUHBzz14cl6R1K9iWY"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Uzwile Bathini",
         "url": "https://open.spotify.com/album/1StS6kTt79RkvaYpmUv7JM"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/5vNmu6nLbzPTnZilRaHTT4"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Hayi Costa",
         "url": "https://open.spotify.com/album/5xUG3IiaEtaamCifbkG9Ar"
@@ -89,7 +89,43 @@
       "url": "https://open.spotify.com/track/5lAHj2Dgl2UaSlGxa0ImOE"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+    },
+    {
+      "added_at": "2025-01-31 10:03:25",
+      "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Touchdown (with J Balvin, Beenie Man, Bounty Killer & Tasan)",
         "url": "https://open.spotify.com/album/09NhKmRugCWSvRKh1jK46Z"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/5YQoiJnRRrsctf33UG9JYv"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "GOLIATH",
         "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Thixo Bawo (feat. Jay Sax)",
         "url": "https://open.spotify.com/album/7zyDVCl4d8o5jG1VmYhxt2"
@@ -165,7 +201,7 @@
       "url": "https://open.spotify.com/track/3BYIfpjf37ea2SUkX72PMJ"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Mguzu Wethu",
         "url": "https://open.spotify.com/album/7248Zdy4xnrm1TMAetsVi4"
@@ -185,7 +221,27 @@
       "url": "https://open.spotify.com/track/2wqvc4dygwq4Wt0wuSIs5n"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
+      "album": {
+        "name": "In Waves (Deluxe)",
+        "url": "https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 217074,
+      "name": "F.U.",
+      "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
+    },
+    {
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Metsi",
         "url": "https://open.spotify.com/album/48THCEfJfgnb3DkmzqogpQ"
@@ -205,7 +261,7 @@
       "url": "https://open.spotify.com/track/7EL1i3OhhT25QMeKT4ZAHh"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Ma Arab (feat. Dr Skaro)",
         "url": "https://open.spotify.com/album/0SkXQ4IV3eu08MCZvOeh2f"
@@ -225,7 +281,31 @@
       "url": "https://open.spotify.com/track/4qDY8obkz25yywEMCQZ3hd"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 205298,
+      "name": "Houstatlantaville (feat. Lil Baby & Travis Scott)",
+      "url": "https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1"
+    },
+    {
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Took Me For A Nai (Remix)",
         "url": "https://open.spotify.com/album/00r5MWCv41RcODMWRGF3kd"
@@ -249,7 +329,7 @@
       "url": "https://open.spotify.com/track/5aQlgRVY1d5hL0OJJk8wcU"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Save 'Em",
         "url": "https://open.spotify.com/album/5KQ9GR72k3dFz1FdKzgFlP"
@@ -265,7 +345,7 @@
       "url": "https://open.spotify.com/track/2FuN7cjLYkETqOGsHWfU5V"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Phambanisa",
         "url": "https://open.spotify.com/album/6xGMpxvuZerT7OnDGtlUHf"
@@ -281,7 +361,7 @@
       "url": "https://open.spotify.com/track/3q9gOoOuh89SOMiN1u50h4"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "So it Goes",
         "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
@@ -301,7 +381,7 @@
       "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "I am the Blueprint",
         "url": "https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM"
@@ -317,7 +397,7 @@
       "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "ndi a mufuna",
         "url": "https://open.spotify.com/album/6eNg5XolUtAnDvjErz443m"
@@ -337,7 +417,7 @@
       "url": "https://open.spotify.com/track/77tYFh2yrMXaaycbWyw2o2"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Gelukkige Lewe",
         "url": "https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE"
@@ -353,7 +433,7 @@
       "url": "https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Feathers And Stone",
         "url": "https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T"
@@ -369,7 +449,7 @@
       "url": "https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "But I'll Keep Trying",
         "url": "https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57"
@@ -385,7 +465,7 @@
       "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Black Cards",
         "url": "https://open.spotify.com/album/0hRBMww44Y0qThpyWU1fWJ"
@@ -405,7 +485,7 @@
       "url": "https://open.spotify.com/track/4R5ejh83SsZhAMg0TUJ908"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Attitude Era",
         "url": "https://open.spotify.com/album/0tBqgbZJvzFTDn8CGQXyax"
@@ -421,7 +501,7 @@
       "url": "https://open.spotify.com/track/3XT8RVeFNUL0gP1z5m8Pv6"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Blick Sum (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
@@ -441,7 +521,31 @@
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
+      "album": {
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 159986,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
+    },
+    {
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Nothing Breaks Like a Heart - Spotify Singles",
         "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
@@ -457,7 +561,7 @@
       "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Okuncinci",
         "url": "https://open.spotify.com/album/21sPwILtyDfT41KVxEuXh0"
@@ -473,7 +577,7 @@
       "url": "https://open.spotify.com/track/5rGBLBw1lPhSKIKpFlDfue"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "LOVE (feat. Sbu Keys & Reed)",
         "url": "https://open.spotify.com/album/1mNQgidSWudzvdB3mOsLkT"
@@ -501,7 +605,7 @@
       "url": "https://open.spotify.com/track/1F5pXqNIpPvhW3FcONfkfu"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Manh\u00e3 De Luto (For Fidel)",
         "url": "https://open.spotify.com/album/5yaiN0jQZPaF5MZ5nk67hX"
@@ -517,7 +621,23 @@
       "url": "https://open.spotify.com/track/7mUVuGQXV3DtM9grTTydXY"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
+      "album": {
+        "name": "GIRLS!",
+        "url": "https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 142196,
+      "name": "GIRLS!",
+      "url": "https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH"
+    },
+    {
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Bleeding",
         "url": "https://open.spotify.com/album/6NuzHlz1LSuWtViS3diX1g"
@@ -533,7 +653,7 @@
       "url": "https://open.spotify.com/track/4AxbwoB04zGToNJDTAzaz2"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/78rq4tSfGFWB2gOOY9fwFU"
@@ -553,7 +673,7 @@
       "url": "https://open.spotify.com/track/40RZ8R5VnlaS1oN38bx8eW"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "original",
         "url": "https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh"
@@ -569,7 +689,27 @@
       "url": "https://open.spotify.com/track/02KawWp49Z6cCWbJxN5pqC"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
+      "album": {
+        "name": "Pressure Points (feat. Lila Ik\u00e9)",
+        "url": "https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/3cp5AXmGxhU3tgNO6TgD4H"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Pressure Points (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z"
+    },
+    {
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA"
@@ -589,7 +729,7 @@
       "url": "https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "I Dare You",
         "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
@@ -609,7 +749,7 @@
       "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "I'm The Problem",
         "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
@@ -625,7 +765,7 @@
       "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Tumelo",
         "url": "https://open.spotify.com/album/6Of2786cz70ANUXBYOeARD"
@@ -649,7 +789,7 @@
       "url": "https://open.spotify.com/track/1Ep1qTcKSAlr3MP5GDRAKL"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Dance The Pain Away",
         "url": "https://open.spotify.com/album/3RWli7Z2ppsyycblXSVnQ1"
@@ -673,7 +813,7 @@
       "url": "https://open.spotify.com/track/3fQfflacuzcCtkarG9odTl"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "LOVE SZN (feat. Yumbs)",
         "url": "https://open.spotify.com/album/7wiYN800StxCIUTXG9CGpQ"
@@ -701,7 +841,7 @@
       "url": "https://open.spotify.com/track/36EG2rg9RAS910WbXRlt2V"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "2025",
         "url": "https://open.spotify.com/album/0RhJ6aqbstfv2rBHRZUxsX"
@@ -725,7 +865,7 @@
       "url": "https://open.spotify.com/track/0jBaA3K2nuimwbFLxNel6V"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/1SCRm57zXJBjVGO9IK1RQs"
@@ -741,7 +881,7 @@
       "url": "https://open.spotify.com/track/6zLCCx1nhPUcLZCQJuk7fU"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "NJABULO MHLONGO (Deluxe)",
         "url": "https://open.spotify.com/album/2OOJCggKC6toiobV5V1Qqu"
@@ -757,7 +897,7 @@
       "url": "https://open.spotify.com/track/37nlQBxvXPQL0fX0hNJTvk"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "War Neva End",
         "url": "https://open.spotify.com/album/7gfq9SF2e2Wvs0TsJEoMbd"
@@ -777,7 +917,7 @@
       "url": "https://open.spotify.com/track/6Cx6nQsnBpwskle7TSlBUm"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Failed You (Eran Hersh Remix)",
         "url": "https://open.spotify.com/album/4OeTG0yARxPKlordgIKFm0"
@@ -805,7 +945,7 @@
       "url": "https://open.spotify.com/track/1NQ0JHbAVsLff7od44i1BX"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Woza La",
         "url": "https://open.spotify.com/album/0uszDQSCIPfgXo8nEAPnaA"
@@ -825,7 +965,7 @@
       "url": "https://open.spotify.com/track/6XK0BdLYoXJyfb1JfuN4BQ"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Umtalabho",
         "url": "https://open.spotify.com/album/34o38NyLkALw0H5kNS3LE3"
@@ -841,7 +981,7 @@
       "url": "https://open.spotify.com/track/0hs3pTvkISo0OIlP6CDh7O"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Chaak",
         "url": "https://open.spotify.com/album/0vY8kHv6gujFCWyUCnQ1Eq"
@@ -861,7 +1001,7 @@
       "url": "https://open.spotify.com/track/421Eli1NCAJLQu2HUd57Yl"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "AmaGroovist",
         "url": "https://open.spotify.com/album/1ta75fj12mmjEokJhCPtAY"
@@ -881,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5ZEQi72QOBquJLPCyvybxH"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Date Night (feat. King Talkzin)",
         "url": "https://open.spotify.com/album/2FhNBJLWieMXPHIUCQxusp"
@@ -909,7 +1049,7 @@
       "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "The Beginning (Prayer) [feat. XclusiveKay, Small Keys & Da Ish]",
         "url": "https://open.spotify.com/album/4xYtaeLEqueqT3j8SeqKFs"
@@ -941,7 +1081,7 @@
       "url": "https://open.spotify.com/track/2CNkRTa4h20qa07oluczrd"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Wena",
         "url": "https://open.spotify.com/album/6E2ZJW7HgK6Z2fWeyMcvXL"
@@ -965,7 +1105,7 @@
       "url": "https://open.spotify.com/track/0n07sdNVqnjBB6FupA8uB5"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Umama Owangizalayo 3.0 Re-Visit",
         "url": "https://open.spotify.com/album/57yTb6pqeRFDJLXIIEQzoB"
@@ -1001,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2ANptdVjKVJ9F1jSuWQw9V"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Thonga Lami",
         "url": "https://open.spotify.com/album/0OsInom3tfONDra6EfiRV1"
@@ -1041,7 +1181,7 @@
       "url": "https://open.spotify.com/track/1SJfeQDOjhlSAouN26CubM"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Top Of Mind",
         "url": "https://open.spotify.com/album/3JnKDT4jFI8yl5hC2CsUw1"
@@ -1057,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5eqUfcX1d5e6Tg1H6ZgUl3"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "May I Please Rest My Head Upon Your Shoulder",
         "url": "https://open.spotify.com/album/6FkeeNpcyltYz27PRxol7f"
@@ -1077,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3KP34uSwJYN3YCjiCi2pfs"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "MANIAC",
         "url": "https://open.spotify.com/album/0EXlZmZDM7xx2lQf8hQjP9"
@@ -1093,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3CptguqWjLoOwMoO2DCHWm"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Coloured by Thoughts",
         "url": "https://open.spotify.com/album/6P2sv0mpOuJyKukYQGCOQW"
@@ -1109,7 +1249,7 @@
       "url": "https://open.spotify.com/track/5ZqwdgXmrc3C6MveYy4YVp"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Medicine Man",
         "url": "https://open.spotify.com/album/255Lyxk76R1zDL4Pmz9fgw"
@@ -1125,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6Z4t8EpkoTOagQ8BuCRArF"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Iphupho",
         "url": "https://open.spotify.com/album/1ecPy5FugGeqJeIUGEcJ7z"
@@ -1141,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4i5fATvVPfwp4UYffiCRzS"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g"
@@ -1157,7 +1297,7 @@
       "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "pitpony",
         "url": "https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c"
@@ -1173,7 +1313,7 @@
       "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
     },
     {
-      "added_at": "2025-01-30 23:15:38",
+      "added_at": "2025-01-31 10:03:25",
       "album": {
         "name": "Going Back",
         "url": "https://open.spotify.com/album/7ynk2p37T4KeiAl0O7apN3"

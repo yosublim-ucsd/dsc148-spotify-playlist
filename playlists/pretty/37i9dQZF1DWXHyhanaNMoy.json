@@ -1,12 +1,12 @@
 {
   "description": "Motion & good vibes! Cover: Dior",
-  "num_followers": 330174,
+  "num_followers": 330249,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5wEfQAAAADOWvqWnW4LJlXHVeEvV1Wx",
+  "snapshot_id": "Z50O0QAAAACCoYPM+LfbA0XJ90ox4udq",
   "tracks": [
     {
       "added_at": "2025-01-30 23:00:13",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-01-30 23:00:13",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/5PUHUYJbIjMw9YrHFNd2zE"
-      },
-      "artists": [
-        {
-          "name": "Dior",
-          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
-        }
-      ],
-      "duration_ms": 110941,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/1U2jqtkHfXeKM6SBPypv8z"
-    },
-    {
-      "added_at": "2025-01-30 23:00:13",
-      "album": {
         "name": "Spanje",
         "url": "https://open.spotify.com/album/2wu6po7eDveSp9XYYNjeqF"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 188059,
       "name": "Capabel",
       "url": "https://open.spotify.com/track/5qOnC1ocw4QPHw1zUy8uJq"
+    },
+    {
+      "added_at": "2025-01-30 23:00:13",
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/5PUHUYJbIjMw9YrHFNd2zE"
+      },
+      "artists": [
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        }
+      ],
+      "duration_ms": 110941,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/1U2jqtkHfXeKM6SBPypv8z"
     },
     {
       "added_at": "2025-01-30 23:00:13",
@@ -987,17 +987,21 @@
     {
       "added_at": "2025-01-30 23:00:13",
       "album": {
-        "name": "Lifestyle",
+        "name": "Lifestyle (feat. KNALLER)",
         "url": "https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP"
       },
       "artists": [
         {
           "name": "Miggs De Bruijn",
           "url": "https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx"
+        },
+        {
+          "name": "KNALLER",
+          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
         }
       ],
       "duration_ms": 150967,
-      "name": "Lifestyle",
+      "name": "Lifestyle (feat. KNALLER)",
       "url": "https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6"
     },
     {

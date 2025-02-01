@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: Ligaya Escueta  Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover: Frisbee  Artwork: Isu Kim
 
-2,964 songs - 7 day 5 hr 55 min
+2,965 songs - 7 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Bakit Bawal Kitang Mahalin](https://open.spotify.com/track/1trkhHghU8nhRZk7i4X8VH) | [Ron Macapagal](https://open.spotify.com/artist/1D2khKeG6AJSTPJjCy4tib) | [Bakit Bawal Kitang Mahalin](https://open.spotify.com/album/3q3e4lXuZDD6IUABOQdKwZ) | 3:23 | 2022-05-26 | 2022-06-03 |
 | [Bakit Di Na Lang Ako](https://open.spotify.com/track/4UrccxqwiO3FHDX1x8I1qN) | [OC\-J](https://open.spotify.com/artist/6KYPH30jIa62XviMrDtMbS) | [Bakit Di Na Lang Ako](https://open.spotify.com/album/5eq3kXWWCrdmroHLCYt2El) | 4:10 | 2024-03-21 | 2024-05-10 |
 | [Bakit Ka Bumitaw](https://open.spotify.com/track/21EUKWwYwbmqA6f6ZMc6p8) | [Annrain](https://open.spotify.com/artist/2rnULVwQTB4f238HABhkoW) | [Bakit Ka Bumitaw](https://open.spotify.com/album/0qPKcV6PDKngHnewLYwlvh) | 4:18 | 2023-07-27 | 2023-08-25 |
-| [bakit pa ?](https://open.spotify.com/track/6yKjcEAolPHxTvKTUIAixl) | [fonteriza](https://open.spotify.com/artist/1Fhlf04Wk5yMYQwuvkIKcQ) | [bakit pa ?](https://open.spotify.com/album/3IUsGGRroWDC1xoqHzwdhL) | 5:24 | 2024-10-24 |  |
+| [bakit pa ?](https://open.spotify.com/track/6yKjcEAolPHxTvKTUIAixl) | [izy](https://open.spotify.com/artist/1cjwH3tfNQUYvYUfYWPzAx) | [bakit pa ?](https://open.spotify.com/album/3IUsGGRroWDC1xoqHzwdhL) | 5:24 | 2024-10-24 |  |
 | [Bakit Papa?](https://open.spotify.com/track/280Mm8m0HB5Qo2yFCzbfBP) | [YARA](https://open.spotify.com/artist/18H73DT2GpH7OqXPORF6Bv) | [Bakit Papa?](https://open.spotify.com/album/0afE8fe7dktWUQCA5AE1dK) | 4:15 | 2023-09-21 | 2023-10-13 |
 | [Bakit Wala Ng Tayo](https://open.spotify.com/track/1FJ7QlfDS1YaGgtd9dMJUb) | [Rich Valencia](https://open.spotify.com/artist/3ZnXiCDFRGeq3izc01zLHk) | [Bakit Wala Ng Tayo](https://open.spotify.com/album/0GxC02kQ3qyd85K7ZmZg93) | 4:22 | 2022-04-21 | 2022-04-29 |
 | [Bakit?](https://open.spotify.com/track/7zw9VRpzZFn99TkKGMJ5LY) | [jadboii](https://open.spotify.com/artist/7Eq4ofkA71zCNo76TL2O8i) | [Bakit?](https://open.spotify.com/album/4KNXbF95UiQE8l1tVzxJIl) | 3:16 | 2024-11-22 |  |
@@ -2552,6 +2552,7 @@
 | [Survive](https://open.spotify.com/track/2GXQFeVq25TMV96rvZoXFd) | [​kotoji](https://open.spotify.com/artist/5rt1fFDEgcAKjwOhLng0HA) | [Survive](https://open.spotify.com/album/2MEbakHUBVQfJcVzx53EZS) | 5:04 | 2022-10-06 | 2022-10-14 |
 | [Susuka Pero Di Susuko](https://open.spotify.com/track/6oyE0g9YMWRkHcjlKnSAPk) | [Denin Sy](https://open.spotify.com/artist/42gcHqku5AvQyAEkIj27Jt) | [Susuka Pero Di Susuko](https://open.spotify.com/album/6yjEXos2M6KnAmkMMaF2l4) | 3:53 | 2023-01-19 | 2023-02-17 |
 | [Susundan](https://open.spotify.com/track/4MNoH0ub93lP3uyoamHcmd) | [Lee Noynoy](https://open.spotify.com/artist/3Lunw8x5Yc1NeuvDv9AF6E) | [Susundan](https://open.spotify.com/album/0Cx9VbV8yHoeSOk60F9qIP) | 4:03 | 2024-09-12 | 2025-01-17 |
+| [Suya\-suyo](https://open.spotify.com/track/7fa1TUj6YM3qLrEIQAVONY) | [Frisbee](https://open.spotify.com/artist/1VBkwOEyc2ccSel29Pcimq) | [Suya\-suyo](https://open.spotify.com/album/7zr5HjJ3uH9Gkx5qiKzaSC) | 3:06 | 2025-01-31 |  |
 | [Suyaon](https://open.spotify.com/track/0BbjrdoPtbKn9Gd1SE8PMo) | [Amos Edgar](https://open.spotify.com/artist/79NvTawzQj4dQu6ilInMkH), [$aintNasty](https://open.spotify.com/artist/6Itqd2zKbJA5CR1SjparKY) | [Suyaon](https://open.spotify.com/album/3HAjYl2ebvCUIv2zWKLcft) | 2:02 | 2022-02-10 | 2022-03-11 |
 | [Suyo](https://open.spotify.com/track/0qM6vsBSniqE4Qew8oJVa3) | [MRAS](https://open.spotify.com/artist/6by6ixL24jHxR9q3iHPEXP) | [Suyo](https://open.spotify.com/album/5knInqHzz3Yf3yyuoN3QwQ) | 3:53 | 2022-03-10 | 2022-04-01 |
 | [Sweet](https://open.spotify.com/track/3hmD2yzYqzAdA9ubk6cqoq) | [Breē](https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4) | [Sweet](https://open.spotify.com/album/2Rm9998ndrXtjXvhFEeMk3) | 3:36 | 2023-10-19 | 2023-11-11 |

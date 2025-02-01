@@ -4,7 +4,7 @@
 
 > 
 
-368 songs - 1 day 0 hr 39 min
+369 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 | 2024-03-28 | 2024-06-26 |
 | [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 | 2022-07-07 | 2022-11-12 |
 | [In The Dark](https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [In The Dark](https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl) | 4:18 | 2024-07-30 | 2024-10-04 |
-| [In The Night \- Paul Sirrell Remix](https://open.spotify.com/track/3KmrUmrcc3L4OqqGQAEhxG) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:30 | 2025-01-16 |  |
+| [In The Night \- Paul Sirrell Remix](https://open.spotify.com/track/3KmrUmrcc3L4OqqGQAEhxG) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:30 | 2025-01-16 | 2025-02-01 |
 | [In Your Spirit](https://open.spotify.com/track/4PQPYZ863197i6DImT4fmY) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Invisible Forces](https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr) | 4:47 | 2022-05-03 | 2022-08-24 |
 | [Incredibly Annoying](https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Incredibly Annoying](https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li) | 2:14 | 2022-07-05 | 2023-03-25 |
 | [inferno](https://open.spotify.com/track/4Jp2GBtVhmlielpBQeta18) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 3:14 | 2023-09-05 | 2023-09-23 |
@@ -257,6 +257,7 @@
 | [Otherside \- Jasper Tygner Remix](https://open.spotify.com/track/5nVMKc9crIiOReGVTVgs9e) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Otherside \(Jasper Tygner Remix\)](https://open.spotify.com/album/79B8ebZHtuxsZ4lioIF6UZ) | 4:03 | 2024-11-15 | 2025-01-30 |
 | [Park Your Car on My Face](https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 3:36 | 2022-10-14 | 2023-05-25 |
 | [Passionfruit](https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Passionfruit](https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb) | 9:22 | 2024-01-18 | 2024-06-01 |
+| [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 | 2025-01-31 |  |
 | [Pearl of Hail](https://open.spotify.com/track/3t2I3dV5AF2qhmbMbdeMt1) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Torch / Pearl of Hail](https://open.spotify.com/album/3HXjzaIgjZrDG7iJ35WpBL) | 1:50 | 2024-04-12 | 2024-06-26 |
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-09-18 |  |
 | [Phantom](https://open.spotify.com/track/3SOwkDDyiegwk2QesTLWxV) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Phantom](https://open.spotify.com/album/4RkLjqwlS19WIvOPZWAp4a) | 4:41 | 2024-06-25 | 2024-09-20 |

@@ -1,13 +1,61 @@
 {
-  "description": "The best of today's funk. Cover: Penthouse",
-  "num_followers": 338410,
+  "description": "The best of today's funk. Cover: Maya Delilah",
+  "num_followers": 338461,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5ekiAAAAACz5opvgpwQoisboGjezXaW",
+  "snapshot_id": "Z5xZAAAAAABJhl9cHUypc+/umNXfqzkX",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:48",
+      "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/705LfArn43DdhivgfDYX8q"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "added_at": "2025-01-31 05:00:48",
+      "album": {
+        "name": "Own Thing",
+        "url": "https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        }
+      ],
+      "duration_ms": 161309,
+      "name": "Own Thing",
+      "url": "https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Laundry",
+        "url": "https://open.spotify.com/album/5d5rFGyfo5zqc0GVfpvAqV"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Taxi to the Moon",
+      "url": "https://open.spotify.com/track/6kIRTIM9J1pxCPoRnZQOmG"
+    },
     {
       "added_at": "2025-01-10 05:00:12",
       "album": {
@@ -33,20 +81,24 @@
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "Laundry",
-        "url": "https://open.spotify.com/album/5d5rFGyfo5zqc0GVfpvAqV"
+        "name": "TOGETHER (With Devon Gilfillian)",
+        "url": "https://open.spotify.com/album/5ucp6xSvkJMNfwRT9Sc5Uh"
       },
       "artists": [
         {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+          "name": "SNACKTIME",
+          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
+        },
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
         }
       ],
-      "duration_ms": 131200,
-      "name": "Taxi to the Moon",
-      "url": "https://open.spotify.com/track/6kIRTIM9J1pxCPoRnZQOmG"
+      "duration_ms": 207800,
+      "name": "TOGETHER (With Devon Gilfillian)",
+      "url": "https://open.spotify.com/track/4U7WNGITP6pP6xahNsvzaI"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1289,30 +1341,6 @@
       "url": "https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
-      },
-      "artists": [
-        {
-          "name": "DJ Who",
-          "url": "https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
-        }
-      ],
-      "duration_ms": 217082,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
-    },
-    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Medal",
@@ -1347,30 +1375,6 @@
       "duration_ms": 329439,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/5a1NRRfQvTMlvZ3rwO259B"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Ambrosia (feat. John Givez)",
-        "url": "https://open.spotify.com/album/02sQMLc0VZX3pwya3TAC6S"
-      },
-      "artists": [
-        {
-          "name": "XV",
-          "url": "https://open.spotify.com/artist/4GKRKf0FAK4nLtmL3u3JQ9"
-        },
-        {
-          "name": "MIKE SUMMERS",
-          "url": "https://open.spotify.com/artist/3zZSB45PLm0xRMHSOQ59V8"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
-        }
-      ],
-      "duration_ms": 183887,
-      "name": "Ambrosia (feat. John Givez)",
-      "url": "https://open.spotify.com/track/1vvkcDxmRcen5VA46QjE45"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1539,26 +1543,6 @@
       "duration_ms": 241626,
       "name": "We Belong",
       "url": "https://open.spotify.com/track/1vp1OohNbLLVwb3qSMq7S9"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Sounds Like Home",
-        "url": "https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        },
-        {
-          "name": "Maiya Sykes",
-          "url": "https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Break Through To My Heart",
-      "url": "https://open.spotify.com/track/4ZTejOswcSHkbPfiQi1DVR"
     },
     {
       "added_at": "2023-12-08 05:01:00",

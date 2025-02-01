@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Kaotiko.
 
-237 songs - 12 hr 14 min
+238 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,12 +235,13 @@
 | [Typical Spanish](https://open.spotify.com/track/6h6jnjmMzsOR17I0ygrzwR) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe) | [Typical Spanish](https://open.spotify.com/album/1Dt9bUgH3pfRs4GUKJIJAV) | 3:41 | 2024-12-19 | 2025-01-17 |
 | [Una Noche Más](https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [Una Noche Más](https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7) | 3:32 | 2024-08-16 | 2024-11-08 |
 | [Una y Nos Vamos \- Versión 2024](https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S), [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy), [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Una y Nos Vamos \(Versión 2024\)](https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK) | 3:40 | 2024-12-12 |  |
+| [Vestiglo](https://open.spotify.com/track/0fbuBJHt8REl3gqI8bbsRB) | [Desastre Sozial](https://open.spotify.com/artist/1Ippr3uOdh1syEi5tiJsRK) | [Vestiglo](https://open.spotify.com/album/3Wq36wotVY9MNe1Q3PUBXe) | 2:57 | 2025-01-30 |  |
 | [Viajemos](https://open.spotify.com/track/5znyKIKjrJBGcZfF5TkOjH) | [Generador](https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm) | [Queremos Diversión](https://open.spotify.com/album/4qW1DKOqCqElwTBfZNuYQN) | 2:33 | 2024-10-03 | 2024-11-08 |
 | [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 | 2024-06-20 |  |
 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 | 2024-07-19 | 2024-12-06 |
 | [Y las que quedarán](https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Y las que quedarán](https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09) | 4:12 | 2024-04-18 | 2024-06-01 |
 | [Y Sigo en Pie](https://open.spotify.com/track/0XozUY7OB1r1bLcZV26iHp) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/0jexOHFXIH5oUghZyrCWBN) | 4:02 | 2023-12-08 | 2024-04-19 |
-| [Y sigo en pie](https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F) | 4:02 | 2024-07-29 |  |
+| [Y sigo en pie](https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F) | 4:02 | 2024-07-29 | 2025-02-01 |
 | [Yonkijote](https://open.spotify.com/track/4OHk0NyPOMuIndz5HohDOl) | [A Granel](https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M) | [Yonkijote](https://open.spotify.com/album/5EWAsbX9Pp3i22ckFWrrPF) | 2:08 | 2024-12-05 | 2025-01-10 |
 | [zona sísmica](https://open.spotify.com/track/0DI5XP7DSwdPRFWKpazJgJ) | [El Antisocial](https://open.spotify.com/artist/1RRRS2yTvy6xkOxuK37Hb5) | [zona sísmica](https://open.spotify.com/album/1s5hgE6H2ExqroWNwsZzUt) | 2:38 | 2024-11-07 | 2024-12-06 |
 | [¿IA o estupidez humana?](https://open.spotify.com/track/1j9lzxIksQYcNf9zajvo9M) | [Def Con Dos](https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK) | [¿IA o estupidez humana?](https://open.spotify.com/album/6uxs1rvRX7q0IsjBk3xIZE) | 1:58 | 2024-06-20 | 2024-07-13 |

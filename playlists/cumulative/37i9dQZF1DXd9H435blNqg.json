@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Open Vein",
+        "url": "https://open.spotify.com/album/1WgyhC5z5cwOh6xWZYqcBS"
+      },
+      "artists": [
+        {
+          "name": "Thorn Haze",
+          "url": "https://open.spotify.com/artist/5RabBA09ck5cTUNp7OtbAw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156331,
+      "name": "Open Vein",
+      "url": "https://open.spotify.com/track/0eM9O9JUOXjJ01xY6aU37v"
+    },
+    {
+      "album": {
         "name": "Pearl Cadillac (feat. Andra Day)",
         "url": "https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ"
       },
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 285653,
       "name": "Stay Wild",
       "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"

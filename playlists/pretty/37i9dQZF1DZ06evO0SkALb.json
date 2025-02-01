@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 11970,
+  "num_followers": 11973,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAADFuhzVlwObY7EsYzneC31c",
+  "snapshot_id": "Z5rBAAAAAABtJyy0XkU6DgV/yai44k4F",
   "tracks": [
     {
       "added_at": null,
@@ -111,18 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+        "name": "Soul Essentials : Chill With the Legendary Voices of Soul Music",
+        "url": "https://open.spotify.com/album/23iBYPGtHd3UfoQk0gezvc"
       },
       "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        },
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 134426,
-      "name": "Love Is A Hurtin' Thing",
-      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
+      "duration_ms": 161731,
+      "name": "Bring It on Home to Me",
+      "url": "https://open.spotify.com/track/4Sm5eJvZDJjBCdLpmzkUYq"
     },
     {
       "added_at": null,
@@ -143,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Essentials : Chill With the Legendary Voices of Soul Music",
-        "url": "https://open.spotify.com/album/23iBYPGtHd3UfoQk0gezvc"
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
       "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        },
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 161731,
-      "name": "Bring It on Home to Me",
-      "url": "https://open.spotify.com/track/4Sm5eJvZDJjBCdLpmzkUYq"
+      "duration_ms": 134426,
+      "name": "Love Is A Hurtin' Thing",
+      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
     },
     {
       "added_at": null,
@@ -391,54 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Be Good to You",
-        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Time Will Take Care of Everything",
-      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tobacco Road",
-        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Tobacco Road - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When You Hear Lou, You've Heard It All",
-        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 272413,
-      "name": "If I Coulda, Woulda, Shoulda",
-      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portrait Of The Blues",
         "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
       },
@@ -459,6 +411,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Time Will Take Care of Everything",
+      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 272413,
+      "name": "If I Coulda, Woulda, Shoulda",
+      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Now Is The Time",
         "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 206733,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tobacco Road",
+        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Tobacco Road - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Be Anything (But Be Mine)",
-      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
         "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 183440,
       "name": "Let's Burn Down The Cornfield - 2006 Remaster",
       "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Be Anything (But Be Mine)",
+      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
     },
     {
       "added_at": null,
@@ -735,18 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
       "artists": [
+        {
+          "name": "Lou Rawls And Les McCann Trio",
+          "url": "https://open.spotify.com/artist/4ldWE2nRMsjaNC9HZS6cRJ"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        },
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 176466,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
+      "duration_ms": 225600,
+      "name": "(They Call It) Stormy Monday",
+      "url": "https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO"
     },
     {
       "added_at": null,
@@ -763,6 +771,22 @@
       "duration_ms": 163813,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
     },
     {
       "added_at": null,
@@ -799,30 +823,6 @@
       "duration_ms": 165840,
       "name": "They Can't Take That Away from Me",
       "url": "https://open.spotify.com/track/5wxU0hgoQovDevPToz0Urd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stormy Monday",
-        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls And Les McCann Trio",
-          "url": "https://open.spotify.com/artist/4ldWE2nRMsjaNC9HZS6cRJ"
-        },
-        {
-          "name": "Les McCann Ltd.",
-          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
-        },
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "(They Call It) Stormy Monday",
-      "url": "https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO"
     },
     {
       "added_at": null,

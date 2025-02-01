@@ -2,9 +2,9 @@
 
 ### [New Music Friday France](https://open.spotify.com/playlist/37i9dQZF1DX742okrrpwah)
 
-> Le meilleur des nouveautés de la semaine !
+> The Weeknd au top des nouveautés de la semaine !
 
-3,323 songs - 7 day 5 hr 23 min
+3,326 songs - 7 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Crushing Me](https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 2:29 | 2024-08-01 | 2024-08-09 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-08 | 2024-08-16 |
 | [Cry Baby](https://open.spotify.com/track/0NrOeqIaRmnZT1xWw4Onr1) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Cry Baby](https://open.spotify.com/album/3ESzkaJUUVHRvClOdjzoNV) | 2:55 | 2024-12-05 | 2024-12-13 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Crybaby](https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Crybaby](https://open.spotify.com/album/5Wm0HVhzfIZa0Euf4CNXv7) | 2:54 | 2024-04-25 | 2024-05-03 |
 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 | 2025-01-30 |  |
 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 | 2024-05-16 | 2024-05-24 |
@@ -1446,6 +1447,7 @@
 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 | 2024-06-27 | 2024-07-05 |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-20 | 2024-06-28 |
 | [Into My World](https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Into My World](https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU) | 2:52 | 2025-01-23 | 2025-01-31 |
+| [INTÉRIEUR](https://open.spotify.com/track/07s3BgK1aaUsyj4YX1LlRY) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [INTÉRIEUR](https://open.spotify.com/album/0zMCM791RLp47y1AWM2NjR) | 2:17 | 2025-01-30 |  |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-25 | 2024-08-02 |
 | [IRL](https://open.spotify.com/track/5wBoLrPt44DD31mOzleb6P) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [IRL](https://open.spotify.com/album/531EqTphsyiM9QdhcigRHm) | 3:09 | 2025-01-09 | 2025-01-17 |
 | [Irréel 2](https://open.spotify.com/track/7m4iJ8abP2pIol7hoeYTX2) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Irréel 2](https://open.spotify.com/album/3nwjZPO8vVy6XnUGKescv2) | 3:18 | 2025-01-23 | 2025-01-31 |
@@ -1798,6 +1800,7 @@
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-05-10 |
 | [Love Game](https://open.spotify.com/track/1sPMAxEKbcbfu61aQePk65) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Love Game](https://open.spotify.com/album/1XczLnnF5yEml9Ih1xdokY) | 1:52 | 2025-01-09 | 2025-01-17 |
 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 | 2024-05-09 | 2024-05-17 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 |  |
 | [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 | 2024-09-27 |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-16 | 2025-01-24 |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-30 |  |

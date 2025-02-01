@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: NOUA UNSPE, Oscar
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,827 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,837 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 28 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 |
 | 29 | [Românească](https://open.spotify.com/track/6IvsHJJMAbf6lUBpFaSii4) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Românească](https://open.spotify.com/album/1U498gIRXMiyOtf9DI4glf) | 2:33 |
 | 30 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |
-| 31 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
+| 31 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 32 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 |
-| 33 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
+| 33 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
 | 34 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
 | 35 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 |
 | 36 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 45 | [Nimic Nou](https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Nimic Nou](https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R) | 2:35 |
 | 46 | [PATEK](https://open.spotify.com/track/3GhuOAqwwIo3hAlXApoKeC) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [PATEK](https://open.spotify.com/album/4PgwdjlApTsBwtlcaU1dDz) | 2:25 |
 | 47 | [Meditez](https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Cruz](https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f) | [Meditez](https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm) | 2:29 |
-| 48 | [ABRACADABRA](https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [ABRACADABRA](https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX) | 2:41 |
-| 49 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
+| 48 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
+| 49 | [ABRACADABRA](https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [ABRACADABRA](https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX) | 2:41 |
 | 50 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |
 
 Snapshot ID: `Z5v2hAAAAADuRb0IMtwlZhyS/8jVpWnD`

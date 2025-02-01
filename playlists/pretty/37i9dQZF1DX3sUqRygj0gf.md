@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,122 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,120 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 19 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 |
 | 20 | [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 |
 | 21 | [Let It Be Christmas](https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Let It Be Christmas](https://open.spotify.com/album/0Si1rBa7WgB6kCb5aIG4jB) | 3:43 |
-| 22 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 |
-| 23 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 |
+| 22 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 |
+| 23 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 |
 | 24 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 |
 | 25 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
 | 26 | [Maybe Next Christmas](https://open.spotify.com/track/4JYewrsUG5zpV0gTQ2DqJp) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Maybe Next Christmas](https://open.spotify.com/album/5NaGbKAz6tToBAeK09bhpj) | 2:29 |

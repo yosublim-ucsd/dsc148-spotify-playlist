@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Horses In Heaven",
+        "url": "https://open.spotify.com/album/2LITp4RknU989yidYPFqNe"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Horses In Heaven",
+      "url": "https://open.spotify.com/track/4941NyrAdgzgIFAZWn6MbY"
+    },
+    {
+      "album": {
         "name": "How Far Can It Go?",
         "url": "https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT"
       },

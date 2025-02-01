@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14239,
+  "num_followers": 14254,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5tFngAAAAAjRtX7GSH9ZU+e/DI5s9kk",
+  "snapshot_id": "Z5xepAAAAADx259flQYf24Ft/ck6CDDD",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -27,22 +27,6 @@
       "duration_ms": 157168,
       "name": "Trippila",
       "url": "https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3"
-    },
-    {
-      "added_at": "2024-12-25 05:58:51",
-      "album": {
-        "name": "Aiyaiyo (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/38wMfEJRXG5GwolTwhGqu7"
-      },
-      "artists": [
-        {
-          "name": "Samuel Nicholas",
-          "url": "https://open.spotify.com/artist/4HzOMT90RRZ7p1SzMtqVCr"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Aiyaiyo - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/2JgWN3U4p9UjgQTOBMtZPx"
     },
     {
       "added_at": "2024-12-13 11:21:28",
@@ -77,6 +61,30 @@
       "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
     },
     {
+      "added_at": "2025-01-31 05:18:41",
+      "album": {
+        "name": "Haiyoo Saachale",
+        "url": "https://open.spotify.com/album/0IOZNcsNVdlrCK2mAzyhFl"
+      },
+      "artists": [
+        {
+          "name": "Vignesh Mahendran",
+          "url": "https://open.spotify.com/artist/1Tehk5QX40ttgQJ4HjtoV8"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Haiyoo Saachale",
+      "url": "https://open.spotify.com/track/0PAyJ4iUGLOv6N7fDfXPXy"
+    },
+    {
       "added_at": "2025-01-30 06:33:30",
       "album": {
         "name": "Death Molam",
@@ -99,6 +107,30 @@
       "duration_ms": 258644,
       "name": "Death Molam",
       "url": "https://open.spotify.com/track/1cWkNAI04ZAmHeSIGfXRsW"
+    },
+    {
+      "added_at": "2025-01-16 09:42:00",
+      "album": {
+        "name": "Karakki (Raw Version) [From \"Think Specials\"]",
+        "url": "https://open.spotify.com/album/2aquYWJo5kwaum9LE63onr"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Karunguyil Ganesh",
+          "url": "https://open.spotify.com/artist/3itVmQfDbKUxkCKfOU1Pxq"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 193300,
+      "name": "Karakki (Raw Version) - From \"Think Specials\"",
+      "url": "https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt"
     },
     {
       "added_at": "2025-01-29 14:54:54",
@@ -125,6 +157,22 @@
       "url": "https://open.spotify.com/track/5zZm5rkuV25us8HO8IS4ef"
     },
     {
+      "added_at": "2024-12-25 05:58:51",
+      "album": {
+        "name": "Aiyaiyo (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/38wMfEJRXG5GwolTwhGqu7"
+      },
+      "artists": [
+        {
+          "name": "Samuel Nicholas",
+          "url": "https://open.spotify.com/artist/4HzOMT90RRZ7p1SzMtqVCr"
+        }
+      ],
+      "duration_ms": 165593,
+      "name": "Aiyaiyo - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/2JgWN3U4p9UjgQTOBMtZPx"
+    },
+    {
       "added_at": "2025-01-17 04:48:16",
       "album": {
         "name": "Po Venaa",
@@ -143,30 +191,6 @@
       "duration_ms": 125510,
       "name": "Po Venaa",
       "url": "https://open.spotify.com/track/15ilxiXT5Wf5yvOScCPz0N"
-    },
-    {
-      "added_at": "2025-01-16 09:42:00",
-      "album": {
-        "name": "Karakki (Raw Version) [From \"Think Specials\"]",
-        "url": "https://open.spotify.com/album/2aquYWJo5kwaum9LE63onr"
-      },
-      "artists": [
-        {
-          "name": "ADY KRIZ",
-          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
-        },
-        {
-          "name": "Karunguyil Ganesh",
-          "url": "https://open.spotify.com/artist/3itVmQfDbKUxkCKfOU1Pxq"
-        },
-        {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        }
-      ],
-      "duration_ms": 193300,
-      "name": "Karakki (Raw Version) - From \"Think Specials\"",
-      "url": "https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt"
     },
     {
       "added_at": "2025-01-30 06:32:28",
@@ -245,20 +269,48 @@
       "url": "https://open.spotify.com/track/4uDz10d3vMktL85WVPdY7i"
     },
     {
-      "added_at": "2024-12-19 11:22:09",
+      "added_at": "2025-01-31 04:48:38",
       "album": {
-        "name": "Parakkiren Naan",
-        "url": "https://open.spotify.com/album/7jhdn9F7QtFXK8YVhQO7SN"
+        "name": "Rathinamey (Tamil Indie)",
+        "url": "https://open.spotify.com/album/1BVF9p7uu1EVvgCd0ieAJk"
       },
       "artists": [
         {
-          "name": "Roja Aditya",
-          "url": "https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ"
+          "name": "Vetti Payan Venkat",
+          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
+        },
+        {
+          "name": "Samuel Dawn",
+          "url": "https://open.spotify.com/artist/0xTVZM2tt5LP7fizun5kwl"
+        },
+        {
+          "name": "Praveen KG",
+          "url": "https://open.spotify.com/artist/6TZ5k9CcgcX0moxCfJySUe"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Parakkiren Naan",
-      "url": "https://open.spotify.com/track/5upbB3hM61InhJBHHpeT7N"
+      "duration_ms": 241263,
+      "name": "Rathinamey (Tamil Indie)",
+      "url": "https://open.spotify.com/track/4mvItWtTtj3qkYmbCs6oQE"
+    },
+    {
+      "added_at": "2025-01-31 03:43:55",
+      "album": {
+        "name": "Nee Sooriyanadi",
+        "url": "https://open.spotify.com/album/0zvU1pF5IKXQ79b61qmHRl"
+      },
+      "artists": [
+        {
+          "name": "Dr Nash",
+          "url": "https://open.spotify.com/artist/3fsaI7JrgWXgxsi62KWaqk"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        }
+      ],
+      "duration_ms": 236756,
+      "name": "Nee Sooriyanadi",
+      "url": "https://open.spotify.com/track/4g10pcBkjQwxjWKpSpOeX6"
     },
     {
       "added_at": "2025-01-17 05:02:12",
@@ -287,6 +339,74 @@
       "duration_ms": 186666,
       "name": "Pesum Paniye",
       "url": "https://open.spotify.com/track/1LRV6xKvY45J83bhK2QqHP"
+    },
+    {
+      "added_at": "2025-01-31 04:48:38",
+      "album": {
+        "name": "Theera Irul",
+        "url": "https://open.spotify.com/album/4fTes6zDMlFaTSyd0DnDvC"
+      },
+      "artists": [
+        {
+          "name": "Stv Andrew",
+          "url": "https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd"
+        },
+        {
+          "name": "Kunkumasudharshan R",
+          "url": "https://open.spotify.com/artist/4m8OL554jGJL6Jp67Gu7Jc"
+        },
+        {
+          "name": "Dharshana Vijayan",
+          "url": "https://open.spotify.com/artist/0D71qCh2dODGJtFCs2Mhyq"
+        }
+      ],
+      "duration_ms": 268017,
+      "name": "Theera Irul",
+      "url": "https://open.spotify.com/track/65WfHGYdwvBHc8RRKZJg77"
+    },
+    {
+      "added_at": "2025-01-31 04:40:03",
+      "album": {
+        "name": "Magali (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5NuGUN1AyWjtICgLjlQN7S"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Chandrasekaran",
+          "url": "https://open.spotify.com/artist/06BUo66St1Sk0yJJepajBP"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Vaishnabi",
+          "url": "https://open.spotify.com/artist/1ZfHrtjpJNj0qjrQjqrWQc"
+        },
+        {
+          "name": "Mathumetha",
+          "url": "https://open.spotify.com/artist/5eRkBCzeoiCG5UsyMMXPuz"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Magali (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/74SrzyXcrcZqmH0hNZ7yPV"
+    },
+    {
+      "added_at": "2025-01-31 05:01:11",
+      "album": {
+        "name": "Retro Rhythms a Modern Tale",
+        "url": "https://open.spotify.com/album/4DzxbCGlVp2MvbKFjJafvk"
+      },
+      "artists": [
+        {
+          "name": "B&K Vibrant Vibes",
+          "url": "https://open.spotify.com/artist/0JDNwkCqILNOuohFogImCR"
+        }
+      ],
+      "duration_ms": 211840,
+      "name": "Nilavai Thottu",
+      "url": "https://open.spotify.com/track/6wjLvLqedsIVgGS4sCzhGF"
     },
     {
       "added_at": "2025-01-24 10:23:29",
@@ -385,22 +505,6 @@
       "url": "https://open.spotify.com/track/7gocHLwMiHYistuL6IRvPC"
     },
     {
-      "added_at": "2025-01-10 04:30:39",
-      "album": {
-        "name": "Why So Sad Sugar Muffin?",
-        "url": "https://open.spotify.com/album/0gw6QzCSKKFp1HfHwREPUy"
-      },
-      "artists": [
-        {
-          "name": "Headline Harmonies",
-          "url": "https://open.spotify.com/artist/5nHP0QTfMMU7PKASLOpWDC"
-        }
-      ],
-      "duration_ms": 153039,
-      "name": "Why So Sad Sugar Muffin?",
-      "url": "https://open.spotify.com/track/0ZxhGxOyluyUlFi2S595Zv"
-    },
-    {
       "added_at": "2025-01-20 04:22:48",
       "album": {
         "name": "Mosakutty",
@@ -477,24 +581,20 @@
       "url": "https://open.spotify.com/track/4VGUCHyLaycOXTdAieUbXr"
     },
     {
-      "added_at": "2024-09-19 11:35:34",
+      "added_at": "2025-01-31 05:01:11",
       "album": {
-        "name": "Thodarum Intha Payanam",
-        "url": "https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7"
+        "name": "Retro Rhythms a Modern Tale",
+        "url": "https://open.spotify.com/album/4DzxbCGlVp2MvbKFjJafvk"
       },
       "artists": [
         {
-          "name": "Rama Priya Yegasivanathan",
-          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
-        },
-        {
-          "name": "Sahul",
-          "url": "https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO"
+          "name": "B&K Vibrant Vibes",
+          "url": "https://open.spotify.com/artist/0JDNwkCqILNOuohFogImCR"
         }
       ],
-      "duration_ms": 280725,
-      "name": "Thodarum Intha Payanam",
-      "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
+      "duration_ms": 176800,
+      "name": "Kadhal Galatta",
+      "url": "https://open.spotify.com/track/7tIXZQDdZIhzkTShkehC4k"
     },
     {
       "added_at": "2024-11-25 06:30:12",
@@ -773,26 +873,6 @@
       "url": "https://open.spotify.com/track/7aKW4EwkfYCQRkq6pvmIzF"
     },
     {
-      "added_at": "2024-11-06 11:38:40",
-      "album": {
-        "name": "ITHIHASAM",
-        "url": "https://open.spotify.com/album/7u1VQppoBE94YpVlgrWVVp"
-      },
-      "artists": [
-        {
-          "name": "Iykki Berry",
-          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
-        },
-        {
-          "name": "Dev Major",
-          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
-        }
-      ],
-      "duration_ms": 208571,
-      "name": "ITHIHASAM",
-      "url": "https://open.spotify.com/track/6raLTHOzFZxCubRSJtiKH9"
-    },
-    {
       "added_at": "2024-10-12 01:26:07",
       "album": {
         "name": "Kannaattiye",
@@ -877,66 +957,6 @@
       "url": "https://open.spotify.com/track/0iuMXjVlQjKQnYlmclnBBd"
     },
     {
-      "added_at": "2024-09-20 05:40:44",
-      "album": {
-        "name": "We Are the Change (Tamil)",
-        "url": "https://open.spotify.com/album/1EGYL7K4Mmdzq2BO9Isk39"
-      },
-      "artists": [
-        {
-          "name": "MUSICALLY FACELESS",
-          "url": "https://open.spotify.com/artist/1LMZQJvk3mIbWO7mpIvLuN"
-        },
-        {
-          "name": "Aslam Roshan",
-          "url": "https://open.spotify.com/artist/1wf7JX3i9U4MPxdPdXOvnG"
-        },
-        {
-          "name": "Hansa Rathnayake",
-          "url": "https://open.spotify.com/artist/7vj8Jv9GusspdrX2mmHhCp"
-        },
-        {
-          "name": "Ishita Premnath",
-          "url": "https://open.spotify.com/artist/6GdS9YEjh6oCoyARskMTt9"
-        },
-        {
-          "name": "Naduni Yameesha",
-          "url": "https://open.spotify.com/artist/2Qc4GEIB2imyY1ARpmqekU"
-        },
-        {
-          "name": "Nimna Lakshitha",
-          "url": "https://open.spotify.com/artist/5aTMIZEUYydm9kvp5mcfQd"
-        },
-        {
-          "name": "Pranirsha Thyagaraja",
-          "url": "https://open.spotify.com/artist/6Y8rgh7q2SW55K2lVgjeln"
-        },
-        {
-          "name": "Sayumi Tharumila",
-          "url": "https://open.spotify.com/artist/5VHWCVCCjM11x3idLNCKDu"
-        },
-        {
-          "name": "Sithuka Geenush",
-          "url": "https://open.spotify.com/artist/4MgYpX2tXPdrkEA5nR7VCY"
-        },
-        {
-          "name": "Sineth Lakmina",
-          "url": "https://open.spotify.com/artist/5Cs1DBLUroctStYCjaKxEm"
-        },
-        {
-          "name": "Siyoth Nimnada",
-          "url": "https://open.spotify.com/artist/7oNREBHavW6fnwwfUvCIUO"
-        },
-        {
-          "name": "Veenath Sathsara",
-          "url": "https://open.spotify.com/artist/3XGvhDP9uIzFXYWwuBVZyI"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "We Are the Change (Tamil)",
-      "url": "https://open.spotify.com/track/5UrdQQgVCKo2lyWjSDGsDB"
-    },
-    {
       "added_at": "2024-10-07 13:53:12",
       "album": {
         "name": "Edho Seidhaai",
@@ -951,42 +971,6 @@
       "duration_ms": 178000,
       "name": "Edho Seidhaai",
       "url": "https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV"
-    },
-    {
-      "added_at": "2024-09-20 05:02:29",
-      "album": {
-        "name": "Arakkiye",
-        "url": "https://open.spotify.com/album/2wz4GI1MXwXTZMtJFFBsp7"
-      },
-      "artists": [
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        },
-        {
-          "name": "Julius Gnanagar",
-          "url": "https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Arakkiye",
-      "url": "https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk"
-    },
-    {
-      "added_at": "2024-08-30 06:29:43",
-      "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/1uro3cZxfAF1XwtKAzOvlZ"
-      },
-      "artists": [
-        {
-          "name": "ABISAN",
-          "url": "https://open.spotify.com/artist/0F49POB6TWnMSFL4jeyrMq"
-        }
-      ],
-      "duration_ms": 249653,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/0Gw4zIJJpCzAJSwsMpcuVJ"
     },
     {
       "added_at": "2024-10-04 05:12:27",

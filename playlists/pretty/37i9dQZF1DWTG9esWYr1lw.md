@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,210 likes - 39 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,227 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,6 +46,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 36 | [Alaao El Zeina](https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe) | [Mostafa Abo Rawash](https://open.spotify.com/artist/6KGdrIAxpV6UZ4Vp4yIVRl) | [Alaao El Zeina](https://open.spotify.com/album/0y3BAQ4UEf2xaOXYXKlSP9) | 4:22 |
 | 37 | [Ahlan Ya Ramadhan](https://open.spotify.com/track/2yBtd8LXwYGYgiaURXCV2v) | [Rayhaan Carrim](https://open.spotify.com/artist/5DVVzZtDQfbNSY4NWT2Kp6) | [Ahlan Ya Ramadhan](https://open.spotify.com/album/7CKD4o6QQljTmUeed7H1F9) | 3:29 |
 | 38 | [Shan E Ramzan](https://open.spotify.com/track/0HgnvdAdcZJlpYAL7kkxUu) | [Danish & Dawar](https://open.spotify.com/artist/2KVv6lTptEbMVD6oOHCEaG) | [Shan E Ramzan](https://open.spotify.com/album/5WpEEY6Jk4exVxtY9RFdWl) | 4:10 |
-| 39 | [رمضان اهو جانا](https://open.spotify.com/track/3fgfN1gOO58nAR97HzZPvX) | [Khaled Mounib](https://open.spotify.com/artist/6OQ8SI8h90JGWuk3c1qZVs) | [رمضان اهو جانا](https://open.spotify.com/album/1fjQECkwnblZOsde9bHl3w) | 2:15 |
+| 39 | [Efrahou Ya Banat](https://open.spotify.com/track/0mE1z4WuQXZIwR1yRR4FqV) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 4:32 |
 
 Snapshot ID: `Z5iZaAAAAAB67w68VaU1hPMT+O628O4p`

@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-385 songs - 19 hr 40 min
+386 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-07-01 | 2024-07-27 |
 | [So Stunning](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [So Stunning](https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy) | 2:18 | 2024-07-31 | 2024-08-25 |
 | [So What \(feat\. milo\)](https://open.spotify.com/track/3iar0tVgdzwpvQechUtUsz) | [Anthon Edwards](https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti), [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [So What \(feat\. milo\)](https://open.spotify.com/album/5LAWhv2Tz0NiVXUMqyH53e) | 2:28 | 2024-11-07 | 2024-11-15 |
-| [Som om \(feat\. Mumle\)](https://open.spotify.com/track/1gCY02xjTwjQkKOYgWdO0B) | [TV\-2](https://open.spotify.com/artist/6jvJrJNRIBqin5CYaT2cup), [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Som om \(feat\. Mumle\)](https://open.spotify.com/album/0Wd0Ky9stG9qokr9L87xR8) | 3:32 | 2025-01-24 |  |
+| [Som om \(feat\. Mumle\)](https://open.spotify.com/track/1gCY02xjTwjQkKOYgWdO0B) | [TV\-2](https://open.spotify.com/artist/6jvJrJNRIBqin5CYaT2cup), [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Som om \(feat\. Mumle\)](https://open.spotify.com/album/0Wd0Ky9stG9qokr9L87xR8) | 3:32 | 2025-01-24 | 2025-02-01 |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-24 |  |
 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 | 2024-09-12 | 2025-01-25 |
 | [SOMEONE TO YOU](https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [SOMEONE TO YOU](https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be) | 2:59 | 2024-10-03 | 2025-01-25 |
@@ -333,6 +333,7 @@
 | [Stime \(feat\. KESI\)](https://open.spotify.com/track/5rBJLnaIpZ2NJQTWmjJNYO) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:29 | 2025-01-24 |  |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2024-12-06 | 2025-01-22 |
 | [Striptease](https://open.spotify.com/track/5kILHrfMHQ4eFHZqnu4yY3) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:43 | 2025-01-24 |  |
+| [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 |  |
 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-31 | 2024-10-09 |
 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 | 2024-08-16 | 2024-11-08 |
 | [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ) | 2:47 | 2024-12-19 | 2025-01-22 |

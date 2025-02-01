@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-281 songs - 17 hr 15 min
+282 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Fell In Love With A Ghost \(OG Gvllow Mix\)](https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Fell In Love With A Ghost \(OG Gvllow Mix\)](https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa) | 3:45 | 2023-08-31 |  |
 | [Flinch Awake](https://open.spotify.com/track/7KT3QK1mTErOIeXyBwsnA8) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/2l4vEBCHhW804i5xo1rj4g) | 5:48 | 2023-08-31 |  |
 | [Forever](https://open.spotify.com/track/0KRAQpoakCf6ngwMTZIwfJ) | [Trit95](https://open.spotify.com/artist/03Iz2T21dJ2qZqYFLmJGt1) | [Forever](https://open.spotify.com/album/3uk6ar08tBClrLIgNAFZRf) | 2:12 | 2023-08-31 |  |
+| [FRENCH TIPS](https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [ESPERA](https://open.spotify.com/album/4k2fUq8CH5r1taFG82PGjh) | 2:27 | 2025-01-31 |  |
 | [Future Club](https://open.spotify.com/track/20ztml2STRF7Sq1UaBB6ox) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 4:49 | 2020-12-21 | 2024-01-12 |
 | [Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [Tomb for Two](https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR) | 4:52 | 2023-01-06 |  |
 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 | 2024-03-05 |  |
@@ -115,7 +116,7 @@
 | [Heavens Lower](https://open.spotify.com/track/1TDJSbzuAIAFQy2K7EBm7m) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Heavens Lower](https://open.spotify.com/album/3cw8dtylOAuH9CGY98020g) | 2:57 | 2023-11-30 |  |
 | [Heavy Wave](https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:29 | 2020-12-21 | 2024-01-12 |
 | [Heridas](https://open.spotify.com/track/5O7my5b6fnKebvMftWecuS) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Heridas](https://open.spotify.com/album/2c3APE4YSB4M7KCjeniApS) | 2:20 | 2024-09-13 |  |
-| [Heroes](https://open.spotify.com/track/4ymjspgq2OvYoPjOnsztnw) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 4:46 | 2020-12-21 |  |
+| [Heroes](https://open.spotify.com/track/4ymjspgq2OvYoPjOnsztnw) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 4:46 | 2020-12-21 | 2025-02-01 |
 | [Himn](https://open.spotify.com/track/2lQjnkrYoq4wWHOe9NQZcN) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Ahida](https://open.spotify.com/album/76X4TuJzAdvVGYsomfpDi7) | 3:30 | 2023-02-21 | 2023-03-25 |
 | [Holod](https://open.spotify.com/track/3uuZgHc57MBoBchsETeecJ) | [Super Besse](https://open.spotify.com/artist/6bcE5jaMjqBXy1bwH8KdR0) | [63610\*](https://open.spotify.com/album/4M6aZ41q3nWcfgVn1Q6buu) | 4:52 | 2020-12-21 | 2023-02-10 |
 | [Holy Ghost](https://open.spotify.com/track/7CYzSfN0VUzM2BuDsOivtz) | [Pleasure Nature](https://open.spotify.com/artist/3ZGM51bHuk90ka2P14mrzQ) | [Nightmare State / Television Choir](https://open.spotify.com/album/0wF2jadXWC7KPV02HWrbSx) | 3:55 | 2024-07-11 |  |

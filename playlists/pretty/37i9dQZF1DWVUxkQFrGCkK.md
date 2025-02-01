@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,200 likes - 307 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,586 likes - 307 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 5 | [Take It Easy on Me](https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Take It Easy on Me](https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U) | 2:39 |
 | 6 | [Maria Maria](https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [Maria Maria](https://open.spotify.com/album/6aXN4WOPqN8TgTkIxVkQdf) | 4:22 |
 | 7 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 |
-| 8 | [Back 2 Me \- Peace Control Edit](https://open.spotify.com/track/70eKraygMmw08t8SboRQOa) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Back 2 Me \(The Remixes\)](https://open.spotify.com/album/3kJ1H3aCv7QxOdDkBQctg6) | 4:19 |
+| 8 | [Back 2 Me \- Peace Control Remix](https://open.spotify.com/track/70eKraygMmw08t8SboRQOa) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Back 2 Me \(The Remixes\)](https://open.spotify.com/album/3kJ1H3aCv7QxOdDkBQctg6) | 4:19 |
 | 9 | [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 |
 | 10 | [Falling Feels Like Flying \(ft Kabusa Oriental Choir\)](https://open.spotify.com/track/4uwYYpAbDZ1SFRdde2hJUU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:16 |
 | 11 | [YAWA \(Man On A Mission\)](https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0) | [Édel](https://open.spotify.com/artist/71FZZiU3aazM8r1Bm1NkCu), [Zani \(BR\)](https://open.spotify.com/artist/3fbmi6cCWN51a18gaMIKAW) | [YAWA \(Man On A Mission\)](https://open.spotify.com/album/2SsOg3Zq94tH970LaDjah5) | 3:45 |

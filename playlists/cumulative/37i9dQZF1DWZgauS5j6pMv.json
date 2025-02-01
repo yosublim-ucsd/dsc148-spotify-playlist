@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: Penthouse",
+  "description": "The best of today's funk. Cover: Maya Delilah",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 183887,
       "name": "Ambrosia (feat. John Givez)",
       "url": "https://open.spotify.com/track/1vvkcDxmRcen5VA46QjE45"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 291000,
       "name": "Break Through To My Heart",
       "url": "https://open.spotify.com/track/4ZTejOswcSHkbPfiQi1DVR"
@@ -4298,7 +4298,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 217082,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
@@ -6493,6 +6493,24 @@
     },
     {
       "album": {
+        "name": "Own Thing",
+        "url": "https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161309,
+      "name": "Own Thing",
+      "url": "https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud"
+    },
+    {
+      "album": {
         "name": "Quality Over Opinion",
         "url": "https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7"
       },
@@ -7727,6 +7745,24 @@
     },
     {
       "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/705LfArn43DdhivgfDYX8q"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "album": {
         "name": "STEP BY STEP",
         "url": "https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal"
       },
@@ -8556,6 +8592,28 @@
       "duration_ms": 230303,
       "name": "To The Death",
       "url": "https://open.spotify.com/track/2q6ufQzqSn4Cr26hJhvQiW"
+    },
+    {
+      "album": {
+        "name": "TOGETHER (With Devon Gilfillian)",
+        "url": "https://open.spotify.com/album/5ucp6xSvkJMNfwRT9Sc5Uh"
+      },
+      "artists": [
+        {
+          "name": "SNACKTIME",
+          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
+        },
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "TOGETHER (With Devon Gilfillian)",
+      "url": "https://open.spotify.com/track/4U7WNGITP6pP6xahNsvzaI"
     },
     {
       "album": {

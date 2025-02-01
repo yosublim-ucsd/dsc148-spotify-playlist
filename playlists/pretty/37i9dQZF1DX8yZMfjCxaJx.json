@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Tucanes de Tijuana, Luis R Conriquez en portada.",
-  "num_followers": 241856,
+  "num_followers": 241921,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "Rugrats",
         "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 235875,
       "name": "Rugrats",
       "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
-      },
-      "artists": [
-        {
-          "name": "La Cuatiza",
-          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
-        }
-      ],
-      "duration_ms": 133250,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
         "name": "Le Apodan El Fresa",
         "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 194541,
       "name": "Le Apodan El Fresa",
       "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "duration_ms": 133250,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "Desde Topo Hasta La Sierra (En vivo)",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra - En vivo",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "Desde La Prisi\u00f3n 19",
+        "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "duration_ms": 175583,
+      "name": "Desde La Prisi\u00f3n 19",
+      "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "De LM a GVE",
         "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 151946,
       "name": "De LM a GVE",
       "url": "https://open.spotify.com/track/2qHfvwACkkNTFFPOyLPoma"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "Desde La Prisi\u00f3n 19",
-        "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cartel",
-          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
-        }
-      ],
-      "duration_ms": 175583,
-      "name": "Desde La Prisi\u00f3n 19",
-      "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "10 Corridos Autorizados",
+        "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 226944,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "EVO LUXURY 2",
         "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 189754,
       "name": "El N\u00famero",
       "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "10 Corridos Autorizados",
-        "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 226944,
-      "name": "El Doble R",
-      "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 189149,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "Vice City",
         "url": "https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 183973,
       "name": "Vice City",
       "url": "https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 189149,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "La Gente Del M",
-        "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Definitivo",
-          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Gente Del M",
-      "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
         "name": "El 602",
         "url": "https://open.spotify.com/album/2bsJcfaIJcA7DemqKPQttl"
       },
@@ -1623,22 +1603,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "Todo Marcha Bien",
-        "url": "https://open.spotify.com/album/4oxmEgTKEEGghIEUQcNoc9"
+        "name": "La Gente Del M",
+        "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Grupo Definitivo",
+          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
         },
         {
-          "name": "Cheko Mg",
-          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 141506,
-      "name": "Todo Marcha Bien",
-      "url": "https://open.spotify.com/track/3ZrDGZeQPkh1SRCIDTdxBt"
+      "duration_ms": 170403,
+      "name": "La Gente Del M",
+      "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1655,6 +1635,26 @@
       "duration_ms": 240331,
       "name": "Eddiecho Adios",
       "url": "https://open.spotify.com/track/6I04t8qV2O8hFqBvoFoj3B"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "Todo Marcha Bien",
+        "url": "https://open.spotify.com/album/4oxmEgTKEEGghIEUQcNoc9"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Cheko Mg",
+          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Todo Marcha Bien",
+      "url": "https://open.spotify.com/track/3ZrDGZeQPkh1SRCIDTdxBt"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1711,22 +1711,18 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "Por Clave P1",
-        "url": "https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo"
+        "name": "La Tropa Del Infierno",
+        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
       },
       "artists": [
         {
-          "name": "Los Juniors De Mexicali",
-          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
-        },
-        {
-          "name": "Martin Castillo",
-          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 187063,
-      "name": "Por Clave P1",
-      "url": "https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR"
+      "duration_ms": 162641,
+      "name": "La Tropa Del Infierno",
+      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1747,50 +1743,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
+        "name": "Por Clave P1",
+        "url": "https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "La Tropa Del Infierno",
-        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
-      },
-      "artists": [
+          "name": "Los Juniors De Mexicali",
+          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
+        },
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
         }
       ],
-      "duration_ms": 162641,
-      "name": "La Tropa Del Infierno",
-      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "Traficantes Michoacanos",
-        "url": "https://open.spotify.com/album/5TgwAXNo1a9ROlqxkDJt9L"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 199038,
-      "name": "Traficantes Michoacanos",
-      "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
+      "duration_ms": 187063,
+      "name": "Por Clave P1",
+      "url": "https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1811,6 +1779,38 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "Traficantes Michoacanos",
+        "url": "https://open.spotify.com/album/5TgwAXNo1a9ROlqxkDJt9L"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 199038,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "Los Dos de Guerrero",
         "url": "https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS"
       },
@@ -1823,22 +1823,6 @@
       "duration_ms": 207617,
       "name": "Los Dos de Guerrero",
       "url": "https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "Al Gusto de Uno",
-        "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors De Mexicali",
-          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
-        }
-      ],
-      "duration_ms": 174804,
-      "name": "El Guero Reyna",
-      "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1871,6 +1855,22 @@
       "duration_ms": 188393,
       "name": "Bienvenidos a Guasave",
       "url": "https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "Al Gusto de Uno",
+        "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors De Mexicali",
+          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
+        }
+      ],
+      "duration_ms": 174804,
+      "name": "El Guero Reyna",
+      "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
     }
   ],
   "unique_name": "Corridos Chakalosos",

@@ -3967,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Zero Shege",
+        "url": "https://open.spotify.com/album/7E61GP74XnL2Row5lOZFR4"
+      },
+      "artists": [
+        {
+          "name": "Victor Okose",
+          "url": "https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73846,
+      "name": "Zero Shege",
+      "url": "https://open.spotify.com/track/4PlCXCaxZI35ZM8rKHgbL0"
+    },
+    {
+      "album": {
         "name": "ZOE",
         "url": "https://open.spotify.com/album/3H9ke91YEz9p6m3Gj1QI6I"
       },

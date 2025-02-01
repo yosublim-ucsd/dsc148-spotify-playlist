@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 278662,
+  "num_followers": 278797,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Flowing Rivers",
-        "url": "https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf"
-      },
-      "artists": [
-        {
-          "name": "Andy Gibb",
-          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "I Just Want To Be Your Everything",
-      "url": "https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "A Day At The Races (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 296493,
       "name": "Somebody To Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Flowing Rivers",
+        "url": "https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "I Just Want To Be Your Everything",
+      "url": "https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Love Her Madly",
-      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Love Her Madly",
+      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
     },
     {
       "added_at": "2024-03-22 15:16:12",

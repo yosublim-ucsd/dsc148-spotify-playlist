@@ -2,9 +2,9 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip hop\. Cover:  Dee\-1
+> Inspirational hip hop\. Cover:  Will Smith and Big Sean
 
-476 songs - 23 hr 43 min
+477 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Be Real](https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Be Real](https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x) | 2:27 | 2022-05-28 | 2024-08-27 |
 | [Beat the Block Up](https://open.spotify.com/track/1YYlKFIlOQrfRhENbmSY4x) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Beat the Block Up](https://open.spotify.com/album/4GPDjZ6kPfO4twbBtAMlfZ) | 2:35 | 2022-03-19 | 2022-05-29 |
 | [Beautiful](https://open.spotify.com/track/4B15esl9pBFYa82fLVPD2H) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Beautiful](https://open.spotify.com/album/3iykAdVTHoLauG1SXi2cEt) | 2:49 | 2022-11-18 | 2024-06-26 |
+| [BEAUTIFUL SCARS \(feat\. OBanga\)](https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [OBanga](https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv) | [BEAUTIFUL SCARS \(feat\. OBanga\)](https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp) | 3:46 | 2025-01-31 |  |
 | [believe](https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [believe](https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012) | 2:35 | 2023-02-18 |  |
 | [BEST NIGHT](https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Joey Vantes](https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc), [A\. Ruiz](https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO) | [BEST NIGHT](https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL) | 2:41 | 2022-05-28 | 2022-07-23 |
 | [Better](https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Better](https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An) | 2:53 | 2022-05-28 | 2022-07-27 |
@@ -403,7 +404,7 @@
 | [Supernatural](https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Supernatural](https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD) | 2:19 | 2021-12-11 | 2024-08-27 |
 | [Survivor’s Remorse](https://open.spotify.com/track/4PR5VsJOO1GVLqVd92MB02) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/0KMKmN12KfDELl73qPxhyq) | 2:36 | 2024-11-24 | 2025-01-25 |
 | [Swerve That](https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP) | [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [Swerve That](https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11) | 2:36 | 2022-11-18 | 2024-08-27 |
-| [TANTRUM](https://open.spotify.com/track/3lAwtVPdYYw3tFtXTzTiAE) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TANTRUM](https://open.spotify.com/album/1ajUeF2vDMiRWRc8F0vZQ9) | 3:04 | 2024-12-13 |  |
+| [TANTRUM](https://open.spotify.com/track/3lAwtVPdYYw3tFtXTzTiAE) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TANTRUM](https://open.spotify.com/album/1ajUeF2vDMiRWRc8F0vZQ9) | 3:04 | 2024-12-13 | 2025-02-01 |
 | [Tell Me](https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz) | [Aable](https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Tell Me](https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV) | 3:08 | 2022-05-28 | 2024-08-27 |
 | [Terraform \(feat\. Brandi Price\)](https://open.spotify.com/track/6cZXAkMHY6HCYGQU3Uru9A) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [L's](https://open.spotify.com/artist/7cUbRxCpEq5eKtdRJJHFtj), [Brandi Price](https://open.spotify.com/artist/1PjOAwA4O7hnNutcGKrtgn) | [Terraform: The Sky](https://open.spotify.com/album/09lNRhUgiYaY45cRX2ah1f) | 4:58 | 2022-03-25 | 2022-11-19 |
 | [Tested](https://open.spotify.com/track/1vCJ5LrHXRPUsSCZe4jeP8) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [Tested](https://open.spotify.com/album/1chlteN1sQQVdWFHhRS7LY) | 2:08 | 2022-03-25 | 2022-07-29 |

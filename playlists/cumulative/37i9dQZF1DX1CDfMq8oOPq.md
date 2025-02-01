@@ -4,7 +4,7 @@
 
 > big d com a senha da cena, fenomenal!
 
-275 songs - 13 hr 0 min
+276 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 | 2022-03-11 | 2024-12-14 |
 | [As Preta Primeiro](https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [As Preta Primeiro](https://open.spotify.com/album/1HsXss4gvRvAJ79OcdkoZw) | 2:37 | 2024-03-08 | 2024-04-19 |
 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 | 2022-03-11 | 2024-08-17 |
+| [Atenção](https://open.spotify.com/track/0Z8RH9wYcpWqMObgmVcfyZ) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [Atenção](https://open.spotify.com/album/2kZqWv63nuNhWiFQqxKwLb) | 2:22 | 2025-01-31 |  |
 | [ATL Freestyle](https://open.spotify.com/track/5JU5JyRvxarASKxiieyO1R) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [taldiBruna](https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Artilheira](https://open.spotify.com/album/4L9PPCaKaPq4mtTJTImIvn) | 2:16 | 2024-06-21 | 2024-08-10 |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-08-25 |  |
 | [Audi](https://open.spotify.com/track/2988kuv79kMRHfLHFucz7k) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Jô](https://open.spotify.com/artist/4DztvVriZDy8pMRiPBA6qI) | [Audi](https://open.spotify.com/album/0xkY0Q55DwJjnEUvkVVsM4) | 2:11 | 2023-08-18 | 2023-09-23 |
@@ -154,7 +155,7 @@
 | [Menor de Fura](https://open.spotify.com/track/3JrIOp1iuGghh648iUBuhO) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [DJ Caio Santos](https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Menor de Fura](https://open.spotify.com/album/0TI293CXUKtrHiuCV61N0x) | 2:42 | 2024-03-15 | 2024-03-23 |
 | [Meu Fã](https://open.spotify.com/track/1Wq1ycTn3zcPcYnS4rKhYK) | [Collors Brasil](https://open.spotify.com/artist/4AjMZGrmvGRSxeDwNtFfgv), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E) | [Meu Fã](https://open.spotify.com/album/2X9GIeq7FyqHgWKfW9P4Qy) | 2:26 | 2023-06-23 | 2023-07-22 |
 | [Meu Vulgo](https://open.spotify.com/track/1Gua866aqCYEVVRvAfZr3t) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Meu Vulgo](https://open.spotify.com/album/0aYR0L1ixmQ859B28FrECY) | 2:13 | 2024-11-22 |  |
-| [Minha Vizinha](https://open.spotify.com/track/5paFjobSdeJRkL8HpponA3) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Minha Vizinha](https://open.spotify.com/album/5JVFF7QFkiSKyOhw1Swosm) | 2:31 | 2024-12-13 |  |
+| [Minha Vizinha](https://open.spotify.com/track/5paFjobSdeJRkL8HpponA3) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Minha Vizinha](https://open.spotify.com/album/5JVFF7QFkiSKyOhw1Swosm) | 2:31 | 2024-12-13 | 2025-02-01 |
 | [mlk me esquece](https://open.spotify.com/track/5KpOnRvxuYU18AQ0HVoQg8) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [mlk me esquece](https://open.spotify.com/album/5IFvarnHQmfiqGQxhVhxnb) | 1:53 | 2024-03-29 | 2024-04-19 |
 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 | 2022-07-08 | 2023-08-05 |
 | [Molinha](https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV) | [ÀTÚNWA](https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL) | 4:14 | 2022-03-11 | 2023-01-21 |

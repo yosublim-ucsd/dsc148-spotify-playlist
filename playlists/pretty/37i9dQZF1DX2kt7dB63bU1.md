@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,306 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,358 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You've Changed](https://open.spotify.com/track/59Y0HlcCevMDvNN04V5kSQ) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [You've Changed](https://open.spotify.com/album/4NjbuYwyN7kS6tQhZNggR9) | 3:28 |
-| 2 | [Save Your Love For Me](https://open.spotify.com/track/7iub1m9seT5PfUxoTPRmsz) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Smile](https://open.spotify.com/album/5RiFbjDgfyfzTCQths9B6c) | 2:39 |
-| 3 | [The Best Is Yet To Come](https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa) | [The Best Is Yet To Come](https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb) | 4:31 |
+| 2 | [Never Say Yes](https://open.spotify.com/track/2Ka8P81G57GuTFg6dP22qN) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Never Say Yes](https://open.spotify.com/album/670e77IHq9uXEBiaPh4fQZ) | 3:32 |
+| 3 | [Save Your Love For Me](https://open.spotify.com/track/7iub1m9seT5PfUxoTPRmsz) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Smile](https://open.spotify.com/album/5RiFbjDgfyfzTCQths9B6c) | 2:39 |
 | 4 | [Stairway to the Stars](https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Stairway to the Stars](https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80) | 5:18 |
-| 5 | [Love Is a Place](https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3) | [I Guess I Just](https://open.spotify.com/album/52Jyjr3Mtxl7i7hM8SSyy9) | 4:31 |
+| 5 | [Love Is a Place](https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Lucas Pino](https://open.spotify.com/artist/5XJ3MtDvjwCTEbu4oehX7Q) | [I Guess I Just](https://open.spotify.com/album/52Jyjr3Mtxl7i7hM8SSyy9) | 4:31 |
 | 6 | [Bold](https://open.spotify.com/track/1PF5Kj3iGZNoR12xBZDxC1) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Dezron Douglas](https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Bold](https://open.spotify.com/album/7FqikX3fErogVsxKNsGg04) | 3:27 |
 | 7 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 |
 | 8 | [Don't Forget Your Love](https://open.spotify.com/track/2YVCAhio5l6KdLvh6jg1mP) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Messages](https://open.spotify.com/album/4KVABgFjy5h5u9KcCeTYD7) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 |
 | 100 | [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 |
 
-Snapshot ID: `Z5MeaAAAAADf/qzCMv3wgSw7btZpeoaq`
+Snapshot ID: `Z5xY/gAAAACub7dEN4ve/ojdU9UKNu85`

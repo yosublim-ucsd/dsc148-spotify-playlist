@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "hannah cohen \ud83c\udf1f\ud83c\udf43\u2728\u2661",
+  "description": "jack van cleaf getting his flowers \ud83c\udf3c",
   "name": "juniper",
   "tracks": [
     {
@@ -2101,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "forgive",
+        "url": "https://open.spotify.com/album/7ce4lWzKblWtwCZPJH0wx4"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288465,
+      "name": "forgive",
+      "url": "https://open.spotify.com/track/5o1hmgXrZVssht9hZLjhEu"
+    },
+    {
+      "album": {
         "name": "Found",
         "url": "https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1"
       },
@@ -2632,6 +2650,28 @@
       "duration_ms": 201307,
       "name": "Heavy Handed",
       "url": "https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT (feat. Madi Diaz)",
+        "url": "https://open.spotify.com/album/4oz5gWyUsn17qOnNH39PEY"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        },
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191913,
+      "name": "HEAVYWEIGHT (feat. Madi Diaz)",
+      "url": "https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ"
     },
     {
       "album": {
@@ -5127,6 +5167,28 @@
     },
     {
       "album": {
+        "name": "Rattlesnake (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293836,
+      "name": "Rattlesnake (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -6530,7 +6592,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 177149,
       "name": "the way that i am",
       "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
@@ -7327,6 +7389,24 @@
     },
     {
       "album": {
+        "name": "Living Ghost",
+        "url": "https://open.spotify.com/album/6cOpPRnzFVeC0nJTZmCQ2O"
+      },
+      "artists": [
+        {
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329875,
+      "name": "Wildfire (Gone, Gone, Gone) / Death Song",
+      "url": "https://open.spotify.com/track/1VGENSgt3c628FEF6GjZKt"
+    },
+    {
+      "album": {
         "name": "Willows",
         "url": "https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P"
       },
@@ -7530,6 +7610,24 @@
       "duration_ms": 224744,
       "name": "You'd Like Me More",
       "url": "https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc"
+    },
+    {
+      "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
     },
     {
       "album": {

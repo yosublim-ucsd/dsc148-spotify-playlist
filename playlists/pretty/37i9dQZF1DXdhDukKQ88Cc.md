@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🥶 sikke typer <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">@Zuloo</a> x <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a>  🥶
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,643 likes - 54 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,688 likes - 54 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

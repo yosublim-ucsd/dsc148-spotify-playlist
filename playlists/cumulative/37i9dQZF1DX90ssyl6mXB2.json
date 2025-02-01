@@ -2563,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0uYfjQvFRgO8XhsFZhkfDR"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169914,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/34R2RCXgGbCnMrCCOF4n6g"
+    },
+    {
+      "album": {
         "name": "Tempt Me",
         "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
       },

@@ -4,7 +4,7 @@
 
 > ElGrandeToto at the top of the biggest Moroccan rap playlist.
 
-356 songs - 19 hr 1 min
+358 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,11 +90,12 @@
 | [Dmess](https://open.spotify.com/track/2aEsMXEDpyKWdZ3JJspbai) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Dmess](https://open.spotify.com/album/7bybuogra71XLFPeOLRVhe) | 2:51 | 2024-10-09 | 2024-10-31 |
 | [Dmou3 L'Croco](https://open.spotify.com/track/07sFckxlPXEYKgTjR8ZdEw) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Dmou3 L'Croco](https://open.spotify.com/album/6c3o3VCnDA2wKfoJbnnKgu) | 3:11 | 2024-11-02 | 2024-11-22 |
 | [Do It Again](https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:44 | 2023-06-22 | 2023-12-08 |
-| [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 |  |
+| [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 | 2025-02-01 |
 | [Dokhana](https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-06-09 |
 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 | 2024-06-03 |  |
 | [Dracula](https://open.spotify.com/track/1AEJ2p9KDQQZE2cJP4HF4N) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:16 | 2024-12-26 | 2024-12-30 |
+| [Drahem Denya](https://open.spotify.com/track/5o6GmcjGlEIMoTyygi7OeN) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Ghorab](https://open.spotify.com/album/5KCg3cBBhccv5SRClhZG7T) | 2:35 | 2025-01-31 |  |
 | [Drari](https://open.spotify.com/track/3E0tyueJ8RwaR9787Iucqc) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Drari](https://open.spotify.com/album/5H2BQ6JJTu07btoGKRiISX) | 3:12 | 2024-06-14 | 2024-09-25 |
 | [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 | 2023-07-11 | 2023-11-24 |
 | [El barrio](https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:28 | 2023-01-06 | 2023-06-23 |
@@ -135,6 +136,7 @@
 | [HKZ GANG V2](https://open.spotify.com/track/055mtpjA761fk09YyAXAoF) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/7zCD2W5LfZ1h68oM33gACn) | 3:02 | 2023-08-23 | 2023-09-10 |
 | [HKZ GANG V2](https://open.spotify.com/track/3E01bQIlZo3m22jgNjieEo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/4jyuqrpAhEhuNR1RR6V8JD) | 3:02 | 2023-09-08 | 2023-10-11 |
 | [Hotel](https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [Hotel](https://open.spotify.com/album/0ofD5pzUTbUDiumyojrMCN) | 3:02 | 2024-05-02 | 2024-06-14 |
+| [IMESSOUAN](https://open.spotify.com/track/5GCUXVm3W4Kioqou0FocyE) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [BALA W FAS](https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa) | 2:18 | 2025-01-31 |  |
 | [IMPOLIS](https://open.spotify.com/track/2zJCocfV6VTMDQScL4XUVN) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [X7kira](https://open.spotify.com/artist/2DpWLjgk0DpATSJeWPWL3i), [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [IMPOLIS](https://open.spotify.com/album/1P3TKXMtmi3zKLPCYzNUYU) | 3:56 | 2023-06-22 | 2023-09-22 |
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2022-11-14 | 2024-02-18 |
 | [INJAZAT](https://open.spotify.com/track/5bnwj4m2Wdzpe4vdTIN4OL) | [GELLO 4031](https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW) | [INJAZAT](https://open.spotify.com/album/36yX0CkuJ1pyD2E3nQkaXR) | 2:21 | 2024-04-01 | 2024-05-03 |
@@ -269,7 +271,7 @@
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 | 2023-10-01 |
 | [Rwicha](https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Rwicha](https://open.spotify.com/album/1FK36KFJthvyz6tCJO7ZVP) | 2:56 | 2024-01-06 | 2024-05-26 |
 | [Sacrifice](https://open.spotify.com/track/3PsH5lRJuFskbE856YAze2) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sacrifice](https://open.spotify.com/album/3M1KeYIDCrT8rAQRgUnOdK) | 3:13 | 2024-10-09 | 2024-10-22 |
-| [Saddam](https://open.spotify.com/track/1V1fukMsGEAcjNhWRiXbWQ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Saddam](https://open.spotify.com/album/0fBK1u4dXrqOEglhMzHII4) | 2:29 | 2025-01-30 |  |
+| [Saddam](https://open.spotify.com/track/1V1fukMsGEAcjNhWRiXbWQ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Saddam](https://open.spotify.com/album/0fBK1u4dXrqOEglhMzHII4) | 2:29 | 2025-01-30 | 2025-02-01 |
 | [SAKA](https://open.spotify.com/track/4YxQW5226q4oacUOSbfIFS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 3:00 | 2025-01-09 |  |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-11-14 | 2022-12-13 |
 | [Sality Wla Ba91](https://open.spotify.com/track/6qEennteH7K9g4Lw1sb9Hn) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Sality Wla Ba91](https://open.spotify.com/album/15pDNMHadZGbwQBwev9SwP) | 3:09 | 2024-10-02 | 2024-10-23 |

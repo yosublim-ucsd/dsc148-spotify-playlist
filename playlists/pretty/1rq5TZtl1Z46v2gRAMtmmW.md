@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,825 likes - 40 songs - 2 hr 38 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,839 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 33 | [I Have Nothing More To Tell You](https://open.spotify.com/track/0gTQdI5yY0beu8TCSNQ5ZW) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Dill](https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld) | [Anywhere, But Here With You](https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v) | 2:57 |
 | 34 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 |
 | 35 | [Winter Is Not Dead](https://open.spotify.com/track/2Qa6Q93csBmJGzcXzmi2X3) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 4:06 |
-| 36 | [In The Night \- Paul Sirrell Remix](https://open.spotify.com/track/3KmrUmrcc3L4OqqGQAEhxG) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:30 |
-| 37 | [Green \- St\. David Remix](https://open.spotify.com/track/0sPi3AetQCt7b9CAtumw20) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [St\. David](https://open.spotify.com/artist/1t0FcS0U41EGNcCsMdkpXL) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:13 |
-| 38 | [Heather Park \- salute Remix](https://open.spotify.com/track/12IXYei6KVHIXSOJIL2f8M) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Heather Park \(salute Remix\)](https://open.spotify.com/album/3sXuFwBddm8PW2y9dzpkZa) | 6:15 |
-| 39 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
-| 40 | [Bon Bon \- Andrew VanWyngarden Remix](https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bon Bon \(Andrew VanWyngarden Remix\)](https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH) | 5:35 |
+| 36 | [Green \- St\. David Remix](https://open.spotify.com/track/0sPi3AetQCt7b9CAtumw20) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [St\. David](https://open.spotify.com/artist/1t0FcS0U41EGNcCsMdkpXL) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:13 |
+| 37 | [Heather Park \- salute Remix](https://open.spotify.com/track/12IXYei6KVHIXSOJIL2f8M) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Heather Park \(salute Remix\)](https://open.spotify.com/album/3sXuFwBddm8PW2y9dzpkZa) | 6:15 |
+| 38 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
+| 39 | [Bon Bon \- Andrew VanWyngarden Remix](https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bon Bon \(Andrew VanWyngarden Remix\)](https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH) | 5:35 |
+| 40 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 
-Snapshot ID: `AAAP2H4l7dQQjku3i9NY4E0ho1irTJen`
+Snapshot ID: `AAAP2hA4hiSFCtQcpCzh3fIlrsbN5Bjk`

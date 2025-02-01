@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-169 songs - 7 hr 54 min
+170 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [story to TELL](https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [dim.](https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy) | [story to TELL](https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9) | 2:03 | 2024-10-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 |  |
 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 | 2025-01-24 |  |
+| [Tell Me](https://open.spotify.com/track/34R2RCXgGbCnMrCCOF4n6g) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Tell Me](https://open.spotify.com/album/0uYfjQvFRgO8XhsFZhkfDR) | 2:49 | 2025-01-31 |  |
 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 | 2024-07-26 |  |
 | [Temptress](https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Temptress](https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG) | 2:56 | 2024-10-18 |  |
 | [That's Tough](https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [That's Tough](https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V) | 2:24 | 2024-03-29 |  |

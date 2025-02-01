@@ -74,10 +74,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 211600,
       "name": "5 Minutes With God",
       "url": "https://open.spotify.com/track/1ze44zUyRnPSqgjJMIrGje"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq"
+      },
+      "artists": [
+        {
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "5 Minutes With God",
+      "url": "https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio"
     },
     {
       "album": {

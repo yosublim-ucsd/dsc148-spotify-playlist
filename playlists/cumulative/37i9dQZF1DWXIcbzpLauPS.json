@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the best new metalcore - where brutality and technicality collide. Cover: Silent Planet",
+  "description": "the best new metalcore - where brutality and technicality collide. Cover: Great American Ghost",
   "name": "The Core",
   "tracks": [
     {
@@ -342,6 +342,32 @@
       "duration_ms": 188307,
       "name": "A King To Rise",
       "url": "https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW"
+    },
+    {
+      "album": {
+        "name": "A Line in the Dust",
+        "url": "https://open.spotify.com/album/0QeSlVSiJRan9ocKl2tQWv"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Mat Welsh",
+          "url": "https://open.spotify.com/artist/41qbLh8IPItyHRIHAQafft"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235443,
+      "name": "A Line in the Dust",
+      "url": "https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P"
     },
     {
       "album": {
@@ -1502,7 +1528,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 262373,
       "name": "Ashes - feat. Jaakko M\u00e4ntymaa",
       "url": "https://open.spotify.com/track/1d9tRG6qVmnkVdAkJMdA5g"
@@ -1560,6 +1586,28 @@
       "duration_ms": 237115,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
+    },
+    {
+      "album": {
+        "name": "Atonement (feat. Will Ramos)",
+        "url": "https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232254,
+      "name": "Atonement - feat. Will Ramos",
+      "url": "https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF"
     },
     {
       "album": {
@@ -1650,6 +1698,28 @@
       "duration_ms": 221782,
       "name": "Back for More",
       "url": "https://open.spotify.com/track/3DM9DwtKbAiwvRc4bJ1NyF"
+    },
+    {
+      "album": {
+        "name": "Back From Hell (feat. The Browning)",
+        "url": "https://open.spotify.com/album/1GA2NTC8KhpwkEe1yvBI6W"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        },
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201667,
+      "name": "Back From Hell (feat. The Browning)",
+      "url": "https://open.spotify.com/track/35lp4VnrdXC9ptYltFFY4S"
     },
     {
       "album": {
@@ -3686,7 +3756,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 204112,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K"
@@ -6374,10 +6444,28 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 238426,
       "name": "Echoes of War",
       "url": "https://open.spotify.com/track/1JjdZ1ajBGvwAEsl5Nzj9Z"
+    },
+    {
+      "album": {
+        "name": "Tragedy of The Commons",
+        "url": "https://open.spotify.com/album/5N2Asaw4Vv1TGCOuUYO8s4"
+      },
+      "artists": [
+        {
+          "name": "Great American Ghost",
+          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Echoes of War",
+      "url": "https://open.spotify.com/track/2rPZK6eDDi1coX1yeluYEX"
     },
     {
       "album": {
@@ -7176,7 +7264,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 218958,
       "name": "FATHER",
       "url": "https://open.spotify.com/track/2w2lcTQVq9YBYktFD4uJVf"
@@ -9136,7 +9224,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 193285,
       "name": "Hole Hearted",
       "url": "https://open.spotify.com/track/6WU2sHLqU13QUzwV9m6iGB"
@@ -9418,6 +9506,24 @@
       "duration_ms": 292789,
       "name": "Hymn Of Decay",
       "url": "https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
     },
     {
       "album": {
@@ -10574,7 +10680,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 233160,
       "name": "LEECH",
       "url": "https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo"
@@ -10650,6 +10756,24 @@
       "duration_ms": 269777,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2JrPhJ74FfygxtRYMXU0Fk"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232702,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8"
     },
     {
       "album": {
@@ -15911,6 +16035,24 @@
     },
     {
       "album": {
+        "name": "Silver Swarm",
+        "url": "https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273524,
+      "name": "Silver Swarm",
+      "url": "https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR"
+    },
+    {
+      "album": {
         "name": "Never Back Down",
         "url": "https://open.spotify.com/album/5LBVHXZ46tgeOElr4Oe47b"
       },
@@ -18884,7 +19026,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 205424,
       "name": "tourniquet.",
       "url": "https://open.spotify.com/track/5iDoUNLLzsm2449t3kdSqh"
@@ -18960,6 +19102,24 @@
       "duration_ms": 200474,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/4XbVasB4Gwwgvdua5fmI8l"
+    },
+    {
+      "album": {
+        "name": "Trembling Level",
+        "url": "https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "Trembling Level",
+      "url": "https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes"
     },
     {
       "album": {
@@ -19852,7 +20012,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 209631,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/1TK3lggm7HZ00nQp01uUTu"

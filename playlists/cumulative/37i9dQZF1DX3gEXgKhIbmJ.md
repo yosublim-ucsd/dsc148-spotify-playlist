@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-253 songs - 10 hr 16 min
+255 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amor](https://open.spotify.com/track/5OdtravkfnSInKvZDAC4WH) | [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm) | [Amor](https://open.spotify.com/album/2mSE2XQqk8JyUYzZ0BTrdZ) | 2:03 | 2024-01-19 | 2024-03-09 |
 | [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 | 2024-09-07 | 2024-11-30 |
 | [ARO 20](https://open.spotify.com/track/5b0pG8v9U4QsRWnEpoAx5M) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [LIT KING](https://open.spotify.com/album/1MN2fMeIsJcWlX3aUmZT3s) | 1:17 | 2024-05-03 | 2024-06-01 |
+| [Atirei o Pau no Grave](https://open.spotify.com/track/4zyoAsSd1PI0HzzJ1w2Owq) | [Maísa Emily](https://open.spotify.com/artist/73GU4gOUIlpVmxMdpjVe1d), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [Atirei o Pau no Grave](https://open.spotify.com/album/3AlRt6GbanA3Z3wJAw85y2) | 2:01 | 2025-01-31 |  |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-09-15 |  |
 | [Aumentando os Lucros](https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:20 | 2023-09-29 |  |
 | [Backyardigans](https://open.spotify.com/track/1C58XkiFXWlsrtdUi6elMH) | [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Viktor Vercetti](https://open.spotify.com/artist/3lFYHzDhY76FQXlTD9q2Wv) | [Backyardigans](https://open.spotify.com/album/5Zeh8b3bUN1BlSSjX4NcLC) | 2:24 | 2023-09-15 | 2023-11-25 |
@@ -140,6 +141,7 @@
 | [Logo Agora?](https://open.spotify.com/track/4ufPwU7idMmKPbaEZbbiQB) | [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb), [Prs, o Peres](https://open.spotify.com/artist/6zA1Us7yWyCj4OXxkgAuqC), [991Didi](https://open.spotify.com/artist/4Gi0bQFqrTkn6d6xAH0AIr) | [Logo Agora?](https://open.spotify.com/album/0FjL0VPF3a0i5sCtRQsZQ1) | 2:52 | 2024-07-12 | 2024-11-30 |
 | [Luz da Lua](https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Luz da Lua](https://open.spotify.com/album/34BDJMHyUALz7TfmeVtLNe) | 1:48 | 2024-06-28 | 2025-01-18 |
 | [Luzes Da Cidade](https://open.spotify.com/track/7hnHG26vfADlCueiMTxlYd) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Luzes Da Cidade](https://open.spotify.com/album/1x1tQEpdKVhYv3r4EOcIU5) | 1:40 | 2023-11-17 | 2024-02-03 |
+| [LUÍSA SONZA](https://open.spotify.com/track/7r3wQEcoZSEBBCG7tOup3K) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [808 CLUB](https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq) | 2:15 | 2025-01-31 |  |
 | [Magia](https://open.spotify.com/track/2VAV3GVOT6cCxl3PMDzm65) | [Akascagrossa](https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj), [Prod\. Gandh193](https://open.spotify.com/artist/3JsZ5DMSo6lfqEKgIVJf5V) | [Magia](https://open.spotify.com/album/22w3IMJ6SZgVfMPKeLr3Bn) | 2:41 | 2024-06-21 | 2024-11-30 |
 | [Malandro É o Gato](https://open.spotify.com/track/3pcg8dkjxgp79XwuhwkKbF) | [RCD](https://open.spotify.com/artist/48SoAdIVL1vF96IVd8Dv13), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [Malandro É o Gato](https://open.spotify.com/album/2k9Cvv8iSoNyKT38thDIpj) | 2:36 | 2024-01-19 |  |
 | [Malvadona](https://open.spotify.com/track/5oiuJTJRjeffU2wVtEypxu) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Artilheira](https://open.spotify.com/album/4L9PPCaKaPq4mtTJTImIvn) | 1:51 | 2024-06-21 | 2024-06-29 |

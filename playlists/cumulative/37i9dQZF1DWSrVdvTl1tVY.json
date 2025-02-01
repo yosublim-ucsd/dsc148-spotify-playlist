@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "Bass Jumpin' (Sweat)",
+        "url": "https://open.spotify.com/album/6kOfMI4XaFpneh2rTtpWFr"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220150,
+      "name": "Bass Jumpin' (Sweat)",
+      "url": "https://open.spotify.com/track/7ea3rnqY96op1jr7ub1Dvn"
+    },
+    {
+      "album": {
         "name": "Bassline Pumping EP",
         "url": "https://open.spotify.com/album/4AWsi577XmBqslAYZVQLxE"
       },
@@ -11092,7 +11110,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208814,
       "name": "Motions",
       "url": "https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8"
@@ -15725,6 +15743,24 @@
     },
     {
       "album": {
+        "name": "Step By Step",
+        "url": "https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO"
+      },
+      "artists": [
+        {
+          "name": "Marsolo",
+          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179779,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8"
+    },
+    {
+      "album": {
         "name": "Step Into It (Golden Ticket)",
         "url": "https://open.spotify.com/album/3kFZhkT2vlgG2CgNT5ERXN"
       },
@@ -18878,7 +18914,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 243776,
       "name": "Wild",
       "url": "https://open.spotify.com/track/37NIItfko0d1jimEw6xecN"

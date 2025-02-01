@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Rio Da Yung Og",
+  "description": "The Midwest is always on time. Cover: EST Gee",
   "name": "CST",
   "tracks": [
     {
@@ -758,6 +758,24 @@
       "duration_ms": 65480,
       "name": "A Bar About a Bar",
       "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
+    },
+    {
+      "album": {
+        "name": "A&G",
+        "url": "https://open.spotify.com/album/3bWuAzXSUhYhDZWjj0VL65"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "A&G",
+      "url": "https://open.spotify.com/track/7McFxWETe9IQFZGRphmxj8"
     },
     {
       "album": {
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 166922,
       "name": "Bag On Me",
       "url": "https://open.spotify.com/track/4bd0t1JQm2vYGJ5pIT76Bi"
@@ -2164,6 +2182,24 @@
       "duration_ms": 180733,
       "name": "BBL",
       "url": "https://open.spotify.com/track/2ZNmJ4hISA6ANzoklFmwXE"
+    },
+    {
+      "album": {
+        "name": "BBLLCDI",
+        "url": "https://open.spotify.com/album/7yy9ywTFI3oSuWHlDE0Fqs"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147529,
+      "name": "BBLLCDI",
+      "url": "https://open.spotify.com/track/6etNPa8krT7Imudk5s9LuM"
     },
     {
       "album": {
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 143529,
       "name": "Big Shit Poppa",
       "url": "https://open.spotify.com/track/0TWq6d75bLaESdhLTZMKkR"
@@ -2863,6 +2899,28 @@
     },
     {
       "album": {
+        "name": "Bobby Fisher",
+        "url": "https://open.spotify.com/album/4kjBxZVVUwA1SdFx9JRL4Y"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114431,
+      "name": "Bobby Fisher (feat. Payroll Giovanni)",
+      "url": "https://open.spotify.com/track/4Nb9MqxqgfEt0Xbotq9hHm"
+    },
+    {
+      "album": {
         "name": "The Coldest (Deluxe)",
         "url": "https://open.spotify.com/album/2QeSLxCXPtRWzIyd7oTdM2"
       },
@@ -3274,6 +3332,24 @@
       "duration_ms": 141097,
       "name": "Buss It All Down",
       "url": "https://open.spotify.com/track/5YIMpr7jfTKCtLFbQG4d0g"
+    },
+    {
+      "album": {
+        "name": "Buss One 101, Pt. 2",
+        "url": "https://open.spotify.com/album/0K17PTUnmndc77hjRwahce"
+      },
+      "artists": [
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135866,
+      "name": "Buss One 101, Pt. 2",
+      "url": "https://open.spotify.com/track/43T9p4z9UsvvmK622MMc9r"
     },
     {
       "album": {
@@ -3782,6 +3858,24 @@
       "duration_ms": 167000,
       "name": "Chase Em Down (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP"
+    },
+    {
+      "album": {
+        "name": "Check Fox 5",
+        "url": "https://open.spotify.com/album/2vsciKzhQRI4ZSiuOGsGil"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Check Fox 5",
+      "url": "https://open.spotify.com/track/5cUn1fmjrCgWhrlkVrtR6f"
     },
     {
       "album": {
@@ -4778,7 +4872,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 125142,
       "name": "Diana (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
@@ -8094,7 +8188,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 126314,
       "name": "Heat",
       "url": "https://open.spotify.com/track/4DQgYo1trx8Pjb8PHymzdH"
@@ -8590,6 +8684,32 @@
       "duration_ms": 156265,
       "name": "House Full Of Kids",
       "url": "https://open.spotify.com/track/1fYKEyR4qr5vuKM5Y66fOi"
+    },
+    {
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205298,
+      "name": "Houstatlantaville (feat. Lil Baby & Travis Scott)",
+      "url": "https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1"
     },
     {
       "album": {
@@ -12090,7 +12210,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157703,
       "name": "Motivational Purposes",
       "url": "https://open.spotify.com/track/1VYHctSluQvx1dDBpn46Rz"
@@ -12214,7 +12334,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 278237,
       "name": "Ms. Joyce (feat. Bun B)",
       "url": "https://open.spotify.com/track/4jE3URQqlnh2t4OwPqeiRC"
@@ -12876,6 +12996,24 @@
       "duration_ms": 182768,
       "name": "No Recruits (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4OdWhMgfS8BYilx5WAha43"
+    },
+    {
+      "album": {
+        "name": "No Service",
+        "url": "https://open.spotify.com/album/2XcxugGEA00jD36FqBaUb7"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "No Service",
+      "url": "https://open.spotify.com/track/5EvYT2ryEoFLsHMw1GF5zI"
     },
     {
       "album": {
@@ -19568,7 +19706,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 182857,
       "name": "Together",
       "url": "https://open.spotify.com/track/0Bkqcc5TesMaeXybJw09Bv"

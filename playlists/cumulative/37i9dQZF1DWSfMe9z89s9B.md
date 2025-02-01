@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: JMSN
 
-1,362 songs - 2 day 23 hr 44 min
+1,364 songs - 2 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [best](https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:16 | 2022-10-21 | 2023-12-09 |
 | [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 | 2022-10-21 | 2022-11-03 |
 | [best thing for me](https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:26 | 2024-01-12 | 2024-03-09 |
+| [Better \(unplugged\)](https://open.spotify.com/track/4jLsSrvC5c9pbyk7vUz56c) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Better](https://open.spotify.com/album/7Cn9LpY72xeeysmfJRyher) | 6:39 | 2025-01-31 |  |
 | [Better Off](https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9) | 1:50 | 2024-08-30 |  |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/3TWE0jIXNuI2DVa5Y1fKRf) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/0dIY9BClkUUgfe7zthyBVv) | 2:35 | 2023-04-28 | 2023-10-25 |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/4fey3LtV0RwTPv8WOu94SL) | 2:35 | 2023-04-28 | 2024-04-19 |
@@ -1109,7 +1110,7 @@
 | [Suck Teeth](https://open.spotify.com/track/6wIeymnRFnRnyF4GoGKxSF) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Suck Teeth](https://open.spotify.com/album/1JLmSc2s9RS152aFcVzohM) | 3:56 | 2022-04-01 | 2022-04-09 |
 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 | 2022-07-29 | 2022-10-01 |
 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-02-17 | 2023-05-06 |
-| [Sum Love](https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 2:55 | 2024-10-20 |  |
+| [Sum Love](https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 2:55 | 2024-10-20 | 2025-02-01 |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2021-11-19 | 2022-08-09 |
 | [Summertime \(feat\. TOBi\)](https://open.spotify.com/track/0GIAPbemJxaFHt3qYdw4rX) | [Ellery Bonham](https://open.spotify.com/artist/0z0QtIZfyodv4ImXAxEXIH), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Summertime \(feat\. TOBi\)](https://open.spotify.com/album/2d52xhS0xCNiaAOKsEnQDD) | 4:11 | 2022-04-01 | 2022-06-11 |
 | [Sunbleach](https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:56 | 2022-07-22 | 2023-10-07 |
@@ -1147,6 +1148,7 @@
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2021-03-19 | 2022-07-29 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2022-06-10 | 2022-11-05 |
 | [Take My Time](https://open.spotify.com/track/03QuhRi2HkEl6C2jYc8Obi) | [Dancody](https://open.spotify.com/artist/5nBggqz80XWqMUkMDndDnS), [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG), [THEO](https://open.spotify.com/artist/4RxsOR1W3dND7696bxwYzG) | [What We Lost](https://open.spotify.com/album/4EDIKL4peA6oDSLsZTguyq) | 3:12 | 2023-06-09 | 2023-11-20 |
+| [take time](https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp) | [Isaiah kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [take time](https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i) | 2:16 | 2025-01-31 |  |
 | [TANTRUM!](https://open.spotify.com/track/2qOKYK813gVCIENtN27Ndv) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:28 | 2023-10-27 | 2024-07-20 |
 | [Tantrums \(feat\. James Blake\)](https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:10 | 2024-06-14 |  |
 | [Tarantino](https://open.spotify.com/track/0TYlzmj7EkJtiPjafJzuaT) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:34 | 2022-07-22 | 2022-07-25 |
@@ -1306,7 +1308,7 @@
 | [What's Left?](https://open.spotify.com/track/1x4CYMn8vexAXb5ZgenZqu) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 2:51 | 2023-01-13 | 2023-01-28 |
 | [whatalife](https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:53 | 2024-11-15 |  |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-04-01 | 2022-08-09 |
-| [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 | 2024-09-13 |  |
+| [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 | 2024-09-13 | 2025-02-01 |
 | [whelmed](https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [allthefeels](https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2) | 4:08 | 2022-07-15 | 2023-05-14 |
 | [Where R We Now](https://open.spotify.com/track/3FM0krwj4HkhilemtYGhtq) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Where R We Now](https://open.spotify.com/album/2FotJhseFZAcDsNHy7O4Ev) | 2:41 | 2023-06-16 | 2024-04-02 |
 | [While You Were Sleeping](https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [While You Were Sleeping](https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44) | 3:34 | 2023-04-07 | 2023-06-19 |

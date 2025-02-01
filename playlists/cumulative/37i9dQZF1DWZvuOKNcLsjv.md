@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Tate MacRae
 
-4,417 songs - 10 day 16 hr 4 min
+4,419 songs - 10 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Crush You](https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Crush You](https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3) | 4:16 | 2023-06-04 | 2023-06-12 |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-04-11 | 2024-04-19 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-15 | 2024-08-23 |
+| [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Crying Dancer](https://open.spotify.com/track/1jqdn9pXhWXsASjMhn0u8k) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Crying Dancer](https://open.spotify.com/album/57Hy9sa2xYdcElkTaQbjaR) | 3:48 | 2023-01-29 | 2023-02-06 |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-19 | 2023-03-27 |
 | [Crystals](https://open.spotify.com/track/0IzDyNfwiqQGaQ6DqX7ss0) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Crystals](https://open.spotify.com/album/1x9h8VxQhsxtO7v2ReRTMs) | 3:39 | 2023-11-05 | 2023-11-13 |
@@ -1836,6 +1837,7 @@
 | [LOVE \(XL\)](https://open.spotify.com/track/5GAjhDdUw6vA33k2DvEbYJ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [LOVE \(XL\)](https://open.spotify.com/album/4OpHb4ubmIAxWM945jNyfj) | 4:45 | 2023-11-26 | 2023-12-04 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-29 | 2023-02-27 |
 | [Love At First Fight](https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/2dPe2myx7weXywXiYY0veL) | 3:12 | 2023-06-11 | 2023-06-26 |
+| [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [LOVE is](https://open.spotify.com/track/2Xrbmkla4NvUgJoubBGkLl) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [LOVE is](https://open.spotify.com/album/4BLLl09Rqmp3EK8Or5a6vn) | 3:26 | 2023-01-29 | 2023-02-06 |
 | [Love Is Money?](https://open.spotify.com/track/7ayKVdG43NcU47ux8db0Md) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Love Is Money?](https://open.spotify.com/album/372fVRnoUdCMcyGqt26so4) | 3:19 | 2023-05-14 | 2023-05-23 |
 | [Love Is The New Money](https://open.spotify.com/track/6SQzw4ZppE6ahHRAtkLvU4) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Is The New Money](https://open.spotify.com/album/6yg9aXhK3IhmiCD7RZ469S) | 2:30 | 2023-05-07 | 2023-05-15 |

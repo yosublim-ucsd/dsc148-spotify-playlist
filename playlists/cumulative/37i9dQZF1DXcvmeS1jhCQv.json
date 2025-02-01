@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Travy",
+  "description": "New tunes from Ireland for your discovery. Cover: amy michelle",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 161352,
       "name": "2000SEVEN",
       "url": "https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy"
@@ -110,6 +110,28 @@
       "duration_ms": 133745,
       "name": "25BAG",
       "url": "https://open.spotify.com/track/6gTr4jaNiIUCz8pwA4UrYN"
+    },
+    {
+      "album": {
+        "name": "A Jaguar's Dream",
+        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "305",
+      "url": "https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK"
     },
     {
       "album": {
@@ -257,6 +279,42 @@
     },
     {
       "album": {
+        "name": "AppleBottomCigarets",
+        "url": "https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146312,
+      "name": "AppleBottomCigarets",
+      "url": "https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC"
+    },
+    {
+      "album": {
+        "name": "atrophy",
+        "url": "https://open.spotify.com/album/1yhIQQhcuRHOzermd4P6Iq"
+      },
+      "artists": [
+        {
+          "name": "amy michelle",
+          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188081,
+      "name": "atrophy",
+      "url": "https://open.spotify.com/track/7cQwMwIBNkGYvPQUzMj1pn"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
       },
@@ -344,7 +402,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 185807,
       "name": "Bend",
       "url": "https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU"
@@ -1501,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Ex-Friend",
+        "url": "https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt"
+      },
+      "artists": [
+        {
+          "name": "Allie Sherlock",
+          "url": "https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165868,
+      "name": "Ex-Friend",
+      "url": "https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw"
+    },
+    {
+      "album": {
         "name": "fall",
         "url": "https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu"
       },
@@ -1584,7 +1660,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 190000,
       "name": "Following the Night",
       "url": "https://open.spotify.com/track/28F8s5GQZiwCFJysAVGsXy"
@@ -1624,6 +1700,24 @@
       "duration_ms": 120024,
       "name": "FourFour",
       "url": "https://open.spotify.com/track/6UESDM5sT8nzLNwzBSpapT"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP"
+      },
+      "artists": [
+        {
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181269,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ"
     },
     {
       "album": {
@@ -1996,7 +2090,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 150923,
       "name": "I've Arrived (with Tomike)",
       "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
@@ -2536,7 +2630,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 140000,
       "name": "lovestruck",
       "url": "https://open.spotify.com/track/7n9D0wjerUgKgwRR6bT1k2"
@@ -2940,8 +3034,8 @@
       },
       "artists": [
         {
-          "name": "BIG LOVE",
-          "url": "https://open.spotify.com/artist/6htEX3C8Dvei6pnGQXorun"
+          "name": "BOLD LOVE",
+          "url": "https://open.spotify.com/artist/5cqzxOjKUZD5n79mbEkU1i"
         }
       ],
       "date_added": "2024-09-19",
@@ -3329,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "POWERPLAY",
+        "url": "https://open.spotify.com/album/3a06J2Qkcs3aFaAKzwzpxD"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Arlo",
+          "url": "https://open.spotify.com/artist/5cudb4Wjab9hm3JH34VzgB"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157916,
+      "name": "POWERPLAY",
+      "url": "https://open.spotify.com/track/2UaUNUtIQ3bHW56GXdiJmt"
+    },
+    {
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/1WYH32LddIScNJoLIRdWjO"
       },
@@ -3340,7 +3452,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 139627,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5weUQBxKTw2sPd1tlq9uZ4"
@@ -3488,6 +3600,24 @@
       "duration_ms": 296000,
       "name": "RoseGold",
       "url": "https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo"
+    },
+    {
+      "album": {
+        "name": "ROUGH",
+        "url": "https://open.spotify.com/album/7535P5YwibD1up5Sba36QL"
+      },
+      "artists": [
+        {
+          "name": "CARSTEN2X",
+          "url": "https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163669,
+      "name": "ROUGH",
+      "url": "https://open.spotify.com/track/6fTshwPBLq7F1qfMGVrNT1"
     },
     {
       "album": {
@@ -4151,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/0GF6ZG9kFWdgwuionwrPEM"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5HAAsGtJS52SxqTp2upWqM"
+    },
+    {
+      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP"
       },
@@ -4447,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "TWO SIDES",
+        "url": "https://open.spotify.com/album/0DDHRnjZHVSgrlvrM9R4f5"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247246,
+      "name": "TWO SIDES",
+      "url": "https://open.spotify.com/track/2obagAOY1SvYnEtSb9Q1a4"
+    },
+    {
+      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG"
       },
@@ -4700,7 +4866,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 186900,
       "name": "WHAT'S LEFT?",
       "url": "https://open.spotify.com/track/1jSeEBRo7r56Hi9i7G3LnZ"
@@ -4798,7 +4964,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 219499,
       "name": "why don't u like me anymore?",
       "url": "https://open.spotify.com/track/70VQZmJsY927oN249j8Czv"
@@ -4968,7 +5134,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 183705,
       "name": "Your Lady",
       "url": "https://open.spotify.com/track/6RNHjj3HbOvgTxC1gDkpK0"

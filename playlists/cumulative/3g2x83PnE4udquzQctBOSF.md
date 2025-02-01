@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-414 songs - 1 day 0 hr 38 min
+415 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Mi Corazón](https://open.spotify.com/track/25h246vto9gTVE2mCEY69q) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [Mi Corazón](https://open.spotify.com/album/7Du2rNorPcljURWbm22rkp) | 2:58 | 2023-01-15 | 2023-02-13 |
 | [Mik Jak](https://open.spotify.com/track/0k0JC6kqbr0VXOuYwpaP8t) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Mik Jak](https://open.spotify.com/album/433l4WD8ARq9fGTd5CiO3g) | 3:22 | 2024-03-24 | 2024-05-20 |
 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2023-11-05 | 2024-01-15 |
-| [Mind Eraser](https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:00 | 2024-03-08 |  |
+| [Mind Eraser](https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:00 | 2024-03-08 | 2025-02-01 |
 | [Mind Off](https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Mind Off](https://open.spotify.com/album/6jKW9d2z4n5o547bPVHIVK) | 3:10 | 2024-01-14 | 2024-03-11 |
 | [Moanin'](https://open.spotify.com/track/0G0d4LMmKhESVwj2KFvZc7) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Moanin'](https://open.spotify.com/album/1udtPFA6pYNDvUedNQwv2m) | 3:34 | 2024-05-19 | 2024-07-08 |
 | [Money Dance \- Original Mix](https://open.spotify.com/track/1YvdIDmn2QkL38kGDEb8Os) | [Brugio](https://open.spotify.com/artist/5vz838WN1qjvf2KTRngw8i) | [Manawa Sound \- 02](https://open.spotify.com/album/7DfkLGTcZfCxSDkRcPrH9j) | 4:31 | 2024-10-13 |  |
@@ -328,6 +328,7 @@
 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 | 2023-05-28 | 2023-06-19 |
 | [Sex Drugs Cash](https://open.spotify.com/track/52O7aS1nro497WlKJNmYWM) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Sex Drugs Cash](https://open.spotify.com/album/0B3y4tnhhXxZD9WbLhczDl) | 2:43 | 2023-06-11 | 2023-07-03 |
 | [Sexy](https://open.spotify.com/track/2P2earmjJAjuoUbW9du0WB) | [YOUniverse \(IT\)](https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii) | [Sexy](https://open.spotify.com/album/0FJgzF5I50HNvAS0QrDCCh) | 5:25 | 2023-12-10 | 2024-02-19 |
+| [Shake It](https://open.spotify.com/track/610KP4pndeyVkGo0wtYK23) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Shake It](https://open.spotify.com/album/1eopLgagQLPUfXgCKs9hQ0) | 3:46 | 2025-01-31 |  |
 | [Shake The Dice \(Heider Remix\)](https://open.spotify.com/track/0FmkUMw1k0WuNPN3tQMIHd) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Shake The Dice \(Remixes\)](https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH) | 4:01 | 2023-06-11 | 2023-07-03 |
 | [Shimmy To The Beat](https://open.spotify.com/track/33bbCXbwV5pgI2EZKSJ9yG) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Heyssis](https://open.spotify.com/artist/7olZ1BADnsM8bWzMEL1uQ1) | [Shimmy To The Beat](https://open.spotify.com/album/7eAxn1gd0XYw6VbmDa62gu) | 3:08 | 2024-07-07 |  |
 | [Shoot the Shot](https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Shoot the Shot](https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT) | 5:59 | 2023-04-09 | 2023-04-24 |

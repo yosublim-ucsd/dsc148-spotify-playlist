@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-09",
-  "description": "The women at the forefront of ambient and experimental music. Cover: Hollie Kenniff",
+  "description": "The women at the forefront of ambient and experimental music. Cover: LI YILEI",
   "name": "Women of Ambient",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "album": {
+        "name": "12\u00b0C",
+        "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273564,
+      "name": "12\u00b0C",
+      "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
     },
     {
       "album": {
@@ -167,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/3sHmvrCn5ZTEMeCGnkQytk"
+      },
+      "artists": [
+        {
+          "name": "Kayce Laine",
+          "url": "https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Ad Astra",
+      "url": "https://open.spotify.com/track/0Xj3UaGsskZSPvzYowxMmd"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/7tO4B8txFxMa6AkydiSS9X"
       },
@@ -178,7 +214,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 158826,
       "name": "Adventures",
       "url": "https://open.spotify.com/track/3Sjlw0hiLr40wY4OTPQ8aQ"
@@ -384,7 +420,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
@@ -532,6 +568,24 @@
       "duration_ms": 267000,
       "name": "Billow",
       "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "album": {
+        "name": "blue hour",
+        "url": "https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166784,
+      "name": "blue hour",
+      "url": "https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ"
     },
     {
       "album": {
@@ -710,7 +764,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 339053,
       "name": "Ce\u00f2",
       "url": "https://open.spotify.com/track/37AC3XJ0LZzyQRgT8tBMYv"
@@ -750,6 +804,24 @@
       "duration_ms": 225600,
       "name": "Ciclo del agua",
       "url": "https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80968,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
     },
     {
       "album": {
@@ -1026,7 +1098,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 344500,
       "name": "Depths Emerging",
       "url": "https://open.spotify.com/track/2DSMSR9CVyoI45cYwbCMMX"
@@ -1974,7 +2046,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
@@ -2555,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229521,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
+    },
+    {
+      "album": {
         "name": "Headflush",
         "url": "https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj"
       },
@@ -2740,7 +2830,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
@@ -2971,6 +3061,28 @@
     },
     {
       "album": {
+        "name": "Littoral States",
+        "url": "https://open.spotify.com/album/2UEVHGwydI2fZEKNUJgmL2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Pag\u00e9",
+          "url": "https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN"
+        },
+        {
+          "name": "Patrick Graham",
+          "url": "https://open.spotify.com/artist/1t12LNlov46lEKhE8yiaYt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352947,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/30eqBSvHnfXwBRS5vclue7"
+    },
+    {
+      "album": {
         "name": "The Boat",
         "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
       },
@@ -3188,7 +3300,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 208912,
       "name": "The Trembling of Glass",
       "url": "https://open.spotify.com/track/68Dw3MZNu16CrSYROJAvge"
@@ -3550,6 +3662,24 @@
       "duration_ms": 368000,
       "name": "Woodland Encounter",
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+    },
+    {
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "album": {

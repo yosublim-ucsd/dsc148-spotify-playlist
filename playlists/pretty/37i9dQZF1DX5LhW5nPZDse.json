@@ -1,13 +1,33 @@
 {
   "description": "Death is just the beginning. Listen to the music from School Spirits, new season now streaming on Paramount+. ",
-  "num_followers": 7744,
+  "num_followers": 7917,
   "original_name": "School Spirits Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5wESgAAAAAlEX4FN0Rr/KL56gDe0+o1",
+  "snapshot_id": "Z51aNAAAAABjSK6x+Qnooum9ihuwOYTZ",
   "tracks": [
+    {
+      "added_at": "2025-01-31 23:18:12",
+      "album": {
+        "name": "Speak of the Devil",
+        "url": "https://open.spotify.com/album/4NnumGJXtPH3g8MxUX42yJ"
+      },
+      "artists": [
+        {
+          "name": "Saint Middleton",
+          "url": "https://open.spotify.com/artist/6wbRCBmxAVoXhUPG5fx0vY"
+        },
+        {
+          "name": "Alisa",
+          "url": "https://open.spotify.com/artist/2noH86g1p2jetkEpO05Fmp"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Speak of the Devil",
+      "url": "https://open.spotify.com/track/5oY8aeZ2MqPKMA6fEMglcM"
+    },
     {
       "added_at": "2025-01-30 08:00:21",
       "album": {

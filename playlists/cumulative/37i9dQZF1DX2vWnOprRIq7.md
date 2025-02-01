@@ -2,9 +2,9 @@
 
 ### [NEÓN](https://open.spotify.com/playlist/37i9dQZF1DX2vWnOprRIq7)
 
-> El lado electrónico del indie latino, featuring Gianna Sotera & martin allende.
+> El lado electrónico del indie latino, featuring Juan Baro.
 
-329 songs - 19 hr 58 min
+330 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-05 | 2023-10-07 |
 | [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2023-03-17 | 2023-11-12 |
 | [ACUARIO](https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [ACUARIO](https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr) | 4:32 | 2023-07-14 |  |
-| [Acá \- Remix](https://open.spotify.com/track/7AfsC17s5xSUoWkljJ0scG) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [Acá \(Remix\)](https://open.spotify.com/album/1zMQd1JzQi0S9abTU7FYa2) | 3:37 | 2024-12-06 |  |
+| [Acá](https://open.spotify.com/track/7AfsC17s5xSUoWkljJ0scG) | [LE TORO](https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [Acá \(Remix\)](https://open.spotify.com/album/1zMQd1JzQi0S9abTU7FYa2) | 3:37 | 2024-12-06 |  |
 | [Acércate](https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2) | [BADS](https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3) | [Acércate](https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p) | 2:44 | 2024-10-04 |  |
 | [Affaire de Colección \- Remix](https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Cherry Blossom Season](https://open.spotify.com/artist/2aPmfWsTvrWOsVPFlCDwX7) | [Affaire](https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt) | 3:36 | 2023-04-21 | 2023-11-12 |
 | [Ahora](https://open.spotify.com/track/2bjPW6wU0L63Vd5rzrRbNr) | [VULKA](https://open.spotify.com/artist/3MVZTRVlb9SnSxgjadGfsl) | [Ahora](https://open.spotify.com/album/5k8cjs7A7AXWnhf2x8zz9O) | 4:02 | 2024-12-23 |  |
@@ -212,6 +212,7 @@
 | [Nadie+](https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [R.L.G](https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra) | [Nadie+](https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X) | 2:22 | 2023-04-07 | 2024-03-16 |
 | [Nana para Mamá](https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Sin Prisa No Quiero Morir](https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01) | 5:33 | 2023-03-17 | 2023-08-11 |
 | [New Age](https://open.spotify.com/track/1xjZUL0oSuUlRSpcoMYNU1) | [Electrochongo](https://open.spotify.com/artist/0ASM7GbGMFULTR94GOUXfM), [Divina Encarnacion](https://open.spotify.com/artist/1ACEllXdXoaFfZQ5QfVoqQ) | [New Age](https://open.spotify.com/album/6MznziDW8N5JMxV9DTerlS) | 3:09 | 2023-03-17 | 2023-04-22 |
+| [Nicho](https://open.spotify.com/track/0uexhsV03UHJ3x71NT7ya4) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Nicho](https://open.spotify.com/album/3iatoQABmCe2horRQm9TKX) | 3:22 | 2025-01-31 |  |
 | [Niebla](https://open.spotify.com/track/40yiM6t4jHjtamOScMig4Y) | [VULKA](https://open.spotify.com/artist/3MVZTRVlb9SnSxgjadGfsl) | [Niebla](https://open.spotify.com/album/56lYUsimKibqnRUqcDixvY) | 3:50 | 2024-12-23 |  |
 | [Nina](https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:36 | 2023-03-17 | 2024-03-16 |
 | [no es amor](https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [no es amor](https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm) | 3:14 | 2024-08-16 | 2024-10-05 |

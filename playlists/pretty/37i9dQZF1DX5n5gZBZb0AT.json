@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 902438,
+  "num_followers": 902575,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "DERNIERE DANCE FUNK",
         "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 91453,
       "name": "DERNIERE DANCE FUNK",
       "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "Devil Eyes",
-        "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
       },
       "artists": [
         {
-          "name": "ZODIVK",
-          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
         }
       ],
-      "duration_ms": 136651,
-      "name": "Devil Eyes",
-      "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+        "name": "Devil Eyes",
+        "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
       },
       "artists": [
         {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+      "duration_ms": 136651,
+      "name": "Devil Eyes",
+      "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
     },
     {
       "added_at": "2024-05-08 15:21:25",

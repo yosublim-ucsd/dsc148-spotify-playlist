@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-157 songs - 9 hr 21 min
+158 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Lamento](https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:46 | 2021-11-26 |  |
 | [Liberdade, vai](https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Liberdade, vai](https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI) | 3:51 | 2024-05-10 |  |
 | [Libertação](https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY) | [Vidal Assis](https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L) | [Libertação](https://open.spotify.com/album/6menATFqidzRjusVl0INqK) | 2:56 | 2021-11-26 |  |
-| [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2021-11-26 |  |
+| [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2021-11-26 | 2025-02-01 |
 | [Maria e o Samba](https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Quem Foi Que Disse Que Eu Não Faço Samba...](https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf) | 3:14 | 2021-11-26 | 2024-06-15 |
 | [Marinheiro](https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY) | [Giordano Rosa](https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU) | [Giordano Rosa](https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni) | 2:31 | 2021-11-26 |  |
 | [Me Beija Na Rua](https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Estado Febril](https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd) | 3:02 | 2024-05-10 |  |
@@ -161,6 +161,7 @@
 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 | 2021-11-26 |  |
 | [Você E Eu](https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo) | [Bossa Avenida](https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ) | [Você E Eu](https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe) | 2:59 | 2021-11-26 |  |
 | [Você Não](https://open.spotify.com/track/43PSdmRfZUuMkoOEtPZr3A) | [Jana Andrade](https://open.spotify.com/artist/110kMQksFS986W3yIbKozG), [Pedro Palma](https://open.spotify.com/artist/7Ehj2f0461yhsL8l6g3YPI) | [Você Não](https://open.spotify.com/album/1drJjZmRDV0U8IiDsS6h1v) | 2:55 | 2024-09-01 |  |
+| [Voltei](https://open.spotify.com/track/3IQzfVsRY5lyDz5TOlnrHM) | [João Camarero](https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO) | [Baden](https://open.spotify.com/album/2rbLM0aXQdSZDsQV1wKcFQ) | 3:12 | 2025-01-31 |  |
 | [Zum Zum](https://open.spotify.com/track/25nxYKQHAh7ehFIsc4kloY) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Zum Zum](https://open.spotify.com/album/4n0PDXCUXzTzv6z2NaimtJ) | 2:59 | 2021-11-26 | 2024-09-10 |
 | [É Preciso Dizer Adeus](https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Edu & Tom, Tom & Edu](https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm) | 4:17 | 2021-11-26 |  |
 | [Índia \- Tarde de Sol](https://open.spotify.com/track/4WJdUncyLVGd2I4lyuAYB0) | [Last Aliens in Rio](https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8) | [Salsa & The City](https://open.spotify.com/album/5x02IvX7PjTtJLSFDnzxhC) | 3:08 | 2022-10-14 | 2022-11-13 |

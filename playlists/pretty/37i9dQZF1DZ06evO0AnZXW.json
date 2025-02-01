@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2960539,
+  "num_followers": 2960631,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5lvgAAAAAAgE4xP3h62v/ShD0eB4GuF",
+  "snapshot_id": "Z5rBAAAAAAAecgw8UZmrupWhOXykwo4n",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Vibes Forever",
-        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+        "name": "Look At Me!",
+        "url": "https://open.spotify.com/album/3cyyJALrHc8LawnQNFYRWL"
       },
       "artists": [
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 150475,
-      "name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
-      "url": "https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ"
+      "duration_ms": 126345,
+      "name": "Look At Me!",
+      "url": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
     },
     {
       "added_at": null,
@@ -207,18 +199,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look At Me!",
-        "url": "https://open.spotify.com/album/3cyyJALrHc8LawnQNFYRWL"
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
       },
       "artists": [
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 126345,
-      "name": "Look At Me!",
-      "url": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
+      "duration_ms": 150475,
+      "name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+      "url": "https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ"
     },
     {
       "added_at": null,

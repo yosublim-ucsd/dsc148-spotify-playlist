@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: ANYSIDE
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: loserpop
 
-149 songs - 10 hr 38 min
+151 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,8 @@
 | [me \(flowers\) you](https://open.spotify.com/track/3kGyVXw6BufGKIewx3ihxE) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [me \(flowers\) you](https://open.spotify.com/album/1Rtgj5SdlEEYChtp1GqYeI) | 4:36 | 2024-12-13 | 2025-01-25 |
 | [MULTIVERSE](https://open.spotify.com/track/3LHLTMAXL0mO5uadLo59nL) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9), [Young Petch](https://open.spotify.com/artist/09AhYMLR8sNHNJbhYXZcID) | [MULTIVERSE](https://open.spotify.com/album/1Xoxc2oJCLBJnoLZZ8jxDz) | 4:51 | 2024-11-28 |  |
 | [Night Drive](https://open.spotify.com/track/7ayIUc03E8IinoiUDG2j6c) | [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [Night Drive](https://open.spotify.com/album/1TM1qazICftPwAhrhgeQtm) | 2:42 | 2024-06-21 | 2025-01-10 |
-| [Only Love \(feat\. NOTEP\)](https://open.spotify.com/track/5ITpMOVPxbZkAczlEwB3wD) | [Venn](https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ), [NOTEP](https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs) | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid) | 4:36 | 2024-11-08 |  |
-| [Parfum](https://open.spotify.com/track/3vdzZCjEX8KjOD6Hw40qLE) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [Parfum](https://open.spotify.com/album/16wUkQkUk0NWmcqd9OXnMT) | 3:50 | 2024-06-21 |  |
+| [Only Love \(feat\. NOTEP\)](https://open.spotify.com/track/5ITpMOVPxbZkAczlEwB3wD) | [Venn](https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ), [NOTEP](https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs) | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid) | 4:36 | 2024-11-08 | 2025-02-01 |
+| [Parfum](https://open.spotify.com/track/3vdzZCjEX8KjOD6Hw40qLE) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [Parfum](https://open.spotify.com/album/16wUkQkUk0NWmcqd9OXnMT) | 3:50 | 2024-06-21 | 2025-02-01 |
 | [River](https://open.spotify.com/track/0V1DGS7GNqUAHInaU7b7Db) | [FOLK9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [River](https://open.spotify.com/album/6hKyADQiXU8sh3fwGpdQuI) | 3:50 | 2024-06-21 | 2024-08-10 |
 | [Skuna](https://open.spotify.com/track/12kAcs5wwsuylTkcATgMCY) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [Skuna](https://open.spotify.com/album/3Yo2BYDn62l0lkhKWczMjg) | 3:47 | 2024-11-08 | 2024-11-23 |
 | [Someone](https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl) | [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Someone](https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM) | 3:07 | 2024-06-28 | 2024-07-20 |
@@ -106,6 +106,7 @@
 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 | 2024-06-21 |  |
 | [หนี \(run again\)](https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [หนี \(run again\)](https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG) | 4:44 | 2024-06-21 |  |
 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 | 2024-06-21 |  |
+| [หยาดน้ำค้างเเห่งความสุข \(Flawless\)](https://open.spotify.com/track/7fkWN5hPQJKOiEyFCcVTRd) | [Plastic Cavern](https://open.spotify.com/artist/6tpZMDoMCapU7JEefVtyAR) | [หยาดน้ำค้างเเห่งความสุข \(Flawless\)](https://open.spotify.com/album/0ac2aFvnziSohPRJhJk44Y) | 6:34 | 2025-01-31 |  |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-21 |  |
 | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/track/0u2ICY64eKa8rsFnqg3OUy) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/album/4lZuaKMNN0OMyzGbbbVcnA) | 3:08 | 2024-11-22 | 2024-11-29 |
 | [หากเธอยังอ่อนล้า](https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [หากเธอยังอ่อนล้า](https://open.spotify.com/album/2e0gtbdOLAFDXASeJpyslR) | 5:04 | 2024-06-21 |  |
@@ -116,6 +117,7 @@
 | [อยู่เป็นเพื่อนเธอ](https://open.spotify.com/track/42XqliIA3xVAcXEt3tVI3t) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [5050](https://open.spotify.com/album/67r5Gqjsvn5kcRr9eZdsWm) | 4:13 | 2024-11-28 | 2024-12-14 |
 | [อย่าร้องเลย](https://open.spotify.com/track/0fgpLbhZS4laKy1G4SKE62) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [อย่าร้องเลย](https://open.spotify.com/album/5meRjI3k71vfWs5RlGnGBi) | 4:08 | 2025-01-24 |  |
 | [อัลไซเมอร์](https://open.spotify.com/track/4t0sPKSccteTN07TJ6X8X9) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [อัลไซเมอร์](https://open.spotify.com/album/2V06K7AqhOftvipGFg0KHF) | 4:39 | 2024-06-21 | 2024-08-03 |
+| [เก็บไว้ได้ไหม \(Misty Memory\)](https://open.spotify.com/track/3Mzl6CVal8DZVnyYu7Icog) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [เก็บไว้ได้ไหม \(Misty Memory\)](https://open.spotify.com/album/2AABmDlmQYFHWnYTvO2iN1) | 4:42 | 2025-01-31 |  |
 | [เคย](https://open.spotify.com/track/0bI1FqL6jfmnPSX2wvyeET) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [เคย](https://open.spotify.com/album/1tNCbUIKysKQPVtbcAJ9is) | 4:18 | 2024-07-19 | 2024-08-10 |
 | [เคียงข้างเธอ](https://open.spotify.com/track/1fMuv5QWejzNhXVfmOWgXj) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เคียงข้างเธอ](https://open.spotify.com/album/1YSKzm0KUwsarP24mPSAHp) | 4:39 | 2024-12-26 | 2025-01-17 |
 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 | 2024-06-21 |  |

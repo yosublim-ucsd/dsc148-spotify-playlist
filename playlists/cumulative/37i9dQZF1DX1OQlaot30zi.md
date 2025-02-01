@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Jake, Simba, Boro, Dani Faiv e tanti altri 🔥
 
-4,858 songs - 9 day 1 hr 22 min
+4,859 songs - 9 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,8 @@
 | [Ammò T'aspett](https://open.spotify.com/track/4vBvnTnP6RP0LVA63wfagz) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh) | [RISCATTO](https://open.spotify.com/album/5CpLnTgOZiyHvGVc0yQPp9) | 2:19 | 2025-01-31 |  |
 | [Amnésie](https://open.spotify.com/track/4jPiukdGJPUdD9aEIfEL4x) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Nika Paris](https://open.spotify.com/artist/0VJVKvIFYvfqQsPatoQIDx), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [Amnésie](https://open.spotify.com/album/68WpOuxQCPzNTmSnxPmZwh) | 2:25 | 2022-05-12 | 2022-05-27 |
 | [Amore Bianco](https://open.spotify.com/track/7omuQEx0gZX4TjXKX58AGl) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [Amore Bianco](https://open.spotify.com/album/53ouXegw7U2gjuMsl0jnqg) | 2:21 | 2023-03-16 | 2023-03-31 |
-| [Amore Criminel \(feat\. Baby Gang\)](https://open.spotify.com/track/0BZR4ZZisHPH3cxcRXfTSn) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [MARTIRE](https://open.spotify.com/album/43eVUAmLmLVE2M8PUMgLva) | 2:47 | 2025-01-31 |  |
+| [Amore Criminel \(feat\. Baby Gang\)](https://open.spotify.com/track/0BZR4ZZisHPH3cxcRXfTSn) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [MARTIRE](https://open.spotify.com/album/43eVUAmLmLVE2M8PUMgLva) | 2:47 | 2025-01-31 | 2025-02-01 |
+| [Amore Criminel \(feat\. Baby Gang\)](https://open.spotify.com/track/6WXq91US4VUR2upNlPR0Pz) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [MARTIRE](https://open.spotify.com/album/1oPNcyNaxXsXid3saN3bUO) | 2:47 | 2025-01-31 |  |
 | [Amore Dannato](https://open.spotify.com/track/4EqYx7bQLJMmovC2Ja3d4r) | [Yungdobro](https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI), [LessB](https://open.spotify.com/artist/3yILeyHGY5U1vpXm4g5SWd) | [Amore dannato](https://open.spotify.com/album/5RcBTB5EPJ0bNm473RIxg1) | 3:01 | 2023-12-07 | 2023-12-22 |
 | [Amore e Fango](https://open.spotify.com/track/5WFj1n2ImNb9kYD6oRXThf) | [La Flèche](https://open.spotify.com/artist/64FfdZrhEAVBq0fdEaoO7r), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [Amore e Fango](https://open.spotify.com/album/4cp7sNlbZa0FYMt2rdlYRo) | 2:48 | 2022-08-04 | 2022-09-16 |
 | [AMORE E ODIO](https://open.spotify.com/track/58Xg7tSx5PEmAPeVChMTpg) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [AMORE E ODIO](https://open.spotify.com/album/28etAEckVtY9eIZN87g2za) | 2:24 | 2023-11-09 | 2023-11-24 |

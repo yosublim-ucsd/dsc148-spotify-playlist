@@ -2,9 +2,9 @@
 
 ### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The best rock songs of the moment\. Cover: cleopatrick
+> The best rock songs of the moment\. Cover: Bring Me The Horizon
 
-1,091 songs - 2 day 13 hr 20 min
+1,095 songs - 2 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-08 | 2024-07-13 |
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-05-31 | 2024-10-19 |
 | [Arm In Arm](https://open.spotify.com/track/2LHAUUKtI3eaojULITCZ0K) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Once](https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT) | 2:41 | 2021-12-31 | 2022-03-05 |
+| [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-31 |  |
 | [ARTIFICIAL](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [ARTIFICIAL](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2024-01-05 | 2024-08-03 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-29 | 2024-07-13 |
 | [Attaway](https://open.spotify.com/track/3HErXAS9DiVd8C9x6CJTYd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:00 | 2024-10-18 |  |
@@ -207,6 +208,7 @@
 | [Crutch](https://open.spotify.com/track/4crB0Mul1jugG4mqKH6jZR) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Crutch](https://open.spotify.com/album/0dAjRkNQEa3RlNeQHde7hA) | 3:23 | 2024-10-11 |  |
 | [CTRL^^^](https://open.spotify.com/track/1gbKpOkTCN7880ZmL3xVFV) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [CTRL^^^](https://open.spotify.com/album/7zcDuE7nJZaKy3xcTsrWsQ) | 2:39 | 2022-02-04 | 2022-06-25 |
 | [Cut Me Loose](https://open.spotify.com/track/5OkKRSGDSVISuXEYQIWx6z) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Cut Me Loose](https://open.spotify.com/album/5Hu41DxrwMBV6QGgc83jTr) | 2:45 | 2021-12-31 | 2022-05-28 |
+| [Cut My Hair](https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [TOY](https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52) | 3:04 | 2025-01-31 |  |
 | [Cut My Hair](https://open.spotify.com/track/1yxjaC8bqy31Cs7BrwCKz0) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Cut My Hair](https://open.spotify.com/album/1zV6fb0hPcA66LadF38UAC) | 4:55 | 2021-12-31 | 2022-01-29 |
 | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/3l6ibS9n423uKLhY7y3E62) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/album/64Hq3bXpxvfpXX3so2qoaj) | 3:18 | 2023-02-03 | 2024-01-05 |
 | [Cutting Teeth](https://open.spotify.com/track/2m1hk6dt2ZtWpST6VinTHc) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Lonesome High](https://open.spotify.com/album/7mUSt73cVNdmQVKKpeDbsD) | 3:31 | 2024-09-13 |  |
@@ -282,6 +284,7 @@
 | [Enemy](https://open.spotify.com/track/4W2XfmZoLQFAJULUzYQ26f) | [Cross Dog](https://open.spotify.com/artist/29CtkLlkoug4SJzFHWBySr) | [All Hard Feelings](https://open.spotify.com/album/4x47S1lb2Sn0nojMHfBNGb) | 3:53 | 2024-06-07 | 2024-07-13 |
 | [Enemy](https://open.spotify.com/track/3XQZPZYkfJzAg7jAqZriRK) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [Wanderer](https://open.spotify.com/album/6Z8ioqnKLsYkzoyw7drVve) | 3:01 | 2021-12-31 | 2022-01-29 |
 | [Entropy](https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Entropy](https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7) | 3:41 | 2022-06-10 | 2022-07-16 |
+| [Erase Me](https://open.spotify.com/track/0PcJ2m0cg6F00BB7mNnZva) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Erase Me](https://open.spotify.com/album/6UlqctfJ9XGSKCV97wlPtz) | 3:00 | 2025-01-31 |  |
 | [ERASED](https://open.spotify.com/track/3MZ3rgrGgNgyhEgkzhDKwl) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [ERASED](https://open.spotify.com/album/1L7uZ4kQih2rLJuQvafrkE) | 2:49 | 2024-04-19 | 2024-07-06 |
 | [Eternally \(undeath\)](https://open.spotify.com/track/3C0dsbulB9jzxzPyJEM5Fl) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Eternally \(undeath\)](https://open.spotify.com/album/7nXmb4cU079JNRfBSeB5bv) | 2:59 | 2024-07-12 | 2024-08-24 |
 | [Eulogy](https://open.spotify.com/track/4JfMlJsDGIu1bVOYUnUYYH) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Eulogy](https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj) | 2:21 | 2023-03-03 | 2023-04-01 |
@@ -649,7 +652,7 @@
 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-04-08 | 2023-02-04 |
 | [No Love In LA](https://open.spotify.com/track/3iDtJf5vzVe8mBaJHAs0JK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:22 | 2022-05-20 | 2022-07-16 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-31 | 2024-05-11 |
-| [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-16 |  |
+| [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-16 | 2025-02-01 |
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-01-24 |  |
 | [Nomads](https://open.spotify.com/track/0pGjVEbs8ZvFXhDmvj1ika) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 4:03 | 2023-03-17 | 2024-05-11 |
 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 | 2023-10-06 | 2024-03-23 |
@@ -715,7 +718,7 @@
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-07-01 | 2023-04-22 |
 | [Peacekeeper](https://open.spotify.com/track/3diQLXt6yw7bH4FPacw1d2) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Peacekeeper](https://open.spotify.com/album/5uyvBJrxWpCumCEFL52sGh) | 3:18 | 2024-09-20 | 2024-11-30 |
 | [People disappear here](https://open.spotify.com/track/7h5CR4nRDXUwuTKw66T5Nx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 4:07 | 2022-01-07 | 2022-01-15 |
-| [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-15 |  |
+| [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-15 | 2025-02-01 |
 | [Perfect Blue](https://open.spotify.com/track/26I0qPVgn8afCccReUkSi4) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Perfect Blue](https://open.spotify.com/album/5460Bl2lDmmkDvVS8YitfQ) | 3:25 | 2021-12-31 | 2022-01-08 |
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-22 |  |
 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-10 | 2023-02-11 |
@@ -723,7 +726,7 @@
 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 | 2022-07-08 | 2022-07-23 |
 | [Picture of Love](https://open.spotify.com/track/4imN94HyDmR7yfjfVcABpi) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Picture of Love](https://open.spotify.com/album/2rrC3GXk7y5jqSfoRVoRia) | 3:56 | 2023-03-03 | 2024-02-24 |
 | [Pink Cheetah Print Slip](https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Pink Cheetah Print Slip](https://open.spotify.com/album/4gqxim6w1bqZSNOjIJPP6s) | 1:47 | 2024-07-26 | 2024-12-21 |
-| [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-16 |  |
+| [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-16 | 2025-02-01 |
 | [Plague Dogs](https://open.spotify.com/track/6VPkaVBAQsgJHSiZypAgmk) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Plague Dogs](https://open.spotify.com/album/0cXG2AYKEnl44K1vVFLU8W) | 4:11 | 2023-02-03 | 2023-10-09 |
 | [Plague Dogs](https://open.spotify.com/track/2UizG3b1dCuVVgoFpEEERy) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [The Rise & The Fall](https://open.spotify.com/album/1jYeIPTb1ooEsc939ZFYiy) | 4:12 | 2023-10-06 | 2023-12-09 |
 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 | 2022-01-28 | 2022-07-02 |
@@ -926,7 +929,7 @@
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2022-07-30 |
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-05 | 2022-08-27 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 | 2024-10-26 |
-| [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 | 2024-08-16 |  |
+| [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 | 2024-08-16 | 2025-02-01 |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-13 | 2022-06-18 |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-11 | 2022-05-14 |
 | [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 3:15 | 2022-03-25 | 2022-04-16 |
@@ -1072,6 +1075,7 @@
 | [witches in the street](https://open.spotify.com/track/5kk5nQcXJdXyP2IeYSH3Kh) | [Leo IV](https://open.spotify.com/artist/0sL7q6u63eg3AuYPwImbhN) | [witches in the street](https://open.spotify.com/album/02lOUJsNVavV9729X3VzQw) | 1:47 | 2024-05-03 | 2024-06-15 |
 | [Witness](https://open.spotify.com/track/4xpXKkEIQaXFYKcTrw78NC) | [The Post War](https://open.spotify.com/artist/4ofDiFRQz0rN8FPm6T0ozM) | [Anecdoche](https://open.spotify.com/album/4BfRtkSpfeGE1XAeIpx578) | 4:42 | 2022-02-25 | 2022-10-01 |
 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 | 2022-09-30 | 2022-12-24 |
+| [WONDERWaLL \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-31 |  |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 | 2022-08-27 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-19 | 2024-08-24 |
 | [Wrecked](https://open.spotify.com/track/149BxWeweaCqmsyedkNiiE) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 4:04 | 2021-12-31 | 2022-07-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,124 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,119 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 24 | [Dirty Ol' Christmas Blues](https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ) | [Yes Maam](https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:06 |
 | 25 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
 | 26 | [Christmas Boogie](https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:16 |
-| 27 | [Have You Heard The News?](https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:44 |
-| 28 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 27 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 28 | [Have You Heard The News?](https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:44 |
 | 29 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
 | 30 | [It's Bad to Have the Blues \(At Christmas Time\)](https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Southern Rock Christmas](https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO) | 4:52 |
 | 31 | [Christmas 9\-1\-1](https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe) | [Sonny Rhodes](https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl) | [Stony Plain's Christmas Blues](https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs) | 6:07 |
-| 32 | [Christmas Blues](https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:10 |
+| 32 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam in Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 |
 | 33 | [A Little Bit Of Christmas Love](https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 2:43 |
-| 34 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam in Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 |
+| 34 | [Christmas Blues](https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:10 |
 | 35 | [Bo Diddley Santa Claus](https://open.spotify.com/track/5b36XrEjIUeXE40biZ7cKF) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Big Night](https://open.spotify.com/album/0tmajlJTpuxh2HRXfZmbat) | 5:39 |
 | 36 | [You're A Mean One Mr\. Grinch](https://open.spotify.com/track/5AyuHCOC5gmJ8DrPIqMoaZ) | [Shine Delphi](https://open.spotify.com/artist/4P5ULEfqCWkQD5fZ9YYWgv), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:56 |
 | 37 | [Christmas Card Blues](https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI) | [Mickey Jupp](https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT) | [Little River EP](https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX) | 3:04 |

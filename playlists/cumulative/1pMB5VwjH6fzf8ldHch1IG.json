@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 224866,
       "name": "333",
       "url": "https://open.spotify.com/track/48UYr1dGBqyANIVzBXXh4V"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 135000,
       "name": "Akanchawa",
       "url": "https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc"
@@ -2083,6 +2083,28 @@
     },
     {
       "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
       },
@@ -3117,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/2MzArrfy6VrCsveVMC7ZMp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126580,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/32nGVL9r3CuO7WXdU40WQH"
+    },
+    {
+      "album": {
         "name": "ORIGIN (Deluxe)",
         "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
       },
@@ -3824,7 +3864,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 137624,
       "name": "Don't You Love It?",
       "url": "https://open.spotify.com/track/6u1iqhg7lsllNCEtfmu6tJ"
@@ -3890,7 +3930,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 199240,
       "name": "Doze Off",
       "url": "https://open.spotify.com/track/159Qh3FaLyQJbJEntnbl3e"
@@ -4046,6 +4086,24 @@
       "duration_ms": 170489,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/7hltDDKkXw4dp6zQosSGak"
+    },
+    {
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/40DA8dgGm11xUxZEMBPU3r"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5w1JnfPhdNaUqVM3jEiIBh"
     },
     {
       "album": {
@@ -4480,7 +4538,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 246853,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
@@ -4650,6 +4708,24 @@
       "duration_ms": 160320,
       "name": "feel like home",
       "url": "https://open.spotify.com/track/621IGHgSNd3ntx0NxdAw6E"
+    },
+    {
+      "album": {
+        "name": "I am the Blueprint",
+        "url": "https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159432,
+      "name": "Feeling Alright",
+      "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
     },
     {
       "album": {
@@ -6543,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224971,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq"
+    },
+    {
+      "album": {
         "name": "Hold Still",
         "url": "https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06"
       },
@@ -6774,7 +6868,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 157533,
       "name": "i crash, u crash",
       "url": "https://open.spotify.com/track/5Kc7tvgQCCayTkJdVl8kS1"
@@ -7068,6 +7162,24 @@
       "duration_ms": 149500,
       "name": "I Will",
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
+    },
+    {
+      "album": {
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/1SCRm57zXJBjVGO9IK1RQs"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128173,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/6zLCCx1nhPUcLZCQJuk7fU"
     },
     {
       "album": {
@@ -7696,7 +7808,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 211206,
       "name": "Kabhi Kabhi",
       "url": "https://open.spotify.com/track/22F7nS0LV4YYt3oPb3xTlV"
@@ -7834,6 +7946,24 @@
       "duration_ms": 145663,
       "name": "Keep Me Satisfied",
       "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
+    },
+    {
+      "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/0HFOwd086wzzKE10UG162Q"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116770,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/56BRkZmVZ19mLPAVoXGlFr"
     },
     {
       "album": {
@@ -8575,6 +8705,28 @@
     },
     {
       "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "album": {
         "name": "The Concert for a New South Africa (Durban) [Live]",
         "url": "https://open.spotify.com/album/2vYHp5hQNYCPj28AfJP7QE"
       },
@@ -8830,7 +8982,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 178571,
       "name": "Magic Gurl (feat. Lekan)",
       "url": "https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr"
@@ -8910,7 +9062,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
@@ -8950,6 +9102,24 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "album": {
+        "name": "MANIAC",
+        "url": "https://open.spotify.com/album/0EXlZmZDM7xx2lQf8hQjP9"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172530,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/3CptguqWjLoOwMoO2DCHWm"
     },
     {
       "album": {
@@ -9367,6 +9537,32 @@
     },
     {
       "album": {
+        "name": "Money Showers",
+        "url": "https://open.spotify.com/album/3uab7YtiOV7hTEjpXdVxcu"
+      },
+      "artists": [
+        {
+          "name": "Money Musik",
+          "url": "https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o"
+        },
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        },
+        {
+          "name": "Lil Gotit",
+          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147851,
+      "name": "Money Showers",
+      "url": "https://open.spotify.com/track/5Hg7tK6LmFOdkgJyPMehV5"
+    },
+    {
+      "album": {
         "name": "The Liftaway",
         "url": "https://open.spotify.com/album/3DZpknxLN2A2aEJGm617nu"
       },
@@ -9656,7 +9852,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 132911,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen"
@@ -12471,6 +12667,24 @@
     },
     {
       "album": {
+        "name": "See You At (The Crossroads)",
+        "url": "https://open.spotify.com/album/2NKrvxrlnm7VJOS5IsiWP2"
+      },
+      "artists": [
+        {
+          "name": "Austin Williams",
+          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154980,
+      "name": "See You At (The Crossroads)",
+      "url": "https://open.spotify.com/track/2sB0EEBR8VW4DXSJUx58zf"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
       },
@@ -12596,6 +12810,24 @@
       "duration_ms": 194782,
       "name": "Sh*t Sad",
       "url": "https://open.spotify.com/track/48GihjnmhKG9a6wbKJC6MF"
+    },
+    {
+      "album": {
+        "name": "Shadowboxing",
+        "url": "https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Shadowboxing",
+      "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
     },
     {
       "album": {
@@ -12796,7 +13028,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 148128,
       "name": "Simple Life",
       "url": "https://open.spotify.com/track/5wqx5PSISG1vBPV85mgr2h"
@@ -14008,7 +14240,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 184320,
       "name": "TANTRUM",
       "url": "https://open.spotify.com/track/1LboeeNiQIRVcqR2iyOwAz"
@@ -14620,6 +14852,24 @@
       "duration_ms": 148159,
       "name": "Thought I Was Dead",
       "url": "https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB"
+    },
+    {
+      "album": {
+        "name": "Where To Start",
+        "url": "https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170397,
+      "name": "Til I Don't",
+      "url": "https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD"
     },
     {
       "album": {
@@ -15368,7 +15618,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 259726,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/1SgIL19lKf3Uq3DDPhmNpC"

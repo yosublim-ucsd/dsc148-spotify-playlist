@@ -1,18 +1,18 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3680,
+  "num_followers": 3679,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACg8GZwlW2OghzCH3oF5tZsogXERiQ",
+  "snapshot_id": "AAACk4p8PnVk4uAFKvzOIhcbJdmv2hDL",
   "tracks": [
     {
-      "added_at": "2025-01-10 16:49:38",
+      "added_at": "2025-01-31 13:46:36",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2LbH0skad1KF8OOmwzAQtA"
+        "name": "MIXTAPE",
+        "url": "https://open.spotify.com/album/0RrpKhgNxvIn3JMY9aYXBA"
       },
       "artists": [
         {
@@ -20,25 +20,41 @@
           "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
         }
       ],
-      "duration_ms": 247441,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/3ZOmz7Ifs4nejDbO6EWQQV"
+      "duration_ms": 316074,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/611XZUmFAeF1Xse7u7XWN8"
     },
     {
-      "added_at": "2025-01-24 18:22:26",
+      "added_at": "2025-01-31 13:47:02",
       "album": {
-        "name": "Dark Moon",
-        "url": "https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5"
+        "name": "Garden Road (Live At Agora Ballroom, Cleveland, Ohio - 8/26/1974)",
+        "url": "https://open.spotify.com/album/7lgXlFQPnTVVj0H6olLKZF"
       },
       "artists": [
         {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
         }
       ],
-      "duration_ms": 225440,
-      "name": "Kiss Me Quick",
-      "url": "https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh"
+      "duration_ms": 183560,
+      "name": "Garden Road - Live At Agora Ballroom, Cleveland, Ohio - 8/26/1974",
+      "url": "https://open.spotify.com/track/0h4YOaLxD0nrfcuj8JrfNh"
+    },
+    {
+      "added_at": "2025-01-31 13:49:15",
+      "album": {
+        "name": "Monica (Demo)",
+        "url": "https://open.spotify.com/album/4zjnl4eftRAHuPmajFqCPN"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 198292,
+      "name": "Monica - Demo",
+      "url": "https://open.spotify.com/track/5J8FkaBZb8gWpzPWjD33GP"
     },
     {
       "added_at": "2024-12-13 12:57:02",
@@ -59,22 +75,6 @@
       "duration_ms": 260722,
       "name": "\u2018It's A Good Life If You Don't Weaken\u2019 - Live From \u2018No Dress Rehearsal\u2019",
       "url": "https://open.spotify.com/track/3e3n50pd0H0E0JsvDgSeqQ"
-    },
-    {
-      "added_at": "2024-11-22 15:03:47",
-      "album": {
-        "name": "You Gotta Be",
-        "url": "https://open.spotify.com/album/2JzDWEg1I7dTaJHIszHh5q"
-      },
-      "artists": [
-        {
-          "name": "Jann Arden",
-          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "You Gotta Be",
-      "url": "https://open.spotify.com/track/0AN1hN5LrrRiJjI9Jh8lDS"
     },
     {
       "added_at": "2024-11-22 15:03:47",
@@ -117,36 +117,36 @@
       "url": "https://open.spotify.com/track/5nOSZSLwy5k8qpZdtWtXAA"
     },
     {
-      "added_at": "2025-01-24 18:23:00",
-      "album": {
-        "name": "Dublin (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2RFRXuA9wXANvvcdi4jetw"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 154706,
-      "name": "Dublin - Acoustic Version",
-      "url": "https://open.spotify.com/track/6y3NPdiyP6SVw3NPtcVfDy"
-    },
-    {
       "added_at": "2024-11-22 15:03:47",
       "album": {
-        "name": "How To Dismantle An Atomic Bomb (Re-Assemble Edition)",
-        "url": "https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV"
+        "name": "You Gotta Be",
+        "url": "https://open.spotify.com/album/2JzDWEg1I7dTaJHIszHh5q"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
         }
       ],
-      "duration_ms": 372805,
-      "name": "Luckiest Man In The World",
-      "url": "https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH"
+      "duration_ms": 203506,
+      "name": "You Gotta Be",
+      "url": "https://open.spotify.com/track/0AN1hN5LrrRiJjI9Jh8lDS"
+    },
+    {
+      "added_at": "2025-01-24 18:22:26",
+      "album": {
+        "name": "Dark Moon",
+        "url": "https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "Kiss Me Quick",
+      "url": "https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh"
     },
     {
       "added_at": "2025-01-17 13:56:55",
@@ -165,6 +165,22 @@
       "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
     },
     {
+      "added_at": "2025-01-31 13:48:54",
+      "album": {
+        "name": "But I'll Keep Trying",
+        "url": "https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 191342,
+      "name": "But I'll Keep Trying",
+      "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
+    },
+    {
       "added_at": "2025-01-17 13:57:01",
       "album": {
         "name": "American Beauty/American Psycho",
@@ -179,6 +195,22 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+    },
+    {
+      "added_at": "2025-01-31 13:49:09",
+      "album": {
+        "name": "There's Always Gonna Be Something",
+        "url": "https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 242878,
+      "name": "There\u2019s Always Gonna Be Something",
+      "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
     },
     {
       "added_at": "2024-11-22 16:43:56",
@@ -277,6 +309,22 @@
       "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
     },
     {
+      "added_at": "2025-01-10 16:49:38",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2LbH0skad1KF8OOmwzAQtA"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "duration_ms": 247441,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/3ZOmz7Ifs4nejDbO6EWQQV"
+    },
+    {
       "added_at": "2024-11-22 15:03:47",
       "album": {
         "name": "Hurt (with Jelly Roll)",
@@ -353,6 +401,22 @@
       "url": "https://open.spotify.com/track/1zOJvOAzlLUtBDAHXwOBbn"
     },
     {
+      "added_at": "2025-01-24 18:23:00",
+      "album": {
+        "name": "Dublin (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2RFRXuA9wXANvvcdi4jetw"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "Dublin - Acoustic Version",
+      "url": "https://open.spotify.com/track/6y3NPdiyP6SVw3NPtcVfDy"
+    },
+    {
       "added_at": "2024-11-22 15:03:47",
       "album": {
         "name": "Long After Dark (Deluxe Edition)",
@@ -383,6 +447,22 @@
       "duration_ms": 221946,
       "name": "Drawbridge & The Baroness",
       "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
+    },
+    {
+      "added_at": "2024-11-22 15:03:47",
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb (Re-Assemble Edition)",
+        "url": "https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 372805,
+      "name": "Luckiest Man In The World",
+      "url": "https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH"
     },
     {
       "added_at": "2024-11-22 15:03:47",

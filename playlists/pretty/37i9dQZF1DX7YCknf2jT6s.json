@@ -1,18 +1,62 @@
 {
-  "description": "New jazz for open minds. Cover: Jeremy Pelt",
-  "num_followers": 946095,
+  "description": "New jazz for open minds. Cover: Preservation Brass",
+  "num_followers": 946218,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MebQAAAAC6pNZHUhyVrH+BBZwc+G0s",
+  "snapshot_id": "Z5xY6QAAAADk/aPnf/knNbjHigpNMKVL",
   "tracks": [
     {
-      "added_at": "2025-01-24 05:00:29",
+      "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/2lMyYDTMT8AAy2WuXOlqaP"
+        "name": "For Fat Man",
+        "url": "https://open.spotify.com/album/05LGYTSJcAL7lV5q7qhxkd"
+      },
+      "artists": [
+        {
+          "name": "Preservation Brass",
+          "url": "https://open.spotify.com/artist/1hSpi5KaYmsLZbNxo0JLOE"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 299285,
+      "name": "Bill Bailey Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/1DogeQJg0tWMxcFODP3mur"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Ebo Taylor JID022",
+        "url": "https://open.spotify.com/album/1iKRvRE0TAb0CgPJtUYTkh"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 212402,
+      "name": "Kusi Na Sibo",
+      "url": "https://open.spotify.com/track/6KsK0EjzwjtMtW1lNfMiF9"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/3ske4zgFlCKi4NiYdOEDFf"
       },
       "artists": [
         {
@@ -20,25 +64,25 @@
           "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/5AfsUCR2ai6YcQS9cfxDMw"
+      "duration_ms": 316693,
+      "name": "Afrofuturism",
+      "url": "https://open.spotify.com/track/7lNuHvEdAyQshC0BEhJURB"
     },
     {
-      "added_at": "2025-01-24 05:00:29",
+      "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5"
+        "name": "Spiral Dance",
+        "url": "https://open.spotify.com/album/0yFosFUkxYS2vcrBCiUqfY"
       },
       "artists": [
         {
-          "name": "ARTEMIS",
-          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
         }
       ],
-      "duration_ms": 341501,
-      "name": "Komorebi",
-      "url": "https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK"
+      "duration_ms": 501000,
+      "name": "Spiral Dance",
+      "url": "https://open.spotify.com/track/01AeqMsiIYee4QOm4Nzdyz"
     },
     {
       "added_at": "2025-01-17 05:00:30",
@@ -57,6 +101,38 @@
       "url": "https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t"
     },
     {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "BEST SONG EVER",
+        "url": "https://open.spotify.com/album/5TX1v9T1xARfvBdRbSWgDk"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "duration_ms": 253686,
+      "name": "BEST SONG EVER",
+      "url": "https://open.spotify.com/track/6qq4oFHo3nSL0qjxuqVmEV"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Down Close",
+        "url": "https://open.spotify.com/album/3SRvTxcAsQZUHSeUpLweFI"
+      },
+      "artists": [
+        {
+          "name": "Nels Cline",
+          "url": "https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp"
+        }
+      ],
+      "duration_ms": 253580,
+      "name": "Down Close",
+      "url": "https://open.spotify.com/track/2Of0pFJshznU4mPN3cge5i"
+    },
+    {
       "added_at": "2025-01-24 05:00:29",
       "album": {
         "name": "A Blessed Leap Into Eternity",
@@ -71,6 +147,86 @@
       "duration_ms": 476896,
       "name": "Sagittarius",
       "url": "https://open.spotify.com/track/4Rob1o4UHPpjiEs5YUFaHd"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Up in the air",
+        "url": "https://open.spotify.com/album/6fDP0336w8wrZBHUhIwQ5J"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Up in the air",
+      "url": "https://open.spotify.com/track/3Odge8ksOoRNodtSfQHCRh"
+    },
+    {
+      "added_at": "2025-01-24 05:00:29",
+      "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 341501,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Frica",
+        "url": "https://open.spotify.com/album/4HyLxdVq2zut2z0NKsgT75"
+      },
+      "artists": [
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "duration_ms": 142570,
+      "name": "Frica",
+      "url": "https://open.spotify.com/track/3mLKKFQbo5HYW2DIRo63f3"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/54KW9F6MVh6tOL74EC8evT"
+      },
+      "artists": [
+        {
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+        }
+      ],
+      "duration_ms": 221291,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1T0uAWnsevRr7Nk8E7TI4w"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -91,22 +247,6 @@
       "duration_ms": 381800,
       "name": "TAXI",
       "url": "https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq"
-    },
-    {
-      "added_at": "2025-01-17 05:00:30",
-      "album": {
-        "name": "The 23",
-        "url": "https://open.spotify.com/album/4Va3hMfsSeiTGMqI3hMYYT"
-      },
-      "artists": [
-        {
-          "name": "Nels Cline",
-          "url": "https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp"
-        }
-      ],
-      "duration_ms": 315029,
-      "name": "The 23",
-      "url": "https://open.spotify.com/track/1mfF56nahvXEtBEOxAsxRo"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -449,30 +589,6 @@
       "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
     },
     {
-      "added_at": "2025-01-17 05:00:30",
-      "album": {
-        "name": "Merry Dancers",
-        "url": "https://open.spotify.com/album/3Ae8U6JFzeLAdcXPFx1sSB"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Nicole McCabe",
-          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
-        },
-        {
-          "name": "Ka'Cye Thompkins",
-          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Merry Dancers",
-      "url": "https://open.spotify.com/track/10czY3myrN2qp1ymTRjZUM"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Dance, No One's Watching",
@@ -763,26 +879,6 @@
       "duration_ms": 159200,
       "name": "wanted",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/4c26T0Mm19KaMKGEUTog5C"
-      },
-      "artists": [
-        {
-          "name": "Snazzback",
-          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
-        },
-        {
-          "name": "Grove",
-          "url": "https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7EQje357jNqN2WNMHbQ8z7"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1197,22 +1293,6 @@
       "url": "https://open.spotify.com/track/5sz66yuYMpG3wrr8rYHsTV"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "OCEAN BREEZE",
-        "url": "https://open.spotify.com/album/5BNxp2Iz7IQRUbxHO1hQam"
-      },
-      "artists": [
-        {
-          "name": "Sam Greenfield",
-          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
-        }
-      ],
-      "duration_ms": 278374,
-      "name": "OCEAN BREEZE",
-      "url": "https://open.spotify.com/track/49mY1tLJTGJIbrDVZS06nK"
-    },
-    {
       "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Gravity",
@@ -1227,26 +1307,6 @@
       "duration_ms": 460654,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6yhMYNsINMwSTTlAluAcyu"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/0FvGcQA1xOmV1DwSAJiHes"
-      },
-      "artists": [
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Beautiful Day [Feat. PJ Morton]",
-      "url": "https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1329,26 +1389,6 @@
       "url": "https://open.spotify.com/track/2TUumOIclVLf1F6CltFJQl"
     },
     {
-      "added_at": "2024-08-09 16:53:54",
-      "album": {
-        "name": "Outubro",
-        "url": "https://open.spotify.com/album/2irn9XaU4vnKfEmxpvpHjO"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 317520,
-      "name": "Outubro",
-      "url": "https://open.spotify.com/track/0fEIearbFkOnbvKWHA88fA"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Evergreen",
@@ -1363,22 +1403,6 @@
       "duration_ms": 313946,
       "name": "Run To It (The CP Song)",
       "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1899,26 +1923,6 @@
       "duration_ms": 387077,
       "name": "Libations: KwaKhangelamankengana",
       "url": "https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "A Lovesome Thing (Radio Edits)",
-        "url": "https://open.spotify.com/album/7Gdu5ywLBjiKgiocvixs67"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        },
-        {
-          "name": "Geri Allen",
-          "url": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg"
-        }
-      ],
-      "duration_ms": 418488,
-      "name": "A Flower is a Lovesome Thing - Radio Edit",
-      "url": "https://open.spotify.com/track/4aCeyMLm1r2yrbxvEgLZlb"
     }
   ],
   "unique_name": "State of Jazz",

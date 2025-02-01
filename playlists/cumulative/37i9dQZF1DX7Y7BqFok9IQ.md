@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Larkin Poe
 
-349 songs - 22 hr 42 min
+350 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2023-09-30 |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2023-05-27 |
+| [Fortune Teller Blues](https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Fortune Teller Blues](https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R) | 6:22 | 2025-01-31 |  |
 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 |  |
 | [Freedom](https://open.spotify.com/track/4bwrku78zobaXo2V9vPW6J) | [Jason Lee McKinney Band](https://open.spotify.com/artist/4jKq5mpInUqZWJ8v3R92ap) | [One Last Thing](https://open.spotify.com/album/63XFht5dOCm0P15cxEm2pv) | 3:39 | 2022-03-25 |  |
 | [Get Out](https://open.spotify.com/track/6WLtfOdxB7FdmY7GePc6us) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Get Out](https://open.spotify.com/album/0cdFr8n7xLEV616xKYN2kT) | 2:41 | 2022-06-10 | 2022-07-23 |
@@ -348,7 +349,7 @@
 | [Wild Honey](https://open.spotify.com/track/5Td3hpekZcEKaWhicS8hxg) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wild Honey](https://open.spotify.com/album/6HNPRYLIeMyMsQ3bOyxinV) | 4:06 | 2024-03-01 | 2024-05-03 |
 | [Will We Ever](https://open.spotify.com/track/2hYQpTCX3z4LybxKKRhaBO) | [Willie and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD) | [Will We Ever](https://open.spotify.com/album/4Sea3LyXNqJPZ2EH8s0dy6) | 4:25 | 2021-11-12 |  |
 | [Wishing Well](https://open.spotify.com/track/0MFLsMsoNdZL1q17a8gzlz) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wishing Well](https://open.spotify.com/album/3kHwkySXzWkWvnYCGh7Os2) | 3:21 | 2024-07-12 | 2024-12-07 |
-| [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 | 2024-02-02 |  |
+| [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 | 2024-02-02 | 2025-02-01 |
 | [Woman](https://open.spotify.com/track/4qnZ9FXxM1MOoWGY4gQMzJ) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/1OxQxV6EUi0D0v0OayR7Is) | 3:29 | 2023-08-25 |  |
 | [Woolamai](https://open.spotify.com/track/0wXOSacytCzfXqt98sEXLe) | [Smoke Stack Rhino](https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD) | [Woolamai](https://open.spotify.com/album/6jrGRQ0v0jiECoyiWgMnBQ) | 3:55 | 2022-03-18 |  |
 | [Woolamai](https://open.spotify.com/track/7bdTFAhATxC9bIxBGGyI3E) | [Smoke Stack Rhino](https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD) | [The Mojo Funk](https://open.spotify.com/album/7HAijWOmT4QlIH5BqDn38W) | 3:55 | 2022-03-18 | 2024-04-19 |

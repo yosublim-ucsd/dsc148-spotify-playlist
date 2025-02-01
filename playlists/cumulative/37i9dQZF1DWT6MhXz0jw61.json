@@ -152,7 +152,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 149057,
       "name": "100sqft",
       "url": "https://open.spotify.com/track/7gaYEAG0BQuoiahRcaV0UH"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 260487,
       "name": "Bigger Than Life",
       "url": "https://open.spotify.com/track/5idprenxXotKSz5dFHUM6e"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 142125,
       "name": "Breakfast in Gold Coast",
       "url": "https://open.spotify.com/track/5RAsCL4hyLAhz83TpZtvwl"
@@ -5504,7 +5504,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 182052,
       "name": "Dear Fren",
       "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
@@ -7996,7 +7996,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 109042,
       "name": "FLOW",
       "url": "https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab"
@@ -9112,7 +9112,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 250886,
       "name": "Gone 2024",
       "url": "https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP"
@@ -10785,6 +10785,32 @@
     },
     {
       "album": {
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159986,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
+    },
+    {
+      "album": {
         "name": "Future Proof EP",
         "url": "https://open.spotify.com/album/6vvh0vpFCxoGp6gx9vWwGF"
       },
@@ -11492,6 +11518,24 @@
       "duration_ms": 177946,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
+    },
+    {
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/5ahe3YQdH4WGfEFwZ5jQtF"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/2VlcIDXT55i4ZsKcSfzWBf"
     },
     {
       "album": {
@@ -12456,6 +12500,24 @@
       "duration_ms": 176132,
       "name": "Lady Killers III",
       "url": "https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR"
+    },
+    {
+      "album": {
+        "name": "BLACK\u2019!ANTIQUE",
+        "url": "https://open.spotify.com/album/5DysldnqrOvaDbYyNHA2WZ"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236491,
+      "name": "LAST ONE ALIVE'!",
+      "url": "https://open.spotify.com/track/3A263C6177xoTmIcYiRisE"
     },
     {
       "album": {
@@ -15474,7 +15536,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 260000,
       "name": "ON THE RUN",
       "url": "https://open.spotify.com/track/2LzyEWiqsjk5uorzJBURRG"
@@ -16410,6 +16472,28 @@
       "duration_ms": 100000,
       "name": "PENNYWISE",
       "url": "https://open.spotify.com/track/1zU25z6hf0J6wMCJwHUOZ9"
+    },
+    {
+      "album": {
+        "name": "pesticides",
+        "url": "https://open.spotify.com/album/5VvkWqMFEgQ5AwbG3PNBcz"
+      },
+      "artists": [
+        {
+          "name": "Kinrose",
+          "url": "https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m"
+        },
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162911,
+      "name": "pesticides",
+      "url": "https://open.spotify.com/track/4ZUeoTIJLu74h6oUaO66ve"
     },
     {
       "album": {
@@ -20677,6 +20761,24 @@
     },
     {
       "album": {
+        "name": "Talkin' Legit",
+        "url": "https://open.spotify.com/album/4kmUj39UE03MqYYt0uYZ6i"
+      },
+      "artists": [
+        {
+          "name": "Sir Michael Rocks",
+          "url": "https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142463,
+      "name": "Talkin' Legit",
+      "url": "https://open.spotify.com/track/6GVq7FGSMedCwTHHwwQhJw"
+    },
+    {
+      "album": {
         "name": "Most Likely To Be A Rapper",
         "url": "https://open.spotify.com/album/2UrnREcGwjU6HZw71fIxk6"
       },
@@ -21248,6 +21350,24 @@
       "duration_ms": 157333,
       "name": "THE KILLER SHEWOLF.",
       "url": "https://open.spotify.com/track/1cSSLL7OmIWvVocmIZ4jwm"
+    },
+    {
+      "album": {
+        "name": "AN AUTHOR'S DEMISE",
+        "url": "https://open.spotify.com/album/2CzdjzbdV3i8U8PUjIrspR"
+      },
+      "artists": [
+        {
+          "name": "millkzy",
+          "url": "https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195862,
+      "name": "THE NOTEBOOK",
+      "url": "https://open.spotify.com/track/6rKeS2Q94VsbAcJBg0eSyj"
     },
     {
       "album": {
@@ -22563,6 +22683,28 @@
     },
     {
       "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/2ReiW2lBNMVqp6z50iqZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lord Sko",
+          "url": "https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199273,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/4W6m1GJhcXkYHIqRfFo354"
+    },
+    {
+      "album": {
         "name": "Aquarius III",
         "url": "https://open.spotify.com/album/2Sgg02H2euJ1x6eZAysstY"
       },
@@ -22574,7 +22716,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 144046,
       "name": "Universe",
       "url": "https://open.spotify.com/track/4gDsU8osD9ZR1pQKFSsQfl"
@@ -23108,6 +23250,28 @@
       "duration_ms": 190240,
       "name": "What It Means",
       "url": "https://open.spotify.com/track/65MExqGNcIuM6D4cjFxxvC"
+    },
+    {
+      "album": {
+        "name": "Showbiz!",
+        "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150655,
+      "name": "What U Bouta Do?/A Star was Born (feat. 454)",
+      "url": "https://open.spotify.com/track/665l9Ba5icm9pkLqr1mVQ1"
     },
     {
       "album": {

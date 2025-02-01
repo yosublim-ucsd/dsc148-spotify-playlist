@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,417 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,426 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 34 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 |
 | 35 | [Trending Nakhra](https://open.spotify.com/track/42NUrjx6cy23vTp2JyUawT) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Trending Nakhra](https://open.spotify.com/album/3Dhlyk7vUAE1FYbak0Xa4O) | 3:54 |
 | 36 | [Sip Sip](https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Intense](https://open.spotify.com/artist/1fiV2IiPFeUHHg6LGKHF9R) | [Sip Sip](https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga) | 3:36 |
-| 37 | [Sang Maar Gayi](https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sang Maar Gayi](https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo) | 2:58 |
-| 38 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 |
+| 37 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 |
+| 38 | [Sang Maar Gayi](https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sang Maar Gayi](https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo) | 2:58 |
 | 39 | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/album/4FSDkGEXFPKgmrnxHNvp2Y) | 2:45 |
 | 40 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Prem & Hardeep](https://open.spotify.com/artist/1KMTSdLr6l8gfRWYa9iXMQ), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/3Ufqd4oqfv4LQ4G0cP71hj) | [Jawaani Jaaneman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 |
 | 41 | [Drivery](https://open.spotify.com/track/0FM03KSpwsiW8i8OUmqI0D) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Drivery](https://open.spotify.com/album/2cGxd3OOROZQYmSG4mEMI9) | 3:03 |

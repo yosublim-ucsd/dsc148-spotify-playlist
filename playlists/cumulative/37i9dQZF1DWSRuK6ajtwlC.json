@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. Los Del North Texas en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Fiera de Ojinaga en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 212686,
       "name": "Al Final Llor\u00e9",
       "url": "https://open.spotify.com/track/4e9P7bngebiWcK8L5TMhpL"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 186514,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/4WhJcfnu0CaLHcYJsX2Xmt"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 178500,
       "name": "El Clima",
       "url": "https://open.spotify.com/track/3ekdUF4cZDzsR87Orn3LyW"
@@ -1546,6 +1546,24 @@
       "duration_ms": 309253,
       "name": "Huapangos Perros",
       "url": "https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n"
+    },
+    {
+      "album": {
+        "name": "Impulso",
+        "url": "https://open.spotify.com/album/13cqSrjDPulIf7dUyuDwAS"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140374,
+      "name": "Impulso",
+      "url": "https://open.spotify.com/track/4xqcKxTHMWUI2maPYUmGzZ"
     },
     {
       "album": {
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 167131,
       "name": "Me Rehuso",
       "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 132434,
       "name": "Mentira Que Me Quieres Mucho",
       "url": "https://open.spotify.com/track/3bR1WblcmJj11Vh8DoNuB4"
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 186779,
       "name": "No Hay Cuestiones",
       "url": "https://open.spotify.com/track/7iBVB20z4rFBUqgv6z1qEf"
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 206741,
       "name": "Privilegio",
       "url": "https://open.spotify.com/track/7lbrDYitYfHWvSAPH7LOyJ"
@@ -2884,6 +2902,28 @@
       "duration_ms": 149892,
       "name": "Que Voy A Hacer Con Mi Amor",
       "url": "https://open.spotify.com/track/5rgcyEhTnv8Lc92NQ9bgkL"
+    },
+    {
+      "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Julio LV",
+          "url": "https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209554,
+      "name": "Quiero Darte (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq"
     },
     {
       "album": {
@@ -3303,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Te Hice Mal",
+        "url": "https://open.spotify.com/album/6QSWl8pogGdQSB6kt6YjrS"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196964,
+      "name": "Te Hice Mal",
+      "url": "https://open.spotify.com/track/16RpBbmgnsraKlaSngEwmq"
+    },
+    {
+      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -3462,7 +3520,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-01",
       "duration_ms": 160398,
       "name": "Tsuru 2006",
       "url": "https://open.spotify.com/track/7IlSq52wox8XDcDHOuppdw"

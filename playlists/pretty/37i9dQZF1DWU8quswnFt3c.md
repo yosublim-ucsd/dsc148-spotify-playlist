@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,479 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,246 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 44 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 |
 | 45 | [Snowfall \(Feat\. Coogie\)](https://open.spotify.com/track/18ewGSc5gtXW9WbARDalca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Snowfall](https://open.spotify.com/album/1WkK7CXeGV60KEncYYDjf8) | 2:29 |
 | 46 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
-| 47 | [EM ĐAU](https://open.spotify.com/track/3GI7qWDdLQKrEMJd8M7lgg) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C), [Thành Luke](https://open.spotify.com/artist/4s1DRFQAYnDvXmKYFBUcYa) | [EM ĐAU](https://open.spotify.com/album/2GMJY1IHAFevyFbBYyULh1) | 5:00 |
-| 48 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 |
+| 47 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 |
+| 48 | [EM ĐAU](https://open.spotify.com/track/3GI7qWDdLQKrEMJd8M7lgg) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C), [Thành Luke](https://open.spotify.com/artist/4s1DRFQAYnDvXmKYFBUcYa) | [EM ĐAU](https://open.spotify.com/album/2GMJY1IHAFevyFbBYyULh1) | 5:00 |
 | 49 | [Chega](https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Nuova Genesi](https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG) | 3:04 |
 | 50 | [New Energy](https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [New Energy](https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW) | 2:58 |
 | 51 | [Buttalo via](https://open.spotify.com/track/0wY00Y9y95i3a1SfOLlfkM) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [GASSA D'AMANTE](https://open.spotify.com/album/15DGKUZMERSDDsUEQtWHMw) | 4:07 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 64 | [It's not enough](https://open.spotify.com/track/1DCbgEa1py6V8P1JRvSTnL) | [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC), [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Re Trans Misja](https://open.spotify.com/album/0YADQXmSqepRZFJBsrOBkD) | 3:09 |
 | 65 | [XOXO](https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [XOXO](https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ) | 2:55 |
 | 66 | [The Drive](https://open.spotify.com/track/65n8H53Q8DvQW0babhjr5W) | [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [The Drive](https://open.spotify.com/album/6XDBfnlainFQWoABornPZS) | 3:23 |
-| 67 | [Girlhood, Godhood](https://open.spotify.com/track/4YsAL5txF9bTBDWmctSqyz) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [born blue](https://open.spotify.com/album/2c93Zr8BmUSod1qp2sdGev) | 2:55 |
-| 68 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 |
+| 67 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 |
+| 68 | [Girlhood, Godhood](https://open.spotify.com/track/4YsAL5txF9bTBDWmctSqyz) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [born blue](https://open.spotify.com/album/2c93Zr8BmUSod1qp2sdGev) | 2:55 |
 | 69 | [Boys My Age](https://open.spotify.com/track/3AiOuIrFVSiCg1EUtD1KNH) | [Aneesa Sheikh](https://open.spotify.com/artist/3WK0CRjrjJdQUtkHfVmuCI) | [Boys My Age](https://open.spotify.com/album/3zx92SpqoaijGJBAk7DwLt) | 2:49 |
 | 70 | [Nice To Meet Me](https://open.spotify.com/track/4JMzwHV7MIYeuYGKJ6Rggw) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Fake A Smile](https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh) | 3:04 |
 | 71 | [I'm Still in Love](https://open.spotify.com/track/02FeRJzO0ooFd5RfuGCRsQ) | [Janet Kay](https://open.spotify.com/artist/4D6CqTx48E5t6aL411Gl3F) | [The Definitive Hits Collection \(1977\-1985\)](https://open.spotify.com/album/5gy1TnTDWxk2X0tyRD0gZ5) | 4:18 |

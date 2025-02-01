@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Travis Scott\)
 
-2,579 songs - 5 day 10 hr 31 min
+2,580 songs - 5 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1280,6 +1280,7 @@
 | [Long Nights](https://open.spotify.com/track/0QnyUB7rJhWLEEDgcT7i8g) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Long Nights](https://open.spotify.com/album/6cVwRJ0ttMRnCIWzY8zr9D) | 2:39 | 2023-07-20 | 2023-09-01 |
 | [Long Sleeper](https://open.spotify.com/track/5oo5F3bzsf4j7NwGCQSu6r) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Long Sleeper](https://open.spotify.com/album/73q4KWBA9yBYsugFJnaTK1) | 2:46 | 2023-05-25 | 2023-06-23 |
 | [Long Story Short \(with Lil Wayne\)](https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Long Story Short](https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q) | 3:30 | 2023-11-09 | 2024-02-02 |
+| [Long Time](https://open.spotify.com/track/3bjW6TTjHKtMn9b0Q1D07I) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Breath Of Fresh Air \(Deluxe\)](https://open.spotify.com/album/63Eu8XBHOdPlqxt89zWGiR) | 2:22 | 2025-01-31 |  |
 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 | 2023-06-30 | 2024-01-05 |
 | [LONGINESS REMIX](https://open.spotify.com/track/2ECrDpRYc2dV0xw0abViF8) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [LONGINESS REMIX](https://open.spotify.com/album/6f9LnhAUXUVf4zAS1uKgjd) | 4:14 | 2022-12-15 | 2023-02-03 |
 | [lonrwrld \(freestyle\)](https://open.spotify.com/track/3zg2NCd83m0Y9gL5wKd6Q5) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [lonrwrld \(freestyle\)](https://open.spotify.com/album/6UL5LlM8QQ8aY2kQqoqQ7N) | 2:32 | 2023-04-27 | 2023-06-02 |
@@ -2310,7 +2311,7 @@
 | [Trapped Out](https://open.spotify.com/track/5rq1ZCN1lxneDZ2qc4gPwS) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj) | [Trapped Out](https://open.spotify.com/album/1svAp7AVvFhhEgYXayOgKo) | 2:18 | 2022-03-18 | 2022-04-01 |
 | [Trauma \(feat\. Lil Tjay\)](https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 3:17 | 2024-02-08 | 2024-04-05 |
 | [Travel Again \(Feat\. Cautious Clay\)](https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 4:17 | 2023-07-06 | 2023-09-01 |
-| [Treasure & Gold](https://open.spotify.com/track/52BSDtdTZwLXluBjwtyQmZ) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Treasure & Gold](https://open.spotify.com/album/4RJSYrL7sBW7zPhEIbHeYa) | 3:21 | 2025-01-17 |  |
+| [Treasure & Gold](https://open.spotify.com/track/52BSDtdTZwLXluBjwtyQmZ) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Treasure & Gold](https://open.spotify.com/album/4RJSYrL7sBW7zPhEIbHeYa) | 3:21 | 2025-01-17 | 2025-02-01 |
 | [Treasure Island](https://open.spotify.com/track/2VJjZNIizvxz8LJGmwMeHy) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Treasure Island](https://open.spotify.com/album/2ZbiFvf70ycI46qfPwQ9lz) | 1:55 | 2024-12-19 |  |
 | [Treat Myself](https://open.spotify.com/track/4mSwG5sSZCWgsEvaHhqCen) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 4:28 | 2024-05-10 | 2024-06-21 |
 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-08-25 | 2022-09-30 |

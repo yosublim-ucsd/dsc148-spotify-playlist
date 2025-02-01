@@ -1,13 +1,29 @@
 {
-  "description": "a little indie, a little pop.  Cover: Knox",
-  "num_followers": 216772,
+  "description": "a little indie, a little pop.  Cover: Tom Grennan",
+  "num_followers": 216841,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MehQAAAAC8540rcuEvCdY0peqXlte8",
+  "snapshot_id": "Z5xY8gAAAAAR5Wozn8Q4tJhmEHW2Tsw0",
   "tracks": [
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Shadowboxing",
+        "url": "https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 172952,
+      "name": "Shadowboxing",
+      "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
+    },
     {
       "added_at": "2025-01-24 05:00:53",
       "album": {
@@ -23,6 +39,70 @@
       "duration_ms": 159151,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Coraline",
+        "url": "https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "Coraline",
+      "url": "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/6LCUa6ZtfjsP21VZRoCjTT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Second Wind",
+      "url": "https://open.spotify.com/track/2gTneFmEt5ycP3sxYENcEj"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "What The Hell Do We Do Now?",
+        "url": "https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 193557,
+      "name": "What The Hell Do We Do Now?",
+      "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Communicating",
+        "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Communicating",
+      "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
     },
     {
       "added_at": "2025-01-24 05:00:53",
@@ -43,6 +123,42 @@
     {
       "added_at": "2025-01-24 05:00:53",
       "album": {
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 161007,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "i shouldn\u2019t call you (w/ Nightly)",
+        "url": "https://open.spotify.com/album/2iaPZAC0JXKjD0YrKQY16f"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        },
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "i shouldn\u2019t call you (w/ Nightly)",
+      "url": "https://open.spotify.com/track/7LYBMhke7RVEEpO88z3T5T"
+    },
+    {
+      "added_at": "2025-01-24 05:00:53",
+      "album": {
         "name": "Space Between Us",
         "url": "https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9"
       },
@@ -55,6 +171,22 @@
       "duration_ms": 225231,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "U MOVE",
+        "url": "https://open.spotify.com/album/4dzOH4gC4zMRZGAxLMcuRx"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "duration_ms": 182875,
+      "name": "U MOVE",
+      "url": "https://open.spotify.com/track/5GUiWiiIQuKwyaEn1zB8oc"
     },
     {
       "added_at": "2025-01-24 05:00:53",
@@ -77,84 +209,20 @@
       "url": "https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4"
     },
     {
-      "added_at": "2025-01-24 05:00:53",
+      "added_at": "2025-01-31 05:00:34",
       "album": {
-        "name": "blue skies and open roads",
-        "url": "https://open.spotify.com/album/31TnDB0qUMm5UFWL9LSVXn"
+        "name": "what never lived",
+        "url": "https://open.spotify.com/album/1Gtl6W5pDIdlcsD2wscbC0"
       },
       "artists": [
         {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+          "name": "hannah bahng",
+          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
         }
       ],
-      "duration_ms": 205754,
-      "name": "blue skies and open roads",
-      "url": "https://open.spotify.com/track/65rcllOhsYoCKyP6Y4eooM"
-    },
-    {
-      "added_at": "2025-01-24 05:00:53",
-      "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 161007,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
-    },
-    {
-      "added_at": "2025-01-24 05:00:53",
-      "album": {
-        "name": "Basic Being Basic",
-        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Basic Being Basic",
-      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
-    },
-    {
-      "added_at": "2025-01-24 05:00:53",
-      "album": {
-        "name": "Superbloom",
-        "url": "https://open.spotify.com/album/5aUmfNqAzNgeZPpjt0xnMJ"
-      },
-      "artists": [
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
-        }
-      ],
-      "duration_ms": 149624,
-      "name": "Are You Happy Now?",
-      "url": "https://open.spotify.com/track/6kL5sHN0jZlajLUeimO26b"
-    },
-    {
-      "added_at": "2025-01-17 05:01:01",
-      "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
+      "duration_ms": 212495,
+      "name": "what never lived",
+      "url": "https://open.spotify.com/track/5smSt2cCnzsyeWcSjIMQq3"
     },
     {
       "added_at": "2025-01-24 05:00:53",
@@ -175,6 +243,162 @@
       "duration_ms": 175457,
       "name": "Only Always",
       "url": "https://open.spotify.com/track/2T0OREycmwKAFHeAwz1CrN"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+    },
+    {
+      "added_at": "2025-01-24 05:00:53",
+      "album": {
+        "name": "blue skies and open roads",
+        "url": "https://open.spotify.com/album/31TnDB0qUMm5UFWL9LSVXn"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 205754,
+      "name": "blue skies and open roads",
+      "url": "https://open.spotify.com/track/65rcllOhsYoCKyP6Y4eooM"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
+    },
+    {
+      "added_at": "2025-01-24 05:00:53",
+      "album": {
+        "name": "Basic Being Basic",
+        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Same Old Story",
+        "url": "https://open.spotify.com/album/6SRh9ykaXuheaC83PahQ4o"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "duration_ms": 171976,
+      "name": "Same Old Story",
+      "url": "https://open.spotify.com/track/7jyy9JO1IT3txW2FMLNLf5"
+    },
+    {
+      "added_at": "2025-01-24 05:00:53",
+      "album": {
+        "name": "Superbloom",
+        "url": "https://open.spotify.com/album/5aUmfNqAzNgeZPpjt0xnMJ"
+      },
+      "artists": [
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+        }
+      ],
+      "duration_ms": 149624,
+      "name": "Are You Happy Now?",
+      "url": "https://open.spotify.com/track/6kL5sHN0jZlajLUeimO26b"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/4fa718GM4u2gzw2iHFQZBf"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/1iAnZUotftnMCCLPcsoUtx"
+    },
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Young EP",
+        "url": "https://open.spotify.com/album/7bJWIPBR9QzymFCgqrXcf1"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        },
+        {
+          "name": "Alexander the Grape",
+          "url": "https://open.spotify.com/artist/192YHGILC1xQnxehMvFnqT"
+        }
+      ],
+      "duration_ms": 181602,
+      "name": "F.O.T.I.",
+      "url": "https://open.spotify.com/track/6KUGX92HNE6TxQn9bpMQAM"
     },
     {
       "added_at": "2025-01-17 05:01:01",
@@ -275,6 +499,22 @@
       "duration_ms": 181351,
       "name": "seventeen",
       "url": "https://open.spotify.com/track/5P4PW71fDmfehRrxBuG9OF"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
+        "name": "Yue",
+        "url": "https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "duration_ms": 154213,
+      "name": "nylon",
+      "url": "https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr"
     },
     {
       "added_at": "2025-01-03 05:00:25",
@@ -767,74 +1007,6 @@
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
-    },
-    {
-      "added_at": "2024-11-05 21:51:12",
-      "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        },
-        {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 128526,
-      "name": "All My Love (Imperative)",
-      "url": "https://open.spotify.com/track/7prVGmvafmUBl7Kz0IxNJo"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "Used To It",
-        "url": "https://open.spotify.com/album/2GJSjw35Tg160YolsMsM9d"
-      },
-      "artists": [
-        {
-          "name": "Noshows",
-          "url": "https://open.spotify.com/artist/3I1bugBTEN3jESl6XJqQ3d"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/3sJR7tgG3DbrE8pEsAM6h0"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "ARE WE THERE YET?",
-        "url": "https://open.spotify.com/album/5mYyAO9qTJbSXP5cRMESFr"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 142431,
-      "name": "BACK FOR YA",
-      "url": "https://open.spotify.com/track/1fdzj3vFjt0GnMv97kjG0O"
     }
   ],
   "unique_name": "soda",

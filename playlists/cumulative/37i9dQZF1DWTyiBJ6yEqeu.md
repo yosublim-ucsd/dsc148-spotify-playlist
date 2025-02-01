@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-899 songs - 1 day 20 hr 31 min
+900 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-05-31 |  |
 | [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-16 | 2024-02-24 |
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2021-08-20 | 2022-09-04 |
-| [ACIDO](https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [ACIDO](https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee) | 1:15 | 2025-01-17 |  |
+| [ACIDO](https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [ACIDO](https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee) | 1:15 | 2025-01-17 | 2025-02-01 |
 | [Addicted](https://open.spotify.com/track/2nCL4jSUB2iLfySrjVTWgj) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Addicted](https://open.spotify.com/album/6kPHUS5ggDe6jq0KmFhwjy) | 2:42 | 2021-08-20 | 2022-07-27 |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-07-18 |  |
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-05-02 | 2024-06-01 |
@@ -839,6 +839,7 @@
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-08-10 | 2023-03-28 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2025-01-17 |  |
 | [Tweakin' Together](https://open.spotify.com/track/6r639TM0j9JWM4jWJB1cVR) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Tweakin' Together](https://open.spotify.com/album/3ib7Nuviot6Wm2PJ13f2da) | 2:06 | 2022-01-14 | 2022-01-29 |
+| [two](https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ) | 2:15 | 2025-01-17 |  |
 | [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2025-01-17 |  |
 | [Tyler Herro](https://open.spotify.com/track/7oHmtTCo9RpZFgwA203wIR) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/3n9NwpQyoNSYYqJhCNCyO8) | 2:36 | 2022-04-14 | 2022-07-29 |
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-05-02 |  |

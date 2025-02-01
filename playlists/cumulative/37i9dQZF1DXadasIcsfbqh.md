@@ -2,9 +2,9 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: MacKenzie Porter
+> Pop country hits of today and tomorrow\. Cover: Rascal Flatts & The Jonas Brothers
 
-325 songs - 16 hr 52 min
+326 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2021-12-17 | 2022-12-17 |
 | [I Can't Love You Any More](https://open.spotify.com/track/3Sm47s5VbZs7cHzEdqC4Tc) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Midtown Diaries](https://open.spotify.com/album/50zMs3AwxduoOoQoN17955) | 3:14 | 2021-12-17 | 2022-07-29 |
 | [I Can't Take You Anywhere](https://open.spotify.com/track/6qy96hXke3U5vSxZe5klYp) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [I Can't Take You Anywhere](https://open.spotify.com/album/2p63vg635NT4kQN3amdxRR) | 3:31 | 2023-03-17 | 2023-06-15 |
+| [I Dare You](https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Dare You](https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX) | 3:48 | 2025-01-31 |  |
 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 | 2022-06-03 | 2023-05-04 |
 | [I GUESS THEY CALL IT FALLIN'](https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 4:01 | 2022-09-23 | 2023-08-12 |
 | [I Hope](https://open.spotify.com/track/2Hc4t9N2nt37oO4sF9BynI) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I Hope](https://open.spotify.com/album/35SOQhniusum2ewU72jdBh) | 3:29 | 2021-12-17 | 2022-07-28 |
@@ -216,7 +217,7 @@
 | [Plot Twist](https://open.spotify.com/track/25fIiL4WV2XKkuADOot9sA) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Play Responsibly](https://open.spotify.com/album/5NZwNMoH9QxJr6g7f090Ia) | 3:01 | 2024-11-15 |  |
 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
 | [Project](https://open.spotify.com/track/6TpqWzySgiHLoXvQvyGtqH) | [Chase McDaniel](https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz) | [Project](https://open.spotify.com/album/1G8cAFBiy4I0B2kri57wll) | 2:59 | 2023-06-14 |  |
-| [Purple Irises](https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Purple Irises](https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea) | 3:41 | 2024-02-09 |  |
+| [Purple Irises](https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Purple Irises](https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea) | 3:41 | 2024-02-09 | 2025-02-01 |
 | [Push & Pull](https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Push & Pull](https://open.spotify.com/album/3E0XbQUeBsXhsRDHrLxS4X) | 3:07 | 2021-12-17 | 2022-06-16 |
 | [Queen of Daytona Beach](https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Queen of Daytona Beach](https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6) | 3:34 | 2022-06-17 | 2022-09-28 |
 | [Rather Be Us \(feat\. Maddie & Tae\)](https://open.spotify.com/track/78cuU28P16uIfXgHakZSk5) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Rather Be Us \(feat\. Maddie & Tae\)](https://open.spotify.com/album/0KqSClxSvnpzmx4ljwxU5C) | 2:39 | 2024-10-25 | 2025-01-03 |

@@ -1,6 +1,6 @@
 {
   "description": "this is your moment. ",
-  "num_followers": 779392,
+  "num_followers": 779439,
   "original_name": "end credits",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Beach Baby",
-      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
         "name": "Patched Up",
         "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 199514,
       "name": "Tired",
       "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
     },
     {
       "added_at": "2024-08-08 19:49:51",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 271672,
-      "name": "Agnes",
-      "url": "https://open.spotify.com/track/6prvUr8l3t7x5GY7heQb5w"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
         "name": "Bon Iver, Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 262079,
       "name": "Perth",
       "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 271672,
+      "name": "Agnes",
+      "url": "https://open.spotify.com/track/6prvUr8l3t7x5GY7heQb5w"
     },
     {
       "added_at": "2024-08-08 19:49:51",

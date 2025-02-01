@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 134631,
+  "num_followers": 134653,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ly7oyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LzA8oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Happy - :') (Remixes)",
         "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
@@ -97,23 +97,7 @@
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "Rebirth (Intro)",
-      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -133,7 +117,23 @@
       "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 144624,
+      "name": "Rebirth (Intro)",
+      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -189,7 +189,71 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 78492,
+      "name": "Interlude : Showtime",
+      "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "IF I SAY, I LOVE YOU",
+        "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "IF I SAY, I LOVE YOU",
+      "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -209,23 +273,7 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 78492,
-      "name": "Interlude : Showtime",
-      "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -245,39 +293,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "IF I SAY, I LOVE YOU",
-        "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 161693,
-      "name": "IF I SAY, I LOVE YOU",
-      "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
@@ -301,23 +317,7 @@
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -353,23 +353,7 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "MUSE (WONDER ver.)",
-        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 171995,
-      "name": "Who (Rock Remix)",
-      "url": "https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
@@ -385,39 +369,7 @@
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "MUSE (WONDER ver.)",
-        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 184075,
-      "name": "Who (Acoustic Remix)",
-      "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 220177,
-      "name": "BANG BANG BANG",
-      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "REBEL HEART",
         "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
@@ -433,7 +385,23 @@
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "MUSE (WONDER ver.)",
+        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 171995,
+      "name": "Who (Rock Remix)",
+      "url": "https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE (WANDER ver.)",
         "url": "https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS"
@@ -449,7 +417,7 @@
       "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE (WONDER ver.)",
         "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
@@ -460,12 +428,12 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 170887,
-      "name": "Who (Instrumental)",
-      "url": "https://open.spotify.com/track/1Px44tw80Q4rcCl8FxDGOi"
+      "duration_ms": 184075,
+      "name": "Who (Acoustic Remix)",
+      "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE (WANDER ver.)",
         "url": "https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS"
@@ -481,7 +449,7 @@
       "url": "https://open.spotify.com/track/7KZNgri6Jxw88FAfATw6i9"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "MUSE (WANDER ver.)",
         "url": "https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS"
@@ -497,26 +465,26 @@
       "url": "https://open.spotify.com/track/2isRbZIIU4PqPrECffn7QO"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
-        "name": "COUP D'ETAT",
-        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
+        "name": "MUSE (WONDER ver.)",
+        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
       },
       "artists": [
         {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 224792,
-      "name": "CROOKED",
-      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+      "duration_ms": 170887,
+      "name": "Who (Instrumental)",
+      "url": "https://open.spotify.com/track/1Px44tw80Q4rcCl8FxDGOi"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
       "artists": [
         {
@@ -524,44 +492,12 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "KWON JI YONG",
-        "url": "https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 222867,
-      "name": "\ubb34\uc81c(\u7121\u984c) (Untitled, 2014)",
-      "url": "https://open.spotify.com/track/16BS342F89MDqouSxgLaUK"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 189934,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Happy - :D (Remixes)",
         "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
@@ -577,7 +513,39 @@
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "COUP D'ETAT",
+        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 224792,
+      "name": "CROOKED",
+      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/700oyQvND1pNIADYqOkrre"
@@ -593,7 +561,7 @@
       "url": "https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/700oyQvND1pNIADYqOkrre"
@@ -609,7 +577,23 @@
       "url": "https://open.spotify.com/track/2PlsVMcOn6ujc2UEYs2Yat"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "KWON JI YONG",
+        "url": "https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 222867,
+      "name": "\ubb34\uc81c(\u7121\u984c) (Untitled, 2014)",
+      "url": "https://open.spotify.com/track/16BS342F89MDqouSxgLaUK"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -625,7 +609,7 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Grain of Sand",
         "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
@@ -641,7 +625,23 @@
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 189934,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts"
@@ -657,23 +657,7 @@
       "url": "https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "FANTASTIC BABY - Japanese ver.",
-      "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "How Sweet",
         "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
@@ -689,7 +673,7 @@
       "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
@@ -705,7 +689,7 @@
       "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
@@ -721,7 +705,7 @@
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
@@ -737,23 +721,7 @@
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 237512,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
-    },
-    {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "SYNK : PARALLEL LINE - Special Digital Single",
         "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
@@ -769,7 +737,7 @@
       "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -785,7 +753,39 @@
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Fantastic Baby",
+      "url": "https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 237512,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+    },
+    {
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
@@ -833,20 +833,20 @@
       "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
     },
     {
-      "added_at": "2025-01-30 12:59:26",
+      "added_at": "2025-01-31 12:55:40",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 204920,
-      "name": "Sunset Glow",
-      "url": "https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq"
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     }
   ],
   "unique_name": "Top 50 - South Korea",

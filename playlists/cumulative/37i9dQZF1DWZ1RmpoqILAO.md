@@ -2,9 +2,9 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie tunes with country experimentation featuring music from MJ Lenderman 🌟🌟🌟
+> indie tunes with country experimentation featuring music from Black Country, New Road 🌟🌟🌟
 
-278 songs - 17 hr 47 min
+280 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 | 2023-07-28 |  |
 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 | 2024-04-14 | 2024-11-23 |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-02-23 | 2024-04-19 |
+| [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-01-31 |  |
 | [Better Friends](https://open.spotify.com/track/2oxPRS0DjGNecUpumDubt8) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 4:46 | 2023-04-28 |  |
 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 | 2023-03-17 | 2023-04-29 |
 | [Big Love](https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Big Love](https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh) | 2:57 | 2024-02-02 |  |
@@ -103,6 +104,7 @@
 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 | 2024-09-27 |  |
 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2023-05-19 |  |
 | [Formula One](https://open.spotify.com/track/2ncRTRkNzVOpaGoita2qPI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:52 | 2023-04-07 | 2023-12-09 |
+| [Fourth Street](https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Fourth Street](https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl) | 4:12 | 2025-01-31 |  |
 | [Fruits Of My Labor](https://open.spotify.com/track/31nItlXwgCCFpttS50Rbxf) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [World Without Tears](https://open.spotify.com/album/7uLuuklEzDu7xZ8QazIfzu) | 4:48 | 2023-09-22 | 2024-01-13 |
 | [garbage truck](https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [talk soon](https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF) | 2:11 | 2023-12-08 | 2024-03-09 |
 | [Germs](https://open.spotify.com/track/37xUeodJvuKZl19BaUboHo) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [Acetone](https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9) | 4:44 | 2023-06-16 |  |

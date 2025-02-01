@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Feli Colina",
-  "num_followers": 188847,
+  "num_followers": 188872,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "De Mi Flor",
+        "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Juan Jos\u00e9 Vasconcellos",
+          "url": "https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A"
+        }
+      ],
+      "duration_ms": 221651,
+      "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
+      "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 204540,
       "name": "Seminare",
       "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "De Mi Flor",
-        "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Juan Jos\u00e9 Vasconcellos",
-          "url": "https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A"
-        }
-      ],
-      "duration_ms": 221651,
-      "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
-      "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173209,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Amor de Barricada",
         "url": "https://open.spotify.com/album/3KC3ZRq7ZDwFwjnMx3hTK1"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 225373,
       "name": "Viento Dile a la Lluvia",
       "url": "https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 173209,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1703,22 +1703,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Loli Molina Live on Pardelion Music",
-        "url": "https://open.spotify.com/album/0kd7ojE2zKmEJeh2q97EyJ"
+        "name": "ya no hay dudas (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/18AmPCw1XQaPWykdbBPhwg"
       },
       "artists": [
         {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
         },
         {
-          "name": "Pardelion Music",
-          "url": "https://open.spotify.com/artist/6jEflkhA5Lckl3nhvKUiar"
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
         }
       ],
-      "duration_ms": 304847,
-      "name": "Mandol\u00edn - Live",
-      "url": "https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ"
+      "duration_ms": 198000,
+      "name": "ya no hay dudas - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1uJiKlVBweWo8Kd77eiRRH"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

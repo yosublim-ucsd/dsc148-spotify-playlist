@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 81869,
+  "num_followers": 81932,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158052,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Love & Light",
-        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 158052,
-      "name": "Beginning",
-      "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
       },
       "artists": [
         {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
         }
       ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -891,18 +891,18 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
         }
       ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "ODO",
-        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "ODO",
-      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Ebusuku",
         "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 221819,
       "name": "Prosecco",
       "url": "https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "More Of You",
-        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "More Of You",
-      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Uliza Kiatu",
         "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 258226,
       "name": "Uliza Kiatu",
       "url": "https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1495,6 +1495,26 @@
       "duration_ms": 220890,
       "name": "Me Ne Woa",
       "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Bald Men Love Better",
+        "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Aaron Rimbui",
+          "url": "https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H"
+        }
+      ],
+      "duration_ms": 174807,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1531,26 +1551,6 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/5PNiPY563OVES8nkdKZ516"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Bald Men Love Better",
-        "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Aaron Rimbui",
-          "url": "https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H"
-        }
-      ],
-      "duration_ms": 174807,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
+        "name": "Nkwagala",
+        "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Nkwagala",
+      "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
         "name": "Give You Love",
         "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 234605,
       "name": "Give You Love",
       "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Nkwagala",
-        "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Nkwagala",
-      "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "The Book of Kirya",
-        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "The Blue Dress Song",
-      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Mfalme Wa Mapenzi",
         "url": "https://open.spotify.com/album/2wgSxbkNeLOwBVM1LuSSnj"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 286511,
       "name": "Mfalme Wa Mapenzi",
       "url": "https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "The Book of Kirya",
+        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "The Blue Dress Song",
+      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
     },
     {
       "added_at": "2025-01-09 10:09:30",

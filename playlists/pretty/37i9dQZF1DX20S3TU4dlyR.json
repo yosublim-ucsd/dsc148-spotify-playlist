@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Leonchalon.",
-  "num_followers": 63880,
+  "num_followers": 63888,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
         "name": "Si no Regreso",
         "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
+        "name": "Aguas Frescas De Jamaica",
+        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Tan Distante",
+      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
         "name": "Soy d\u00e9bil Sr.",
         "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 225600,
       "name": "Soy d\u00e9bil Sr.",
       "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
-        "name": "Aguas Frescas De Jamaica",
-        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Tan Distante",
-      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
     },
     {
       "added_at": "2025-01-24 03:00:09",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
         "name": "Homer Seeds",
         "url": "https://open.spotify.com/album/5N4hAPUZNMyO9C8BE1t9w2"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 198680,
       "name": "Puede Parecer",
       "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2025-01-24 03:00:09",
@@ -1187,54 +1187,6 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 435040,
-      "name": "The Chicken",
-      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
-        "name": "Todo Es As\u00ed",
-        "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
-      },
-      "artists": [
-        {
-          "name": "DOMA",
-          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
-        }
-      ],
-      "duration_ms": 230132,
-      "name": "Todo Es As\u00ed",
-      "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
         "name": "Rey Mago de las Nubes",
         "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
       },
@@ -1267,6 +1219,54 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
+        "name": "Todo Es As\u00ed",
+        "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
+      },
+      "artists": [
+        {
+          "name": "DOMA",
+          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
+        }
+      ],
+      "duration_ms": 230132,
+      "name": "Todo Es As\u00ed",
+      "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 435040,
+      "name": "The Chicken",
+      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
@@ -1295,6 +1295,74 @@
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
+        "name": "Vamos Fugir",
+        "url": "https://open.spotify.com/album/3sPkAX1L9eprN5JP2EZvbS"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Vamos Fugir",
+      "url": "https://open.spotify.com/track/2Y7nKdgpv2qgn54SOceCaw"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Lo Que Dicta El Tiempo",
+      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
+        "name": "La Naturaleza",
+        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
+      },
+      "artists": [
+        {
+          "name": "Planta & Canta",
+          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
+        },
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 254058,
+      "name": "La Naturaleza",
+      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
     },
     {
       "added_at": "2025-01-24 03:00:09",
@@ -1339,42 +1407,6 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
-        "name": "La Naturaleza",
-        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
-      },
-      "artists": [
-        {
-          "name": "Planta & Canta",
-          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
-        },
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 254058,
-      "name": "La Naturaleza",
-      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
         "name": "Hacia Adentro",
         "url": "https://open.spotify.com/album/2DxR7H37k0RM2AUIf0UZzf"
       },
@@ -1387,38 +1419,6 @@
       "duration_ms": 230217,
       "name": "Hacia Adentro",
       "url": "https://open.spotify.com/track/0P4YmpAkL8Hv3LuwI29gMH"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Lo Que Dicta El Tiempo",
-      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
-        "name": "Vamos Fugir",
-        "url": "https://open.spotify.com/album/3sPkAX1L9eprN5JP2EZvbS"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Vamos Fugir",
-      "url": "https://open.spotify.com/track/2Y7nKdgpv2qgn54SOceCaw"
     },
     {
       "added_at": "2025-01-24 03:00:09",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
+        "name": "Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
+      },
+      "artists": [
+        {
+          "name": "Slow Burnin\u00b4",
+          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Nada Que Me Venga Mal",
+      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
         "name": "Young Veterans",
         "url": "https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 246947,
       "name": "Young Veterans",
       "url": "https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
-        "name": "Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
-      },
-      "artists": [
-        {
-          "name": "Slow Burnin\u00b4",
-          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Nada Que Me Venga Mal",
-      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     },
     {
       "added_at": "2025-01-24 03:00:09",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
-        "name": "Siempre en una",
-        "url": "https://open.spotify.com/album/6K53lnXPD7kb7TAnjZDBT7"
-      },
-      "artists": [
-        {
-          "name": "DOMA",
-          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
-        }
-      ],
-      "duration_ms": 220405,
-      "name": "Siempre en una",
-      "url": "https://open.spotify.com/track/7j3BFMiA92T6szrJgHM9yn"
-    },
-    {
-      "added_at": "2025-01-24 03:00:09",
-      "album": {
         "name": "Dimelo Ayer",
         "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
       },
@@ -1567,18 +1551,38 @@
     {
       "added_at": "2025-01-24 03:00:09",
       "album": {
-        "name": "Desglosando el Tiempo",
-        "url": "https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8"
+        "name": "Siempre en una",
+        "url": "https://open.spotify.com/album/6K53lnXPD7kb7TAnjZDBT7"
       },
       "artists": [
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "DOMA",
+          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
         }
       ],
-      "duration_ms": 286910,
-      "name": "Desglosando el Tiempo",
-      "url": "https://open.spotify.com/track/6vvkbJcaRNXJ22Dvuzu7dX"
+      "duration_ms": 220405,
+      "name": "Siempre en una",
+      "url": "https://open.spotify.com/track/7j3BFMiA92T6szrJgHM9yn"
+    },
+    {
+      "added_at": "2025-01-24 03:00:09",
+      "album": {
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji"
+      },
+      "artists": [
+        {
+          "name": "KLUB",
+          "url": "https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY"
+        },
+        {
+          "name": "Dalasio",
+          "url": "https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb"
+        }
+      ],
+      "duration_ms": 225586,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR"
     }
   ],
   "unique_name": "Reggae al Sur",

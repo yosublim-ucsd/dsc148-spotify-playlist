@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,074 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,099 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 19 | [STOP!!](https://open.spotify.com/track/4HtvzBMWNsQqnhpF0UwZhk) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 2:34 |
 | 20 | [boss](https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [boss](https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe) | 2:11 |
 | 21 | [Miracle \- Eurovision Version](https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle \(Eurovision Version\)](https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S) | 2:50 |
-| 22 | [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 |
-| 23 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
+| 22 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
+| 23 | [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 |
 | 24 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 |
 | 25 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 26 | [Hold The Light](https://open.spotify.com/track/1gvZdm2sg2xUAaF9daQRnr) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Hold The Light](https://open.spotify.com/album/2SdhyWpB8qATf1p5nzXN37) | 2:56 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 39 | [nic\(i\)](https://open.spotify.com/track/3A1JBCrP4dlR4ZT0pK3jtt) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:18 |
 | 40 | [Bliżej Niż Zwykle](https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Bliżej Niż Zwykle](https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI) | 3:40 |
 | 41 | [Personel](https://open.spotify.com/track/3QNut4m1u4KfAWAQAkDjfr) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [Personel](https://open.spotify.com/album/5sfZmMMMkTTi64vEXQgFQH) | 3:53 |
-| 42 | [Guess I'm better now](https://open.spotify.com/track/7zOroQXfgAFFfcTHMxb2F4) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Guess I'm better now](https://open.spotify.com/album/5Xom3m37TfRClXVepHBzrK) | 3:45 |
-| 43 | [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 |
-| 44 | [nie ma sprawy](https://open.spotify.com/track/0ZjzW2KrxA4D9ApszgcJuU) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [nie ma sprawy](https://open.spotify.com/album/3plNMNMK3c7zrW47sGDKA0) | 2:42 |
-| 45 | [cytryny](https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [cytryny](https://open.spotify.com/album/7ff1IXrHp9ownWMMZC2KdK) | 4:24 |
-| 46 | [tired](https://open.spotify.com/track/4n7R8CV8VpASepuuA0WUxY) | [Bartek Koziorowski](https://open.spotify.com/artist/6a28yBCAdWnh1n1qc6zNBT) | [tired](https://open.spotify.com/album/5nspfDd338PUt3VNW2MrLI) | 2:06 |
-| 47 | [Spytaj jak się czuje](https://open.spotify.com/track/48PXNgMSeuZGhbE31pwtcB) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb) | [Spytaj jak się czuje](https://open.spotify.com/album/4LKXvFWexllLCWW1GwstMX) | 4:02 |
-| 48 | [Stokrotka](https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Stokrotka](https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm) | 1:55 |
-| 49 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 |
-| 50 | [Para](https://open.spotify.com/track/1v5hiDzRDTqFaOlkw6w4ew) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Momenty](https://open.spotify.com/album/4PzF7jH91o75GXjFwvTaLa) | 3:08 |
+| 42 | [Stokrotka](https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Stokrotka](https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm) | 1:55 |
+| 43 | [Guess I'm better now](https://open.spotify.com/track/7zOroQXfgAFFfcTHMxb2F4) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Guess I'm better now](https://open.spotify.com/album/5Xom3m37TfRClXVepHBzrK) | 3:45 |
+| 44 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 45 | [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 |
+| 46 | [nie ma sprawy](https://open.spotify.com/track/0ZjzW2KrxA4D9ApszgcJuU) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [nie ma sprawy](https://open.spotify.com/album/3plNMNMK3c7zrW47sGDKA0) | 2:42 |
+| 47 | [cytryny](https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [cytryny](https://open.spotify.com/album/7ff1IXrHp9ownWMMZC2KdK) | 4:24 |
+| 48 | [tired](https://open.spotify.com/track/4n7R8CV8VpASepuuA0WUxY) | [Bartek Koziorowski](https://open.spotify.com/artist/6a28yBCAdWnh1n1qc6zNBT) | [tired](https://open.spotify.com/album/5nspfDd338PUt3VNW2MrLI) | 2:06 |
+| 49 | [Spytaj jak się czuje](https://open.spotify.com/track/48PXNgMSeuZGhbE31pwtcB) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb) | [Spytaj jak się czuje](https://open.spotify.com/album/4LKXvFWexllLCWW1GwstMX) | 4:02 |
+| 50 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 |
 
 Snapshot ID: `Z5wEeQAAAAAA/1vp9JYEDFld0vUM4A8i`
