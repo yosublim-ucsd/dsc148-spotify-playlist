@@ -1,4 +1,4 @@
-## Playlists \(8352\)
+## Playlists \(8353\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7865,6 +7865,7 @@
 - [it's alt good](/playlists/pretty/37i9dQZF1DX2SK4ytI2KAZ.md)
 - [it's raining outside...](/playlists/pretty/37i9dQZF1DXdr85jQlDL6f.md)
 - [jamesjamesjames' track IDs](/playlists/pretty/37i9dQZF1DX0UEZtrrltfH.md)
+- [japan](/playlists/pretty/7x7SrthRf6vGHW5gQsG9jF.md)
 - [je t'aime](/playlists/pretty/37i9dQZF1DX3RqcIrDxBiI.md)
 - [joyitas vintage](/playlists/pretty/37i9dQZF1DWTmpXj4o6Fmt.md)
 - [juice](/playlists/pretty/37i9dQZF1DX4nkDUiMktkK.md)
