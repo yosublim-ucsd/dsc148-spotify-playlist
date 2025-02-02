@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 18632,
+  "num_followers": 18633,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADBTy4Jee8l8eJG21tThyM7",
+  "snapshot_id": "Z5wSgAAAAACOIU3vAbC7UYw9gqAetcCc",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Coucher de Lune",
-      "url": "https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Hands of Love",
         "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
@@ -223,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spa Lounge",
-        "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
       "artists": [
         {
@@ -232,25 +216,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 508733,
-      "name": "Olive Grove",
-      "url": "https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
+      "duration_ms": 285653,
+      "name": "Coucher de Lune",
+      "url": "https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe"
     },
     {
       "added_at": null,
@@ -271,6 +239,38 @@
       "duration_ms": 488866,
       "name": "Kiss of a Rose",
       "url": "https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spa Lounge",
+        "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 508733,
+      "name": "Olive Grove",
+      "url": "https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immortelle",
-        "url": "https://open.spotify.com/album/1VJfgOdQJUp4shVpYcIThy"
+        "name": "M\u00e5ngata",
+        "url": "https://open.spotify.com/album/0ZqhNn6iJybe10BKkf9HJW"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 332946,
-      "name": "Monarda",
-      "url": "https://open.spotify.com/track/0at96syawo9G6QQ3cVGNCx"
+      "duration_ms": 115839,
+      "name": "\u00c9cho de la Lune",
+      "url": "https://open.spotify.com/track/5pH7Ls7w340gSedRKUXZpo"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Immortelle",
+        "url": "https://open.spotify.com/album/1VJfgOdQJUp4shVpYcIThy"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 332946,
+      "name": "Monarda",
+      "url": "https://open.spotify.com/track/0at96syawo9G6QQ3cVGNCx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Earth Blue",
         "url": "https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 381066,
       "name": "The Source",
       "url": "https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e5ngata",
-        "url": "https://open.spotify.com/album/0ZqhNn6iJybe10BKkf9HJW"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 115839,
-      "name": "\u00c9cho de la Lune",
-      "url": "https://open.spotify.com/track/5pH7Ls7w340gSedRKUXZpo"
     }
   ],
   "unique_name": "This Is Deuter",

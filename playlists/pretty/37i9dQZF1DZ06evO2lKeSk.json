@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 347217,
+  "num_followers": 347270,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAD+YcXxNJ174LQRWOJ+zqRj",
+  "snapshot_id": "Z5wSgAAAAAC6kLnJ1olJg6WjpWESHixF",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Soy",
-        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/7sqhD28PN9cK1QPzkZf9NF"
+      "duration_ms": 206466,
+      "name": "Pecado Original",
+      "url": "https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecado Original",
-        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+        "name": "Soy Como Soy",
+        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 206466,
-      "name": "Pecado Original",
-      "url": "https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo"
+      "duration_ms": 217600,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/7sqhD28PN9cK1QPzkZf9NF"
     },
     {
       "added_at": null,

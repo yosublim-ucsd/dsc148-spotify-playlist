@@ -2557,6 +2557,24 @@
     },
     {
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312240,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
+    },
+    {
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
@@ -9276,13 +9294,17 @@
           "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
         },
         {
+          "name": "DJ ANXVAR",
+          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+        },
+        {
           "name": "DJ ZAP",
           "url": "https://open.spotify.com/artist/1HJglK87YzctjxETSJqh64"
         }
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 85642,
       "name": "BLUE HORIZON FUNK - SLOWED",
       "url": "https://open.spotify.com/track/6ISgjQNYq70ahUOL9rOrcz"
@@ -11792,6 +11814,42 @@
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
+    },
+    {
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/0pEt88A6qoRyUZPMeCxLnq"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116417,
+      "name": "chess",
+      "url": "https://open.spotify.com/track/3GPCXHGwf7UoTcMyVY0KoA"
+    },
+    {
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/0pEt88A6qoRyUZPMeCxLnq"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143660,
+      "name": "chess (slowed)",
+      "url": "https://open.spotify.com/track/1neintdjlABjVTPGUIN6Gl"
     },
     {
       "album": {
@@ -19520,7 +19578,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 263693,
       "name": "Eusexua",
       "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
@@ -19618,7 +19676,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 212239,
       "name": "Even If It Kills Me",
       "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
@@ -45518,7 +45576,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 149440,
       "name": "P*RNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
@@ -46536,7 +46594,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 205264,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/064fLCSLFvjocxzHXAyA0W"
@@ -47268,7 +47326,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 197346,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX"
@@ -52216,7 +52274,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 182797,
       "name": "SAB\u00cdA QUE NO",
       "url": "https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt"

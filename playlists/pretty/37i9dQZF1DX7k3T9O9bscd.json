@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Mdou Moctar on cover.",
-  "num_followers": 553703,
+  "num_followers": 553773,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Harvest",
         "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 235000,
       "name": "Sun Colored Eyes",
       "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -331,18 +331,22 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Django's High",
-        "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
+        "name": "We Were We Still Are",
+        "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
       "artists": [
         {
           "name": "Future Utopia",
           "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
         }
       ],
-      "duration_ms": 183978,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
+      "duration_ms": 177920,
+      "name": "We Were We Still Are",
+      "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -443,22 +447,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "We Were We Still Are",
-        "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
+        "name": "Django's High",
+        "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
       "artists": [
         {
           "name": "Future Utopia",
           "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        },
-        {
-          "name": "Kae Tempest",
-          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
         }
       ],
-      "duration_ms": 177920,
-      "name": "We Were We Still Are",
-      "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
+      "duration_ms": 183978,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Fase Luna",
-        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Fase Luna",
+        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "A Dream of Lasting Peace",
-        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
-      },
-      "artists": [
-        {
-          "name": "Siena Root",
-          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "H\u00e4xan",
         "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 247034,
       "name": "Cap.4: El Sabbath de las Brujas",
       "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "A Dream of Lasting Peace",
+        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
+      },
+      "artists": [
+        {
+          "name": "Siena Root",
+          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Pastafrolla",
-        "url": "https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ"
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
       "artists": [
         {
-          "name": "Post Nebbia",
-          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
         }
       ],
-      "duration_ms": 159693,
-      "name": "Pastafrolla",
-      "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
+        "name": "Pastafrolla",
+        "url": "https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ"
+      },
+      "artists": [
+        {
+          "name": "Post Nebbia",
+          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Pastafrolla",
+      "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
         "name": "ILION",
         "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 668573,
       "name": "Ilion",
       "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Sul Globo d'argento",
-        "url": "https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv"
-      },
-      "artists": [
-        {
-          "name": "Neoprimitivi",
-          "url": "https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne"
-        }
-      ],
-      "duration_ms": 1259437,
-      "name": "Sul Globo d'argento",
-      "url": "https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Death Hawks",
         "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Moon Needs The Owl Pt. 1",
-        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
+        "name": "Sul Globo d'argento",
+        "url": "https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv"
       },
       "artists": [
         {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+          "name": "Neoprimitivi",
+          "url": "https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne"
         }
       ],
-      "duration_ms": 298828,
-      "name": "Moon Needs The Owl Pt. 1",
-      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
+      "duration_ms": 1259437,
+      "name": "Sul Globo d'argento",
+      "url": "https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -863,18 +847,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD"
+        "name": "Moon Needs The Owl Pt. 1",
+        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
       },
       "artists": [
         {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
         }
       ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
+      "duration_ms": 298828,
+      "name": "Moon Needs The Owl Pt. 1",
+      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -891,6 +875,22 @@
       "duration_ms": 225249,
       "name": "Christopher Robbins",
       "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Cascabel",
-        "url": "https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG"
-      },
-      "artists": [
-        {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
-        }
-      ],
-      "duration_ms": 392598,
-      "name": "Cascabel",
-      "url": "https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 207000,
       "name": "The Seaside - Edit",
       "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+        "name": "Cascabel",
+        "url": "https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
         }
       ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+      "duration_ms": 392598,
+      "name": "Cascabel",
+      "url": "https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Yellowblack",
         "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 154055,
       "name": "Yellowblack",
       "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 237493,
       "name": "Feel so Fine",
       "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Velocirapture (The Serpent Flew)",
         "url": "https://open.spotify.com/album/71ZOwm0s7j6OBbwmTT2CUC"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 345293,
       "name": "Velocirapture (The Serpent Flew)",
       "url": "https://open.spotify.com/track/3vcJQgv7OPKdEKDfsf5eON"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "An Cnoc M\u00f3r",
-        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
       "artists": [
         {
-          "name": "Moundabout",
-          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 515435,
-      "name": "Instinct, Eye and Mind",
-      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
+      "duration_ms": 214466,
+      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af\uff09",
+      "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

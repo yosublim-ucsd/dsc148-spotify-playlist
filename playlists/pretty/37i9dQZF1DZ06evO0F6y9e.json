@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1018293,
+  "num_followers": 1018472,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADk0dGIaB1ytVtkOdXxv2Vx",
+  "snapshot_id": "Z5wSgAAAAAAsdS7NXqirK7LFhE5j/hdO",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Amor Como Este",
-        "url": "https://open.spotify.com/album/77L9yBKHPAOXb9c8hPqWZy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 185770,
-      "name": "Un Amor Como Este",
-      "url": "https://open.spotify.com/track/6OF8WZZI4QfmAKR5jcN1lt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 235221,
       "name": "Gracias (En Vivo)",
       "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Amor Como Este",
+        "url": "https://open.spotify.com/album/77L9yBKHPAOXb9c8hPqWZy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "Un Amor Como Este",
+      "url": "https://open.spotify.com/track/6OF8WZZI4QfmAKR5jcN1lt"
     },
     {
       "added_at": null,

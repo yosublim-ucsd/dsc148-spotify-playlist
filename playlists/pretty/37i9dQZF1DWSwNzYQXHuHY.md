@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,634 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,639 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 26 | [Actually I Love You](https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Doctor Slump \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67) | 3:45 |
 | 27 | [이렇게 좋아해 본 적이 없어요](https://open.spotify.com/track/7ybpezfufTBZvcMWf4iuT0) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [이렇게 좋아해 본 적이 없어요 \(From “소녀의 세계” \[Original Soundtrack\]\)](https://open.spotify.com/album/1gEeOzKCnjiQ9GSR7s0KlS) | 4:19 |
 | 28 | [I Am Yours](https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Am Yours](https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054) | 3:31 |
-| 29 | [Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone ●](https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop2](https://open.spotify.com/album/00XjiAPksr88CoEMJvc6ua) | 3:18 |
-| 30 | [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 |
+| 29 | [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 |
+| 30 | [Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone ●](https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop2](https://open.spotify.com/album/00XjiAPksr88CoEMJvc6ua) | 3:18 |
 | 31 | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW) | 3:01 |
 | 32 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 | 33 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |

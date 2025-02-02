@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95442,
+  "num_followers": 95446,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABwieKdK2tGDZdItfh0dDkA",
+  "snapshot_id": "Z5wSgAAAAABJhVkS52UVUjp/cfk9VY3J",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+        "name": "Never Sleep",
+        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
       "artists": [
         {
@@ -270,7 +270,7 @@
       ],
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5cx2X3RlGDk6g4DkPq4NYw"
+      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 148278,
-      "name": "Tap (feat. Meek Mill)",
-      "url": "https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 179371,
       "name": "Run It Up (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 148278,
+      "name": "Tap (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO"
     },
     {
       "added_at": null,

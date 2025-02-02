@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,134 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,195 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 30 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
 | 31 | [Tallou Hbabna](https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [The Very Best Of Wadi Al\-Safi](https://open.spotify.com/album/2LEdgefrrQ0KRSUpT6Cnh9) | 3:04 |
 | 32 | [Maly saber](https://open.spotify.com/track/5zhLUKNhIJaB6am3QWam7y) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Ahla Al Oyoun](https://open.spotify.com/album/49HOHWIjVZyho0BzVDGm39) | 5:22 |
-| 33 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
-| 34 | [Lola El Sahar](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
+| 33 | [Lola El Sahar](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
+| 34 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
 | 35 | [Ya Khsartaq Ya Alby](https://open.spotify.com/track/1EV6LK5yWxxCe7qtY2w0Rm) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 3:52 |
 | 36 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 |
 | 37 | [الدلعونا](https://open.spotify.com/track/7ey7KJqVGCsKDvnMNYHMnq) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [مواويل ودبكة](https://open.spotify.com/album/7q7fTrlnMQzFMwQbka1E0v) | 11:14 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 54458,
+  "num_followers": 54496,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "All That I Am",
         "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 380533,
       "name": "All The Things (Your Man Won't Do)",
       "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+        "name": "Still Ghetto",
+        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
       },
       "artists": [
         {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 253626,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
+      "duration_ms": 245773,
+      "name": "Put That Woman First",
+      "url": "https://open.spotify.com/track/3OQu3z3okKVmWxSXTTHak5"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Still Ghetto",
-        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
       "artists": [
         {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
         }
       ],
-      "duration_ms": 245773,
-      "name": "Put That Woman First",
-      "url": "https://open.spotify.com/track/3OQu3z3okKVmWxSXTTHak5"
+      "duration_ms": 253626,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
     },
     {
       "added_at": "2022-10-02 01:51:23",

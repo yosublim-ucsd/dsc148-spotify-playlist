@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,205 likes - 90 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,214 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 83 | [Nada Sei \- Apneia, Ao Vivo](https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Nada Sei \(Apneia\)](https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO) | 3:49 |
 | 84 | [Bad Memories \- Acoustic](https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(Acoustic\)](https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La) | 2:21 |
 | 85 | [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 |
-| 86 | [beira \- PP sessions \- Ao Vivo](https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [GUPE \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K) | 3:42 |
+| 86 | [Eu Gosto Assim](https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv) | [Karol Ribê](https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt) | [Eu Gosto Assim](https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd) | 3:26 |
 | 87 | [Blame It On Me \- Acoustic](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 |
-| 88 | [Eu Gosto Assim](https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv) | [Karol Ribê](https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt) | [Eu Gosto Assim](https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd) | 3:26 |
+| 88 | [beira \- PP sessions \- Ao Vivo](https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [GUPE \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K) | 3:42 |
 | 89 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 |
 | 90 | [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 |
 

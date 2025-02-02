@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,945 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,969 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 58 | [Point Of Many Returns](https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Contours](https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y) | 9:23 |
 | 59 | [Love Song \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
 | 60 | [Rebirth](https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Sahara](https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl) | 5:18 |
-| 61 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
-| 62 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
+| 61 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
+| 62 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
 | 63 | [French Spice \- Remaster 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 8:02 |
 | 64 | [Herzog](https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Total Eclipse](https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM) | 6:36 |
 | 65 | [Sao Paulo \- Remastered 2014](https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas \(Remastered 2014\)](https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ) | 7:17 |
 | 66 | [Little Madimba \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 8:32 |
-| 67 | [Bartók: Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
-| 68 | [Theme From Mr\. Broadway](https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:43 |
+| 67 | [Theme From Mr\. Broadway](https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:43 |
+| 68 | [Bartók: Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
 | 69 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
 | 70 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
 | 71 | [The Fox \- Remastered 2014](https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 8:00 |

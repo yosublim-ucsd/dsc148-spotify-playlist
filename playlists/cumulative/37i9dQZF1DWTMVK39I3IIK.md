@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  SOL & Emil Kruse
 
-146 songs - 7 hr 44 min
+147 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 | 2024-08-15 | 2024-08-23 |
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 | 2025-01-24 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-27 | 2024-08-23 |
-| [Går Bare](https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Går Bare](https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD) | 4:36 | 2024-09-16 |  |
+| [Går Bare](https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Går Bare](https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD) | 4:36 | 2024-09-16 | 2025-02-02 |
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2024-06-27 |  |
 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 | 2024-06-27 | 2024-11-29 |
 | [HJEM FRA MÅNEN \(feat\. PRISMA\)](https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2), [PRISMA](https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au) | [DRØMMEHUG](https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV) | 2:48 | 2024-10-10 |  |
@@ -105,6 +105,7 @@
 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 | 2024-06-27 | 2024-08-14 |
 | [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 | 2024-06-27 | 2024-09-24 |
 | [Når Du Rører Ved Mig](https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Du Rører Ved Mig](https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg) | 3:37 | 2024-06-27 | 2024-11-20 |
+| [Nærmest en ven](https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Regnvåde sale](https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h) | 3:16 | 2025-01-30 |  |
 | [Oktobernat](https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Oktobernat](https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV) | 2:55 | 2024-10-18 |  |
 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-23 | 2024-09-20 |
 | [oslo til københavn](https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENGLE & BLAA MAERKER](https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x) | 2:54 | 2024-06-27 |  |

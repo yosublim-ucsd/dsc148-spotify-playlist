@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,626 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,627 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

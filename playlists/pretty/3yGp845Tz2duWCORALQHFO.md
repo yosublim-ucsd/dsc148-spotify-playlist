@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,855 likes - 50 songs - 2 hr 35 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,852 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 9 | [Feeling](https://open.spotify.com/track/1txDRjc8wBPre0M2kRP1aa) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Feldbach](https://open.spotify.com/artist/3XUXhNstz80F9J4RQYjxuu) | [Feeling](https://open.spotify.com/album/5YsV1Bz61W4503ERpfl0lu) | 3:42 |
 | 10 | [Flammable](https://open.spotify.com/track/0WU60Fhx5Z2Q2YetI0J7NW) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [Flammable](https://open.spotify.com/album/4eivxJvBQpdswbLgzhoeZx) | 4:11 |
 | 11 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |
-| 12 | [Wake Me Up](https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:08 |
+| 12 | [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:08 |
 | 13 | [No Angel](https://open.spotify.com/track/3JkPVnpvClPIif61EP4IrX) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [No Angel](https://open.spotify.com/album/1B1cP7J5EkwQIi8JO9So15) | 3:05 |
 | 14 | [Mingle Game Song \(Round And Round\)](https://open.spotify.com/track/0KEMht9CB7EexAoGBuDZbh) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Mingle Game Song \(Round And Round\)](https://open.spotify.com/album/5J8MxbuBqKXyyM4Qdql6Dk) | 1:24 |
 | 15 | [Just Stay The Night](https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Just Stay The Night](https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC) | 3:12 |

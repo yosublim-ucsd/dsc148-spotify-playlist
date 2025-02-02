@@ -1315,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "Field Spectrum",
+        "url": "https://open.spotify.com/album/1NyupceZmOc5jxKlhY9b6s"
+      },
+      "artists": [
+        {
+          "name": "Asana Ventus",
+          "url": "https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Field Spectrum",
+      "url": "https://open.spotify.com/track/3XG01xovL8ygkL6TLZ60xr"
+    },
+    {
+      "album": {
         "name": "Brown Noise Relaxation",
         "url": "https://open.spotify.com/album/4ojM7wSFWCJPwlu52CTzLc"
       },
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 136000,
       "name": "Soothing & Blissful Noise",
       "url": "https://open.spotify.com/track/2rW0Aa8veMKaiJZ2fsEfYW"

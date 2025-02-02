@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1411519,
+  "num_followers": 1412063,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -343,38 +343,6 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/0ckGmkDxDZeVpHZ8sP5G8P"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 170791,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/2eI39ZcdcjFiPvLQvJ1COb"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
-        "name": "Creole",
-        "url": "https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt"
-      },
-      "artists": [
-        {
-          "name": "Tre Mission",
-          "url": "https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg"
-        }
-      ],
-      "duration_ms": 149056,
-      "name": "Creole",
-      "url": "https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
         "name": "Casa Lopez",
         "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 243560,
       "name": "Casa Lopez",
       "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "Creole",
+        "url": "https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt"
+      },
+      "artists": [
+        {
+          "name": "Tre Mission",
+          "url": "https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg"
+        }
+      ],
+      "duration_ms": 149056,
+      "name": "Creole",
+      "url": "https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/0ckGmkDxDZeVpHZ8sP5G8P"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 170791,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/2eI39ZcdcjFiPvLQvJ1COb"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
-        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
         "name": "Chapter 7",
         "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 287320,
       "name": "Chapter 7 (feat. Ty)",
       "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -979,6 +979,26 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
         "name": "Birds",
         "url": "https://open.spotify.com/album/1vsT2jyons7rMOVsBJnsRV"
       },
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
       },
@@ -1035,6 +1035,30 @@
       "duration_ms": 190116,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "You Don\u2019t Know",
+        "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Rebel Kleff",
+          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
+        },
+        {
+          "name": "Kiko Bun",
+          "url": "https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ"
+        }
+      ],
+      "duration_ms": 250450,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1067,30 +1091,6 @@
       "duration_ms": 185160,
       "name": "Chase It",
       "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
-        "name": "You Don\u2019t Know",
-        "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Rebel Kleff",
-          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
-        },
-        {
-          "name": "Kiko Bun",
-          "url": "https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ"
-        }
-      ],
-      "duration_ms": 250450,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
-        "name": "01 LOVE.",
-        "url": "https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49"
-      },
-      "artists": [
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "FOREVER.",
-      "url": "https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "01 LOVE.",
+        "url": "https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "FOREVER.",
+      "url": "https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
-        "name": "IN LOVING MEMORY+",
-        "url": "https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "GREY SKIES",
-      "url": "https://open.spotify.com/track/0DNdegnDivB7c0PfXlzTX3"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
         "name": "mynameisnt",
         "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 178554,
       "name": "aslongas",
       "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "IN LOVING MEMORY+",
+        "url": "https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "GREY SKIES",
+      "url": "https://open.spotify.com/track/0DNdegnDivB7c0PfXlzTX3"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
-        "name": "Peerless",
-        "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
-      },
-      "artists": [
-        {
-          "name": "Stalley",
-          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 161536,
-      "name": "Boiler Room (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
+        "name": "Peerless",
+        "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 161536,
+      "name": "Boiler Room (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
+        "name": "Out Of My Hands (feat. Oddisee)",
+        "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
+      },
+      "artists": [
+        {
+          "name": "GR\u20acY",
+          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Out Of My Hands (feat. Oddisee)",
+      "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
+    },
+    {
+      "added_at": "2025-01-31 05:00:47",
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -1563,22 +1583,18 @@
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
-        "name": "Out Of My Hands (feat. Oddisee)",
-        "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
       },
       "artists": [
         {
-          "name": "GR\u20acY",
-          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
         }
       ],
-      "duration_ms": 216453,
-      "name": "Out Of My Hands (feat. Oddisee)",
-      "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1603,22 +1619,6 @@
       "duration_ms": 187335,
       "name": "Le Plug - Bonus",
       "url": "https://open.spotify.com/track/6EftlHyc04ft0gAYPyY2Zt"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
-      },
-      "artists": [
-        {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
-        }
-      ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2025-01-31 05:00:47",

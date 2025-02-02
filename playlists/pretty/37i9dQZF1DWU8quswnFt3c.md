@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,246 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,704 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 30 | [Açıldı Kapılar](https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Açıldı Kapılar](https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I) | 2:57 |
 | 31 | [Malli](https://open.spotify.com/track/4jOcL6LbpfMF68rEVFZtPI) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Yll Limani](https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT) | [Vera Me Ty](https://open.spotify.com/album/1JqKwnQ0qVLumzlu45JmtB) | 3:27 |
 | 32 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
-| 33 | [Hun](https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 3:14 |
-| 34 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |
+| 33 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |
+| 34 | [Hun](https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 3:14 |
 | 35 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
 | 36 | [Iné Plemená](https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Iné Plemená](https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV) | 3:08 |
-| 37 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 |
-| 38 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
+| 37 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
+| 38 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 |
 | 39 | [Timanttei](https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Timanttei](https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p) | 3:29 |
 | 40 | [La OG](https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:04 |
 | 41 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Clash. The essential tracks, all in one playlist.",
-  "num_followers": 176531,
+  "num_followers": 176554,
   "original_name": "This Is The Clash",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACxxQNIcq8/DdWSqFWstH1l",
+  "snapshot_id": "Z5wSgAAAAADY1FpTz7Srzmddv6CulDf5",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandinista! (Remastered)",
-        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 214386,
-      "name": "Somebody Got Murdered - Remastered",
-      "url": "https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr"
+      "duration_ms": 252480,
+      "name": "This is Radio Clash",
+      "url": "https://open.spotify.com/track/7sQkeztZAGR3haZL71wvZe"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 252480,
-      "name": "This is Radio Clash",
-      "url": "https://open.spotify.com/track/7sQkeztZAGR3haZL71wvZe"
+      "duration_ms": 214386,
+      "name": "Somebody Got Murdered - Remastered",
+      "url": "https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr"
     },
     {
       "added_at": null,

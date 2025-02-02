@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Gallan Hundiyan (From \"Majhail\")",
+        "url": "https://open.spotify.com/album/4eXHXXfO93us9UtOjbtpo1"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "Gallan Hundiyan - From \"Majhail\"",
+      "url": "https://open.spotify.com/track/2cdu7CQkntC4wNe1IISyg8"
+    },
+    {
+      "album": {
         "name": "Mankirt Aulakh - Best Hits",
         "url": "https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L"
       },
@@ -2228,7 +2250,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 179815,
       "name": "Naag Di Wife",
       "url": "https://open.spotify.com/track/3NmGpPUylfHx5xBXMmnJ7k"

@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Chuwi.
 
-851 songs - 1 day 21 hr 55 min
+852 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 | 2023-03-29 | 2023-07-22 |
 | [Cosas De La Vida](https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Cosas De La Vida](https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4) | 2:44 | 2021-12-02 | 2023-02-03 |
 | [Cosas Imposibles \(No Me Sirven\)](https://open.spotify.com/track/0iR74OgtUEbbn0AEVrAk6Y) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Cosas Imposibles \(No Me Sirven\)](https://open.spotify.com/album/4SzytRlNQR4JBqTth6MD9j) | 2:57 | 2024-08-30 | 2024-09-24 |
-| [Cowboy Rockstar](https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cowboy Rockstar](https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0) | 2:45 | 2024-10-25 |  |
+| [Cowboy Rockstar](https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cowboy Rockstar](https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0) | 2:45 | 2024-10-25 | 2025-02-02 |
 | [Creature \(Perfect\)](https://open.spotify.com/track/2emF1fcXtygEDeOgHvUArs) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:31 | 2022-05-25 | 2023-02-17 |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2022-02-11 | 2022-06-03 |
 | [Cuando la cosa no me va buena](https://open.spotify.com/track/57vf6m5VOQDsQkNzVPaot5) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [Lágrimas pa otro día](https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp) | 2:24 | 2023-05-05 | 2023-05-20 |
@@ -722,6 +722,7 @@
 | [Something About Us](https://open.spotify.com/track/1d24IsT8Vx0sENM2Oof4V2) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/6NgnKl9MwZm5yZnc1W2z1t) | 4:25 | 2021-12-02 | 2023-02-17 |
 | [something bout u](https://open.spotify.com/track/0QCmFkO9tlG3wyP3Ch6gID) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [something bout u](https://open.spotify.com/album/56nwUA9BfAIDI9EqqKrOd2) | 2:51 | 2024-09-20 | 2025-01-28 |
 | [SONRÍE <3](https://open.spotify.com/track/47sOMp1xXLBzGXOuUZPR4x) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:21 | 2023-08-25 | 2023-09-30 |
+| [SOPHIA](https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SOPHIA](https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu) | 3:04 | 2025-01-31 |  |
 | [Soy Tu Papá \(feat\. Fernando Palomo\)](https://open.spotify.com/track/2dCk8pFTFvWEt8WzcagGKa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O), [Fernando Palomo](https://open.spotify.com/artist/0mlE6ychUjCLEw4jNAdbG3) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:16 | 2023-12-08 | 2024-05-11 |
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2022-01-28 | 2023-02-03 |
 | [Still](https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Still](https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3) | 2:25 | 2023-02-17 | 2023-04-14 |

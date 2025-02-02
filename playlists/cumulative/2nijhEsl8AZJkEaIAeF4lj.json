@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232176,
+      "name": "Baptized In Fear",
+      "url": "https://open.spotify.com/track/5rzI6Jnlhx8DgVgsOLorfW"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -2264,6 +2282,24 @@
       "duration_ms": 352720,
       "name": "Human Sacrifice",
       "url": "https://open.spotify.com/track/6SdwTlnOy0hcfXmkwQrSw2"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291486,
+      "name": "Hurry Up Tomorrow",
+      "url": "https://open.spotify.com/track/4TDPlp7OSOjuDU3l7PCM04"
     },
     {
       "album": {
@@ -4834,6 +4870,28 @@
       "duration_ms": 216448,
       "name": "The 30th",
       "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282873,
+      "name": "The Abyss (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs"
     },
     {
       "album": {

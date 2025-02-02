@@ -1,6 +1,6 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 193680,
+  "num_followers": 193709,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-01-28 00:17:09",
       "album": {
-        "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
-        "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 340080,
-      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su"
-    },
-    {
-      "added_at": "2025-01-28 00:17:09",
-      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 210948,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
+    },
+    {
+      "added_at": "2025-01-28 00:17:09",
+      "album": {
+        "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 340080,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su"
     },
     {
       "added_at": "2025-01-28 00:17:09",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-01-28 00:17:09",
       "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 246699,
-      "name": "\u82b1",
-      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
-    },
-    {
-      "added_at": "2025-01-28 00:17:09",
-      "album": {
         "name": "\u30aa\u30ec\u30f3\u30b8",
         "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 235200,
       "name": "\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+    },
+    {
+      "added_at": "2025-01-28 00:17:09",
+      "album": {
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 246699,
+      "name": "\u82b1",
+      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
     },
     {
       "added_at": "2025-01-28 00:17:09",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-01-28 00:17:09",
       "album": {
-        "name": "\u51ac\u3068\u6625",
-        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
+        "name": "\u3078\u3073",
+        "url": "https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 256786,
-      "name": "\u51ac\u3068\u6625",
-      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
+      "duration_ms": 255615,
+      "name": "\u3078\u3073",
+      "url": "https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz"
     },
     {
       "added_at": "2025-01-28 00:17:09",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-01-28 00:17:09",
       "album": {
+        "name": "\u51ac\u3068\u6625",
+        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 256786,
+      "name": "\u51ac\u3068\u6625",
+      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
+    },
+    {
+      "added_at": "2025-01-28 00:17:09",
+      "album": {
         "name": "\u3072\u307f\u3064\u30b9\u30bf\u30b8\u30aa",
         "url": "https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY"
       },
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2025-01-28 00:17:09",
       "album": {
-        "name": "Mela!",
-        "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Mela!",
-      "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
-    },
-    {
-      "added_at": "2025-01-28 00:17:09",
-      "album": {
-        "name": "\u3078\u3073",
-        "url": "https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 255615,
-      "name": "\u3078\u3073",
-      "url": "https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz"
-    },
-    {
-      "added_at": "2025-01-28 00:17:09",
-      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 229333,
       "name": "\u30ac\u30fc\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+    },
+    {
+      "added_at": "2025-01-28 00:17:09",
+      "album": {
+        "name": "Mela!",
+        "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Mela!",
+      "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
     },
     {
       "added_at": "2025-01-28 00:17:09",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-28 00:17:09",
       "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
-    },
-    {
-      "added_at": "2025-01-28 00:17:09",
-      "album": {
         "name": "\u6625\u6ce5\u68d2",
         "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 290289,
       "name": "\u6625\u6ce5\u68d2",
       "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
+    },
+    {
+      "added_at": "2025-01-28 00:17:09",
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
       "added_at": "2025-01-28 00:17:09",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-01-28 00:17:09",
       "album": {
-        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
-      "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
-    },
-    {
-      "added_at": "2025-01-28 00:17:09",
-      "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 230666,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "added_at": "2025-01-28 00:17:09",
+      "album": {
+        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
     },
     {
       "added_at": "2025-01-28 00:17:09",

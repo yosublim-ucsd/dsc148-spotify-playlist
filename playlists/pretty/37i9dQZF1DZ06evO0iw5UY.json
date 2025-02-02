@@ -1,29 +1,13 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27661,
+  "num_followers": 27662,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAAXwVwJht6eghfGrPpqU5pF",
+  "snapshot_id": "Z5wSgAAAAAAGVbmiVUTmf8+QAACsNZg2",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 290760,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2SHnUyZq0zwmvRIl4WY77G"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 264774,
       "name": "Lay It Down",
       "url": "https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2SHnUyZq0zwmvRIl4WY77G"
     },
     {
       "added_at": null,
@@ -283,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 179014,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lucid (The Remixes)",
         "url": "https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 187431,
       "name": "Alarm - WE ARE FURY Remix",
       "url": "https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 179014,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 219813,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
     },
     {
       "added_at": null,
@@ -858,11 +858,15 @@
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
         }
       ],
-      "duration_ms": 227539,
-      "name": "zer0",
-      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
+      "duration_ms": 214992,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6O4dKR2qDrowPXV7lwUNA8"
     },
     {
       "added_at": null,
@@ -934,15 +938,11 @@
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
         }
       ],
-      "duration_ms": 214992,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6O4dKR2qDrowPXV7lwUNA8"
+      "duration_ms": 227539,
+      "name": "zer0",
+      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-159 songs - 7 hr 48 min
+160 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [FRIEND ZONE](https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [FRIEND ZONE](https://open.spotify.com/album/7lMOtrXJNjngIeAJqNE4WN) | 2:41 | 2023-07-18 | 2024-06-04 |
 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 | 2023-07-18 | 2024-11-14 |
 | [Galbaat](https://open.spotify.com/track/0GX9G0xtAI4Kr6iLIgFZ2i) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Galbaat](https://open.spotify.com/album/09PxPENNHiUP7i6tugSqNK) | 2:20 | 2025-01-29 |  |
+| [Gallan Hundiyan \- From "Majhail"](https://open.spotify.com/track/2cdu7CQkntC4wNe1IISyg8) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Gallan Hundiyan \(From "Majhail"\)](https://open.spotify.com/album/4eXHXXfO93us9UtOjbtpo1) | 2:02 | 2025-02-01 |  |
 | [Gangland](https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 2:48 | 2023-07-18 | 2024-04-19 |
 | [Gangland](https://open.spotify.com/track/4UY2GSXlMHfrfvPbBdlRDv) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/1xp8NLdS2cGOKnqaNAGzgA) | 2:48 | 2024-04-06 | 2024-11-07 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-07-18 | 2025-01-30 |
@@ -106,7 +107,7 @@
 | [MTCD](https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Japjeet Sandhu](https://open.spotify.com/artist/38hUZEN7hCJfaZRMQgg0Hd) | [MTCD](https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq) | 2:36 | 2024-11-13 | 2024-11-30 |
 | [Munde Desi](https://open.spotify.com/track/04Y40castrKPhpKehco0E7) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Welcome To The Revolution](https://open.spotify.com/album/0N0Nl1ZBWIRataqQ4Wtae3) | 2:52 | 2023-07-26 | 2024-02-03 |
 | [Murder](https://open.spotify.com/track/2mF6e4kHyg5bZHud5btnmJ) | [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Murder](https://open.spotify.com/album/2hFJ6Nj2c9zXM4bFvdXwBn) | 2:53 | 2024-10-10 | 2025-01-11 |
-| [Naag Di Wife](https://open.spotify.com/track/3NmGpPUylfHx5xBXMmnJ7k) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Maahi Sharma](https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Naag Di Wife](https://open.spotify.com/album/1NVjslukC8ekvOzPqnraa6) | 2:59 | 2025-01-09 |  |
+| [Naag Di Wife](https://open.spotify.com/track/3NmGpPUylfHx5xBXMmnJ7k) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Maahi Sharma](https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Naag Di Wife](https://open.spotify.com/album/1NVjslukC8ekvOzPqnraa6) | 2:59 | 2025-01-09 | 2025-02-02 |
 | [Nachi Jane Aan](https://open.spotify.com/track/2ufmUADMihKIwpqd1h8g2i) | [Ranbir Dhaliwal](https://open.spotify.com/artist/2ENJOCxUIor2B9hLqfzvk0) | [Nachi Jane Aan](https://open.spotify.com/album/52OGX8smtgDNdPnJLtsOc7) | 3:07 | 2024-11-27 | 2024-12-13 |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2023-07-18 |  |
 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 | 2024-12-13 |  |

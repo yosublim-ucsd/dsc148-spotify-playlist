@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=SJQ223U4QNqhwtvGvFVzbg">Francois van Coke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,961 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,985 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 15 | [No Surprise](https://open.spotify.com/track/1L7JDJ5604RkYN2k3czATE) | [Likkewaan](https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3) | [No Surprise](https://open.spotify.com/album/3OyIklItWcl0kumd7mrpXr) | 3:00 |
 | 16 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 17 | [Die Sterre Binne Jou](https://open.spotify.com/track/0SASpYNg8wXAzljJNVkTuv) | [Saarkie](https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf) | [Die Sterre Binne Jou](https://open.spotify.com/album/2LfoCD0e6F2enqGZAhSzIE) | 3:51 |
-| 18 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
+| 18 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 19 | [Saterdag Is Nog 'n Dag \(Radio Edit\)](https://open.spotify.com/track/0haSFu3gTeYMY2xvHZDslQ) | [Saterdag Vanaand](https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc) | [Saterdag Is Nog 'n Dag \(Radio Edit\)](https://open.spotify.com/album/4BVIp3kb1NsT2jkgtTsTp2) | 2:59 |
-| 20 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
+| 20 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
 | 21 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 22 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 | 23 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
-| 24 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
-| 25 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
-| 26 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
+| 24 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
+| 25 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
+| 26 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 27 | [BOSS](https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [BOSS](https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU) | 2:22 |
 | 28 | [The Brink \(Single\)](https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [The Brink \(Single\)](https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl) | 3:07 |
 | 29 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 42 | [Die Stryd](https://open.spotify.com/track/6WBOpGhSpsZgNhjENuaeMV) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Die Stryd](https://open.spotify.com/album/0EGGgOzLhMdK9zw88wLQfD) | 3:07 |
 | 43 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
 | 44 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
-| 45 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 |
-| 46 | [ur so beautiful](https://open.spotify.com/track/0ASAyuTHB3TAxtJujVu0t9) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [adis.](https://open.spotify.com/artist/44EIiaDS5dA1xFse9TmbfW) | [ur so beautiful](https://open.spotify.com/album/6hnYGFbVJlFJjfT8roJeCm) | 3:07 |
-| 47 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
-| 48 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
+| 45 | [ur so beautiful](https://open.spotify.com/track/0ASAyuTHB3TAxtJujVu0t9) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [adis.](https://open.spotify.com/artist/44EIiaDS5dA1xFse9TmbfW) | [ur so beautiful](https://open.spotify.com/album/6hnYGFbVJlFJjfT8roJeCm) | 3:07 |
+| 46 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
+| 47 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
+| 48 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 |
 | 49 | [Kiss Me Hard](https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Kiss Me Hard](https://open.spotify.com/album/1U7stlcv1Z4m4UDSRei2vM) | 2:52 |
 | 50 | [Like You Madly](https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9) | [Just Jinger](https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo) | [All Comes Round 20th Anniversary Edition](https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X) | 3:36 |
 

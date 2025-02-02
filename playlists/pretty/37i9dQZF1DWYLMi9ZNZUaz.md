@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: tlinh
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,590 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,627 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 16 | [Mắt Xanh](https://open.spotify.com/track/3rigEvSPZYJI3rAt9gVdXy) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Mắt Xanh](https://open.spotify.com/album/3poO8uwdPxvv2QXVxqLXfC) | 2:49 |
 | 17 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 |
 | 18 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 |
-| 19 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
+| 19 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 |
 | 20 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
-| 21 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 |
+| 21 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
 | 22 | [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 |
 | 23 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
 | 24 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |

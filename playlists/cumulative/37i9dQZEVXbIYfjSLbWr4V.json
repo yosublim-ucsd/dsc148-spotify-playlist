@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 98734,
       "name": "Belt Double G",
       "url": "https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -2542,6 +2542,24 @@
       "duration_ms": 182628,
       "name": "lux",
       "url": "https://open.spotify.com/track/04MiXeA0SSdcVHYSLz9yuZ"
+    },
+    {
+      "album": {
+        "name": "lyin n' dyin",
+        "url": "https://open.spotify.com/album/5iQCpfinEnaqfsAgYbAno5"
+      },
+      "artists": [
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99583,
+      "name": "lyin n' dyin",
+      "url": "https://open.spotify.com/track/7MJvYs3R3caNUilA5A8h7r"
     },
     {
       "album": {
@@ -3308,7 +3326,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 90315,
       "name": "Pose",
       "url": "https://open.spotify.com/track/0xS08Lk8uNc84YCx1cJtHV"
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Sladki Snov Rapper 2",
       "url": "https://open.spotify.com/track/1lx65Q3Vfy8NsfaA5DXUcJ"
@@ -4030,7 +4048,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -4624,7 +4642,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 173033,
       "name": "White Christmas (with V of BTS)",
       "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
@@ -6032,6 +6050,28 @@
       "duration_ms": 197093,
       "name": "\u0417\u0430\u0432\u0442\u0440\u0430",
       "url": "https://open.spotify.com/track/48iccIVYgczDpbNdATne4j"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430\u043a\u043e\u043b\u0434\u043e\u0432\u0430\u043b\u0430",
+        "url": "https://open.spotify.com/album/2YBxUQ4PUic6gnMefzWoMO"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0438\u0448\u043b\u0430\u043a",
+          "url": "https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ"
+        },
+        {
+          "name": "\u0414\u0438\u0430\u043d\u0430 \u0410\u0441\u0442\u0435\u0440",
+          "url": "https://open.spotify.com/artist/3bhckIo2mOubGHkvhxNBGT"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "\u0417\u0430\u043a\u043e\u043b\u0434\u043e\u0432\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/3unK3xlVtlUiLRprPm9gqD"
     },
     {
       "album": {
@@ -9696,6 +9736,24 @@
       "duration_ms": 167744,
       "name": "\u044f\u0440\u0447\u0435 \u0437\u0432\u0451\u0437\u0434",
       "url": "https://open.spotify.com/track/4ZhLYdmhWdPTZcnAy9SZZO"
+    },
+    {
+      "album": {
+        "name": "\u0401\u041a",
+        "url": "https://open.spotify.com/album/1akEhm6tO6W8ZmVapIWNvj"
+      },
+      "artists": [
+        {
+          "name": "\u0414\u043e\u0440\u0430",
+          "url": "https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "\u0401\u041a",
+      "url": "https://open.spotify.com/track/2x68wTxFO6ZURfIi3j8Exz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbIYfjSLbWr4V"

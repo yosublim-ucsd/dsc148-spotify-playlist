@@ -1167,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "We Rise (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188616,
+      "name": "We Rise - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
+    },
+    {
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
       },

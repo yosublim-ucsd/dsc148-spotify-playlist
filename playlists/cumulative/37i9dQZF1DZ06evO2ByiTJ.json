@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Chegou Um Tempo Novo",
+        "url": "https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286293,
+      "name": "Chegou Um Tempo Novo",
+      "url": "https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF"
+    },
+    {
+      "album": {
         "name": "Elaine Martins (Ao Vivo)",
         "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Leo Rizzi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,997 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,998 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 50 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
 | 51 | [Se Cancela La Llorada](https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Se Cancela La Llorada](https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv) | 3:00 |
 | 52 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
-| 53 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
-| 54 | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6) | 3:25 |
+| 53 | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6) | 3:25 |
+| 54 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
 | 55 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
 | 56 | [Lo Que Mis Ojos Ven](https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Lo Que Mis Ojos Ven](https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA) | 3:27 |
 | 57 | [Me Caga Decir Adiós](https://open.spotify.com/track/1w0ikKJMJL0lVLQbcWYOAu) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Me Caga Decir Adiós](https://open.spotify.com/album/4EsC2tboO66epqFTb6BIoZ) | 2:33 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 62 | [Raíces](https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Raíces](https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK) | 2:54 |
 | 63 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
 | 64 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
-| 65 | [Nunca Fuimos Al Mar](https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nunca Fuimos Al Mar](https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw) | 2:13 |
-| 66 | [DESASTRE](https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE](https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG) | 3:42 |
+| 65 | [DESASTRE](https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE](https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG) | 3:42 |
+| 66 | [Nunca Fuimos Al Mar](https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nunca Fuimos Al Mar](https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw) | 2:13 |
 | 67 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |
 | 68 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
 | 69 | [Escuchado](https://open.spotify.com/track/49WZpJPbTNDSXOIrmXN2qY) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Las Cápsulas Del Tiempo Son Rosas](https://open.spotify.com/album/1EYtlVjlntnbVZQh0QLptu) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7jITZJikDeNMTfdDXjon9K.md) - [plain]
 
 > 
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 14 likes - 3,107 songs - 7 day 15 hr 14 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 14 likes - 3,113 songs - 7 day 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3115,5 +3115,11 @@ pretty - [cumulative](/playlists/cumulative/7jITZJikDeNMTfdDXjon9K.md) - [plain]
 | 3105 | [Tomorrow](https://open.spotify.com/track/3yw3m8wgRB4ptDyAvtdhq5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:02 |
 | 3106 | [SexyBack \(feat\. Timbaland\)](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:02 |
 | 3107 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
+| 3108 | [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:08 |
+| 3109 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
+| 3110 | [Open Hearts](https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:54 |
+| 3111 | [TEMPTATIONS](https://open.spotify.com/track/6mO0APDNwS1d2OYRfkZegK) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [COYOTE](https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu) | 3:19 |
+| 3112 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 |
+| 3113 | [Take Me Back To LA](https://open.spotify.com/track/7rVmzyFA7f4rNGl9onF21E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:13 |
 
-Snapshot ID: `AAAQD2BF1RxbqgB2Qrd7rySscJFSAS/a`
+Snapshot ID: `AAAQFUq6KaXFKgknMIwTIGPBVnm1bjke`

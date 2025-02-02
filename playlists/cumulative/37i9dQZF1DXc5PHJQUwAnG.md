@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Dan García, Sheeno y ND Kobi' en portada.
 
-338 songs - 15 hr 56 min
+339 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 | 2023-06-09 |  |
 | [Waze](https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:01 | 2023-06-09 | 2024-05-18 |
 | [why?](https://open.spotify.com/track/3eNAjO88QTdxdDyAFVUnEJ) | [Brokeboi Rubio](https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX) | [why?](https://open.spotify.com/album/04jGMZtjIz0RxunjQXl2E0) | 1:14 | 2023-06-09 | 2024-05-18 |
+| [XXL](https://open.spotify.com/track/2I4Ahv4wzisiw3G7ZJshBD) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf) | [XXL](https://open.spotify.com/album/1zbbc3CrJ3yRbUCfEwbD1Q) | 2:13 | 2025-01-31 |  |
 | [YANOSE+](https://open.spotify.com/track/6aRH1wULqL60eu4tnD7Hjx) | [jorjais zerotres](https://open.spotify.com/artist/5umEL3FJi93772szQJQ5en), [N o m o o d](https://open.spotify.com/artist/7eapcdTGTUub9A0mrrDK6h), [Max Vallejo](https://open.spotify.com/artist/24DfufMsr8s4oOjr6W94is) | [YANOSE+](https://open.spotify.com/album/6Xc3L4wNLJgkuivTpmpmGo) | 3:55 | 2023-07-28 | 2023-09-05 |
 | [Yeezys](https://open.spotify.com/track/0c4yuYnT4WF3s6p070qBwT) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH) | [Yeezys](https://open.spotify.com/album/5SxZc6xzugd2A0oSqozMWb) | 2:23 | 2023-06-09 | 2024-05-18 |
 | [Yeyo](https://open.spotify.com/track/1rWzqNBSJyOp4xlTatI3he) | [Asis](https://open.spotify.com/artist/16YhiWjmyoCqhoZGbuQNsE), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm), [Yerack Rocha](https://open.spotify.com/artist/3UpSLwP3Q4NGxRj0buWEXx) | [Yeyo](https://open.spotify.com/album/1ErQCuIj96KgIL99O3tMrt) | 4:31 | 2023-06-09 | 2023-07-01 |

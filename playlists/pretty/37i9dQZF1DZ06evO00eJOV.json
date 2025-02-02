@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36263,
+  "num_followers": 36264,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAAAWbbAbEk6e4sqk8S3gWY5",
+  "snapshot_id": "Z5wSgAAAAADXcqQWqFYDw8Zd665gEbHJ",
   "tracks": [
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 277896,
-      "name": "Don't Follow Me I'm Married",
-      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
+      "duration_ms": 331497,
+      "name": "Good Black Woman",
+      "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 331497,
-      "name": "Good Black Woman",
-      "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
+      "duration_ms": 277896,
+      "name": "Don't Follow Me I'm Married",
+      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
     },
     {
       "added_at": null,
@@ -835,18 +835,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+        "name": "Soon And Very Soon",
+        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
       "artists": [
+        {
+          "name": "Children Of God",
+          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 348893,
-      "name": "The Lord Is My Shepherd",
-      "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
+      "duration_ms": 328133,
+      "name": "Living Waters (Let The)",
+      "url": "https://open.spotify.com/track/2yzLvXmkMJkVSRF3pekfoJ"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

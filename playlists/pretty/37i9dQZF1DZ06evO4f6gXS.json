@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3284,
+  "num_followers": 3283,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABZzc971HwTXK1fEv6UHGqr",
+  "snapshot_id": "Z5wSgAAAAACXiUkrA88hMbWfn6+1cWd7",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Sweet Ecstasy",
+      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Central, Vol. 1",
         "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Sweet Ecstasy",
-      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep It Comin'",
         "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 300413,
       "name": "Curious",
       "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "You Threw Our Love Away",
+      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "You Threw Our Love Away",
-      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 168920,
-      "name": "Don't Be Sorry Be Careful",
-      "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
       "duration_ms": 254533,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+      "duration_ms": 168920,
+      "name": "Don't Be Sorry Be Careful",
+      "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
     },
     {
       "added_at": null,

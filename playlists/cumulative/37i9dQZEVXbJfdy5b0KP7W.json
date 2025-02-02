@@ -13268,10 +13268,28 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 186096,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "album": {
+        "name": "Hasta Que Salga el Sol",
+        "url": "https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/6XUhm8HUzw0BFNf7NKk1E4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,352 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,351 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 39 | [When U Came Into My Life](https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF) | 8:07 |
 | 40 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
 | 41 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
-| 42 | [UZI](https://open.spotify.com/track/2wDFg2Kios46zh7nnObqOr) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 2:06 |
-| 43 | [culo && teta](https://open.spotify.com/track/765QWTHAHRodgT40xmEGI0) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA) | [SEXOLANDIA](https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy) | 2:32 |
+| 42 | [culo && teta](https://open.spotify.com/track/765QWTHAHRodgT40xmEGI0) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA) | [SEXOLANDIA](https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy) | 2:32 |
+| 43 | [UZI](https://open.spotify.com/track/2wDFg2Kios46zh7nnObqOr) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 2:06 |
 | 44 | [My Love for You](https://open.spotify.com/track/7mgaHZBHLNlxBnJ5uR64bf) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Come Away with ESG](https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid) | 2:57 |
 | 45 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
 | 46 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |

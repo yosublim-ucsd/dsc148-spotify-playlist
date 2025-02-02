@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 11823,
+  "num_followers": 11830,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAD7QKRlCGeucvt++GcLZ/0j",
+  "snapshot_id": "Z5wSgAAAAADE0pudA67cYhNaghHUIF+Q",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 255553,
+      "name": "From The Rising",
+      "url": "https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okemmuo (The Spirit of the Spirit)",
         "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 354986,
       "name": "Okemmuo (The Spirit of the Spirit)",
       "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 255553,
-      "name": "From The Rising",
-      "url": "https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe"
     },
     {
       "added_at": null,

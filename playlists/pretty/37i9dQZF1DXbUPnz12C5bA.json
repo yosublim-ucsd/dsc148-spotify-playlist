@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 136168,
+  "num_followers": 136287,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -435,8 +435,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+        "name": "Lo Que Tu Necesitas",
+        "url": "https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k"
       },
       "artists": [
         {
@@ -446,15 +446,11 @@
         {
           "name": "Jimmy Zambrano",
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 292800,
-      "name": "Todo No Puede Llamarse Amor (with V\u00edctor Manuelle)",
-      "url": "https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r"
+      "duration_ms": 227360,
+      "name": "Lo Que T\u00fa Necesitas",
+      "url": "https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -599,8 +595,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Lo Que Tu Necesitas",
-        "url": "https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k"
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
       "artists": [
         {
@@ -610,11 +606,15 @@
         {
           "name": "Jimmy Zambrano",
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 227360,
-      "name": "Lo Que T\u00fa Necesitas",
-      "url": "https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww"
+      "duration_ms": 292800,
+      "name": "Todo No Puede Llamarse Amor (with V\u00edctor Manuelle)",
+      "url": "https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r"
     },
     {
       "added_at": "2024-05-28 19:20:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,319 likes - 211 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,346 likes - 211 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

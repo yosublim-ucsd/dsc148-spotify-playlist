@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rodolfo Abrantes",
-  "num_followers": 142856,
+  "num_followers": 142897,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,30 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
+        "name": "Leva-Me Al\u00e9m (One ao Vivo)",
+        "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        },
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Leva-Me Al\u00e9m (One ao Vivo)",
+      "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
         "name": "Ele \u00e9 o Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU"
       },
@@ -1107,22 +1131,6 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
-        "name": "Profundo",
-        "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 323440,
-      "name": "Simplesmente",
-      "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
         "name": "No Ritmo da Vida, Vol. 2",
         "url": "https://open.spotify.com/album/5npqpfuqnZuPm3GuMbeXyq"
       },
@@ -1135,6 +1143,22 @@
       "duration_ms": 405615,
       "name": "Apocalipse",
       "url": "https://open.spotify.com/track/38kTsofFJ5HWEbYRvysdJw"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
+        "name": "Profundo",
+        "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 323440,
+      "name": "Simplesmente",
+      "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
     },
     {
       "added_at": "2025-01-31 03:01:20",
@@ -1167,30 +1191,6 @@
       "duration_ms": 283933,
       "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "Leva-Me Al\u00e9m (One ao Vivo)",
-        "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        },
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Leva-Me Al\u00e9m (One ao Vivo)",
-      "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
     },
     {
       "added_at": "2025-01-31 03:01:20",

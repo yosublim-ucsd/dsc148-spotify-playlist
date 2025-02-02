@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > The Weeknd au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,006 likes - 106 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,035 likes - 106 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

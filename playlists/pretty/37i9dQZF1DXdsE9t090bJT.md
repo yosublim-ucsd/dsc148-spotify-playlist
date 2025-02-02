@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,542 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,557 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 31 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |
 | 32 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 |
 | 33 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 |
-| 34 | [Enculado](https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:27 |
-| 35 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 |
+| 34 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 |
+| 35 | [Enculado](https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:27 |
 | 36 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
 | 37 | [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 |
 | 38 | [Tu Coquette](https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Tu Coquette](https://open.spotify.com/album/2nzgoe1ec0d2nZt5fkU44o) | 2:22 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 84 | [No Hay Nadie Mas](https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE), [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [No Hay Nadie Mas](https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu) | 3:43 |
 | 85 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 |
 | 86 | [Nuestras Vidas](https://open.spotify.com/track/2Hi7EbQELE4aJHLbP05v1P) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Nuestras Vidas](https://open.spotify.com/album/50sHLZrA8kqPy9Xw5bbj8C) | 3:03 |
-| 87 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
-| 88 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
+| 87 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
+| 88 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
 | 89 | [Dormir No He Podido](https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Dormir No He Podido](https://open.spotify.com/album/6pLIBusy2DZAWfm9c77F0M) | 2:57 |
 | 90 | [Ando Free](https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [Ando Free](https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv) | 2:04 |
 | 91 | [La Bebesita](https://open.spotify.com/track/4UAzgCrE77nyGWm2E2XxMq) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD), [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [La Bebesita](https://open.spotify.com/album/1J0rKEarrykyd3N3nnXjXs) | 2:50 |

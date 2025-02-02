@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Daniel, Me Est\u00e1s Matando en portada.",
-  "num_followers": 542746,
+  "num_followers": 542789,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
-        "name": "SALUDITOS A LOS EX",
-        "url": "https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ"
-      },
-      "artists": [
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "SALUDITOS A LOS EX",
-      "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
-    },
-    {
-      "added_at": "2025-01-31 06:00:23",
-      "album": {
         "name": "Amores Ajenos",
         "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+        "name": "SALUDITOS A LOS EX",
+        "url": "https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
         }
       ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+      "duration_ms": 173001,
+      "name": "SALUDITOS A LOS EX",
+      "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -931,6 +915,22 @@
       "duration_ms": 192123,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
+    },
+    {
+      "added_at": "2025-01-31 06:00:23",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -1187,18 +1187,22 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+        "name": "Noche Sensacional",
+        "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Chabuco",
+          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
+        },
+        {
+          "name": "Dayhan D\u00edaz",
+          "url": "https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+      "duration_ms": 197000,
+      "name": "Noche Sensacional",
+      "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
-        "name": "Noche Sensacional",
-        "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
       },
       "artists": [
         {
-          "name": "Chabuco",
-          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
-        },
-        {
-          "name": "Dayhan D\u00edaz",
-          "url": "https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Noche Sensacional",
-      "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
-    },
-    {
-      "added_at": "2025-01-31 06:00:23",
-      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2025-01-31 06:00:23",
+      "album": {
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2025-01-31 06:00:23",
+      "album": {
         "name": "Noche no te vayas",
         "url": "https://open.spotify.com/album/30ptyLQeDVcUk1pwrcViIs"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 221826,
       "name": "Noche no te vayas",
       "url": "https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD"
-    },
-    {
-      "added_at": "2025-01-31 06:00:23",
-      "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
+    },
+    {
+      "added_at": "2025-01-31 06:00:23",
+      "album": {
         "name": "En las Noches",
         "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
       },
@@ -1563,6 +1579,22 @@
       "duration_ms": 239412,
       "name": "En las Noches",
       "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
+    },
+    {
+      "added_at": "2025-01-31 06:00:23",
+      "album": {
+        "name": "Enclave de Bolero",
+        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Sin Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0ICVsFzO2T3j2FJ54rmFxk"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -1583,38 +1615,6 @@
       "duration_ms": 195728,
       "name": "Mi Alma Gemela Muri\u00f3",
       "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
-    },
-    {
-      "added_at": "2025-01-31 06:00:23",
-      "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 207997,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
-    },
-    {
-      "added_at": "2025-01-31 06:00:23",
-      "album": {
-        "name": "Triolog\u00eda",
-        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -1712,9 +1712,25 @@
           "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Sin Raz\u00f3n",
-      "url": "https://open.spotify.com/track/0ICVsFzO2T3j2FJ54rmFxk"
+      "duration_ms": 207997,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
+    },
+    {
+      "added_at": "2025-01-31 06:00:23",
+      "album": {
+        "name": "Lo esencial de Or\u00edgenes: El Bolero",
+        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "No me reproches",
+      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
     },
     {
       "added_at": "2025-01-31 06:00:23",
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
-        "name": "Lo esencial de Or\u00edgenes: El Bolero",
-        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "No me reproches",
-      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
-    },
-    {
-      "added_at": "2025-01-31 06:00:23",
-      "album": {
         "name": "Una Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
       },
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2025-01-31 06:00:23",
       "album": {
-        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
-        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
         }
       ],
-      "duration_ms": 235453,
-      "name": "No Olvides Recordarme - En Vivo",
-      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
+      "duration_ms": 197553,
+      "name": "Por Debajo de la Mesa",
+      "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
     }
   ],
   "unique_name": "Boleros Pop",

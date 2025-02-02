@@ -4,7 +4,7 @@
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-143 songs - 7 hr 49 min
+144 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ave Maria, CG 89a](https://open.spotify.com/track/6WZfWTrVPlMxECk2GYZEm7) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [Ave Maria, CG 89a](https://open.spotify.com/album/4l3rl0NWMomjn1QrQeCtw3) | 2:43 | 2019-12-21 |  |
 | [Avril 14th](https://open.spotify.com/track/6LiHbWmbsI0QIA3nhc5Phr) | [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Avril 14th](https://open.spotify.com/album/1oCLhF1msyosStJwWuc7kX) | 1:42 | 2019-07-05 |  |
 | [Bach: Prelude Piano Variation \(After Cello Suite No\. 1, BWV 1007, Arr\. for Piano by Tim Allhoff\)](https://open.spotify.com/track/6NShOKK9OiFQoM3vwAnDvu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Bach: Prelude Piano Variation \(From Cello Suite No\. 1, BWV 1007, Arr\. for Piano by Tim Allhoff\)](https://open.spotify.com/album/1H98oHKyP6vU6CLkfjSACM) | 1:58 | 2023-08-29 |  |
+| [Beautiful Blossoms](https://open.spotify.com/track/44LzfRe95WyZGf2U5LJT4F) | [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn), [Mumintrollen](https://open.spotify.com/artist/6SXUdE8lwqmLKPQgyGrpUP) | [Beautiful Blossoms](https://open.spotify.com/album/6MaxQWVji2jW4GlyyErVhl) | 2:33 | 2025-02-01 |  |
 | [Belle de Nuit](https://open.spotify.com/track/1kz9kj5yn4fIfzAjtxDhp3) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Belle de Nuit](https://open.spotify.com/album/6uvEZdsKn7Rqa7W24y5O5X) | 5:12 | 2023-03-17 |  |
 | [Bring Him Home](https://open.spotify.com/track/3FvgjfERD2q146UmzjNTc4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:15 | 2022-12-01 |  |
 | [Brotin](https://open.spotify.com/track/1ByjUtjfHISyPBH1m4uhvT) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Brotin](https://open.spotify.com/album/1z8AVAZZ8MwD6Q3gBL2IEH) | 3:15 | 2021-01-31 |  |

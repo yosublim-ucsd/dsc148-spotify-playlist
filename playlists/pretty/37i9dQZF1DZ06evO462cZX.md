@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,690 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,701 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 26 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
 | 27 | [Camaron Pelao](https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Camaron Pelao](https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF) | 3:30 |
 | 28 | [Cuando](https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D) | 2:50 |
-| 29 | [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 |
-| 30 | [Bootie in Your Face \- No Rock Drop](https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Bootie in Your Face \(No Rock Drop\)](https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9) | 3:41 |
+| 29 | [Bootie in Your Face \- No Rock Drop](https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Bootie in Your Face \(No Rock Drop\)](https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9) | 3:41 |
+| 30 | [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 |
 | 31 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 |
 | 32 | [Te Va a Doler \- Deorro Remix](https://open.spotify.com/track/3fGULDOpjc4bmDvTvPrvaP) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [A Mucha Honra](https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG) | 3:14 |
 | 33 | [You Are Not Alone \(feat\. Dear Sara\)](https://open.spotify.com/track/310TW3iypnMo8laEWughHb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Reflect](https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx) | 3:09 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 48 | [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 |
 | 49 | [Knockout](https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Knockout](https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2) | 2:23 |
 | 50 | [Esta Vida \- Deorro Remix](https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Esta Vida \(Deorro Remix\)](https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl) | 3:59 |
-| 51 | [Cayendo](https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Elevation EP](https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J) | 4:00 |
+| 51 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 
-Snapshot ID: `Z5rBAAAAAAD0x18bz9xG4anvJBcRkROw`
+Snapshot ID: `Z5wSgAAAAADlZ5O14/I61kvQF4200N4a`

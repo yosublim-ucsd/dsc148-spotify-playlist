@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,459 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,471 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 47 | [REAL MOVE TOUCH](https://open.spotify.com/track/3PISUiCZILLzJJSp3c3GhE) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 4:11 |
 | 48 | [4eva](https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [4eva](https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8) | 2:20 |
 | 49 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 |
-| 50 | [To Unknownia](https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [To Unknownia](https://open.spotify.com/album/55ScptS5oIVplKya1URUXP) | 4:03 |
+| 50 | [Bloom: Small World](https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Peter Chilvers](https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe) | [Bloom: Living World \- Single](https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu) | 5:34 |
 
-Snapshot ID: `Z5zrnAAAAADhr9n0K+ECZd6HKtId7CzR`
+Snapshot ID: `Z54nfAAAAACiUAUKSUMsPlaGa94+qui1`

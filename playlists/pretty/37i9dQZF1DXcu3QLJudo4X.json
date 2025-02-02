@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 111108,
+  "num_followers": 111190,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 256533,
       "name": "Sweet Home Chicago",
       "url": "https://open.spotify.com/track/31NrEjRvAP4ot9Mj3DWIqa"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
     },
     {
       "added_at": "2024-06-02 16:42:51",

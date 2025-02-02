@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 126136,
+  "num_followers": 126212,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 297320,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Recorded Fall '61",
         "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 297320,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Sony Jazz Collection",
-        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 224053,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Sony Jazz Collection",
+        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -907,22 +907,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+      "duration_ms": 405853,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -943,22 +943,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         },
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 405853,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
+      "duration_ms": 181666,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Everybody Still Digs Bill Evans",
-        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/6W5H7ELG8CsfvslV2WnvZ5"
-        }
-      ],
-      "duration_ms": 454186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
         "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 198223,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Everybody Still Digs Bill Evans",
+        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/6W5H7ELG8CsfvslV2WnvZ5"
+        }
+      ],
+      "duration_ms": 454186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Small Groups: 1941-1945",
-        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Quintet",
-          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 496893,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Small Groups: 1941-1945",
+        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman Quintet",
+          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/1xm6smpnum5PTvl4QL1tsJ"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansson",
-          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/1xm6smpnum5PTvl4QL1tsJ"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
         }
       ],
-      "duration_ms": 386773,
-      "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
+      "duration_ms": 320693,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1819,6 +1803,22 @@
       "duration_ms": 253133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 386773,
+      "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "The Real... Toots Thielemans",
-        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Bluesette",
-      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 259000,
       "name": "Can't We Be Friends",
       "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "The Real... Toots Thielemans",
+        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
     },
     {
       "added_at": "2024-07-08 06:51:47",

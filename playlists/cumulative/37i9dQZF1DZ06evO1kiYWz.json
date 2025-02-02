@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Delirios M\u00edsticos",
+        "url": "https://open.spotify.com/album/2rY8Ao8BHIwoaq1eUQTMwi"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390116,
+      "name": "Delirios M\u00edsticos",
+      "url": "https://open.spotify.com/track/3PYTRs8tzospUhQpSLNAPK"
+    },
+    {
+      "album": {
         "name": "Tardes Fr\u00edas De Verano",
         "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
       },

@@ -4,7 +4,7 @@
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-464 songs - 1 day 5 hr 36 min
+465 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Bigger](https://open.spotify.com/track/4yeCEKXABBnaKP4qHC0G6V) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Soft Power](https://open.spotify.com/album/6CTw5u8BXTze72mbMcah1s) | 3:18 | 2025-01-06 |  |
 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 | 2023-09-04 | 2024-06-01 |
 | [Blame Me](https://open.spotify.com/track/2Y0ttkLBCCT1ID8a5TbxHf) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Blame Me](https://open.spotify.com/album/6bLKsmVmjEwJb1Gs5boxmN) | 2:49 | 2024-02-02 | 2024-03-23 |
+| [Bloom: Small World](https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Peter Chilvers](https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe) | [Bloom: Living World \- Single](https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu) | 5:34 | 2025-02-01 |  |
 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 | 2024-01-11 | 2024-03-23 |
 | [blu](https://open.spotify.com/track/5gNEUS6Ca9zxn5yYDiyTgK) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blu](https://open.spotify.com/album/757Mnb96yy0jT7po5qnvuU) | 2:16 | 2024-05-23 | 2024-07-10 |
 | [Bola Oro](https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Bola Oro](https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2) | 4:05 | 2023-05-24 | 2024-06-25 |
@@ -425,7 +426,7 @@
 | [Three Little Birds](https://open.spotify.com/track/6z57WJ5dJzqRE310vPa4ng) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rylyn Clark](https://open.spotify.com/artist/6kNu4a4naUgu4t6eaePJ5k) | [Three Little Birds](https://open.spotify.com/album/0BD4o1DUnDP5DgMEfFqfWs) | 2:21 | 2024-07-12 | 2024-12-21 |
 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 | 2023-05-24 | 2023-06-15 |
 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 | 2025-01-15 |  |
-| [To Unknownia](https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [To Unknownia](https://open.spotify.com/album/55ScptS5oIVplKya1URUXP) | 4:03 | 2024-12-23 |  |
+| [To Unknownia](https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [To Unknownia](https://open.spotify.com/album/55ScptS5oIVplKya1URUXP) | 4:03 | 2024-12-23 | 2025-02-02 |
 | [Toda Cor](https://open.spotify.com/track/2rxfuico35HgTvoD28LJ4B) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [anaiis & Grupo Cosmo](https://open.spotify.com/album/3cGl99a7vbyNmsgGIoJtKi) | 3:51 | 2025-01-10 |  |
 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-21 | 2023-06-08 |
 | [TONY MONTANA](https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [TONY MONTANA](https://open.spotify.com/album/5WzMhrOgTyRoMNMPvvRhI0) | 3:35 | 2024-07-05 | 2024-08-23 |

@@ -1,6 +1,6 @@
 {
   "description": "amo a natureza / foto: SZA",
-  "num_followers": 610225,
+  "num_followers": 610201,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,26 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 308575,
+      "name": "Wake Me Up (feat. Justice)",
+      "url": "https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -459,6 +479,22 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
         "name": "KEHLANI (REMIX) [feat. Kehlani]",
         "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
       },
@@ -479,18 +515,22 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 222647,
-      "name": "ALL MY LOVE",
-      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "added_at": "2025-01-31 03:01:20",
@@ -587,42 +627,6 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
-        "name": "Looking For Love",
-        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173193,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "15 MINUTES",
-        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 189192,
-      "name": "15 MINUTES",
-      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
         "name": "WE PRAY (TINI Version)",
         "url": "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO"
       },
@@ -655,6 +659,26 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173193,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu"
       },
@@ -671,22 +695,18 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
-        "name": "Talk talk featuring troye sivan",
-        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+        "name": "15 MINUTES",
+        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 173076,
-      "name": "Talk talk featuring troye sivan",
-      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+      "duration_ms": 189192,
+      "name": "15 MINUTES",
+      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
     },
     {
       "added_at": "2025-01-31 03:01:20",
@@ -779,6 +799,42 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
+        "name": "LOVE LOOKS PRETTY ON YOU",
+        "url": "https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "LOVE LOOKS PRETTY ON YOU",
+      "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
       },
@@ -835,22 +891,6 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -867,6 +907,38 @@
       "duration_ms": 178064,
       "name": "Whine",
       "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
+        "name": "WOMAN\u2019S WORLD",
+        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "WOMAN\u2019S WORLD",
+      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "added_at": "2025-01-31 03:01:20",
@@ -907,22 +979,6 @@
       "duration_ms": 102857,
       "name": "Rough",
       "url": "https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "WOMAN\u2019S WORLD",
-        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "WOMAN\u2019S WORLD",
-      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
     },
     {
       "added_at": "2025-01-31 03:01:20",
@@ -1179,22 +1235,6 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
-        "name": "LOVE LOOKS PRETTY ON YOU",
-        "url": "https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "LOVE LOOKS PRETTY ON YOU",
-      "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
         "name": "Swallow My Tears",
         "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
       },
@@ -1227,42 +1267,6 @@
       "duration_ms": 197142,
       "name": "GORGEOUS (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/2S80V07FaYjuQebMJ0UQPV"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 308575,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     }
   ],
   "unique_name": "SUPERNOVA",

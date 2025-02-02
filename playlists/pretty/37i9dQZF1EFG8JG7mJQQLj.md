@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,230 likes - 472 songs - 1 day 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,237 likes - 472 songs - 1 day 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,8 +209,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 199 | [Born](https://open.spotify.com/track/797fEwjPjyNhkoQCHDkzne) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:25 |
 | 200 | [Wildfire](https://open.spotify.com/track/40MNdK1qPu8kDB0cSI51ds) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:19 |
 | 201 | [Do It Well](https://open.spotify.com/track/2dOcfwJpfgGLcB4vPi8YXf) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Brave](https://open.spotify.com/album/7i3VnuGAGi7howNQLPRhgJ) | 3:05 |
-| 202 | [Fingertips](https://open.spotify.com/track/7FQgwxkgClQLTwEilUlscr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:15 |
-| 203 | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf) | 2:55 |
+| 202 | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf) | 2:55 |
+| 203 | [Fingertips](https://open.spotify.com/track/7FQgwxkgClQLTwEilUlscr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:15 |
 | 204 | [Life To Come](https://open.spotify.com/track/6jMRqEHVRC3iamsSscJlbz) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:31 |
 | 205 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 |
 | 206 | [I'mma Shine](https://open.spotify.com/track/7LvDfcymjzQW14el1x6Vs3) | [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq) | [Step Up \- Original Soundtrack](https://open.spotify.com/album/02W2pKViYFgqy9JR7XpRio) | 3:36 |
@@ -259,8 +259,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 249 | [Lose My Number](https://open.spotify.com/track/3jLfPfi88liLV6Exc6sLrN) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:28 |
 | 250 | [This Ain't Goodbye](https://open.spotify.com/track/2nbdAzvO2N9oT40uN5l6EG) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 4:23 |
 | 251 | [Waking Up](https://open.spotify.com/track/1GQO5U0Sx74BUoH1faCUWC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 6:07 |
-| 252 | [Remember Me](https://open.spotify.com/track/724YX9T0xMHcZMXMHfj8qf) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Remember Me](https://open.spotify.com/album/0gWjs23KK3QgHxTbeUrTwf) | 3:52 |
-| 253 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 |
+| 252 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 |
+| 253 | [Remember Me](https://open.spotify.com/track/724YX9T0xMHcZMXMHfj8qf) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Remember Me](https://open.spotify.com/album/0gWjs23KK3QgHxTbeUrTwf) | 3:52 |
 | 254 | [Navy Blue](https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Navy Blue](https://open.spotify.com/album/3fa2dzsrpIZBgUniutmj7V) | 2:41 |
 | 255 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
 | 256 | [Reach Out](https://open.spotify.com/track/0NzKUImAsFDEvL4uDp1Lrz) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Reach Out](https://open.spotify.com/album/2nNquxV1Z0STeEB04RHWT7) | 4:16 |
@@ -481,4 +481,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 471 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 472 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AboXyAAAAAAp3jkYT5Hb7nvaSHHSLcDc`
+Snapshot ID: `AbodVAAAAADach7krROpPWGouoxvR2ES`

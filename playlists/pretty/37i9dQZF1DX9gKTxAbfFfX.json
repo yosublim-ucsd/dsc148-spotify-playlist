@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 750963,
+  "num_followers": 750915,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "GOTTI A",
-        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 167315,
-      "name": "De Vuelta",
-      "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 237900,
       "name": "La Historia",
       "url": "https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "GOTTI A",
+        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 167315,
+      "name": "De Vuelta",
+      "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "La Vida Sin Ti",
-        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        }
-      ],
-      "duration_ms": 164470,
-      "name": "La Vida Sin Ti",
-      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "El Fin del Mundo",
         "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "La Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
     },
     {
       "added_at": "2024-09-02 07:47:14",

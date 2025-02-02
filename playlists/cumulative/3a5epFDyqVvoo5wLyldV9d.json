@@ -9629,6 +9629,28 @@
     },
     {
       "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Judy Santos",
+          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254720,
+      "name": "Obsesion",
+      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
+    },
+    {
+      "album": {
         "name": "Club Coco",
         "url": "https://open.spotify.com/album/6oBPgqrxkG0SrBJIq6xLHK"
       },

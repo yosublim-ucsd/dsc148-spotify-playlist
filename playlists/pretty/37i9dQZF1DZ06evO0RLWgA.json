@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 49907,
+  "num_followers": 49915,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAAI4RuxLwRQ7r1KrJ8q4Ni7",
+  "snapshot_id": "Z5wSgAAAAACdJ2Pn4kvkz1+dcHBEyIgj",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Mr. Lucky",
-      "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
+      "duration_ms": 158800,
+      "name": "Cry Before I Go",
+      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Cry Before I Go",
-      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+      "duration_ms": 172400,
+      "name": "Mr. Lucky",
+      "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319693,
+      "name": "Annie Mae (2007 - Remaster)",
+      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Serve You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
       },
@@ -591,26 +607,6 @@
       "duration_ms": 143693,
       "name": "Money",
       "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Serves Me Right to Suffer / Syndicator (feat. Van Morrison) (2007 Remaster)",
-      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
     },
     {
       "added_at": null,
@@ -647,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Serves Me Right to Suffer / Syndicator (feat. Van Morrison) (2007 Remaster)",
+      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 164933,
       "name": "No More Doggin'",
       "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 319693,
-      "name": "Annie Mae (2007 - Remaster)",
-      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Tupelo (2007 - Remaster)",
-      "url": "https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
       },
@@ -787,28 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
       "artists": [
         {
@@ -816,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 167335,
-      "name": "Drug Store Woman",
-      "url": "https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo"
+      "duration_ms": 238173,
+      "name": "Tupelo (2007 - Remaster)",
+      "url": "https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB"
     },
     {
       "added_at": null,
@@ -839,6 +803,42 @@
       "duration_ms": 277000,
       "name": "Cuttin' Out (feat. Canned Heat)",
       "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167335,
+      "name": "Drug Store Woman",
+      "url": "https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
     },
     {
       "added_at": null,

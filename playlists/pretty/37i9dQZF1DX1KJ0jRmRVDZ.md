@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,451 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,447 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 14 | [WAVERED \(feat\. 水槽\)](https://open.spotify.com/track/1067oA4D7n32z3agcL1Ern) | [Oblongar](https://open.spotify.com/artist/6iPNWiDiSp5mNhQFgtgJWz), [That Fancy I](https://open.spotify.com/artist/15fSvdx1tBXP6uwf0vfNIj), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [THE RAVING SIMULATOR 2](https://open.spotify.com/album/2wQsEhlv9UbI5IsaApmpVm) | 4:22 |
 | 15 | [都会病](https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [都会病](https://open.spotify.com/album/1wnpmwE6gkJC9HCtHb2Mls) | 2:06 |
 | 16 | [亜東京 \(feat\. キタニタツヤ\)](https://open.spotify.com/track/3RUXMUcuFnfMgI20Tx5LeT) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:55 |
-| 17 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
+| 17 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 |
 | 18 | [レクイエム \(星街すいせい ver.\)](https://open.spotify.com/track/1pRdirTd0CFcvdTd0g9DXx) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:37 |
 | 19 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
 | 20 | [Arareya Kon Kon](https://open.spotify.com/track/6xJuVKR1Aiy0vCWzwMKqom) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Arareya Kon Kon](https://open.spotify.com/album/36JCl2uqvus4rRaKNnaa61) | 3:33 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 22 | [USHIROJIKAN](https://open.spotify.com/track/4edLH5vWiR4oZPdzkNA83L) | [yuri](https://open.spotify.com/artist/5wPk5S4evPJCbmEQdkVCBJ) | [USHIROJIKAN](https://open.spotify.com/album/3La40n3qbHz4V0il9R1aUA) | 2:21 |
 | 23 | [ネバーアンダースタンド](https://open.spotify.com/track/2holacC9fyoJwCYjHyb5Qb) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [Friend Chord](https://open.spotify.com/album/3E960t2SiUHefL78jhb2cz) | 3:48 |
 | 24 | [芝居の終焉](https://open.spotify.com/track/6wTfkkgv9GyWPsCuaXwQ2Z) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Deconstruction β EP](https://open.spotify.com/album/2mUXTlRyzY51KHIF2W6P0Z) | 3:23 |
-| 25 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 |
+| 25 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
 | 26 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 27 | [独祭民話](https://open.spotify.com/track/6oZHOGfrdj8HLXDiVqr8PX) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [生生動動](https://open.spotify.com/album/5oCaow3OFfF1h50scqXM3T) | 3:12 |
 | 28 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |

@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "album": {
         "name": "Can We Pretend (The Remixes) (feat. Cash Cash)",
         "url": "https://open.spotify.com/album/0G5SBhGfYhS1n8b6HWNPEB"
       },
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 236332,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY"
@@ -11017,6 +11035,28 @@
     },
     {
       "album": {
+        "name": "Colorize Winter Sampler 2025",
+        "url": "https://open.spotify.com/album/4RCLhJq0ksv7mKJYDQZExx"
+      },
+      "artists": [
+        {
+          "name": "SNS8",
+          "url": "https://open.spotify.com/artist/7KEQcHk8v5EVlMYqH8Rdjz"
+        },
+        {
+          "name": "LAUT",
+          "url": "https://open.spotify.com/artist/53Wp6UjE2GmHCan82PxtmM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/1n7RWnghX8DCYFVBeZVpHA"
+    },
+    {
+      "album": {
         "name": "The Long Way Home",
         "url": "https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk"
       },
@@ -15706,7 +15746,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 194730,
       "name": "Lost",
       "url": "https://open.spotify.com/track/7ihVBzv0Gz10R2OnyBDuEk"

@@ -1,6 +1,6 @@
 {
   "description": "the best new metalcore - where brutality and technicality collide. Cover: Great American Ghost",
-  "num_followers": 939741,
+  "num_followers": 939817,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
         "name": "Vol. 3",
         "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 217830,
       "name": "Spare Me",
       "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw"
-      },
-      "artists": [
-        {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -371,18 +371,18 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw"
       },
       "artists": [
         {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
         }
       ],
-      "duration_ms": 234931,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+      "duration_ms": 215733,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 232702,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
         "name": "Fatalism",
         "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 268269,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
-        "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
-        "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
-      },
-      "artists": [
-        {
-          "name": "Autumn Kings",
-          "url": "https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8"
-        }
-      ],
-      "duration_ms": 216716,
-      "name": "SLEEP WHEN I\u2019M DEAD",
-      "url": "https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV"
+        "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
+        "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
       },
       "artists": [
         {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+          "name": "Autumn Kings",
+          "url": "https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8"
         }
       ],
-      "duration_ms": 232702,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8"
+      "duration_ms": 216716,
+      "name": "SLEEP WHEN I\u2019M DEAD",
+      "url": "https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Conflict",
-        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Conflict",
-      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
         "name": "Bad Dreams (feat. Of Virtue)",
         "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
+        "name": "Conflict",
+        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Conflict",
+      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "they\u2019re all around us",
-        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
+        "name": "Solace In Silence",
+        "url": "https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
         }
       ],
-      "duration_ms": 204540,
-      "name": "they\u2019re all around us",
-      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
+      "duration_ms": 176095,
+      "name": "Solace In Silence",
+      "url": "https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -627,6 +627,22 @@
       "duration_ms": 231960,
       "name": "What If I Burn",
       "url": "https://open.spotify.com/track/4afrXoJM8GTpASPVzBGUYK"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
+        "name": "they\u2019re all around us",
+        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 204540,
+      "name": "they\u2019re all around us",
+      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -667,22 +683,6 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Solace In Silence",
-        "url": "https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9"
-      },
-      "artists": [
-        {
-          "name": "Not Enough Space",
-          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
-        }
-      ],
-      "duration_ms": 176095,
-      "name": "Solace In Silence",
-      "url": "https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
         "name": "Hatred",
         "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "FiftyFive",
-        "url": "https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K"
-      },
-      "artists": [
-        {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "FiftyFive",
-      "url": "https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
         "name": "Exhumed",
         "url": "https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 234854,
       "name": "Exhumed",
       "url": "https://open.spotify.com/track/704Eo3Eekkgmi99DXUbYXn"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
+        "name": "FiftyFive",
+        "url": "https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "FiftyFive",
+      "url": "https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
+        "name": "Silver Swarm",
+        "url": "https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 273524,
+      "name": "Silver Swarm",
+      "url": "https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
         "name": "Continuum (Feat. Niklas Karlsson)",
         "url": "https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw"
       },
@@ -947,6 +963,26 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
+        "name": "Atonement (feat. Will Ramos)",
+        "url": "https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        }
+      ],
+      "duration_ms": 232254,
+      "name": "Atonement - feat. Will Ramos",
+      "url": "https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
         "name": "Made For Love",
         "url": "https://open.spotify.com/album/4e4eup3w1C6oG01P6hjAAg"
       },
@@ -979,26 +1015,6 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Atonement (feat. Will Ramos)",
-        "url": "https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf"
-      },
-      "artists": [
-        {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
-        },
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
-        }
-      ],
-      "duration_ms": 232254,
-      "name": "Atonement - feat. Will Ramos",
-      "url": "https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
         "name": "TOMBSTONE",
         "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 178400,
       "name": "TOMBSTONE",
       "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
+        "name": "AntiFragile",
+        "url": "https://open.spotify.com/album/3IFjSlXvV4NUaT8oj4jfS2"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 263622,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/7zt0lB2yZxjkfr2T224gHZ"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1031,6 +1063,22 @@
       "duration_ms": 193553,
       "name": "FUHAI",
       "url": "https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
+        "name": "Drawn, Conned & Deceived",
+        "url": "https://open.spotify.com/album/20rWl9qSSJy31dvRXwAtWH"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "duration_ms": 190815,
+      "name": "Drawn, Conned & Deceived",
+      "url": "https://open.spotify.com/track/6vIOOhYiLRUBorAMnAsBso"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1067,38 +1115,6 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Drawn, Conned & Deceived",
-        "url": "https://open.spotify.com/album/20rWl9qSSJy31dvRXwAtWH"
-      },
-      "artists": [
-        {
-          "name": "The Narrator",
-          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
-        }
-      ],
-      "duration_ms": 190815,
-      "name": "Drawn, Conned & Deceived",
-      "url": "https://open.spotify.com/track/6vIOOhYiLRUBorAMnAsBso"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
-        "name": "Nightmare (The Devil)",
-        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 201110,
-      "name": "Nightmare (The Devil)",
-      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
         "name": "Reincarnate: 10 Year Anniversary",
         "url": "https://open.spotify.com/album/4JeIjV5hjOfr1WcKLMySzz"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Vestige",
-        "url": "https://open.spotify.com/album/0YsWVz8MPLPmDHNKtjVxDS"
+        "name": "Nightmare (The Devil)",
+        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
       },
       "artists": [
         {
-          "name": "Mirrors",
-          "url": "https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD"
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
         }
       ],
-      "duration_ms": 232286,
-      "name": "Vestige",
-      "url": "https://open.spotify.com/track/4aNtdkbAxm7E1gJiqA95r9"
+      "duration_ms": 201110,
+      "name": "Nightmare (The Devil)",
+      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "HYPERVIOLENCE",
-        "url": "https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Tabula Rasa",
-      "url": "https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
         "name": "Lore",
         "url": "https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB"
       },
@@ -1187,6 +1187,38 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
+        "name": "Vestige",
+        "url": "https://open.spotify.com/album/0YsWVz8MPLPmDHNKtjVxDS"
+      },
+      "artists": [
+        {
+          "name": "Mirrors",
+          "url": "https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD"
+        }
+      ],
+      "duration_ms": 232286,
+      "name": "Vestige",
+      "url": "https://open.spotify.com/track/4aNtdkbAxm7E1gJiqA95r9"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
+        "name": "HYPERVIOLENCE",
+        "url": "https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Tabula Rasa",
+      "url": "https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
         "name": "The Path",
         "url": "https://open.spotify.com/album/4iZM0ieSYmfdxaPrKceTu5"
       },
@@ -1203,6 +1235,26 @@
       "duration_ms": 291639,
       "name": "The Path",
       "url": "https://open.spotify.com/track/1O3LoiZkCtRgW3AWJ5z7fp"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
+        "name": "Back From Hell (feat. The Browning)",
+        "url": "https://open.spotify.com/album/1GA2NTC8KhpwkEe1yvBI6W"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        },
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "duration_ms": 201667,
+      "name": "Back From Hell (feat. The Browning)",
+      "url": "https://open.spotify.com/track/35lp4VnrdXC9ptYltFFY4S"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1303,6 +1355,22 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
+        "name": "Villain Arc",
+        "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 219330,
+      "name": "Villain Arc",
+      "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW"
       },
@@ -1327,22 +1395,6 @@
       "duration_ms": 202120,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
-        "name": "Villain Arc",
-        "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 219330,
-      "name": "Villain Arc",
-      "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1403,6 +1455,38 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
+        "name": "Bleeding Star",
+        "url": "https://open.spotify.com/album/3OJy1H2OZSIv8QvAhKfMj2"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Of Giants",
+          "url": "https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe"
+        }
+      ],
+      "duration_ms": 199372,
+      "name": "Scorpion",
+      "url": "https://open.spotify.com/track/7LpzmSVLxX9N2le4in8mGN"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
+    },
+    {
+      "added_at": "2025-01-31 20:54:56",
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/1aKJqetnisCdbUA6YFVROh"
       },
@@ -1423,22 +1507,6 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Bleeding Star",
-        "url": "https://open.spotify.com/album/3OJy1H2OZSIv8QvAhKfMj2"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Of Giants",
-          "url": "https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe"
-        }
-      ],
-      "duration_ms": 199372,
-      "name": "Scorpion",
-      "url": "https://open.spotify.com/track/7LpzmSVLxX9N2le4in8mGN"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
         "name": "Mana God",
         "url": "https://open.spotify.com/album/53yljPs8SPVBWJoqPTvje4"
       },
@@ -1455,18 +1523,18 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Endless Hollow",
-        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+        "name": "All For Nothing",
+        "url": "https://open.spotify.com/album/7AD4sMaffGvpkWrBOQOEoq"
       },
       "artists": [
         {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
         }
       ],
-      "duration_ms": 230733,
-      "name": "Endless Hollow",
-      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
+      "duration_ms": 248040,
+      "name": "All For Nothing",
+      "url": "https://open.spotify.com/track/4jVxw1PPpXYVtmZp6UQwmE"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1575,22 +1643,18 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Back From Hell (feat. The Browning)",
-        "url": "https://open.spotify.com/album/1GA2NTC8KhpwkEe1yvBI6W"
+        "name": "Doom + Gloom",
+        "url": "https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0"
       },
       "artists": [
         {
-          "name": "Caliban",
-          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
-        },
-        {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+          "name": "Set for Tomorrow",
+          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
         }
       ],
-      "duration_ms": 201667,
-      "name": "Back From Hell (feat. The Browning)",
-      "url": "https://open.spotify.com/track/35lp4VnrdXC9ptYltFFY4S"
+      "duration_ms": 189000,
+      "name": "Doom + Gloom",
+      "url": "https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1611,38 +1675,6 @@
       "duration_ms": 210947,
       "name": "One Hitter",
       "url": "https://open.spotify.com/track/3QLaqDs4iUMVcsshtf2aZC"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
-        "name": "Doom + Gloom",
-        "url": "https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0"
-      },
-      "artists": [
-        {
-          "name": "Set for Tomorrow",
-          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Doom + Gloom",
-      "url": "https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
-        "name": "Silver Swarm",
-        "url": "https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 273524,
-      "name": "Silver Swarm",
-      "url": "https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1679,18 +1711,18 @@
     {
       "added_at": "2025-01-31 20:54:56",
       "album": {
-        "name": "Invisible Rain",
-        "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
+        "name": "STORM ABLAZE",
+        "url": "https://open.spotify.com/album/7kYVmzEQvLY4GHnqlNARHU"
       },
       "artists": [
         {
-          "name": "Stick To Your Guns",
-          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
         }
       ],
-      "duration_ms": 159280,
-      "name": "Invisible Rain",
-      "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+      "duration_ms": 209790,
+      "name": "STORM ABLAZE",
+      "url": "https://open.spotify.com/track/4wRUMIwbXP75C8487sR4v5"
     },
     {
       "added_at": "2025-01-31 20:54:56",
@@ -1707,38 +1739,6 @@
       "duration_ms": 298834,
       "name": "The Far Side",
       "url": "https://open.spotify.com/track/3ws26a6G2rYjtAD5fK9ObC"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 260820,
-      "name": "Continuum",
-      "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
-    },
-    {
-      "added_at": "2025-01-31 20:54:56",
-      "album": {
-        "name": "A Mind Short Circuiting",
-        "url": "https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ"
-      },
-      "artists": [
-        {
-          "name": "Born Of Osiris",
-          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
-        }
-      ],
-      "duration_ms": 267956,
-      "name": "A Mind Short Circuiting",
-      "url": "https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ"
     }
   ],
   "unique_name": "The Core",

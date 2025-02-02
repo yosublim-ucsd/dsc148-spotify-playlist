@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 帝国喫茶
 
-959 songs - 2 day 10 hr 15 min
+960 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,7 @@
 | [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2023-12-26 | 2023-12-30 |
 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 | 2023-07-27 | 2023-10-20 |
 | [スニーカー](https://open.spotify.com/track/45OytbqaQtUIY6vJyJL5Hd) | [G over](https://open.spotify.com/artist/7sJ2Az7V9sP0i4dN7fh8zp) | [スニーカー](https://open.spotify.com/album/01mEWLvmpGWu8Pm5JmHW7E) | 3:19 | 2023-08-24 | 2023-11-10 |
-| [スピードを上げなくちゃ](https://open.spotify.com/track/7mC9IrCEbrnPVzLSjMPaII) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [スピードを上げなくちゃ](https://open.spotify.com/album/10PNA0jsKGVM8nZWYVHtmu) | 2:29 | 2025-01-21 | 2025-01-29 |
+| [スピードを上げなくちゃ](https://open.spotify.com/track/7mC9IrCEbrnPVzLSjMPaII) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [スピードを上げなくちゃ](https://open.spotify.com/album/10PNA0jsKGVM8nZWYVHtmu) | 2:29 | 2025-01-21 |  |
 | [スプートニク](https://open.spotify.com/track/23JERtxh6zgowlwWx1iEMx) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [スプートニク](https://open.spotify.com/album/5sEA6hsBrRbNekds1bDXMc) | 4:48 | 2024-01-09 | 2024-01-17 |
 | [スーパーキセイマン](https://open.spotify.com/track/0OQwIjAXww25CxWRIYkkT8) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [スーパーキセイマン](https://open.spotify.com/album/4IZUOz3TqNtfOWZwuwX4j2) | 3:07 | 2024-07-02 | 2024-09-11 |
 | [スーパーソニックガール](https://open.spotify.com/track/7rwKeQuNEAvVGXhWthB0Wq) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [スーパーソニックガール](https://open.spotify.com/album/7oIk2e89EVOFFeKqtsz1IX) | 3:01 | 2024-02-06 | 2024-02-08 |
@@ -638,7 +638,7 @@
 | [ホワイトアウト](https://open.spotify.com/track/6ueqIFxAqxPnFdZXKNPSrr) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 3:31 | 2023-08-15 | 2024-12-18 |
 | [ホーム](https://open.spotify.com/track/0CMCDo5iFYvJjUMaweh6dV) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ホーム](https://open.spotify.com/album/6lRRdBI3g2SvShIbhypgAV) | 2:53 | 2024-04-30 | 2024-06-01 |
 | [ホームラン](https://open.spotify.com/track/60F1CmSOKe03x9z28vk3hb) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [READ 01](https://open.spotify.com/album/2vxShV49jibjyLPWSXjmXs) | 2:24 | 2024-01-31 | 2024-02-07 |
-| [ボーイズアンドガールズ](https://open.spotify.com/track/2zcGKQTvGiFh7jOipeAOQr) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [ボーイズアンドガールズ](https://open.spotify.com/album/4Ph59dTCX84xz8j0SuxmzU) | 2:48 | 2024-12-17 |  |
+| [ボーイズアンドガールズ](https://open.spotify.com/track/2zcGKQTvGiFh7jOipeAOQr) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [ボーイズアンドガールズ](https://open.spotify.com/album/4Ph59dTCX84xz8j0SuxmzU) | 2:48 | 2024-12-17 | 2025-02-02 |
 | [ポップスター](https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [ポップスター](https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN) | 3:01 | 2024-07-30 | 2024-12-18 |
 | [ポルトロン](https://open.spotify.com/track/33uGqJENJe8VcXoVIMHQ2q) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ポルトロン](https://open.spotify.com/album/6ynx5p9eto6w5pRdiXoKzR) | 3:14 | 2023-11-28 | 2023-12-06 |
 | [マジでミラクルパワー!](https://open.spotify.com/track/1YOQbt8vUObRmTpz0LjTQV) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [マジでミラクルパワー!](https://open.spotify.com/album/6RWJVoG6NYfObvpPxvijx6) | 3:22 | 2024-01-09 | 2024-02-07 |
@@ -655,6 +655,7 @@
 | [ムソウ](https://open.spotify.com/track/1J3m0YReVzOnHsgq2jjN1L) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [ムソウ](https://open.spotify.com/album/1N9CDbU2SUWWRlopWyjILU) | 3:19 | 2023-10-17 | 2023-10-19 |
 | [メタモルフォーゼ](https://open.spotify.com/track/5WkN8jPH9tvTjRDqYOdufM) | [八木海莉](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [メタモルフォーゼ](https://open.spotify.com/album/5o6YjEGVGgdZb05AkqIwko) | 2:32 | 2023-08-08 | 2023-09-14 |
 | [メープル](https://open.spotify.com/track/6qsWBo1qkRDTUx4InuA61U) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [メープル](https://open.spotify.com/album/57hcGjbNyjoCg7eKDDx5ku) | 3:18 | 2024-04-02 | 2024-05-01 |
+| [モナリザ](https://open.spotify.com/track/3WoUfYKtpNFMeN9r1FXJc6) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [モナリザ](https://open.spotify.com/album/26TRTNmlchyyCFf21FY2FC) | 2:28 | 2025-01-28 |  |
 | [モラトリアムカレソウ](https://open.spotify.com/track/2TMaDD475fJuKpn0aPnY1b) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [モラトリアムカレソウ](https://open.spotify.com/album/4oJ9fPenAaeyLDQrpxPG0P) | 4:18 | 2023-10-17 | 2023-10-25 |
 | [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 | 2023-07-27 | 2023-10-06 |
 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 | 2024-01-23 | 2024-02-01 |
@@ -678,7 +679,7 @@
 | [リバーサイドナイト](https://open.spotify.com/track/3VroNpAxaOA7KOZmDiS1rW) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:01 | 2024-03-07 | 2024-09-18 |
 | [リプライ](https://open.spotify.com/track/4KbmOp2YdArim0V89bsUJY) | [Catfood Salmons](https://open.spotify.com/artist/6M2RO8H6cJ0b5ZFFXVMoBN) | [リプライ](https://open.spotify.com/album/5CGIMmdPEBoymMSvkuiOXj) | 3:26 | 2024-01-31 | 2024-02-07 |
 | [リーガル・ガール](https://open.spotify.com/track/62fegJpY72DfN6VJ6RWEfY) | [aug.1020](https://open.spotify.com/artist/56Sj5dh45KttT8EFLDEaAo) | [リーガル・ガール](https://open.spotify.com/album/1D3RKoWPj0hIux5Ipj2ghe) | 3:02 | 2025-01-21 |  |
-| [ルビを振れ](https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ルビを振れ](https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS) | 3:54 | 2024-11-12 |  |
+| [ルビを振れ](https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ルビを振れ](https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS) | 3:54 | 2024-11-12 | 2025-02-02 |
 | [ルーツ](https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [ルーツ](https://open.spotify.com/album/2oHZkXP1kzX5USWN7rT6dc) | 3:15 | 2025-01-14 |  |
 | [ルー・ティーン](https://open.spotify.com/track/35hr06cOrc9r7d7rFCeP7c) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [ルー・ティーン](https://open.spotify.com/album/1yjPzag78uBOQAnGXf7yWd) | 3:55 | 2023-11-07 | 2023-11-16 |
 | [レイトショー](https://open.spotify.com/track/1YjwjxIuaHKwJHOmlNkzZM) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [NOW I SAY](https://open.spotify.com/album/5lW7a87Gr4Grb7MYRfEr6R) | 3:45 | 2024-04-23 | 2024-05-01 |

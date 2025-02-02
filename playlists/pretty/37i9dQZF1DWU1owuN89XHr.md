@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,346 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,398 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 25 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
 | 26 | [Hoy Comí Con el Abuelo](https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 3:07 |
 | 27 | [Mediterraneo](https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 3:25 |
-| 28 | [Después de Ti](https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 3:04 |
-| 29 | [Todavía](https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Todavía](https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7) | 3:05 |
+| 28 | [Todavía](https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Todavía](https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7) | 3:05 |
+| 29 | [Después de Ti](https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 3:04 |
 | 30 | [Hacerte venir](https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF) | [Amaury Pérez](https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm) | [No Lo Van a Impedir](https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh) | 3:28 |
 | 31 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/4SJeNatQfW3voPrhmMgj70) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
 | 32 | [Sin Tu Latido](https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo A Cuerpo](https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5) | 5:01 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 57 | [Márgenes](https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Arde Estocolmo](https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE) | 3:13 |
 | 58 | [Noche Sin Fin y Mar](https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Noche Sin Fin y Mar](https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf) | 3:04 |
 | 59 | [Trapecistas \- En Vivo](https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Bernardo Quesada](https://open.spotify.com/artist/7tQHfY7mUkkaHtPaJaey1T) | [20 Años de Viaje, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5XJMXkdld5UNaly7xfZMtL) | 4:44 |
-| 60 | [La Flor Y El Abejorro](https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Flor Y El Abejorro](https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6) | 4:09 |
-| 61 | [Para una Imaginaria María del Carmen](https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE) | [Noel Nicola](https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR), [Santiago Feliú](https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns) | [Colección Nos Queda Su Canción, Vol\. 8: Entre Otros](https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR) | 3:26 |
+| 60 | [Para una Imaginaria María del Carmen](https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE) | [Noel Nicola](https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR), [Santiago Feliú](https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns) | [Colección Nos Queda Su Canción, Vol\. 8: Entre Otros](https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR) | 3:26 |
+| 61 | [La Flor Y El Abejorro](https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Flor Y El Abejorro](https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6) | 4:09 |
 | 62 | [Espectro](https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Joe Demikeli](https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 4:19 |
 | 63 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
 | 64 | [Esther homenaje](https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO) | [Vicente Feliú](https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT) | [Vicente Feliú](https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX) | 3:21 |

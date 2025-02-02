@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 33892,
+  "num_followers": 33907,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAAJp2RwoZ21POUYnCtjA8P8",
+  "snapshot_id": "Z5wSgAAAAACsiC8XR17nQivHLaxMc8G7",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANEXO",
-        "url": "https://open.spotify.com/album/0vwYY2uOeR2Y0KZfhbPUgp"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 155325,
-      "name": "ANEXO",
-      "url": "https://open.spotify.com/track/5mCaf24VMbBH62lCCoqIDH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 177815,
       "name": "Puro MQueen",
       "url": "https://open.spotify.com/track/1npx6ZSuv0KOIa8Pv7qCsu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANEXO",
+        "url": "https://open.spotify.com/album/0vwYY2uOeR2Y0KZfhbPUgp"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 155325,
+      "name": "ANEXO",
+      "url": "https://open.spotify.com/track/5mCaf24VMbBH62lCCoqIDH"
     },
     {
       "added_at": null,
@@ -531,6 +531,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "C ARMO",
+        "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "C ARMO",
+      "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XV Recargado",
         "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
       },
@@ -571,26 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "C ARMO",
-        "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
       },
       "artists": [
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
         }
       ],
-      "duration_ms": 182500,
-      "name": "C ARMO",
-      "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "El \u00c1guila Real (Nave 727)",
-      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e1cil Criticar (En Vivo)",
         "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 194253,
       "name": "F\u00e1cil Criticar - En Vivo",
       "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "El \u00c1guila Real (Nave 727)",
+      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
     },
     {
       "added_at": null,

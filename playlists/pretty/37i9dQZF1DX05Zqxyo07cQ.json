@@ -1,6 +1,6 @@
 {
   "description": "A trilha perfeita pra embalar seu sono / M\u00fasica perfecta para dormir",
-  "num_followers": 792817,
+  "num_followers": 792813,
   "original_name": "Hora de Dormir",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Acknowledge",
-        "url": "https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud"
-      },
-      "artists": [
-        {
-          "name": "Latehours",
-          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
-        }
-      ],
-      "duration_ms": 179324,
-      "name": "Acknowledge",
-      "url": "https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Clarify",
         "url": "https://open.spotify.com/album/6Co30XY2obzBGDs429fPgM"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 132000,
       "name": "Clarify",
       "url": "https://open.spotify.com/track/5dnYuaLxgQCzwpbO1qsS0d"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Acknowledge",
+        "url": "https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud"
+      },
+      "artists": [
+        {
+          "name": "Latehours",
+          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
+        }
+      ],
+      "duration_ms": 179324,
+      "name": "Acknowledge",
+      "url": "https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -507,18 +507,34 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Turtle tear",
-        "url": "https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT"
+        "name": "Bhavana",
+        "url": "https://open.spotify.com/album/48p430kUzvKzA1jW0ZaPJU"
       },
       "artists": [
         {
-          "name": "Huma",
-          "url": "https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA"
+          "name": "Embodied Soul",
+          "url": "https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY"
         }
       ],
-      "duration_ms": 161355,
-      "name": "Anim\u00e1lico",
-      "url": "https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0"
+      "duration_ms": 150821,
+      "name": "Bhavana",
+      "url": "https://open.spotify.com/track/6RuQwill4ZBhfcM51hPO49"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Eternal Oasis",
+        "url": "https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "duration_ms": 158166,
+      "name": "Eternal Oasis",
+      "url": "https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -539,22 +555,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Bhavana",
-        "url": "https://open.spotify.com/album/48p430kUzvKzA1jW0ZaPJU"
-      },
-      "artists": [
-        {
-          "name": "Embodied Soul",
-          "url": "https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY"
-        }
-      ],
-      "duration_ms": 150821,
-      "name": "Bhavana",
-      "url": "https://open.spotify.com/track/6RuQwill4ZBhfcM51hPO49"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Daffodilian Dreams",
         "url": "https://open.spotify.com/album/1LRYvwhy94JRhYc6yY9ovf"
       },
@@ -571,18 +571,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Eternal Oasis",
-        "url": "https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV"
+        "name": "Turtle tear",
+        "url": "https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT"
       },
       "artists": [
         {
-          "name": "Long Lake",
-          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+          "name": "Huma",
+          "url": "https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA"
         }
       ],
-      "duration_ms": 158166,
-      "name": "Eternal Oasis",
-      "url": "https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc"
+      "duration_ms": 161355,
+      "name": "Anim\u00e1lico",
+      "url": "https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -619,18 +619,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Mindful Heights",
-        "url": "https://open.spotify.com/album/6waTwZDuN0H1mFP7rZhQZK"
+        "name": "Latitude",
+        "url": "https://open.spotify.com/album/3FrqjMioXMdod4NEdio5cA"
       },
       "artists": [
         {
-          "name": "Snooze Narrator",
-          "url": "https://open.spotify.com/artist/4AIFEMrtoaGz1z3j8OXeR3"
+          "name": "Niranja",
+          "url": "https://open.spotify.com/artist/05na68HA7aLe286zVkDg7B"
         }
       ],
-      "duration_ms": 204234,
-      "name": "Mindful Heights",
-      "url": "https://open.spotify.com/track/7zGEVhbWkkwVeu15l42JCV"
+      "duration_ms": 148301,
+      "name": "Latitude",
+      "url": "https://open.spotify.com/track/7IJdncR0sFTfunKdmQqTlt"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -651,18 +651,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Latitude",
-        "url": "https://open.spotify.com/album/3FrqjMioXMdod4NEdio5cA"
+        "name": "Mindful Heights",
+        "url": "https://open.spotify.com/album/6waTwZDuN0H1mFP7rZhQZK"
       },
       "artists": [
         {
-          "name": "Niranja",
-          "url": "https://open.spotify.com/artist/05na68HA7aLe286zVkDg7B"
+          "name": "Snooze Narrator",
+          "url": "https://open.spotify.com/artist/4AIFEMrtoaGz1z3j8OXeR3"
         }
       ],
-      "duration_ms": 148301,
-      "name": "Latitude",
-      "url": "https://open.spotify.com/track/7IJdncR0sFTfunKdmQqTlt"
+      "duration_ms": 204234,
+      "name": "Mindful Heights",
+      "url": "https://open.spotify.com/track/7zGEVhbWkkwVeu15l42JCV"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Seeking Solace",
-        "url": "https://open.spotify.com/album/6Y13gSWy6ajX4IZRQleN9E"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Mounfield",
-          "url": "https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Seeking Solace",
-      "url": "https://open.spotify.com/track/4P3rf7bwHPHVl6w35aE7Ej"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Sunthread",
         "url": "https://open.spotify.com/album/3RfL5E3O6eXmGxFFcm7O8f"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 132000,
       "name": "Sunthread",
       "url": "https://open.spotify.com/track/00UONkk82og7iOStsRQtMG"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Seeking Solace",
+        "url": "https://open.spotify.com/album/6Y13gSWy6ajX4IZRQleN9E"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Mounfield",
+          "url": "https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Seeking Solace",
+      "url": "https://open.spotify.com/track/4P3rf7bwHPHVl6w35aE7Ej"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Along",
-        "url": "https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1"
-      },
-      "artists": [
-        {
-          "name": "Decan\u00f5e",
-          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
-        }
-      ],
-      "duration_ms": 165023,
-      "name": "Along",
-      "url": "https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Nama",
         "url": "https://open.spotify.com/album/1l2Fw3pQEqhvhrIwTClehd"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Visuals",
-        "url": "https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi"
+        "name": "Along",
+        "url": "https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1"
       },
       "artists": [
         {
-          "name": "Nova Issue",
-          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+          "name": "Decan\u00f5e",
+          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Visuals",
-      "url": "https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV"
+      "duration_ms": 165023,
+      "name": "Along",
+      "url": "https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -923,6 +907,38 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Unseen Paths",
+        "url": "https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY"
+      },
+      "artists": [
+        {
+          "name": "Amphose",
+          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
+        }
+      ],
+      "duration_ms": 164989,
+      "name": "Unseen Paths",
+      "url": "https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Unwinding",
+        "url": "https://open.spotify.com/album/4Fuoa1o6tL0cFRTlJF4GCN"
+      },
+      "artists": [
+        {
+          "name": "Johann Eder",
+          "url": "https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o"
+        }
+      ],
+      "duration_ms": 197749,
+      "name": "Unwinding",
+      "url": "https://open.spotify.com/track/6WKdeX144tnQNxDCDB1zlJ"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Include",
         "url": "https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Unseen Paths",
-        "url": "https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY"
+        "name": "Visuals",
+        "url": "https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi"
       },
       "artists": [
         {
-          "name": "Amphose",
-          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
         }
       ],
-      "duration_ms": 164989,
-      "name": "Unseen Paths",
-      "url": "https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm"
+      "duration_ms": 178600,
+      "name": "Visuals",
+      "url": "https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -987,38 +1003,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Unwinding",
-        "url": "https://open.spotify.com/album/4Fuoa1o6tL0cFRTlJF4GCN"
-      },
-      "artists": [
-        {
-          "name": "Johann Eder",
-          "url": "https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o"
-        }
-      ],
-      "duration_ms": 197749,
-      "name": "Unwinding",
-      "url": "https://open.spotify.com/track/6WKdeX144tnQNxDCDB1zlJ"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Manitoba",
-        "url": "https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Rhey",
-          "url": "https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe"
-        }
-      ],
-      "duration_ms": 141700,
-      "name": "Manitoba",
-      "url": "https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Copenhagen Nights",
         "url": "https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB"
       },
@@ -1051,34 +1035,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/6wVyOjxR3E0yX5y3okLyQH"
+        "name": "Manitoba",
+        "url": "https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb"
       },
       "artists": [
         {
-          "name": "Manuel Wall",
-          "url": "https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU"
+          "name": "Benjamin Rhey",
+          "url": "https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe"
         }
       ],
-      "duration_ms": 174438,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/6RPNnOJ5l8PsTea79JNWej"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Lunar Dreamscape",
-        "url": "https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU"
-      },
-      "artists": [
-        {
-          "name": "Terra Armoniosa",
-          "url": "https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Lunar Dreamscape",
-      "url": "https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE"
+      "duration_ms": 141700,
+      "name": "Manitoba",
+      "url": "https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1099,34 +1067,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/4NN6SfzljIm5dqqkCXARPY"
+        "name": "Lunar Dreamscape",
+        "url": "https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU"
       },
       "artists": [
         {
-          "name": "Benjamin Rhey",
-          "url": "https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe"
+          "name": "Terra Armoniosa",
+          "url": "https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Other",
-        "url": "https://open.spotify.com/album/2aqNrmFcYvA8L9yBx99bEb"
-      },
-      "artists": [
-        {
-          "name": "E\u00f4ne",
-          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
-        }
-      ],
-      "duration_ms": 162901,
-      "name": "Other",
-      "url": "https://open.spotify.com/track/2fg3YTYPULVQbfF7RbQqaa"
+      "duration_ms": 178264,
+      "name": "Lunar Dreamscape",
+      "url": "https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1147,6 +1099,38 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Other",
+        "url": "https://open.spotify.com/album/2aqNrmFcYvA8L9yBx99bEb"
+      },
+      "artists": [
+        {
+          "name": "E\u00f4ne",
+          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
+        }
+      ],
+      "duration_ms": 162901,
+      "name": "Other",
+      "url": "https://open.spotify.com/track/2fg3YTYPULVQbfF7RbQqaa"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/6wVyOjxR3E0yX5y3okLyQH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Wall",
+          "url": "https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU"
+        }
+      ],
+      "duration_ms": 174438,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/6RPNnOJ5l8PsTea79JNWej"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Enacted",
         "url": "https://open.spotify.com/album/1LG30PPzugMZOUTptrB0AP"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/4NN6SfzljIm5dqqkCXARPY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Rhey",
+          "url": "https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Stabilize",
         "url": "https://open.spotify.com/album/27ZSlh6IgrmEoDIP5LKrM5"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 157189,
       "name": "Stabilize",
       "url": "https://open.spotify.com/track/0AC6SZlAoEbvzhMeUiwsAq"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Euclid",
+        "url": "https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "duration_ms": 147156,
+      "name": "Euclid",
+      "url": "https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Euclid",
-        "url": "https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej"
+        "name": "Canvas Of Dreams",
+        "url": "https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8"
       },
       "artists": [
         {
-          "name": "turquoise waters",
-          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+          "name": "Lamente",
+          "url": "https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq"
         }
       ],
-      "duration_ms": 147156,
-      "name": "Euclid",
-      "url": "https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN"
+      "duration_ms": 182400,
+      "name": "Canvas Of Dreams",
+      "url": "https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1239,22 +1255,6 @@
       "duration_ms": 178909,
       "name": "Stardust Memories",
       "url": "https://open.spotify.com/track/72PXvumKV3t0Eip3D8vkM4"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Canvas Of Dreams",
-        "url": "https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8"
-      },
-      "artists": [
-        {
-          "name": "Lamente",
-          "url": "https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Canvas Of Dreams",
-      "url": "https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Heroic",
+        "url": "https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx"
+      },
+      "artists": [
+        {
+          "name": "Thoas Galla",
+          "url": "https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Heroic",
+      "url": "https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Translucent night",
         "url": "https://open.spotify.com/album/1VEHWNHa2RMzIGXIlDWFVd"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 162098,
       "name": "Translucent night",
       "url": "https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Repose",
-        "url": "https://open.spotify.com/album/4SoElGs3LwzLZK4s7kuy5A"
-      },
-      "artists": [
-        {
-          "name": "Sleep Advisor",
-          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
-        }
-      ],
-      "duration_ms": 175901,
-      "name": "Repose",
-      "url": "https://open.spotify.com/track/6s5TgRuS940qXdSCR2Lyos"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1355,18 +1355,34 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Heroic",
-        "url": "https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx"
+        "name": "Repose",
+        "url": "https://open.spotify.com/album/4SoElGs3LwzLZK4s7kuy5A"
       },
       "artists": [
         {
-          "name": "Thoas Galla",
-          "url": "https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF"
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Heroic",
-      "url": "https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc"
+      "duration_ms": 175901,
+      "name": "Repose",
+      "url": "https://open.spotify.com/track/6s5TgRuS940qXdSCR2Lyos"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Cali Dreams",
+        "url": "https://open.spotify.com/album/4tyg58v0XVeXeL0ZyolT3s"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Cali Dreams",
+      "url": "https://open.spotify.com/track/5zswYTabeKhJmNT7Rr13HC"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH"
+        "name": "Above Us",
+        "url": "https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP"
       },
       "artists": [
         {
-          "name": "Oliver \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU"
+          "name": "Beloved More",
+          "url": "https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8"
         }
       ],
-      "duration_ms": 147946,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu"
+      "duration_ms": 178695,
+      "name": "Above Us",
+      "url": "https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1435,6 +1451,22 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU"
+        }
+      ],
+      "duration_ms": 147946,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Recombination",
         "url": "https://open.spotify.com/album/0gOoHcaJF4R89QSkjlQVCA"
       },
@@ -1447,22 +1479,6 @@
       "duration_ms": 179630,
       "name": "Recombination",
       "url": "https://open.spotify.com/track/0vTkzpVA6dpjQo5s6l9WOg"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Cali Dreams",
-        "url": "https://open.spotify.com/album/4tyg58v0XVeXeL0ZyolT3s"
-      },
-      "artists": [
-        {
-          "name": "Stellar Serenity",
-          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Cali Dreams",
-      "url": "https://open.spotify.com/track/5zswYTabeKhJmNT7Rr13HC"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Above Us",
-        "url": "https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP"
-      },
-      "artists": [
-        {
-          "name": "Beloved More",
-          "url": "https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8"
-        }
-      ],
-      "duration_ms": 178695,
-      "name": "Above Us",
-      "url": "https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Ability to Observe",
         "url": "https://open.spotify.com/album/4Et5trmywSRl9256SDr5Nf"
       },
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Downshifter",
+        "url": "https://open.spotify.com/album/1iTWiJDHdBc5DX3fxgHwjs"
+      },
+      "artists": [
+        {
+          "name": "Rannar Sillard",
+          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
+        }
+      ],
+      "duration_ms": 172301,
+      "name": "Downshifter",
+      "url": "https://open.spotify.com/track/0MpMC42nt3Ud99MTfBOFw3"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Royal Cubit",
         "url": "https://open.spotify.com/album/0iShyFMcuswRzJDvV9ATz8"
       },
@@ -1527,6 +1543,22 @@
       "duration_ms": 202500,
       "name": "Royal Cubit",
       "url": "https://open.spotify.com/track/1PhMMm4HZgwJI97RXAuFg6"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Stellar Oceans",
+        "url": "https://open.spotify.com/album/4lAhYOHQmxozYIE1Jbgtdb"
+      },
+      "artists": [
+        {
+          "name": "Indigo Rae",
+          "url": "https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3"
+        }
+      ],
+      "duration_ms": 134518,
+      "name": "Stellar Oceans",
+      "url": "https://open.spotify.com/track/3Vdk33TvEmT3QwCMDG33nQ"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1563,38 +1595,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Stellar Oceans",
-        "url": "https://open.spotify.com/album/4lAhYOHQmxozYIE1Jbgtdb"
-      },
-      "artists": [
-        {
-          "name": "Indigo Rae",
-          "url": "https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3"
-        }
-      ],
-      "duration_ms": 134518,
-      "name": "Stellar Oceans",
-      "url": "https://open.spotify.com/track/3Vdk33TvEmT3QwCMDG33nQ"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Downshifter",
-        "url": "https://open.spotify.com/album/1iTWiJDHdBc5DX3fxgHwjs"
-      },
-      "artists": [
-        {
-          "name": "Rannar Sillard",
-          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
-        }
-      ],
-      "duration_ms": 172301,
-      "name": "Downshifter",
-      "url": "https://open.spotify.com/track/0MpMC42nt3Ud99MTfBOFw3"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq"
       },
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c"
-      },
-      "artists": [
-        {
-          "name": "Arietis",
-          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
-        }
-      ],
-      "duration_ms": 180043,
-      "name": "Capacity",
-      "url": "https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Vrang\u00f8",
-        "url": "https://open.spotify.com/album/2N55QpvsyobZS4YEqwypcs"
-      },
-      "artists": [
-        {
-          "name": "Ganlas",
-          "url": "https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Vrang\u00f8",
-      "url": "https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Destello Cosmico",
         "url": "https://open.spotify.com/album/2SPHK8VZRckwgl2k3UwwNs"
       },
@@ -1675,6 +1643,22 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c"
+      },
+      "artists": [
+        {
+          "name": "Arietis",
+          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
+        }
+      ],
+      "duration_ms": 180043,
+      "name": "Capacity",
+      "url": "https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/1VUevKuiOMjUNPtZZFfDNg"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 181301,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6B8R0Wy5pycqH0yKfHatfe"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Vrang\u00f8",
+        "url": "https://open.spotify.com/album/2N55QpvsyobZS4YEqwypcs"
+      },
+      "artists": [
+        {
+          "name": "Ganlas",
+          "url": "https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Vrang\u00f8",
+      "url": "https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Cassiopeia",
-        "url": "https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6"
-      },
-      "artists": [
-        {
-          "name": "Elysian Lotus",
-          "url": "https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Cassiopeia",
-      "url": "https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Deep Under",
         "url": "https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0"
       },
@@ -1751,22 +1735,6 @@
       "duration_ms": 149750,
       "name": "Deep Under",
       "url": "https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Twine",
-        "url": "https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX"
-      },
-      "artists": [
-        {
-          "name": "Moontonic",
-          "url": "https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Twine",
-      "url": "https://open.spotify.com/track/6wjnlFiyEN25XVYCUsR2TU"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1787,6 +1755,22 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Cassiopeia",
+        "url": "https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6"
+      },
+      "artists": [
+        {
+          "name": "Elysian Lotus",
+          "url": "https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Cassiopeia",
+      "url": "https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Quiet Eternity",
         "url": "https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 197142,
       "name": "Quiet Eternity",
       "url": "https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Twine",
+        "url": "https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX"
+      },
+      "artists": [
+        {
+          "name": "Moontonic",
+          "url": "https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO"
+        }
+      ],
+      "duration_ms": 185874,
+      "name": "Twine",
+      "url": "https://open.spotify.com/track/6wjnlFiyEN25XVYCUsR2TU"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -1899,38 +1899,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Star Sapphire",
-        "url": "https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy"
-      },
-      "artists": [
-        {
-          "name": "Galactica Pivot",
-          "url": "https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG"
-        }
-      ],
-      "duration_ms": 141250,
-      "name": "Star Sapphire",
-      "url": "https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Terra Nova",
-        "url": "https://open.spotify.com/album/1Kn4YVvS8pafeyOFK0kiqX"
-      },
-      "artists": [
-        {
-          "name": "David Bengloff",
-          "url": "https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm"
-        }
-      ],
-      "duration_ms": 164673,
-      "name": "Terra Nova",
-      "url": "https://open.spotify.com/track/7aPjlboH22kTdOj6iu4Uhd"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/3f9yCCW2sAaqlQ7otsX7kv"
       },
@@ -1963,34 +1931,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/3Vi7QZP8evfJuHpsQFvQpE"
+        "name": "Star Sapphire",
+        "url": "https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy"
       },
       "artists": [
         {
-          "name": "Sleepy Jay",
-          "url": "https://open.spotify.com/artist/4C0u713lpHyNuwztM1NZZY"
+          "name": "Galactica Pivot",
+          "url": "https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG"
         }
       ],
-      "duration_ms": 186785,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Enhance",
-        "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
-      },
-      "artists": [
-        {
-          "name": "E\u00f4ne",
-          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
-        }
-      ],
-      "duration_ms": 172732,
-      "name": "Enhance",
-      "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
+      "duration_ms": 141250,
+      "name": "Star Sapphire",
+      "url": "https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -2007,6 +1959,22 @@
       "duration_ms": 180703,
       "name": "Paradigm",
       "url": "https://open.spotify.com/track/5rD6luPJeHWNs3VNPqtNEu"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Terra Nova",
+        "url": "https://open.spotify.com/album/1Kn4YVvS8pafeyOFK0kiqX"
+      },
+      "artists": [
+        {
+          "name": "David Bengloff",
+          "url": "https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm"
+        }
+      ],
+      "duration_ms": 164673,
+      "name": "Terra Nova",
+      "url": "https://open.spotify.com/track/7aPjlboH22kTdOj6iu4Uhd"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -2043,6 +2011,54 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/3Vi7QZP8evfJuHpsQFvQpE"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Jay",
+          "url": "https://open.spotify.com/artist/4C0u713lpHyNuwztM1NZZY"
+        }
+      ],
+      "duration_ms": 186785,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Enhance",
+        "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
+      },
+      "artists": [
+        {
+          "name": "E\u00f4ne",
+          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
+        }
+      ],
+      "duration_ms": 172732,
+      "name": "Enhance",
+      "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "One Moon",
+        "url": "https://open.spotify.com/album/1khyLTxqiC4zk9W9cZDwBE"
+      },
+      "artists": [
+        {
+          "name": "Slumberland Dreams",
+          "url": "https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "One Moon",
+      "url": "https://open.spotify.com/track/5HfGapbGX8brM6Rynv9Dcd"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Singularity",
         "url": "https://open.spotify.com/album/648LX1seqqG3MhQPyYjWWK"
       },
@@ -2055,6 +2071,38 @@
       "duration_ms": 170425,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/7nV2HPhYAWLBtJ2JCUyYfx"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Moonblossom",
+        "url": "https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 142687,
+      "name": "Moonblossom",
+      "url": "https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Suspended Glimmers",
+        "url": "https://open.spotify.com/album/3r2vRXRlbzjDEe2EtqLSGL"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "duration_ms": 167624,
+      "name": "Suspended Glimmers",
+      "url": "https://open.spotify.com/track/1Ih3L87Mc75K4dqQBKy62R"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -2107,38 +2155,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "One Moon",
-        "url": "https://open.spotify.com/album/1khyLTxqiC4zk9W9cZDwBE"
-      },
-      "artists": [
-        {
-          "name": "Slumberland Dreams",
-          "url": "https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "One Moon",
-      "url": "https://open.spotify.com/track/5HfGapbGX8brM6Rynv9Dcd"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Moonblossom",
-        "url": "https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 142687,
-      "name": "Moonblossom",
-      "url": "https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Eternal Moonlight",
         "url": "https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK"
       },
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Suspended Glimmers",
-        "url": "https://open.spotify.com/album/3r2vRXRlbzjDEe2EtqLSGL"
-      },
-      "artists": [
-        {
-          "name": "Gjenklang",
-          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
-        }
-      ],
-      "duration_ms": 167624,
-      "name": "Suspended Glimmers",
-      "url": "https://open.spotify.com/track/1Ih3L87Mc75K4dqQBKy62R"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "As Day Fades Into Night",
         "url": "https://open.spotify.com/album/2McYGVYPvWLpzWcJZIbupc"
       },
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
+        "name": "Miracle Manifestations",
+        "url": "https://open.spotify.com/album/1nqyNBtjTe6UuWdq86sB6G"
+      },
+      "artists": [
+        {
+          "name": "Chakra Tides",
+          "url": "https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk"
+        }
+      ],
+      "duration_ms": 128169,
+      "name": "Miracle Manifestations",
+      "url": "https://open.spotify.com/track/434O3sagPl9KLkBhGp7aP5"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
         "name": "Ethereal Echoes",
         "url": "https://open.spotify.com/album/1v4DPTFv9C7L0Xia3k2Jsp"
       },
@@ -2215,6 +2231,22 @@
       "duration_ms": 184800,
       "name": "Ethereal Echoes",
       "url": "https://open.spotify.com/track/2TwiFLI95iEFaXZOw8Rn7s"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Silk Dreams",
+        "url": "https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK"
+      },
+      "artists": [
+        {
+          "name": "Sleepwear",
+          "url": "https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph"
+        }
+      ],
+      "duration_ms": 188714,
+      "name": "Silk Dreams",
+      "url": "https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -2267,54 +2299,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Ink",
-        "url": "https://open.spotify.com/album/4HV2Fmobr0NiMNuQfLtJFk"
-      },
-      "artists": [
-        {
-          "name": "Divijata Ash",
-          "url": "https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/1n7faxE0AzrxoLz0OmQl6Q"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Miracle Manifestations",
-        "url": "https://open.spotify.com/album/1nqyNBtjTe6UuWdq86sB6G"
-      },
-      "artists": [
-        {
-          "name": "Chakra Tides",
-          "url": "https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk"
-        }
-      ],
-      "duration_ms": 128169,
-      "name": "Miracle Manifestations",
-      "url": "https://open.spotify.com/track/434O3sagPl9KLkBhGp7aP5"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Silk Dreams",
-        "url": "https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK"
-      },
-      "artists": [
-        {
-          "name": "Sleepwear",
-          "url": "https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph"
-        }
-      ],
-      "duration_ms": 188714,
-      "name": "Silk Dreams",
-      "url": "https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 177615,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Ink",
+        "url": "https://open.spotify.com/album/4HV2Fmobr0NiMNuQfLtJFk"
+      },
+      "artists": [
+        {
+          "name": "Divijata Ash",
+          "url": "https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/1n7faxE0AzrxoLz0OmQl6Q"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Tranquil Tides",
-        "url": "https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg"
-      },
-      "artists": [
-        {
-          "name": "Kimel\u00e9n Mill\u00e1n",
-          "url": "https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Tranquil Tides",
-      "url": "https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
         "name": "Fleeting Moments",
         "url": "https://open.spotify.com/album/3mSXs8THWgZ6dCFWHVusmb"
       },
@@ -2379,18 +2363,50 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX"
+        "name": "Beyond the Valley",
+        "url": "https://open.spotify.com/album/2FnqXYSMOOu9KV5R5MGviq"
       },
       "artists": [
         {
-          "name": "Sol Reya",
-          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+          "name": "Broadleaf Radio",
+          "url": "https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON"
         }
       ],
-      "duration_ms": 151486,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
+      "duration_ms": 201500,
+      "name": "Beyond the Valley",
+      "url": "https://open.spotify.com/track/5nAw7zxtQKsWNXcaliIewg"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1WMLr1i1P5093q0mECbk1O"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "duration_ms": 165677,
+      "name": "Doze",
+      "url": "https://open.spotify.com/track/47SXoCdTY5ywuh7Fbf9Cjf"
+    },
+    {
+      "added_at": "2025-01-22 13:44:02",
+      "album": {
+        "name": "Tranquil Tides",
+        "url": "https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg"
+      },
+      "artists": [
+        {
+          "name": "Kimel\u00e9n Mill\u00e1n",
+          "url": "https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Tranquil Tides",
+      "url": "https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -2427,34 +2443,18 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Beyond the Valley",
-        "url": "https://open.spotify.com/album/2FnqXYSMOOu9KV5R5MGviq"
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX"
       },
       "artists": [
         {
-          "name": "Broadleaf Radio",
-          "url": "https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON"
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
         }
       ],
-      "duration_ms": 201500,
-      "name": "Beyond the Valley",
-      "url": "https://open.spotify.com/track/5nAw7zxtQKsWNXcaliIewg"
-    },
-    {
-      "added_at": "2025-01-22 13:44:02",
-      "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1WMLr1i1P5093q0mECbk1O"
-      },
-      "artists": [
-        {
-          "name": "Sleep Advisor",
-          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
-        }
-      ],
-      "duration_ms": 165677,
-      "name": "Doze",
-      "url": "https://open.spotify.com/track/47SXoCdTY5ywuh7Fbf9Cjf"
+      "duration_ms": 151486,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
     },
     {
       "added_at": "2025-01-22 13:44:02",
@@ -2507,34 +2507,34 @@
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Aere Perrenius",
-        "url": "https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y"
+        "name": "Awha",
+        "url": "https://open.spotify.com/album/5hYApWwpP6I3xsNFBgKF7k"
       },
       "artists": [
         {
-          "name": "Triangular Prism III",
-          "url": "https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf"
+          "name": "Ember Nova",
+          "url": "https://open.spotify.com/artist/4RJoq6yWNYmSjrgp41bgMN"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Aere Perrenius",
-      "url": "https://open.spotify.com/track/2jLDBIoRpdRRp5ZQcfUrlR"
+      "duration_ms": 172800,
+      "name": "Awha",
+      "url": "https://open.spotify.com/track/0qagB5q8Pb3ws2FV2UXlDZ"
     },
     {
       "added_at": "2025-01-22 13:44:02",
       "album": {
-        "name": "Barefoot",
-        "url": "https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV"
+        "name": "Eternalesque",
+        "url": "https://open.spotify.com/album/4Hs618FkmSigv8pWBToicU"
       },
       "artists": [
         {
-          "name": "Don Salfva",
-          "url": "https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW"
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
         }
       ],
-      "duration_ms": 179500,
-      "name": "Barefoot",
-      "url": "https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV"
+      "duration_ms": 154662,
+      "name": "Eternalesque",
+      "url": "https://open.spotify.com/track/78jKWVURKpY0OIPqWSyqAp"
     }
   ],
   "unique_name": "Hora de Dormir",

@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 298087,
+  "num_followers": 298225,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 148551,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
     },
     {
       "added_at": "2024-11-15 03:00:00",

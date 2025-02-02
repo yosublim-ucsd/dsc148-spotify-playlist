@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-296 songs - 16 hr 10 min
+297 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 | 2024-02-23 |  |
 | [As You Leave \(undone\)](https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave \(undone\)](https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO) | 2:07 | 2022-07-29 | 2025-01-19 |
 | [At the End of a Bar \- Acoustic](https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [At the End of a Bar \(Acoustic\)](https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th) | 3:02 | 2022-03-18 | 2025-01-03 |
-| [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 | 2022-04-15 |  |
+| [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 | 2022-04-15 | 2025-02-02 |
 | [Babies \- Acoustic](https://open.spotify.com/track/3M2I0rIaPF8vuEMjVpIMrF) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies \(Acoustic\)](https://open.spotify.com/album/2waRF5MY9lsGtncXxvrXfp) | 2:57 | 2022-08-20 | 2022-08-27 |
 | [Bar Friends \- Acoustic](https://open.spotify.com/track/2F6WS0ge5MpaMlOiIXOwUG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends \(Acoustic\)](https://open.spotify.com/album/0ihzfb4aNvUcjehS3Fr8es) | 3:00 | 2021-12-17 | 2022-08-14 |
 | [Be The Whiskey \- Acoustic](https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Be The Whiskey \(Acoustic\)](https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f) | 3:02 | 2023-02-03 | 2023-04-05 |
@@ -301,6 +301,7 @@
 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 | 2021-12-17 |  |
 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 | 2023-10-14 |
 | [You Don’t Want That Smoke\. \- The Acoustic Version.](https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [You Don’t Want That Smoke\. \(The Acoustic Version.\)](https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D) | 3:20 | 2023-10-13 |  |
+| [You For A Reason \- Stripped](https://open.spotify.com/track/6yUnirR9J0haRtyziEujVR) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [You For A Reason \(Stripped\)](https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N) | 3:02 | 2025-01-31 |  |
 | [You Shouldn't Have \- Acoustic](https://open.spotify.com/track/5yeccia0PoUhrNwbL6s4uO) | [Cale Dodds](https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt) | [You Shouldn't Have \(Acoustic\)](https://open.spotify.com/album/53R4FtEIlu4fGpVI9GtI0r) | 2:46 | 2021-12-17 | 2022-07-10 |
 | [You, Me, And Whiskey \- Acoustic](https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey \(Acoustic\)](https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5) | 3:07 | 2023-07-28 |  |
 | [Your Love \- Acoustic](https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Your Love \(Acoustic\)](https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt) | 3:09 | 2023-08-18 | 2023-09-10 |

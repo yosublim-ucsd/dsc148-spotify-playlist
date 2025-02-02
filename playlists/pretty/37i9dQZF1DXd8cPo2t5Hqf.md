@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,878 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,017 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 40 | [Amazing Dolce](https://open.spotify.com/track/7JucHvsSRuhHMIPvLEbfil) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [VersuS](https://open.spotify.com/album/2DWNJqjSMxk1CJbXPOppkw) | 3:57 |
 | 41 | [秘密警察](https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP) | [Buriru](https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv) | [秘密警察](https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe) | 3:30 |
 | 42 | [on the rocks](https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [Attractive Museum](https://open.spotify.com/album/2P5aNv8rCe3ySUNqAP0cpm) | 4:25 |
-| 43 | [脳内革命ガール2016 ver.](https://open.spotify.com/track/2h9KISwTGTFe299tDsZUWr) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [コインロッカーベイビー](https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq) | 3:40 |
-| 44 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
+| 43 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
+| 44 | [脳内革命ガール2016 ver.](https://open.spotify.com/track/2h9KISwTGTFe299tDsZUWr) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [コインロッカーベイビー](https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq) | 3:40 |
 | 45 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン＼\(^o^\)／](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 |
 | 46 | [裏表ラバーズ \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:34 |
 | 47 | [Blackjack](https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy) | [yuchaP](https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT) | [Trump](https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ) | 2:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 64 | [ピアノ×フォルテ×スキャンダル \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6UFEn1vSVfMx9MUN8ccdj0) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:56 |
 | 65 | [SPiCa](https://open.spotify.com/track/0zRJAU4bV3GYa5CVxAKokG) | [tokuP](https://open.spotify.com/artist/4hSzJm2YTXFH8VRgPX2IkU) | [SPiCa](https://open.spotify.com/album/7CoAfW1ZHIfjN4RHdVcrxm) | 3:39 |
 | 66 | [深海少女 \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz) | [Yuuyu](https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:58 |
-| 67 | [みくみくにしてあげる♪【してやんよ】 \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5mLPTVNnyp7zJkmDOl4FIS) | [Ika](https://open.spotify.com/artist/5cPwMq2sLgOTGX7FHIcd3n) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 2:29 |
-| 68 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
+| 67 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
+| 68 | [みくみくにしてあげる♪【してやんよ】 \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5mLPTVNnyp7zJkmDOl4FIS) | [Ika](https://open.spotify.com/artist/5cPwMq2sLgOTGX7FHIcd3n) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 2:29 |
 | 69 | [番凩 \-FILL e TUA arrange ver\-](https://open.spotify.com/track/6yabJmz3cyAU6lHaMFXPQf) | [hinayukki@sigotositeP](https://open.spotify.com/artist/3YWtMMkde3XUDN049gTpTx) | [FILL e TUA](https://open.spotify.com/album/7xKMVouj5rNWZ7zwvYEN5I) | 3:53 |
 | 70 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 |
 | 71 | [テオ](https://open.spotify.com/track/6LpbtlqwvwxnRKC3xyu1CR) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [ファーストワルツ](https://open.spotify.com/album/6WDtVilnzePTUujzcVKq59) | 3:30 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 75 | [Last Night, Good Night](https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 6:20 |
 | 76 | [shake it! \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:45 |
 | 77 | [ねこみみスイッチ](https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Neko seT](https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y) | 3:54 |
-| 78 | [39みゅーじっく!](https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [39みゅーじっく!](https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8) | 4:25 |
-| 79 | [紅一葉](https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [紅一葉](https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d) | 4:12 |
+| 78 | [紅一葉](https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [紅一葉](https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d) | 4:12 |
+| 79 | [39みゅーじっく!](https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [39みゅーじっく!](https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8) | 4:25 |
 | 80 | [Change me](https://open.spotify.com/track/2ht6Zqpv2qshMK9xLdLU2J) | [shu\-t](https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4) | [in the BOX](https://open.spotify.com/album/2FoMuaPWntFNyIZl5XqJRW) | 4:50 |
 | 81 | [片想いサンバ](https://open.spotify.com/track/0Eg4oaHuQY9GGn7YMjIvpu) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:58 |
 | 82 | [moon](https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [moon](https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd) | 5:35 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 95 | [サンドリヨン](https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
 | 96 | [Fire◎Flower \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/6tSwWR16YavHf08lvlDyeY) | [halyosy](https://open.spotify.com/artist/1n7bHz03w0ew7UNCw1dAiA) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 4:50 |
 | 97 | [恋ノート////](https://open.spotify.com/track/1HLBPvZBdk0IwpVQ0bYvFE) | [JevanniP](https://open.spotify.com/artist/4Si9FZdT3Mvgq1fmFhcRxD) | [ミクのヒミツノート](https://open.spotify.com/album/3e4Fj9MlQdl3rfDTVy3Ouj) | 3:13 |
-| 98 | [MEGANE](https://open.spotify.com/track/5d1pbk01azByOstUjlVjxv) | [Ultra\-Noob](https://open.spotify.com/artist/53yMKP0uZAp87VXQqVP6jC) | [MEGANE](https://open.spotify.com/album/56dO5TuLKQlCzgp8vfLb16) | 5:08 |
-| 99 | [SING&SMILE](https://open.spotify.com/track/7holX2kLEbDCNgN5pqkkJy) | [Re:nG](https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L) | [period 1](https://open.spotify.com/album/2WJRGYOctQEqfFFaxiKmf3) | 3:41 |
+| 98 | [SING&SMILE](https://open.spotify.com/track/7holX2kLEbDCNgN5pqkkJy) | [Re:nG](https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L) | [period 1](https://open.spotify.com/album/2WJRGYOctQEqfFFaxiKmf3) | 3:41 |
+| 99 | [MEGANE](https://open.spotify.com/track/5d1pbk01azByOstUjlVjxv) | [Ultra\-Noob](https://open.spotify.com/artist/53yMKP0uZAp87VXQqVP6jC) | [MEGANE](https://open.spotify.com/album/56dO5TuLKQlCzgp8vfLb16) | 5:08 |
 | 100 | [タイムマシン feat.GUMI](https://open.spotify.com/track/2Xi2ObkmQ417jsRIo4rcFJ) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [THIS IS VOCAROCK feat.GUMI](https://open.spotify.com/album/0wijdCgAq3tQMfDxbi0BUJ) | 4:08 |
 
 Snapshot ID: `ZIsOpQAAAADbT63eMy+tSLQ8vpcKTN/5`

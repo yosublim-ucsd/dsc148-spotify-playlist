@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-433 songs - 1 day 3 hr 51 min
+434 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-13 |  |
 | [anatagaiito](https://open.spotify.com/track/71rDw7Lv6V1AMff91noPG0) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [Shuuto](https://open.spotify.com/artist/513dL6L9R52xVYSJrJScv9) | [No.00](https://open.spotify.com/album/1dKddiZrMlf945gDs5AlvO) | 3:42 | 2023-11-07 | 2023-11-17 |
 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 | 2022-12-13 | 2023-06-09 |
-| [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 | 2023-02-16 |  |
+| [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 | 2023-02-16 | 2025-02-02 |
 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere?!](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 | 2024-12-14 |  |
 | [Asamoya](https://open.spotify.com/track/2mZNBSaa3bssYRAXYzlDMU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:18 | 2022-12-13 | 2023-01-25 |
 | [Atlantis](https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Atlantis / Drift](https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf) | 3:33 | 2024-04-17 | 2024-05-24 |
@@ -398,6 +398,7 @@
 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 | 2024-09-25 | 2025-01-25 |
 | [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 | 2022-11-17 | 2023-01-18 |
 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-23 | 2024-08-25 |
+| [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-24 |  |
 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 | 2022-10-20 | 2023-01-26 |
 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 | 2023-07-04 | 2024-01-11 |
 | [Weeping Willow / 枝垂柳](https://open.spotify.com/track/3jzFhXdkG5EPbF0TkbWDlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Weeping Willow / 枝垂柳](https://open.spotify.com/album/7An1KBeh1UYMiX7KIkfgam) | 3:13 | 2023-12-21 | 2024-01-12 |

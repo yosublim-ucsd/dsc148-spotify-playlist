@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-272 songs - 23 hr 54 min
+273 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Post\-Truth \- Live ID.](https://open.spotify.com/track/1UHO6wM8WJUWUsm0gVD6sK) | [Riverside](https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT) | [Live ID.](https://open.spotify.com/album/42vf8uOyBQKkiizxC1RCDL) | 6:40 | 2025-01-24 |  |
 | [PowerNerd](https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [PowerNerd](https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY) | 3:28 | 2024-09-06 | 2024-10-12 |
 | [Punchin'](https://open.spotify.com/track/1VhH0ZimszA3aPx0JiBAvb) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Punchin'](https://open.spotify.com/album/1Mcvljl7BijHztqsa9xFHL) | 3:04 | 2022-05-20 | 2024-08-30 |
+| [Queenstown](https://open.spotify.com/track/5t8mCgYYdAbsXMPv4rN4fj) | [Fernando Perdomo](https://open.spotify.com/artist/03yHgT9AG39a7F2e4Mktor) | [Waves 2](https://open.spotify.com/album/1SZp8z4PZcv7d1K6q9V0FN) | 4:30 | 2025-01-31 |  |
 | [Raining Hard in Heaven](https://open.spotify.com/track/1cWjXUH01GLNqv338A69Od) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Raining Hard in Heaven](https://open.spotify.com/album/58wt8eVfJX3Hr9B9HrlWHt) | 8:31 | 2022-05-20 | 2022-11-13 |
 | [Raining Hard in Heaven](https://open.spotify.com/track/5uNzKTuYIIumgD63UyHbkV) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Prehensile Tales](https://open.spotify.com/album/77hPi3aKn8PRfcyh7GUjqY) | 8:31 | 2022-05-20 | 2024-04-19 |
 | [Raining Hard in Heaven](https://open.spotify.com/track/6b6Ap6kxz1l9JtfTHBt3s9) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Raining Hard in Heaven](https://open.spotify.com/album/3zemM1zBtUSnspTVJvRevt) | 8:31 | 2022-05-20 | 2024-09-13 |

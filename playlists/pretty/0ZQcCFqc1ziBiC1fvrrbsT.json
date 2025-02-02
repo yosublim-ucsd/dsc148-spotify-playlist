@@ -1,6 +1,6 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 11768,
+  "num_followers": 11781,
   "original_name": "BrooklynVegan Weekly Playlist",
   "owner": {
     "name": "BrooklynVegan",
@@ -34,10 +34,14 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
       "duration_ms": 282873,
-      "name": "The Abyss",
+      "name": "The Abyss (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs"
     },
     {

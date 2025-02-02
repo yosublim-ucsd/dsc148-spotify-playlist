@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,629 likes - 50 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,719 likes - 50 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Might Get Loud \(feat\. Chris Brown, Brandon Lake & Tiffany Hudson\)](https://open.spotify.com/track/6zmTTU4fm4iFhHvMyCxp3p) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 4:39 |
 | 50 | [Joy In The Morning](https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 8:48 |
 
-Snapshot ID: `Z5rBAAAAAACV9iT84GF9RC/ydB+I+ssI`
+Snapshot ID: `Z5wSgAAAAABxeYpN4PdawwOvwmqEQXY9`

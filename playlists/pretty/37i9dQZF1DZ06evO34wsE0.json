@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 246953,
+  "num_followers": 246980,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAC/aSYW323fFtYiP1oDejI0",
+  "snapshot_id": "Z5wSgAAAAACiCTlBs7TUY+F9zdeTCEsL",
   "tracks": [
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
+        "name": "Shania Twain",
+        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 159256,
-      "name": "Pretty Liar",
-      "url": "https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4"
+      "duration_ms": 168933,
+      "name": "You Lay A Whole Lot Of Love On Me",
+      "url": "https://open.spotify.com/track/0oGmDmlKPWiZbnuVed68Rs"
     }
   ],
   "unique_name": "This Is Shania Twain",

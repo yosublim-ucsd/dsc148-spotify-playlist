@@ -4,7 +4,7 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-70 songs - 5 hr 17 min
+71 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alvará \(Ao Vivo\) \(feat\. Elaine Martins\)](https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr) | [Waguinho](https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Samba Adorador \(Ao Vivo\)](https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj) | 3:37 | 2023-07-09 |  |
 | [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 | 2023-07-09 |  |
 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 | 2023-07-09 |  |
+| [Chegou Um Tempo Novo](https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Chegou Um Tempo Novo](https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf) | 4:46 | 2025-02-02 |  |
 | [Colhendo Frutos \(Ao Vivo\)](https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:23 | 2023-07-09 |  |
 | [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 | 2023-07-09 |  |
 | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7) | 4:28 | 2024-08-12 |  |

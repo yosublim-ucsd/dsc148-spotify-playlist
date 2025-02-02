@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 49534,
+  "num_followers": 49535,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABdUopHyP8Ncx5Zey8Zb8r0",
+  "snapshot_id": "Z5wSgAAAAABVwp7sGcohRcBC6Zr5BeaW",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/2ehO3e7Bp6PnyqTWCqErMs"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 200434,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Mud",
-        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Tom Cat",
-      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 169533,
       "name": "Short Dress Woman",
       "url": "https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Mud",
+        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Tom Cat",
+      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoochie Coochie Man: Complete Chess Masters (Vol. 2: 1952-1958)",
-        "url": "https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo"
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 149240,
-      "name": "Sugar Sweet - 1955 Single Version",
-      "url": "https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb"
+      "duration_ms": 177213,
+      "name": "She Moves Me",
+      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+        "name": "Hoochie Coochie Man: Complete Chess Masters (Vol. 2: 1952-1958)",
+        "url": "https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 177213,
-      "name": "She Moves Me",
-      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
+      "duration_ms": 149240,
+      "name": "Sugar Sweet - 1955 Single Version",
+      "url": "https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb"
     },
     {
       "added_at": null,

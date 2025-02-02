@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : ג׳ירפות
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,345 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,354 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 37 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
 | 38 | [Doing So Much Better](https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Doing So Much Better](https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W) | 3:07 |
 | 39 | [נשמה יקרה](https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [נשמה יקרה](https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk) | 3:26 |
-| 40 | [נשמה](https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3) | [Liron Amram](https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ) | [נשמה](https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ) | 3:48 |
-| 41 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 |
+| 40 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 |
+| 41 | [נשמה](https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3) | [Liron Amram](https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ) | [נשמה](https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ) | 3:48 |
 | 42 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 43 | [עולם שלי](https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [עולם שלי](https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1) | 3:25 |
 | 44 | [אני משם](https://open.spotify.com/track/0Uo6rxBwnTQZ1Lww9QKoOZ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [אני משם](https://open.spotify.com/album/7MhmKMc9s08TnCqnVCOBHi) | 3:30 |

@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 184583,
       "name": "Blomster & Regnvejr",
       "url": "https://open.spotify.com/track/1OL1vwKA4R3UFMNr6hUZ4l"
@@ -3742,6 +3742,24 @@
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
+    },
+    {
+      "album": {
+        "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
+        "url": "https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266797,
+      "name": "Bo og Lis",
+      "url": "https://open.spotify.com/track/3KsX8W7xxt4uNIBOcunC5r"
     },
     {
       "album": {
@@ -5968,7 +5986,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 182040,
       "name": "CRG (feat. Dave)",
       "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
@@ -6008,6 +6026,24 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
       "album": {
@@ -6410,7 +6446,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 174642,
       "name": "Dark Room (feat. ICEKIID)",
       "url": "https://open.spotify.com/track/1eA6vc394WJF2l4lHLqJ2B"
@@ -6656,7 +6692,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 208934,
       "name": "De Her Timer",
       "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
@@ -8043,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
+        "url": "https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203595,
+      "name": "Dream team",
+      "url": "https://open.spotify.com/track/6WrM6GnzCkfv075p1KN6fi"
+    },
+    {
+      "album": {
         "name": "INGEN ROSER UDEN TORNE",
         "url": "https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN"
       },
@@ -8384,10 +8438,32 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 186110,
       "name": "Du ligner din mor",
       "url": "https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA"
+    },
+    {
+      "album": {
+        "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
+        "url": "https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        },
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187078,
+      "name": "Du ligner din mor",
+      "url": "https://open.spotify.com/track/2v5RxyOtY5uSH2EAtz94SL"
     },
     {
       "album": {
@@ -8476,6 +8552,24 @@
       "duration_ms": 235621,
       "name": "Du og jeg",
       "url": "https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20"
+    },
+    {
+      "album": {
+        "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
+        "url": "https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189606,
+      "name": "Du ska' med",
+      "url": "https://open.spotify.com/track/2lS880tapBLhPvbUQNs1qp"
     },
     {
       "album": {
@@ -11809,6 +11903,28 @@
     },
     {
       "album": {
+        "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
+        "url": "https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        },
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193678,
+      "name": "F\u00f8rste dag",
+      "url": "https://open.spotify.com/track/1MriMVVs0upyrXtArsWep5"
+    },
+    {
+      "album": {
         "name": "F\u00f8rste dag",
         "url": "https://open.spotify.com/album/4UlublRVVPERXTBrzYjhWo"
       },
@@ -11824,7 +11940,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 193712,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL"
@@ -11944,7 +12060,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 154800,
       "name": "GBP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
@@ -19280,7 +19396,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -20690,6 +20806,24 @@
       "duration_ms": 205653,
       "name": "Lose",
       "url": "https://open.spotify.com/track/7nVERWQXlgZRQsYw4fHf3b"
+    },
+    {
+      "album": {
+        "name": "Lose A You",
+        "url": "https://open.spotify.com/album/2DZhu7U1X56ajbmvwUb1on"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189085,
+      "name": "Lose A You",
+      "url": "https://open.spotify.com/track/4MnwCK9oVKd5tFAS650iV2"
     },
     {
       "album": {
@@ -27774,7 +27908,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -28854,6 +28988,28 @@
       "duration_ms": 330333,
       "name": "Sikke En Sang",
       "url": "https://open.spotify.com/track/71hNUPjAwnUgqb5gilrZW2"
+    },
+    {
+      "album": {
+        "name": "SIKKE EN TYPE",
+        "url": "https://open.spotify.com/album/2YxkCdNRwEA0F2O2oNfhU1"
+      },
+      "artists": [
+        {
+          "name": "Zuloo",
+          "url": "https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139842,
+      "name": "SIKKE EN TYPE",
+      "url": "https://open.spotify.com/track/5zaXybxrzGiDd6IPWIHheW"
     },
     {
       "album": {
@@ -31327,6 +31483,28 @@
     },
     {
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+    },
+    {
+      "album": {
         "name": "S\u00e5 Er Der M\u00e5l",
         "url": "https://open.spotify.com/album/1tuqY5vYnLsD8np9ENReAU"
       },
@@ -32870,10 +33048,32 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 256000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (feat Playboi Carti)",
+      "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {
       "album": {
@@ -35170,6 +35370,28 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308575,
+      "name": "Wake Me Up (feat. Justice)",
+      "url": "https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul"
     },
     {
       "album": {

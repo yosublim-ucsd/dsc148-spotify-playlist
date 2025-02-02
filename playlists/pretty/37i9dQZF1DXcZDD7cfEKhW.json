@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: YouNotUs & Kylie Minogue",
-  "num_followers": 4091107,
+  "num_followers": 4091201,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -1165,6 +1165,42 @@
       "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "exes (Regard Remix)",
+        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "exes - Regard Remix",
+      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "I'm Going Out",
@@ -1199,38 +1235,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "exes (Regard Remix)",
-        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
+        "name": "My Head & My Heart (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         },
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 182508,
-      "name": "exes - Regard Remix",
-      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+      "duration_ms": 182450,
+      "name": "My Head & My Heart - Claptone Remix",
+      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1251,26 +1271,6 @@
       "duration_ms": 171265,
       "name": "Don't Go Yet - Major Lazer Remix",
       "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "My Head & My Heart (Claptone Remix)",
-        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 182450,
-      "name": "My Head & My Heart - Claptone Remix",
-      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 117026,
-      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
@@ -1379,26 +1359,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Espresso (Working Late Remixes)",
-        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
+        "name": "Players",
+        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "FNZ",
-          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
         }
       ],
-      "duration_ms": 338179,
-      "name": "Espresso - Mark Ronson x FNZ Working Later Remix",
-      "url": "https://open.spotify.com/track/03duS4fiU5jSVOZFR7TTQa"
+      "duration_ms": 117026,
+      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1443,6 +1419,30 @@
       "duration_ms": 158739,
       "name": "La Bebe - David Guetta Remix",
       "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Espresso (Working Late Remixes)",
+        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "FNZ",
+          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
+        }
+      ],
+      "duration_ms": 338179,
+      "name": "Espresso - Mark Ronson x FNZ Working Later Remix",
+      "url": "https://open.spotify.com/track/03duS4fiU5jSVOZFR7TTQa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1553,26 +1553,6 @@
       "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
     },
     {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Fantasy (Alex Chapman Remix)",
-        "url": "https://open.spotify.com/album/52fvlHzhcJbWzVKdcdD2HK"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        },
-        {
-          "name": "Alex Chapman",
-          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
-        }
-      ],
-      "duration_ms": 174908,
-      "name": "Fantasy - Alex Chapman Remix",
-      "url": "https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "CAN'T TOUCH THIS (R3HAB Remix)",
@@ -1591,6 +1571,26 @@
       "duration_ms": 123214,
       "name": "CAN'T TOUCH THIS - R3HAB Remix",
       "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Fantasy (Alex Chapman Remix)",
+        "url": "https://open.spotify.com/album/52fvlHzhcJbWzVKdcdD2HK"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        },
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        }
+      ],
+      "duration_ms": 174908,
+      "name": "Fantasy - Alex Chapman Remix",
+      "url": "https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT"
     }
   ],
   "unique_name": "Pop Remix",

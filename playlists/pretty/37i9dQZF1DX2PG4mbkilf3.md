@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Aqyila from Mississauga, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,769 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,812 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 3 | [JEANS \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [JEANS \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
 | 4 | [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 |
 | 5 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 |
-| 6 | [Enjoy The Show](https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
+| 6 | [Enjoy The Show \(feat\. Future\)](https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
 | 7 | [Give Me Love](https://open.spotify.com/track/42sBbNFbNgAXYJjqWvq0w7) | [Cyani](https://open.spotify.com/artist/0mz6ypuN2JQnnlQCoxzG3S) | [Give Me Love](https://open.spotify.com/album/4hWM3aX6wr4WOwOzt6atGR) | 2:45 |
 | 8 | [Her World](https://open.spotify.com/track/2vGZsY7UyCqGuNYOGOsJlF) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lovers Till I’m Gone](https://open.spotify.com/album/2UUhXldWviKuy7NuGrPeLi) | 2:25 |
 | 9 | [Slow \(feat\. Anaïs Cardot\)](https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:25 |

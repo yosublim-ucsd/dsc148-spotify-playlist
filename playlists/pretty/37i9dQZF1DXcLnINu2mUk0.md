@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: pikika
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,981 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,989 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [Mais Que Ouro](https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Mais Que Ouro](https://open.spotify.com/album/2k5Ldk223sveMZ4I6TzuSK) | 2:08 |
 | 72 | [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 |
 | 73 | [Normal](https://open.spotify.com/track/0zew2jGUrcp12u0wmaWtgQ) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Normal](https://open.spotify.com/album/6z0rQqq8tF8hrRVDlb02wl) | 2:52 |
-| 74 | [Umbrella](https://open.spotify.com/track/1MGOu0FcicUyUkhNlfNwhz) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Umbrella](https://open.spotify.com/album/2MIEoSDpuzj17iIltn7Mru) | 2:38 |
-| 75 | [Alma do Negócio](https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D) | [Alma do Negócio](https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv) | 2:40 |
+| 74 | [Alma do Negócio](https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D) | [Alma do Negócio](https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv) | 2:40 |
+| 75 | [Umbrella](https://open.spotify.com/track/1MGOu0FcicUyUkhNlfNwhz) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Umbrella](https://open.spotify.com/album/2MIEoSDpuzj17iIltn7Mru) | 2:38 |
 
 Snapshot ID: `Z5wSmQAAAADqt8cTm4UTG9to3VJj1Vlv`

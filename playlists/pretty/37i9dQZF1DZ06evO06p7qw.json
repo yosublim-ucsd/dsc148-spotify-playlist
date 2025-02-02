@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 169939,
+  "num_followers": 170013,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACvqet3ODDVw+7JEBNXcKY5",
+  "snapshot_id": "Z5wSgAAAAADErA6GZlgqIg6f5v5Gdlts",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresa",
-        "url": "https://open.spotify.com/album/06fSWRuFLkZcJfa63TCcAW"
-      },
-      "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 173096,
-      "name": "Fresa",
-      "url": "https://open.spotify.com/track/2s83AGDtBG4xdWxrB5tPi8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresa",
+        "url": "https://open.spotify.com/album/06fSWRuFLkZcJfa63TCcAW"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/2s83AGDtBG4xdWxrB5tPi8"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Aut\u00e9ntica",
+      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polvo De Estrellas",
         "url": "https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 227429,
       "name": "Polvo De Estrellas",
       "url": "https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Aut\u00e9ntica",
-      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
     },
     {
       "added_at": null,

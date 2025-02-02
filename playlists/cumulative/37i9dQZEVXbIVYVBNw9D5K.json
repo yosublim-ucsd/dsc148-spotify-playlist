@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 118104,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
@@ -7316,7 +7316,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 146933,
       "name": "EXTENDO",
       "url": "https://open.spotify.com/track/3reGUYKxAJMkZGEzWM8c5d"
@@ -8904,6 +8904,24 @@
       "duration_ms": 189333,
       "name": "g\u00f6zlerindeki ay",
       "url": "https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg"
+    },
+    {
+      "album": {
+        "name": "G\u00f6zlerinden G\u00f6zlerine",
+        "url": "https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176625,
+      "name": "G\u00f6zlerinden G\u00f6zlerine",
+      "url": "https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp"
     },
     {
       "album": {
@@ -12118,7 +12136,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 113742,
       "name": "Ka\u00e7amad\u0131m",
       "url": "https://open.spotify.com/track/74H7jyyJp53HSzpcFMLL21"
@@ -12780,7 +12798,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 142973,
       "name": "K\u00fcle D\u00f6nm\u00fc\u015fs\u00fcn",
       "url": "https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk"
@@ -18781,6 +18799,28 @@
     },
     {
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+    },
+    {
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
       },
@@ -19816,7 +19856,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 219872,
       "name": "Uzaktan",
       "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb"
@@ -21298,7 +21338,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 176833,
       "name": "ZEH\u0130RL\u0130 G\u00dcL",
       "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"

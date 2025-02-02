@@ -1,13 +1,33 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 144334,
+  "num_followers": 144607,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAALYWS+POy9GAAuhDVg7/U3",
+  "snapshot_id": "Z5wSgAAAAAAhG5C8sbvPhKeLSrkDFfmx",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "7 Dias",
+        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "7 Dias",
+      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+    },
     {
       "added_at": null,
       "album": {
@@ -511,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mamoncita del Insta",
-        "url": "https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 193193,
-      "name": "La Mamoncita del Insta",
-      "url": "https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4Wdhlkgk5f2UTPAmN1OIeZ"
       },
@@ -547,6 +547,26 @@
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4TXmASLbpCtP3zIbzEXRpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mamoncita del Insta",
+        "url": "https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 193193,
+      "name": "La Mamoncita del Insta",
+      "url": "https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY"
     },
     {
       "added_at": null,
@@ -823,30 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Habla De Un Muchacho",
-        "url": "https://open.spotify.com/album/5bBNOI72SRleWF0U7jj0SO"
+        "name": "Un Idiota",
+        "url": "https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD"
       },
       "artists": [
         {
-          "name": "Alejandro Buelna",
-          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
-        },
-        {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 177523,
-      "name": "Se Habla De Un Muchacho",
-      "url": "https://open.spotify.com/track/3SOctVtXCIZUnQDjcnEpr9"
+      "duration_ms": 166086,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b"
     },
     {
       "added_at": null,
@@ -871,18 +879,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Idiota",
-        "url": "https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD"
+        "name": "Se Habla De Un Muchacho",
+        "url": "https://open.spotify.com/album/5bBNOI72SRleWF0U7jj0SO"
       },
       "artists": [
         {
+          "name": "Alejandro Buelna",
+          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+        },
+        {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 166086,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b"
+      "duration_ms": 177523,
+      "name": "Se Habla De Un Muchacho",
+      "url": "https://open.spotify.com/track/3SOctVtXCIZUnQDjcnEpr9"
     },
     {
       "added_at": null,
@@ -1015,6 +1035,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ando Sad",
+        "url": "https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 158875,
+      "name": "Ando Sad",
+      "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC"
       },
@@ -1035,26 +1075,6 @@
       "duration_ms": 170769,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ando Sad",
-        "url": "https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 158875,
-      "name": "Ando Sad",
-      "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

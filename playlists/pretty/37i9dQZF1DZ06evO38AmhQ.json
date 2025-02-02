@@ -1,13 +1,29 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21375,
+  "num_followers": 21380,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAC7r96L1CSv9/iUIgPp/M6r",
+  "snapshot_id": "Z5wSgAAAAADuGac6K+X+5v+gBG1J36tI",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Wanna Be An Aussie",
+        "url": "https://open.spotify.com/album/2piyE4rtwMCRL2ZoHZfybV"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "If You Wanna Be An Aussie",
+      "url": "https://open.spotify.com/track/1FYOtnbDojzxROBLGJBwsn"
+    },
     {
       "added_at": null,
       "album": {
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking for a Story",
-        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 304493,
-      "name": "I Was Only 19 - Live",
-      "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Man Emu",
         "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
       },
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Wanna Be An Aussie",
-        "url": "https://open.spotify.com/album/2piyE4rtwMCRL2ZoHZfybV"
+        "name": "Looking for a Story",
+        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 159786,
-      "name": "If You Wanna Be An Aussie",
-      "url": "https://open.spotify.com/track/1FYOtnbDojzxROBLGJBwsn"
+      "duration_ms": 304493,
+      "name": "I Was Only 19 - Live",
+      "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Why They Call Him Sundown",
-      "url": "https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 218533,
       "name": "Queensland Bungalow",
       "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Why They Call Him Sundown",
+      "url": "https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mates on the Road",
-        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 71520,
-      "name": "Chain Around My Ankle",
-      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 71520,
+      "name": "Chain Around My Ankle",
+      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 208560,
       "name": "Hawkesbury River Lovin'",
       "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "Ancient Mountains",
-      "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 284466,
       "name": "Hang My Hat in Queensland - Orchestra Version",
       "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "Ancient Mountains",
+      "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Tubbo Station",
-      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Tubbo Station",
+      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Big Red",
         "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 184906,
       "name": "Hillbilly Road",
       "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Album No.2",
+        "url": "https://open.spotify.com/album/0xuEMIv7f7oEMCtqM9Tgxu"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "You Come Back to Tassie",
+      "url": "https://open.spotify.com/track/1WzMWFopWcmhjCNr5eriDA"
     }
   ],
   "unique_name": "This Is John Williamson",

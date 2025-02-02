@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,545 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,551 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 43 | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Nate Highfield](https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF), [SILVER](https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u) | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm) | 3:24 |
 | 44 | [Shake Shake](https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Shake Shake](https://open.spotify.com/album/3OsSTICzO2LsUrWRNLRTnr) | 3:40 |
 | 45 | [Dark Side](https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Dark Side](https://open.spotify.com/album/2VPAWHuNgQuowuPQzWU45b) | 4:05 |
-| 46 | [Roll On](https://open.spotify.com/track/2npX2eHUadkO7WIALUa66K) | [Dominic and Tom](https://open.spotify.com/artist/4F2LbcLZlrW3vimWra22SN) | [Roll On](https://open.spotify.com/album/7JwXBJOV5HVONGQGU9JXXy) | 3:23 |
-| 47 | [Rest](https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Rest](https://open.spotify.com/album/01XpquB06EvN30tEws20cv) | 4:42 |
+| 46 | [Rest](https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Rest](https://open.spotify.com/album/01XpquB06EvN30tEws20cv) | 4:42 |
+| 47 | [Roll On](https://open.spotify.com/track/2npX2eHUadkO7WIALUa66K) | [Dominic and Tom](https://open.spotify.com/artist/4F2LbcLZlrW3vimWra22SN) | [Roll On](https://open.spotify.com/album/7JwXBJOV5HVONGQGU9JXXy) | 3:23 |
 | 48 | [Can't Hurry Love](https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB) | [Lloyd Cele](https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg) | [Can't Hurry Love](https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414) | 3:01 |
 | 49 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
 | 50 | [Heat](https://open.spotify.com/track/1mgI6YX1q6cabE8q39NMoa) | [dom nice](https://open.spotify.com/artist/4GATgJWrCgpT3eglDMnkxO) | [Heat](https://open.spotify.com/album/35gvThn8Bj6gW12Qr8pXUs) | 3:50 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 56 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 |
 | 57 | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v) | 3:13 |
 | 58 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Mood \(feat\. iann dior\)](https://open.spotify.com/album/4YMnOf4a7obOcN1Gy2QEuM) | 2:20 |
-| 59 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 |
-| 60 | [Watermelon Sugar](https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Watermelon Sugar](https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy) | 2:54 |
+| 59 | [Watermelon Sugar](https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Watermelon Sugar](https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy) | 2:54 |
+| 60 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 |
 
 Snapshot ID: `Zj2/8QAAAADfndYbugaKYFkkrCm7YG9c`

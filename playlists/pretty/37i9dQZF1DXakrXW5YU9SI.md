@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,948 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,947 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 38 | [Komary](https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 3:45 |
 | 39 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 |
 | 40 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
-| 41 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 |
-| 42 | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Michał Bajor](https://open.spotify.com/artist/4wiuQi8pMd9fwJxreqT5H1) | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/album/5x4HWBcOoTfDXgrEh8Z6wf) | 3:40 |
+| 41 | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Michał Bajor](https://open.spotify.com/artist/4wiuQi8pMd9fwJxreqT5H1) | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/album/5x4HWBcOoTfDXgrEh8Z6wf) | 3:40 |
+| 42 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 |
 | 43 | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3) | 3:55 |
 | 44 | [The Boy Who Can't Be Named](https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [The Boy Who Can't Be Named](https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z) | 3:31 |
 | 45 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
 | 46 | [Wszystko](https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 4:06 |
-| 47 | [Sto żyć](https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 4:04 |
-| 48 | [Dom](https://open.spotify.com/track/78xFhSIY8vjhKBtPZLNktm) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Dom](https://open.spotify.com/album/1PXmcDT1vXrj1HKSKFRcO3) | 3:05 |
-| 49 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
-| 50 | [Mleczna droga](https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 4:08 |
+| 47 | [Mleczna droga](https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 4:08 |
+| 48 | [Sto żyć](https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 4:04 |
+| 49 | [Dom](https://open.spotify.com/track/78xFhSIY8vjhKBtPZLNktm) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Dom](https://open.spotify.com/album/1PXmcDT1vXrj1HKSKFRcO3) | 3:05 |
+| 50 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
 | 51 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 |
 | 52 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 53 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |

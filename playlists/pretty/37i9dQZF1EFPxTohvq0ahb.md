@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,398 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 78 | [We Got The Power](https://open.spotify.com/track/6MW4ahXNEHaIUZ2cdSaslK) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal \(2013 Edition\)](https://open.spotify.com/album/7FySrxbb8xtskFg9XbLPc4) | 3:27 |
 | 79 | [Already Taken](https://open.spotify.com/track/5w3faWGjZFbTXkPXLAATkC) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:57 |
 | 80 | [Lose Control / Let Me Down](https://open.spotify.com/track/4ymZUCAf5qTenKxeOfRSB5) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [No Boys Allowed \(All International Partners Deluxe Version\)](https://open.spotify.com/album/7r8oxL7DEEvRGnuKxEKsGe) | 4:49 |
-| 81 | [Woohoo \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3b7jMtkPU3aPulz6AvBGBD) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 5:28 |
-| 82 | [Back To The Crib](https://open.spotify.com/track/3PtlDRj2jzwDnAfLgvqaSd) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To The Crib](https://open.spotify.com/album/0nOS7PmLQLHeNeYd0Iis83) | 4:24 |
+| 81 | [Back To The Crib](https://open.spotify.com/track/3PtlDRj2jzwDnAfLgvqaSd) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To The Crib](https://open.spotify.com/album/0nOS7PmLQLHeNeYd0Iis83) | 4:24 |
+| 82 | [Woohoo \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3b7jMtkPU3aPulz6AvBGBD) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 5:28 |
 | 83 | [We Are \- From "Ice Age: Continental Drift"/Theme](https://open.spotify.com/track/6ackm07YejQB4DwuSRjFvR) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [We Are \(From "Ice Age: Continental Drift"/Theme\)](https://open.spotify.com/album/5zeZOKZQwl2nKUEEuUDZTL) | 3:09 |
 | 84 | [I Want It All](https://open.spotify.com/track/6GciucEjChWvkyxUGlN09o) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Pulses](https://open.spotify.com/album/2UvU0egYoXsysWkHqQy4Lc) | 3:47 |
 | 85 | [Beautiful Sinner](https://open.spotify.com/track/7rckdz1lRk0xXOlm2W2DCi) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:47 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 163 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 | 164 | [Stay](https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA) | 3:49 |
 
-Snapshot ID: `AboXyAAAAAC7QJcWDL6whnltS+L3e7BP`
+Snapshot ID: `AbodaAAAAACEeiYWG9dxCTh9nQB9nzea`

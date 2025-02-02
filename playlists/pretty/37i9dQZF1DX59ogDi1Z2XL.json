@@ -1,6 +1,6 @@
 {
   "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Smiley & Icewear Vezzo",
-  "num_followers": 186451,
+  "num_followers": 186481,
   "original_name": "Northern Bars",
   "owner": {
     "name": "Spotify",
@@ -122,10 +122,14 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless",
+      "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {

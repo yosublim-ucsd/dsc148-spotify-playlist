@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Smiley & Icewear Vezzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,451 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,481 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 4 | [HITSCAN](https://open.spotify.com/track/3oP2Q4QYLb0krybHshZ2CM) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [HITSCAN](https://open.spotify.com/album/0wIbOInUJpzoozjaZBIYp6) | 2:27 |
 | 5 | [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 |
 | 6 | [Creole](https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg) | [Creole](https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt) | 2:29 |
-| 7 | [Timeless](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 |
+| 7 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 |
 | 8 | [Buckle Up](https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:52 |
 | 9 | [Ego Intervention \(Upchurch Therapy Session\)](https://open.spotify.com/track/3cgHEnjsUwHukxRHGm2auS) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Ego Intervention \(Upchurch Therapy Session\)](https://open.spotify.com/album/3cBpH5OzbCio2n82Xm4TDN) | 3:27 |
 | 10 | [BOOTLEG BALENCIAGA.](https://open.spotify.com/track/2C7ua3VXMJJzb1F4fNHNTw) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [HOLD MY LIQUOR](https://open.spotify.com/album/5b4CWb6hbrZ3Zsz5i850hG) | 2:00 |

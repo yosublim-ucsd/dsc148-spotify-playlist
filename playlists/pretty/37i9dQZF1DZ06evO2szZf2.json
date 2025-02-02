@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34893,
+  "num_followers": 34898,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABSwZRr5mg6IJ3TUmTZEMXf",
+  "snapshot_id": "Z5wSgAAAAAAWj4X3+tC9OmtuCBtxkhPh",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 570360,
       "name": "Homenagem Aos Rel\u00edquias 6",
       "url": "https://open.spotify.com/track/1xdsUlTfAKQA9Vxnn0toIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
@@ -715,26 +715,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm"
       },
       "artists": [
         {
+          "name": "DJ Gabriel",
+          "url": "https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/3EtXD1ODCDVhaWv0gbBEt6"
+        },
+        {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Golpeame",
-      "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
+      "duration_ms": 123316,
+      "name": "Festa na Marina",
+      "url": "https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb"
     },
     {
       "added_at": null,
@@ -763,26 +763,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa na Marina",
-        "url": "https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm"
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
       },
       "artists": [
         {
-          "name": "DJ Gabriel",
-          "url": "https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB"
-        },
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/3EtXD1ODCDVhaWv0gbBEt6"
-        },
-        {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 123316,
-      "name": "Festa na Marina",
-      "url": "https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb"
+      "duration_ms": 147692,
+      "name": "Golpeame",
+      "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Olha e Me Respeita",
+        "url": "https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Me Olha e Me Respeita",
+      "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mandrake",
         "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Olha e Me Respeita",
-        "url": "https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Me Olha e Me Respeita",
-      "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quarentena do Trator",
         "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
       },
@@ -903,6 +903,26 @@
       "duration_ms": 133100,
       "name": "Vuco Vuco",
       "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -943,82 +963,6 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET COQUETEL MOLOTOV",
-        "url": "https://open.spotify.com/album/2ftpOZqO43lSOsoH4p1VXG"
-      },
-      "artists": [
-        {
-          "name": "Dj Rhuivo",
-          "url": "https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "ZANETTI",
-          "url": "https://open.spotify.com/artist/2ftTXbeHBmrd2acZzKodnf"
-        },
-        {
-          "name": "Caio Viny",
-          "url": "https://open.spotify.com/artist/6CNeKQxqSBGU8Btb9ZLOMt"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Will do Paraiso",
-          "url": "https://open.spotify.com/artist/0s9DH3LAJIHZQaXbVLjAnd"
-        },
-        {
-          "name": "Mc Chumbinho",
-          "url": "https://open.spotify.com/artist/4sTPKiaUf0ZL6OPI7g57y4"
-        },
-        {
-          "name": "MB Music Studio",
-          "url": "https://open.spotify.com/artist/75UAWac23o9MglK4Hc58nD"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 511029,
-      "name": "SET COQUETEL MOLOTOV",
-      "url": "https://open.spotify.com/track/2sPZNhhuFjjeIzqgz9C95r"
     },
     {
       "added_at": null,
@@ -1115,6 +1059,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET COQUETEL MOLOTOV",
+        "url": "https://open.spotify.com/album/2ftpOZqO43lSOsoH4p1VXG"
+      },
+      "artists": [
+        {
+          "name": "Dj Rhuivo",
+          "url": "https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "ZANETTI",
+          "url": "https://open.spotify.com/artist/2ftTXbeHBmrd2acZzKodnf"
+        },
+        {
+          "name": "Caio Viny",
+          "url": "https://open.spotify.com/artist/6CNeKQxqSBGU8Btb9ZLOMt"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Will do Paraiso",
+          "url": "https://open.spotify.com/artist/0s9DH3LAJIHZQaXbVLjAnd"
+        },
+        {
+          "name": "Mc Chumbinho",
+          "url": "https://open.spotify.com/artist/4sTPKiaUf0ZL6OPI7g57y4"
+        },
+        {
+          "name": "MB Music Studio",
+          "url": "https://open.spotify.com/artist/75UAWac23o9MglK4Hc58nD"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 511029,
+      "name": "SET COQUETEL MOLOTOV",
+      "url": "https://open.spotify.com/track/2sPZNhhuFjjeIzqgz9C95r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -1167,6 +1167,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mega Da Rainha",
+        "url": "https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "duration_ms": 125769,
+      "name": "Quer Sair Da Minha Vida, Pode Sair",
+      "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida do Crime",
         "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
       },
@@ -1199,38 +1231,6 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mega Da Rainha",
-        "url": "https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        }
-      ],
-      "duration_ms": 125769,
-      "name": "Quer Sair Da Minha Vida, Pode Sair",
-      "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
     },
     {
       "added_at": null,

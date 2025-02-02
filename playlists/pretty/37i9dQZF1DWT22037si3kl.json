@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Nebrugg",
-  "num_followers": 145546,
+  "num_followers": 145554,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,30 @@
     {
       "added_at": "2025-01-24 03:01:22",
       "album": {
+        "name": "MOTIVO",
+        "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        }
+      ],
+      "duration_ms": 166015,
+      "name": "MOTIVO",
+      "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
+    },
+    {
+      "added_at": "2025-01-24 03:01:22",
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
       },
@@ -627,30 +651,6 @@
       "duration_ms": 188423,
       "name": "LOBO",
       "url": "https://open.spotify.com/track/24JtaufFKH2Ugqw14v6tv6"
-    },
-    {
-      "added_at": "2025-01-24 03:01:22",
-      "album": {
-        "name": "MOTIVO",
-        "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
-      },
-      "artists": [
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        },
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "TheJovemJota",
-          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
-        }
-      ],
-      "duration_ms": 166015,
-      "name": "MOTIVO",
-      "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
     },
     {
       "added_at": "2025-01-24 03:01:22",

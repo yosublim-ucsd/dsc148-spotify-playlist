@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,638 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,650 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 17 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 |
 | 18 | [Bumpin' On Sunset](https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 4:49 |
 | 19 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 |
-| 20 | [Black Orchid](https://open.spotify.com/track/1Xrlr0CvpV1dFakpGJDzLI) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Breeze From The East](https://open.spotify.com/album/3VUnIk2AAjvnUb4N8SI1WY) | 3:12 |
-| 21 | [Whisper Not](https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 2:56 |
+| 20 | [Whisper Not](https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 2:56 |
+| 21 | [Black Orchid](https://open.spotify.com/track/1Xrlr0CvpV1dFakpGJDzLI) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Breeze From The East](https://open.spotify.com/album/3VUnIk2AAjvnUb4N8SI1WY) | 3:12 |
 | 22 | [Sunny](https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Giblet Gravy \(Expanded Edition\)](https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ) | 2:56 |
 | 23 | [Night And Day](https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 6:45 |
 | 24 | [Nice Work If You Can Get It](https://open.spotify.com/track/0voKz9hHJcNGiY3KtNRl4I) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:45 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 47 | [All Of Me](https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 7:37 |
 | 48 | [First Wish](https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:59 |
 | 49 | [Easy To Love](https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:29 |
-| 50 | [Tulle](https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Quiet](https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz) | 5:00 |
+| 50 | [Norwegian Wood](https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 8:04 |
 | 51 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 |
-| 52 | [Norwegian Wood](https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 8:04 |
+| 52 | [Tulle](https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Quiet](https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz) | 5:00 |
 | 53 | [April In Paris](https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54) | [Lionel Hampton Quintet](https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd) | [The Lionel Hampton Quintet](https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh) | 6:22 |
 | 54 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
 | 55 | [Worlds Outside](https://open.spotify.com/track/5as828xQewhAy2JBXwakAj) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:37 |

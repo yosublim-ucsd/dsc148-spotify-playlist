@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Post Malone
 
-515 songs - 1 day 7 hr 22 min
+516 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/60nFcqDHiuyvhkqA74rGtI) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Don't Let Me Go](https://open.spotify.com/album/1yJaFfWN0fAAdA2azfxbzD) | 2:18 | 2024-08-16 | 2024-10-14 |
 | [Don’t Care](https://open.spotify.com/track/2yAftdPBEhIp13EYtI8YZP) | [Laughing](https://open.spotify.com/artist/02wBeDenxYGyaUy9H49nt6) | [Because It’s True](https://open.spotify.com/album/1E1ncAUiHSyXacOPCSYxSK) | 2:29 | 2024-06-28 | 2024-07-13 |
+| [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 | 2025-01-31 |  |
 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 | 2023-02-03 | 2023-08-26 |
 | [Drips and Drops](https://open.spotify.com/track/3sobW38S1XKJ8RyWeckrW1) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [Drips and Drops](https://open.spotify.com/album/1dbuSXkDC1bnfOEd3rzhse) | 4:01 | 2022-06-17 | 2023-04-22 |
 | [Driving Around](https://open.spotify.com/track/0UskdLSFEqspr1gMKADP27) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Driving Around](https://open.spotify.com/album/5qOU27Kapl0stO8FTbgClv) | 3:48 | 2022-07-08 | 2022-08-13 |
@@ -397,7 +398,7 @@
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-09-22 | 2023-10-28 |
 | [Say What You Like](https://open.spotify.com/track/25i56zqjCrbeSWqV5z0Gki) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/6ondmI9JnDrxgTA3lIxkgD) | 2:47 | 2022-11-18 | 2023-04-29 |
 | [Say What You Like](https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:47 | 2023-04-28 | 2023-10-28 |
-| [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 | 2024-07-19 |  |
+| [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 | 2024-07-19 | 2025-02-02 |
 | [Seasons](https://open.spotify.com/track/6E04ZDC2zmiBNonSpjVCe8) | [Blackbird Valley](https://open.spotify.com/artist/44Q243Ct8zD0pJAT6v4jGV) | [Seasons](https://open.spotify.com/album/3Wuu6SCOFRfoo0NVf40lef) | 5:01 | 2022-07-22 | 2023-04-22 |
 | [Second Thought](https://open.spotify.com/track/6aVcvW1HA1hEblYlJM8hAN) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Second Thought](https://open.spotify.com/album/0eMOa6K8m3LyiOUozJLrri) | 3:29 | 2022-08-26 | 2022-10-01 |
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 | 2022-09-17 |

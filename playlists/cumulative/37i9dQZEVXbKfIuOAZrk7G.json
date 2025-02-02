@@ -2779,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312240,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
+    },
+    {
+      "album": {
         "name": "agenda",
         "url": "https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl"
       },
@@ -4980,7 +4998,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -9540,7 +9558,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 228836,
       "name": "CAF\u00e9 CON RON",
       "url": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
@@ -10944,6 +10962,42 @@
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
+    },
+    {
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/0pEt88A6qoRyUZPMeCxLnq"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116417,
+      "name": "chess",
+      "url": "https://open.spotify.com/track/3GPCXHGwf7UoTcMyVY0KoA"
+    },
+    {
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/0pEt88A6qoRyUZPMeCxLnq"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143660,
+      "name": "chess (slowed)",
+      "url": "https://open.spotify.com/track/1neintdjlABjVTPGUIN6Gl"
     },
     {
       "album": {
@@ -13700,7 +13754,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 153415,
       "name": "Day Late & A Buck Short",
       "url": "https://open.spotify.com/track/2fsCi7ljM1DCc9nmMw7WU6"
@@ -15674,7 +15728,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 101893,
       "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
       "url": "https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ"
@@ -17628,7 +17682,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 263693,
       "name": "Eusexua",
       "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
@@ -45446,7 +45500,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 197346,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX"
@@ -53416,7 +53470,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 224127,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"

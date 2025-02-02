@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 93457,
+  "num_followers": 93463,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADAzHzRECvY7Rh3MxR4rnrB",
+  "snapshot_id": "Z5wSgAAAAADjV5eHzvZQ/DjJ41siVC3a",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a Jes\u00fas",
-        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 321619,
-      "name": "Somos el pueblo de Dios",
-      "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enciende una Luz",
         "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 439484,
       "name": "Enciende Una Luz",
       "url": "https://open.spotify.com/track/4lTtpXPGs7NAqyQxgtDAct"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 321619,
+      "name": "Somos el pueblo de Dios",
+      "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Iglesia",
-        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 297638,
-      "name": "Bendice Alma M\u00eda",
-      "url": "https://open.spotify.com/track/53pDk8D79rvlUn8PRoyLuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volver\u00e1",
         "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 329377,
       "name": "A Quien Ir\u00e9",
       "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Iglesia",
+        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 297638,
+      "name": "Bendice Alma M\u00eda",
+      "url": "https://open.spotify.com/track/53pDk8D79rvlUn8PRoyLuP"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 325128,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adoremos",
         "url": "https://open.spotify.com/album/2YISvt6LsSIaOFujAQQVkh"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 282044,
       "name": "Tu Misericordia",
       "url": "https://open.spotify.com/track/62JXNY39mekHoBTxO5gKWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 325128,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jes\u00fas (feat. Marcos Witt)",
-        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 305981,
-      "name": "Jes\u00fas (feat. Marcos Witt)",
-      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Tierra",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 358086,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jes\u00fas (feat. Marcos Witt)",
+        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 305981,
+      "name": "Jes\u00fas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
     }
   ],
   "unique_name": "This Is Marcos Witt",

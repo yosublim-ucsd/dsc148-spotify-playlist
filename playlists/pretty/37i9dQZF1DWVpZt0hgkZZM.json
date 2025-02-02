@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 37739,
+  "num_followers": 37758,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "El Hombre Mas Famoso De La Tierra",
+        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Guallando",
+      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "El Hombre Mas Famoso De La Tierra",
-        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Guallando",
-      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -323,26 +323,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Otra Noche (Another Night)",
-      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Senta Danada",
         "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 172621,
       "name": "Senta Danada",
       "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Otra Noche (Another Night)",
+      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
+      },
+      "artists": [
+        {
+          "name": "Rhapsodia",
+          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
+        }
+      ],
+      "duration_ms": 410070,
+      "name": "Nuestro Amor Ser\u00e1",
+      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 268230,
       "name": "La Zenaida",
       "url": "https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
-      },
-      "artists": [
-        {
-          "name": "Rhapsodia",
-          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
-        }
-      ],
-      "duration_ms": 410070,
-      "name": "Nuestro Amor Ser\u00e1",
-      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/4DI822RRc3lVOKz4ed1MSF"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 204288,
       "name": "Cachete, Pechito y Ombligo",
       "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/4DI822RRc3lVOKz4ed1MSF"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1146,11 +1146,15 @@
         {
           "name": "Los Ocho De Colombia",
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "\u00c9der Ortega",
+          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Mu\u00f1eca Linda",
-      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+      "duration_ms": 247306,
+      "name": "Si Me Dejaras (Te Necesito)",
+      "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1246,15 +1250,11 @@
         {
           "name": "Los Ocho De Colombia",
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "\u00c9der Ortega",
-          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
         }
       ],
-      "duration_ms": 247306,
-      "name": "Si Me Dejaras (Te Necesito)",
-      "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
+      "duration_ms": 212821,
+      "name": "Mu\u00f1eca Linda",
+      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
-        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
+        "name": "Historia Musical de Alfredo Guti\u00e9rrez",
+        "url": "https://open.spotify.com/album/0YYxKT1WDdzYUvPA09rkG8"
       },
       "artists": [
         {
-          "name": "Lucho Cuadros",
-          "url": "https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK"
-        },
-        {
-          "name": "Eliecer Ochoa",
-          "url": "https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP"
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Te Est\u00e1n Matando los A\u00f1os",
-      "url": "https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5"
+      "duration_ms": 217421,
+      "name": "Hue Le La",
+      "url": "https://open.spotify.com/track/4f1SHxvB9HorDX5gX1YxPU"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Alfredo Guti\u00e9rrez",
-        "url": "https://open.spotify.com/album/0YYxKT1WDdzYUvPA09rkG8"
+        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
+        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
       "artists": [
         {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+          "name": "Lucho Cuadros",
+          "url": "https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK"
+        },
+        {
+          "name": "Eliecer Ochoa",
+          "url": "https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP"
         }
       ],
-      "duration_ms": 217421,
-      "name": "Hue Le La",
-      "url": "https://open.spotify.com/track/4f1SHxvB9HorDX5gX1YxPU"
+      "duration_ms": 214226,
+      "name": "Te Est\u00e1n Matando los A\u00f1os",
+      "url": "https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1712,9 +1712,9 @@
           "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
         }
       ],
-      "duration_ms": 174705,
-      "name": "La Danza de los Mirlos - Instrumental",
-      "url": "https://open.spotify.com/track/7HHFSKXG3UIaJDdVkkrI3c"
+      "duration_ms": 148536,
+      "name": "La Ca\u00f1a de Azucar",
+      "url": "https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo"
     },
     {
       "added_at": "2024-07-12 23:11:55",

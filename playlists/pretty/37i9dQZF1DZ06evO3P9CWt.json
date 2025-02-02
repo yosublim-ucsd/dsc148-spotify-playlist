@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280359,
+  "num_followers": 280366,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADzP3J8ApSAzjC95sSZOzFR",
+  "snapshot_id": "Z5wSgAAAAAB01JM73fEV+8MUH4nvEV8k",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "S\u00e3o Amores",
-      "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "S\u00e3o Amores",
+      "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
     },
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 206002,
-      "name": "Hoje \u00c0 Noite (Alone)",
-      "url": "https://open.spotify.com/track/05JKQNjTszGYFsPpC480Xq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 320800,
       "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
       "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 206002,
+      "name": "Hoje \u00c0 Noite (Alone)",
+      "url": "https://open.spotify.com/track/05JKQNjTszGYFsPpC480Xq"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 144175,
-      "name": "Ai Que Calor",
-      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAL",
         "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 120000,
       "name": "SAL",
       "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 144175,
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan"
     },
     {
       "added_at": null,
@@ -323,22 +323,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Manda em Mim",
-        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
       "artists": [
         {
-          "name": "Zaynara",
-          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
+      },
+      "artists": [
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Quem Manda em Mim",
-      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
     },
     {
       "added_at": null,
@@ -363,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+        "name": "Quem Manda em Mim",
+        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
         },
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
+      "duration_ms": 192000,
+      "name": "Quem Manda em Mim",
+      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
     },
     {
       "added_at": null,
@@ -395,58 +411,6 @@
       "duration_ms": 173136,
       "name": "Disk Me",
       "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIA CLARK",
-        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 206736,
-      "name": "Pra Te Esquecer",
-      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
     },
     {
       "added_at": null,
@@ -475,6 +439,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 206736,
+      "name": "Pra Te Esquecer",
+      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIA CLARK",
+        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 157928,
       "name": "Amor de Que",
       "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 167502,
+      "name": "Zap Zum",
+      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 167502,
-      "name": "Zap Zum",
-      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 162464,
       "name": "Problema Seu",
       "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 128067,
+      "name": "Garupa",
+      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
     },
     {
       "added_at": null,
@@ -567,26 +587,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 128067,
-      "name": "Garupa",
-      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
     },
     {
       "added_at": null,

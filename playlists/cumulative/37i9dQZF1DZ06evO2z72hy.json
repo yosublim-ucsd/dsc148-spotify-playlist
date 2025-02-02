@@ -1269,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "E.N Young",
+          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190660,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
+    },
+    {
+      "album": {
         "name": "Resiliente",
         "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
       },

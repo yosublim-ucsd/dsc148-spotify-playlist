@@ -1,6 +1,6 @@
 {
   "description": "Dance anthems from the club to your ears! ",
-  "num_followers": 301673,
+  "num_followers": 301789,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
-        "name": "Bump Artist EP",
-        "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        },
-        {
-          "name": "Alex Peace",
-          "url": "https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Bump Artist",
-      "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
-    },
-    {
-      "added_at": "2024-10-25 00:00:00",
-      "album": {
         "name": "To The Beat",
         "url": "https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 236987,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
+        "name": "Bump Artist EP",
+        "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Alex Peace",
+          "url": "https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Bump Artist",
+      "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
     },
     {
       "added_at": "2024-10-25 00:00:00",

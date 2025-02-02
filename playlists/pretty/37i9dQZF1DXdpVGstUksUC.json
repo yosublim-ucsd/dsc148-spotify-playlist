@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 233599,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "CVI",
-        "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
-      },
-      "artists": [
-        {
-          "name": "Royal Thunder",
-          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
-        }
-      ],
-      "duration_ms": 417720,
-      "name": "Parsonz Curse",
-      "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "In Her Garden",
         "url": "https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 408373,
       "name": "Black Lilly",
       "url": "https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "CVI",
+        "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
+      },
+      "artists": [
+        {
+          "name": "Royal Thunder",
+          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
+        }
+      ],
+      "duration_ms": 417720,
+      "name": "Parsonz Curse",
+      "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dos E.P.'s",
-        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
-      },
-      "artists": [
-        {
-          "name": "Nebula",
-          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
-        }
-      ],
-      "duration_ms": 328960,
-      "name": "Smokin' Woman",
-      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Lightning Born",
         "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 275066,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dos E.P.'s",
+        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
+      },
+      "artists": [
+        {
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
+        }
+      ],
+      "duration_ms": 328960,
+      "name": "Smokin' Woman",
+      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "All My Friends Move Like The Night",
-        "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
-      },
-      "artists": [
-        {
-          "name": "Devil Electric",
-          "url": "https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "All My Friends Move Like The Night",
-      "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Ode To IO",
         "url": "https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 366333,
       "name": "Riding Shotgun",
       "url": "https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "All My Friends Move Like The Night",
+        "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
+      },
+      "artists": [
+        {
+          "name": "Devil Electric",
+          "url": "https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA"
+        }
+      ],
+      "duration_ms": 173808,
+      "name": "All My Friends Move Like The Night",
+      "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
     },
     {
       "added_at": "2024-07-19 04:00:00",

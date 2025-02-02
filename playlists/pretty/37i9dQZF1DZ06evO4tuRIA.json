@@ -1,13 +1,29 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 90388,
+  "num_followers": 90434,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACRNIIBm8x8xIqDNJH+yApr",
+  "snapshot_id": "Z5wSgAAAAAA15k0S2tEtoujvrbnyTuwI",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loko",
+        "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 131754,
+      "name": "Loko",
+      "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
+    },
     {
       "added_at": null,
       "album": {
@@ -283,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy A Llegar",
-        "url": "https://open.spotify.com/album/4MRY4so8usWw44veoMuaM1"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        }
-      ],
-      "duration_ms": 162750,
-      "name": "Voy A Llegar",
-      "url": "https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -323,6 +319,26 @@
       "duration_ms": 172316,
       "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy A Llegar",
+        "url": "https://open.spotify.com/album/4MRY4so8usWw44veoMuaM1"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "Voy A Llegar",
+      "url": "https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw"
     },
     {
       "added_at": null,
@@ -611,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 126249,
-      "name": "Bien Tumbado",
-      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -651,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
+        "name": "Duetos Con La Clika",
+        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
+      "duration_ms": 126249,
+      "name": "Bien Tumbado",
+      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
     },
     {
       "added_at": null,
@@ -683,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Lumbre",
-        "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
+        "name": "Chambeando Recio",
+        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 153250,
-      "name": "El Jeffrey",
-      "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
+      "duration_ms": 157749,
+      "name": "Chambeando Recio",
+      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
     },
     {
       "added_at": null,
@@ -719,6 +715,26 @@
       "duration_ms": 182125,
       "name": "El Que Me Cerr\u00f3 la Puerta",
       "url": "https://open.spotify.com/track/3meYy69YC7gKmHgTJGq7Q4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. Lumbre",
+        "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "El Jeffrey",
+      "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
     },
     {
       "added_at": null,
@@ -823,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Laguna",
-          "url": "https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 201208,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bank Robbery (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
       },
@@ -867,6 +863,26 @@
       "duration_ms": 158973,
       "name": "The Bank Robbery",
       "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Laguna",
+          "url": "https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 201208,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 78260,
+  "num_followers": 78274,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "HACE TIEMPO",
-        "url": "https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE"
-      },
-      "artists": [
-        {
-          "name": "Bryartz",
-          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "HACE TIEMPO",
-      "url": "https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "YO SE QUE TU (feat. Rusherking)",
         "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 193043,
       "name": "YO SE QUE TU (feat. Rusherking)",
       "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "HACE TIEMPO",
+        "url": "https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "HACE TIEMPO",
+      "url": "https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -719,34 +719,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Baby Schai (Remix)",
-        "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 328148,
-      "name": "Baby Schai - Remix",
-      "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "Perdon\u00e9monos",
         "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
       },
@@ -795,26 +767,30 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
+        "name": "Baby Schai (Remix)",
+        "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
       },
       "artists": [
         {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         },
         {
-          "name": "Bowdozen",
-          "url": "https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         },
         {
-          "name": "Sebas Boxian",
-          "url": "https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 195163,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
+      "duration_ms": 328148,
+      "name": "Baby Schai - Remix",
+      "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -843,6 +819,30 @@
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
+      },
+      "artists": [
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Bowdozen",
+          "url": "https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN"
+        },
+        {
+          "name": "Sebas Boxian",
+          "url": "https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N"
+        }
+      ],
+      "duration_ms": 195163,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "MAMi QU\u00c9 FUE?",
-        "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
+        "name": "Palmas",
+        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
       "artists": [
         {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
         },
         {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+          "name": "Saga WhiteBlack",
+          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
         }
       ],
-      "duration_ms": 167814,
-      "name": "MAMi QU\u00c9 FUE?",
-      "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
+      "duration_ms": 171089,
+      "name": "Palmas",
+      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

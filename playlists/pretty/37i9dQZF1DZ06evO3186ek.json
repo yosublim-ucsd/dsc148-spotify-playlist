@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 154706,
+  "num_followers": 154762,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABqpYLUhENPxG8YObfCQ00c",
+  "snapshot_id": "Z5wSgAAAAAAZjMsOqMnO2akLZmEXeTER",
   "tracks": [
     {
       "added_at": null,
@@ -419,30 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 263833,
-      "name": "God Really Loves Us",
-      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Room (feat. Tasha Cobbs Leonard)",
         "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 263833,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
     },
     {
       "added_at": null,
@@ -1171,30 +1171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/6N6i9REfWKmEpwOyhGgl9M"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        }
-      ],
-      "duration_ms": 203061,
-      "name": "The Gift",
-      "url": "https://open.spotify.com/track/4ZoCtoxfdGVKuz4i49sNIP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 449446,
       "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
       "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/6N6i9REfWKmEpwOyhGgl9M"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "duration_ms": 203061,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/4ZoCtoxfdGVKuz4i49sNIP"
     },
     {
       "added_at": null,

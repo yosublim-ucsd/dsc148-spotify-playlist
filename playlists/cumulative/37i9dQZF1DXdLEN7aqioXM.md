@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-484 songs - 1 day 10 hr 34 min
+485 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Faded](https://open.spotify.com/track/7hBhvWoutyueUsCOjz6FZa) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Faded](https://open.spotify.com/album/4qVesAkDopkAbgW15jedIe) | 3:19 | 2022-10-28 |  |
 | [Failed Star](https://open.spotify.com/track/39wuQ4m4GBzrGfivIjjL22) | [PatternShift](https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV) | [Failed Star](https://open.spotify.com/album/7ofYca980GtIAs7OOe99GC) | 4:32 | 2021-10-15 | 2022-07-28 |
 | [Falkor Flight](https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew) | [Mark Dee](https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z) | [Falkor Flight](https://open.spotify.com/album/0N8MB3jb6zE771kHcz4JXF) | 4:27 | 2023-11-27 |  |
+| [Far](https://open.spotify.com/track/3B3HvJPPzoc2YUeq3TAPeO) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [Far](https://open.spotify.com/album/4EUv4vgiwW4DxuvmLQqNnj) | 4:07 | 2024-09-11 |  |
 | [Feel](https://open.spotify.com/track/1suJTW6qNyv8wrJrhl66GB) | [Mötel](https://open.spotify.com/artist/0t2BvVv6gU4bPa0OFvcTJN) | [Feel](https://open.spotify.com/album/10fs3d44oj8OzWWsAj9eCB) | 3:33 | 2022-04-01 | 2022-04-21 |
 | [feel you](https://open.spotify.com/track/2ZS6zsrVD0FT0D5HbDpky3) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [leah julia](https://open.spotify.com/artist/2anFRwD3jRc3N8iTNaz41D) | [feel you](https://open.spotify.com/album/5N2ZWLzgmo9IhGOuQeq1ou) | 1:58 | 2023-10-23 |  |
 | [Feeling It](https://open.spotify.com/track/3h45GAnateHR2KnCiZYOQA) | [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ) | [Feeling It](https://open.spotify.com/album/0A2F4dtZP2YcS85ZBIrXVp) | 3:20 | 2022-12-01 | 2023-07-01 |
@@ -191,7 +192,7 @@
 | [Golden Hour](https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw) | [Balcony Sunrise](https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF) | [Golden Hour](https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5) | 4:13 | 2022-07-22 | 2023-09-28 |
 | [Golden Taurus](https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7) | [Vercetti Technicolor](https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO) | [Golden Taurus EP](https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq) | 5:45 | 2022-04-01 | 2022-11-06 |
 | [Gorwel](https://open.spotify.com/track/28L1PMK9pGoujuvl91DwEo) | [Carw](https://open.spotify.com/artist/7AaeIQ8PJitJJcScxTWL13) | [Gorwel](https://open.spotify.com/album/37peSNX9tLt9iy3UFYOeF3) | 3:29 | 2022-02-04 | 2022-02-16 |
-| [Gravity](https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70) | [SHADU](https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C) | [Gravity](https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF) | 3:26 | 2023-01-13 |  |
+| [Gravity](https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70) | [SHADU](https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C) | [Gravity](https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF) | 3:26 | 2023-01-13 | 2025-02-02 |
 | [Gravity \(Of U & I\)](https://open.spotify.com/track/5phvikd8m1kALvoBuKfnIO) | [HELIXIRx](https://open.spotify.com/artist/3k8Yy0uBrm0uDy3P6Txzgc) | [Authenticity: The Instrumentals](https://open.spotify.com/album/4PFdNLbzmXK25Ui4SfQJpw) | 4:49 | 2022-02-04 | 2022-02-19 |
 | [Gunshot](https://open.spotify.com/track/781UsdIGZ2ce8qLJQOpgGT) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Gunshot](https://open.spotify.com/album/5R1pqh68glbrzZMJWiOjQw) | 3:49 | 2022-02-04 | 2022-04-20 |
 | [Gutterpunk Kids](https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [District 970](https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd) | 4:13 | 2021-10-15 | 2023-10-24 |

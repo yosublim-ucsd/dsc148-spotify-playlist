@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6763,
+  "num_followers": 6764,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Temp\u00eate",
-        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
-      },
-      "artists": [
-        {
-          "name": "Malaim\u00e9 Soleil",
-          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Coin coin",
-      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "La nuit s'ach\u00e8ve",
         "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Les cent prochaines ann\u00e9es",
-        "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
+        "name": "Temp\u00eate",
+        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
       },
       "artists": [
         {
-          "name": "Albin de la Simone",
-          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Les cent prochaines ann\u00e9es",
-      "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
+      "duration_ms": 209680,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -991,6 +975,22 @@
       "duration_ms": 226666,
       "name": "J'fais des efforts",
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Les cent prochaines ann\u00e9es",
+        "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
+      },
+      "artists": [
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Les cent prochaines ann\u00e9es",
+      "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Les Heures",
+        "url": "https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        },
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "duration_ms": 210286,
+      "name": "Les Heures",
+      "url": "https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "BO Y Z Vol.2",
         "url": "https://open.spotify.com/album/4tXyRGC1FcO6FXdpFUGfRW"
       },
@@ -1047,22 +1067,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Les Heures",
-        "url": "https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO"
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
       "artists": [
         {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        },
-        {
-          "name": "Dani Terreur",
-          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
         }
       ],
-      "duration_ms": 210286,
-      "name": "Les Heures",
-      "url": "https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr"
+      "duration_ms": 149882,
+      "name": "America",
+      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1099,22 +1115,6 @@
       "duration_ms": 214647,
       "name": "J'aime quand on danse (tes mains sur mes hanches)",
       "url": "https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 149882,
-      "name": "America",
-      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La fess\u00e9e",
-        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        }
-      ],
-      "duration_ms": 237691,
-      "name": "La fess\u00e9e",
-      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Baloney suicide",
         "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 122253,
       "name": "Celui qui attend",
       "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La fess\u00e9e",
+        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "La fess\u00e9e",
+      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Jour",
-        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
-      },
-      "artists": [
-        {
-          "name": "Walter Astral",
-          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
-        }
-      ],
-      "duration_ms": 205855,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Don't Lose The Funk",
         "url": "https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 247687,
       "name": "Don't Lose The Funk",
       "url": "https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Jour",
+        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "duration_ms": 205855,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La clairi\u00e8re",
-        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 179833,
-      "name": "Le bois",
-      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Elle \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 171428,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 179833,
+      "name": "Le bois",
+      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
     },
     {
       "added_at": "2024-06-19 20:38:05",

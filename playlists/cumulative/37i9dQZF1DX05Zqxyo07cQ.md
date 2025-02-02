@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-643 songs - 1 day 7 hr 31 min
+645 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 |  |
 | [Adore](https://open.spotify.com/track/51yCSSmO1jssfPUnliLwEk) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Adore](https://open.spotify.com/album/6GK3oF02smp4Cl0ZphttUP) | 3:20 | 2023-03-23 | 2024-03-21 |
 | [Adrift](https://open.spotify.com/track/6BubwSHIXvMPQhFaDW6gXf) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Adrift](https://open.spotify.com/album/3nrhZs2qqfp7DtuofUjGfN) | 2:36 | 2024-02-08 | 2024-08-02 |
-| [Aere Perrenius](https://open.spotify.com/track/2jLDBIoRpdRRp5ZQcfUrlR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Aere Perrenius](https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y) | 3:22 | 2024-02-08 |  |
+| [Aere Perrenius](https://open.spotify.com/track/2jLDBIoRpdRRp5ZQcfUrlR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Aere Perrenius](https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y) | 3:22 | 2024-02-08 | 2025-02-02 |
 | [Aeterna](https://open.spotify.com/track/5PFe4q5VmBRaYUnXSeZ6EX) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Aeterna](https://open.spotify.com/album/1qlIcbSfHK3qmZUgT2vADm) | 3:08 | 2024-01-17 | 2024-07-23 |
 | [Aeternus](https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Aeternus](https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad) | 3:06 | 2024-01-17 | 2024-07-16 |
 | [Aetheris](https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma) | [Edge Of The Spiral](https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8) | [Aetheris](https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x) | 2:58 | 2024-06-18 | 2025-01-26 |
@@ -72,8 +72,9 @@
 | [Atwined](https://open.spotify.com/track/1heAYXQYiL5e2VBRClCaif) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Atwined](https://open.spotify.com/album/6TTy6hUzyFliywFJLXfYsk) | 2:20 | 2023-03-23 | 2024-02-09 |
 | [Auguries](https://open.spotify.com/track/0r6dzNmVBGVqNAe86v1YVw) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Auguries](https://open.spotify.com/album/4h4VsyU4i64AH1leEjfBSa) | 2:46 | 2024-03-06 | 2024-07-16 |
 | [Aura Serena](https://open.spotify.com/track/0ZeAWj2BGa6VoJUBzN4bZE) | [Coêlie Couvez](https://open.spotify.com/artist/76RIL7v2EFaMgfcMdLfIXq) | [Aura Serena](https://open.spotify.com/album/3ogABRGwm1rntxXBNxOFVX) | 2:36 | 2024-02-08 | 2024-11-07 |
+| [Awha](https://open.spotify.com/track/0qagB5q8Pb3ws2FV2UXlDZ) | [Ember Nova](https://open.spotify.com/artist/4RJoq6yWNYmSjrgp41bgMN) | [Awha](https://open.spotify.com/album/5hYApWwpP6I3xsNFBgKF7k) | 2:52 | 2025-01-22 |  |
 | [Balance Of Life](https://open.spotify.com/track/1Hue36yxMqCh9xX6TQ39pP) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Balance Of Life](https://open.spotify.com/album/79n1gHtnuCU27pmq5wNHNw) | 3:02 | 2024-07-15 | 2025-01-02 |
-| [Barefoot](https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Barefoot](https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV) | 2:59 | 2024-05-20 |  |
+| [Barefoot](https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Barefoot](https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV) | 2:59 | 2024-05-20 | 2025-02-02 |
 | [Basic Meditation](https://open.spotify.com/track/3MlyE6l0NIyTvLAIyojRWp) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Basic Meditation](https://open.spotify.com/album/4EIsO7ZvPEJvHOijkaQX53) | 3:02 | 2024-01-17 | 2024-10-15 |
 | [Beatific](https://open.spotify.com/track/3ggQqaU6hdn5udlJEGt5Ut) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Beatific](https://open.spotify.com/album/4reMaKYbd4T46jVORffBF4) | 3:16 | 2023-03-23 | 2024-04-06 |
 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 | 2023-03-23 | 2024-02-09 |
@@ -217,6 +218,7 @@
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2023-03-23 | 2024-02-09 |
 | [Eternal Moonlight](https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF) | [Rettifilo Flo](https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE) | [Eternal Moonlight](https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK) | 2:58 | 2024-05-04 |  |
 | [Eternal Oasis](https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Oasis](https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV) | 2:38 | 2025-01-08 |  |
+| [Eternalesque](https://open.spotify.com/track/78jKWVURKpY0OIPqWSyqAp) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Eternalesque](https://open.spotify.com/album/4Hs618FkmSigv8pWBToicU) | 2:34 | 2025-01-22 |  |
 | [Eterno](https://open.spotify.com/track/3oay2XHAnlNMqFdFzlJUmt) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Eterno](https://open.spotify.com/album/3xLFUr6AYl2ZSyqQMAC4MD) | 2:31 | 2023-03-23 | 2024-02-09 |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2023-03-23 | 2024-02-09 |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2023-03-23 | 2024-03-21 |

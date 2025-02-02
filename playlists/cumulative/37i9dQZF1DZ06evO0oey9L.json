@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Se\u00f1or 80",
+        "url": "https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143357,
+      "name": "Se\u00f1or 80",
+      "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
+    },
+    {
+      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },

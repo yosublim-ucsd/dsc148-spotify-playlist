@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,324 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,331 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 40 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
 | 41 | [Tied Down](https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Tied Down](https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS) | 2:43 |
 | 42 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
-| 43 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 |
-| 44 | [Never Yours](https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Never Yours](https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD) | 2:52 |
+| 43 | [Never Yours](https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Never Yours](https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD) | 2:52 |
+| 44 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 |
 | 45 | [distance between us](https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 3:24 |
 | 46 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
 | 47 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 49 | [Real](https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Real](https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt) | 2:56 |
 | 50 | [Options](https://open.spotify.com/track/4CvV6VfT6taArl6ZnO85qK) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Options](https://open.spotify.com/album/0hHfrwPYO6iO340NK28Pw4) | 2:04 |
 
-Snapshot ID: `Z5rBAAAAAAAiOof5jfmL46wCxyrOYElh`
+Snapshot ID: `Z5wSgAAAAAB1uHenGA3hbANYeqZIw01g`

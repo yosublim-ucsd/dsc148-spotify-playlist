@@ -1,12 +1,12 @@
 {
   "description": "This is Arctic Monkeys. The essential tracks, all in one playlist.",
-  "num_followers": 1704247,
+  "num_followers": 1704435,
   "original_name": "This Is Arctic Monkeys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABusEHXZ9vkEfP2aIML+FCR",
+  "snapshot_id": "Z5wSgAAAAABtjfAq2iuwR/SRq3830iDm",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave Before The Lights Come On",
-        "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
+        "name": "Why'd You Only Call Me When You're High?",
+        "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 152613,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
+      "duration_ms": 191040,
+      "name": "Stop The World I Wanna Get Off With You",
+      "url": "https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why'd You Only Call Me When You're High?",
-        "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
+        "name": "Leave Before The Lights Come On",
+        "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Stop The World I Wanna Get Off With You",
-      "url": "https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet"
+      "duration_ms": 152613,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
     },
     {
       "added_at": null,

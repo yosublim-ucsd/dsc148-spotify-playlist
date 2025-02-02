@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,857 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,870 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 |
-| 2 | [Kuka siin netis on](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka siin netis on](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 |
+| 1 | [Kuka siin netis on](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka siin netis on](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 |
+| 2 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 |
 | 3 | [Se Nainen](https://open.spotify.com/track/1KGRYDGIkt2DOwjXdPicxF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Se Nainen](https://open.spotify.com/album/1hdUbyu29r7EJEG5M9WIFr) | 2:50 |
 | 4 | [Eino Leino Bars \(feat\. Jami Faltin\)](https://open.spotify.com/track/5PkEmdlZA4wcLIH0Nv5VVa) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Eino Leino Bars \(feat\. Jami Faltin\)](https://open.spotify.com/album/7zICwE3Sgy0hZ0U2z2APoZ) | 3:22 |
 | 5 | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/track/7A2IHlYAKZuf8bflrCygqq) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36) | 2:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 50 | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/track/025yrw6g4e5OM4R9TpJqhQ) | [Rosvo](https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/album/27f3BuFXVj423LXp423lTd) | 2:46 |
 | 51 | [Kyl Sä Tiiät](https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kyl Sä Tiiät](https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0) | 2:49 |
 
-Snapshot ID: `Z5v2pgAAAAClXM3VbtTy+5RFg7PtmpxY`
+Snapshot ID: `Z55T7AAAAACZR+yXZz2vWCu36gMBnWVT`

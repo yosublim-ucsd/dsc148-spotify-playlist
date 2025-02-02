@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 like - 79 songs - 4 hr 38 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 like - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 77 | [Always Like This](https://open.spotify.com/track/1iudc1fa7Z4GRveENnEWZa) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Holy Grail](https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er) | 2:55 |
 | 78 | [Camel Crew](https://open.spotify.com/track/41CGrgMGCVSpWGZKTKmOLF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Deep Down Happy](https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y) | 3:33 |
 | 79 | [M5](https://open.spotify.com/track/20Bb5TgjHcEgSDYi7H697D) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Keep Walking!](https://open.spotify.com/album/1LcZ72USC40lsFSjKfoSqu) | 3:37 |
+| 80 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
 
-Snapshot ID: `AAAAtm1VRANk2eL/+wl0d/IO88kFWovl`
+Snapshot ID: `AAAAt6PjeqxlnM5c6ypnhSTBVlPlGlCj`

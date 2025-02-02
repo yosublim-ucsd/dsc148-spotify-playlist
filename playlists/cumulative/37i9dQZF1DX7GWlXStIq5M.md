@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Juliette
 
-918 songs - 1 day 21 hr 58 min
+919 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,7 +797,7 @@
 | [Sumaúma](https://open.spotify.com/track/5UGW4lRaR6jfx1be4WxOn8) | [Kaê Guajajara](https://open.spotify.com/artist/3PMGE59u9984fAh4jVYP6C) | [Sumaúma](https://open.spotify.com/album/2n9Jup0IdHxQFNZGROe6FS) | 4:16 | 2024-08-09 | 2024-11-23 |
 | [Surra De Hãn](https://open.spotify.com/track/31r961ztHOxUU2vAoF0iiv) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Surra De Hãn](https://open.spotify.com/album/7xTky1RYQJvtei1CbQ8O3h) | 2:43 | 2023-06-16 | 2023-08-19 |
 | [Surreal](https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:54 | 2023-09-01 | 2024-04-19 |
-| [Surreal](https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:54 | 2023-09-01 |  |
+| [Surreal](https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:54 | 2023-09-01 | 2025-02-02 |
 | [Sussurro](https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Sussurro](https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95) | 3:10 | 2024-08-16 | 2025-01-18 |
 | [Sweat](https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q) | [Any Gabrielly](https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje) | [Sweat](https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK) | 2:42 | 2024-08-23 | 2024-09-28 |
 | [Só Minha](https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz) | [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Só Minha](https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H) | 2:51 | 2023-09-29 | 2023-11-18 |
@@ -922,6 +922,7 @@
 | [Zerando a Vida](https://open.spotify.com/track/1rr3B3UAKOz3vzjuNfhLu3) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [Zerando a Vida](https://open.spotify.com/album/7pPHwj4BAv1Q7IUjhRgGju) | 2:21 | 2020-10-20 | 2022-07-29 |
 | [Zero Coragem](https://open.spotify.com/track/6Swwu1rtpfcFjOSgkrgB9Z) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Zero Coragem](https://open.spotify.com/album/4V0V4L7SjaicbPMHR7qBOM) | 2:28 | 2023-03-10 | 2023-08-19 |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2020-10-20 | 2023-02-15 |
+| [Água de Coco](https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:21 | 2025-01-31 |  |
 | [Águas passadas \(Netuno\)](https://open.spotify.com/track/5o9cjCBznQKB29YE1XfkD4) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Águas passadas \(Netuno\)](https://open.spotify.com/album/4clWwMvqmNZ4nkm00VOJA4) | 4:05 | 2024-12-13 |  |
 | [Ímã de Dinheiro](https://open.spotify.com/track/7EXTQ2gqX19CmMY0CBDeOH) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Ímã de Dinheiro](https://open.spotify.com/album/1jiZkSuO8hiUCeAwPCbUZQ) | 2:17 | 2020-10-20 | 2022-07-29 |
 | [Ô DESGRAÇA \(que é gostar de homem\)](https://open.spotify.com/track/2VFPklrXVuTebG21iwq3pH) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Ô DESGRAÇA \(que é gostar de homem\)](https://open.spotify.com/album/310SJtgQaKqvqKkXgCbAEL) | 2:29 | 2023-02-14 | 2023-02-24 |

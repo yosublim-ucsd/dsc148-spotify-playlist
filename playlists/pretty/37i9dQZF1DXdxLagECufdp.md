@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,551 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,558 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 21 | [No Te Desanimes](https://open.spotify.com/track/5UhdNEQw0SOtfdUYx3FhkU) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [No Te Desanimes](https://open.spotify.com/album/3ULGENdwrVsBlo4aCHhywh) | 4:28 |
 | 22 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 23 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
-| 24 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 |
+| 24 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
 | 25 | [Baila Leila](https://open.spotify.com/track/10JeR9uqMHMDwfF2mtxgQb) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Three Letters From Sarajevo \(Opus 1\)](https://open.spotify.com/album/2kg4rl6ejCMSjrj1lfHnam) | 4:39 |
-| 26 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
+| 26 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 |
 | 27 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
 | 28 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 |
 | 29 | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/track/1Lf4Dp7RTPwNI1pw9uOLrK) | [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn), [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/album/29eTnHPHnGirFCGrmApdAG) | 3:37 |
 | 30 | [Life Is a Miracle](https://open.spotify.com/track/3tvUrjwAY841KOU3dIeNXo) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Corps Diplomatique](https://open.spotify.com/album/0SwBDErYO4DCn8dxFr1WKM) | 3:57 |
 | 31 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
-| 32 | [Cumbia del Este](https://open.spotify.com/track/2HjnxDwW0FJgsTEiFscWtP) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 4:03 |
-| 33 | [La Gran Alianza del Norte](https://open.spotify.com/track/3q8E4v1do4oENB7CYg9rkR) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Piloncillo y Bacanora](https://open.spotify.com/album/1uliriDJ6RM4F7xUq049Zd) | 2:47 |
+| 32 | [La Gran Alianza del Norte](https://open.spotify.com/track/3q8E4v1do4oENB7CYg9rkR) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Piloncillo y Bacanora](https://open.spotify.com/album/1uliriDJ6RM4F7xUq049Zd) | 2:47 |
+| 33 | [Cumbia del Este](https://open.spotify.com/track/2HjnxDwW0FJgsTEiFscWtP) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 4:03 |
 | 34 | [Karnaval](https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Volver al Futuro \(Otro Futuro\)](https://open.spotify.com/album/184ZgYcvVQWNyvoDHBYtuE) | 4:22 |
 | 35 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
 | 36 | [A Tapdancer's Dilema](https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Sing\-Along Songs for the Damned and Delirious](https://open.spotify.com/album/36j0yWKLk5a6rLgJEhUghU) | 5:12 |

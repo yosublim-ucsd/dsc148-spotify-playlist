@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 73294,
+  "num_followers": 73305,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADnpcNjLo0Hz58d/UVQGb9h",
+  "snapshot_id": "Z5wSgAAAAABWLetSLps3hGk+4bPjILXo",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 200146,
       "name": "Vuelve Por Favor",
       "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
     },
     {
       "added_at": null,
@@ -459,6 +459,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi 45 (En Vivo)",
+        "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Jesus Payan",
+          "url": "https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ"
+        }
+      ],
+      "duration_ms": 156840,
+      "name": "Mi 45 - En Vivo",
+      "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Perder El Estilo",
         "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
@@ -475,26 +499,6 @@
       "duration_ms": 226154,
       "name": "Contra Mis Principios - Bonus Track",
       "url": "https://open.spotify.com/track/0bp7iqBd58Quykcujvd9P3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "El Gordo",
-      "url": "https://open.spotify.com/track/7DeYqkxdQsxQQdJpXzgDLO"
     },
     {
       "added_at": null,
@@ -519,26 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi 45 (En Vivo)",
-        "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
       "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         },
         {
-          "name": "Jesus Payan",
-          "url": "https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 156840,
-      "name": "Mi 45 - En Vivo",
-      "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
+      "duration_ms": 166613,
+      "name": "El Gordo",
+      "url": "https://open.spotify.com/track/7DeYqkxdQsxQQdJpXzgDLO"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 163477,
-      "name": "Conmigo Ya No Cuentas",
-      "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ariel Camacho Para Siempre",
         "url": "https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 156972,
       "name": "El Mentado",
       "url": "https://open.spotify.com/track/2K5oFDtsSM0Wf6rzOmVEMT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 163477,
+      "name": "Conmigo Ya No Cuentas",
+      "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
     },
     {
       "added_at": null,

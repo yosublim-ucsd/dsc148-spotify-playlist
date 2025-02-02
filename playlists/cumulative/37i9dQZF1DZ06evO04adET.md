@@ -4,7 +4,7 @@
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 48 min
+95 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Eres](https://open.spotify.com/track/6GM5l4aJ9aOhGStxODvNBm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:52 | 2023-08-08 | 2023-09-11 |
 | [Estrellas](https://open.spotify.com/track/3RJtmjTdfo1Tz1Ys122y5y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:06 | 2023-08-22 | 2023-09-19 |
 | [F1](https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [F1](https://open.spotify.com/album/6DWBiI2xUByeqXbRYTu5EL) | 2:34 | 2023-08-08 | 2024-02-05 |
+| [Gallos Y Caballos](https://open.spotify.com/track/1pn82sWTAmrP709W07VImY) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gallos Y Caballos](https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl) | 2:38 | 2025-02-02 |  |
 | [Giza](https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Giza](https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy) | 2:57 | 2024-07-13 |  |
 | [Gracias](https://open.spotify.com/track/4lkl1CC0Py1pLOuQ4h2KuV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gracias](https://open.spotify.com/album/1nT3wVcqO8lnYICj8jkLiY) | 2:28 | 2023-08-08 | 2023-08-23 |
 | [Iniciales AL \(Porte Fino\)](https://open.spotify.com/track/58bqqIYUIbkMOgD1ZBAr1E) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:22 | 2023-08-08 | 2023-10-11 |

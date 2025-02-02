@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24406,
+  "num_followers": 24407,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Bajo la piel",
-        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 240113,
-      "name": "Bajo la piel",
-      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Postal",
         "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
       },
@@ -623,6 +603,22 @@
       "duration_ms": 210002,
       "name": "TODO LO QUE HICIMOS.",
       "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 182291,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -643,18 +639,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
+        "name": "Bajo la piel",
+        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
       "artists": [
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
         }
       ],
-      "duration_ms": 182291,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
+      "duration_ms": 240113,
+      "name": "Bajo la piel",
+      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
-      },
-      "artists": [
-        {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
-        },
-        {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "La Mar (Remixes)",
         "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 347000,
       "name": "Dejarte de Querer - Nico Castro Remix",
       "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+      },
+      "artists": [
+        {
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
-      },
-      "artists": [
-        {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
         "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 357200,
       "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
       "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Zentaura",
-        "url": "https://open.spotify.com/album/5QkPxWYBgDfEnkNzL9zy1m"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Desbats",
-          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
-        },
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 186158,
-      "name": "Zentaura",
-      "url": "https://open.spotify.com/track/5n8wmlh90HNlV0VnAhxw0Z"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Nft",
         "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 221711,
       "name": "Nft",
       "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Zentaura",
+        "url": "https://open.spotify.com/album/5QkPxWYBgDfEnkNzL9zy1m"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+        },
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 186158,
+      "name": "Zentaura",
+      "url": "https://open.spotify.com/track/5n8wmlh90HNlV0VnAhxw0Z"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Bailando a la Deriva",
-        "url": "https://open.spotify.com/album/6S0unNiOLMpwGjhY50FEvf"
-      },
-      "artists": [
-        {
-          "name": "Flora",
-          "url": "https://open.spotify.com/artist/2XxJxp2AFDcvrVePivbKo1"
-        }
-      ],
-      "duration_ms": 199695,
-      "name": "Bailando a la Deriva",
-      "url": "https://open.spotify.com/track/5jSeihXKsDW2sWROKhMbxU"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Palabras al Viento",
         "url": "https://open.spotify.com/album/0xugnChzVurySnB23bgA7M"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 215250,
       "name": "Palabras al Viento",
       "url": "https://open.spotify.com/track/1hDifwaU9Ki87hLzfYWCmT"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Bailando a la Deriva",
+        "url": "https://open.spotify.com/album/6S0unNiOLMpwGjhY50FEvf"
+      },
+      "artists": [
+        {
+          "name": "Flora",
+          "url": "https://open.spotify.com/artist/2XxJxp2AFDcvrVePivbKo1"
+        }
+      ],
+      "duration_ms": 199695,
+      "name": "Bailando a la Deriva",
+      "url": "https://open.spotify.com/track/5jSeihXKsDW2sWROKhMbxU"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Si No Vas a Venir",
+        "url": "https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        },
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        },
+        {
+          "name": "Alex June",
+          "url": "https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO"
+        }
+      ],
+      "duration_ms": 191854,
+      "name": "Si No Vas a Venir",
+      "url": "https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Desastre Natural",
         "url": "https://open.spotify.com/album/2R5rZirNTbJ9FGhy309avF"
       },
@@ -1355,46 +1379,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Si No Vas a Venir",
-        "url": "https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        },
-        {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
-        },
-        {
-          "name": "Alex June",
-          "url": "https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO"
-        }
-      ],
-      "duration_ms": 191854,
-      "name": "Si No Vas a Venir",
-      "url": "https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Atempera la Distancia (Club Set)",
-        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 2137877,
-      "name": "Atempera la Distancia (Club Set)",
-      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Bienvenide Mi Sue\u00f1o",
         "url": "https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW"
       },
@@ -1407,26 +1391,6 @@
       "duration_ms": 196000,
       "name": "Bienvenide Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "El Modo",
-        "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        },
-        {
-          "name": "ELET\u00c9",
-          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "El Modo",
-      "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1447,6 +1411,42 @@
       "duration_ms": 182312,
       "name": "El Estado de las Cosas Como Son",
       "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Atempera la Distancia (Club Set)",
+        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 2137877,
+      "name": "Atempera la Distancia (Club Set)",
+      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "El Modo",
+        "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "ELET\u00c9",
+          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "El Modo",
+      "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
     },
     {
       "added_at": "2024-11-15 03:00:00",

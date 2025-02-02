@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 89 songs - 5 hr 41 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 95 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,11 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 87 | [SCREAM MY NAME](https://open.spotify.com/track/1EKhSE9DUYRPvcXLK0k5iw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:40 |
 | 88 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 1](https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:33 |
 | 89 | [Dream Cars](https://open.spotify.com/track/32VOU1p43IfunZDoSrxE4v) | [Neon Neon](https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD) | [Stainless Style](https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA) | 3:25 |
+| 90 | [Spectre](https://open.spotify.com/track/4Nwrh5BlZ8I31znYQULS7G) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Spectre](https://open.spotify.com/album/7kbhOOk0mAzdy3NukjeoXF) | 3:19 |
+| 91 | [Come On Home](https://open.spotify.com/track/6MyN49pk1GgnsH9owzqVLx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 4:57 |
+| 92 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 |
+| 93 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
+| 94 | [Cerca De Ti](https://open.spotify.com/track/1dmJWX0nWAx5gjDzAohSbO) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/12x0ISxr7b5JssrNJWNDPZ) | 1:48 |
+| 95 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 |
 
-Snapshot ID: `AAAAzrz9HwOsLg2MhDy/+ekLzgW+b9aX`
+Snapshot ID: `AAAA1P0t1RtzPD985wVyXHSD0RSJ1i1H`

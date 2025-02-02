@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,995 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,004 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 26 | [Si Tu Quieres](https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:57 |
 | 27 | [Cinco Minutos](https://open.spotify.com/track/5xGahPi8NyyOefUbSOs8LW) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo Dual](https://open.spotify.com/artist/0Gz0umq9MkzCPkwrO67llg), [emiliano leal](https://open.spotify.com/artist/7a7jFqAQfK8rqgkTaglahi) | [Cinco Minutos](https://open.spotify.com/album/5PRmplKgfcZ3b5FG1x6AIB) | 2:39 |
 | 28 | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/track/2Jz2lb2VQe3wsGE7Q5jGrP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF) | 3:57 |
-| 29 | [Corazón Bipolar](https://open.spotify.com/track/0eGYbVotEAcQJEnOlO69nV) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Corazón Bipolar](https://open.spotify.com/album/7qLk5wwsiS2CuMWTU2CmUu) | 3:18 |
-| 30 | [Me Muero](https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Muero](https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3) | 3:14 |
+| 29 | [Me Muero](https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Muero](https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3) | 3:14 |
+| 30 | [Corazón Bipolar](https://open.spotify.com/track/0eGYbVotEAcQJEnOlO69nV) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Corazón Bipolar](https://open.spotify.com/album/7qLk5wwsiS2CuMWTU2CmUu) | 3:18 |
 | 31 | [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 |
 | 32 | [Dariel El Sabroso](https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Dariel El Sabroso](https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T) | 3:22 |
 | 33 | [Convénceme \(En Vivo\)](https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [Dariel Party, Vol\. 1](https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3) | 4:03 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 48 | [Cuando Se Ama a Una Mujer](https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Cuando Se Ama a Una Mujer](https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw) | 3:36 |
 | 49 | [Cuidala \(En Vivo\)](https://open.spotify.com/track/1im5XPyQaApqcc37320tvU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Erik Alexander](https://open.spotify.com/artist/1wcGLR6zJivtVU0LHUu4o9) | [Cuidala \(En Vivo\)](https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF) | 3:18 |
 | 50 | [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 |
-| 51 | [Buenas Vibras](https://open.spotify.com/track/6NitwyL3pVexKaktxYneNf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Buenas Vibras](https://open.spotify.com/album/5lgKDYGS1i8aA4EKutIWjs) | 2:12 |
+| 51 | [Misa De Cuerpo Presente](https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:22 |
 
-Snapshot ID: `Z5rBAAAAAAC4EUpQdYTfYDD9vid7YaSR`
+Snapshot ID: `Z5wSgAAAAADYbwWi0XqUN7/ZUVCj/dqE`

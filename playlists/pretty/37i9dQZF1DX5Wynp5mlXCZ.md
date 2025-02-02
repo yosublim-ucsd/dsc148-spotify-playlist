@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,246 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,247 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 52 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 |
 | 53 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 |
 | 54 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 |
-| 55 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 |
-| 56 | [Поклич мене на танці](https://open.spotify.com/track/0Obbm6u7fCtroYVl2BAGB5) | [Пан Парасоля](https://open.spotify.com/artist/5bWCxW18dUL0ll835T2sQq) | [Поклич мене на танці](https://open.spotify.com/album/15tNBE7EsXqJZCSIMd01kJ) | 3:07 |
+| 55 | [Поклич мене на танці](https://open.spotify.com/track/0Obbm6u7fCtroYVl2BAGB5) | [Пан Парасоля](https://open.spotify.com/artist/5bWCxW18dUL0ll835T2sQq) | [Поклич мене на танці](https://open.spotify.com/album/15tNBE7EsXqJZCSIMd01kJ) | 3:07 |
+| 56 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 |
 | 57 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 |
 | 58 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 |
 | 59 | [Нижча зростом](https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Під гітару](https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J) | 2:59 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 63 | [Життя](https://open.spotify.com/track/5FM6srcTfyye1n53lGeZil) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Життя](https://open.spotify.com/album/1CzeqMvPbHCoyIuIJ1fbCG) | 2:28 |
 | 64 | [Тону](https://open.spotify.com/track/1X9e8ay2sRpWC3pxRJefMd) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Тону](https://open.spotify.com/album/4rlPesNYp4JQhDnGFqgh0g) | 2:35 |
 | 65 | [Накоїли](https://open.spotify.com/track/33fH0ZjfdKjqn2htjrxhmM) | [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Накоїли](https://open.spotify.com/album/24HlefjKeKXhqEDXXlHMdu) | 2:31 |
-| 66 | [ДІВ ЧИНА](https://open.spotify.com/track/3Q37PGTFNTLcg52GSgnvNi) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0), [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [ДІВ ЧИНА](https://open.spotify.com/album/1SttK8SE9WKqZiX2IrUMfX) | 2:38 |
+| 66 | [Тихий дощ](https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Тихий дощ](https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci) | 2:26 |
 | 67 | [No Time to Cry](https://open.spotify.com/track/62Mlz8ffiLicV1Ngzlpjrw) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [No Time to Cry](https://open.spotify.com/album/1jJR2WVlgeyuKPxT6n8ktw) | 2:50 |
 | 68 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 |
 | 69 | [ТРИ ПОЛОСИ](https://open.spotify.com/track/1coHgc8pIpmMRGGLXB3JXf) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [ТРИ ПОЛОСИ](https://open.spotify.com/album/29xxdkhdz8sFgmfanvlYvv) | 2:38 |
-| 70 | [Тихий дощ](https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Тихий дощ](https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci) | 2:26 |
+| 70 | [ДІВ ЧИНА](https://open.spotify.com/track/3Q37PGTFNTLcg52GSgnvNi) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0), [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [ДІВ ЧИНА](https://open.spotify.com/album/1SttK8SE9WKqZiX2IrUMfX) | 2:38 |
 
 Snapshot ID: `Z5x1BAAAAABN7WE2v35AEDD1CWnFvSEs`

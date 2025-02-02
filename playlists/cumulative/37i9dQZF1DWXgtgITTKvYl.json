@@ -3047,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Waves 2",
+        "url": "https://open.spotify.com/album/1SZp8z4PZcv7d1K6q9V0FN"
+      },
+      "artists": [
+        {
+          "name": "Fernando Perdomo",
+          "url": "https://open.spotify.com/artist/03yHgT9AG39a7F2e4Mktor"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270283,
+      "name": "Queenstown",
+      "url": "https://open.spotify.com/track/5t8mCgYYdAbsXMPv4rN4fj"
+    },
+    {
+      "album": {
         "name": "Raining Hard in Heaven",
         "url": "https://open.spotify.com/album/58wt8eVfJX3Hr9B9HrlWHt"
       },

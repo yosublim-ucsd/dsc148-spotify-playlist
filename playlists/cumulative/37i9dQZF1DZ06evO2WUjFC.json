@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "EL SUBE Y BAJA (En Vivo)",
+        "url": "https://open.spotify.com/album/6J4oo3VvSrs8OsNwS0Tp9E"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Desconocidos Del Valle",
+          "url": "https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167061,
+      "name": "EL SUBE Y BAJA - En Vivo",
+      "url": "https://open.spotify.com/track/1x8Fw4vwlxsupmVUDEK6hl"
+    },
+    {
+      "album": {
         "name": "El Sue\u00f1o De Un Marihuano",
         "url": "https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L"
       },

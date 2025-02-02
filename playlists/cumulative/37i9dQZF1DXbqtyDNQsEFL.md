@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs?si=PeP0s4OOQR2MGIF8I2mVKw>Jimmy D Psalmist</a>
 
-460 songs - 1 day 20 hr 48 min
+461 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 | 2022-06-09 | 2023-06-01 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-07-16 |
 | [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-09-01 | 2024-07-27 |
+| [Come & See](https://open.spotify.com/track/08LgmPa7dOIZwyYopfpODG) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Come & See](https://open.spotify.com/album/6I9cZjzDQxgFeo4W41HOgw) | 3:15 | 2025-01-31 |  |
 | [Come & See](https://open.spotify.com/track/3Mvw1n1cbjNvyH4QRvaj09) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Come & See](https://open.spotify.com/album/2jt2SWpIkCZ8ECPo2Y9f6k) | 7:27 | 2022-10-14 | 2022-11-05 |
 | [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-12-05 | 2023-12-11 |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-25 | 2023-09-06 |
@@ -154,7 +155,7 @@
 | [Have Your Way \- Extended Version](https://open.spotify.com/track/03eLLtNoCSQwYBRBqglw2p) | [Adzo Gordon](https://open.spotify.com/artist/60PXU18yxODtaQJFPKsB9W) | [Have Your Way](https://open.spotify.com/album/3IxSKjvMTojVMBhji8w5Jw) | 22:53 | 2022-07-14 | 2023-03-18 |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-26 |  |
 | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/track/7vICvbajavcYKgm9xjLwnk) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/album/7hu9MzBVuIvzRcPeKRbPKf) | 6:04 | 2022-10-14 | 2022-11-05 |
-| [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 |  |
+| [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 | 2025-02-02 |
 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 | 2024-05-03 |  |
 | [Hold On](https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Hold On](https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS) | 2:45 | 2024-09-06 |  |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |

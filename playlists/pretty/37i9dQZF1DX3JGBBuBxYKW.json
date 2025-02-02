@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 106967,
+  "num_followers": 107016,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,18 @@
     {
       "added_at": "2024-12-20 16:22:03",
       "album": {
-        "name": "Qui\u00e9reme (Cuarteto)",
-        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
+        "name": "Olv\u00eddate (Cuarteto)",
+        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
       },
       "artists": [
         {
           "name": "Angela Leiva",
           "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Qui\u00e9reme - Cuarteto",
-      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+      "duration_ms": 266000,
+      "name": "Olv\u00eddate - Cuarteto",
+      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
     },
     {
       "added_at": "2024-12-20 16:22:03",
@@ -647,18 +643,22 @@
     {
       "added_at": "2024-12-20 16:22:03",
       "album": {
-        "name": "Olv\u00eddate (Cuarteto)",
-        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
+        "name": "Qui\u00e9reme (Cuarteto)",
+        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
       "artists": [
         {
           "name": "Angela Leiva",
           "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
         }
       ],
-      "duration_ms": 266000,
-      "name": "Olv\u00eddate - Cuarteto",
-      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
+      "duration_ms": 336000,
+      "name": "Qui\u00e9reme - Cuarteto",
+      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
     },
     {
       "added_at": "2024-12-20 16:22:03",

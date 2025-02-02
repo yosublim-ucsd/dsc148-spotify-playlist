@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 76189,
+  "num_followers": 76231,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Lost On The River (Deluxe)",
-        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
-      },
-      "artists": [
-        {
-          "name": "The New Basement Tapes",
-          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Lost On The River (Deluxe)",
+        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Free Yourself Up",
+        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Headlong",
         "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Free Yourself Up",
-        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 217606,
       "name": "Love Songs For Robots",
       "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Shallow Grave",
-        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "The Gardener",
-      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Shallow Grave",
+        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Like I Used To (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "A Crow Looked at Me",
-        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
-      },
-      "artists": [
-        {
-          "name": "Mount Eerie",
-          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Real Death",
-      "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Dark Child",
         "url": "https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "A Crow Looked at Me",
+        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 147533,
+      "name": "Real Death",
+      "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Moonshine Freeze",
         "url": "https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 221666,
       "name": "Moonshine Freeze",
       "url": "https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1623,6 +1607,22 @@
       "duration_ms": 254853,
       "name": "The Water - feat. Laura Marling",
       "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-08-28 14:05:36",

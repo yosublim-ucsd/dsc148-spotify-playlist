@@ -1,6 +1,6 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25855,
+  "num_followers": 25852,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
@@ -254,10 +254,14 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         }
       ],
       "duration_ms": 308575,
-      "name": "Wake Me Up",
+      "name": "Wake Me Up (feat. Justice)",
       "url": "https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW"
     },
     {

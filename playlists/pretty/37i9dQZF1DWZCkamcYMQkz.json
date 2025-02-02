@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 253876,
+  "num_followers": 254152,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-01-17 09:12:36",
       "album": {
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Hallelujah, I Love Him So",
+      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
+    },
+    {
+      "added_at": "2025-01-17 09:12:36",
+      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 150800,
       "name": "Mountain Greenery",
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
-    },
-    {
-      "added_at": "2025-01-17 09:12:36",
-      "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Hallelujah, I Love Him So",
-      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
     },
     {
       "added_at": "2025-01-17 09:12:36",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-01-17 09:12:36",
       "album": {
-        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "John Hardy's Wife",
-      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
-    },
-    {
-      "added_at": "2025-01-17 09:12:36",
-      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 220373,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
+    },
+    {
+      "added_at": "2025-01-17 09:12:36",
+      "album": {
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "John Hardy's Wife",
+      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
     },
     {
       "added_at": "2025-01-17 09:12:36",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-01-17 09:12:36",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 491293,
-      "name": "Recado Bossa Nova - Remastered 2005/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
-    },
-    {
-      "added_at": "2025-01-17 09:12:36",
-      "album": {
         "name": "Desmond Blue",
         "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 279146,
       "name": "I've Got You Under My Skin - 2011 Remaster",
       "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+    },
+    {
+      "added_at": "2025-01-17 09:12:36",
+      "album": {
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 491293,
+      "name": "Recado Bossa Nova - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
     },
     {
       "added_at": "2025-01-17 09:12:36",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-01-17 09:12:36",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
+      "duration_ms": 116280,
+      "name": "When Lights Are Low",
+      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
     },
     {
       "added_at": "2025-01-17 09:12:36",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-01-17 09:12:36",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
       "artists": [
         {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 116280,
-      "name": "When Lights Are Low",
-      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
       "added_at": "2025-01-17 09:12:36",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-01-17 09:12:36",
       "album": {
-        "name": "Thedia",
-        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 303163,
-      "name": "Thedia",
-      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
-    },
-    {
-      "added_at": "2025-01-17 09:12:36",
-      "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 134973,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
+    },
+    {
+      "added_at": "2025-01-17 09:12:36",
+      "album": {
+        "name": "Thedia",
+        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 303163,
+      "name": "Thedia",
+      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
     },
     {
       "added_at": "2025-01-17 09:12:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 128 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 128 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 23 | [Over It](https://open.spotify.com/track/6RB4Z9DwTWaVgyNg3dR9p9) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Katharine McPhee](https://open.spotify.com/album/5zdIu2gSDAnEH9Gx2tWqXr) | 3:35 |
 | 24 | [Grows Old](https://open.spotify.com/track/148qBp6yeeA2oq28xTZZ7e) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:56 |
 | 25 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 |
-| 26 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 |
-| 27 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
+| 26 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
+| 27 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 |
 | 28 | [Luna](https://open.spotify.com/track/1p1Khl8dIlu4t8H4irtGme) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:28 |
 | 29 | [Never Letting Go](https://open.spotify.com/track/0ioKRStsEBHQsHPb0N9kAE) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0), [Moon Willis](https://open.spotify.com/artist/4QsYLEjgSItbA6PI2i8xAU), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [Never Letting Go](https://open.spotify.com/album/2b5HwXYmdfZB6CkxteIM7J) | 3:55 |
 | 30 | [Cocaine](https://open.spotify.com/track/0ZjWz3lufHaVRXURSspnfw) | [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi) | [Handle With Care](https://open.spotify.com/album/52WqdSNr8hQioPuM1mHNIF) | 3:10 |
@@ -120,12 +120,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 110 | [Honest Man](https://open.spotify.com/track/6hvwdsJpK0YWAi6Zf8jyRf) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:46 |
 | 111 | [Fall Apart](https://open.spotify.com/track/6sKSKu0tgFbaE5m7uTJ5Kt) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Sexy As Hell \(Exclusive Version\)](https://open.spotify.com/album/0MPeOp95auH8fnxObuVSjc) | 3:07 |
 | 112 | [You Don't Have a Heart](https://open.spotify.com/track/7FeJ1lP3vxCnbXKlHhzrRe) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:56 |
-| 113 | [Too Young](https://open.spotify.com/track/1dBwVbRLGAZzkRAt5RbS1I) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:19 |
-| 114 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 |
+| 113 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 |
+| 114 | [Too Young](https://open.spotify.com/track/1dBwVbRLGAZzkRAt5RbS1I) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:19 |
 | 115 | [Heaven On Earth](https://open.spotify.com/track/5L7QLqxhkYu4n8z4vLv5FY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 3:14 |
 | 116 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 |
-| 117 | [Enough \(feat\. RuthAnne\)](https://open.spotify.com/track/40ZpSsFtEKkFcTxWhkhA8N) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Everybody Wants You](https://open.spotify.com/album/5uxehNuBMZCrVNDl57aqq2) | 3:25 |
-| 118 | [Seven](https://open.spotify.com/track/2oA9FIc8oL4D7niCdfm6Rb) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:50 |
+| 117 | [Seven](https://open.spotify.com/track/2oA9FIc8oL4D7niCdfm6Rb) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:50 |
+| 118 | [Enough \(feat\. RuthAnne\)](https://open.spotify.com/track/40ZpSsFtEKkFcTxWhkhA8N) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Everybody Wants You](https://open.spotify.com/album/5uxehNuBMZCrVNDl57aqq2) | 3:25 |
 | 119 | [Sliding Doors](https://open.spotify.com/track/2tgyMQjcwVp2CjFT6gAZwh) | [Baptiste Giabiconi](https://open.spotify.com/artist/4DD9H38CXQBbIME7AGNOr9) | [Oxygen](https://open.spotify.com/album/3wJqURLm1qe9DucNTntWS3) | 3:41 |
 | 120 | [Tell Me What You Want](https://open.spotify.com/track/4Slv79Cvbf0dfw1LlRy8Qm) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Wally Callerio](https://open.spotify.com/artist/17ONczWNpCXkcRu40gy7cK), [Mikey V.](https://open.spotify.com/artist/2BnKT3mTPKt0eKTszhRq7u) | [After Parties & Aeroplanes](https://open.spotify.com/album/76gqFX9pIgy9WzF92ecoSc) | 6:20 |
 | 121 | [Perfection](https://open.spotify.com/track/2xjjnaHGzETkvZhXnEcqcV) | [Tata Young](https://open.spotify.com/artist/7dJ3pPuDcHLEwhtlZNJKcr) | [Ready For Love](https://open.spotify.com/album/7jFWCaN4SZbNS1XJNeeFe3) | 3:14 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 127 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 128 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AboXqgAAAAAtP/ZZ9rYSz4VIANIg34Tb`
+Snapshot ID: `AbodNgAAAACp6xNP57fHA6u6+rRpBH6f`

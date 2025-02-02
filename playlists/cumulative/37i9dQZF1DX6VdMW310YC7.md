@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,727 songs - 4 day 22 hr 3 min
+1,728 songs - 4 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,6 +560,7 @@
 | [Funk'd](https://open.spotify.com/track/5cfdb9Nd3wFoX5SJN8fPT6) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq), [Manu Gonzalez](https://open.spotify.com/artist/2cFk2G62Tt8YG0MXZ8srNS) | [Funk'd](https://open.spotify.com/album/5n5HNAG3Qn99jgAPytKorB) | 7:27 | 2020-05-22 | 2020-07-03 |
 | [Further](https://open.spotify.com/track/3eROgdA5NjH03NF9RvInML) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Further](https://open.spotify.com/album/5ZXdrv2X4rSMl5p2Xza3o7) | 5:07 | 2020-05-18 | 2022-04-21 |
 | [Further Than It](https://open.spotify.com/track/6typP3PydlxW5m90XWkxYo) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [Further Than It](https://open.spotify.com/album/2VjrJ0IskNKJKTsWYCLDgl) | 3:36 | 2020-10-23 | 2021-12-21 |
+| [Future Hearts](https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Future Hearts](https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv) | 3:56 | 2025-01-31 |  |
 | [Future Pt 2](https://open.spotify.com/track/5PsLICW9HfBbHZ64TT1liT) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:42 | 2020-05-18 | 2020-07-03 |
 | [Future Self](https://open.spotify.com/track/0Oom8UCxknB2ussaW0P9HL) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Future Self](https://open.spotify.com/album/1VOn5C736v12oFdDVnwdd2) | 3:21 | 2020-05-18 | 2020-07-18 |
 | [Galax Z](https://open.spotify.com/track/5Dvbvf4RsFn3V0d8309jz7) | [The Zevron Don](https://open.spotify.com/artist/4dbE6PYM6h3AnqxYI0vxl0) | [Galax Z](https://open.spotify.com/album/4VzBkUqSvskvWJoheveYbJ) | 2:37 | 2020-05-19 | 2020-10-09 |
@@ -915,7 +916,7 @@
 | [Lost in Space](https://open.spotify.com/track/1OFMSWMwEiy5LJJCzzWknT) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost in Space](https://open.spotify.com/album/3yeNU4MOrkGAFMcH1LkXDa) | 3:42 | 2020-05-18 | 2022-04-20 |
 | [Lost In Space](https://open.spotify.com/track/59vGBEz1TByo4BCuKFF8P0) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost In Space](https://open.spotify.com/album/3mS5pfJvDStk99v0QRIsJH) | 3:42 | 2022-07-01 | 2023-03-22 |
 | [Lost In Space](https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost In Space](https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek) | 3:42 | 2023-03-10 | 2024-03-23 |
-| [Lost In The Melody](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Lost In The Melody](https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj) | 3:02 | 2024-03-01 |  |
+| [Lost In The Melody](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Lost In The Melody](https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj) | 3:02 | 2024-03-01 | 2025-02-02 |
 | [Lost In Time](https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Lost In Time](https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f) | 5:24 | 2024-03-22 | 2024-06-22 |
 | [Lost in You](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Lost in You](https://open.spotify.com/album/13gn0rNGUlOHhZbnG76PAW) | 3:01 | 2022-12-28 | 2023-01-06 |
 | [Lost Souls \- Nora En Pure Remix](https://open.spotify.com/track/2UsRV8KFvHaDFUJtzQADAu) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Ost](https://open.spotify.com/artist/6nd2xPiNkapZHlg6UvIVVx), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lost Souls \(Nora En Pure Remix\)](https://open.spotify.com/album/5eUHs8CussoumFCO2guELs) | 3:41 | 2020-03-18 | 2022-01-17 |

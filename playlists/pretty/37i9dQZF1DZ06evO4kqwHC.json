@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1080877,
+  "num_followers": 1080917,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAB55RFetkwJc8Sx8a+KKuHC",
+  "snapshot_id": "Z5wSgAAAAADfv3qpohtTp1j86ENIU2hn",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 286466,
       "name": "Bridge Burning",
       "url": "https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Nothing At All",
-      "url": "https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonic Highways",
         "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 288453,
       "name": "Something from Nothing",
       "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Nothing At All",
+      "url": "https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 229786,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 349680,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 229786,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "But Here We Are",
-      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 256440,
       "name": "Stacked Actors",
       "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "But Here We Are",
+      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 228773,
-      "name": "Hearing Voices",
-      "url": "https://open.spotify.com/track/4PTowPoeya2AITpeUCJLKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 276213,
       "name": "Next Year",
       "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 228773,
+      "name": "Hearing Voices",
+      "url": "https://open.spotify.com/track/4PTowPoeya2AITpeUCJLKN"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Alone + Easy Target",
-      "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 268306,
       "name": "Low",
       "url": "https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Alone + Easy Target",
+      "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
     },
     {
       "added_at": null,

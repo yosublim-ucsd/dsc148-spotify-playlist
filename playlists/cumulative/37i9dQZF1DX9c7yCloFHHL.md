@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Whatever The Weather on cover.
 
-1,159 songs - 3 day 20 hr 15 min
+1,160 songs - 3 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Flora of Sleep](https://open.spotify.com/track/0OY5LHRJUkNKFDAFtJKfQT) | [Anna Peaker](https://open.spotify.com/artist/2Gc36Og6RjLwi0dwB6EE9N) | [polytypic one](https://open.spotify.com/album/1CvxHlIEN5T2P2r3F1EqHo) | 3:56 | 2023-08-04 | 2023-09-30 |
 | [Florin Court](https://open.spotify.com/track/2fFBBzajGuHXzir81TIMyN) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [Florin Court](https://open.spotify.com/album/2ErrM3cVrhM7Poe3FOuM47) | 2:46 | 2023-01-16 | 2023-03-04 |
 | [Floweret](https://open.spotify.com/track/55EKqJvyHOnTVNUKFM6RIv) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [First Light](https://open.spotify.com/album/1Ey5eicbpQzd3nVP8kBYzu) | 2:52 | 2024-09-06 |  |
+| [Flurry](https://open.spotify.com/track/6rNhG4YREPMyD3gQMx9G6O) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Flurry](https://open.spotify.com/album/3tSC8QPwJUIQgqCm1xJnkK) | 21:08 | 2025-01-31 |  |
 | [Flux](https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Flux](https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR) | 1:41 | 2022-09-02 | 2023-03-04 |
 | [Flying Eagle](https://open.spotify.com/track/0j0CeSiXCNqGsz7Ea92leu) | [Side Liner](https://open.spotify.com/artist/7sF8RuNYCpGngojCFcHAv4), [Aviron](https://open.spotify.com/artist/72TD3r8reGeogwogAJw01w) | [Out of Town, Vol\. 3](https://open.spotify.com/album/53bmYiZ9UByRK7kAYbrgC3) | 3:17 | 2022-10-01 | 2023-03-04 |
 | [Fond \- Rework](https://open.spotify.com/track/1NR4lmznMMB07hzvy4PN74) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Fond \(Rework\)](https://open.spotify.com/album/4JcX4CjnRbPzSgT2wADcIE) | 3:44 | 2023-01-16 | 2023-04-12 |
@@ -742,7 +743,7 @@
 | [Path 3 \(7676\) \- Pt\. 1](https://open.spotify.com/track/16BSYdWcO54eHEgIHsFGrR) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 1:22 | 2022-10-28 | 2023-04-12 |
 | [Pause](https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:23 | 2023-05-05 |  |
 | [Pause \- Reimagined by Hinako Omori](https://open.spotify.com/track/0ZmLT1FDXPa831isUVS7gV) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Pause \(Reimagined by Hinako Omori\)](https://open.spotify.com/album/2KbOkrUDzIkEEE10TqZA9a) | 3:20 | 2023-07-21 | 2023-08-19 |
-| [Pause \- Reimagined by Hinako Omori](https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Pause \(Reimagined by Hinako Omori\)](https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU) | 3:20 | 2023-10-13 |  |
+| [Pause \- Reimagined by Hinako Omori](https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Pause \(Reimagined by Hinako Omori\)](https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU) | 3:20 | 2023-10-13 | 2025-02-02 |
 | [Pavan II](https://open.spotify.com/track/3GyMswLMHlC5bAEnqWA5qr) | [Cahill Costello](https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm) | [Offworld](https://open.spotify.com/album/4uytwEGcmllVKV0xEBMM2h) | 8:01 | 2021-12-24 | 2022-03-04 |
 | [Peaceful Garden](https://open.spotify.com/track/2mgmnEhmvdFKBf9FZyn377) | [Wendy Panoah](https://open.spotify.com/artist/63YMcX7Qq0SkEB0vpxaLcC) | [Peaceful Garden](https://open.spotify.com/album/0TiHJCNjzaz6Pf3tdBnhj0) | 3:11 | 2022-11-25 | 2024-07-27 |
 | [Peradam \- Brian Eno Remix](https://open.spotify.com/track/1MOw1EJpA0rp7wXSgH0eV8) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Peradam \(Brian Eno Remix\)](https://open.spotify.com/album/6MrJD7P45yluGUuvecXw9O) | 4:20 | 2022-11-25 | 2023-03-04 |

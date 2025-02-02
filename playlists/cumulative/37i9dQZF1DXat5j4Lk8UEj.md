@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-285 songs - 18 hr 6 min
+286 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 | 2022-02-17 | 2024-04-15 |
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2022-01-05 | 2022-07-29 |
 | [Heartless](https://open.spotify.com/track/6ZM9dKXH5iWJ08KEa0FDh8) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:18 | 2024-07-05 |  |
+| [Heavy Metal Heart](https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 4:32 | 2024-10-15 |  |
 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2021-12-09 |  |
 | [Hide Anymore](https://open.spotify.com/track/4NnB7VmI9XiJVgDUAg3Fnn) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Hide Anymore / Devil In My Eyes](https://open.spotify.com/album/6qLcy29RQ8wsIiqsxJWsye) | 2:56 | 2024-09-13 |  |
 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 | 2021-12-09 |  |
@@ -143,7 +144,7 @@
 | [Lemon Tree](https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 4:08 | 2023-04-28 |  |
 | [Let Go](https://open.spotify.com/track/3qV8W6cytQG53azQ5FnSE4) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go](https://open.spotify.com/album/5NRQoXu68ypYS1QUyZc1Yx) | 4:42 | 2022-02-17 | 2024-04-19 |
 | [Let Go](https://open.spotify.com/track/5L9frRDeoMDVPdiUS0X7SC) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go](https://open.spotify.com/album/4PSyIbTjDhElHCyMjvI6h7) | 4:42 | 2021-12-09 | 2022-07-28 |
-| [Let It All Go](https://open.spotify.com/track/7ijaLVa15Ml4kPRHZMMtWv) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Let It All Go](https://open.spotify.com/album/4pQ1fd1sCuxwJ1m1T0GgCM) | 3:32 | 2021-12-09 |  |
+| [Let It All Go](https://open.spotify.com/track/7ijaLVa15Ml4kPRHZMMtWv) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Let It All Go](https://open.spotify.com/album/4pQ1fd1sCuxwJ1m1T0GgCM) | 3:32 | 2021-12-09 | 2025-02-02 |
 | [Let It Go](https://open.spotify.com/track/5pBwNXW3vdbq7HHR6Jix71) | [Fossil Collective](https://open.spotify.com/artist/0PhKXBGcwWwVcXCETFd92y) | [Tell Where I Lie](https://open.spotify.com/album/4uPr5lAjfPwboiORMrD7jx) | 4:15 | 2021-12-09 | 2022-02-17 |
 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 | 2023-04-28 |  |
 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 | 2022-02-17 | 2024-04-19 |

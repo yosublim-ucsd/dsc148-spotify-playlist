@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 131958,
+  "num_followers": 132021,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -391,30 +391,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music/Sonatas etc.",
-        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Yehudi Menuhin",
-          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
-        },
-        {
-          "name": "Bath Festival Orchestra",
-          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
-        }
-      ],
-      "duration_ms": 121493,
-      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
-      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Italian Cantatas, Vol. 7",
         "url": "https://open.spotify.com/album/31JoLNy9sV0D728V4VS03y"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 318720,
       "name": "Apollo e Dafne, HWV 122: Aria: Felicissima quest'alma (Most fortunate is this soul) (Dafne)",
       "url": "https://open.spotify.com/track/3KHh3k2Ty3XQ2iRzklx6H3"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music/Sonatas etc.",
+        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Yehudi Menuhin",
+          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+        },
+        {
+          "name": "Bath Festival Orchestra",
+          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+        }
+      ],
+      "duration_ms": 121493,
+      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
+      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -731,6 +731,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Laudate Pueri, Nisi Dominus",
+        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alfred Deller",
+          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
+        },
+        {
+          "name": "The Deller Consort",
+          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
+      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
         "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 60480,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
       "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Laudate Pueri, Nisi Dominus",
-        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alfred Deller",
-          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
-        },
-        {
-          "name": "The Deller Consort",
-          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
-      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1471,34 +1471,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "HANDEL: Oboe Concertos Nos. 1- 3 / Suite in G Minor",
-        "url": "https://open.spotify.com/album/4GU7XfRe0pC1qeIvCWAOOS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Anthony Camden",
-          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "Nicholas Ward",
-          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Oboe Concerto No. 3 in G Minor, HWV 287: III. Sarabande. Largo",
-      "url": "https://open.spotify.com/track/3frij1etbhokEz1aEZr6rB"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Ode for St. Cecilia's Day",
         "url": "https://open.spotify.com/album/5U0Py9YY5AwiH2BiH5nrI8"
       },
@@ -1531,6 +1503,34 @@
       "duration_ms": 498200,
       "name": "Ode for St. Cecilia's Day, HWV 76: What Passion Cannot Music Raise and Quell",
       "url": "https://open.spotify.com/track/352FMQLrt2Ppl2RdOUn9AA"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "HANDEL: Oboe Concertos Nos. 1- 3 / Suite in G Minor",
+        "url": "https://open.spotify.com/album/4GU7XfRe0pC1qeIvCWAOOS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Anthony Camden",
+          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Oboe Concerto No. 3 in G Minor, HWV 287: III. Sarabande. Largo",
+      "url": "https://open.spotify.com/track/3frij1etbhokEz1aEZr6rB"
     },
     {
       "added_at": "2022-06-28 08:56:25",

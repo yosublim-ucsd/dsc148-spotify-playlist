@@ -4,7 +4,7 @@
 
 > This is Campo De Almas.\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 5 min
+65 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cuando Pienso Y Estoy Solo](https://open.spotify.com/track/2M9nq9rOFuyFKCMJLw7jlI) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 1:58 | 2023-08-25 |  |
 | [Cuenta Regresiva](https://open.spotify.com/track/4AyoqOvOBnIwSP627N4i86) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 4:27 | 2023-08-25 |  |
 | [Cósmica](https://open.spotify.com/track/0ORO8tZyWlYPs7QRZSCoX5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 4:29 | 2023-08-25 |  |
+| [Delirios Místicos](https://open.spotify.com/track/3PYTRs8tzospUhQpSLNAPK) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Delirios Místicos](https://open.spotify.com/album/2rY8Ao8BHIwoaq1eUQTMwi) | 6:30 | 2025-02-02 |  |
 | [Desde Mi Lugar](https://open.spotify.com/track/5oAq4v70t9K1WyBSSPkYKg) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 3:23 | 2023-08-31 | 2023-09-13 |
 | [Despertar](https://open.spotify.com/track/1UWJrXldXtKPQrlgEIEsWi) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Contraluz](https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD) | 3:26 | 2023-08-25 |  |
 | [Después De La Lluvia](https://open.spotify.com/track/0PGn26byzGAOWa9aMH1BrW) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 2:09 | 2023-08-25 |  |

@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 226179,
       "name": "Austin - Acoustic",
       "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
@@ -5408,6 +5408,24 @@
       "duration_ms": 200506,
       "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
       "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
+    },
+    {
+      "album": {
+        "name": "You For A Reason (Stripped)",
+        "url": "https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182843,
+      "name": "You For A Reason - Stripped",
+      "url": "https://open.spotify.com/track/6yUnirR9J0haRtyziEujVR"
     },
     {
       "album": {

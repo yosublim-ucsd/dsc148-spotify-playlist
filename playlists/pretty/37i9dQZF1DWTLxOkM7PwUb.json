@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 7398,
+  "num_followers": 7425,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Canela",
-        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 204629,
-      "name": "Canela",
-      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "MORDIENDO EL BOZAL",
         "url": "https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 197107,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Canela",
+        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204629,
+      "name": "Canela",
+      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "No Puedo Fingir",
+        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 164352,
+      "name": "No Puedo Fingir",
+      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "A fuego (Bizarrap Remix)",
         "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 239078,
       "name": "A fuego - Bizarrap Remix",
       "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "No Puedo Fingir",
-        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 164352,
-      "name": "No Puedo Fingir",
-      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
     },
     {
       "added_at": "2024-07-26 04:59:00",

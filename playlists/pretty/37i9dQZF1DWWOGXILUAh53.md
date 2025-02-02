@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Netsky & CLOVES
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,012 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,215 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

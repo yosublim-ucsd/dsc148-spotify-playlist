@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 215983,
       "name": "BOKeTE",
       "url": "https://open.spotify.com/track/79x7xtoCLpf6l32Zz6mWo4"
@@ -4255,6 +4255,28 @@
     },
     {
       "album": {
+        "name": "CRUZ",
+        "url": "https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183970,
+      "name": "CRUZ",
+      "url": "https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI"
+    },
+    {
+      "album": {
         "name": "Antes de Ameri",
         "url": "https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU"
       },
@@ -5512,7 +5534,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 201057,
       "name": "DOLCE",
       "url": "https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4"
@@ -17166,7 +17188,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Si Las Gatas Se Amotinan",
       "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"

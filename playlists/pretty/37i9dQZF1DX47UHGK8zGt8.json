@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 577201,
+  "num_followers": 577332,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2025-01-31 03:00:10",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
-      },
-      "artists": [
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2025-01-31 03:00:10",
-      "album": {
         "name": "Varrendo a Lua",
         "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+    },
+    {
+      "added_at": "2025-01-31 03:00:10",
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+      },
+      "artists": [
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
       "added_at": "2025-01-31 03:00:10",

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 74780,
+  "num_followers": 74799,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACpxpoWHJstFbJaGxK1f/vk",
+  "snapshot_id": "Z5wSgAAAAACsK23k2olhnHcr2XJfii3G",
   "tracks": [
     {
       "added_at": null,
@@ -719,34 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol. 2",
-        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
-        },
-        {
-          "name": "Josh Thompson",
-          "url": "https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io"
-        }
-      ],
-      "duration_ms": 189336,
-      "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
-      "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
@@ -771,6 +743,34 @@
       "duration_ms": 267341,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIXTAPE: Vol. 2",
+        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        },
+        {
+          "name": "Josh Thompson",
+          "url": "https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io"
+        }
+      ],
+      "duration_ms": 189336,
+      "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
+      "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"
     },
     {
       "added_at": null,

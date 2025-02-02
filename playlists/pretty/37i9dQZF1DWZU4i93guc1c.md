@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Лівінстон
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,985 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,983 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,18 +51,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 41 | [попіл на губах](https://open.spotify.com/track/2cegBMIyIe3TQCncVdPh3u) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [попіл на губах](https://open.spotify.com/album/2lGjjKpk7azI7Fu8HGn8M7) | 3:48 |
 | 42 | [Чому я не собака?](https://open.spotify.com/track/6H7UPVXBli5M3z2hvQonEw) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Чому я не собака?](https://open.spotify.com/album/3JFcFg8NT760FNNq5qzvHI) | 3:07 |
 | 43 | [за кордоном](https://open.spotify.com/track/2jr5gE5SOP2EKBGZWxtimw) | [alekkksa](https://open.spotify.com/artist/3KiFi7CRRoB44ztX3jRyk0) | [за кордоном](https://open.spotify.com/album/1VR6uKHyaF3AmmzqqMJe7q) | 2:00 |
-| 44 | [крига](https://open.spotify.com/track/5SfbIKHUMO1f1lTOTHyaN9) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [крига](https://open.spotify.com/album/3xrdwbsn8sCNSLUZRkifnG) | 3:24 |
-| 45 | [Відпусти](https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Відпусти](https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL) | 5:24 |
+| 44 | [Відпусти](https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Відпусти](https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL) | 5:24 |
+| 45 | [крига](https://open.spotify.com/track/5SfbIKHUMO1f1lTOTHyaN9) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [крига](https://open.spotify.com/album/3xrdwbsn8sCNSLUZRkifnG) | 3:24 |
 | 46 | [Тримаєм посадку](https://open.spotify.com/track/1YHbwb0uyDM62d4SUNzmCc) | [Sasha Boole](https://open.spotify.com/artist/2s0YnA9mOGWt5DiDMoDjyy) | [Тримаєм посадку](https://open.spotify.com/album/62450IT2FoI0wMSxlzPu8h) | 2:43 |
 | 47 | [тимчасунки](https://open.spotify.com/track/3iUX8GPWS5FccR8Ws9KWAk) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Легкий спосіб кинути хлопця](https://open.spotify.com/album/7rd9JdGUjUJ9WlAL4UmjhU) | 3:01 |
 | 48 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
 | 49 | [Сніг](https://open.spotify.com/track/2h9c2sQlqHIDyxwSb7MPHJ) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [Сніг](https://open.spotify.com/album/2Sf7OJbNiU5hjAbAMeWOTj) | 3:24 |
 | 50 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 |
 | 51 | [Матриця](https://open.spotify.com/track/5KGYkmx4PldWiBcg0wSzJE) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Невдячна глядачка](https://open.spotify.com/album/6WET3pEZ3hniBwvYfBPvZ3) | 2:44 |
-| 52 | [mafia](https://open.spotify.com/track/0OJRzFVYPpLJ5hsTfhloBQ) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [mafia](https://open.spotify.com/album/2S7KugySi40sSRnGGjWgX4) | 2:45 |
+| 52 | [Sweet](https://open.spotify.com/track/3dR6r6wjWnibs1hzNyvLW5) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Sweet](https://open.spotify.com/album/7KdIsa5eE5iT8IpdDhPerg) | 4:40 |
 | 53 | [не раз чаруй](https://open.spotify.com/track/2fhkVtl77XswwQX0XD9VkD) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [не раз чаруй](https://open.spotify.com/album/35MuLeTs4BeFuhmEYL4TPA) | 2:56 |
-| 54 | [Sweet](https://open.spotify.com/track/3dR6r6wjWnibs1hzNyvLW5) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Sweet](https://open.spotify.com/album/7KdIsa5eE5iT8IpdDhPerg) | 4:40 |
-| 55 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 |
+| 54 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 |
+| 55 | [mafia](https://open.spotify.com/track/0OJRzFVYPpLJ5hsTfhloBQ) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [mafia](https://open.spotify.com/album/2S7KugySi40sSRnGGjWgX4) | 2:45 |
 | 56 | [Мені так треба](https://open.spotify.com/track/3OVJEtUcnjPNUsBOhia7CR) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [KUGATESSA](https://open.spotify.com/artist/1BOpBS41QOt9MLdS7HK6bH) | [Мені так треба](https://open.spotify.com/album/2bWFRYbngnlthr4arQJGsz) | 3:23 |
 | 57 | [Не дивись на мене](https://open.spotify.com/track/6z6cvRLKENuywiD5jCRuoc) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Не дивись на мене](https://open.spotify.com/album/1FQ8jGe2pDS7hFYL0Ze5KG) | 3:33 |
 | 58 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 66 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
 | 67 | [татова донька](https://open.spotify.com/track/0uZNk1rsL37CzG4ZXbeZqV) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [татова донька](https://open.spotify.com/album/2UxIwhZltN9mxuJIKEvQR5) | 2:27 |
 | 68 | [Стеля](https://open.spotify.com/track/1GxT5S0orNzMJ61M03i1mq) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [Стеля](https://open.spotify.com/album/2ywtrTHjc0s2nGAA7vEQAa) | 1:34 |
-| 69 | [А якщо чесно](https://open.spotify.com/track/5MbTzZQ6X9fFXYwYSpwRQl) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [А якщо чесно](https://open.spotify.com/album/6C2eblKLTDVdytchtS2Alh) | 3:51 |
+| 69 | [Мільйон](https://open.spotify.com/track/2dLTAiLVmU2A5TKZ2FiAT4) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Мільйон](https://open.spotify.com/album/55Of9rcj4Teaz4JQnrdces) | 3:56 |
 | 70 | [сирець](https://open.spotify.com/track/3ndRmk1CsIbsMDOIftIxIf) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [сирець](https://open.spotify.com/album/0YjnRcxiZPSB9Ldb0f1Kxz) | 4:06 |
-| 71 | [Мільйон](https://open.spotify.com/track/2dLTAiLVmU2A5TKZ2FiAT4) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Мільйон](https://open.spotify.com/album/55Of9rcj4Teaz4JQnrdces) | 3:56 |
+| 71 | [А якщо чесно](https://open.spotify.com/track/5MbTzZQ6X9fFXYwYSpwRQl) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [А якщо чесно](https://open.spotify.com/album/6C2eblKLTDVdytchtS2Alh) | 3:51 |
 | 72 | [метаморфосінь](https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [метаморфосінь](https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd) | 2:34 |
 | 73 | [острів скарбів](https://open.spotify.com/track/4EI8YiCiC4juoBDZaNxT0H) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [острів скарбів](https://open.spotify.com/album/3PGWK63IUdzfRF7YGy6H9F) | 3:23 |
 | 74 | [Зірки](https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Зірки](https://open.spotify.com/album/1B6W1lCgv5xN3MmAPm0cyh) | 2:57 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 76 | [Непомітний](https://open.spotify.com/track/3YfFBDpG4XkkUas9XlD2Ik) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Непомітний](https://open.spotify.com/album/6nnDtmtXqVhjvYr6njnsI9) | 2:33 |
 | 77 | [Глибше](https://open.spotify.com/track/1lmI9ZmRX1UKFCRSYGRl8C) | [Kanjikiku](https://open.spotify.com/artist/3RKIT5XvTNYOojiwvmbUB3) | [Глибше](https://open.spotify.com/album/4Ey9wiztFMjBAbd7DlaObR) | 3:50 |
 | 78 | [сонце](https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [такі як ми](https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r) | 3:11 |
-| 79 | [Любов і cтрах](https://open.spotify.com/track/2AkbnoKlA9oCeSjFx3JW4s) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Любов і cтрах](https://open.spotify.com/album/1631pNLFhHVOFBCN6fcLgM) | 2:39 |
-| 80 | [Ліфт](https://open.spotify.com/track/324FC9qWoui9HoVENu42uB) | [Chekson](https://open.spotify.com/artist/0UjI2UCXbjgannnEKe4r3k) | [Ліфт](https://open.spotify.com/album/3bOCgqI9AIRj04C9Iw0a66) | 3:32 |
+| 79 | [Ліфт](https://open.spotify.com/track/324FC9qWoui9HoVENu42uB) | [Chekson](https://open.spotify.com/artist/0UjI2UCXbjgannnEKe4r3k) | [Ліфт](https://open.spotify.com/album/3bOCgqI9AIRj04C9Iw0a66) | 3:32 |
+| 80 | [Любов і cтрах](https://open.spotify.com/track/2AkbnoKlA9oCeSjFx3JW4s) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Любов і cтрах](https://open.spotify.com/album/1631pNLFhHVOFBCN6fcLgM) | 2:39 |
 
 Snapshot ID: `Z5OoBwAAAACf4q36mULXu1wig+IZuEuX`

@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "29 days",
+        "url": "https://open.spotify.com/album/20FGoymgA5kKqKUMOvZU5R"
+      },
+      "artists": [
+        {
+          "name": "Cazzi Opeia",
+          "url": "https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee"
+        },
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "29 days",
+      "url": "https://open.spotify.com/track/1DQ4r02CKWjK0Y4XEgiHl2"
+    },
+    {
+      "album": {
         "name": "2U",
         "url": "https://open.spotify.com/album/6JE4kCzhXEQEEuKaaL93qf"
       },
@@ -9828,7 +9850,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 189613,
       "name": "F\u00f6rlora",
       "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
@@ -14560,6 +14582,24 @@
       "duration_ms": 159360,
       "name": "I\u2019m His, He\u2019s Mine",
       "url": "https://open.spotify.com/track/4ssi26oVcUXWLooc1Ac0Ni"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Not a Boy",
+        "url": "https://open.spotify.com/album/1SHRLt3g7yrOZT9TG7Ffep"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152809,
+      "name": "I\u2019m Not a Boy",
+      "url": "https://open.spotify.com/track/1MCqZiyILK5yKITelASw7a"
     },
     {
       "album": {
@@ -19935,6 +19975,24 @@
     },
     {
       "album": {
+        "name": "Okej att d\u00f6",
+        "url": "https://open.spotify.com/album/6xeArYtgNeWryc5C0xOME3"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171906,
+      "name": "Nothing 4-ever",
+      "url": "https://open.spotify.com/track/5wqq5bmr41MsWnoCx2FX4i"
+    },
+    {
+      "album": {
         "name": "It Takes Me Places...",
         "url": "https://open.spotify.com/album/2hu5hB7E6GABTNd0s8d7Hh"
       },
@@ -20608,7 +20666,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 141714,
       "name": "OK\u00c4ND MARK",
       "url": "https://open.spotify.com/track/7sjMqzYApw0a13YEF1cSky"
@@ -20886,7 +20944,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 158112,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/1UYnuxsScsS2INJyb55HgT"
@@ -30400,7 +30458,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 184945,
       "name": "Vill va honom",
       "url": "https://open.spotify.com/track/6Wy5YhGJfn18p8SFLZqrXb"
@@ -30892,6 +30950,24 @@
       "duration_ms": 210639,
       "name": "V\u00e5gen",
       "url": "https://open.spotify.com/track/3BxF9YsGMNNeRxxNjjRLJX"
+    },
+    {
+      "album": {
+        "name": "V\u00e5r f\u00f6rsta g\u00e5ng",
+        "url": "https://open.spotify.com/album/6AxmBHXtOljB2Q5aeJ6QVq"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177700,
+      "name": "V\u00e5r f\u00f6rsta g\u00e5ng",
+      "url": "https://open.spotify.com/track/4LU6zltjuVqOaU7u6Qdj7W"
     },
     {
       "album": {

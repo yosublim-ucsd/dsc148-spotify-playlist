@@ -957,6 +957,28 @@
     },
     {
       "album": {
+        "name": "Fortune Teller Blues",
+        "url": "https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382072,
+      "name": "Fortune Teller Blues",
+      "url": "https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm"
+    },
+    {
+      "album": {
         "name": "Four Day Creep",
         "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
       },

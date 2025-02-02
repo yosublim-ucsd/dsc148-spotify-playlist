@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 250626,
+  "num_followers": 250644,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAAJrJI8U26GZLY2ihsgmUtg",
+  "snapshot_id": "Z5wSgAAAAADLDXaSpghQB9f707GVQbaG",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is Like a Butterfly",
+        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Love Is Like a Butterfly",
+      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eagle When She Flies",
         "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 206306,
       "name": "Rockin' Years (with Ricky Van Shelton)",
       "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Like a Butterfly",
-        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Love Is Like a Butterfly",
-      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To All The Girls...",
-        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "From Here to the Moon and Back (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
         "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To All The Girls...",
+        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "From Here to the Moon and Back (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
     },
     {
       "added_at": null,

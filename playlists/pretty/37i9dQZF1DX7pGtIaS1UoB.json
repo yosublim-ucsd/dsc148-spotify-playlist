@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 97306,
+  "num_followers": 97316,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
+        "name": "\u65e5\u51fa",
+        "url": "https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2"
+      },
+      "artists": [
+        {
+          "name": "Joi Chua",
+          "url": "https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg"
+        }
+      ],
+      "duration_ms": 260480,
+      "name": "\u966a\u6211\u770b\u65e5\u51fa",
+      "url": "https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
         "name": "\u591a\u60f3\u8981\u7d66\u4f60\u6211\u7684\u611b",
         "url": "https://open.spotify.com/album/7sptJfmA71o8mztzZEz419"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 167013,
       "name": "\u591a\u60f3\u8981\u7d66\u4f60\u6211\u7684\u611b",
       "url": "https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
-        "name": "\u65e5\u51fa",
-        "url": "https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2"
-      },
-      "artists": [
-        {
-          "name": "Joi Chua",
-          "url": "https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg"
-        }
-      ],
-      "duration_ms": 260480,
-      "name": "\u966a\u6211\u770b\u65e5\u51fa",
-      "url": "https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "\u60f3\u8981\u548c\u4f60",
-        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
-      },
-      "artists": [
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        },
-        {
-          "name": "MAD",
-          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "\u60f3\u8981\u548c\u4f60",
-      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4eba\u751f\u6307\u5357",
         "url": "https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK"
       },
@@ -1011,22 +991,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "\u5fc3\u52d5\u62cd\u62cd",
-        "url": "https://open.spotify.com/album/3nOVvGkBF4wO5eBAFEscl7"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Chen",
-          "url": "https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k"
-        }
-      ],
-      "duration_ms": 186122,
-      "name": "\u5fc3\u52d5\u62cd\u62cd",
-      "url": "https://open.spotify.com/track/7sUbenrBzw6retvleBHvUB"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "Yes, I Do",
         "url": "https://open.spotify.com/album/4vMmLt7csGlAiuPZZOo7Eg"
       },
@@ -1039,6 +1003,42 @@
       "duration_ms": 249734,
       "name": "Yes, I Do",
       "url": "https://open.spotify.com/track/2CivIhGFj0CPPuDTh4d3S7"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "\u60f3\u8981\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
+      },
+      "artists": [
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        },
+        {
+          "name": "MAD",
+          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "\u60f3\u8981\u548c\u4f60",
+      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "\u5fc3\u52d5\u62cd\u62cd",
+        "url": "https://open.spotify.com/album/3nOVvGkBF4wO5eBAFEscl7"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Chen",
+          "url": "https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k"
+        }
+      ],
+      "duration_ms": 186122,
+      "name": "\u5fc3\u52d5\u62cd\u62cd",
+      "url": "https://open.spotify.com/track/7sUbenrBzw6retvleBHvUB"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -1103,22 +1103,6 @@
       "duration_ms": 222682,
       "name": "\u54c8\u5c3c",
       "url": "https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd"
-      },
-      "artists": [
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        }
-      ],
-      "duration_ms": 180467,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd"
+      },
+      "artists": [
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        }
+      ],
+      "duration_ms": 180467,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
         "name": "\u8bf4\u7231\u4f60 (\u7537\u751f\u7248)",
         "url": "https://open.spotify.com/album/62tQtda36PFAcFqKiYv4Ts"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "\u592a\u967d\u966a\u8457\u884c\u661f",
-        "url": "https://open.spotify.com/album/05H4mvVyuv5j1Gulgxgf9x"
-      },
-      "artists": [
-        {
-          "name": "Bii",
-          "url": "https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "\u592a\u967d\u966a\u8457\u884c\u661f",
-      "url": "https://open.spotify.com/track/5vSpx3rGBnwQf4oW6KEdwI"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "\u76f4\u5230\u6211\u9047\u898b\u4e86\u4f60",
         "url": "https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo"
       },
@@ -1283,18 +1267,38 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "\u4e45\u7b49\u4e86\uff0c\u4eb2\u7231\u7684",
-        "url": "https://open.spotify.com/album/3HKLf05VUYXUTsShq0yLXV"
+        "name": "\u66fc\u714e\u7cd5",
+        "url": "https://open.spotify.com/album/7HJXf0UTyN6rqV9yJLLyVw"
       },
       "artists": [
         {
-          "name": "Caven Tang",
-          "url": "https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF"
+          "name": "Jestinna Kuan",
+          "url": "https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2"
+        },
+        {
+          "name": "Danny Lee",
+          "url": "https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6"
         }
       ],
-      "duration_ms": 217006,
-      "name": "\u4e45\u7b49\u4e86\uff0c\u4eb2\u7231\u7684",
-      "url": "https://open.spotify.com/track/6KlxdtC8h0i5DbvM7GqBpH"
+      "duration_ms": 199001,
+      "name": "\u66fc\u714e\u7cd5",
+      "url": "https://open.spotify.com/track/5sllnFvJeEIi6Nahng3FBX"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 (HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2)",
+        "url": "https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 204291,
+      "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
+      "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

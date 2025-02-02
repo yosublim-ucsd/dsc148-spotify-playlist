@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 59 min
+108 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [El Operativo](https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Entre Los Grandes](https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK) | 3:01 | 2024-01-29 |  |
 | [El Rival](https://open.spotify.com/track/1m2ryoXIICvX9pRXNZb3D6) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [El Rival](https://open.spotify.com/album/1MafQQzWNKUr7iTQ7SWE4O) | 3:09 | 2024-12-20 |  |
 | [El Rival](https://open.spotify.com/track/2IvkCzmXWixXtMA1v8S2eT) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Esta Que Arde la Finikera](https://open.spotify.com/album/7lM5mJprKzHhntpJ5uXB5y) | 3:09 | 2024-12-15 | 2024-12-20 |
+| [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/1x8Fw4vwlxsupmVUDEK6hl) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EL SUBE Y BAJA \(En Vivo\)](https://open.spotify.com/album/6J4oo3VvSrs8OsNwS0Tp9E) | 2:47 | 2025-02-02 |  |
 | [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 | 2024-01-29 |  |
 | [fake](https://open.spotify.com/track/4g42FsFm9WVhl1fReFPxNg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 2:56 | 2024-06-09 | 2024-06-22 |
 | [Falsas Amistades](https://open.spotify.com/track/4181MRYP7YRi0xeTLSqmnl) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8), [Grupo Xclusivo](https://open.spotify.com/artist/3ow1pOzmEWbtGbqtMUXHdq), [El Buffalo](https://open.spotify.com/artist/2TeBC9zX5PmG0YzvtGIbWe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Falsas Amistades](https://open.spotify.com/album/3lKRwrXHui6cdacGQ4kbFT) | 3:44 | 2024-01-29 |  |

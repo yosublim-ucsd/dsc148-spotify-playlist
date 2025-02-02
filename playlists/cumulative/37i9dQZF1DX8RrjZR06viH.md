@@ -4,7 +4,7 @@
 
 > 🍂
 
-149 songs - 7 hr 38 min
+150 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Deathbed](https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Deathbed](https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX) | 2:41 | 2024-12-05 |  |
 | [December \(honey, honey\)](https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [December \(honey, honey\)](https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i) | 2:55 | 2024-06-27 |  |
 | [Demo](https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Demo](https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA) | 2:30 | 2024-11-28 | 2025-01-01 |
+| [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 | 2025-01-30 |  |
 | [Dum og lovende](https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 3:07 | 2024-10-31 | 2024-12-11 |
 | [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 | 2025-01-24 |
 | [evig og alltid \(med Emma Steinbakken\)](https://open.spotify.com/track/7BUb5sLSVC8xIE54NN8Vx1) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [tanker blir ting](https://open.spotify.com/album/5YPHiDi5V5r4a8QVK8nCVX) | 3:04 | 2024-06-27 | 2024-07-10 |
@@ -134,7 +135,7 @@
 | [Syrener \- Akustisk](https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [Syrener \(Akustisk\)](https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4) | 3:07 | 2024-06-27 |  |
 | [Så easy](https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL), [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2) | [Og eg lyger så det renner som en foss gjennom rommet](https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH) | 3:40 | 2024-06-27 |  |
 | [Sånn som deg](https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Sånn som deg](https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2) | 3:24 | 2024-06-27 | 2025-01-30 |
-| [Søtt&salt \(feat\. Peg Parnevik\)](https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Søtt&salt \(feat\. Peg Parnevik\)](https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI) | 3:15 | 2024-10-31 |  |
+| [Søtt&salt \(feat\. Peg Parnevik\)](https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Søtt&salt \(feat\. Peg Parnevik\)](https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI) | 3:15 | 2024-10-31 | 2025-02-02 |
 | [Ta med deg døra](https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ta med deg døra](https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K) | 3:31 | 2024-10-24 |  |
 | [Take Your Time \(Slow Down\)](https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [International Girl, Pt\. 1](https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7) | 2:13 | 2024-06-27 | 2024-08-03 |
 | [Tar Jeg Feil](https://open.spotify.com/track/606olj3PDQBde7TTAop4tA) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Tar Jeg Feil](https://open.spotify.com/album/4mjRBfM8Z5qh0EMVMSLtKy) | 4:05 | 2024-06-27 | 2024-10-11 |

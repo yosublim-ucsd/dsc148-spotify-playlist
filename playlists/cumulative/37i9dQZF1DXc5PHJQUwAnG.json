@@ -7255,6 +7255,24 @@
     },
     {
       "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/1zbbc3CrJ3yRbUCfEwbD1Q"
+      },
+      "artists": [
+        {
+          "name": "KyozeH",
+          "url": "https://open.spotify.com/artist/258O12vApWppL528cs0gQf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133043,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/2I4Ahv4wzisiw3G7ZJshBD"
+    },
+    {
+      "album": {
         "name": "YANOSE+",
         "url": "https://open.spotify.com/album/6Xc3L4wNLJgkuivTpmpmGo"
       },

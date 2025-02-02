@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,426 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,439 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 32 | [Jattiye Ni](https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jattiye Ni](https://open.spotify.com/album/4sISXOYpISfwZI6RmGWfJA) | 3:01 |
 | 33 | [Bom Diggy](https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy \- Single](https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8) | 3:27 |
 | 34 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 |
-| 35 | [Trending Nakhra](https://open.spotify.com/track/42NUrjx6cy23vTp2JyUawT) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Trending Nakhra](https://open.spotify.com/album/3Dhlyk7vUAE1FYbak0Xa4O) | 3:54 |
-| 36 | [Sip Sip](https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Intense](https://open.spotify.com/artist/1fiV2IiPFeUHHg6LGKHF9R) | [Sip Sip](https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga) | 3:36 |
+| 35 | [Sip Sip](https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Intense](https://open.spotify.com/artist/1fiV2IiPFeUHHg6LGKHF9R) | [Sip Sip](https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga) | 3:36 |
+| 36 | [Trending Nakhra](https://open.spotify.com/track/42NUrjx6cy23vTp2JyUawT) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Trending Nakhra](https://open.spotify.com/album/3Dhlyk7vUAE1FYbak0Xa4O) | 3:54 |
 | 37 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 |
 | 38 | [Sang Maar Gayi](https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sang Maar Gayi](https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo) | 2:58 |
 | 39 | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/album/4FSDkGEXFPKgmrnxHNvp2Y) | 2:45 |

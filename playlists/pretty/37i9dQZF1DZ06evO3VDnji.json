@@ -1,13 +1,33 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 69924,
+  "num_followers": 69951,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAC4g6x4ZwNXTjZp3XPDavqw",
+  "snapshot_id": "Z5wSgAAAAAAwmiP8mYdPX+gXYAUngpgg",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Borres",
+        "url": "https://open.spotify.com/album/6Z527zpsy6DqiNCLpiwxK6"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 231435,
+      "name": "No Me Borres",
+      "url": "https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x"
+    },
     {
       "added_at": null,
       "album": {
@@ -399,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Moda",
-        "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
-      },
-      "artists": [
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 124377,
-      "name": "Chilling",
-      "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -435,6 +435,26 @@
       "duration_ms": 279920,
       "name": "Decir Adios (with DannyLux)",
       "url": "https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Moda",
+        "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 124377,
+      "name": "Chilling",
+      "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
     },
     {
       "added_at": null,
@@ -527,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
@@ -563,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
       "artists": [
         {
@@ -572,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 286500,
-      "name": "Falsos Sentimientos",
-      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": null,
@@ -595,6 +599,22 @@
       "duration_ms": 233625,
       "name": "ZAFIRO (feat. Pablo Hurtado)",
       "url": "https://open.spotify.com/track/6taOvxRUBWYuO2n0NUWAyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 286500,
+      "name": "Falsos Sentimientos",
+      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
     },
     {
       "added_at": null,
@@ -635,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Viaje de Amor",
-      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perdido En Ti",
         "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
@@ -667,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
       },
       "artists": [
         {
@@ -676,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 183559,
-      "name": "ATRAPADO",
-      "url": "https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ"
+      "duration_ms": 310500,
+      "name": "Viaje de Amor",
+      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
     },
     {
       "added_at": null,
@@ -711,6 +715,22 @@
       "duration_ms": 211500,
       "name": "Nuestro Pasado",
       "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 183559,
+      "name": "ATRAPADO",
+      "url": "https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2431269,
+  "num_followers": 2431680,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAB/QNNDLJLA8nEWTJGtxtAD",
+  "snapshot_id": "Z5wSgAAAAAC2jBreyHGOMxQPAge0ygNr",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Romances",
-        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Amor (Amor, amor, amor)",
-      "url": "https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segundo Romance",
         "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 191693,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Romances",
+        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Amor (Amor, amor, amor)",
+      "url": "https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66"
     },
     {
       "added_at": null,

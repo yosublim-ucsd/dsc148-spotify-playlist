@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1388555,
+  "num_followers": 1388551,
   "original_name": "Gym Latino",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-01-17 23:37:52",
       "album": {
+        "name": "Aloh Aloh",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 136571,
+      "name": "Aloh Aloh",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
+    },
+    {
+      "added_at": "2025-01-17 23:37:52",
+      "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
-    },
-    {
-      "added_at": "2025-01-17 23:37:52",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
       "added_at": "2025-01-17 23:37:52",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-01-17 23:37:52",
       "album": {
-        "name": "Aloh Aloh",
-        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 136571,
-      "name": "Aloh Aloh",
-      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
       "added_at": "2025-01-17 23:37:52",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2025-01-17 23:37:52",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 137821,
-      "name": "Baila Baila",
-      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
-    },
-    {
-      "added_at": "2025-01-17 23:37:52",
-      "album": {
-        "name": "CARITA TRISTE",
-        "url": "https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 175296,
-      "name": "CARITA TRISTE",
-      "url": "https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc"
-    },
-    {
-      "added_at": "2025-01-17 23:37:52",
-      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1267,6 +1231,42 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": "2025-01-17 23:37:52",
+      "album": {
+        "name": "CARITA TRISTE",
+        "url": "https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 175296,
+      "name": "CARITA TRISTE",
+      "url": "https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc"
+    },
+    {
+      "added_at": "2025-01-17 23:37:52",
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 137821,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
     },
     {
       "added_at": "2025-01-17 23:37:52",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2025-01-17 23:37:52",
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2025-01-17 23:37:52",
+      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
-    },
-    {
-      "added_at": "2025-01-17 23:37:52",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2025-01-17 23:37:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-01-17 23:37:52",
       "album": {
-        "name": "Papi Arca",
-        "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 161923,
-      "name": "La Pared",
-      "url": "https://open.spotify.com/track/22I9IB7kciNkum0KuUa0hv"
-    },
-    {
-      "added_at": "2025-01-17 23:37:52",
-      "album": {
         "name": "VISTA AL MAR",
         "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 180672,
       "name": "VISTA AL MAR",
       "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "added_at": "2025-01-17 23:37:52",
+      "album": {
+        "name": "Papi Arca",
+        "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 161923,
+      "name": "La Pared",
+      "url": "https://open.spotify.com/track/22I9IB7kciNkum0KuUa0hv"
     },
     {
       "added_at": "2025-01-17 23:37:52",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-01-17 23:37:52",
       "album": {
-        "name": "DURO",
-        "url": "https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 162204,
-      "name": "DURO",
-      "url": "https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2"
-    },
-    {
-      "added_at": "2025-01-17 23:37:52",
-      "album": {
         "name": "Perdonarte \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 193933,
       "name": "Perdonarte \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
+    },
+    {
+      "added_at": "2025-01-17 23:37:52",
+      "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 162204,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2"
     },
     {
       "added_at": "2025-01-17 23:37:52",

@@ -4,7 +4,7 @@
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 18 min
+87 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Andar Conmigo](https://open.spotify.com/track/69qGjlSgEJJkkZSp4ZN3GC) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 4:07 | 2024-09-21 |  |
 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 | 2024-01-29 | 2024-09-21 |
 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 | 2024-01-29 |  |
+| [Cada Noche](https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Cada Noche](https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy) | 3:41 | 2025-02-02 |  |
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2024-01-29 |  |
 | [Culpables](https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV) | 4:12 | 2024-01-29 | 2024-12-15 |
 | [Culpables](https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8) | 4:12 | 2024-12-15 |  |
@@ -59,7 +60,7 @@
 | [Me Vuelve Loco](https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd) | 3:52 | 2024-09-20 |  |
 | [Me Vuelve Loco](https://open.spotify.com/track/3QqjIX7MHwmip6AGbATwTU) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/7gpdMTJfi6DTyrnXSIxFGf) | 3:52 | 2024-01-29 | 2024-09-20 |
 | [Mejor Para Los 2](https://open.spotify.com/track/4BC3plcvT1mNHBJdCMoV2n) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mejor Para Los Dos](https://open.spotify.com/album/68Gk3nnUchg6oNC0Uwhymt) | 2:38 | 2024-06-22 | 2024-08-16 |
-| [Mejor Para Los 2](https://open.spotify.com/track/6pNCkJBoyHMDdLp5BQqa1i) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mejor Para Los Dos](https://open.spotify.com/album/3G8jIUQyVMtgpcm2w7gAch) | 2:38 | 2024-09-13 |  |
+| [Mejor Para Los 2](https://open.spotify.com/track/6pNCkJBoyHMDdLp5BQqa1i) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mejor Para Los Dos](https://open.spotify.com/album/3G8jIUQyVMtgpcm2w7gAch) | 2:38 | 2024-09-13 | 2025-02-02 |
 | [Mi Amor Por Ti](https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti](https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K) | 3:47 | 2024-01-29 | 2024-08-21 |
 | [Mi Amor Por Ti](https://open.spotify.com/track/46oEwUHvlrd038HuB5EW8z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti](https://open.spotify.com/album/2CcT2BdRw18jS7SYZI10Nf) | 3:47 | 2024-08-21 |  |
 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H) | 3:59 | 2024-01-29 |  |

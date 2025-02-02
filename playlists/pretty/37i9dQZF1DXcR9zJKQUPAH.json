@@ -1,6 +1,6 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 156320,
+  "num_followers": 156372,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Navajo",
-        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
+        "name": "Sacred Hearts Club",
+        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 194157,
-      "name": "Navajo",
-      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
+      "duration_ms": 243146,
+      "name": "Sit Next to Me",
+      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Sacred Hearts Club",
-        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
+        "name": "Navajo",
+        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 243146,
-      "name": "Sit Next to Me",
-      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
+      "duration_ms": 194157,
+      "name": "Navajo",
+      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 233280,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "On Hold",
-      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "You Say I'm in Love",
         "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 176760,
       "name": "You Say I'm in Love",
       "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Plural",
-        "url": "https://open.spotify.com/album/38TessTymDbaYtY3A6bm3b"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Oh Devil",
-      "url": "https://open.spotify.com/track/3TBHYzTPw0Hv05hCAtTJG0"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 190447,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Plural",
+        "url": "https://open.spotify.com/album/38TessTymDbaYtY3A6bm3b"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Oh Devil",
+      "url": "https://open.spotify.com/track/3TBHYzTPw0Hv05hCAtTJG0"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 222335,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/1rEkUEBFYEtqDLYaTuElsx"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "SNOW",
         "url": "https://open.spotify.com/album/3k3EvBHWTu3VkyAh5Pevv9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 228653,
       "name": "Hot Thoughts",
       "url": "https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 222335,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/1rEkUEBFYEtqDLYaTuElsx"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Loving Is Easy (feat. Benny Sings)",
         "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Begin (feat. Wales)",
         "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Goodpain",
         "url": "https://open.spotify.com/album/0tg6msTvhHx8glztrBii80"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Holo",
         "url": "https://open.spotify.com/album/0ygukMYaVzLgjcVM4d7oWk"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 164000,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/69GQG5cXGUFq4dqCbExWui"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1591,22 +1607,6 @@
       "duration_ms": 158474,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/15eduSFXnQfnQvcmWHDBPi"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262231,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
     },
     {
       "added_at": "2024-03-18 13:08:31",

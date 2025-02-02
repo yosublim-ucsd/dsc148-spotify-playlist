@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,119 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,114 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 49 | [Christmas Date Blues](https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:34 |
 | 50 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
 | 51 | [Christmas Rocks!](https://open.spotify.com/track/2D6MeS0FupmqOPRDchT9j9) | [Smokestack Blues Band](https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s) | [Christmas Rocks!](https://open.spotify.com/album/2ipVMM2f0j79rDkFywlEaK) | 3:37 |
-| 52 | [Christmas Time Blues](https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [The Very Best of Roy Milton](https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv) | 3:05 |
-| 53 | [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 |
+| 52 | [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 |
+| 53 | [Christmas Time Blues](https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [The Very Best of Roy Milton](https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv) | 3:05 |
 | 54 | [Sonny Boy's Christmas Blues](https://open.spotify.com/track/4weFccuXOr6pFIC58i5cvq) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [His Harmonica](https://open.spotify.com/artist/3SZ6jDra9YUYwBfwICOY9p), [Houserockers](https://open.spotify.com/artist/2lB3JZ8mfRSa63NWZs4r6R) | [Merry Christmas Baby \(1950\-1951\)](https://open.spotify.com/album/35QfACrmI15EQdKUSQCZ3o) | 2:34 |
 | 55 | [Happy New Year](https://open.spotify.com/track/3jMryalIecyAt3f4PiCGtf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Best Of](https://open.spotify.com/album/4W32kJML1IfiPlSmAQ1hU8) | 3:17 |
 | 56 | [Merry Christmas Baby](https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 5:05 |

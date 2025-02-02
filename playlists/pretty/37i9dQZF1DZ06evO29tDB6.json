@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 137816,
+  "num_followers": 137851,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABPPh8RUpMbQIuztkx4cabp",
+  "snapshot_id": "Z5wSgAAAAAAUtbJDfaBnV+rrC8/H2bBr",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rayito Colombiano y los Grandes Compositores",
+        "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Gerardo Guardia",
+          "url": "https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Triste Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/7wWbD4WnxyLy7bix3d07r3"
       },
@@ -231,30 +255,6 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/2G6gnsbzUJYDCGHOtIBoWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rayito Colombiano y los Grandes Compositores",
-        "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        },
-        {
-          "name": "Gerardo Guardia",
-          "url": "https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Triste Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
     },
     {
       "added_at": null,
@@ -727,34 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vecina (Trapeada Mix)",
-        "url": "https://open.spotify.com/album/21Cm0UU0Dl5Qmr081bGnie"
+        "name": "Chavo De Onda",
+        "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
       "artists": [
         {
-          "name": "Riesgo de Contagio",
-          "url": "https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
-        {
-          "name": "Luisito Rey",
-          "url": "https://open.spotify.com/artist/4xIGd0rRvlvEw9XMwVEA8Q"
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
         },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        },
-        {
-          "name": "Jeronimo Gorraez",
-          "url": "https://open.spotify.com/artist/4EoBAFFhWcdz9m4RQ9gRzR"
         }
       ],
-      "duration_ms": 213000,
-      "name": "La Vecina (Trapeada Mix)",
-      "url": "https://open.spotify.com/track/2Qa3Sd1Hi2eJa2mGdr0cqe"
+      "duration_ms": 209578,
+      "name": "Chavo De Onda",
+      "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
     },
     {
       "added_at": null,
@@ -791,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chavo De Onda",
-        "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
-      },
-      "artists": [
-        {
-          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
-          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 209578,
-      "name": "Chavo De Onda",
-      "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dama De Los Callejones",
         "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
       },
@@ -827,6 +795,22 @@
       "duration_ms": 190093,
       "name": "Dama De Los Callejones",
       "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "Chilangolandia",
+      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
     },
     {
       "added_at": null,
@@ -863,18 +847,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 A\u00f1os Vol. 2",
-        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
+        "name": "La Vecina (Trapeada Mix)",
+        "url": "https://open.spotify.com/album/21Cm0UU0Dl5Qmr081bGnie"
       },
       "artists": [
         {
+          "name": "Riesgo de Contagio",
+          "url": "https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "Luisito Rey",
+          "url": "https://open.spotify.com/artist/4xIGd0rRvlvEw9XMwVEA8Q"
+        },
+        {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Jeronimo Gorraez",
+          "url": "https://open.spotify.com/artist/4EoBAFFhWcdz9m4RQ9gRzR"
         }
       ],
-      "duration_ms": 259053,
-      "name": "Chilangolandia",
-      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
+      "duration_ms": 213000,
+      "name": "La Vecina (Trapeada Mix)",
+      "url": "https://open.spotify.com/track/2Qa3Sd1Hi2eJa2mGdr0cqe"
     },
     {
       "added_at": null,

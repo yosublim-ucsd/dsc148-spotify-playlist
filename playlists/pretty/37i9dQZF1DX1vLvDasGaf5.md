@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,093 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,113 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 38 | [愛・おぼえていますか](https://open.spotify.com/track/2uTwJLK1BaFVbEX5qX9D1W) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [「映画 超時空要塞マクロス」 愛・おぼえていますか ＜音楽篇＞](https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP) | 5:09 |
 | 39 | [夏のミラージュ](https://open.spotify.com/track/17QmZTdwAkTB3b9rGLNbur) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [Esquisse（エスキース）](https://open.spotify.com/album/41ka6U4rOJel17t5UI8Fvl) | 4:31 |
 | 40 | [ダンバイン とぶ](https://open.spotify.com/track/6Pq75f0vDP0MFY3E4Lp9sx) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [聖戦士ダンバイン オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/3toe4GbpIL80W5j2KriGSZ) | 4:16 |
-| 41 | [ロマンティックあげるよ \(21st century ver.\) \(ドラゴンボール\)](https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q) | [イナズマchallenger](https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk) | 3:59 |
-| 42 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 |
-| 43 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |
+| 41 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 |
+| 42 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |
+| 43 | [ロマンティックあげるよ \(21st century ver.\) \(ドラゴンボール\)](https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q) | [イナズマchallenger](https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk) | 3:59 |
 | 44 | [ゴーゴーヘブン](https://open.spotify.com/track/2PKirbdnc1XrAo3zDETpUP) | [Yoshiyuki Osawa](https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek) | [The LEGEND](https://open.spotify.com/album/1FYghKHKG1FGS6Mco7D0LL) | 3:59 |
 | 45 | [キン肉マン Go Fight! \(キン肉マン\)](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈！アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 |
-| 46 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 |
-| 47 | [ペガサス幻想 \(21st century ver.\)](https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L) | [Make\-Up](https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh) | [The Voice From Yesterday](https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu) | 3:37 |
-| 48 | [夢色チェイサー\(Single Version\)](https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [MELTING POINT](https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv) | 3:33 |
-| 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
-| 50 | [Step](https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA) | [a・chi\-a・chi](https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi) | [Step](https://open.spotify.com/album/1LfeYAb1OmWYI12f180QJd) | 4:19 |
+| 46 | [コン・バトラ－Vのテーマ \(超電磁ロボ コン・バトラーV\)](https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [スーパーロボット大戦 ボーカルコレクション ROBONATION.1](https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz) | 2:55 |
+| 47 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 |
+| 48 | [ペガサス幻想 \(21st century ver.\)](https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L) | [Make\-Up](https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh) | [The Voice From Yesterday](https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu) | 3:37 |
+| 49 | [夢色チェイサー\(Single Version\)](https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [MELTING POINT](https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv) | 3:33 |
+| 50 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 
 Snapshot ID: `Zs9DOwAAAAAq6HI3SLIg64WrxchlRFVQ`

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-683 songs - 1 day 16 hr 40 min
+684 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Damn This Heart Of Mine](https://open.spotify.com/track/09CO5s80NyjQvE9RiBYdD1) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Damn This Heart Of Mine](https://open.spotify.com/album/2fHU5IuiQHpwOW78v1u3Sw) | 3:03 | 2023-05-12 | 2023-06-03 |
 | [Dance Hall Hell](https://open.spotify.com/track/5G2VgMq3PRET97pQ9zZkTc) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Western & Roll](https://open.spotify.com/album/3yYi2yRTDctlJEsSddZ9yv) | 3:33 | 2022-06-24 | 2022-07-15 |
 | [Danced All Night Long](https://open.spotify.com/track/3Kqz6fQwqNjvebOaPPslFt) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Danced All Night Long](https://open.spotify.com/album/5G5OQaWKa8I4oUrC5dmLB9) | 4:04 | 2022-03-11 | 2022-03-19 |
-| [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 | 2022-03-04 |  |
+| [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 | 2022-03-04 | 2025-02-02 |
 | [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 | 2022-06-17 | 2022-09-24 |
 | [Dancing Shoes](https://open.spotify.com/track/0VsJggPyMWdXSH3FNSKd6e) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [3 Songs](https://open.spotify.com/album/6RaMHT37nsfajFkHLOr38m) | 3:45 | 2023-07-21 | 2023-08-26 |
 | [Dark Bar Daisy](https://open.spotify.com/track/1I4CgfY1bvPRPF08Rs2yEG) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:04 | 2023-10-06 | 2024-05-18 |
@@ -489,6 +489,7 @@
 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 | 2021-12-17 |  |
 | [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/3y2zTwvJpEJ0pYi6JdbkQU) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [9 To 5](https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v) | 3:21 | 2023-09-01 | 2023-10-21 |
 | [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/63Z6AAHPSbNm0S6f5XuXe5) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:21 | 2023-11-24 | 2024-01-24 |
+| [She Always Takes Me Back](https://open.spotify.com/track/6hNrQDeyGlEA32LorsV8nS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [She Always Takes Me Back](https://open.spotify.com/album/4KnI45gKt007RNirnZsafg) | 3:34 | 2025-01-31 |  |
 | [She Can't Be Found](https://open.spotify.com/track/0S7JGv7sbJlrr6BBMfRKye) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 4:27 | 2023-08-11 | 2023-09-11 |
 | [She Can't Be Found](https://open.spotify.com/track/6T02bf5qIAVf8AndP9x2Ud) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [She Can't Be Found](https://open.spotify.com/album/6Ldm3L4Aa6YD5IiJfTc79l) | 4:27 | 2023-07-07 | 2023-08-14 |
 | [She Don't](https://open.spotify.com/track/1fgNH6vN7i4Ofp6uxuVHzH) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [She Don't](https://open.spotify.com/album/4zQKvIO2kVpQFZhFBuXc7k) | 3:11 | 2023-02-24 | 2023-05-27 |

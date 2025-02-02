@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,818 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,842 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 35 | [Freedom](https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9) | 2:40 |
 | 36 | [C'est DIEU qui donne](https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [C'est DIEU qui donne](https://open.spotify.com/album/10KLqBswvKTGchWdCLjSj3) | 2:57 |
 | 37 | [Grace Story](https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Grace Story](https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ) | 7:03 |
-| 38 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 |
-| 39 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 |
+| 38 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 |
+| 39 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 |
 | 40 | [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 |
 | 41 | [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 |
 | 42 | [AHA GI](https://open.spotify.com/track/2FG8qmndhyFqajnUF2912N) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L) | [AHA GI](https://open.spotify.com/album/1m0UBS67ULLyN2Z5WsUrko) | 3:50 |

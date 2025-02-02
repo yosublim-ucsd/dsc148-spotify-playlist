@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sound from Asia\. Cover: Balming Tiger \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,551 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,729 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,17 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 45 | [Nirmala](https://open.spotify.com/track/5girXMAp0lBtfQpNZEe1cT) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Nirmala](https://open.spotify.com/album/47kv2lYLvQoUTIMbj2EWGs) | 3:10 |
 | 46 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
 | 47 | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J) | 3:53 |
-| 48 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 |
+| 48 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
 | 49 | [blue](https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn) | 3:34 |
 | 50 | [Timescroll](https://open.spotify.com/track/1MIWMRCEdZaEt18V0MQdLH) | [星宮とと](https://open.spotify.com/artist/2gLRAkIfasw2ydt1omK41j), [IX/ON](https://open.spotify.com/artist/2kqBhRSwJAm8F84VJwMiud) | [Timescroll](https://open.spotify.com/album/1VFSaL71j2Ey7BKZlgM3d0) | 4:01 |
-| 51 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
+| 51 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 |
 | 52 | [Euphoria](https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [All These and More](https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x) | 3:29 |
 | 53 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 |
 | 54 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 |
 | 55 | [Our Beloved Summer](https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD) | 3:12 |
 | 56 | [Magic](https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Magic](https://open.spotify.com/album/653aKK0vOZIlyWmq8B0RSd) | 3:20 |
-| 57 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
-| 58 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 |
+| 57 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 |
+| 58 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
 | 59 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 |
 | 60 | [Lia](https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 4:20 |
 | 61 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 |

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "7 Dias",
+        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180688,
+      "name": "7 Dias",
+      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+    },
+    {
+      "album": {
         "name": "A Puro Dolor",
         "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
       },

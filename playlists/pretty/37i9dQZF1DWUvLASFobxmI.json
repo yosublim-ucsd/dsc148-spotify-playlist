@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Receta, El Frizian en portada.",
-  "num_followers": 499866,
+  "num_followers": 500132,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Mami",
-        "url": "https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 193843,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Mi Amor Por Ti",
         "url": "https://open.spotify.com/album/2CcT2BdRw18jS7SYZI10Nf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 227380,
       "name": "Mi Amor Por Ti",
       "url": "https://open.spotify.com/track/46oEwUHvlrd038HuB5EW8z"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 193843,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Borracho Enamorado",
-        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 152776,
-      "name": "Borracho Enamorado",
-      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "ALFA & OMEGA",
         "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 210000,
       "name": "Sin Miedo - En Vivo",
       "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Borracho Enamorado",
+        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 152776,
+      "name": "Borracho Enamorado",
+      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "S\u00e1lvame",
         "url": "https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
+      "duration_ms": 207342,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1427,22 +1443,6 @@
       "duration_ms": 160768,
       "name": "Si Me Sue\u00f1as (En Vivo)",
       "url": "https://open.spotify.com/track/6nLrfnFHH0fYfrTDbJjuEa"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 207342,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Tenis Jordan",
-        "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 149962,
-      "name": "Tenis Jordan",
-      "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 240133,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Tenis Jordan",
+        "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 149962,
+      "name": "Tenis Jordan",
+      "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Dif\u00edcil De Creer",
-        "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
+        "name": "Y Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 168736,
-      "name": "Dif\u00edcil De Creer",
-      "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
+      "duration_ms": 235230,
+      "name": "Y Te Vas (En Vivo)",
+      "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Y Te Vas (En Vivo)",
-        "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
+        "name": "Dif\u00edcil De Creer",
+        "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 235230,
-      "name": "Y Te Vas (En Vivo)",
-      "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
+      "duration_ms": 168736,
+      "name": "Dif\u00edcil De Creer",
+      "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1951,6 +1951,22 @@
       "duration_ms": 135585,
       "name": "La Caguama - En Vivo",
       "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Loko",
+        "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 131754,
+      "name": "Loko",
+      "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 148050,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/1Bfn7QA4bGOPYszK1OSciN"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
       },
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 148050,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/1Bfn7QA4bGOPYszK1OSciN"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "Atenci\u00f3n Al Cliente",
         "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
       },
@@ -2095,22 +2111,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 235711,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Top Secret",
         "url": "https://open.spotify.com/album/7GAbSFIsqApvFz1wC23KsT"
       },
@@ -2131,22 +2131,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 223125,
-      "name": "La Indicada",
-      "url": "https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85"
+      "duration_ms": 235711,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -2163,6 +2159,26 @@
       "duration_ms": 175496,
       "name": "Paz En Este Amor",
       "url": "https://open.spotify.com/track/6XqL9LBSTRGhLQFbvYJGYt"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Niveleando Cuh II",
+        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "La Indicada",
+      "url": "https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -2199,34 +2215,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "El Dorado Fue Cobre",
-        "url": "https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4"
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/0FhNkVsF06mBEzRCFsugDg"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 200127,
-      "name": "El Dorado Fue Cobre",
-      "url": "https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
+      "duration_ms": 202968,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/0Nhh75wKrxe9qKGXw5mAqX"
     }
   ],
   "unique_name": "Norte\u00f1o 2025",

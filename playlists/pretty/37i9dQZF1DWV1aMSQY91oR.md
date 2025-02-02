@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,259 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,284 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 2 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
 | 3 | [Just for Kicks \(“Meat Grinder” demo\)](https://open.spotify.com/track/0xSGp6VPeckr3Inxz3IrA9) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy Demos](https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ) | 2:46 |
 | 4 | [Creole](https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg) | [Creole](https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt) | 2:29 |
-| 5 | [Enjoy The Show](https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
+| 5 | [Enjoy The Show \(feat\. Future\)](https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
 | 6 | [BOOTLEG BALENCIAGA.](https://open.spotify.com/track/2C7ua3VXMJJzb1F4fNHNTw) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [HOLD MY LIQUOR](https://open.spotify.com/album/5b4CWb6hbrZ3Zsz5i850hG) | 2:00 |
 | 7 | [man in the mirror](https://open.spotify.com/track/4KmNLSvaKU0zoJhIptn961) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 1:51 |
 | 8 | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/7I6XbdkDL1YLbRFeJFGJZT) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/5Iw8hmPOgFw9rzI9510FKQ) | 2:19 |

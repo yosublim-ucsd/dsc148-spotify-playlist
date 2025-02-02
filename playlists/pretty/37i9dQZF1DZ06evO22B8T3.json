@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1303694,
+  "num_followers": 1303677,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACbbjeLl4vnmQXrpVTGq3pv",
+  "snapshot_id": "Z5wSgAAAAADB8fzXbyXGvUKr1bB5ym/1",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Tiene Mal",
+        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 250697,
+      "name": "Me Tiene Mal",
+      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Protagonista",
         "url": "https://open.spotify.com/album/5zQtriA0zv9RW1UbFUIHM3"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 159272,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/1kmeChA8VINeDprVkTHRhW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Tiene Mal",
-        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 250697,
-      "name": "Me Tiene Mal",
-      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
     },
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
       },
       "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+      "duration_ms": 258540,
+      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
       },
       "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 258540,
-      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noche Complicada",
         "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 211208,
       "name": "Noche Complicada",
       "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
     },
     {
       "added_at": null,

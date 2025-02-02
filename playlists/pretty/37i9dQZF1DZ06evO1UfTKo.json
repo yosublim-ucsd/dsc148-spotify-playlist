@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 733108,
+  "num_followers": 733250,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADVs+LslVQ8xDgCxbSlz8LU",
+  "snapshot_id": "Z5wSgAAAAAATpUSmAgcgbHque5XOcQkb",
   "tracks": [
     {
       "added_at": null,
@@ -283,38 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "El Avi\u00f3n De La Muerte",
-      "url": "https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Qui\u00e9n",
-      "url": "https://open.spotify.com/track/6mdvilly3zBePvaMy5PGmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ultimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
       },
@@ -403,6 +371,38 @@
       "duration_ms": 237466,
       "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
       "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Qui\u00e9n",
+      "url": "https://open.spotify.com/track/6mdvilly3zBePvaMy5PGmB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "El Avi\u00f3n De La Muerte",
+      "url": "https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Tres Veces Mojado",
-      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 183800,
       "name": "Si No Me Falla El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0SGdWCUiPeb2Q9sqBoJzGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "Tres Veces Mojado",
+      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Los Tres Amigos",
-      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 206600,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Los Tres Amigos",
+      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacto De Sangre",
-        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
-      "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 210853,
       "name": "Los Dos Plebes",
       "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pacto De Sangre",
+        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
+      "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "El Tahur",
-      "url": "https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realidades",
         "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 197133,
       "name": "La Bala",
       "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "El Tahur",
+      "url": "https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH"
     },
     {
       "added_at": null,

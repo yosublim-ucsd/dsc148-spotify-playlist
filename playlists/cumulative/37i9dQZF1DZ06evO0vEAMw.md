@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-142 songs - 7 hr 58 min
+143 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Slow Down \(feat\. H.E.R., DaVido, & Oxlade\) \- P2J Remix](https://open.spotify.com/track/5VXX29Dqo6mw7kVBNnsign) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [P2J](https://open.spotify.com/artist/7owWHiQB5FQHFiBYXxbphY) | [Slow Down \(feat\. H.E.R., DaVido, & Oxlade\) \- P2J Remix](https://open.spotify.com/album/5sJ2Np67hSxgRHOwvBPB1Z) | 3:48 | 2022-04-22 | 2023-03-25 |
 | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/track/5SSYzmp4B9GnT3xYswsUh7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/album/1Re42ryUU8e6Mau0MfMBv0) | 2:50 | 2021-12-28 | 2022-05-15 |
 | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/track/5h9n5J7SRLzqBx4PyzhAFs) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:50 | 2022-06-01 | 2022-10-13 |
+| [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 | 2025-02-02 |  |
 | [Somebody](https://open.spotify.com/track/1R2ec5CbBvqzoJLXcGPpyI) | [Vudumane](https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Identity](https://open.spotify.com/album/41YbzYnLDE8aCrt0mOVfLl) | 3:36 | 2023-08-16 | 2023-12-14 |
 | [Somebody](https://open.spotify.com/track/18a9SgkR2J3Pnjy6s4uKa5) | [Vudumane](https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Somebody](https://open.spotify.com/album/7ulgQrTVqAoIqrWSOpSxVj) | 3:50 | 2024-07-04 | 2024-07-14 |
 | [Somebody Baby](https://open.spotify.com/track/3xRopW25fMXyIvJkJJ43R6) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 2:19 | 2023-02-08 | 2023-04-02 |

@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Heavy Metal Heart",
+        "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
+      },
+      "artists": [
+        {
+          "name": "The Blessing Business",
+          "url": "https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272913,
+      "name": "Heavy Metal Heart",
+      "url": "https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M"
+    },
+    {
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 212760,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/7ijaLVa15Ml4kPRHZMMtWv"

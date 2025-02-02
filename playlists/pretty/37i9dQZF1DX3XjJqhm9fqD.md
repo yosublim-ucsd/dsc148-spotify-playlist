@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,334 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,362 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 86 | [MARRAKECH](https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [MARRAKECH](https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA) | 2:21 |
 | 87 | [Iko Kreyòl](https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Win Butler](https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN), [Regine Chassagne](https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [79rs Gang](https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX) | [HaitiaNola](https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z) | 3:02 |
 | 88 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
-| 89 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
-| 90 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 |
+| 89 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 |
+| 90 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
 | 91 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 |
 | 92 | [Tou Limen](https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:47 |
 | 93 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 95 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
 | 96 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 97 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
-| 98 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
-| 99 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
+| 98 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
+| 99 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
 | 100 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 
 Snapshot ID: `Z0AP0AAAAAAFiLkhnLU29Li6Yu4zhxAH`

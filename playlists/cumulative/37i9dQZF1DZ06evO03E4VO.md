@@ -4,7 +4,7 @@
 
 > This is Alaina Castillo\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 17 min
+45 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [i don't think i love you anymore](https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01) | 3:49 | 2023-12-18 |  |
 | [indica](https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:25 | 2023-12-18 |  |
 | [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 | 2023-12-18 |  |
+| [last night](https://open.spotify.com/track/0HMQ493c8db2ALqW7sYGhr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [last night](https://open.spotify.com/album/0CoGTbkwsNheCdBFtY4qBD) | 3:19 | 2025-02-02 |  |
 | [lips \- Original Music from The L Word: Generation Q](https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [lips \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx) | 3:07 | 2023-12-18 |  |
 | [luna de miel](https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [luna de miel](https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2) | 2:35 | 2023-12-18 |  |
 | [make it rain](https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 2:39 | 2024-03-30 |  |

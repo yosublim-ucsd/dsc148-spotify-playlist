@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,584 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,606 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 44 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 |
 | 45 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 |
 | 46 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 |
-| 47 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
+| 47 | [Passe ton chemin](https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 3:20 |
 | 48 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:13 |
-| 49 | [Passe ton chemin](https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 3:20 |
+| 49 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
 | 50 | [Parmi les autres](https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Parmi les autres](https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw) | 3:39 |
 | 51 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 |
 | 52 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 |
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 79 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 |
 | 80 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 |
 | 81 | [Tu danses, condessa](https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:17 |
-| 82 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 |
-| 83 | [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 |
+| 82 | [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 |
+| 83 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 |
 | 84 | [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 |
-| 85 | [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 |
-| 86 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 |
-| 87 | [Pain](https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain](https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y) | 4:02 |
-| 88 | [nina](https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [nina](https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq) | 3:14 |
+| 85 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 |
+| 86 | [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 |
+| 87 | [nina](https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [nina](https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq) | 3:14 |
+| 88 | [Pain](https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain](https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y) | 4:02 |
 | 89 | [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 |
 | 90 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 |
 | 91 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 95 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 |
 | 96 | [Kindergarten Heart](https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC) | 2:57 |
 | 97 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 |
-| 98 | [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 |
+| 98 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 |
 | 99 | [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 |
-| 100 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 |
+| 100 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 |
 
 Snapshot ID: `Z5xY8gAAAAAsOeg/ATzQBCNd40nPraYC`

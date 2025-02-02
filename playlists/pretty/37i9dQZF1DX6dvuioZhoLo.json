@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 309613,
+  "num_followers": 309670,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Blue Kentucky Girl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Blue Kentucky Girl - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -799,34 +799,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Listening to the Music",
-        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+        "name": "Blue Kentucky Girl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
       "artists": [
         {
-          "name": "Zephaniah OHora",
-          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 190035,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+      "duration_ms": 200933,
+      "name": "Blue Kentucky Girl - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 207826,
       "name": "Warning",
       "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Listening to the Music",
+        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+      },
+      "artists": [
+        {
+          "name": "Zephaniah OHora",
+          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+        }
+      ],
+      "duration_ms": 190035,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
-      },
-      "artists": [
-        {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 170960,
       "name": "Howard Hughes Blues",
       "url": "https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     },
     {
       "added_at": "2024-07-12 04:00:00",

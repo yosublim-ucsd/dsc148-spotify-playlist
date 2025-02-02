@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2460,
+  "num_followers": 2464,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADRide6rLAv7xFyluR0aUEE",
+  "snapshot_id": "Z5wSgAAAAAB+z9YucxsQ4u85LMGsYIQm",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 219020,
-      "name": "A.C.D. (Abcessive Compulsive Disorder)",
-      "url": "https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU"
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 204975,
-      "name": "Vertigo Flowers",
-      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
+      "duration_ms": 219020,
+      "name": "A.C.D. (Abcessive Compulsive Disorder)",
+      "url": "https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 318709,
-      "name": "In Blueberry Memories",
-      "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
+      "duration_ms": 247231,
+      "name": "Bernie Sanders",
+      "url": "https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 247231,
-      "name": "Bernie Sanders",
-      "url": "https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0"
+      "duration_ms": 318709,
+      "name": "In Blueberry Memories",
+      "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 284351,
-      "name": "Suns and Lovers",
-      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
+      "duration_ms": 308600,
+      "name": "Downward Years to Come",
+      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 308600,
-      "name": "Downward Years to Come",
-      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
+      "duration_ms": 284351,
+      "name": "Suns and Lovers",
+      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
     },
     {
       "added_at": null,

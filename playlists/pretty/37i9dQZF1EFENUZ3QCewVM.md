@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 112 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 258 likes - 112 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 19 | [Wanted](https://open.spotify.com/track/1lGVyEkGHUz7Pg78QGaS4a) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Wanted](https://open.spotify.com/album/5sPC6RYCERdNCzHLRf9zHb) | 2:40 |
 | 20 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 |
 | 21 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 |
-| 22 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 |
-| 23 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
+| 22 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
+| 23 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 |
 | 24 | [Ruin The Friendship](https://open.spotify.com/track/6VcOObtzWB2dopP4dC8G6x) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 3:53 |
 | 25 | [HeartLess](https://open.spotify.com/track/3rf9vbMO0vuhtB3CDHTjsO) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 2:38 |
 | 26 | [Cruel Intentions](https://open.spotify.com/track/3Lzx6XSjH3ik3ZvigLK1Fb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:12 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 50 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
 | 51 | [No One's Gonna Ever Love U](https://open.spotify.com/track/5J6yoBNlCTE7uCgXuv8NXK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:22 |
 | 52 | [My Love Is a Weapon \(feat\. Delacey\)](https://open.spotify.com/track/4dhCI327FFSWFYuU5uwqEe) | [Skrux](https://open.spotify.com/artist/6cwRqYSDYwWsLveCcDRhyY), [Delacey](https://open.spotify.com/artist/2GAvE8IRJsYcMuHcC8XkkD) | [My Love Is a Weapon \(feat\. Delacey\)](https://open.spotify.com/album/3hfAE8xs0kQgOt49Toe8Er) | 6:46 |
-| 53 | [Tell Your Girlfriend](https://open.spotify.com/track/0Kryggxs2gZqnkujFYEH1D) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:14 |
-| 54 | [No High](https://open.spotify.com/track/0IaqTay4n1JShXcfQBlVEJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 3:02 |
+| 53 | [No High](https://open.spotify.com/track/0IaqTay4n1JShXcfQBlVEJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 3:02 |
+| 54 | [Tell Your Girlfriend](https://open.spotify.com/track/0Kryggxs2gZqnkujFYEH1D) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:14 |
 | 55 | [indieedgycool](https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [hello this is the setlist for my tour](https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s) | 2:26 |
 | 56 | [Even When I’m Not](https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:05 |
 | 57 | [Black Coffee](https://open.spotify.com/track/6bACnnQ39JxdU7DmvlayZR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:46 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 91 | [Trouble](https://open.spotify.com/track/73WUUh7anm2SS0pNHIZEd3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Trouble](https://open.spotify.com/album/5S4K4P92cYvJWFpXo1aaQS) | 3:09 |
 | 92 | [Too Poor to Live in LA](https://open.spotify.com/track/4vkvvFmZsv5UP0tLNYX6V2) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:17 |
 | 93 | [How's My Honey?](https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:57 |
-| 94 | [French Toast](https://open.spotify.com/track/3VrwJhuhdlGsjjiW1daYAf) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [French Toast](https://open.spotify.com/album/5gfWsryAiCWQjbtUH0YbFL) | 3:13 |
-| 95 | [cowboy](https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:22 |
+| 94 | [cowboy](https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:22 |
+| 95 | [French Toast](https://open.spotify.com/track/3VrwJhuhdlGsjjiW1daYAf) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [French Toast](https://open.spotify.com/album/5gfWsryAiCWQjbtUH0YbFL) | 3:13 |
 | 96 | [Things I'd Save In A Fire](https://open.spotify.com/track/33XEkt4Wo1YQGhEpilPDb6) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:52 |
 | 97 | [Same Song Forever](https://open.spotify.com/track/6ouDY72GdrsEXJvwlNToEt) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:27 |
 | 98 | [Drive](https://open.spotify.com/track/3xB5sqRlOw1TXCK74P2WyW) | [Anja Nissen](https://open.spotify.com/artist/6KjtX8ZPAoeLFnuv36UBpQ) | [Where I Am \- EP](https://open.spotify.com/album/1aUz2BacE0ZGYSdqu8LwgH) | 3:17 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 111 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 112 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AboXyAAAAACHTQvYCV1kAjAsJMUd5X22`
+Snapshot ID: `AbodaAAAAAArTGqRkzpmZAnMNM4z9bKR`

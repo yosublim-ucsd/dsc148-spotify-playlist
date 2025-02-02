@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 328561,
+  "num_followers": 328557,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2025-01-24 16:12:53",
       "album": {
+        "name": "Love And Choppa",
+        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 140855,
+      "name": "Love And Choppa",
+      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
+    },
+    {
+      "added_at": "2025-01-24 16:12:53",
+      "album": {
         "name": "That's How We Ballin",
         "url": "https://open.spotify.com/album/3y1PAIiDfFHmt4KooBsZ4j"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 201443,
       "name": "That's How We Ballin",
       "url": "https://open.spotify.com/track/5sdR0TcYhm3u8yf0jFYuOb"
-    },
-    {
-      "added_at": "2025-01-24 16:12:53",
-      "album": {
-        "name": "Love And Choppa",
-        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 140855,
-      "name": "Love And Choppa",
-      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
     }
   ],
   "unique_name": "Treino Hip-Hop",

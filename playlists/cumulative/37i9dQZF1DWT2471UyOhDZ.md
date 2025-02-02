@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Jacob Alon
 
-206 songs - 13 hr 17 min
+208 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Apple](https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [La Fusion](https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66) | 3:51 | 2024-06-14 | 2024-07-20 |
 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-06-14 | 2024-07-18 |
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-06-14 |  |
+| [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-01-31 |  |
 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 | 2024-07-11 | 2024-11-08 |
 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-01-31 |  |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-06-14 | 2025-01-17 |
@@ -36,11 +37,12 @@
 | [Breathe Round Corners](https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Eye To The Ear](https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd) | 3:28 | 2024-06-14 | 2024-11-16 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-14 |  |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-06-14 | 2024-11-16 |
+| [Brushstrokes of Reunion](https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Brushstrokes of Reunion](https://open.spotify.com/album/4NeZQyRKjKIsrYxqEsblPC) | 3:35 | 2025-01-31 |  |
 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 | 2024-06-14 | 2025-01-17 |
 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 | 2025-01-31 |  |
 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-11 |  |
 | [Can't](https://open.spotify.com/track/42RzJ3eJARwTlUVVYdZQ10) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/4g6x7cqgxfkuqA8lfvIKMf) | 4:40 | 2024-06-14 | 2024-08-13 |
-| [Can't Pretend To Know](https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Can't Pretend To Know](https://open.spotify.com/album/4bAP2pRy474uL5jDRi6jOx) | 2:41 | 2024-11-15 |  |
+| [Can't Pretend To Know](https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Can't Pretend To Know](https://open.spotify.com/album/4bAP2pRy474uL5jDRi6jOx) | 2:41 | 2024-11-15 | 2025-02-02 |
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-08-14 | 2025-01-31 |
 | [Cinnamon Temple](https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 3:20 | 2024-07-18 |  |
 | [City Lights](https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/02BmWPTStBXitd8WJkbWQA) | 4:20 | 2024-06-14 | 2024-07-20 |
@@ -170,7 +172,7 @@
 | [Stop The Music](https://open.spotify.com/track/4b5OF1J2hs6o6VsgccJgwB) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Stop The Music](https://open.spotify.com/album/0rEQQdNkMixaXRqYCe4kaX) | 2:40 | 2024-06-14 | 2024-10-07 |
 | [Switch Over](https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Switch Over](https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR) | 3:05 | 2025-01-17 |  |
 | [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-06-14 | 2024-07-12 |
-| [Taxi Man](https://open.spotify.com/track/2yyQJXCYvxndsR8UXmG5Ow) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Taxi Man](https://open.spotify.com/album/2tZAU1L7wW2jlRvimsZdNi) | 4:15 | 2025-01-31 |  |
+| [Taxi Man](https://open.spotify.com/track/2yyQJXCYvxndsR8UXmG5Ow) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Taxi Man](https://open.spotify.com/album/2tZAU1L7wW2jlRvimsZdNi) | 4:15 | 2025-01-31 | 2025-02-02 |
 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 | 2024-06-14 | 2024-07-20 |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-14 | 2024-08-01 |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-14 |  |

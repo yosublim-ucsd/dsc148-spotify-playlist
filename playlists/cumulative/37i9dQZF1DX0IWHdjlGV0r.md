@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-203 songs - 10 hr 28 min
+204 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Barcellona](https://open.spotify.com/track/51zuoAf9f1DNTVmBJHVErg) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:56 | 2022-05-03 | 2023-02-02 |
 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2024-05-23 |  |
 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 | 2022-05-03 |  |
-| [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-27 |  |
+| [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-27 | 2025-02-02 |
 | [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/40NmOAMiiuqFSKJnUxHovo) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 3:11 | 2023-02-01 | 2023-03-22 |
 | [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:11 | 2022-11-03 | 2024-06-01 |
 | [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/6JNadLbisqWzZk0E1MSopn) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7) | 3:11 | 2023-03-15 | 2024-04-19 |
@@ -59,6 +59,7 @@
 | [COLPA TUA ⫷⫸ \(con VENERUS & GUÈ PEQUENO\)](https://open.spotify.com/track/3ILta8SPlsWdOueRYzc5mL) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:04 | 2022-05-03 | 2023-02-02 |
 | [come t! vorre!](https://open.spotify.com/track/7nLd1J81Y2o5UhUEFUeCsb) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:17 | 2022-09-29 | 2022-11-25 |
 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-03-15 |  |
+| [Con uno sguardo \(feat\. Tony Boy\)](https://open.spotify.com/track/1eXLKnYOKvM5WV3J6xvxFm) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [FAME](https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P) | 2:31 | 2025-01-31 |  |
 | [Correre \(feat\. Frah Quintale\)](https://open.spotify.com/track/5NYi4QOqyKT78JAJZAMKeN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:49 | 2024-08-08 |  |
 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 | 2022-07-28 | 2024-04-19 |
 | [CRAZY LOVE](https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:12 | 2022-05-03 | 2024-07-05 |

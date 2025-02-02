@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 64869,
+  "num_followers": 64998,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAA9cxut9rdN4G85yf3VVzi3",
+  "snapshot_id": "Z5wSgAAAAAD2Clmcx8dUKtmuBB+TpLl7",
   "tracks": [
     {
       "added_at": null,
@@ -500,17 +500,17 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+          "name": "FYE",
+          "url": "https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
         }
       ],
-      "duration_ms": 206954,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/0A8YhNLcSp4FzFfLVpapF9"
+      "duration_ms": 215338,
+      "name": "Voc\u00ea Pode Ir Al\u00e9m",
+      "url": "https://open.spotify.com/track/2MbAych1mwiIkgve4Z6MZG"
     },
     {
       "added_at": null,
@@ -596,17 +596,17 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "FYE",
-          "url": "https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp"
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         },
         {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         }
       ],
-      "duration_ms": 215338,
-      "name": "Voc\u00ea Pode Ir Al\u00e9m",
-      "url": "https://open.spotify.com/track/2MbAych1mwiIkgve4Z6MZG"
+      "duration_ms": 206954,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/0A8YhNLcSp4FzFfLVpapF9"
     },
     {
       "added_at": null,
@@ -663,6 +663,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 178869,
       "name": "Sensa\u00e7\u00e3o de Liberdade",
       "url": "https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 211338,
-      "name": "Cidade do Pecado",
-      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 211338,
+      "name": "Cidade do Pecado",
+      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
       },
@@ -823,34 +823,6 @@
       "duration_ms": 195324,
       "name": "Sigo na Sombra",
       "url": "https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TESTEMUNHAS DE TOKIODK",
-        "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 217872,
-      "name": "250 por rota",
-      "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
     },
     {
       "added_at": null,
@@ -879,6 +851,34 @@
       "duration_ms": 305002,
       "name": "Antes dos Gigantes Chegarem",
       "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TESTEMUNHAS DE TOKIODK",
+        "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 217872,
+      "name": "250 por rota",
+      "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Pessoas",
+      "url": "https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cidade do Pecado",
         "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 217647,
       "name": "Para\u00edso Que Me Cerca",
       "url": "https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Pessoas",
-      "url": "https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu"
     },
     {
       "added_at": null,

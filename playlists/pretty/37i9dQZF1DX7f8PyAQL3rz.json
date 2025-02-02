@@ -1,6 +1,6 @@
 {
   "description": "os menino da nova",
-  "num_followers": 1405325,
+  "num_followers": 1405266,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,30 @@
     {
       "added_at": "2025-01-31 03:03:07",
       "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 220218,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
+    },
+    {
+      "added_at": "2025-01-31 03:03:07",
+      "album": {
         "name": "Direto da Selva",
         "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
       },
@@ -851,30 +875,6 @@
     {
       "added_at": "2025-01-31 03:03:07",
       "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 220218,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
-    },
-    {
-      "added_at": "2025-01-31 03:03:07",
-      "album": {
         "name": "Filho da Noite",
         "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
       },
@@ -891,6 +891,66 @@
       "duration_ms": 236666,
       "name": "Filho da Noite",
       "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
+    },
+    {
+      "added_at": "2025-01-31 03:03:07",
+      "album": {
+        "name": "THE BOX MEDLEY FUNK 5",
+        "url": "https://open.spotify.com/album/2CDvwRWeyAxPnaOuCmBQvQ"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Pikachu",
+          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Dj Felipe Maia",
+          "url": "https://open.spotify.com/artist/5xtHPJpaKmn16wr3JNA0na"
+        }
+      ],
+      "duration_ms": 337142,
+      "name": "THE BOX MEDLEY FUNK 5",
+      "url": "https://open.spotify.com/track/5B5m0mNbKG4RqAglA5PRM0"
+    },
+    {
+      "added_at": "2025-01-31 03:03:07",
+      "album": {
+        "name": "Problemas de um Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Problemas de um Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
     },
     {
       "added_at": "2025-01-31 03:03:07",
@@ -935,54 +995,6 @@
     {
       "added_at": "2025-01-31 03:03:07",
       "album": {
-        "name": "Problemas de um Milion\u00e1rio",
-        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Problemas de um Milion\u00e1rio",
-      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
-    },
-    {
-      "added_at": "2025-01-31 03:03:07",
-      "album": {
-        "name": "Qual \u00e9 seu desejo?",
-        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "Qual \u00e9 seu desejo?",
-      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
-    },
-    {
-      "added_at": "2025-01-31 03:03:07",
-      "album": {
         "name": "Filha do Deputado",
         "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
       },
@@ -1011,46 +1023,6 @@
       "duration_ms": 371852,
       "name": "Filha do Deputado",
       "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
-    },
-    {
-      "added_at": "2025-01-31 03:03:07",
-      "album": {
-        "name": "THE BOX MEDLEY FUNK 5",
-        "url": "https://open.spotify.com/album/2CDvwRWeyAxPnaOuCmBQvQ"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Mc Pikachu",
-          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Dj Felipe Maia",
-          "url": "https://open.spotify.com/artist/5xtHPJpaKmn16wr3JNA0na"
-        }
-      ],
-      "duration_ms": 337142,
-      "name": "THE BOX MEDLEY FUNK 5",
-      "url": "https://open.spotify.com/track/5B5m0mNbKG4RqAglA5PRM0"
     },
     {
       "added_at": "2025-01-31 03:03:07",
@@ -1127,6 +1099,34 @@
       "duration_ms": 757611,
       "name": "Poesia Ac\u00fastica 16",
       "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
+    },
+    {
+      "added_at": "2025-01-31 03:03:07",
+      "album": {
+        "name": "Qual \u00e9 seu desejo?",
+        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Qual \u00e9 seu desejo?",
+      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
     },
     {
       "added_at": "2025-01-31 03:03:07",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2025-01-31 03:03:07",
       "album": {
-        "name": "bala e fogo",
-        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 227552,
-      "name": "bala e fogo",
-      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
-    },
-    {
-      "added_at": "2025-01-31 03:03:07",
-      "album": {
         "name": "Oh M\u00e3e",
         "url": "https://open.spotify.com/album/60MBE0tB5trl6yEjNZm3ks"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 168000,
       "name": "Oh M\u00e3e",
       "url": "https://open.spotify.com/track/15y8doJUf2PWHDNkXmI4l7"
+    },
+    {
+      "added_at": "2025-01-31 03:03:07",
+      "album": {
+        "name": "bala e fogo",
+        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 227552,
+      "name": "bala e fogo",
+      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
     },
     {
       "added_at": "2025-01-31 03:03:07",
@@ -1575,6 +1575,30 @@
     {
       "added_at": "2025-01-31 03:03:07",
       "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
+      },
+      "artists": [
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 135319,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd"
+    },
+    {
+      "added_at": "2025-01-31 03:03:07",
+      "album": {
         "name": "Vou Nessa",
         "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
       },
@@ -1619,30 +1643,6 @@
       "duration_ms": 192296,
       "name": "BUND\u00c3O GG",
       "url": "https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2"
-    },
-    {
-      "added_at": "2025-01-31 03:03:07",
-      "album": {
-        "name": "Profundamente",
-        "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
-      },
-      "artists": [
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 135319,
-      "name": "Profundamente",
-      "url": "https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd"
     },
     {
       "added_at": "2025-01-31 03:03:07",

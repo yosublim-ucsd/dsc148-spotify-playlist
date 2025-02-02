@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8277,
+  "num_followers": 8278,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAAeZ6jLq/mOYNEKvuK10+b9",
+  "snapshot_id": "Z5wSgAAAAABX3kQ9Tn+9E/A0DTU6p/Zq",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coraz\u00f3n / Death by Disco Pt 2",
+        "url": "https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Coraz\u00f3n / Death by Disco Pt 2",
+      "url": "https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RINGOS DESERT",
         "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 198567,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n / Death by Disco Pt 2",
-        "url": "https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Coraz\u00f3n / Death by Disco Pt 2",
-      "url": "https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 146441,
-      "name": "Gamble",
-      "url": "https://open.spotify.com/track/5JLSIy36h3QNQoanUJOd98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 205475,
       "name": "Phases - bad tuner Remix",
       "url": "https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 146441,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/5JLSIy36h3QNQoanUJOd98"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 230261,
+      "name": "Bright Shadows",
+      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 230261,
-      "name": "Bright Shadows",
-      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Breath Strokes",
-      "url": "https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI"
+      "duration_ms": 220934,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
     },
     {
       "added_at": null,
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 220934,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
+      "duration_ms": 160000,
+      "name": "Breath Strokes",
+      "url": "https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI"
     },
     {
       "added_at": null,

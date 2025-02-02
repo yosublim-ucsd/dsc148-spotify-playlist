@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Kaan Malkoç
 
-188 songs - 9 hr 15 min
+189 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-06-20 |  |
 | [Beni Anla](https://open.spotify.com/track/4hDNZTqjqDrtM07DaOYAei) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Beni Anla](https://open.spotify.com/album/0168AFy8qdzlb6z5NddBxt) | 3:36 | 2024-08-15 | 2024-09-09 |
 | [Beni de Kendine Benzettin](https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Beni de Kendine Benzettin](https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F) | 2:58 | 2024-08-08 | 2024-10-10 |
-| [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-06-20 |  |
+| [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-06-20 | 2025-02-02 |
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-06-20 | 2024-08-09 |
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-08-29 |  |
 | [Bi' İnansan Güzelim](https://open.spotify.com/track/4EzVfclpptuWdeMSRmNy04) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Bi' İnansan Güzelim](https://open.spotify.com/album/5kGD0QdQpyVjhG3zw0vLU8) | 3:27 | 2024-09-05 | 2024-11-01 |
@@ -119,6 +119,7 @@
 | [Rüzgarın Peşinde](https://open.spotify.com/track/2dlYKaAlRXc3s9Xt0T6XvV) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Rüzgarın Peşinde](https://open.spotify.com/album/3fsBYajHJEHVWHL9Qw6ZQ8) | 3:34 | 2024-06-20 | 2024-08-10 |
 | [Sabahın Dört Buçuğunda](https://open.spotify.com/track/5ps4DiaUpc6l96ixypIXkn) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Sabahın Dört Buçuğunda](https://open.spotify.com/album/5aKXt3i7tNjPHlbJLvaL5y) | 3:37 | 2024-07-04 | 2024-09-29 |
 | [Sal](https://open.spotify.com/track/44nYGyz9DwMU6dOWVxL2FK) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Sal](https://open.spotify.com/album/0SkOqSQaogpiYuUm5hwhre) | 2:37 | 2024-07-04 | 2024-11-22 |
+| [Sebebi Çok](https://open.spotify.com/track/46azk2efSFMG3obdYuIkxO) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [Sebebi Çok / Umutsuz Bahar](https://open.spotify.com/album/0L1jpIjY1drXYFxRcj1soR) | 4:07 | 2025-01-31 |  |
 | [Sen Artık Sıradan Biri](https://open.spotify.com/track/0sRt7yIvUGlesGwPjQmGs7) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Sen Artık Sıradan Biri](https://open.spotify.com/album/0knB4RKmuWqmD4ue8HCp9g) | 3:25 | 2024-08-01 | 2024-10-07 |
 | [Sen De Duysan](https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Sen De Duysan](https://open.spotify.com/album/03NTqiplIlk3pWEDAgrQX4) | 3:27 | 2024-06-20 | 2024-09-07 |
 | [sendin izlerim](https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8) | [mani](https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH) | 2:35 | 2024-06-20 | 2024-09-06 |

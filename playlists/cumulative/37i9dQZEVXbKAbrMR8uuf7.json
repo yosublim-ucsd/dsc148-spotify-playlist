@@ -10286,7 +10286,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 139117,
       "name": "En Bote",
       "url": "https://open.spotify.com/track/4m1oo5QbRtczs9ItceZbFm"
@@ -14499,6 +14499,24 @@
     },
     {
       "album": {
+        "name": "Nebulosa",
+        "url": "https://open.spotify.com/album/4DiVwfMBrishpMOuGVXmeF"
+      },
+      "artists": [
+        {
+          "name": "Zumvido",
+          "url": "https://open.spotify.com/artist/403bKyVX8rlw9dBmDT3f8u"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147741,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/2lCA0tcZC927PxbHAF2QBj"
+    },
+    {
+      "album": {
         "name": "Jes\u00fas",
         "url": "https://open.spotify.com/album/5Nhm8QGJjet6LQSw8kh9vu"
       },
@@ -15753,6 +15771,28 @@
     },
     {
       "album": {
+        "name": "La Gran Vaina",
+        "url": "https://open.spotify.com/album/3F44ZLcwbFmtWLa2zH9OOP"
+      },
+      "artists": [
+        {
+          "name": "Coper El Final",
+          "url": "https://open.spotify.com/artist/4Zqr2lluSND1tmA37IvNjs"
+        },
+        {
+          "name": "Figura Entertainment",
+          "url": "https://open.spotify.com/artist/4MSuU1ZUWO3zpy0ZfACmU9"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125255,
+      "name": "La Gran Vaina",
+      "url": "https://open.spotify.com/track/77IGeNNbqrCxnV3CPR5T7p"
+    },
+    {
+      "album": {
         "name": "\u00a1Acabando! La Guacherna",
         "url": "https://open.spotify.com/album/7nFNbOFrJW6liWiYs63uzI"
       },
@@ -16316,7 +16356,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 270638,
       "name": "La Patrulla",
       "url": "https://open.spotify.com/track/6Q3f0PpLowVMddWQfF0TlA"
@@ -32369,6 +32409,32 @@
     },
     {
       "album": {
+        "name": "Tiguere de Kellogs",
+        "url": "https://open.spotify.com/album/7jjVYLl9awVT4ZqfD1NytX"
+      },
+      "artists": [
+        {
+          "name": "Etervidos",
+          "url": "https://open.spotify.com/artist/6vCXaVD6s7A3a8waYGJzlz"
+        },
+        {
+          "name": "Brazil21",
+          "url": "https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138025,
+      "name": "Tiguere de Kellogs",
+      "url": "https://open.spotify.com/track/0PCwmIoofdEurFcBuuNpZR"
+    },
+    {
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/17Hmvcc0QZCowX7ut7D2Td"
       },
@@ -32918,7 +32984,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 241846,
       "name": "TOUCHDOWN",
       "url": "https://open.spotify.com/track/17ilE3vG73RLtqg2vCSVNX"

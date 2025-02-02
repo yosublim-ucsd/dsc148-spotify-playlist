@@ -10062,7 +10062,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 149274,
       "name": "\u30b9\u30d4\u30fc\u30c9\u3092\u4e0a\u3052\u306a\u304f\u3061\u3083",
       "url": "https://open.spotify.com/track/7mC9IrCEbrnPVzLSjMPaII"
@@ -11380,7 +11380,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 168853,
       "name": "\u30dc\u30fc\u30a4\u30ba\u30a2\u30f3\u30c9\u30ac\u30fc\u30eb\u30ba",
       "url": "https://open.spotify.com/track/2zcGKQTvGiFh7jOipeAOQr"
@@ -11672,6 +11672,24 @@
       "duration_ms": 198934,
       "name": "\u30e1\u30fc\u30d7\u30eb",
       "url": "https://open.spotify.com/track/6qsWBo1qkRDTUx4InuA61U"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30ca\u30ea\u30b6",
+        "url": "https://open.spotify.com/album/26TRTNmlchyyCFf21FY2FC"
+      },
+      "artists": [
+        {
+          "name": "SATOH",
+          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148567,
+      "name": "\u30e2\u30ca\u30ea\u30b6",
+      "url": "https://open.spotify.com/track/3WoUfYKtpNFMeN9r1FXJc6"
     },
     {
       "album": {
@@ -12100,7 +12118,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 234133,
       "name": "\u30eb\u30d3\u3092\u632f\u308c",
       "url": "https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ"

@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-643 songs - 2 day 10 hr 0 min
+644 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 |  |
 | [Blob On The Lawn](https://open.spotify.com/track/6hBn3ujYOMYKwTF1fXgQMS) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/22pNuld3QFrQ2dBfztOIU6) | 2:52 | 2022-03-11 | 2023-04-07 |
 | [Blonde](https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Blonde](https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl) | 4:10 | 2021-10-20 |  |
+| [Bloom: Small World](https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Peter Chilvers](https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe) | [Bloom: Living World \- Single](https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu) | 5:34 | 2025-02-01 |  |
 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 |  |
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-20 |  |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2021-10-20 |  |
@@ -362,7 +363,7 @@
 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 | 2022-02-18 | 2024-06-13 |
 | [Mirages](https://open.spotify.com/track/5ARGa1YCWbgNobFCM2F6JB) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Mirages](https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT) | 7:20 | 2021-10-20 |  |
 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 | 2021-10-20 |  |
-| [Moderato Cantabile](https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 7:58 | 2021-10-20 |  |
+| [Moderato Cantabile](https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 7:58 | 2021-10-20 | 2025-02-02 |
 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 | 2021-10-20 | 2022-10-19 |
 | [Monastic](https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 6:33 | 2021-10-20 | 2024-04-19 |
 | [Monos](https://open.spotify.com/track/488C2VMsZc3YwIei1AsRZn) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Monos](https://open.spotify.com/album/2Q32nNS58ffrVE9u2pGBpq) | 4:00 | 2021-10-20 | 2022-04-20 |

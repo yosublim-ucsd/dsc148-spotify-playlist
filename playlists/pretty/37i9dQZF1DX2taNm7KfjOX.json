@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Haley Heynderickx",
-  "num_followers": 1399760,
+  "num_followers": 1399780,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Bruises Off The Peach",
-      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 192961,
+      "name": "Bruises Off The Peach",
+      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 211517,
       "name": "With You",
       "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Pacific",
+        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 368493,
+      "name": "There's A Place",
+      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Overtime (feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 173610,
       "name": "Overtime (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Pacific",
-        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 368493,
-      "name": "There's A Place",
-      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1287,18 +1287,38 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "This Was A Gift",
-        "url": "https://open.spotify.com/album/2tzMAYElf5FKo1AL5Rrcxw"
+        "name": "Feel (with Kyson)",
+        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
         }
       ],
-      "duration_ms": 202500,
-      "name": "This Was A Gift",
-      "url": "https://open.spotify.com/track/5w5YZThDOGwskczdLV5fel"
+      "duration_ms": 240000,
+      "name": "Feel - with Kyson",
+      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 272065,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1315,6 +1335,38 @@
       "duration_ms": 275662,
       "name": "Life According To Raechel - Spotify Single",
       "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "This Was A Gift",
+        "url": "https://open.spotify.com/album/2tzMAYElf5FKo1AL5Rrcxw"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "This Was A Gift",
+      "url": "https://open.spotify.com/track/5w5YZThDOGwskczdLV5fel"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1339,54 +1391,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Feel (with Kyson)",
-        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
       "artists": [
         {
-          "name": "YUUL",
-          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Feel - with Kyson",
-      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Country",
-        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 272065,
-      "name": "Stick Around",
-      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
+      "duration_ms": 371976,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 371976,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+        "name": "Head of Roses",
+        "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
         }
       ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+      "duration_ms": 238333,
+      "name": "Awake for the Sunrise",
+      "url": "https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Head of Roses",
-        "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
       },
       "artists": [
         {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
         }
       ],
-      "duration_ms": 238333,
-      "name": "Awake for the Sunrise",
-      "url": "https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr"
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Guard Dog",
-        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 277374,
-      "name": "Walk Me Home",
-      "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/6hwvM9utzQaeFWzj3Mpu6d"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 229333,
       "name": "Human",
       "url": "https://open.spotify.com/track/1OlYy9FWeaXAQHwU6CBKpk"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 277374,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "I Believe in Something More",
+        "url": "https://open.spotify.com/album/2rKIHcjKHe52kvPeAUZ5rO"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 181111,
+      "name": "I Believe in Something More",
+      "url": "https://open.spotify.com/track/7eOYNPtD0tq3Q0JJ7JxwjQ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Hold My Hand",
         "url": "https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 301506,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "I Believe in Something More",
-        "url": "https://open.spotify.com/album/2rKIHcjKHe52kvPeAUZ5rO"
-      },
-      "artists": [
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 181111,
-      "name": "I Believe in Something More",
-      "url": "https://open.spotify.com/track/7eOYNPtD0tq3Q0JJ7JxwjQ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 217513,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 336206,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7ib8eTk4c9HKGFwbhGUvWN"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 217513,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2559,18 +2559,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Turnham Green",
-        "url": "https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N"
+        "name": "A Turning of the Tide: Side A",
+        "url": "https://open.spotify.com/album/5SrqsAmZRJ7gO46b6B5UPe"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
         }
       ],
-      "duration_ms": 225626,
-      "name": "Turnham Green",
-      "url": "https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW"
+      "duration_ms": 340760,
+      "name": "When the Storm Sets In",
+      "url": "https://open.spotify.com/track/4W9VyT8DnQ6BsdmQgIaR7a"
     }
   ],
   "unique_name": "Infinite Indie Folk",

@@ -4,7 +4,7 @@
 
 > rap&\#x2F;hip hop, best to play on shuffle
 
-4,780 songs - 11 day 0 hr 21 min
+4,782 songs - 11 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Blessings](https://open.spotify.com/track/6mevhNrcHqHgHgisXUNaqw) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dark Sky Paradise \(Deluxe\)](https://open.spotify.com/album/4Nlbt2EuXedr6UqaeXEI4c) | 4:12 | 2020-11-03 |  |
 | [Blessings \- Extended Version](https://open.spotify.com/track/4UaWrzY75h1tAvlxa4NKP9) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Blessings \(Extended Version\)](https://open.spotify.com/album/5Isq5L9DWNCRfvFAG6WFN7) | 5:01 | 2020-04-11 |  |
 | [Blick Sum](https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:11 | 2024-08-28 |  |
+| [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 | 2025-02-01 |  |
 | [BLINDFOLD \(feat\. Lil Baby\)](https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:34 | 2020-05-22 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2020-03-20 |  |
 | [Blinding Lights](https://open.spotify.com/track/4imfDw20AMI1tjHTfKvvJt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/0lc1TxAzpSHI7DGhgdWuMI) | 3:20 | 2020-03-23 |  |
@@ -4068,6 +4069,7 @@
 | [Tell Your Friends](https://open.spotify.com/track/1mhVXWduD8ReDwusfaHNwU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 5:34 | 2020-04-02 |  |
 | [Temptations \(feat\. Kid Cudi\)](https://open.spotify.com/track/0SKbj3NTkGFS76OkFmAw0u) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:33 | 2020-10-23 |  |
 | [Ten Nine Fourteen](https://open.spotify.com/track/725fdnXEqS0Xs1sTvdNuHq) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:10 | 2019-12-27 |  |
+| [TENNESSEE](https://open.spotify.com/track/19uJXEzXyp37uw6tOmKMMA) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Trevor Spitta](https://open.spotify.com/artist/6uCXq7IoXFqGSB3L5zX5oV), [Zachary Moon](https://open.spotify.com/artist/26rBtms72mHDWwdA6OmWIJ) | [COYOTE](https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu) | 2:33 | 2025-02-01 |  |
 | [Tequila \(feat\. T\-Pain\)](https://open.spotify.com/track/3UCsep8Bqc3qSfYUC4YZh5) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 4:33 | 2019-10-24 |  |
 | [Tequila Shots](https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:13 | 2020-12-11 |  |
 | [Texas](https://open.spotify.com/track/2p5La0D38fkvhobrC1HRCU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8) | 2:26 | 2023-07-19 |  |

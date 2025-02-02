@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30400,
+  "num_followers": 30407,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACEzYrBQbGEs1y/dviPoqXN",
+  "snapshot_id": "Z5wSgAAAAACukORkgooOBFKp5a598QLW",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina Virada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 423916,
-      "name": "P\u00e1gina Virada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
+      "duration_ms": 286400,
+      "name": "Escondido Nele",
+      "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
     },
     {
       "added_at": null,
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 286400,
-      "name": "Escondido Nele",
-      "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
     },
     {
       "added_at": null,

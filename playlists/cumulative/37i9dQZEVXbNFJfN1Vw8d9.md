@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,313 songs - 2 day 23 hr 27 min
+1,314 songs - 2 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [COSMETICOS](https://open.spotify.com/track/139mO3ryLnLwrO5hQMgWqM) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:21 | 2023-11-25 | 2023-12-01 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-05-31 | 2024-06-02 |
 | [CRUSH](https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CRUSH](https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf) | 3:53 | 2024-04-06 | 2024-08-25 |
+| [CRUZ](https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CRUZ](https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq) | 3:03 | 2025-02-01 |  |
 | [Cuando Ella Sale](https://open.spotify.com/track/0bxzF2Kyql0pQ58Mymztue) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Ella Sale](https://open.spotify.com/album/4izXmDJvboFTIVxs8gkO94) | 3:42 | 2021-10-28 | 2022-02-02 |
 | [Cuando Sera](https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 2:56 | 2021-03-27\* | 2021-04-14 |
 | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8) | 3:38 | 2024-07-19 | 2024-10-29 |
@@ -880,7 +881,7 @@
 | [OA](https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [OA](https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet) | 3:55 | 2023-10-15 | 2024-04-28 |
 | [OBVIO](https://open.spotify.com/track/5el1yANyqhFWsjLWGYpcTZ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:42 | 2023-11-25 | 2023-11-27 |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-06 | 2024-06-16 |
-| [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-07-03 |  |
+| [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-07-03 | 2025-02-02 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 | 2023-01-22 |
 | [Olvidar](https://open.spotify.com/track/4cIADL8ZSxyz78stzb4F6X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Olvidar](https://open.spotify.com/album/74EUdXqT952F9FpGvqD59x) | 2:57 | 2025-01-04 | 2025-01-06 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-26 | 2024-10-11 |

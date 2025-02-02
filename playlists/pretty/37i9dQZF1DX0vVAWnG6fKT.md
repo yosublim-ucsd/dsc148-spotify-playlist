@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,827 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,837 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 64 | [Stars Of The Midnight Range](https://open.spotify.com/track/4VBC10x8gSghWkdJQ6Ygwl) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Country and Western](https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB) | 2:53 |
 | 65 | [Slowpoke](https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM) | [Pee Wee King](https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2) | [Country Hoedown](https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId) | 2:56 |
 | 66 | [Worried Mind](https://open.spotify.com/track/3RmaBKQtO5QVPsPUVDwv3P) | [Roy Acuff & His Smoky Mountain Boys](https://open.spotify.com/artist/6bagacZmgSfuW3vShtm0Js) | [The Collection '36\-'59](https://open.spotify.com/album/1jqG8AduwUDm6uwTHqrE3v) | 2:51 |
-| 67 | [Too Late To Worry, Too Blue To Cry](https://open.spotify.com/track/0a30xoC1ElyAD6w8k1ydFm) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Pistol Packin' Mama \- The Best Of Al Dexter](https://open.spotify.com/album/3gHhom0cyrNyr2n1bReRqS) | 2:43 |
+| 67 | [Wine, Women and Song](https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Pistol Packin' Mama \- The Best of Al Dexter](https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3) | 2:49 |
 | 68 | [Filipino Baby](https://open.spotify.com/track/0sclx7x70Oaa6q01P2hrI0) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Filipino Baby](https://open.spotify.com/album/4mQELuXzBDI3wFmn7OaHCb) | 2:46 |
 | 69 | [Too Old To Cut The Mustard](https://open.spotify.com/track/3eCBDkw6G3ArDFoqEYXf7a) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [Retrospective: Volume 2](https://open.spotify.com/album/47ymTrwffavz5onalcmEP9) | 2:52 |
 | 70 | [Sioux city sue](https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Everybody Stomp \- Rag Time](https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL) | 2:52 |

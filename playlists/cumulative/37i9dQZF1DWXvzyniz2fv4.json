@@ -244,7 +244,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 213698,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
@@ -724,6 +724,28 @@
       "duration_ms": 215474,
       "name": "Calibrando",
       "url": "https://open.spotify.com/track/6qlN6kBasaAjLcHqhBviFB"
+    },
+    {
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Vidal",
+          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149203,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV"
     },
     {
       "album": {
@@ -4120,7 +4142,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 309406,
       "name": "Rosas Rositas",
       "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
@@ -4816,6 +4838,32 @@
       "duration_ms": 163530,
       "name": "T\u00c1 FAZENDO OQ?",
       "url": "https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q"
+    },
+    {
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196276,
+      "name": "T\u00f3xico (with Ivandro & WIU)",
+      "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
     },
     {
       "album": {

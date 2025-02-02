@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 658455,
+  "num_followers": 658596,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACYNwVb95HgtmK3sDGslnPb",
+  "snapshot_id": "Z5wSgAAAAACQR1ms3ixZQUyX8ixRVkM1",
   "tracks": [
     {
       "added_at": null,
@@ -967,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gentle Giants: The Songs of Don Williams",
+        "url": "https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Amanda (feat. Morgane Stapleton)",
+      "url": "https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets (30th Anniversary)",
         "url": "https://open.spotify.com/album/0FL7FO7SPoxUhmMvocO5Cx"
       },
@@ -987,22 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gentle Giants: The Songs of Don Williams",
-        "url": "https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt"
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
         },
         {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 182333,
-      "name": "Amanda (feat. Morgane Stapleton)",
-      "url": "https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax"
+      "duration_ms": 241899,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
     }
   ],
   "unique_name": "This Is Chris Stapleton",

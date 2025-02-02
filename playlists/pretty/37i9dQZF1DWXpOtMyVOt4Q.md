@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,570 likes - 50 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,600 likes - 50 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 19 | [rescue](https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [ashess](https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow) | [rescue](https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA) | 2:16 |
 | 20 | [where the light is](https://open.spotify.com/track/5QpYrdghLwv6nXcakC4ZXI) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [where the light is](https://open.spotify.com/album/2HbCizSbNyoJ9pLJX9b0R1) | 2:06 |
 | 21 | [laleconparticulere.](https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [laleconparticulere.](https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v) | 1:03 |
-| 22 | [one wish](https://open.spotify.com/track/4DgNUcwtWoessi8WgVqfKh) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [one wish](https://open.spotify.com/album/7dMV1akU13qe0zDVhOfWJn) | 2:11 |
-| 23 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
+| 22 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
+| 23 | [one wish](https://open.spotify.com/track/4DgNUcwtWoessi8WgVqfKh) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [one wish](https://open.spotify.com/album/7dMV1akU13qe0zDVhOfWJn) | 2:11 |
 | 24 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 |
 | 25 | [Drifting Away](https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [Drifting Away](https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa) | 2:45 |
 | 26 | [Pueblo Man](https://open.spotify.com/track/6Hbnhac6poCnife9O5aCeZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 2:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 47 | [Jump](https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Jump](https://open.spotify.com/album/5F9VAT5LKQLCH8wbFEpkN0) | 2:05 |
 | 48 | [NYC](https://open.spotify.com/track/2q761Wyz5BfA1Emy3t4vsI) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [SOFLUX](https://open.spotify.com/artist/2aV3s66tX4LZoBOzOsebZQ) | [NYC](https://open.spotify.com/album/3oO8t8RKJGcl39vYPMYOFw) | 1:51 |
 | 49 | [A Time to Wait](https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X) | [Alicks](https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM) | [Help Me Out](https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi) | 3:27 |
-| 50 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
+| 50 | [Color of Autumn](https://open.spotify.com/track/2u93OtblDZphLnmRFjBeeg) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 1:43 |
 
 Snapshot ID: `Zk170AAAAAA0zdOkcc0Twimewt6T9+Ox`

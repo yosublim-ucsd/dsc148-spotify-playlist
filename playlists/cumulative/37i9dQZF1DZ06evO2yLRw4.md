@@ -4,15 +4,16 @@
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 38 min
+78 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Letter To No One](https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 4:01 | 2024-09-01 | 2024-12-10 |
+| [A Letter To No One](https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 4:01 | 2024-09-01 |  |
 | [All In My Head \(feat\. AWOLNATION\)](https://open.spotify.com/track/0HQrTFhNkxL1EQdOiN0ZFf) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [OCCULT CLASSIC](https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw) | 4:26 | 2022-10-26 | 2024-04-15 |
 | [Alone Again \(Naturally\)\[feat\. Midland\]](https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 3:31 | 2022-10-26 | 2025-01-15 |
 | [Bang Your Head](https://open.spotify.com/track/2lhODvBNEJnbpyowhOhs1V) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 2:21 | 2024-09-01 |  |
-| [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 | 2024-09-01 |  |
+| [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 | 2024-09-01 | 2025-02-02 |
+| [Barbarian \- Acoustic](https://open.spotify.com/track/73MeRkfrJsT9Y7ootw0LYF) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Barbarian \(Acoustic\)](https://open.spotify.com/album/3OhgyW5xSmIwaqfgza0s7F) | 3:02 | 2025-02-02 |  |
 | [Beds Are Burning \(feat\. Tim Mcllrath of Rise Against\)](https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [Tim Mcllrath](https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:06 | 2022-10-26 |  |
 | [Burn It Down](https://open.spotify.com/track/4apfsISItA7UeoSZsw5DsB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:45 | 2022-10-26 |  |
 | [California Halo Blue](https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:53 | 2023-09-15 |  |

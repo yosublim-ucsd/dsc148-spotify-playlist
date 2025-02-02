@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Jay Prince
 
-455 songs - 23 hr 24 min
+456 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2022-07-17 | 2024-10-04 |
 | [fake smiles](https://open.spotify.com/track/4rdhaITfxf71ke7kKfrQuC) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:37 | 2023-05-15 | 2023-06-17 |
 | [Falling](https://open.spotify.com/track/6ZBBtds5w5YXSpB5F4Jemv) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Gino's LP](https://open.spotify.com/album/1jbFxzuOgzD6W5zYJiPGG6) | 3:01 | 2023-08-18 | 2023-11-25 |
-| [FALSE IDOLS](https://open.spotify.com/track/6WP8XHSpo7d6ZobCSCFJaU) | [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [FALSE IDOLS](https://open.spotify.com/album/2V5SBT3L5gcROuUGIBSjni) | 2:50 | 2025-01-24 |  |
+| [FALSE IDOLS](https://open.spotify.com/track/6WP8XHSpo7d6ZobCSCFJaU) | [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [FALSE IDOLS](https://open.spotify.com/album/2V5SBT3L5gcROuUGIBSjni) | 2:50 | 2025-01-24 | 2025-02-02 |
 | [FENTY BEAUTY](https://open.spotify.com/track/6PtTA5brWv0ITzpMuW30s1) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [NEMZZZ TYPE BEAT](https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR) | 2:41 | 2023-05-19 | 2023-08-09 |
 | [Filth](https://open.spotify.com/track/1U2WGdxYan1IYc70bY4jXJ) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Filth](https://open.spotify.com/album/66qcdkRaTQ7gcIEcABTM4Q) | 2:50 | 2023-06-16 | 2023-08-19 |
 | [FINALLY](https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:12 | 2022-07-17 | 2022-08-30 |
@@ -338,6 +338,7 @@
 | [Rainforest](https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3) | 2:42 | 2022-10-23 | 2024-04-19 |
 | [Rainforest](https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH) | 2:42 | 2022-06-24 | 2022-09-09 |
 | [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 | 2024-05-03 | 2025-01-18 |
+| [Red Flag \(Endless Love\)](https://open.spotify.com/track/5c8Bj1j4y4jP2mOOUqml8K) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Red Flag \(Endless Love\)](https://open.spotify.com/album/47CihxxyPI7pAcPlLKIaPZ) | 2:24 | 2025-01-31 |  |
 | [Relax](https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 3:51 | 2022-07-17 | 2022-09-26 |
 | [Relax](https://open.spotify.com/track/0JEeiAOf5UZ7hcSSHyBszE) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Relax](https://open.spotify.com/album/7v4pMn77snWJQcg99PgNmF) | 3:51 | 2022-06-24 | 2022-07-29 |
 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 | 2023-05-15 | 2024-10-04 |

@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 174108,
+  "num_followers": 174184,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
-      },
-      "artists": [
-        {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "I'm Into Something Good",
-      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "Big Girls Don't Cry and 12 Other Hits",
         "url": "https://open.spotify.com/album/21nYbsqCxRcKE1gOB9f98a"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 231800,
       "name": "Hang On Sloopy",
       "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "Herman's Hermits Retrospective",
+        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "I'm Into Something Good",
+      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
     },
     {
       "added_at": "2024-03-22 15:14:09",

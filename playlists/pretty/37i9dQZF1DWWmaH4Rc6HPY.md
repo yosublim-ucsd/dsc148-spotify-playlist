@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Javier Blake en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,758 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,765 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 47 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
 | 48 | [Secuaz \- Noches de Salón](https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Secuaz \(Noches de Salón\)](https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD) | 3:57 |
 | 49 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
-| 50 | [¿Qué vas a saber?](https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [¿Qué vas a saber?](https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l) | 4:11 |
-| 51 | [Bilingües](https://open.spotify.com/track/6euS235KVmpywN68iAVM9j) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Bilingües](https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq) | 2:54 |
+| 50 | [Bilingües](https://open.spotify.com/track/6euS235KVmpywN68iAVM9j) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Bilingües](https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq) | 2:54 |
+| 51 | [¿Qué vas a saber?](https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [¿Qué vas a saber?](https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l) | 4:11 |
 | 52 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 |
 | 53 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 |
 | 54 | [Tormenta Perfecta](https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp) | [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [Tormenta Perfecta](https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n) | 3:57 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 58 | [Último Día](https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r) | 2:54 |
 | 59 | [Clichés](https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc) | 3:18 |
 | 60 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
-| 61 | [ECLIPSE](https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [ECLIPSE](https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu) | 2:33 |
-| 62 | [Rompehielos](https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Rompehielos](https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3) | 3:00 |
+| 61 | [Rompehielos](https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Rompehielos](https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3) | 3:00 |
+| 62 | [ECLIPSE](https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [ECLIPSE](https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu) | 2:33 |
 | 63 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
 | 64 | [Chispa Roja](https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Chispa Roja](https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn) | 3:31 |
 | 65 | [Marta tiene un marcapasos](https://open.spotify.com/track/7shspTz6FNQstsNXsKPiGe) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Marta tiene un marcapasos](https://open.spotify.com/album/3MMHQ8sRJO9QW6znUhgQBW) | 2:58 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 71 | [Antes de que apague el sol](https://open.spotify.com/track/0tzIXA7B2NkhASmE7r06vC) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Antes de que apague el sol](https://open.spotify.com/album/5JIWBd8fxFUALqYyJw6ltf) | 3:49 |
 | 72 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
 | 73 | [Tesis](https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Tesis](https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg) | 4:20 |
-| 74 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 |
-| 75 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 |
+| 74 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 |
+| 75 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 |
 
 Snapshot ID: `Z5xm9QAAAAD46hLLdnYoPLWSPMpiDlrM`

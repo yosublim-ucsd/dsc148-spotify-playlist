@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Leo Rizzi en portada.",
-  "num_followers": 74997,
+  "num_followers": 74998,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Necios",
-      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
         "url": "https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 205744,
       "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
       "url": "https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Necios",
+      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Nunca Fuimos Al Mar",
-        "url": "https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 133411,
-      "name": "Nunca Fuimos Al Mar",
-      "url": "https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "UNDESASTRE",
         "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 222354,
       "name": "DESASTRE",
       "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Nunca Fuimos Al Mar",
+        "url": "https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 133411,
+      "name": "Nunca Fuimos Al Mar",
+      "url": "https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL"
     },
     {
       "added_at": "2025-01-24 06:00:28",

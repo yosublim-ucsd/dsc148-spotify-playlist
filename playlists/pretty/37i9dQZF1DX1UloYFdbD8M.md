@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,346 likes - 76 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,354 likes - 76 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 3 | [THANIYE](https://open.spotify.com/track/2LiXmrK7gDUSJo5GOzwxMe) | [Jerin C](https://open.spotify.com/artist/2LlWO3c41pLwsWgLid8GNd), [Keysmith](https://open.spotify.com/artist/63cWhrCL1DpDUGZsiavzz0) | [THANIYE](https://open.spotify.com/album/39DrrcfjjYYNeBgujn3cbX) | 3:52 |
 | 4 | [Arike](https://open.spotify.com/track/6bVsRIrDLbTapubqk438Qe) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d) | [Arike](https://open.spotify.com/album/03N2qhseEiA4pKaYNiOoV1) | 4:05 |
 | 5 | [Poovu](https://open.spotify.com/track/7eD2jrzZftR3n1xMcyO0yv) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Poovu](https://open.spotify.com/album/3F4m6nFgic9v7RODyYk7xo) | 3:10 |
-| 6 | [Oru Cliche Prem Kahani](https://open.spotify.com/track/2kZJbVRtcETqZJl0CXuiL5) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Oru Cliche Prem Kahani](https://open.spotify.com/album/65Nfj2Fk0VC3UCbSI9yFWM) | 3:34 |
+| 6 | [Kaath Ninnoo](https://open.spotify.com/track/2kZJbVRtcETqZJl0CXuiL5) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Oru Cliche Prem Kahani](https://open.spotify.com/album/65Nfj2Fk0VC3UCbSI9yFWM) | 3:34 |
 | 7 | [SHARR](https://open.spotify.com/track/1CfWaIHSJLkhAUF9GjTXoM) | [Fathima Jahaan](https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [shmr music](https://open.spotify.com/artist/31qUZyOeyJMUcFGagZf7JH) | [SHARR](https://open.spotify.com/album/6aNdZIhdOkDDFdY0w5G50w) | 4:57 |
 | 8 | [Neeli](https://open.spotify.com/track/4faDfd02dzmI2DjTBLpdSa) | [Retheesh Narayanan](https://open.spotify.com/artist/6JdxkqU06zxt6pLC0PSeSz) | [Neeli](https://open.spotify.com/album/0FhBkzCKbxE9Qa4cTRMPxf) | 7:00 |
 | 9 | [KAALAM MAARI/THIRICHU VERAVU](https://open.spotify.com/track/2F3T5IdWybEHp7OmlOszMx) | [MØNK](https://open.spotify.com/artist/71yVL9HsiAPlcJTwLbu1GG) | [SEASON OF SOLITUDE](https://open.spotify.com/album/5MnKW5MwBx9w7fCsUbTroA) | 3:30 |

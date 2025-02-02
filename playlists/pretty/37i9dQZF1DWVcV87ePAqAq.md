@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,923 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,898 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 59 | [MEDVETSLÖS](https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [MEDVETSLÖS](https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH) | 3:04 |
 | 60 | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Skurk3n](https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW) | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3) | 2:12 |
 | 61 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
-| 62 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
-| 63 | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR) | 2:30 |
+| 62 | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR) | 2:30 |
+| 63 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
 | 64 | [SUPA \(Studentlåten\)](https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [SUPA \(Studentlåten\)](https://open.spotify.com/album/6FmEqvZ3GQUATK71XlIxak) | 2:40 |
 | 65 | [HELAN GÅR](https://open.spotify.com/track/5Isz9KOquPmsHmL6gWw2b2) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [MADNEZZ](https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b) | [HELAN GÅR](https://open.spotify.com/album/4sJqw8dnkNombjj84qXhrb) | 1:43 |
 | 66 | [Hand i hand](https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Hand i hand](https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s) | 2:27 |

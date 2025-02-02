@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-169 songs - 11 hr 27 min
+170 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-17 |  |
 | [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 | 2023-12-12 | 2024-04-19 |
 | [White Snow](https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8) | 3:35 | 2024-02-20 | 2025-01-03 |
-| [Window](https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Window](https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy) | 4:00 | 2024-02-20 |  |
+| [Window](https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Window](https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy) | 4:00 | 2024-02-20 | 2025-02-02 |
 | [winter again](https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [winter again](https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa) | 4:34 | 2023-12-14 | 2025-01-16 |
 | [Winter Beat](https://open.spotify.com/track/7mjamiJ2zplbZQ2ymbn5T7) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 4:11 | 2023-12-12 | 2024-01-31 |
 | [Winter Candle](https://open.spotify.com/track/4msb9K8jtCWI8MJgnyt3ro) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Winter Candle](https://open.spotify.com/album/3Ll0Gxx43IIuBwhJuAH5Du) | 4:04 | 2023-12-12 | 2024-01-24 |
@@ -148,6 +148,7 @@
 | [冬だより](https://open.spotify.com/track/6l4y7ZaVwdvDeWSWrPrDLV) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [冬だより](https://open.spotify.com/album/41ZHgLAKxaKC1QrJjDhfPk) | 5:02 | 2023-12-19 | 2023-12-21 |
 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 | 2024-01-23 |  |
 | [冬のこども](https://open.spotify.com/track/4pFt5zmMNDt8SbEARg6iKM) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [空へ](https://open.spotify.com/album/7nc0ZBbcpThxeggF5aRDQY) | 5:22 | 2024-01-30 | 2024-12-11 |
+| [冬枯れのボレロ](https://open.spotify.com/track/7xkQJzI4hTZj0vK1G4vKi2) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [冬枯れのボレロ](https://open.spotify.com/album/3IT9wr6qYRawUAKkOrf5RL) | 3:49 | 2025-01-29 |  |
 | [君と僕の挽歌 \- New York Ver.](https://open.spotify.com/track/5sLmVWxNX4CaRkYCsdKtxt) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [さかいゆうのプレイリスト ［白と黒］](https://open.spotify.com/album/1YEB6EfeQrfG6qx1xpbUOB) | 5:53 | 2023-12-12 | 2024-01-17 |
 | [君の目、声](https://open.spotify.com/track/7xZkoRHEEnhQgFz37LjAUt) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君の目、声](https://open.spotify.com/album/5WhzkiKwcckqnLBPWmfJiD) | 3:17 | 2024-01-23 |  |
 | [夜凪 \(feat\. にしな\)](https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜凪 \(feat\. にしな\)](https://open.spotify.com/album/4AAjWHXAFXvJ3bScDWyHaU) | 3:27 | 2025-01-21 |  |

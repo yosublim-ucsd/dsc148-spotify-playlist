@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,752 likes - 70 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,835 likes - 70 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 64 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugenio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 |
 | 65 | [A tua ternura](https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A tua ternura](https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt) | 3:21 |
 | 66 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |
-| 67 | [Seja Elevado \- Ao Vivo](https://open.spotify.com/track/6Ffb2kWofzil2OjrVnr6WA) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Seja Elevado \(Ao Vivo\)](https://open.spotify.com/album/22OWLgCGsjWOO2NAgm2v42) | 3:55 |
-| 68 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
+| 67 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
+| 68 | [Seja Elevado \- Ao Vivo](https://open.spotify.com/track/6Ffb2kWofzil2OjrVnr6WA) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Seja Elevado \(Ao Vivo\)](https://open.spotify.com/album/22OWLgCGsjWOO2NAgm2v42) | 3:55 |
 | 69 | [Canção de Madalena](https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Hosana, Pt\. 01](https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N) | 3:34 |
 | 70 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 

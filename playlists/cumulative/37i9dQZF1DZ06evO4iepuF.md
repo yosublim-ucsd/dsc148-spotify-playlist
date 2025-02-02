@@ -4,13 +4,13 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-65 songs - 1 hr 58 min
+66 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14](https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [14](https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc) | 2:58 | 2024-12-14 | 2025-01-30 |
 | [a little silly :3](https://open.spotify.com/track/3cuRlDTFOqTJ6IihVzVILb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [a little silly :3](https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK) | 1:30 | 2024-12-14 |  |
-| [a world](https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:43 | 2025-01-20 | 2025-01-27 |
+| [a world](https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:43 | 2025-01-20 |  |
 | [against my shell](https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [against my shell](https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z) | 2:34 | 2024-12-14 |  |
 | [allowed to LOVE](https://open.spotify.com/track/6cqnApdgR7NjOk0V0Ixoou) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:48 | 2025-01-20 |  |
 | [b my wife!!!](https://open.spotify.com/track/0lFMYVknhjtmRGviL3bnSb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [b my wife!!!](https://open.spotify.com/album/3dguGYkOPcFGeJR5zcXXjm) | 2:40 | 2024-12-14 |  |
@@ -20,12 +20,13 @@
 | [bewildered](https://open.spotify.com/track/20cfcU6zgYlTmnZIaCt9y4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [bewildered](https://open.spotify.com/album/5PwallTBqFYwPL2INf0LxT) | 2:52 | 2024-12-14 | 2025-01-09 |
 | [blending in](https://open.spotify.com/track/5egVnvG8bUNzDl6knzzjUY) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [blending in](https://open.spotify.com/album/7DAUGgCvjKpw6dxMqHIXxv) | 1:09 | 2024-12-14 |  |
 | [break stuff](https://open.spotify.com/track/0ll2Wkt2es0W8KCRkCa6Th) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [break stuff](https://open.spotify.com/album/1iQn9UGhVpgNm2rh7ayJsS) | 1:44 | 2024-12-26 |  |
-| [butterfly in paradise !!](https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [butterfly in paradise !!](https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6) | 1:44 | 2024-12-14 |  |
+| [butterfly in paradise !!](https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [butterfly in paradise !!](https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6) | 1:44 | 2024-12-14 | 2025-02-02 |
+| [chasing the stars, living the dream](https://open.spotify.com/track/0iOCZvQTXz2riKgUfDjUw8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:39 | 2025-02-02 |  |
 | [COPE](https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [COPE](https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY) | 1:49 | 2024-12-14 |  |
 | [crying in the club](https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crying in the club](https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS) | 2:03 | 2024-12-14 |  |
 | [crystal spray \- Remastered](https://open.spotify.com/track/5e31ls6AAuRNkcEGmSGcMX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crystal spray \(Remastered\)](https://open.spotify.com/album/5d5yLJ4vUxUG74VRYnae95) | 1:57 | 2024-12-16 | 2025-01-13 |
 | [Death At Your Expense](https://open.spotify.com/track/6ukpi5r6LknK5r7Eftq83b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:23 | 2024-12-14 |  |
-| [deteriorating \- Remastered](https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [deteriorating \(Remastered\)](https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5) | 1:45 | 2024-12-14 |  |
+| [deteriorating \- Remastered](https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [deteriorating \(Remastered\)](https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5) | 1:45 | 2024-12-14 | 2025-02-02 |
 | [dissociated fantasy](https://open.spotify.com/track/3kUnMYg05ughCG68fgMDH1) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [dissociated fantasy](https://open.spotify.com/album/5C8AIOpAhAloLoxBfB0w2Y) | 1:52 | 2024-12-14 | 2025-01-31 |
 | [double hue](https://open.spotify.com/track/2NwZEiDaTW90Eh4mlsUvPR) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:23 | 2025-01-31 |  |
 | [escape room](https://open.spotify.com/track/0XuoqKqcGQF5jedK0bU9f9) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [escape room](https://open.spotify.com/album/1hZbJFXazCTM2503xoNkgM) | 1:48 | 2025-01-27 |  |

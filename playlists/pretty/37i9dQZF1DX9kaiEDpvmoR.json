@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92701,
+  "num_followers": 92711,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,18 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Min far",
-        "url": "https://open.spotify.com/album/6vdmOcvEwbtCjPdNjxFgqp"
+        "name": "Somliga av oss",
+        "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
       },
       "artists": [
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
         }
       ],
-      "duration_ms": 208983,
-      "name": "Min far",
-      "url": "https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW"
+      "duration_ms": 206000,
+      "name": "Det b\u00e4sta av allt",
+      "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -679,18 +675,22 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Somliga av oss",
-        "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
+        "name": "Min far",
+        "url": "https://open.spotify.com/album/6vdmOcvEwbtCjPdNjxFgqp"
       },
       "artists": [
         {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Det b\u00e4sta av allt",
-      "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
+      "duration_ms": 208983,
+      "name": "Min far",
+      "url": "https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -775,38 +775,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Dandelion Kids",
-        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "Dandelion Kids",
-      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
-        "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 237561,
-      "name": "Jag vill tacka livet",
-      "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "Zoe",
         "url": "https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9"
       },
@@ -827,6 +795,22 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
+        "name": "Dandelion Kids",
+        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "Dandelion Kids",
+      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
         "name": "Ge inte upp p\u00e5 mig",
         "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 204506,
       "name": "Ge inte upp p\u00e5 mig",
       "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
+        "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 237561,
+      "name": "Jag vill tacka livet",
+      "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "The Player",
-        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "The Player",
-      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "The Player",
+        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "En kv\u00e4ll i tunnelbanan",
-      "url": "https://open.spotify.com/track/4R0cQO0CWatHVI6LlXs7l7"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "Love vs. The World",
         "url": "https://open.spotify.com/album/47PnCVscxYlXZoH772Y13G"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 233373,
       "name": "Love vs. The World",
       "url": "https://open.spotify.com/track/1dJ0YjXLjbBpnosumLsdgo"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "En kv\u00e4ll i tunnelbanan",
+      "url": "https://open.spotify.com/track/4R0cQO0CWatHVI6LlXs7l7"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 187137,
       "name": "A Sinner's Life",
       "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Enkelhet",
-        "url": "https://open.spotify.com/album/0XqETQGhR7sDUBpbnkKPMt"
-      },
-      "artists": [
-        {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Enkelhet",
-      "url": "https://open.spotify.com/track/7q3K4tRtjdGUcycg5cm8Q6"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "WILDSIDE",
         "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 167200,
       "name": "WILDSIDE",
       "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "Enkelhet",
+        "url": "https://open.spotify.com/album/0XqETQGhR7sDUBpbnkKPMt"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Enkelhet",
+      "url": "https://open.spotify.com/track/7q3K4tRtjdGUcycg5cm8Q6"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 214783,
       "name": "S\u00e4llskapssjuk",
       "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
+        "name": "Ge En Sol",
+        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "Ge En Sol",
+      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
         "name": "N\u00e4ra dig",
         "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 162653,
       "name": "N\u00e4ra dig",
       "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "Little Human",
-        "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 235598,
-      "name": "Little Human",
-      "url": "https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1379,18 +1379,34 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Ge En Sol",
-        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
+        "name": "Little Human",
+        "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
       },
       "artists": [
         {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
         }
       ],
-      "duration_ms": 172166,
-      "name": "Ge En Sol",
-      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
+      "duration_ms": 235598,
+      "name": "Little Human",
+      "url": "https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "Upp med hakan",
+        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Upp med hakan",
+      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1411,22 +1427,6 @@
       "duration_ms": 187040,
       "name": "Sign",
       "url": "https://open.spotify.com/track/1HiMLlD5OBUqoKNMNBMgTV"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "Upp med hakan",
-        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Upp med hakan",
-      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
     },
     {
       "added_at": "2025-01-30 23:00:10",

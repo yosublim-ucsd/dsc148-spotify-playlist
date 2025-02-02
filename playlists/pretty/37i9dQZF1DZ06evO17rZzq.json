@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4218,
+  "num_followers": 4224,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADti2P7rXQb29jWv51v6Z9i",
+  "snapshot_id": "Z5wSgAAAAADI6JqTZrR66NdJdKg/VyZK",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/2pZtVGPGN64v6qDGnAUguE"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "Say Too Much",
-      "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shiesty (feat. Kaliii & Sexyy Red)",
         "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 216541,
       "name": "Shiesty (feat. Kaliii & Sexyy Red)",
       "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/2pZtVGPGN64v6qDGnAUguE"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Say Too Much",
+      "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137880,
-      "name": "Can\u2019t Get \u2018Em",
-      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
         "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 190902,
       "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
       "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "Can\u2019t Get \u2018Em",
+      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 159755,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OOP",
         "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 130813,
       "name": "OOP",
       "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 159755,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chainzzz (feat. Muni Long)",
-        "url": "https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153847,
-      "name": "Chainzzz (feat. Muni Long)",
-      "url": "https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep It Playa",
         "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 192592,
       "name": "ill nana (feat. Kali)",
       "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chainzzz (feat. Muni Long)",
+        "url": "https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153847,
+      "name": "Chainzzz (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR"
     },
     {
       "added_at": null,

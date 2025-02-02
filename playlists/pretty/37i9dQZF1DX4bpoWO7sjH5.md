@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,526 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,523 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 6 | [Feliz Navidad](https://open.spotify.com/track/4h8gC82RmwrIsNYibTbXvs) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas](https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc) | 1:59 |
 | 7 | [Nació la Luz](https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 3:17 |
 | 8 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
-| 9 | [Canela y Mantequilla](https://open.spotify.com/track/4dyOc6n181DQc1C4fGzzOz) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Postales Navideñas](https://open.spotify.com/album/4zwAGaYuF7KHNGBbW5LB4v) | 3:53 |
+| 9 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 10 | [es navidad \- LoFi Remix](https://open.spotify.com/track/22D6PCL30aLmqgvhgN9HGs) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [es navidad \(LoFi Remix\)](https://open.spotify.com/album/41ZzF83QBaOS2JvmjbQu1S) | 1:49 |
-| 11 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
+| 11 | [Canela y Mantequilla](https://open.spotify.com/track/4dyOc6n181DQc1C4fGzzOz) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Postales Navideñas](https://open.spotify.com/album/4zwAGaYuF7KHNGBbW5LB4v) | 3:53 |
 | 12 | [Oh Ven, Tú Que Eres Infiel](https://open.spotify.com/track/1f553nDQpnYWPt3J5pMFkD) | [Gracia Soberana Música](https://open.spotify.com/artist/3yZLchlyOSmGC6B6bUhgVU) | [Oh Ven, Tú Que Eres Infiel](https://open.spotify.com/album/63uPTlRmLdfNlZTY158Atb) | 3:50 |
 | 13 | [Que Baje la Nube](https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Mujer Frente a la Cruz](https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d) | 6:07 |
 | 14 | [La Navidad es para Compartir \- Por Caminos](https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG) | [Raya Real](https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk) | [La Navidad es para Compartir \(Por Caminos\)](https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn) | 3:14 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 68 | [Pesebre](https://open.spotify.com/track/6egrj5EiSLFQZC515SD4EV) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Pesebre](https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP) | 5:37 |
 | 69 | [Jesús Es Navidad](https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB) | [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Jesús Es Navidad](https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6) | 2:37 |
 | 70 | [Navidad en Miami](https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Navidad en Miami](https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK) | 2:40 |
-| 71 | [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 |
-| 72 | [Buscando Al Rey](https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Lors](https://open.spotify.com/artist/3SuHjvLOEQDs3a7HaGKJN8), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Da' Ministry](https://open.spotify.com/artist/2kHUJ4qirJxS72oSMvfqMd) | [Buscando Al Rey](https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx) | 4:32 |
+| 71 | [Buscando Al Rey](https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Lors](https://open.spotify.com/artist/3SuHjvLOEQDs3a7HaGKJN8), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Da' Ministry](https://open.spotify.com/artist/2kHUJ4qirJxS72oSMvfqMd) | [Buscando Al Rey](https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx) | 4:32 |
+| 72 | [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 |
 | 73 | [El Mejor Regalo](https://open.spotify.com/track/6IWHYmraai7TGalDP6eS2l) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [El Mejor Regalo](https://open.spotify.com/album/5BK7NX2RGS1GgZODTMGZdy) | 3:04 |
 | 74 | [Nattyvidad](https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Nattyvidad](https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss) | 4:24 |
 | 75 | [Esta Navidad Eres Tu](https://open.spotify.com/track/66oIEkcrotrW34E99FRiVK) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt) | [Esta Navidad Eres Tu](https://open.spotify.com/album/03FEVIsNTjZtDlgxkL83BE) | 4:36 |

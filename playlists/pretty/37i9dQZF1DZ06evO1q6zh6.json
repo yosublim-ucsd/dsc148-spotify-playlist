@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 172829,
+  "num_followers": 172869,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAB1Ws8GeIId7YygQA3MTDaU",
+  "snapshot_id": "Z5wSgAAAAADXgZU7LvAu8p0V4D4jG/oC",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 325987,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/2CAR6gkbtAZECBiuzssea8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Defenders Of The Faith",
         "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 302066,
       "name": "The Sentinel",
       "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 325987,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/2CAR6gkbtAZECBiuzssea8"
     },
     {
       "added_at": null,

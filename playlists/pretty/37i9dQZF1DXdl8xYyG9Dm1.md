@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,759 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,820 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 61 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |
 | 62 | [coMPRess](https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [coMPRess](https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK) | 3:14 |
 | 63 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 |
-| 64 | [Haibo Freestyle](https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Haibo Freestyle](https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb) | 2:25 |
-| 65 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
+| 64 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
+| 65 | [Haibo Freestyle](https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Haibo Freestyle](https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb) | 2:25 |
 | 66 | [Believer](https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK) | [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Believer](https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf) | 3:50 |
 | 67 | [Kiki](https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Glody Kasongo](https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i) | [Kiki](https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9) | 2:54 |
 | 68 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |

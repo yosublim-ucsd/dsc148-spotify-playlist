@@ -1,12 +1,12 @@
 {
   "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
-  "num_followers": 21425,
+  "num_followers": 21420,
   "original_name": "This Is Eir Aoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACHBMJug9jGED0ymueaWh4c",
+  "snapshot_id": "Z5wSgAAAAACupGcrCpMa9CUUQXLX9Q1D",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9752\u304f\u3001\u9752\u304f",
-        "url": "https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 272300,
-      "name": "\u9752\u304f\u3001\u9752\u304f",
-      "url": "https://open.spotify.com/track/4x8y91an0erARwUUTifXWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KALEIDOSCOPE",
         "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 250106,
       "name": "\u661f\u304c\u964d\u308b\u30e6\u30e1",
       "url": "https://open.spotify.com/track/1MphKuJ1ZLJ7bZ3oppFJAR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9752\u304f\u3001\u9752\u304f",
+        "url": "https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 272300,
+      "name": "\u9752\u304f\u3001\u9752\u304f",
+      "url": "https://open.spotify.com/track/4x8y91an0erARwUUTifXWP"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u7ffc",
-        "url": "https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "\u6df1\u3044\u68ee",
-      "url": "https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KALEIDOSCOPE",
         "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 256693,
       "name": "\u6708\u3092\u8ffd\u3046\u771f\u591c\u4e2d",
       "url": "https://open.spotify.com/track/7iuJWDLufY9spbErOgImjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u7ffc",
+        "url": "https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "\u6df1\u3044\u68ee",
+      "url": "https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk"
     },
     {
       "added_at": null,
@@ -535,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/3ZbnAjOJxirsvgoq5Y9Op5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
-        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 285026,
-      "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
-      "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30c8\u30c3\u30af",
         "url": "https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO"
       },
@@ -595,6 +563,38 @@
       "duration_ms": 252533,
       "name": "FROATIN'",
       "url": "https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
+        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
+      "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/3ZbnAjOJxirsvgoq5Y9Op5"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D'AZUR",
-        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "\u305a\u3063\u3068\u305d\u3070\u3067",
-      "url": "https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POLYHEDRA",
         "url": "https://open.spotify.com/album/4kUBV823ueqF5wRZ5wg4eZ"
       },
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLAU",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 266786,
-      "name": "\u30d5\u30a7\u30a4\u30b9\u30ec\u30b9",
-      "url": "https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y"
+      "duration_ms": 238293,
+      "name": "\u305a\u3063\u3068\u305d\u3070\u3067",
+      "url": "https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 266786,
+      "name": "\u30d5\u30a7\u30a4\u30b9\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ANSWER",
         "url": "https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD"
       },
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u7a7a\u306e\u30ab\u30bf\u30c1",
-        "url": "https://open.spotify.com/album/2leepC7KBBxbS61fNaXc27"
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
       },
       "artists": [
         {
@@ -720,25 +720,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 255666,
-      "name": "\u7a7a\u306e\u30ab\u30bf\u30c1",
-      "url": "https://open.spotify.com/track/1ZYrRfd8aswno49SP74jDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLAU",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 289346,
-      "name": "\u30a2\u30f4\u30a1\u30ed\u30f3\u30fb\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
+      "duration_ms": 209066,
+      "name": "\u30ed\u30bc",
+      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
     },
     {
       "added_at": null,
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KALEIDOSCOPE",
-        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
       },
       "artists": [
         {
@@ -768,9 +752,25 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 209066,
-      "name": "\u30ed\u30bc",
-      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
+      "duration_ms": 289346,
+      "name": "\u30a2\u30f4\u30a1\u30ed\u30f3\u30fb\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u7a7a\u306e\u30ab\u30bf\u30c1",
+        "url": "https://open.spotify.com/album/2leepC7KBBxbS61fNaXc27"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "\u7a7a\u306e\u30ab\u30bf\u30c1",
+      "url": "https://open.spotify.com/track/1ZYrRfd8aswno49SP74jDQ"
     },
     {
       "added_at": null,

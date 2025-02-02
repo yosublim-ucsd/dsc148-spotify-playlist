@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2833071,
+  "num_followers": 2833852,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABQhFNYCHkU+uVf8bsVjt95",
+  "snapshot_id": "Z5wSgAAAAACXzk/sOABeL02H7Q6N4lKt",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friendly Fire",
-        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 176901,
-      "name": "Friendly Fire",
-      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+      "duration_ms": 339853,
+      "name": "The Catalyst",
+      "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 339853,
-      "name": "The Catalyst",
-      "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
+      "duration_ms": 176901,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
     },
     {
       "added_at": null,

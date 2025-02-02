@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,298 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,350 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 44 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 |
 | 45 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 |
 | 46 | [Ajnabi Shehar Mein](https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp) | [Ashok Khosla](https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:33 |
-| 47 | [Aaina](https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Aaina](https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4) | 3:12 |
-| 48 | [Dil Todne Wale](https://open.spotify.com/track/5VfIOKBXuOYhgxrx0t1oez) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H) | [Charlie Chopra And The Mystery of Solang Valley](https://open.spotify.com/album/4ug5MhYUma7sriDVktAmwm) | 3:58 |
+| 47 | [Dil Todne Wale](https://open.spotify.com/track/5VfIOKBXuOYhgxrx0t1oez) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H) | [Charlie Chopra And The Mystery of Solang Valley](https://open.spotify.com/album/4ug5MhYUma7sriDVktAmwm) | 3:58 |
+| 48 | [Aaina](https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Aaina](https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4) | 3:12 |
 | 49 | [To Ne Dikha Hai Kabhi](https://open.spotify.com/track/69GrvktEn2ezemVh4OYrvq) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 5:16 |
 | 50 | [Naam](https://open.spotify.com/track/1aL1wNSXuYg8iVphuMQDaW) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Stolen Moments](https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9) | 5:34 |
 

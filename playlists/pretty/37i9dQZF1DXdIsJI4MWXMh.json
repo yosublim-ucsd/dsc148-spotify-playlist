@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 71741,
+  "num_followers": 71778,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,26 @@
     {
       "added_at": "2025-01-23 20:28:32",
       "album": {
+        "name": "Vuelve la Mezcla Perfecta",
+        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Vamos a Amarla los Dos",
+      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
+    },
+    {
+      "added_at": "2025-01-23 20:28:32",
+      "album": {
         "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
         "url": "https://open.spotify.com/album/7bfnVwfy8GY8jqllhKkDFp"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 493347,
       "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
       "url": "https://open.spotify.com/track/3TnTaLEn3NxgjGGrxoMXZE"
-    },
-    {
-      "added_at": "2025-01-23 20:28:32",
-      "album": {
-        "name": "Vuelve la Mezcla Perfecta",
-        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 268053,
-      "name": "Vamos a Amarla los Dos",
-      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
     },
     {
       "added_at": "2025-01-23 20:28:32",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-01-23 20:28:32",
       "album": {
-        "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
       },
       "artists": [
         {
-          "name": "Los Inseparables",
-          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
         }
       ],
-      "duration_ms": 572865,
-      "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2025-01-23 20:28:32",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-01-23 20:28:32",
       "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
+        "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
       },
       "artists": [
         {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+          "name": "Los Inseparables",
+          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
         }
       ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
+      "duration_ms": 572865,
+      "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
     },
     {
       "added_at": "2025-01-23 20:28:32",

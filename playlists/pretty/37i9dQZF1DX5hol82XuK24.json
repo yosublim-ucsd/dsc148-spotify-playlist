@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 451457,
+  "num_followers": 451446,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Ms",
-      "url": "https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 321066,
       "name": "mary magdalene",
       "url": "https://open.spotify.com/track/77tQQM8iEswfiSVLbTrFPX"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Ms",
+      "url": "https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Double Negative",
-        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 382674,
-      "name": "Dancing and Blood",
-      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182778,
       "name": "Valley Ghoul",
       "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Double Negative",
+        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 382674,
+      "name": "Dancing and Blood",
+      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Covered In Hether",
-        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 191860,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 491180,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Covered In Hether",
+        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 191860,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
     },
     {
       "added_at": "2024-11-04 12:56:32",

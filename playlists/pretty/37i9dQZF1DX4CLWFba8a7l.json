@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 125110,
+  "num_followers": 125143,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
-    },
-    {
       "added_at": "2025-01-09 13:00:34",
       "album": {
         "name": "With You",
@@ -119,6 +103,22 @@
       "duration_ms": 189806,
       "name": "With You",
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2025-01-30 13:00:22",
@@ -227,26 +227,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2025-01-16 13:00:28",
@@ -267,22 +263,26 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Nack Nostalgia",
-        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "Nack Nostalgia",
-      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
-    },
-    {
       "added_at": "2024-09-05 14:00:00",
       "album": {
         "name": "Friends",
@@ -407,6 +391,22 @@
       "duration_ms": 213258,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
-      "added_at": "2024-10-03 14:00:00",
-      "album": {
-        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
-        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "If Our Love Is Dead",
-      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "THE FIRST TIME",
@@ -551,6 +535,22 @@
       "duration_ms": 200248,
       "name": "One Bad Day",
       "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
+    },
+    {
+      "added_at": "2024-10-03 14:00:00",
+      "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 174595,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
-    },
-    {
       "added_at": "2024-10-31 13:00:00",
       "album": {
         "name": "Stop Calling",
@@ -683,6 +667,22 @@
       "duration_ms": 225204,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/0oV6f0YDeVTGwdOeba8h89"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 174595,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
     },
     {
       "added_at": "2024-09-12 14:00:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
-    },
-    {
       "added_at": "2025-01-23 13:00:33",
       "album": {
         "name": "it's Franky baby!",
@@ -771,6 +755,22 @@
       "duration_ms": 221602,
       "name": "Give Thanks, Give Praise",
       "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
       "added_at": "2025-01-16 13:00:28",
       "album": {
         "name": "Ice Cream",
@@ -1073,20 +1057,36 @@
       "url": "https://open.spotify.com/track/7aVlNa4f1VxG6D1gEEQ6CY"
     },
     {
-      "added_at": "2025-01-16 13:00:28",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "The Child",
-        "url": "https://open.spotify.com/album/4qop49ibIGQTsNVnyH3bOL"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
       "artists": [
         {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 269826,
-      "name": "Can\u2019t Read Your Mind",
-      "url": "https://open.spotify.com/track/25QfYtLRhvxvkWDXHF8S0v"
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Heading For The Door",
+        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Heading For The Door",
+      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1107,6 +1107,22 @@
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+    },
+    {
+      "added_at": "2025-01-16 13:00:28",
+      "album": {
+        "name": "The Child",
+        "url": "https://open.spotify.com/album/4qop49ibIGQTsNVnyH3bOL"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 269826,
+      "name": "Can\u2019t Read Your Mind",
+      "url": "https://open.spotify.com/track/25QfYtLRhvxvkWDXHF8S0v"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Heading For The Door",
-        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Jerome Farah",
+          "url": "https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Heading For The Door",
-      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
+      "duration_ms": 232978,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1159,22 +1175,6 @@
       "duration_ms": 192876,
       "name": "Young Free & Reckless",
       "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
-      },
-      "artists": [
-        {
-          "name": "Jerome Farah",
-          "url": "https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw"
-        }
-      ],
-      "duration_ms": 232978,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
     },
     {
       "added_at": "2025-01-16 13:00:28",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
     },
     {
-      "added_at": "2024-12-12 13:00:04",
-      "album": {
-        "name": "MESO",
-        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "24/7",
@@ -1239,6 +1223,22 @@
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-12-12 13:00:04",
+      "album": {
+        "name": "MESO",
+        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
     },
     {
       "added_at": "2024-08-30 00:24:34",

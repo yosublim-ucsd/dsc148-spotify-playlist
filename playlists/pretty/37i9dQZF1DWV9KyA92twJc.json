@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d0\u05e7\u05d5",
-  "num_followers": 25567,
+  "num_followers": 25566,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -359,8 +359,8 @@
     {
       "added_at": "2025-01-09 22:00:29",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2025-01-09 22:00:29",
@@ -515,8 +515,8 @@
     {
       "added_at": "2025-01-09 22:00:29",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2025-01-09 22:00:29",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-01-09 22:00:29",
       "album": {
-        "name": "TATE WE MADE IT",
-        "url": "https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn"
-      },
-      "artists": [
-        {
-          "name": "Peled",
-          "url": "https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS"
-        },
-        {
-          "name": "Nastia Rod",
-          "url": "https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS"
-        }
-      ],
-      "duration_ms": 228234,
-      "name": "\u05e2\u05d6\u05d1\u05ea \u05ea'\u05d1\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy"
-    },
-    {
-      "added_at": "2025-01-09 22:00:29",
-      "album": {
         "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
         "url": "https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 173913,
       "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
       "url": "https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg"
+    },
+    {
+      "added_at": "2025-01-09 22:00:29",
+      "album": {
+        "name": "TATE WE MADE IT",
+        "url": "https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn"
+      },
+      "artists": [
+        {
+          "name": "Peled",
+          "url": "https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS"
+        },
+        {
+          "name": "Nastia Rod",
+          "url": "https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS"
+        }
+      ],
+      "duration_ms": 228234,
+      "name": "\u05e2\u05d6\u05d1\u05ea \u05ea'\u05d1\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy"
     },
     {
       "added_at": "2025-01-09 22:00:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400 likes - 313 songs - 18 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 403 likes - 313 songs - 18 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 126 | [Thank You \(feat\. R\. City\)](https://open.spotify.com/track/24XcdlmaW0EizWVPgxocBV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:25 |
 | 127 | [Wrong Turn](https://open.spotify.com/track/79zoBfcQDNQgSpvojwkfk8) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:20 |
 | 128 | [Sweet Spot](https://open.spotify.com/track/0kJxW8nJoFDqriiIh1u6HU) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:14 |
-| 129 | [Love of My Life](https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
-| 130 | [BODY](https://open.spotify.com/track/0nE98tyBe5oz0BfrAzTEfY) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 2:03 |
+| 129 | [BODY](https://open.spotify.com/track/0nE98tyBe5oz0BfrAzTEfY) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 2:03 |
+| 130 | [Love of My Life](https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
 | 131 | [The Rain](https://open.spotify.com/track/0rTjlOdVXvcyV1NCZY4TGu) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:27 |
 | 132 | [Throw It Back](https://open.spotify.com/track/2iKTMq0U0bh4htRCvevAx3) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:06 |
 | 133 | [Green Light Go](https://open.spotify.com/track/5ejaRY8r27tuC6trrwAZJQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Green Light Go](https://open.spotify.com/album/3orQldTQmLgJdqVaKZAln4) | 3:37 |
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 146 | [Lingo](https://open.spotify.com/track/6MC08PeFU5s2TOBGcqiBus) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Feed](https://open.spotify.com/album/10wCXH3D0GgPgZJCPcHuIn) | 2:46 |
 | 147 | [Party Ain't A Party \(feat\. 2 Chainz\)](https://open.spotify.com/track/2GUPyVJIFf9jMVRjhThmnY) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Party Ain't A Party \(feat\. 2 Chainz\)](https://open.spotify.com/album/7oHxBR7ipH6NAq4NiwiGXd) | 3:46 |
 | 148 | [Take You Down](https://open.spotify.com/track/2YePYsIAjvrtqL8HQ9pI3b) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 4:06 |
-| 149 | [Broken](https://open.spotify.com/track/5qJwZIULLMrOl8BIcuRzs7) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:48 |
-| 150 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 149 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 150 | [Broken](https://open.spotify.com/track/5qJwZIULLMrOl8BIcuRzs7) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:48 |
 | 151 | [So Many Girls \(feat\. Wale, Tyga & Roscoe Dash\)](https://open.spotify.com/track/754Nn1HILpvQccXy2uvgZf) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 3:29 |
 | 152 | [NA](https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY) | 2:43 |
 | 153 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 182 | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/track/1URvGXIzMP4qnr8AUIBFfN) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:42 |
 | 183 | [Imagination](https://open.spotify.com/track/3hKp94BXUs5r7xBF3lEkhP) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:16 |
 | 184 | [Breezy \(feat\. Theron Theron\)](https://open.spotify.com/track/0gZperMfdaYprsNv7k7Pae) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Theron Theron](https://open.spotify.com/artist/3NDd4Jte97ZCYqZBEQbs23) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:04 |
-| 185 | [Flames](https://open.spotify.com/track/0N0iDPsKl9tTCwdnJtAq78) | [11:11](https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3) | [Flames](https://open.spotify.com/album/0iCVejOEA2wLsHiSD5ie5q) | 3:58 |
-| 186 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 185 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 186 | [Flames](https://open.spotify.com/track/0N0iDPsKl9tTCwdnJtAq78) | [11:11](https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3) | [Flames](https://open.spotify.com/album/0iCVejOEA2wLsHiSD5ie5q) | 3:58 |
 | 187 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
 | 188 | [Sure Sure](https://open.spotify.com/track/0feRzwO1t7FESkYGyFnydR) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Sure Sure](https://open.spotify.com/album/3tpH7JefgwA5lS3YlBQqlv) | 2:34 |
 | 189 | [Forever \(feat\. Lil Baby\)](https://open.spotify.com/track/6UBmFkTFrr578IjSDDtNNr) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 2:55 |
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 312 | [Big Big](https://open.spotify.com/track/4wsNgpWYdQjQZjP0eiCT3P) | [Timo Makaveli](https://open.spotify.com/artist/68nIghWoFPxGpj5aHIyznz), [Deli Banger](https://open.spotify.com/artist/3SEStgS4TnJvgUjqGPvt5b), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Right On Time](https://open.spotify.com/album/5MFK2qG2EJRgpEibwM823C) | 2:54 |
 | 313 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AboX0gAAAACYaz4G/z4vUcWcf4+m7AgB`
+Snapshot ID: `AbodaAAAAADZ1h8IY9DeHwWBO644bVE2`

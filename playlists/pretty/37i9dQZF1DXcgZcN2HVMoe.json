@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 358348,
+  "num_followers": 358459,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "This Too Shall Last",
-      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "This Too Shall Last",
+      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Eugene",
-        "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221804,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "That Was Yesterday",
         "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Eugene",
+        "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221804,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "Can't See Straight (Acoustic)",
+        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Can't See Straight - Acoustic",
+      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Can't See Straight (Acoustic)",
-        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
       "artists": [
         {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 188057,
-      "name": "Can't See Straight - Acoustic",
-      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1215,6 +1231,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "You In My Life",
+        "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
+      },
+      "artists": [
+        {
+          "name": "Ed Patrick",
+          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "You In My Life",
+      "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -1227,22 +1259,6 @@
       "duration_ms": 329086,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1263,18 +1279,34 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "You In My Life",
-        "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
       "artists": [
         {
-          "name": "Ed Patrick",
-          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
         }
       ],
-      "duration_ms": 217293,
-      "name": "You In My Life",
-      "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 212633,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1291,22 +1323,6 @@
       "duration_ms": 167120,
       "name": "simple times",
       "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1339,22 +1355,6 @@
       "duration_ms": 268880,
       "name": "Learn To Be Still",
       "url": "https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 212633,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Beat of My Heart",
+      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
+        "name": "Picture This",
+        "url": "https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu"
       },
       "artists": [
         {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
         }
       ],
-      "duration_ms": 215111,
-      "name": "Beat of My Heart",
-      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
+      "duration_ms": 234800,
+      "name": "95",
+      "url": "https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1583,22 +1599,6 @@
       "duration_ms": 243973,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Picture This",
-        "url": "https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "95",
-      "url": "https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 198385,
       "name": "To a T - Stripped",
       "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2371,18 +2371,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Fool For Waiting",
-        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
       },
       "artists": [
         {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Fool For Waiting",
-      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
+      "duration_ms": 226957,
+      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
+        "name": "Fool For Waiting",
+        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
         }
       ],
-      "duration_ms": 226957,
-      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
+      "duration_ms": 243200,
+      "name": "Fool For Waiting",
+      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2547,6 +2547,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "Walking Home to You",
+      "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "Bali",
         "url": "https://open.spotify.com/album/4xP7076aGQHLA8hA8PZM3W"
       },
@@ -2579,22 +2595,6 @@
       "duration_ms": 200127,
       "name": "The Open Road",
       "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "LEMONS",
-        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Walking Home to You",
-      "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Ocean Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
-      },
-      "artists": [
-        {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Ocean Eyes (Acoustic)",
-      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "What if You",
         "url": "https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M"
       },
@@ -2755,6 +2739,22 @@
       "duration_ms": 202040,
       "name": "What if You",
       "url": "https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Ocean Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+      },
+      "artists": [
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Ocean Eyes (Acoustic)",
+      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2827,6 +2827,38 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 240958,
+      "name": "Just for Now",
+      "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Weeds",
+        "url": "https://open.spotify.com/album/0LVnSz43dpZpF22CzpWZ56"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 253670,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/7k72bd7LDOOJSY0uIQgxE1"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
       },
@@ -2859,38 +2891,6 @@
       "duration_ms": 184342,
       "name": "Mid Sentence",
       "url": "https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Weeds",
-        "url": "https://open.spotify.com/album/0LVnSz43dpZpF22CzpWZ56"
-      },
-      "artists": [
-        {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
-        }
-      ],
-      "duration_ms": 253670,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/7k72bd7LDOOJSY0uIQgxE1"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 240958,
-      "name": "Just for Now",
-      "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2947,6 +2947,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "Come To The Beach (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y"
+      },
+      "artists": [
+        {
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "Come To The Beach - Acoustic Version",
+      "url": "https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "A Little Bit Sorry",
         "url": "https://open.spotify.com/album/62CCZYIiLmNdlvGzc1BrxV"
       },
@@ -2963,18 +2979,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Come To The Beach (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y"
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
       "artists": [
         {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 148106,
-      "name": "Come To The Beach - Acoustic Version",
-      "url": "https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT"
+      "duration_ms": 191757,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2995,18 +3011,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+        "name": "Holy / Intentions",
+        "url": "https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
         }
       ],
-      "duration_ms": 191757,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+      "duration_ms": 180845,
+      "name": "Holy / Intentions",
+      "url": "https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3043,18 +3059,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Holy / Intentions",
-        "url": "https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn"
       },
       "artists": [
         {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
         }
       ],
-      "duration_ms": 180845,
-      "name": "Holy / Intentions",
-      "url": "https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ"
+      "duration_ms": 226153,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3091,22 +3107,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Ryland James",
         "url": "https://open.spotify.com/album/7EELTe8Hgthf9PllDRdkhA"
       },
@@ -3135,38 +3135,6 @@
       "duration_ms": 192569,
       "name": "She's Not Like That",
       "url": "https://open.spotify.com/track/3wsddzf4BEH997R6eX7YhD"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Lost at Sea",
-        "url": "https://open.spotify.com/album/53S6fOfTLXX4y31hFJQOLx"
-      },
-      "artists": [
-        {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Lost at Sea",
-      "url": "https://open.spotify.com/track/59crDqEUjV0UEI9QVlQn2B"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Blank Page",
-        "url": "https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 335160,
-      "name": "Blank Page",
-      "url": "https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3203,6 +3171,38 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "Blank Page",
+        "url": "https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 335160,
+      "name": "Blank Page",
+      "url": "https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Lost at Sea",
+        "url": "https://open.spotify.com/album/53S6fOfTLXX4y31hFJQOLx"
+      },
+      "artists": [
+        {
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Lost at Sea",
+      "url": "https://open.spotify.com/track/59crDqEUjV0UEI9QVlQn2B"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "Swollen (feat. Julia Gargano)",
         "url": "https://open.spotify.com/album/2FCf6fQqRvQt4L0CZOcAYq"
       },
@@ -3219,6 +3219,22 @@
       "duration_ms": 230917,
       "name": "Swollen (feat. Julia Gargano)",
       "url": "https://open.spotify.com/track/1XZG6gPL5pKw7MLRXCK1yX"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Gloria Duplex",
+        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3251,22 +3267,6 @@
       "duration_ms": 251266,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/4IrpjWSS9rLUdIjrg8b4Qi"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Gloria Duplex",
-        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
     },
     {
       "added_at": "2024-07-05 22:27:51",

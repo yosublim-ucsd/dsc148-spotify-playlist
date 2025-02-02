@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 10 | [Backward](https://open.spotify.com/track/3OzXhpTO6Y3aDH7OzFAIbg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 1:43 |
 | 11 | [Free Radio Gainesville](https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:34 |
 | 12 | [Brushed](https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:35 |
-| 13 | [Unfulfilled](https://open.spotify.com/track/7lfcap6innWNBNfdDS3WYb) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:23 |
+| 13 | [Lie And Wait](https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:32 |
 | 14 | [Simpleton](https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:35 |
 | 15 | [Warm And Low](https://open.spotify.com/track/57yUjPDCY10YUcXLhUFY4F) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:48 |
 | 16 | [Phase 90](https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:34 |
-| 17 | [Lie And Wait](https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:32 |
+| 17 | [Unfulfilled](https://open.spotify.com/track/7lfcap6innWNBNfdDS3WYb) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:23 |
 | 18 | [The Liberation Frequency](https://open.spotify.com/track/2M9ZSHEQVaqdwcKoePiVKe) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [The Liberation Frequency](https://open.spotify.com/album/3CGZ5i3Q8Z5dirnVhm5Zjv) | 4:05 |
 | 19 | [Delusional](https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 3:57 |
 | 20 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 27 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 |
 | 28 | [Clean Slate](https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 2:49 |
 | 29 | [Under The Screw](https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 2:56 |
-| 30 | [Hyperion](https://open.spotify.com/track/24ZZPWkt2ELVI26tpiZZ1K) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:34 |
+| 30 | [Fire This Time](https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:22 |
 
-Snapshot ID: `Z5rBAAAAAAAuhCBvN7y8z+zMJUmboTCE`
+Snapshot ID: `Z5wSgAAAAAArTKLI0T5z522+t86jwpkT`

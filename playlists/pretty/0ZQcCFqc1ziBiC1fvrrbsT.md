@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,768 likes - 24 songs - 1 hr 32 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,781 likes - 24 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 |
-| 2 | [The Abyss](https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:42 |
+| 2 | [The Abyss \(feat\. Lana Del Rey\)](https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:42 |
 | 3 | [I Want You \(Fever\)](https://open.spotify.com/track/10twEEpq8Q4BIEXJb0xulD) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [I Want You \(Fever\)](https://open.spotify.com/album/6wxdOloEjabLrzUjXhhpbd) | 3:37 |
 | 4 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
 | 5 | [Fourth Street](https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Fourth Street](https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl) | 4:12 |

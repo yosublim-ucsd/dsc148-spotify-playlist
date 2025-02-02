@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 77 | [Emptied Out](https://open.spotify.com/track/2h4siYnPJwZHN8BksTmaE1) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 2:59 |
 | 78 | [Ljuger för mig själv](https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Ljuger för mig själv](https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP) | 2:08 |
 | 79 | [dö för mig](https://open.spotify.com/track/5nazg0445VGj83DneXAGNC) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:03 |
-| 80 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 |
-| 81 | [Ett steg fram](https://open.spotify.com/track/1ClnzQ78hPICTZuzBNm9VY) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [4april till 3juni](https://open.spotify.com/album/39MYpfkSuziHM3XsUPbzZh) | 2:52 |
-| 82 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 |
+| 80 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 |
+| 81 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 |
+| 82 | [Ett steg fram](https://open.spotify.com/track/1ClnzQ78hPICTZuzBNm9VY) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [4april till 3juni](https://open.spotify.com/album/39MYpfkSuziHM3XsUPbzZh) | 2:52 |
 | 83 | [Obscene](https://open.spotify.com/track/5o6pZbA04aNAe8rAPapFpO) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:49 |
 | 84 | [Cherry](https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:30 |
 | 85 | [Pearls](https://open.spotify.com/track/6R6ArKEeJaNrFnSCM80KTn) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:47 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 101 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 102 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AboXyAAAAAAwhuQzc8GJmxN75233s9iz`
+Snapshot ID: `AbodSgAAAAB8sUMiq9vwiisc0T3L7BK+`

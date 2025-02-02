@@ -4,7 +4,7 @@
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 53 min
+64 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [This Space In My Heart Is for You](https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 1:35 | 2024-08-21 |  |
 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 | 2024-01-29 |  |
 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P) | 3:29 | 2024-10-25 |  |
+| [We Rise \- Jai Wolf Remix](https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Rise \(Jai Wolf Remix\)](https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW) | 3:08 | 2025-02-02 |  |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2024-01-29 |  |
 | [When I Fall Asleep \(feat\. Day Wave with Jai Wolf\) \- Day Wave Remix](https://open.spotify.com/track/17DntT7fbnEH13Ofd5bp6X) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Moonlight \(The Remixes\)](https://open.spotify.com/album/3gmbHl9gfRU8KTOh9z26E7) | 2:57 | 2024-06-27 | 2024-09-02 |
 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 | 2024-01-29 |  |

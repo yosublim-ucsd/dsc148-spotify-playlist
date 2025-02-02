@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 141626,
+  "num_followers": 141652,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2025-01-09 03:00:01",
       "album": {
-        "name": "REMEMBER",
-        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Tim Ayre",
-          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "REMEMBER",
-      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
         "name": "Strangers (with Mansionair)",
         "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 217390,
       "name": "Strangers (with Mansionair)",
       "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
     },
     {
       "added_at": "2025-01-09 03:00:01",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-01-09 03:00:01",
       "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 145741,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2025-01-09 03:00:01",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-01-09 03:00:01",
       "album": {
+        "name": "A.M",
+        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 209849,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
         "name": "What Comes Next",
         "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 243599,
       "name": "Get To Know (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
-        "name": "A.M",
-        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 209849,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
     },
     {
       "added_at": "2025-01-09 03:00:01",

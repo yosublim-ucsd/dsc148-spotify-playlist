@@ -1,13 +1,29 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 52243,
+  "num_followers": 52303,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABU6ABx56HuiN8C3nfzDKCx",
+  "snapshot_id": "Z5wSgAAAAABHZv4pZUh84P8PXTezMlca",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 166677,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E"
+    },
     {
       "added_at": null,
       "album": {

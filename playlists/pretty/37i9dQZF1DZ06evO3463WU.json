@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 150755,
+  "num_followers": 150789,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAA7UkJ+NkkEUHnKzhKMoaIi",
+  "snapshot_id": "Z5wSgAAAAADkCWv7SN74qiW8ozbR2BYS",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206169,
+      "name": "Compa\u00f1era M\u00eda",
+      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 168546,
       "name": "Estrenando Amante",
       "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206169,
-      "name": "Compa\u00f1era M\u00eda",
-      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
     },
     {
       "added_at": null,

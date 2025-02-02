@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 331370,
+  "num_followers": 331986,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACZLExoq/zsQHD3HX8nkBmJ",
+  "snapshot_id": "Z5wSgAAAAACCKsemXUjRUj5stB5dRdwB",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FACE MYSELF",
         "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 180807,
       "name": "dose",
       "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 176424,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop Believin'",
-        "url": "https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 248435,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 217573,
       "name": "Not Your Man",
       "url": "https://open.spotify.com/track/1fQknzJ5j8dreu0zjTkFpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Stop Believin'",
+        "url": "https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 248435,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 182350,
+      "name": "Your Kind of Crazy",
+      "url": "https://open.spotify.com/track/4WJ6n3hm5R5vOuDno4UqZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 182350,
-      "name": "Your Kind of Crazy",
-      "url": "https://open.spotify.com/track/4WJ6n3hm5R5vOuDno4UqZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 175017,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
+      "duration_ms": 215740,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 215740,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0"
+      "duration_ms": 175017,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
     },
     {
       "added_at": null,
@@ -651,6 +651,26 @@
       "duration_ms": 295000,
       "name": "Happy People (with Teddy Swims & Jac Ross)",
       "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 180727,
+      "name": "Black & White (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/2tH9DTuje2kxAKIT85vLnY"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 180727,
-      "name": "Black & White (feat. Muni Long)",
-      "url": "https://open.spotify.com/track/2tH9DTuje2kxAKIT85vLnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unlearning",
         "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 188795,
       "name": "Til I Change Your Mind",
       "url": "https://open.spotify.com/track/0SBsdYSakN6BViHUPMzXwN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 245004,
+      "name": "It Ain\u2019t Easy",
+      "url": "https://open.spotify.com/track/38HVbWr4GEccBlstZYPUcA"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (with Ingrid Andress)",
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 245004,
-      "name": "It Ain\u2019t Easy",
-      "url": "https://open.spotify.com/track/38HVbWr4GEccBlstZYPUcA"
     },
     {
       "added_at": null,

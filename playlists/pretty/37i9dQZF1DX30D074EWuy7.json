@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 31765,
+  "num_followers": 31776,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-01-15 21:32:54",
       "album": {
-        "name": "You've Changed",
-        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Bosso",
-          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
-        },
-        {
-          "name": "Sergio Cammariere",
-          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
-        }
-      ],
-      "duration_ms": 388854,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
-    },
-    {
-      "added_at": "2025-01-15 21:32:54",
-      "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+    },
+    {
+      "added_at": "2025-01-15 21:32:54",
+      "album": {
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Bosso",
+          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
+        },
+        {
+          "name": "Sergio Cammariere",
+          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
+        }
+      ],
+      "duration_ms": 388854,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
     },
     {
       "added_at": "2025-01-15 21:32:54",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-01-15 21:32:54",
       "album": {
-        "name": "Amore a prima vista",
-        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
-      },
-      "artists": [
-        {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
-        },
-        {
-          "name": "Papik",
-          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
-        }
-      ],
-      "duration_ms": 164246,
-      "name": "Amore a prima vista - Bossa & Jazz Version",
-      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
-    },
-    {
-      "added_at": "2025-01-15 21:32:54",
-      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 438346,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
+    },
+    {
+      "added_at": "2025-01-15 21:32:54",
+      "album": {
+        "name": "Amore a prima vista",
+        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
+      },
+      "artists": [
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        },
+        {
+          "name": "Papik",
+          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+        }
+      ],
+      "duration_ms": 164246,
+      "name": "Amore a prima vista - Bossa & Jazz Version",
+      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
     },
     {
       "added_at": "2025-01-15 21:32:54",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2025-01-15 21:32:54",
       "album": {
-        "name": "Oltremare",
-        "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
-      },
-      "artists": [
-        {
-          "name": "Raffaele Casarano",
-          "url": "https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Eric Legnini",
-          "url": "https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi"
-        },
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Manu Katch\u00e9",
-          "url": "https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy"
-        }
-      ],
-      "duration_ms": 254494,
-      "name": "Oltremare",
-      "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
-    },
-    {
-      "added_at": "2025-01-15 21:32:54",
-      "album": {
         "name": "Maison Maravilha",
         "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
       },
@@ -1099,6 +1067,38 @@
       "duration_ms": 278773,
       "name": "Musica e fumo (featuring Colle Der Fomento)",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2025-01-15 21:32:54",
+      "album": {
+        "name": "Oltremare",
+        "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
+      },
+      "artists": [
+        {
+          "name": "Raffaele Casarano",
+          "url": "https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Eric Legnini",
+          "url": "https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Manu Katch\u00e9",
+          "url": "https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy"
+        }
+      ],
+      "duration_ms": 254494,
+      "name": "Oltremare",
+      "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
     },
     {
       "added_at": "2025-01-15 21:32:54",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-01-15 21:32:54",
       "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
-    },
-    {
-      "added_at": "2025-01-15 21:32:54",
-      "album": {
         "name": "Cosmica Italiana",
         "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2025-01-15 21:32:54",
       "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "added_at": "2025-01-15 21:32:54",
+      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-01-15 21:32:54",
       "album": {
-        "name": "Joyful",
-        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
-      },
-      "artists": [
-        {
-          "name": "Flavio Boltro",
-          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
-        },
-        {
-          "name": "Alex Ligertwood",
-          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
-        }
-      ],
-      "duration_ms": 241966,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
-    },
-    {
-      "added_at": "2025-01-15 21:32:54",
-      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2025-01-15 21:32:54",
+      "album": {
+        "name": "Joyful",
+        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+      },
+      "artists": [
+        {
+          "name": "Flavio Boltro",
+          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
+        },
+        {
+          "name": "Alex Ligertwood",
+          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+        }
+      ],
+      "duration_ms": 241966,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
     },
     {
       "added_at": "2025-01-15 21:32:54",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2025-01-15 21:32:54",
       "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 289634,
+      "name": "Transe Napolitaine",
+      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
+    },
+    {
+      "added_at": "2025-01-15 21:32:54",
+      "album": {
         "name": "Facing North",
         "url": "https://open.spotify.com/album/7BG1DgkjLbJR5QQ2FBgswN"
       },
@@ -1955,42 +1971,30 @@
     {
       "added_at": "2025-01-15 21:32:54",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+        "name": "The Enja Heritage Collection: Thorn",
+        "url": "https://open.spotify.com/album/67rTLugyNX03X8zatBUAWx"
       },
       "artists": [
         {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 289634,
-      "name": "Transe Napolitaine",
-      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
-    },
-    {
-      "added_at": "2025-01-15 21:32:54",
-      "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg"
-      },
-      "artists": [
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+          "name": "Antonio Fara\u00f2",
+          "url": "https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI"
         },
         {
-          "name": "Stefano Maurizi",
-          "url": "https://open.spotify.com/artist/2dcgy7gYodUcL5l1V16qan"
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
         },
         {
-          "name": "Mirco Mariottini",
-          "url": "https://open.spotify.com/artist/59pnlMKJa3phDabIFCfQeN"
+          "name": "Drew Gress",
+          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
         }
       ],
-      "duration_ms": 270902,
-      "name": "Tribal Dance",
-      "url": "https://open.spotify.com/track/63Bq1F9wKFzn7OZhYR3WCh"
+      "duration_ms": 454026,
+      "name": "Time Back",
+      "url": "https://open.spotify.com/track/1F1Nm8dXWjSqmQItbENbAD"
     }
   ],
   "unique_name": "Jazz Italia",

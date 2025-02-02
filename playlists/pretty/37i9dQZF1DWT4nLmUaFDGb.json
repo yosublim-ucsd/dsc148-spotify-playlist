@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 549157,
+  "num_followers": 549444,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Don't Wait Too Long",
-      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
         "name": "Renee Olstead",
         "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 212160,
       "name": "A Love That Will Last",
       "url": "https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -811,22 +811,18 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 273626,
-      "name": "Suzanne (feat. Gregory Porter)",
-      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+      "duration_ms": 178440,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -847,18 +843,22 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb"
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -875,22 +875,6 @@
       "duration_ms": 196250,
       "name": "Lumi\u00e9re",
       "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
-        "name": "Songbird 20",
-        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -915,6 +899,22 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
+        "name": "Songbird 20",
+        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
         "name": "First Song",
         "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
         "name": "These Are the Memories",
         "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 257680,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
+        "name": "My Wonderland",
+        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A Man and a Woman",
+      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
-        "name": "My Wonderland",
-        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A Man and a Woman",
-      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Lonely Waltz",
-        "url": "https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ"
-      },
-      "artists": [
-        {
-          "name": "Frans Bak",
-          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
-        },
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Lonely Waltz",
-      "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
         "name": "Old Cape Cod",
         "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 444306,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
+        "name": "Lonely Waltz",
+        "url": "https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ"
+      },
+      "artists": [
+        {
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
+        },
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        }
+      ],
+      "duration_ms": 194973,
+      "name": "Lonely Waltz",
+      "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Baby Won't You Please Come Home",
-        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
         "name": "Nice Girls Don't Stay for Breakfast",
         "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 217507,
       "name": "Nice Girls Don't Stay for Breakfast",
       "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
         "name": "Love is Never Too Late",
         "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
       },
@@ -2047,18 +2031,18 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT"
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
       },
       "artists": [
         {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
         }
       ],
-      "duration_ms": 257019,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg"
+      "duration_ms": 230000,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -2131,6 +2115,22 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 257019,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
         "name": "The World in You",
         "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
       },
@@ -2143,6 +2143,22 @@
       "duration_ms": 199040,
       "name": "The World in You",
       "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
+        "name": "Stairway to the Stars",
+        "url": "https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 318857,
+      "name": "Stairway to the Stars",
+      "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -2183,26 +2199,6 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Misty Blue",
-        "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
-      },
-      "artists": [
-        {
-          "name": "Maria Kim",
-          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
-        },
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 320100,
-      "name": "You're Mine, You (feat. Benny Benack III)",
-      "url": "https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
         "name": "Taxes",
         "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
       },
@@ -2219,18 +2215,22 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
-        "name": "Stairway to the Stars",
-        "url": "https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80"
+        "name": "Misty Blue",
+        "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
       },
       "artists": [
         {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
         }
       ],
-      "duration_ms": 318857,
-      "name": "Stairway to the Stars",
-      "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
+      "duration_ms": 320100,
+      "name": "You're Mine, You (feat. Benny Benack III)",
+      "url": "https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16"
     },
     {
       "added_at": "2025-01-17 09:14:34",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2025-01-17 09:14:34",
       "album": {
+        "name": "Dreamers Ball",
+        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Poole",
+          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
+        }
+      ],
+      "duration_ms": 283960,
+      "name": "Dreamers Ball",
+      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
+    },
+    {
+      "added_at": "2025-01-17 09:14:34",
+      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 249541,
       "name": "Lemons",
       "url": "https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw"
-    },
-    {
-      "added_at": "2025-01-17 09:14:34",
-      "album": {
-        "name": "Dreamers Ball",
-        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Poole",
-          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "Dreamers Ball",
-      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
     },
     {
       "added_at": "2025-01-17 09:14:34",

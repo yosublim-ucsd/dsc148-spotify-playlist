@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u9234\u6728\u5b9f\u8cb4\u5b50\u30ba\uff08Suzuki Mikiko's\uff09",
-  "num_followers": 60486,
+  "num_followers": 60498,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "AOS",
-        "url": "https://open.spotify.com/album/1rY6739giM1uBqMwc1stBe"
-      },
-      "artists": [
-        {
-          "name": "KID FRESINO",
-          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "AOS",
-      "url": "https://open.spotify.com/track/7wUXGC5UqNIL8Rj4siTwzr"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 257911,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "AOS",
+        "url": "https://open.spotify.com/album/1rY6739giM1uBqMwc1stBe"
+      },
+      "artists": [
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "AOS",
+      "url": "https://open.spotify.com/track/7wUXGC5UqNIL8Rj4siTwzr"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
-        "url": "https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy"
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 193383,
-      "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
-      "url": "https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT"
+      "duration_ms": 157133,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 225853,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
+        "url": "https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 193383,
+      "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
+      "url": "https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -923,6 +923,30 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
+        "name": "Re:Re:",
+        "url": "https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr"
+      },
+      "artists": [
+        {
+          "name": "AVYSS",
+          "url": "https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC"
+        },
+        {
+          "name": "ANORAK!",
+          "url": "https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI"
+        },
+        {
+          "name": "illequal",
+          "url": "https://open.spotify.com/artist/070lv855QuMgSxolesmZnc"
+        }
+      ],
+      "duration_ms": 196297,
+      "name": "Re:Re:",
+      "url": "https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
         "name": "ECHO",
         "url": "https://open.spotify.com/album/5nkFgUEdypq1GBF2culRmG"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 285755,
       "name": "Fine Love",
       "url": "https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
-        "name": "Re:Re:",
-        "url": "https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr"
-      },
-      "artists": [
-        {
-          "name": "AVYSS",
-          "url": "https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC"
-        },
-        {
-          "name": "ANORAK!",
-          "url": "https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI"
-        },
-        {
-          "name": "illequal",
-          "url": "https://open.spotify.com/artist/070lv855QuMgSxolesmZnc"
-        }
-      ],
-      "duration_ms": 196297,
-      "name": "Re:Re:",
-      "url": "https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
+        "name": "\u5065\u5eb7",
+        "url": "https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE"
+      },
+      "artists": [
+        {
+          "name": "\u771e\u540d\u5b50\u65b0",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+        }
+      ],
+      "duration_ms": 182467,
+      "name": "\u5065\u5eb7",
+      "url": "https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
         "name": "\u3042\u307e\u308a\u98a8",
         "url": "https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "\u5065\u5eb7",
-        "url": "https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE"
+        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
+        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
       },
       "artists": [
         {
-          "name": "\u771e\u540d\u5b50\u65b0",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
         }
       ],
-      "duration_ms": 182467,
-      "name": "\u5065\u5eb7",
-      "url": "https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l"
+      "duration_ms": 175578,
+      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
+      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -1071,22 +1087,6 @@
       "duration_ms": 233160,
       "name": "\u65e5\u8755",
       "url": "https://open.spotify.com/track/7tQ8dUcLAe1JUbD9tEx0DC"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
-        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
-        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
-          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
-      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "Oppressed",
-        "url": "https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ"
-      },
-      "artists": [
-        {
-          "name": "yuragi",
-          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
-        }
-      ],
-      "duration_ms": 315153,
-      "name": "Oppressed",
-      "url": "https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "NOVA",
         "url": "https://open.spotify.com/album/0NJAsSYxzBK5LdYnRdVJo5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 210006,
       "name": "Anti Piracy Screen",
       "url": "https://open.spotify.com/track/73Mf5IAWPXiGRXy2bZKuY6"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "Oppressed",
+        "url": "https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ"
+      },
+      "artists": [
+        {
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+        }
+      ],
+      "duration_ms": 315153,
+      "name": "Oppressed",
+      "url": "https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "Forest (feat. ACE COOL)",
-        "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
+        "name": "World's Famous",
+        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
       },
       "artists": [
         {
-          "name": "\u3093oon",
-          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+          "name": "DJ KOCO aka SHIMOKITA",
+          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
         },
         {
-          "name": "ACE COOL",
-          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
         }
       ],
-      "duration_ms": 183397,
-      "name": "Forest - feat. ACE COOL",
-      "url": "https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH"
+      "duration_ms": 191747,
+      "name": "World's Famous",
+      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
     }
   ],
   "unique_name": "Edge!",

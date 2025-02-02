@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Jinjer",
-  "num_followers": 551044,
+  "num_followers": 551099,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Cold Sanctuary",
-        "url": "https://open.spotify.com/album/2OWZ870BnUw4v0Z9EBTekJ"
-      },
-      "artists": [
-        {
-          "name": "Mirrors",
-          "url": "https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "Damien",
-      "url": "https://open.spotify.com/track/56k68f1Csqmfx9vRXi9Jsl"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "A View From The Top Of The World",
         "url": "https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 390760,
       "name": "Invisible Monster",
       "url": "https://open.spotify.com/track/62oMXLTGaewaJ93gQVyZ4Y"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Cold Sanctuary",
+        "url": "https://open.spotify.com/album/2OWZ870BnUw4v0Z9EBTekJ"
+      },
+      "artists": [
+        {
+          "name": "Mirrors",
+          "url": "https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "Damien",
+      "url": "https://open.spotify.com/track/56k68f1Csqmfx9vRXi9Jsl"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "IHSAHN",
-        "url": "https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE"
-      },
-      "artists": [
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 260545,
-      "name": "PILGRIMAGE TO OBLIVION",
-      "url": "https://open.spotify.com/track/5iE8YiGRqD1NmFdk6RAvHq"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Embrace the Infinity",
         "url": "https://open.spotify.com/album/7HL5kk9mZEYfijS8K5YzEK"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 256510,
       "name": "Nothing Gold",
       "url": "https://open.spotify.com/track/1WGC4W2dBxxxvH97h9qCP1"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "IHSAHN",
+        "url": "https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "duration_ms": 260545,
+      "name": "PILGRIMAGE TO OBLIVION",
+      "url": "https://open.spotify.com/track/5iE8YiGRqD1NmFdk6RAvHq"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -791,22 +791,18 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Stonewalker",
-        "url": "https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj"
+        "name": "Holocene",
+        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
       },
       "artists": [
         {
-          "name": "I Built the Sky",
-          "url": "https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN"
-        },
-        {
-          "name": "Jake Howsam Lowe",
-          "url": "https://open.spotify.com/artist/4L53eKiTXJsZeaX0Q9jxMI"
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
         }
       ],
-      "duration_ms": 254032,
-      "name": "Stonewalker",
-      "url": "https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh"
+      "duration_ms": 304440,
+      "name": "Preboreal",
+      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -827,18 +823,22 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Holocene",
-        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
+        "name": "Stonewalker",
+        "url": "https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj"
       },
       "artists": [
         {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+          "name": "I Built the Sky",
+          "url": "https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN"
+        },
+        {
+          "name": "Jake Howsam Lowe",
+          "url": "https://open.spotify.com/artist/4L53eKiTXJsZeaX0Q9jxMI"
         }
       ],
-      "duration_ms": 304440,
-      "name": "Preboreal",
-      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
+      "duration_ms": 254032,
+      "name": "Stonewalker",
+      "url": "https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
-        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 377773,
-      "name": "Vasgy\u00e1r",
-      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Carbonized",
         "url": "https://open.spotify.com/album/4ed59wqSiswxbsBfh2jP7r"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 225986,
       "name": "Carbonized",
       "url": "https://open.spotify.com/track/4kqYSyIRLk3rxgke3cWflX"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
+        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 377773,
+      "name": "Vasgy\u00e1r",
+      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "M\u00far",
-        "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
-      },
-      "artists": [
-        {
-          "name": "M\u00far",
-          "url": "https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO"
-        }
-      ],
-      "duration_ms": 577506,
-      "name": "Vitrun",
-      "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Shapes",
         "url": "https://open.spotify.com/album/31s61x1TcS5JG7Jz80tMpa"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
+        "name": "M\u00far",
+        "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
+      },
+      "artists": [
+        {
+          "name": "M\u00far",
+          "url": "https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO"
+        }
+      ],
+      "duration_ms": 577506,
+      "name": "Vitrun",
+      "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/4J6S42detU6cSBoQC4VSQi"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 351693,
       "name": "Moon",
       "url": "https://open.spotify.com/track/5EfUPk5w7hMuiYd5Aqr9eo"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Wildfire / Zagreus",
+        "url": "https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a"
+      },
+      "artists": [
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        }
+      ],
+      "duration_ms": 425653,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1155,38 +1171,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Wildfire / Zagreus",
-        "url": "https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a"
-      },
-      "artists": [
-        {
-          "name": "Periphery",
-          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
-        }
-      ],
-      "duration_ms": 425653,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Beyond the Reach of the Sun",
-        "url": "https://open.spotify.com/album/1IQZLI0hmtFd073Dp8aZPE"
-      },
-      "artists": [
-        {
-          "name": "Anciients",
-          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
-        }
-      ],
-      "duration_ms": 492637,
-      "name": "Forbidden Sanctuary",
-      "url": "https://open.spotify.com/track/3Sw6fdbf4psr04Dn0VzArJ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Smoke of Their Torment",
         "url": "https://open.spotify.com/album/5zWcZCDJFhDoO9QpZ55FwY"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 258526,
       "name": "Smoke of Their Torment",
       "url": "https://open.spotify.com/track/14hM03ZVjzGqiHAo4TMrak"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Beyond the Reach of the Sun",
+        "url": "https://open.spotify.com/album/1IQZLI0hmtFd073Dp8aZPE"
+      },
+      "artists": [
+        {
+          "name": "Anciients",
+          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
+        }
+      ],
+      "duration_ms": 492637,
+      "name": "Forbidden Sanctuary",
+      "url": "https://open.spotify.com/track/3Sw6fdbf4psr04Dn0VzArJ"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Ecdysis",
-        "url": "https://open.spotify.com/album/0sFJx8Ef3rYURwU2B4jjHU"
-      },
-      "artists": [
-        {
-          "name": "Infected Rain",
-          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
-        }
-      ],
-      "duration_ms": 314333,
-      "name": "Longing",
-      "url": "https://open.spotify.com/track/6ig9kBoTHXEbVhePqzhngW"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 272757,
       "name": "The 6 6 9",
       "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Ecdysis",
+        "url": "https://open.spotify.com/album/0sFJx8Ef3rYURwU2B4jjHU"
+      },
+      "artists": [
+        {
+          "name": "Infected Rain",
+          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
+        }
+      ],
+      "duration_ms": 314333,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/6ig9kBoTHXEbVhePqzhngW"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "The Stargate",
-        "url": "https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP"
-      },
-      "artists": [
-        {
-          "name": "Blood Incantation",
-          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
-        }
-      ],
-      "duration_ms": 500080,
-      "name": "The Stargate [Tablet I]",
-      "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "False Providence (feat. Mick Gordon)",
         "url": "https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf"
       },
@@ -1367,6 +1351,38 @@
       "duration_ms": 301640,
       "name": "False Providence (feat. Mick Gordon)",
       "url": "https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Synaesthesia",
+        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
+      },
+      "artists": [
+        {
+          "name": "Weather Systems",
+          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+        }
+      ],
+      "duration_ms": 551436,
+      "name": "Synaesthesia",
+      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "The Stargate",
+        "url": "https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "duration_ms": 500080,
+      "name": "The Stargate [Tablet I]",
+      "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1399,22 +1415,6 @@
       "duration_ms": 231970,
       "name": "Terrene Hunter",
       "url": "https://open.spotify.com/track/6Km6XsyXdOsRhu0tj1Jj6x"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Synaesthesia",
-        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
-      },
-      "artists": [
-        {
-          "name": "Weather Systems",
-          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
-        }
-      ],
-      "duration_ms": 551436,
-      "name": "Synaesthesia",
-      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx"
-      },
-      "artists": [
-        {
-          "name": "Walking Across Jupiter",
-          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Neil",
-      "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "PORTALS",
         "url": "https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 393882,
       "name": "Eden - P O R T A L S",
       "url": "https://open.spotify.com/track/62duewknNqt9fZhBoYAanE"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx"
+      },
+      "artists": [
+        {
+          "name": "Walking Across Jupiter",
+          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Neil",
+      "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Stories to Forget",
-        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
-      },
-      "artists": [
-        {
-          "name": "Words Of Farewell",
-          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
-        }
-      ],
-      "duration_ms": 281187,
-      "name": "A Lesser King",
-      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Dream Chaser",
         "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 280207,
       "name": "Presence",
       "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Stories to Forget",
+        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
+      },
+      "artists": [
+        {
+          "name": "Words Of Farewell",
+          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
+        }
+      ],
+      "duration_ms": 281187,
+      "name": "A Lesser King",
+      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Memorial",
-        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
-      },
-      "artists": [
-        {
-          "name": "Soen",
-          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Memorial",
-      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Terror Management Theory",
         "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 421601,
       "name": "Through the Sands of Time",
       "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
+      },
+      "artists": [
+        {
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Memorial",
+      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
+        "name": "Sight To Sound (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gBBbJWSdgp7yBWLpjTEzy"
+      },
+      "artists": [
+        {
+          "name": "Stellar Circuits",
+          "url": "https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV"
+        }
+      ],
+      "duration_ms": 245174,
+      "name": "The Magician",
+      "url": "https://open.spotify.com/track/57mFAT7bXcqM5ydcdMDSVX"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
         "name": "Forest Dweller (Alternate Version)",
         "url": "https://open.spotify.com/album/3Lf8mRXJlQpFYp6kXrtAZh"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 355800,
       "name": "Forest Dweller - Alternate Version",
       "url": "https://open.spotify.com/track/2qhY2pFt7XGKOeji6VpQZb"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Sight To Sound (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3gBBbJWSdgp7yBWLpjTEzy"
-      },
-      "artists": [
-        {
-          "name": "Stellar Circuits",
-          "url": "https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV"
-        }
-      ],
-      "duration_ms": 245174,
-      "name": "The Magician",
-      "url": "https://open.spotify.com/track/57mFAT7bXcqM5ydcdMDSVX"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj"
-      },
-      "artists": [
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
-        }
-      ],
-      "duration_ms": 257894,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Ephemeral",
         "url": "https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 246000,
       "name": "Ephemeral",
       "url": "https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 257894,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Last Words",
-        "url": "https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr"
-      },
-      "artists": [
-        {
-          "name": "Fear Of Domination",
-          "url": "https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq"
-        }
-      ],
-      "duration_ms": 178862,
-      "name": "Last Words",
-      "url": "https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/5ysXmRSsCy63K3R92aqu1P"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 210967,
       "name": "Jackal",
       "url": "https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Last Words",
+        "url": "https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr"
+      },
+      "artists": [
+        {
+          "name": "Fear Of Domination",
+          "url": "https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq"
+        }
+      ],
+      "duration_ms": 178862,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "ARE YOU AFRAID?",
-        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
+        "name": "Curses",
+        "url": "https://open.spotify.com/album/57CxAIvyxBKolsqkFuQjAH"
       },
       "artists": [
         {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+          "name": "I Am Haunted",
+          "url": "https://open.spotify.com/artist/5klz2h3DJuI09eh1BHg6nS"
         }
       ],
-      "duration_ms": 202105,
-      "name": "ARE YOU AFRAID?",
-      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
+      "duration_ms": 208954,
+      "name": "Curses",
+      "url": "https://open.spotify.com/track/0Wjm38BazYve8BfoWX34Im"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2243,18 +2243,18 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Curses",
-        "url": "https://open.spotify.com/album/57CxAIvyxBKolsqkFuQjAH"
+        "name": "ARE YOU AFRAID?",
+        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
       },
       "artists": [
         {
-          "name": "I Am Haunted",
-          "url": "https://open.spotify.com/artist/5klz2h3DJuI09eh1BHg6nS"
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
         }
       ],
-      "duration_ms": 208954,
-      "name": "Curses",
-      "url": "https://open.spotify.com/track/0Wjm38BazYve8BfoWX34Im"
+      "duration_ms": 202105,
+      "name": "ARE YOU AFRAID?",
+      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
+        "name": "Lovebite",
+        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Lovebite",
+      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/2KasnGDYJUuOPdcejZ1KNt"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 246500,
       "name": "Gods Way is my Way",
       "url": "https://open.spotify.com/track/5vDwPAcIikEc4g21ndDtVw"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Lovebite",
-        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
-      },
-      "artists": [
-        {
-          "name": "Haken",
-          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Lovebite",
-      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Red Letter",
-        "url": "https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1"
-      },
-      "artists": [
-        {
-          "name": "Arch Echo",
-          "url": "https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "Red Letter",
-      "url": "https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "My Flame Deadened",
         "url": "https://open.spotify.com/album/4ajn8CRezebRBgyb5DGEs1"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 207323,
       "name": "My Flame Deadened",
       "url": "https://open.spotify.com/track/24T5A9kGxMWXSLXiZUSfht"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Red Letter",
+        "url": "https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1"
+      },
+      "artists": [
+        {
+          "name": "Arch Echo",
+          "url": "https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh"
+        }
+      ],
+      "duration_ms": 290250,
+      "name": "Red Letter",
+      "url": "https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2559,18 +2559,18 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
-        "url": "https://open.spotify.com/album/52eVUmr6MWQ9cN4amcZnJh"
+        "name": "Scarred",
+        "url": "https://open.spotify.com/album/1pv6XP8EoAgNWFxj9IRuCh"
       },
       "artists": [
         {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+          "name": "Sakoya",
+          "url": "https://open.spotify.com/artist/0x2dZoTljdt9Pfv26DMJv3"
         }
       ],
-      "duration_ms": 193800,
-      "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
-      "url": "https://open.spotify.com/track/6RxNy0WXVOya0HvyYyFBZ5"
+      "duration_ms": 260201,
+      "name": "Scarred",
+      "url": "https://open.spotify.com/track/0nfcfG7u4YTCftz0B2ZQtT"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2599,18 +2599,18 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Scarred",
-        "url": "https://open.spotify.com/album/1pv6XP8EoAgNWFxj9IRuCh"
+        "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
+        "url": "https://open.spotify.com/album/52eVUmr6MWQ9cN4amcZnJh"
       },
       "artists": [
         {
-          "name": "Sakoya",
-          "url": "https://open.spotify.com/artist/0x2dZoTljdt9Pfv26DMJv3"
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
         }
       ],
-      "duration_ms": 260201,
-      "name": "Scarred",
-      "url": "https://open.spotify.com/track/0nfcfG7u4YTCftz0B2ZQtT"
+      "duration_ms": 193800,
+      "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
+      "url": "https://open.spotify.com/track/6RxNy0WXVOya0HvyYyFBZ5"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2683,22 +2683,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/7HhZ4OMQ4ZSGifamWSeJ9k"
-      },
-      "artists": [
-        {
-          "name": "Stoned Statues",
-          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Be My Guest",
-      "url": "https://open.spotify.com/track/7LH01CRu66ymwEol1s71yr"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Into the Light",
         "url": "https://open.spotify.com/album/2jnmtzzMUJhgPmcYD62WVV"
       },
@@ -2711,6 +2695,22 @@
       "duration_ms": 295866,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/7HhZ4OMQ4ZSGifamWSeJ9k"
+      },
+      "artists": [
+        {
+          "name": "Stoned Statues",
+          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Be My Guest",
+      "url": "https://open.spotify.com/track/7LH01CRu66ymwEol1s71yr"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2751,6 +2751,22 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH"
+      },
+      "artists": [
+        {
+          "name": "The Wind Covenant",
+          "url": "https://open.spotify.com/artist/2CL5ITHrtJ1JVCCthWw1fs"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "The Straight And Narrow",
+      "url": "https://open.spotify.com/track/6xVwiDBGpTrnJ8wS7ZGbsq"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
         "name": "Silence In a Room of Lies",
         "url": "https://open.spotify.com/album/6m6dLM7QETJrvypCfGlH98"
       },
@@ -2767,22 +2783,6 @@
       "duration_ms": 194909,
       "name": "Silence In a Room of Lies",
       "url": "https://open.spotify.com/track/7zNDwzq2oLj35hN3LqIYud"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH"
-      },
-      "artists": [
-        {
-          "name": "The Wind Covenant",
-          "url": "https://open.spotify.com/artist/2CL5ITHrtJ1JVCCthWw1fs"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "The Straight And Narrow",
-      "url": "https://open.spotify.com/track/6xVwiDBGpTrnJ8wS7ZGbsq"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "of the Last Human Being",
-        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
-      },
-      "artists": [
-        {
-          "name": "Sleepytime Gorilla Museum",
-          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
-        }
-      ],
-      "duration_ms": 390762,
-      "name": "Salamander in Two Worlds",
-      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Psychotic Banana",
         "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
       },
@@ -2855,6 +2839,22 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
+        "name": "of the Last Human Being",
+        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
+      },
+      "artists": [
+        {
+          "name": "Sleepytime Gorilla Museum",
+          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
+        }
+      ],
+      "duration_ms": 390762,
+      "name": "Salamander in Two Worlds",
+      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY"
       },
@@ -2867,6 +2867,22 @@
       "duration_ms": 365571,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/0LNOhxd84ZLso2HZWNBtVi"
+      },
+      "artists": [
+        {
+          "name": "The Hypothesis",
+          "url": "https://open.spotify.com/artist/5toPnT62e4myQ3N21WfWtS"
+        }
+      ],
+      "duration_ms": 214995,
+      "name": "Watch the World Burn with Me",
+      "url": "https://open.spotify.com/track/7ycD1FXj8MsQuA25s370Ac"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -2927,6 +2943,22 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
+        "name": "More Want",
+        "url": "https://open.spotify.com/album/0uM8Rr9Ir9jpXIMro46PBC"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "duration_ms": 227548,
+      "name": "More Want",
+      "url": "https://open.spotify.com/track/6mAtbnW3MOhSbuHbbRKOYz"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
         "name": "The Perpetual Dream",
         "url": "https://open.spotify.com/album/6fPm9g2DHRc1uC9eVEbgtb"
       },
@@ -2975,18 +3007,18 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "More Want",
-        "url": "https://open.spotify.com/album/0uM8Rr9Ir9jpXIMro46PBC"
+        "name": "Radiant Ascension",
+        "url": "https://open.spotify.com/album/5ov3mKBuN98nepwM13RFCa"
       },
       "artists": [
         {
-          "name": "Banks Arcade",
-          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+          "name": "Fallujah",
+          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
         }
       ],
-      "duration_ms": 227548,
-      "name": "More Want",
-      "url": "https://open.spotify.com/track/6mAtbnW3MOhSbuHbbRKOYz"
+      "duration_ms": 243312,
+      "name": "Radiant Ascension",
+      "url": "https://open.spotify.com/track/5qpOR69C7uAEGy7uMJznrW"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -3003,38 +3035,6 @@
       "duration_ms": 252237,
       "name": "Piros kocsi, fekete \u00e9j",
       "url": "https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/0LNOhxd84ZLso2HZWNBtVi"
-      },
-      "artists": [
-        {
-          "name": "The Hypothesis",
-          "url": "https://open.spotify.com/artist/5toPnT62e4myQ3N21WfWtS"
-        }
-      ],
-      "duration_ms": 214995,
-      "name": "Watch the World Burn with Me",
-      "url": "https://open.spotify.com/track/7ycD1FXj8MsQuA25s370Ac"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Radiant Ascension",
-        "url": "https://open.spotify.com/album/5ov3mKBuN98nepwM13RFCa"
-      },
-      "artists": [
-        {
-          "name": "Fallujah",
-          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
-        }
-      ],
-      "duration_ms": 243312,
-      "name": "Radiant Ascension",
-      "url": "https://open.spotify.com/track/5qpOR69C7uAEGy7uMJznrW"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -3139,22 +3139,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "The Lightest Straw",
-        "url": "https://open.spotify.com/album/1lz3eFVXKr5OSTLL6y7zeY"
-      },
-      "artists": [
-        {
-          "name": "The Old Dead Tree",
-          "url": "https://open.spotify.com/artist/1UztxAFwIMRgVVNdQ54iqg"
-        }
-      ],
-      "duration_ms": 272280,
-      "name": "The Lightest Straw",
-      "url": "https://open.spotify.com/track/71TSY68EmW1RUcdwgzp6NK"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Dissonance",
         "url": "https://open.spotify.com/album/21JBvvner2uMhhsufWMQ8v"
       },
@@ -3183,6 +3167,22 @@
       "duration_ms": 212013,
       "name": "Right In Front of Me",
       "url": "https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "The Lightest Straw",
+        "url": "https://open.spotify.com/album/1lz3eFVXKr5OSTLL6y7zeY"
+      },
+      "artists": [
+        {
+          "name": "The Old Dead Tree",
+          "url": "https://open.spotify.com/artist/1UztxAFwIMRgVVNdQ54iqg"
+        }
+      ],
+      "duration_ms": 272280,
+      "name": "The Lightest Straw",
+      "url": "https://open.spotify.com/track/71TSY68EmW1RUcdwgzp6NK"
     },
     {
       "added_at": "2025-01-10 05:00:42",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "How To Swim Down",
-        "url": "https://open.spotify.com/album/2NAGNdsP9P04YDX312nDbE"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 245085,
-      "name": "How To Swim Down",
-      "url": "https://open.spotify.com/track/3ck8dO1Mmm9Q8nd0yZlJLZ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
         "name": "Subatlantic",
         "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 415666,
       "name": "Subatlantic",
       "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "How To Swim Down",
+        "url": "https://open.spotify.com/album/2NAGNdsP9P04YDX312nDbE"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 245085,
+      "name": "How To Swim Down",
+      "url": "https://open.spotify.com/track/3ck8dO1Mmm9Q8nd0yZlJLZ"
     },
     {
       "added_at": "2025-01-10 05:00:42",

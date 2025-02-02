@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. E-Lhoy en portada.",
-  "num_followers": 257297,
+  "num_followers": 257301,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,26 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "CAE LA NOCHE",
+        "url": "https://open.spotify.com/album/3PZisBJfF9PJBt9AcX7AMX"
+      },
+      "artists": [
+        {
+          "name": "Anthony",
+          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "CAE LA NOCHE",
+      "url": "https://open.spotify.com/track/45u8AYilUFXep0i2eomu7F"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Besitos BB 2.0",
         "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 233693,
       "name": "Besitos BB 2.0",
       "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "CAE LA NOCHE",
-        "url": "https://open.spotify.com/album/3PZisBJfF9PJBt9AcX7AMX"
-      },
-      "artists": [
-        {
-          "name": "Anthony",
-          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "CAE LA NOCHE",
-      "url": "https://open.spotify.com/track/45u8AYilUFXep0i2eomu7F"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "CONTENT EXPLICIT",
-        "url": "https://open.spotify.com/album/2gIIBLpo4Ut2kFqRttmm1X"
-      },
-      "artists": [
-        {
-          "name": "COSMIC KID",
-          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
-        },
-        {
-          "name": "Yesan \u96ea\u5c71",
-          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
-        }
-      ],
-      "duration_ms": 155843,
-      "name": "CONTENT EXPLICIT",
-      "url": "https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "CONTENT EXPLICIT",
+        "url": "https://open.spotify.com/album/2gIIBLpo4Ut2kFqRttmm1X"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        },
+        {
+          "name": "Yesan \u96ea\u5c71",
+          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
+        }
+      ],
+      "duration_ms": 155843,
+      "name": "CONTENT EXPLICIT",
+      "url": "https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "De Moda",
         "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 124377,
       "name": "Chilling",
       "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Young Rich & In Love - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "t\u00fanosabes",
         "url": "https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 182906,
       "name": "t\u00fanosabes",
       "url": "https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Helado De Vainilla",
-        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "Helado De Vainilla",
-      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Helado De Vainilla",
+        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "Helado De Vainilla",
+      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "ahora A.K.A NAO",
         "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "SANDRO",
         "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 192013,
       "name": "Creo",
       "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1883,18 +1883,34 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Ley de atracci\u00f3n",
-        "url": "https://open.spotify.com/album/1do4Es34MlPLQ7aXEK0D0A"
+        "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
+        "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
       "artists": [
         {
-          "name": "FABRO",
-          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Lucauy",
+          "url": "https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4"
+        },
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        },
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 195456,
-      "name": "Ley de atracci\u00f3n",
-      "url": "https://open.spotify.com/track/3FTpWeuG2VnuJQhTPUeMnk"
+      "duration_ms": 206000,
+      "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
+      "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
     }
   ],
   "unique_name": "R&B Latino",

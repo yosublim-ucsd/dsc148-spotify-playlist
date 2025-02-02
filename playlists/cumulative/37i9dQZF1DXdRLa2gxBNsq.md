@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Kaotiko.
 
-238 songs - 12 hr 17 min
+239 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Jarama](https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S) | [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn) | [Jarama](https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh) | 3:37 | 2023-12-08 |  |
 | [Jimmy Jazz](https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 2:07 | 2023-12-08 |  |
 | [Kaña](https://open.spotify.com/track/71fXglmSTgkzXe3h8PHuFK) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx) | 4:36 | 2023-12-08 | 2024-04-19 |
-| [Kaña](https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06) | 4:36 | 2024-04-18 |  |
+| [Kaña](https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06) | 4:36 | 2024-04-18 | 2025-02-02 |
 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 | 2023-12-08 |  |
 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 | 2023-12-08 | 2024-04-19 |
 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 | 2023-12-08 |  |
@@ -238,6 +238,7 @@
 | [Vestiglo](https://open.spotify.com/track/0fbuBJHt8REl3gqI8bbsRB) | [Desastre Sozial](https://open.spotify.com/artist/1Ippr3uOdh1syEi5tiJsRK) | [Vestiglo](https://open.spotify.com/album/3Wq36wotVY9MNe1Q3PUBXe) | 2:57 | 2025-01-30 |  |
 | [Viajemos](https://open.spotify.com/track/5znyKIKjrJBGcZfF5TkOjH) | [Generador](https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm) | [Queremos Diversión](https://open.spotify.com/album/4qW1DKOqCqElwTBfZNuYQN) | 2:33 | 2024-10-03 | 2024-11-08 |
 | [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 | 2024-06-20 |  |
+| [Vomitar](https://open.spotify.com/track/46zbYY4L48207KQCoIffPj) | [Tres Pollos](https://open.spotify.com/artist/1S5Lext1vYpgwvhrnJVncu) | [Vomitar](https://open.spotify.com/album/7MruW4G3XRTTa1MDbFFksC) | 2:25 | 2025-01-30 |  |
 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 | 2024-07-19 | 2024-12-06 |
 | [Y las que quedarán](https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Y las que quedarán](https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09) | 4:12 | 2024-04-18 | 2024-06-01 |
 | [Y Sigo en Pie](https://open.spotify.com/track/0XozUY7OB1r1bLcZV26iHp) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/0jexOHFXIH5oUghZyrCWBN) | 4:02 | 2023-12-08 | 2024-04-19 |

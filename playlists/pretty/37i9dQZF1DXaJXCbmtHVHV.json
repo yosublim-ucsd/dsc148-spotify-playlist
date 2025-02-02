@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Morgan Wallen",
-  "num_followers": 582282,
+  "num_followers": 582429,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,18 @@
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "Lonely Road (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 189356,
-      "name": "Lonely Road (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -355,18 +351,22 @@
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 235002,
-      "name": "Am I Okay?",
-      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -403,18 +403,18 @@
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "NATE SMITH (DELUXE)",
-        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 189986,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+        "name": "NATE SMITH (DELUXE)",
+        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+      "duration_ms": 189986,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "Ain't Doin' Jack",
-        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "Ain't Doin' Jack",
-      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
-    },
-    {
-      "added_at": "2025-01-31 05:00:48",
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 172853,
       "name": "Tucson Too Late",
       "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+    },
+    {
+      "added_at": "2025-01-31 05:00:48",
+      "album": {
+        "name": "Ain't Doin' Jack",
+        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Ain't Doin' Jack",
+      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "Bigger Houses",
-        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Bigger Houses",
-      "url": "https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk"
-    },
-    {
-      "added_at": "2025-01-31 05:00:48",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2025-01-31 05:00:48",
+      "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Bigger Houses",
+      "url": "https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -1627,18 +1627,22 @@
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "This Town's Been Too Good To Us",
-        "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 191626,
-      "name": "This Town's Been Too Good To Us",
-      "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
+      "duration_ms": 231832,
+      "name": "half of my hometown (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -1659,22 +1663,18 @@
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+        "name": "This Town's Been Too Good To Us",
+        "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 231832,
-      "name": "half of my hometown (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
+      "duration_ms": 191626,
+      "name": "This Town's Been Too Good To Us",
+      "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
     },
     {
       "added_at": "2025-01-31 05:00:48",

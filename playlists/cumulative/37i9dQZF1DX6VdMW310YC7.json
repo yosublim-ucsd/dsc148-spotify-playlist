@@ -11201,6 +11201,28 @@
     },
     {
       "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Future Hearts",
+      "url": "https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs"
+    },
+    {
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
       },
@@ -18490,7 +18512,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 182444,
       "name": "Lost In The Melody",
       "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"

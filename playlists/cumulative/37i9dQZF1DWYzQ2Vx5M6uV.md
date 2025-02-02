@@ -4,7 +4,7 @@
 
 > Heat that will make you sweat 🥵 Cover: ASTROPICAL
 
-227 songs - 11 hr 52 min
+228 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BAHAMAS](https://open.spotify.com/track/2YawcSeJXJTUzEqP3HzsSQ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [BAHAMAS](https://open.spotify.com/album/53dLGokQOFB83lmF9OB5cd) | 2:27 | 2025-01-31 |  |
 | [Baila Baila](https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Baila Baila](https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI) | 2:17 | 2024-12-13 |  |
 | [Baila Kumi](https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Baila Kumi](https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav) | 3:26 | 2022-02-16 | 2024-09-21 |
+| [Bambú](https://open.spotify.com/track/01xMj72s3A8apI3oezvHl5) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Bambú](https://open.spotify.com/album/1ppBrlwkXLsHv6hLAVfsx0) | 2:52 | 2025-01-31 |  |
 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh) | 3:15 | 2022-02-16 | 2024-09-21 |
 | [before](https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:55 | 2022-05-12 | 2024-04-19 |
 | [before](https://open.spotify.com/track/1lrcVGmFdapqohjfaXy3Xk) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [before](https://open.spotify.com/album/3g5AiRdKwllCIXhJ3RPV6x) | 2:55 | 2022-02-16 | 2022-07-29 |
@@ -170,7 +171,7 @@
 | [PUERTO ESCONDIDO](https://open.spotify.com/track/60v76pgmo7qSx0sgz0HzOc) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:28 | 2024-09-20 |  |
 | [RD](https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU) | [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [RD](https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN) | 2:46 | 2024-10-18 |  |
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-06-07 | 2024-11-02 |
-| [RIO](https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [RIO](https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i) | 2:47 | 2024-09-20 |  |
+| [RIO](https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [RIO](https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i) | 2:47 | 2024-09-20 | 2025-02-02 |
 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:07 | 2022-07-07 |  |
 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 | 2022-06-03 | 2023-04-29 |
 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 | 2022-02-16 | 2024-09-21 |

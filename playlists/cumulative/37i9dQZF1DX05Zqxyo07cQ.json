@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 202500,
       "name": "Aere Perrenius",
       "url": "https://open.spotify.com/track/2jLDBIoRpdRRp5ZQcfUrlR"
@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Awha",
+        "url": "https://open.spotify.com/album/5hYApWwpP6I3xsNFBgKF7k"
+      },
+      "artists": [
+        {
+          "name": "Ember Nova",
+          "url": "https://open.spotify.com/artist/4RJoq6yWNYmSjrgp41bgMN"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Awha",
+      "url": "https://open.spotify.com/track/0qagB5q8Pb3ws2FV2UXlDZ"
+    },
+    {
+      "album": {
         "name": "Balance Of Life",
         "url": "https://open.spotify.com/album/79n1gHtnuCU27pmq5wNHNw"
       },
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 179500,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV"
@@ -3768,6 +3786,24 @@
       "duration_ms": 158166,
       "name": "Eternal Oasis",
       "url": "https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc"
+    },
+    {
+      "album": {
+        "name": "Eternalesque",
+        "url": "https://open.spotify.com/album/4Hs618FkmSigv8pWBToicU"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154662,
+      "name": "Eternalesque",
+      "url": "https://open.spotify.com/track/78jKWVURKpY0OIPqWSyqAp"
     },
     {
       "album": {

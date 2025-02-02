@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-2,896 songs - 6 day 15 hr 47 min
+2,897 songs - 6 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Allergy](https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Allergy](https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr) | 2:32 | 2024-09-13 | 2024-09-21 |
 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:09 | 2024-10-03 | 2024-10-12 |
 | [Allá Donde Quiera Que Estés](https://open.spotify.com/track/54R7SZaj51KOHUoTd9UvXb) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Allá Donde Quiera Que Estés](https://open.spotify.com/album/1jz8Kn3UZNZxSs1LyKs53g) | 4:14 | 2025-01-24 | 2025-02-01 |
+| [ALMODÓVAR](https://open.spotify.com/track/4f30Z0UAzLenMOk65NtTYH) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT), [El Último Vecino](https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX) | [ALMODÓVAR](https://open.spotify.com/album/04sMUZNOcazdIOi4DovwUa) | 3:07 | 2025-02-01 |  |
 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 | 2024-07-26 | 2024-08-10 |
 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-10 | 2025-01-18 |
 | [Alondra](https://open.spotify.com/track/5sNfMWrRCDDR1rhGPxWAYP) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Alondra](https://open.spotify.com/album/6LAvAHjjNu4d5odB0Dd5eb) | 3:06 | 2024-07-19 | 2024-07-27 |

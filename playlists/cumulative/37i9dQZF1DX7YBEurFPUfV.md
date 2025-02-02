@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-113 songs - 6 hr 29 min
+116 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Classe S](https://open.spotify.com/track/1iva2ug5cxsrWL1WrmpwrK) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Classe S](https://open.spotify.com/album/5zRg0Ogq4aITVIvPdU3FTd) | 3:58 | 2024-02-24 | 2024-04-11 |
 | [Code](https://open.spotify.com/track/66F8c3Q3fAIdemuIjAQUKD) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Code](https://open.spotify.com/album/4noQSVIRGJ1EdUdfmzItBN) | 5:17 | 2024-02-24 | 2024-05-03 |
 | [Contrat \(Freestyle\)](https://open.spotify.com/track/7mtSlXQIBeNlCUrPGWdZdW) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Contrat \(Freestyle\)](https://open.spotify.com/album/694G5fatgeyqNZhckry9k9) | 3:06 | 2024-07-08 | 2024-10-04 |
+| [DENYA](https://open.spotify.com/track/4qBJW3bFQDC66V6cKWNJw6) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [DENYA](https://open.spotify.com/album/6nCnj3uo4a3GB7ctQeqVbV) | 6:00 | 2025-02-01 |  |
 | [Dernier But](https://open.spotify.com/track/3kMhlmBTwtJZpnQ0fRusIm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Dernier But](https://open.spotify.com/album/5sQkqxcvyC4hJBlvWx0Gro) | 3:04 | 2024-12-21 |  |
 | [Dmou3 Ellil](https://open.spotify.com/track/7lPKZ2HWDzWezgbSW1UDjW) | [Blidog](https://open.spotify.com/artist/7JZ59mMjiH3FG9SEKqfS8Z) | [Dmou3 Ellil](https://open.spotify.com/album/6U1llPKCElO0niX3VuM3T4) | 3:38 | 2024-02-24 | 2024-09-19 |
 | [DRILL MENA](https://open.spotify.com/track/2BVVXtq5DYowMXCumxB85B) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [DRILL MENA](https://open.spotify.com/album/1NhhAIb1qud4wh9Ih8xkTm) | 2:54 | 2024-02-24 |  |
@@ -72,6 +73,7 @@
 | [Lella El Baya](https://open.spotify.com/track/0VLispf4BLgivvxIpaW6Ad) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [Lella El Baya](https://open.spotify.com/album/4o0JIe4ijtniXvoCmNvRR4) | 2:56 | 2024-02-24 | 2024-05-04 |
 | [Lezem Lezem](https://open.spotify.com/track/3JAV7VqOYEQDT7tFFfLSqY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Lezem Lezem](https://open.spotify.com/album/46VkK0IxKyKGBCJGt2BgGI) | 2:28 | 2024-02-24 | 2024-07-05 |
 | [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 | 2024-10-31 |  |
+| [Machefounich \| ماشافونيش](https://open.spotify.com/track/2lXA71K1NU6XMFaMUNOSFm) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Machefounich \| ماشافونيش](https://open.spotify.com/album/2SkGb7EeKzUq2PUQYZzQZK) | 2:59 | 2025-02-01 |  |
 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2024-02-24 |  |
 | [MALADIE](https://open.spotify.com/track/1H9LBYPwEAR0du08prGBGA) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [MALADIE](https://open.spotify.com/album/0i19bbIr56jXJpFiThxq9D) | 3:46 | 2024-05-03 | 2024-11-22 |
 | [MANNENI](https://open.spotify.com/track/6DTfaZr5t4Ab32OrmTlhTJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [MANNENI](https://open.spotify.com/album/2vJbcsQ4YTONc1Tkq0U0dk) | 4:00 | 2024-02-24 | 2024-12-06 |
@@ -107,19 +109,20 @@
 | [Souvenir](https://open.spotify.com/track/3sajl2Mtz02P2QysiiDB6W) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Souvenir](https://open.spotify.com/album/5wVVL0wIYIJT2k08l5ysQi) | 2:57 | 2024-05-24 |  |
 | [Stava Bene](https://open.spotify.com/track/0uEjppwk80YQMkyW4eWleQ) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Stava Bene](https://open.spotify.com/album/2WYGHDw0lmUlgKGlsY2FTF) | 3:44 | 2024-04-18 | 2024-06-01 |
 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 | 2024-02-24 | 2024-04-19 |
-| [Sur La Tête De Ma Mère](https://open.spotify.com/track/6FdXUFCdk2oTBltsS216gC) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [Sur La Tête De Ma Mère](https://open.spotify.com/album/3nktcC8HVPUiJP5cdUYnJh) | 3:03 | 2024-02-24 |  |
+| [Sur La Tête De Ma Mère](https://open.spotify.com/track/6FdXUFCdk2oTBltsS216gC) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [Sur La Tête De Ma Mère](https://open.spotify.com/album/3nktcC8HVPUiJP5cdUYnJh) | 3:03 | 2024-02-24 | 2025-02-02 |
 | [Tamam \- تمام](https://open.spotify.com/track/5uEEIZTLKtQjHXCKpqcAqz) | [Klay BBJ](https://open.spotify.com/artist/2FL58smO7JsL10CYirRdkO) | [Tamam \(تمام\)](https://open.spotify.com/album/28IxyUCkogf2mh0hxv6fOS) | 3:50 | 2024-02-24 | 2025-01-10 |
 | [Ti Amo](https://open.spotify.com/track/7a2d5nTzGM6SfQwMk6lzM3) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Ti Amo](https://open.spotify.com/album/0fNoucZFlVIsQhJiZYsL1p) | 3:00 | 2024-05-29 |  |
+| [Vision](https://open.spotify.com/track/6lv8cTrryrBTXlI8ur5cBS) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Vision](https://open.spotify.com/album/6iWH0XxDrU4ByDuguQXYIU) | 2:44 | 2025-02-01 |  |
 | [Wahda x2](https://open.spotify.com/track/5vZXSl3qJro0cieaZ0xFYt) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Wahda x2](https://open.spotify.com/album/4xGvwM9WS9Fp8UjQHJ8lue) | 3:27 | 2024-02-24 |  |
 | [Wasitkom](https://open.spotify.com/track/3cRvl8WM9Rqn4J92Ud3tSa) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wasitkom](https://open.spotify.com/album/6pAdQjbshmsr3YTzVGebVz) | 5:57 | 2024-04-10 | 2024-07-09 |
 | [Welou](https://open.spotify.com/track/686PvZSfRMuquXf7GzZsz4) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Welou](https://open.spotify.com/album/5RxtQOX7YmRWrlF4jLMAzV) | 3:12 | 2024-02-24 | 2024-04-26 |
-| [Wink](https://open.spotify.com/track/1Ap8lLNB2GTqPkDNA9tNTu) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wink](https://open.spotify.com/album/5tUvADNs95L0VWJ0MR2uSz) | 3:37 | 2025-01-06 |  |
+| [Wink](https://open.spotify.com/track/1Ap8lLNB2GTqPkDNA9tNTu) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wink](https://open.spotify.com/album/5tUvADNs95L0VWJ0MR2uSz) | 3:37 | 2025-01-06 | 2025-02-02 |
 | [Ya Ghali](https://open.spotify.com/track/1yNQQl0pUxWwJcy2Uhln0Q) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 3:12 | 2024-10-31 |  |
 | [YA LATIF](https://open.spotify.com/track/5vnEgymA5OFDOf3MOUshFs) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [YA LATIF](https://open.spotify.com/album/4xiBtG94NHc23MN6lPZ97j) | 2:54 | 2024-11-08 |  |
 | [Ya Rayah](https://open.spotify.com/track/6mYu6MhifCSC359Zf3sxG0) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Ya Rayah](https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t) | 3:23 | 2024-10-10 |  |
 | [YOU BETTER KNOW](https://open.spotify.com/track/3HL9UzSrHbNmmZCknkIsBR) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz) | [YOU BETTER KNOW](https://open.spotify.com/album/42Bs6xKuidXffHTFOAM89H) | 2:28 | 2025-01-09 |  |
 | [Youm Wara Youm](https://open.spotify.com/track/7ArNRveJLl0IiY6gI8mzGj) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Youm Wara Youm](https://open.spotify.com/album/1rcdwiwJpjLasS3JRKpwQW) | 3:44 | 2024-08-28 | 2024-11-27 |
 | [Zhar](https://open.spotify.com/track/0pQ1pQ3eBo4iUGfs0wx4MY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Zhar](https://open.spotify.com/album/7DjgxzLWhW5tuL0TqneH1c) | 2:37 | 2024-08-20 | 2024-11-09 |
-| [ليالي حمرة](https://open.spotify.com/track/4VFVWwgJE5MBSqxzZzmA6M) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [ليالي حمرة](https://open.spotify.com/album/65OJJ5zF0JXETjgsdLUGBO) | 2:43 | 2024-07-04 |  |
+| [ليالي حمرة](https://open.spotify.com/track/4VFVWwgJE5MBSqxzZzmA6M) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [ليالي حمرة](https://open.spotify.com/album/65OJJ5zF0JXETjgsdLUGBO) | 2:43 | 2024-07-04 | 2025-02-02 |
 
 \*This playlist was first scraped on 2024-04-08. Prior content cannot be recovered.

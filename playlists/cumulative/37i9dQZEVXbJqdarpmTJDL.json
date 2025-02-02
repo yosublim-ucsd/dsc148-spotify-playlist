@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 168554,
       "name": "10'",
       "url": "https://open.spotify.com/track/1XtVtRtoHFOnn8plAirGWb"
@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Asteromata",
+        "url": "https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175385,
+      "name": "Asteromata",
+      "url": "https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz"
+    },
+    {
+      "album": {
         "name": "Asto",
         "url": "https://open.spotify.com/album/6RiGoShbSEXU7spiKQi8YN"
       },
@@ -4566,6 +4584,24 @@
       "duration_ms": 136258,
       "name": "BANSKO",
       "url": "https://open.spotify.com/track/0VojXGi7cSdHx1VdkdvvHV"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232176,
+      "name": "Baptized In Fear",
+      "url": "https://open.spotify.com/track/0bxRSMz5WY1VuMmOhanE4b"
     },
     {
       "album": {
@@ -6034,7 +6070,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 112300,
       "name": "Book of ra",
       "url": "https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m"
@@ -6942,7 +6978,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 193411,
       "name": "Carvajal",
       "url": "https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17"
@@ -8156,6 +8192,24 @@
       "duration_ms": 138000,
       "name": "Criminale",
       "url": "https://open.spotify.com/track/06Rn9dPc1lxouC62whG3l6"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
       "album": {
@@ -9440,7 +9494,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -12816,7 +12870,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 137821,
       "name": "Feggari",
       "url": "https://open.spotify.com/track/3FP3DPRN3lw2APlsamN6yk"
@@ -12952,6 +13006,24 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
+        "name": "FETIX",
+        "url": "https://open.spotify.com/album/0MJLiwidFMsh0VrIujksn7"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "FETIX",
+      "url": "https://open.spotify.com/track/6pLi4EGcJvdOWBBQ9fDV0e"
     },
     {
       "album": {
@@ -20812,7 +20884,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 177977,
       "name": "Lebron",
       "url": "https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg"
@@ -23974,7 +24046,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 182376,
       "name": "Mesanyxta",
       "url": "https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol"
@@ -28067,6 +28139,24 @@
     },
     {
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234923,
+      "name": "Open Hearts",
+      "url": "https://open.spotify.com/track/0stJVUUSrbEwyFHOp2dRu0"
+    },
+    {
+      "album": {
         "name": "Opinion",
         "url": "https://open.spotify.com/album/2Rs7JqNGweIoPMgmf5zxdW"
       },
@@ -31211,6 +31301,28 @@
     },
     {
       "album": {
+        "name": "PROVLIMA",
+        "url": "https://open.spotify.com/album/2ngKCXVcb91BUtV172sMLJ"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "PROVLIMA",
+      "url": "https://open.spotify.com/track/539dzbXamyNpK1LA9LMWdW"
+    },
+    {
+      "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
       },
@@ -31634,7 +31746,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 141176,
       "name": "Rabanne",
       "url": "https://open.spotify.com/track/5IEfvd0RtX7WITYPiM2cN4"
@@ -32034,6 +32146,32 @@
       "duration_ms": 210923,
       "name": "Refill",
       "url": "https://open.spotify.com/track/0XGFyntSgU5z3lIv4xRR9g"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291192,
+      "name": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)",
+      "url": "https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6"
     },
     {
       "album": {
@@ -34066,7 +34204,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -35783,6 +35921,28 @@
     },
     {
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -37190,6 +37350,28 @@
       "duration_ms": 255483,
       "name": "Timelapse",
       "url": "https://open.spotify.com/track/753Zxm3yOAgS5WJnjNcrNV"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (feat Playboi Carti)",
+      "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {
       "album": {
@@ -39898,7 +40080,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 189622,
       "name": "Vorias",
       "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
@@ -40004,6 +40186,28 @@
       "duration_ms": 317092,
       "name": "wacced out murals",
       "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308575,
+      "name": "Wake Me Up (feat. Justice)",
+      "url": "https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul"
     },
     {
       "album": {

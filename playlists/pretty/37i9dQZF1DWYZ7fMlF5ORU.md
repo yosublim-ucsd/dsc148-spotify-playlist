@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,186 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,211 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 8 | [Comprou](https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Comprou](https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7) | 4:42 |
 | 9 | [Os Anjos Te Louvam \- Ao Vivo](https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:13 |
 | 10 | [Vem](https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 3:42 |
-| 11 | [O Dom da Vida](https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG) | [Fabi Oliveira](https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp), [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [O Dom da Vida](https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG) | 3:48 |
-| 12 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 |
+| 11 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 |
+| 12 | [O Dom da Vida](https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG) | [Fabi Oliveira](https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp), [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [O Dom da Vida](https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG) | 3:48 |
 | 13 | [Emaús](https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Emaús](https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c) | 7:15 |
 | 14 | [Fará Outra Vez](https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [One Vision](https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o) | 4:17 |
 | 15 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |

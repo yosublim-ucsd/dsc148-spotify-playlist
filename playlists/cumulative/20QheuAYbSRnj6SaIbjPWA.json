@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265480,
+      "name": "ARE WE STILL FRIENDS?",
+      "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
+    },
+    {
+      "album": {
         "name": "Leave Before The Lights Come On",
         "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
       },
@@ -135,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Hoy Como Ayer",
+        "url": "https://open.spotify.com/album/12x0ISxr7b5JssrNJWNDPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108617,
+      "name": "Cerca De Ti",
+      "url": "https://open.spotify.com/track/1dmJWX0nWAx5gjDzAohSbO"
+    },
+    {
+      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
       },
@@ -168,6 +204,28 @@
       "duration_ms": 223173,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV"
+    },
+    {
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297422,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/6MyN49pk1GgnsH9owzqVLx"
     },
     {
       "album": {
@@ -1367,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/7kbhOOk0mAzdy3NukjeoXF"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "Spectre",
+      "url": "https://open.spotify.com/track/4Nwrh5BlZ8I31znYQULS7G"
+    },
+    {
+      "album": {
         "name": "hugo",
         "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
       },
@@ -1382,6 +1458,28 @@
       "duration_ms": 180723,
       "name": "Speed Of Plight",
       "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
+    },
+    {
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404106,
+      "name": "Stan",
+      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
     },
     {
       "album": {
@@ -1436,6 +1534,24 @@
       "duration_ms": 211053,
       "name": "Stuck on the puzzle",
       "url": "https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY"
+    },
+    {
+      "album": {
+        "name": "\u00c1g\u00e6tis byrjun",
+        "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 606850,
+      "name": "Svefn-g-englar",
+      "url": "https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu"
     },
     {
       "album": {

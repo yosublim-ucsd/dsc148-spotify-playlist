@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 200127,
       "name": "El Dorado Fue Cobre",
       "url": "https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb"
@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 187146,
       "name": "Especial",
       "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
@@ -6974,6 +6974,24 @@
       "duration_ms": 194226,
       "name": "Loco Tu Forma De Ser",
       "url": "https://open.spotify.com/track/30vGAyncjru9ifVcFQGAy0"
+    },
+    {
+      "album": {
+        "name": "Loko",
+        "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131754,
+      "name": "Loko",
+      "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
     },
     {
       "album": {
@@ -10348,6 +10366,24 @@
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/0FhNkVsF06mBEzRCFsugDg"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202968,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/0Nhh75wKrxe9qKGXw5mAqX"
     },
     {
       "album": {

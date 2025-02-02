@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74903,
+  "num_followers": 74901,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 210725,
       "name": "Without Your Love (feat. Julia Stone)",
       "url": "https://open.spotify.com/track/6fjLKdbtosUNaCfypOPqvn"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Mid Sentence",
         "url": "https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 184342,
       "name": "Mid Sentence",
       "url": "https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
-      },
-      "artists": [
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where'd You Go",
-        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 219479,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Evermore",
         "url": "https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 223846,
       "name": "Evermore",
       "url": "https://open.spotify.com/track/0ZSLQqw4B8NnCOLSqjpT80"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Where'd You Go",
+        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 219479,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Smile At The Party",
         "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 194884,
       "name": "Furniture",
       "url": "https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 191889,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "By Way of the Sea",
         "url": "https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 259250,
       "name": "By Way of the Sea",
       "url": "https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "duration_ms": 191889,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -859,22 +859,6 @@
       "duration_ms": 232639,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 195512,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -947,22 +931,34 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
+        "name": "The Breach, A Vast Decade",
+        "url": "https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Gena Rose Bruce",
-          "url": "https://open.spotify.com/artist/1SrmRPI6a5cIabFYZZiorA"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 222128,
-      "name": "Lonely (feat. Gena Rose Bruce)",
-      "url": "https://open.spotify.com/track/0MJY00jHH62MhIpEB4BTPf"
+      "duration_ms": 257786,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "duration_ms": 195512,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -983,18 +979,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Breach, A Vast Decade",
-        "url": "https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Gena Rose Bruce",
+          "url": "https://open.spotify.com/artist/1SrmRPI6a5cIabFYZZiorA"
         }
       ],
-      "duration_ms": 257786,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT"
+      "duration_ms": 222128,
+      "name": "Lonely (feat. Gena Rose Bruce)",
+      "url": "https://open.spotify.com/track/0MJY00jHH62MhIpEB4BTPf"
     }
   ],
   "unique_name": "Summer Daze",

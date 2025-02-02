@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Down with Me",
+        "url": "https://open.spotify.com/album/7izGbJdcUqe3h0CoqJ9UPj"
+      },
+      "artists": [
+        {
+          "name": "NYAKI",
+          "url": "https://open.spotify.com/artist/1hElvFQvJ9TtVzwyX50XWP"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205874,
+      "name": "Down with Me",
+      "url": "https://open.spotify.com/track/16PYbLlyjjgGgnFbnr5yaT"
+    },
+    {
+      "album": {
         "name": "Electric Feeling",
         "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
       },
@@ -652,6 +670,28 @@
       "duration_ms": 241768,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3cfs0TtaFisZ9d1mytwQvB"
+      },
+      "artists": [
+        {
+          "name": "Dante Klein",
+          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
+        },
+        {
+          "name": "Raven & Kreyn",
+          "url": "https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5UA23VfYZt4RZkF6g3nZAp"
     },
     {
       "album": {
@@ -2468,6 +2508,28 @@
       "duration_ms": 163120,
       "name": "Thank You For Breathing",
       "url": "https://open.spotify.com/track/5kTmFfy5oE4hph7PK4nU9Q"
+    },
+    {
+      "album": {
+        "name": "The Lights",
+        "url": "https://open.spotify.com/album/5FdJ9QhTY6Rk1ojFRxXbG1"
+      },
+      "artists": [
+        {
+          "name": "Capa (Official)",
+          "url": "https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170572,
+      "name": "The Lights",
+      "url": "https://open.spotify.com/track/3lyva1vdXEt40kkS1hffW0"
     },
     {
       "album": {

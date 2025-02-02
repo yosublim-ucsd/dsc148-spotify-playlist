@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=9xF4d6\-CQFmtXPubREvJdQ>Sjava</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,827 likes - 108 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,872 likes - 108 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

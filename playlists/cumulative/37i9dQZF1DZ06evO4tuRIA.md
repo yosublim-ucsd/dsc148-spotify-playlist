@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 54 min
+81 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [La Flechiza](https://open.spotify.com/track/25uKb1KGbYRB0QXepM67Oi) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Gabriel Silva](https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:24 | 2024-09-02 | 2024-10-02 |
 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 | 2024-01-29 |  |
 | [Las Caravanas](https://open.spotify.com/track/3geTjtaleLUKu8yIkj3A14) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Las Caravanas](https://open.spotify.com/album/2nYuw5IYnD73NmPzjL0vjP) | 3:17 | 2024-01-29 | 2024-08-27 |
+| [Loko](https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Loko](https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx) | 2:11 | 2025-02-02 |  |
 | [Los Recuerdos \(feat\. Arsenal Efectivo\)](https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:49 | 2024-01-29 | 2024-04-03 |
 | [MAKABELICOS](https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [MAKABELICOS](https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei) | 3:07 | 2024-04-15 |  |
 | [Mi Talento](https://open.spotify.com/track/5AXJJsYCu7WafYOqM9gPom) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:29 | 2024-08-31 |  |

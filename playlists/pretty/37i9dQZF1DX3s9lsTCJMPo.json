@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 121339,
+  "num_followers": 121380,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca 101 Vol. 4",
-        "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
-      },
-      "artists": [
-        {
-          "name": "Imagi Nation Brass",
-          "url": "https://open.spotify.com/artist/2C7n4hoejvKTvmJf8w6n8e"
-        }
-      ],
-      "duration_ms": 382373,
-      "name": "Theresa Rocking",
-      "url": "https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2",
         "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 438600,
       "name": "Doh Wine",
       "url": "https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca 101 Vol. 4",
+        "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
+      },
+      "artists": [
+        {
+          "name": "Imagi Nation Brass",
+          "url": "https://open.spotify.com/artist/2C7n4hoejvKTvmJf8w6n8e"
+        }
+      ],
+      "duration_ms": 382373,
+      "name": "Theresa Rocking",
+      "url": "https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
       },
       "artists": [
         {
-          "name": "General Grant",
-          "url": "https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Rev the Engine",
-      "url": "https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q"
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1039,6 +1043,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "General Grant",
+          "url": "https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Rev the Engine",
+      "url": "https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "The Purple Heart Riddim",
         "url": "https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 183490,
       "name": "So Long",
       "url": "https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 218549,
-      "name": "Happiest Man Alive",
-      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "X Man",
         "url": "https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 221776,
       "name": "X Man",
       "url": "https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 218549,
+      "name": "Happiest Man Alive",
+      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Heavy Duty",
+        "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Big Truck",
+      "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 219906,
       "name": "Wave Wid Me",
       "url": "https://open.spotify.com/track/3IOvWPwF1PXTD4OQ5no45s"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Heavy Duty",
-        "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
     },
     {
       "added_at": "2024-08-06 01:00:53",

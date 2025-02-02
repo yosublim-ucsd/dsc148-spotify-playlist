@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 46 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 46 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 19 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
 | 20 | [Time Out](https://open.spotify.com/track/0O1BPly9rZtkpwOkmbeZ9T) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:40 |
 | 21 | [Something](https://open.spotify.com/track/5JDV9OrKjeNkudakqwp9on) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 3:07 |
-| 22 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
-| 23 | [Pokémon](https://open.spotify.com/track/7n5DdRu1zLuw4yamf4dGZ7) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Pokémon](https://open.spotify.com/album/1ffliwfQKRLMoOnmn5VWKw) | 4:26 |
+| 22 | [Pokémon](https://open.spotify.com/track/7n5DdRu1zLuw4yamf4dGZ7) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Pokémon](https://open.spotify.com/album/1ffliwfQKRLMoOnmn5VWKw) | 4:26 |
+| 23 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
 | 24 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 |
 | 25 | [Feeling](https://open.spotify.com/track/6FAlvEVVjghOb5WjWRuknl) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Timofey](https://open.spotify.com/artist/6MteslgsqpOUtewd6Pw1Uq) | [Feeling](https://open.spotify.com/album/68YUOdsBc9jRCAidJjSmM5) | 2:48 |
 | 26 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [S$DD](https://open.spotify.com/artist/1WekWbvgbqnfThxOixlYHw), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 29 | [Chasing Dreams](https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg) | [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB) | [Welcome to 101](https://open.spotify.com/album/2HAYtoHrVCzfyNi4XY7jW7) | 1:38 |
 | 30 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 |
 | 31 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 |
-| 32 | [Nostalgic](https://open.spotify.com/track/505idOF1JBk7WXlJ75BALj) | [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Nostalgic](https://open.spotify.com/album/0ANAg2M3iPZtgDwzQ4sIqk) | 2:20 |
-| 33 | [Samir](https://open.spotify.com/track/27D8aQY0iyeg2Npq1QrFdd) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:26 |
+| 32 | [Samir](https://open.spotify.com/track/27D8aQY0iyeg2Npq1QrFdd) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:26 |
+| 33 | [Nostalgic](https://open.spotify.com/track/505idOF1JBk7WXlJ75BALj) | [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Nostalgic](https://open.spotify.com/album/0ANAg2M3iPZtgDwzQ4sIqk) | 2:20 |
 | 34 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 35 | [No One Else](https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:26 |
 | 36 | [21 Candles](https://open.spotify.com/track/5eFlBcW5apxIXqyfTzjBMp) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:44 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 45 | [Priority](https://open.spotify.com/track/0jgIsq6BtybOp4R1udNuOP) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Priority](https://open.spotify.com/album/6SGPIdhRflWG0jvIp7ftGj) | 3:16 |
 | 46 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 |
 
-Snapshot ID: `AboXyAAAAADcBJPjGHcgtMxQq+fmHoIx`
+Snapshot ID: `AbodSgAAAADasejdMu6mDSkzidGFR9oD`

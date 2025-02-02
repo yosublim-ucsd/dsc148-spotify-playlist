@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Los \u00c1ngeles Azules, Thalia ",
-  "num_followers": 274030,
+  "num_followers": 274031,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2025-01-31 09:26:23",
       "album": {
+        "name": "Te Perdonar\u00eda",
+        "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 156379,
+      "name": "Te Perdonar\u00eda",
+      "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
+    },
+    {
+      "added_at": "2025-01-31 09:26:23",
+      "album": {
         "name": "Lo Mismo Que A M\u00ed",
         "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 186360,
       "name": "Lo Mismo Que A M\u00ed",
       "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
-    },
-    {
-      "added_at": "2025-01-31 09:26:23",
-      "album": {
-        "name": "Te Perdonar\u00eda",
-        "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 156379,
-      "name": "Te Perdonar\u00eda",
-      "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
     },
     {
       "added_at": "2025-01-31 09:26:23",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-01-31 09:26:23",
       "album": {
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
+    },
+    {
+      "added_at": "2025-01-31 09:26:23",
+      "album": {
         "name": "PA'L CORA EP. 01",
         "url": "https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 184864,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
-    },
-    {
-      "added_at": "2025-01-31 09:26:23",
-      "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
     },
     {
       "added_at": "2025-01-31 09:26:23",
@@ -839,22 +839,18 @@
     {
       "added_at": "2025-01-31 09:26:23",
       "album": {
-        "name": "CONTACTO CERO",
-        "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
       "artists": [
         {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 123136,
-      "name": "CONTACTO CERO",
-      "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
+      "duration_ms": 186133,
+      "name": "Amigos Nunca",
+      "url": "https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW"
     },
     {
       "added_at": "2025-01-31 09:26:23",
@@ -879,18 +875,22 @@
     {
       "added_at": "2025-01-31 09:26:23",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Amigos Nunca",
-      "url": "https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW"
+      "duration_ms": 123136,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
     },
     {
       "added_at": "2025-01-31 09:26:23",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-01-31 09:26:23",
       "album": {
-        "name": "ENCUENTROS",
-        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 180786,
-      "name": "OTRO CAP\u00cdTULO",
-      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
-    },
-    {
-      "added_at": "2025-01-31 09:26:23",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
         "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 236813,
       "name": "Cumbia Azteca",
       "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
+    },
+    {
+      "added_at": "2025-01-31 09:26:23",
+      "album": {
+        "name": "ENCUENTROS",
+        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 180786,
+      "name": "OTRO CAP\u00cdTULO",
+      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
     },
     {
       "added_at": "2025-01-31 09:26:23",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-01-31 09:26:23",
       "album": {
-        "name": "Coraz\u00f3n Tatuado",
-        "url": "https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 199368,
-      "name": "Coraz\u00f3n Tatuado",
-      "url": "https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl"
-    },
-    {
-      "added_at": "2025-01-31 09:26:23",
-      "album": {
         "name": "Chimenea (En Vivo)",
         "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 180491,
       "name": "Chimenea - En Vivo",
       "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
+    },
+    {
+      "added_at": "2025-01-31 09:26:23",
+      "album": {
+        "name": "Coraz\u00f3n Tatuado",
+        "url": "https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 199368,
+      "name": "Coraz\u00f3n Tatuado",
+      "url": "https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl"
     },
     {
       "added_at": "2025-01-31 09:26:23",

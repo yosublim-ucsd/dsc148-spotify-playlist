@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-648 songs - 1 day 11 hr 31 min
+649 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,7 +521,7 @@
 | [Spaceman](https://open.spotify.com/track/1TPevUpxC1UyroBJWuMDtF) | [FITZ](https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Head Up High](https://open.spotify.com/album/0NcUgJYxrZwbrccKZLbmqD) | 2:34 | 2021-03-26 | 2023-03-29 |
 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-02-16 |  |
 | [Stand up Tragedy](https://open.spotify.com/track/2tGSIjqZ23cTR4fYTc1MbX) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Stand Up Tragedy](https://open.spotify.com/album/4HfhpmiqNwtvLoZOSUIqdB) | 3:45 | 2022-03-11 | 2022-04-18 |
-| [stay late](https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [stay late](https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC) | 2:53 | 2024-08-16 |  |
+| [stay late](https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [stay late](https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC) | 2:53 | 2024-08-16 | 2025-02-02 |
 | [Stella Brown](https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 3:06 | 2022-06-27 |  |
 | [Stockholm](https://open.spotify.com/track/3EB5N4DHgM7Ktk8yy1EgYY) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [Stockholm](https://open.spotify.com/album/5Y7O0AZ9YbNdJ6PalJC5GM) | 3:11 | 2022-03-11 | 2022-04-21 |
 | [Stolen Dance](https://open.spotify.com/track/5tjrH5xrpkgKgYd8zQgU8X) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Stolen Dance](https://open.spotify.com/album/4C58vZjv4ya4YOZZhiE3VK) | 5:11 | 2022-03-11 | 2022-04-21 |
@@ -610,6 +610,7 @@
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-06-27 |  |
 | [Waking up the World](https://open.spotify.com/track/1eu9N3gFrVQa9UzffUVUC6) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Waking up the World](https://open.spotify.com/album/3X9wEOXiZRDVSafx8s2rFR) | 3:43 | 2021-03-10 | 2022-06-26 |
 | [Wallflowers](https://open.spotify.com/track/6rJSjXljtoudkJPyQS1iul) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [FELT](https://open.spotify.com/album/6LFjNLaxGgA3O4mwF0YtRd) | 3:55 | 2022-03-11 | 2022-04-21 |
+| [Wanna Start A Band?](https://open.spotify.com/track/34ZmfrVwRAgTFSgMSmifbD) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Wanna Start A Band?](https://open.spotify.com/album/7keV9C1PycJqwXce1awUwZ) | 2:53 | 2025-01-31 |  |
 | [Washed Up Together](https://open.spotify.com/track/394fSwicFotuONejRw2qRH) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [Washed Up Together](https://open.spotify.com/album/2Yt2GI23fNYlNAWbiOcZ8f) | 2:58 | 2022-03-11 | 2022-04-21 |
 | [Wasting Time](https://open.spotify.com/track/0vwFuY4xsUvrFk4D74DqLQ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Run For Cover](https://open.spotify.com/album/0MNJPT9XkNnCczT1VZcdnD) | 3:08 | 2021-03-10 | 2022-04-20 |
 | [Wasting Time](https://open.spotify.com/track/79edhUCJIHerzdr8Tgclw7) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Wasting Time](https://open.spotify.com/album/0jgGJKB3A9CHlDj9w8qvMV) | 3:43 | 2021-03-10 | 2022-07-29 |

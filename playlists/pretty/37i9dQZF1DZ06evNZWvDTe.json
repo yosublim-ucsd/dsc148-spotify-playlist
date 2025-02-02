@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12080,
+  "num_followers": 12089,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADbWhnFuAnKM5HCyc4d1JEV",
+  "snapshot_id": "Z5wSgAAAAADl0r2si/RbFq3yKJddnTrH",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
       },
       "artists": [
         {
@@ -484,13 +484,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 191719,
-      "name": "Anadwo (feat. King Promise)",
-      "url": "https://open.spotify.com/track/5y1xgWDqsyrcOY7xrlwakX"
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
       },
       "artists": [
         {
@@ -524,13 +524,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+      "duration_ms": 191719,
+      "name": "Anadwo (feat. King Promise)",
+      "url": "https://open.spotify.com/track/5y1xgWDqsyrcOY7xrlwakX"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
       "duration_ms": 152369,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Strength Of A Woman (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
     },
     {
       "added_at": null,
@@ -611,6 +591,26 @@
       "duration_ms": 225307,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Strength Of A Woman (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
     },
     {
       "added_at": null,
@@ -678,31 +678,15 @@
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+      "duration_ms": 287261,
+      "name": "Always on My Mind (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
       "added_at": null,
@@ -723,6 +707,26 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -750,15 +754,11 @@
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 287261,
-      "name": "Always on My Mind (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 212932,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 210133,
       "name": "Hate",
       "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 212932,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oofeets",
-        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Prince Bright",
-          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Oofeets",
-      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homicide",
         "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 183477,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oofeets",
+        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Oofeets",
+      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
     },
     {
       "added_at": null,

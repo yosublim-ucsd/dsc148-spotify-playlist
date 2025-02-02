@@ -825,6 +825,28 @@
     },
     {
       "album": {
+        "name": "No Me Borres",
+        "url": "https://open.spotify.com/album/6Z527zpsy6DqiNCLpiwxK6"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231435,
+      "name": "No Me Borres",
+      "url": "https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x"
+    },
+    {
+      "album": {
         "name": "Limerencia",
         "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },

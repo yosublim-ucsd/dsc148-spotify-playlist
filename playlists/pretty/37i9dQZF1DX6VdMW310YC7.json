@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3923799,
+  "num_followers": 3923909,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
+        "name": "DESCEND",
+        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
         }
       ],
-      "duration_ms": 361080,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
+      "duration_ms": 220245,
+      "name": "DESCEND",
+      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1087,18 +1083,22 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
-        "name": "DESCEND",
-        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 220245,
-      "name": "DESCEND",
-      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
+      "duration_ms": 361080,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        },
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 188454,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
+    },
+    {
+      "added_at": "2025-01-31 05:00:23",
+      "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
       },
@@ -1239,22 +1259,6 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
-        "name": "Say You Want To Fly",
-        "url": "https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce"
-      },
-      "artists": [
-        {
-          "name": "Otherwish",
-          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Say You Want To Fly",
-      "url": "https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W"
-    },
-    {
-      "added_at": "2025-01-31 05:00:23",
-      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
       },
@@ -1275,6 +1279,22 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
+        "name": "Say You Want To Fly",
+        "url": "https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce"
+      },
+      "artists": [
+        {
+          "name": "Otherwish",
+          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Say You Want To Fly",
+      "url": "https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W"
+    },
+    {
+      "added_at": "2025-01-31 05:00:23",
+      "album": {
         "name": "Train of Thoughts",
         "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 206097,
       "name": "Train of Thoughts",
       "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
-    },
-    {
-      "added_at": "2025-01-31 05:00:23",
-      "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        },
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 188454,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
+        "name": "Hold You EP",
+        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
+    },
+    {
+      "added_at": "2025-01-31 05:00:23",
+      "album": {
         "name": "Best Life",
         "url": "https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 239717,
       "name": "Best Life",
       "url": "https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC"
-    },
-    {
-      "added_at": "2025-01-31 05:00:23",
-      "album": {
-        "name": "Hold You EP",
-        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2025-01-31 05:00:23",
+      "album": {
         "name": "Beautiful Life (Madism Remix)",
         "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
-    },
-    {
-      "added_at": "2025-01-31 05:00:23",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
       },
@@ -1567,18 +1567,22 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+        "name": "Behind The Line",
+        "url": "https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9"
       },
       "artists": [
         {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+          "name": "Enfant Sauvage",
+          "url": "https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D"
+        },
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
         }
       ],
-      "duration_ms": 215000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
+      "duration_ms": 333213,
+      "name": "Behind The Line",
+      "url": "https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1603,26 +1607,18 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
-        "name": "No Ending (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs"
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
       },
       "artists": [
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         }
       ],
-      "duration_ms": 259474,
-      "name": "No Ending - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL"
+      "duration_ms": 215000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1643,6 +1639,30 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2025-01-31 05:00:23",
+      "album": {
+        "name": "No Ending (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 259474,
+      "name": "No Ending - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1679,26 +1699,6 @@
       "duration_ms": 243934,
       "name": "It's Ok It's Alright",
       "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
-    },
-    {
-      "added_at": "2025-01-31 05:00:23",
-      "album": {
-        "name": "Behind The Line",
-        "url": "https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9"
-      },
-      "artists": [
-        {
-          "name": "Enfant Sauvage",
-          "url": "https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D"
-        },
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        }
-      ],
-      "duration_ms": 333213,
-      "name": "Behind The Line",
-      "url": "https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1767,22 +1767,18 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
-        "name": "Favourite Place",
-        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
         }
       ],
-      "duration_ms": 180100,
-      "name": "Favourite Place",
-      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+      "duration_ms": 195250,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1803,18 +1799,22 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
       "artists": [
         {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
         }
       ],
-      "duration_ms": 195250,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
     },
     {
       "added_at": "2025-01-31 05:00:23",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2025-01-31 05:00:23",
       "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Future Hearts",
+      "url": "https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs"
+    },
+    {
+      "added_at": "2025-01-31 05:00:23",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6vKDIm7hQAZXncP0Amssaj"
       },
@@ -1915,30 +1935,6 @@
       "duration_ms": 200105,
       "name": "Essentialism.",
       "url": "https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR"
-    },
-    {
-      "added_at": "2025-01-31 05:00:23",
-      "album": {
-        "name": "Lost In The Melody",
-        "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
-      },
-      "artists": [
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "Dinia",
-          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
-        }
-      ],
-      "duration_ms": 182444,
-      "name": "Lost In The Melody",
-      "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
     }
   ],
   "unique_name": "Chill Tracks",

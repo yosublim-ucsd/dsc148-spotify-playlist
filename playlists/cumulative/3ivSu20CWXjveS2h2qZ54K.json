@@ -2837,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "ALMOD\u00d3VAR",
+        "url": "https://open.spotify.com/album/04sMUZNOcazdIOi4DovwUa"
+      },
+      "artists": [
+        {
+          "name": "arrec\u00ed0",
+          "url": "https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT"
+        },
+        {
+          "name": "El \u00daltimo Vecino",
+          "url": "https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187635,
+      "name": "ALMOD\u00d3VAR",
+      "url": "https://open.spotify.com/track/4f30Z0UAzLenMOk65NtTYH"
+    },
+    {
+      "album": {
         "name": "hi, my name is insecure.",
         "url": "https://open.spotify.com/album/0eMtRVx589kCihum41ixGw"
       },

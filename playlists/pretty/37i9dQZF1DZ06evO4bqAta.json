@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 544127,
+  "num_followers": 544644,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACS88bpa/3R+/ngnVgZeBA9",
+  "snapshot_id": "Z5wSgAAAAACnLct2kJAhs69TOZp/bgsE",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Out Of Mind",
-        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 277106,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Out Of Mind",
+        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 143066,
-      "name": "I Threw It All Away",
-      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
+      "duration_ms": 451133,
+      "name": "Visions of Johanna",
+      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 451133,
-      "name": "Visions of Johanna",
-      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
+      "duration_ms": 143066,
+      "name": "I Threw It All Away",
+      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
       "duration_ms": 376160,
       "name": "Jokerman",
       "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Tonight I'll Be Staying Here with You",
-      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 324800,
       "name": "Gotta Serve Somebody",
       "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Tonight I'll Be Staying Here with You",
+      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
     }
   ],
   "unique_name": "This Is Bob Dylan",

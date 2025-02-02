@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-845 songs - 3 day 2 hr 3 min
+846 songs - 3 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Inhibitions \- Edit](https://open.spotify.com/track/5ugyEMUjFOX7FS2Ao1Vyak) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Inhibitions](https://open.spotify.com/album/4WAK9ZcEKEJVI5zXXSQBwn) | 4:36 | 2022-09-02 | 2022-10-30 |
 | [Inkinga](https://open.spotify.com/track/7Cxb4S3x3NQTszNYPMoTAw) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [Overtone](https://open.spotify.com/album/64lUQw9YO9oTYDe4cmRB1m) | 3:56 | 2021-05-07 | 2022-07-04 |
 | [Inner Self](https://open.spotify.com/track/4nDWcmDZu39ycWLYvIpaaP) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Broken Ep](https://open.spotify.com/album/2ouzgPQYohSjyHsLkaVBaj) | 6:57 | 2021-12-13 | 2022-07-07 |
-| [Innocent](https://open.spotify.com/track/6OQsyB9GiCflqxFRY2RBQs) | [Re.You](https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Innocent](https://open.spotify.com/album/4LywYeuBUjMzFS1vfXSeFC) | 3:18 | 2025-01-17 |  |
+| [Innocent](https://open.spotify.com/track/6OQsyB9GiCflqxFRY2RBQs) | [Re.You](https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Innocent](https://open.spotify.com/album/4LywYeuBUjMzFS1vfXSeFC) | 3:18 | 2025-01-17 | 2025-02-02 |
 | [Inside My Head](https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Inside My Head](https://open.spotify.com/album/2jjIP47viQxEy1d6JOp9MW) | 6:50 | 2022-04-15 | 2022-07-29 |
 | [Intina](https://open.spotify.com/track/0J7Doa7oWtMqSNTifFjpZJ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [Maasai](https://open.spotify.com/album/51VRG6BjxHM2nZ9a7qEbPD) | 3:13 | 2024-03-29 | 2024-06-17 |
 | [Intuición](https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Sil Romero](https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG) | [Intuición](https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE) | 4:12 | 2022-05-06 | 2023-11-18 |
@@ -718,6 +718,7 @@
 | [Synthopia](https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Synthopia / Cicada](https://open.spotify.com/album/5GieeeiYau5SSbD0C5FI8N) | 8:39 | 2021-04-21 | 2022-04-21 |
 | [Synthwave](https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Feathers & Bones](https://open.spotify.com/album/5zbJlJNXWeaDybNeqKjUiN) | 5:43 | 2023-06-02 | 2023-07-16 |
 | [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 | 2023-04-21 | 2024-01-13 |
+| [Take It Easy on Me](https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Take It Easy on Me](https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U) | 2:39 | 2025-01-31 |  |
 | [Tantale](https://open.spotify.com/track/011mlIOhqipYb0bttQZnuX) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Ra\*faelle](https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO) | [Tantale](https://open.spotify.com/album/0KguNfeAVd9Jyv5p4m65ao) | 8:35 | 2022-07-08 | 2022-07-29 |
 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 | 2024-09-06 |  |
 | [Tarantism](https://open.spotify.com/track/5YWJDRdl0kh913dc17ZkxI) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Retza](https://open.spotify.com/artist/4DcuYkIAYuHiWl0AOiY9Vy) | [Euneirophrenia EP](https://open.spotify.com/album/25q2hciAYKUzf7ShqviLFd) | 6:57 | 2021-04-21 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 722472,
+  "num_followers": 722596,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAC0qSMReF64dKAFblffrx5c",
+  "snapshot_id": "Z5wSgAAAAADGuILDy/EeDXy9CRr6Lv7y",
   "tracks": [
     {
       "added_at": null,
@@ -859,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Save The Teen",
-        "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 190137,
-      "name": "Shelter (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
+      "duration_ms": 170273,
+      "name": "Kiss Me Like The World Is Ending",
+      "url": "https://open.spotify.com/track/7rYRIG2g3zW0ERcVTenxra"
     }
   ],
   "unique_name": "This Is Avril Lavigne",

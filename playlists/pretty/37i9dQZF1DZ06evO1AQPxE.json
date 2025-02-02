@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 188620,
+  "num_followers": 188659,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAACjTiR0ADdnIU1JUHvbQpmL",
+  "snapshot_id": "Z5wSgAAAAABZgcKXFjJ1KTflrsxIQeCU",
   "tracks": [
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
       "artists": [
         {
@@ -192,13 +192,13 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "jetsonmade",
+          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
         }
       ],
-      "duration_ms": 128409,
-      "name": "THRU THE NIGHT (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v"
+      "duration_ms": 125302,
+      "name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
+      "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
       "artists": [
         {
@@ -264,13 +264,13 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "jetsonmade",
-          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 125302,
-      "name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
-      "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
+      "duration_ms": 128409,
+      "name": "THRU THE NIGHT (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v"
     },
     {
       "added_at": null,

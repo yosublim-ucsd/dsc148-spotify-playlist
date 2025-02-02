@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B.",
-  "num_followers": 196720,
+  "num_followers": 196762,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
+        "name": "Amiguita como t\u00fa",
+        "url": "https://open.spotify.com/album/0HaFvXnLbU5XkeBOdElMVu"
+      },
+      "artists": [
+        {
+          "name": "IZARO",
+          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Amiguita como t\u00fa",
+      "url": "https://open.spotify.com/track/4PbRIvIm1t92ecszR1TNr9"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
         "name": "Catro Cousas",
         "url": "https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY"
       },
@@ -687,42 +707,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Amiguita como t\u00fa",
-        "url": "https://open.spotify.com/album/0HaFvXnLbU5XkeBOdElMVu"
-      },
-      "artists": [
-        {
-          "name": "IZARO",
-          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 186098,
-      "name": "Amiguita como t\u00fa",
-      "url": "https://open.spotify.com/track/4PbRIvIm1t92ecszR1TNr9"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "Nost\u00e0lgia Airlines",
-        "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
-      },
-      "artists": [
-        {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
-        }
-      ],
-      "duration_ms": 176176,
-      "name": "Pura geografia",
-      "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "Necesito Curarme",
         "url": "https://open.spotify.com/album/2sOFoDPNiJ6njKiXv1KBp5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 159146,
       "name": "Necesito Curarme",
       "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "Nost\u00e0lgia Airlines",
+        "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
+      },
+      "artists": [
+        {
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+        }
+      ],
+      "duration_ms": 176176,
+      "name": "Pura geografia",
+      "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "No Me Digas La Verdad",
-        "url": "https://open.spotify.com/album/72Yjfy1e1BQdyqy4srqm4c"
-      },
-      "artists": [
-        {
-          "name": "Vera Fauna",
-          "url": "https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4"
-        },
-        {
-          "name": "Noni Meyers",
-          "url": "https://open.spotify.com/artist/1KmaOhEgiG0WHh3ie3F3HF"
-        }
-      ],
-      "duration_ms": 195389,
-      "name": "No Me Digas La Verdad",
-      "url": "https://open.spotify.com/track/3S9GbQOX6DzHpRKQLBII0F"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 209153,
       "name": "Bailar y Llorar",
       "url": "https://open.spotify.com/track/2r7dqaPDXf5agh2cqFfYjp"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "No Me Digas La Verdad",
+        "url": "https://open.spotify.com/album/72Yjfy1e1BQdyqy4srqm4c"
+      },
+      "artists": [
+        {
+          "name": "Vera Fauna",
+          "url": "https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4"
+        },
+        {
+          "name": "Noni Meyers",
+          "url": "https://open.spotify.com/artist/1KmaOhEgiG0WHh3ie3F3HF"
+        }
+      ],
+      "duration_ms": 195389,
+      "name": "No Me Digas La Verdad",
+      "url": "https://open.spotify.com/track/3S9GbQOX6DzHpRKQLBII0F"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Tu Voz",
-        "url": "https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII"
-      },
-      "artists": [
-        {
-          "name": "Vera Fauna",
-          "url": "https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4"
-        }
-      ],
-      "duration_ms": 263407,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/7awuOF75a20k80EK8PUVSK"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "Las Ganas",
         "url": "https://open.spotify.com/album/1l19EzHzytuJX5h25PTLCm"
       },
@@ -979,34 +963,18 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Involuntario",
-        "url": "https://open.spotify.com/album/6LfnEvb70qUCNej8pjSThO"
+        "name": "Tu Voz",
+        "url": "https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+          "name": "Vera Fauna",
+          "url": "https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4"
         }
       ],
-      "duration_ms": 164538,
-      "name": "Capacidad",
-      "url": "https://open.spotify.com/track/3a05DEOKql1GI1dqLXHzJf"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "escocia",
-        "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 177321,
-      "name": "escocia",
-      "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
+      "duration_ms": 263407,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/7awuOF75a20k80EK8PUVSK"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1027,6 +995,38 @@
       "duration_ms": 213750,
       "name": "Espera",
       "url": "https://open.spotify.com/track/1UqwvHN3GzqQ8E1JRQZ5w6"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "escocia",
+        "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 177321,
+      "name": "escocia",
+      "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "Involuntario",
+        "url": "https://open.spotify.com/album/6LfnEvb70qUCNej8pjSThO"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 164538,
+      "name": "Capacidad",
+      "url": "https://open.spotify.com/track/3a05DEOKql1GI1dqLXHzJf"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "El ef\u00edmero arte de perdonar",
-        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El ef\u00edmero arte de perdonar",
-      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "SORA",
         "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 224000,
       "name": "TECHNO TRISTE",
       "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "El ef\u00edmero arte de perdonar",
+        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El ef\u00edmero arte de perdonar",
+      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1211,38 +1211,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "Espina",
-        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Espina",
-      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "Danzas de Amor y Veneno",
-        "url": "https://open.spotify.com/album/4ojYb3xrBf3rkfScHntCm6"
-      },
-      "artists": [
-        {
-          "name": "Sila Lua",
-          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
-        }
-      ],
-      "duration_ms": 156551,
-      "name": "OJOS",
-      "url": "https://open.spotify.com/track/7IFSzI3yMiAgUaHFPQ4Kw6"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "El Porvenir",
         "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
       },
@@ -1263,38 +1231,18 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "MARIAGREP IS NOT A CRIME",
-        "url": "https://open.spotify.com/album/4RhMVgBSFQfW9e2BUwN214"
+        "name": "Espina",
+        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
       },
       "artists": [
         {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
         }
       ],
-      "duration_ms": 154200,
-      "name": "Mi atenci\u00f3n",
-      "url": "https://open.spotify.com/track/4Nos61GiLFcfQ94fkprZnD"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "sangre y sal",
-        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 171921,
-      "name": "n\u00fameros rojos",
-      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
+      "duration_ms": 183093,
+      "name": "Espina",
+      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1319,6 +1267,58 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
+        "name": "Danzas de Amor y Veneno",
+        "url": "https://open.spotify.com/album/4ojYb3xrBf3rkfScHntCm6"
+      },
+      "artists": [
+        {
+          "name": "Sila Lua",
+          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+        }
+      ],
+      "duration_ms": 156551,
+      "name": "OJOS",
+      "url": "https://open.spotify.com/track/7IFSzI3yMiAgUaHFPQ4Kw6"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "sangre y sal",
+        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 171921,
+      "name": "n\u00fameros rojos",
+      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "MARIAGREP IS NOT A CRIME",
+        "url": "https://open.spotify.com/album/4RhMVgBSFQfW9e2BUwN214"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Mi atenci\u00f3n",
+      "url": "https://open.spotify.com/track/4Nos61GiLFcfQ94fkprZnD"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
         "name": "SUSANA",
         "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 165280,
       "name": "SUSANA",
       "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
-      },
-      "artists": [
-        {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
-        }
-      ],
-      "duration_ms": 338505,
-      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
+        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 338505,
+      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
         "name": "Loros",
         "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 146853,
       "name": "Loros",
       "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "danito",
+        "url": "https://open.spotify.com/album/2KKTCJwzwEeuEO8fOW8JeA"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 237395,
+      "name": "danito",
+      "url": "https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1431,6 +1447,22 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
+        "name": "Desde el amor",
+        "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 173332,
+      "name": "Desde el amor",
+      "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
         "name": "La Bestia que Gritaba Amor en el Coraz\u00f3n del Universo",
         "url": "https://open.spotify.com/album/3wVilni5q5zqQwccJwXVUJ"
       },
@@ -1443,6 +1475,38 @@
       "duration_ms": 104584,
       "name": "los cables de una m\u00e1quina infalible son la imitaci\u00f3n perfecta de las plumas de un \u00e1ngel incorruptible.",
       "url": "https://open.spotify.com/track/71puBzNXW6UP0IhiH42xYT"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "002",
+        "url": "https://open.spotify.com/album/4FRDtcPSafCRj7HtzmRT1w"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "Mi coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0B41ToR8B3Y9LgzAp8tNhx"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
+      },
+      "artists": [
+        {
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+        }
+      ],
+      "duration_ms": 184739,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1507,54 +1571,6 @@
     {
       "added_at": "2025-01-30 23:00:10",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
-      },
-      "artists": [
-        {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
-        }
-      ],
-      "duration_ms": 184739,
-      "name": "V\u00e9rtigo",
-      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "002",
-        "url": "https://open.spotify.com/album/4FRDtcPSafCRj7HtzmRT1w"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 244373,
-      "name": "Mi coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0B41ToR8B3Y9LgzAp8tNhx"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "Desde el amor",
-        "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "Desde el amor",
-      "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
         "name": "Reventarme",
         "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
       },
@@ -1599,6 +1615,22 @@
       "duration_ms": 182400,
       "name": "M\u00e1s Profundidad",
       "url": "https://open.spotify.com/track/5goijdL65FQHzDws8ctgri"
+    },
+    {
+      "added_at": "2025-01-30 23:00:10",
+      "album": {
+        "name": "Todo alrededor",
+        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 248937,
+      "name": "Somos raros",
+      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2025-01-30 23:00:10",
@@ -1671,38 +1703,6 @@
       "duration_ms": 205989,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/19yzA9PaNcxNBDTddBIfpC"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "danito",
-        "url": "https://open.spotify.com/album/2KKTCJwzwEeuEO8fOW8JeA"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 237395,
-      "name": "danito",
-      "url": "https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh"
-    },
-    {
-      "added_at": "2025-01-30 23:00:10",
-      "album": {
-        "name": "Todo alrededor",
-        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 248937,
-      "name": "Somos raros",
-      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2025-01-30 23:00:10",

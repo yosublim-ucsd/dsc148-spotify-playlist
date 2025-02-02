@@ -4,7 +4,7 @@
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Malcriada en portada
 
-174 songs - 7 hr 8 min
+175 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [without you](https://open.spotify.com/track/3rvXFheXdNFNMtqyRkoiPl) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [without you](https://open.spotify.com/album/3Mw09XymU9LZGx5OS5YU4I) | 1:23 | 2024-06-14 |  |
 | [WLTDO](https://open.spotify.com/track/5AUjvH4ACOQj5WxdVjy4W1) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [WLTDO](https://open.spotify.com/album/0TCWMreTiJ3xLi7dECdUCY) | 1:37 | 2024-06-14 | 2025-02-01 |
 | [XX](https://open.spotify.com/track/0UM8QbDQaYJKVWLLFJLsV8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [XX](https://open.spotify.com/album/7w8FldZ8H5n9b1724CCnsD) | 3:32 | 2024-08-02 |  |
+| [XXL](https://open.spotify.com/track/2I4Ahv4wzisiw3G7ZJshBD) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf) | [XXL](https://open.spotify.com/album/1zbbc3CrJ3yRbUCfEwbD1Q) | 2:13 | 2025-01-31 |  |
 | [ya no piensas en mi](https://open.spotify.com/track/2rq9pyG34CN0de1FdqQMx7) | [CRYMES](https://open.spotify.com/artist/2Js99jlxIiJItAAh69aZMM), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n) | [ya no piensas en mi](https://open.spotify.com/album/71u6OOinammNCwTSGzqll0) | 4:18 | 2024-06-14 | 2025-02-01 |
 | [yakuza](https://open.spotify.com/track/1UmYl6GOPbthKTOUMCb8sA) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [yakuza](https://open.spotify.com/album/2y6I4UnL7nwaNzixqRqhDz) | 1:23 | 2025-01-31 |  |
 | [YASURAOKA](https://open.spotify.com/track/2dBe8pMIXUbWwyTXInjJQB) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ) | [YASURAOKA](https://open.spotify.com/album/1sroKrjZ2Vga00Q7bl2KHM) | 3:48 | 2024-10-25 |  |

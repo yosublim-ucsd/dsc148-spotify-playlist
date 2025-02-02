@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Sezer Sarıgöz
 
-203 songs - 10 hr 2 min
+204 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Girdap](https://open.spotify.com/track/21S4rAoDEikVpfrxewfVnq) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Girdap](https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT) | 2:37 | 2024-06-27 | 2024-11-12 |
 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2024-06-27 |  |
 | [Gözlerin Silah](https://open.spotify.com/track/3g2CDmjkF0Jbn4a7znSH0F) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Gözlerin Silah](https://open.spotify.com/album/40vrmeBLOD6yG33ADnmumm) | 2:07 | 2024-12-05 | 2025-01-27 |
+| [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 | 2025-01-31 |  |
 | [Güle Güle Anlattım Seni](https://open.spotify.com/track/3cTwNe8huG0WSiwl3NhYsV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Güle Güle Anlattım Seni](https://open.spotify.com/album/5GtEpsNE9gDVi5pdWPwKtx) | 3:14 | 2024-09-12 | 2024-10-28 |
 | [Gülü Sevdim Dikeni Battı](https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [MELODRAM](https://open.spotify.com/album/0zPAdLw028RRFlspv6SV8H) | 2:20 | 2024-06-27 |  |
 | [Hain](https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Hain](https://open.spotify.com/album/6QQvURc9aYL6RTOEfwF1KD) | 3:21 | 2024-06-27 | 2024-08-04 |
@@ -130,7 +131,7 @@
 | [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 |  |
 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-06-27 | 2024-09-06 |
 | [Mağlup](https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Mağlup](https://open.spotify.com/album/19JJCx7HlJEhhW3oVwphxI) | 2:40 | 2024-11-07 | 2025-01-20 |
-| [Mecnun](https://open.spotify.com/track/7pvJS491DvAF634AxRGUZG) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Mecnun](https://open.spotify.com/album/2zwLL93kAc8TwamDzSocET) | 2:28 | 2024-11-21 |  |
+| [Mecnun](https://open.spotify.com/track/7pvJS491DvAF634AxRGUZG) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Mecnun](https://open.spotify.com/album/2zwLL93kAc8TwamDzSocET) | 2:28 | 2024-11-21 | 2025-02-02 |
 | [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 | 2024-08-28 |
 | [MESELA](https://open.spotify.com/track/2K2jYYM9W8ndtP6PUxy2pc) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [MESELA](https://open.spotify.com/album/1BryKb39CgLCKiXkw7z5Iu) | 3:00 | 2024-06-27 |  |
 | [Mevzu Derin](https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Mevzu Derin](https://open.spotify.com/album/1NVVh17oO9OQDmja5mPMTV) | 2:55 | 2024-10-24 | 2024-12-12 |

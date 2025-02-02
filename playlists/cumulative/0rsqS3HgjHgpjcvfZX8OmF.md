@@ -2,9 +2,9 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover: Rise Against
+> The best and latest rock and alternative\. Cover: Charlie Houston
 
-248 songs - 14 hr 44 min
+250 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Family of Six](https://open.spotify.com/track/0a71EDvDZpjJosNHz1a15P) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 4:59 | 2023-11-03 | 2024-04-06 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-28 |  |
 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 | 2024-09-06 |  |
+| [Forgiveness](https://open.spotify.com/track/43wNqEJvEkdWVgNQmOnLiB) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Violet](https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz) | 4:20 | 2025-02-01 |  |
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2023-11-03 | 2024-04-06 |
 | [Fugitive Summer](https://open.spotify.com/track/5O0vxLUoQWQv9CVVGUIWAD) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Fate & Alcohol](https://open.spotify.com/album/2hkpREsa8ZmIFvlgbx2vil) | 3:56 | 2024-10-18 | 2025-01-26 |
 | [Garbage](https://open.spotify.com/track/1Gq7qJGtmzdqVjAzeoV1Kx) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Garbage](https://open.spotify.com/album/3DSeKDE99lVGaIVVo9orLT) | 3:31 | 2024-07-12 | 2024-09-21 |
@@ -118,6 +119,7 @@
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-15 | 2024-11-02 |
 | [Let's Go](https://open.spotify.com/track/1Px7qTzJHL2nDbwO5Fpf7w) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Let's Go](https://open.spotify.com/album/4mBDZxgP9tajTD5lYPcU3n) | 3:13 | 2024-04-12 | 2024-06-22 |
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-02 |  |
+| [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 | 2025-02-01 |  |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-08 | 2024-06-02 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-11-03 | 2024-04-27 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-17 | 2024-06-08 |
@@ -150,7 +152,7 @@
 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 | 2023-11-03 | 2024-05-11 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-01-26 |  |
 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 | 2024-04-19 | 2024-05-11 |
-| [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 |  |
+| [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 | 2025-02-02 |
 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 | 2024-05-10 |  |
 | [NYE](https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [NYE](https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX) | 3:10 | 2023-11-03 | 2024-06-08 |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-18 |  |
@@ -172,7 +174,7 @@
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2024-01-26 | 2024-11-02 |
 | [Projection](https://open.spotify.com/track/3gCdkpqpaY4rxjKzViYjE7) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Projection](https://open.spotify.com/album/7LU5eT7MANlvTJ1EDm8sey) | 3:48 | 2023-11-03 | 2024-01-27 |
 | [PSYCHO](https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 3:18 | 2024-05-17 | 2024-07-13 |
-| [Rain, Hearts And Fire](https://open.spotify.com/track/7p1npRNbFIXcYcNc02K2rm) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here \(Deluxe\)](https://open.spotify.com/album/5548ROx9ZxjJ2iXCq9DLI6) | 3:35 | 2024-11-08 |  |
+| [Rain, Hearts And Fire](https://open.spotify.com/track/7p1npRNbFIXcYcNc02K2rm) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here \(Deluxe\)](https://open.spotify.com/album/5548ROx9ZxjJ2iXCq9DLI6) | 3:35 | 2024-11-08 | 2025-02-02 |
 | [Red Light](https://open.spotify.com/track/7n4rC8cbUnTl19y2L31Y7U) | [Basement Revolver](https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s) | [Red Light](https://open.spotify.com/album/5vNtKyUbvXRy6BbZbxe3FS) | 2:39 | 2024-03-01 | 2024-06-08 |
 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2023-11-03 | 2023-12-09 |
 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 | 2023-12-08 | 2024-04-27 |

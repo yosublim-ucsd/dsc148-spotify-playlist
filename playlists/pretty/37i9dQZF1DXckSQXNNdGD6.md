@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Luna Zuazu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,533 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,536 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 19 | [Humedad Valenciana](https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [Humedad Valenciana](https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC) | 2:58 |
 | 20 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |
 | 21 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
-| 22 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
-| 23 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
+| 22 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
+| 23 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
 | 24 | [No Siento Nada](https://open.spotify.com/track/26njrrC807IokAXRM08tQN) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [SEASON I](https://open.spotify.com/album/561lG9BweytmTlZwizsJx3) | 3:02 |
 | 25 | [Olor a perfume caro y tabaco](https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [El Grimorio](https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72) | 2:41 |
 | 26 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 45 | [Yo soy libre](https://open.spotify.com/track/6z1Vx0MseGkN7iygli7fIo) | [Álvaro Montes](https://open.spotify.com/artist/4hMzxHjYxcIi0nIbFlceYw) | [Yo soy libre](https://open.spotify.com/album/38WTKxI463xDnjG8N0NLSD) | 2:57 |
 | 46 | [Gente De Mierda](https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf) | [Corazón De Cerdo Con Ginseng Al Vapor](https://open.spotify.com/album/3a2ZZYOBT3IjMSJ6Gd4LSn) | 2:20 |
 | 47 | [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 |
-| 48 | [aguacero 2](https://open.spotify.com/track/2dotHiPGpnsxDZzJ8nfLDe) | [SN Systema](https://open.spotify.com/artist/4bMdRMMGiBMblBm3qPUvpp), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE), [Vince Aloé](https://open.spotify.com/artist/4dlPVZBuFy6zkdANnn1ib5) | [aguacero 2](https://open.spotify.com/album/6WucM4riE6CGcbEmjxmYpB) | 2:14 |
-| 49 | [Arboleda Bien Plantada](https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [Manual de Cortejo](https://open.spotify.com/album/1g0iT6TvvvVFfheThXR0Dk) | 3:38 |
+| 48 | [Arboleda Bien Plantada](https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [Manual de Cortejo](https://open.spotify.com/album/1g0iT6TvvvVFfheThXR0Dk) | 3:38 |
+| 49 | [aguacero 2](https://open.spotify.com/track/2dotHiPGpnsxDZzJ8nfLDe) | [SN Systema](https://open.spotify.com/artist/4bMdRMMGiBMblBm3qPUvpp), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE), [Vince Aloé](https://open.spotify.com/artist/4dlPVZBuFy6zkdANnn1ib5) | [aguacero 2](https://open.spotify.com/album/6WucM4riE6CGcbEmjxmYpB) | 2:14 |
 | 50 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 |
 
 Snapshot ID: `Z32x8QAAAAAmvc1bu+4cJx36OGeIuWwO`

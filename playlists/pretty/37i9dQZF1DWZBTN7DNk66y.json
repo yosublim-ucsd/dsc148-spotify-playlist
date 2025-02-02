@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Lisandro Aristimu\u00f1o.",
-  "num_followers": 26501,
+  "num_followers": 26508,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "AHORA QUE ME VOY",
         "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 184889,
       "name": "AHORA QUE ME VOY",
       "url": "https://open.spotify.com/track/3Kh2Fcer8m1VIzaMS4fQXl"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Falso de amor",
-        "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
-      },
-      "artists": [
-        {
-          "name": "Catalina y Las Bordonas de Oro",
-          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
-        },
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 212911,
-      "name": "Falso de amor",
-      "url": "https://open.spotify.com/track/0NZTon5imI2pfTZIEts5Wy"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Luna Llena de Fuego",
         "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 161875,
       "name": "Luna Llena de Fuego",
       "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Falso de amor",
+        "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
+      },
+      "artists": [
+        {
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 212911,
+      "name": "Falso de amor",
+      "url": "https://open.spotify.com/track/0NZTon5imI2pfTZIEts5Wy"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Entrada Liberada",
-        "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
+        "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
+        "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Lucrecia Pinto",
+          "url": "https://open.spotify.com/artist/5RYdKjTrw6Z14Vwtd0f0nR"
+        },
+        {
+          "name": "Dar\u00edo Sztajnszrajber",
+          "url": "https://open.spotify.com/artist/453QsKyL010NjMRXi5hGcI"
         }
       ],
-      "duration_ms": 159087,
-      "name": "Entrada Liberada",
-      "url": "https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n"
+      "duration_ms": 367388,
+      "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
+      "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1155,22 +1159,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
-        "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
+        "name": "Entrada Liberada",
+        "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
       },
       "artists": [
         {
-          "name": "Lucrecia Pinto",
-          "url": "https://open.spotify.com/artist/5RYdKjTrw6Z14Vwtd0f0nR"
-        },
-        {
-          "name": "Dar\u00edo Sztajnszrajber",
-          "url": "https://open.spotify.com/artist/453QsKyL010NjMRXi5hGcI"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 367388,
-      "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
-      "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
+      "duration_ms": 159087,
+      "name": "Entrada Liberada",
+      "url": "https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Qui\u00e9n da M\u00e1s?",
         "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 272010,
       "name": "Qui\u00e9n da M\u00e1s?",
       "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Esperarte",
-        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Esperarte",
-      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Arrullito",
-        "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
-      },
-      "artists": [
-        {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 228271,
-      "name": "Arrullito",
-      "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Eufemismos",
         "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 165348,
       "name": "Eufemismos",
       "url": "https://open.spotify.com/track/7IoVTtXW1XwgEhMKoQPBxK"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Arrullito",
+        "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
+      },
+      "artists": [
+        {
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 228271,
+      "name": "Arrullito",
+      "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "S\u00e1banas Azules",
-        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "S\u00e1banas Azules",
-      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Yo te nombro libertad (Banda Sonora Original de \"El don absoluto\")",
         "url": "https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 231786,
       "name": "Yo te nombro libertad - Banda Sonora Original de \"El don absoluto\"",
       "url": "https://open.spotify.com/track/36EM8dPAucgz0PsA4wHgin"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "S\u00e1banas Azules",
+        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "S\u00e1banas Azules",
+      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
-        }
-      ],
-      "duration_ms": 142364,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 172137,
       "name": "Chance",
       "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
+        }
+      ],
+      "duration_ms": 142364,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "LIVE SESSION",
+        "url": "https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG"
+      },
+      "artists": [
+        {
+          "name": "Joaquin del Mundo",
+          "url": "https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS"
+        }
+      ],
+      "duration_ms": 205792,
+      "name": "Felipa y la Luna",
+      "url": "https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "REGALAMOS ROSAS EN LA LUNA",
         "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
       },
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "LIVE SESSION",
-        "url": "https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG"
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
       },
       "artists": [
         {
-          "name": "Joaquin del Mundo",
-          "url": "https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS"
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
         }
       ],
-      "duration_ms": 205792,
-      "name": "Felipa y la Luna",
-      "url": "https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj"
+      "duration_ms": 217169,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1719,22 +1735,6 @@
       "duration_ms": 182201,
       "name": "De Un Fulgor a Otro",
       "url": "https://open.spotify.com/track/0WVHC6hoMxyDtTipJNRr5P"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 217169,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1831,18 +1831,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Aldea San Cosme",
-        "url": "https://open.spotify.com/album/0d9JloG7tG0pMupnzqRTNo"
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
       },
       "artists": [
         {
-          "name": "Juanito El Cantor",
-          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
+          "name": "Valen Bonetto",
+          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
+        },
+        {
+          "name": "Brenda Martin",
+          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
         }
       ],
-      "duration_ms": 249267,
-      "name": "Aldea San Cosme",
-      "url": "https://open.spotify.com/track/2dpK8T282Gfsi9nbz5Lktw"
+      "duration_ms": 216645,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1867,22 +1871,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
+        "name": "Aldea San Cosme",
+        "url": "https://open.spotify.com/album/0d9JloG7tG0pMupnzqRTNo"
       },
       "artists": [
         {
-          "name": "Valen Bonetto",
-          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
-        },
-        {
-          "name": "Brenda Martin",
-          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
+          "name": "Juanito El Cantor",
+          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
         }
       ],
-      "duration_ms": 216645,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
+      "duration_ms": 249267,
+      "name": "Aldea San Cosme",
+      "url": "https://open.spotify.com/track/2dpK8T282Gfsi9nbz5Lktw"
     }
   ],
   "unique_name": "Voces del Sur",

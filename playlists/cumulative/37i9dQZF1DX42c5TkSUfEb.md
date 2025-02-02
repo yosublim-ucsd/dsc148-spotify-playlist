@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-330 songs - 20 hr 20 min
+332 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 | 2022-11-25 | 2023-07-05 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-23 |  |
 | [Au début](https://open.spotify.com/track/0VtFGtivXsNESTS1obxocz) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Renan Luce](https://open.spotify.com/album/6URLzqJsHu81RVKPybvexf) | 3:23 | 2024-04-15 |  |
+| [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-01-30 |  |
 | [Backseat Driver](https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG) | 3:16 | 2024-07-25 | 2024-10-05 |
 | [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 | 2024-04-15 |  |
 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 | 2022-11-25 | 2024-04-19 |
@@ -81,7 +82,7 @@
 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/3ow5CelrJnKuAmzzbOtOJ7) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 4:26 | 2023-05-12 | 2023-11-08 |
 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 | 2024-12-09 |  |
 | [Do You Haunt Me](https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:13 | 2024-10-04 |  |
-| [Don't](https://open.spotify.com/track/3pn8w3wjxC8oLDTqGXz8nA) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Part\. 1](https://open.spotify.com/album/3YWOLd19yXqawMTWvsxPgd) | 2:46 | 2024-04-15 |  |
+| [Don't](https://open.spotify.com/track/3pn8w3wjxC8oLDTqGXz8nA) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Part\. 1](https://open.spotify.com/album/3YWOLd19yXqawMTWvsxPgd) | 2:46 | 2024-04-15 | 2025-02-02 |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2022-11-25 | 2024-04-19 |
 | [DON'T TALK TO STRANGERS](https://open.spotify.com/track/5DTMuygjZMlcsOBJBQhpvO) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE AUGMENTED](https://open.spotify.com/album/28U9b6LfdddUlU9t0GbupS) | 2:57 | 2024-04-15 | 2024-07-27 |
 | [echo](https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Mixtape Telecom](https://open.spotify.com/album/5iuLIPxKzU0X9FjaQLwN9r) | 2:47 | 2024-04-15 | 2025-01-24 |
@@ -208,6 +209,7 @@
 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 | 2022-11-25 | 2024-04-19 |
 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 | 2022-11-25 |  |
 | [No Love \(feat\. Clara Nowhere & Joseph Schiano di Lombo\)](https://open.spotify.com/track/4KSQAaE1xxxBxLTSsSLI9i) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18), [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC) | [No Love \(feat\. Clara Nowhere & Joseph Schiano di Lombo\)](https://open.spotify.com/album/7DHcpS5lHwYfv84mRB6qtb) | 3:05 | 2024-04-15 | 2025-01-24 |
+| [No Me Borres](https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [No Me Borres](https://open.spotify.com/album/6Z527zpsy6DqiNCLpiwxK6) | 3:51 | 2025-01-30 |  |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-13 | 2024-06-08 |
 | [Not Feeling Up](https://open.spotify.com/track/5RclCv6JSxogJpe4E662cP) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Not Feeling Up](https://open.spotify.com/album/3YYy7afHR8wnhEHfuuEAId) | 3:02 | 2025-01-23 |  |
 | [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-16 | 2023-05-13 |
@@ -299,7 +301,7 @@
 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 | 2023-11-20 | 2024-02-16 |
 | [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 | 2023-11-20 | 2024-01-25 |
 | [The Pirate's Gospel](https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel \(Deluxe Edition\)](https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6) | 2:55 | 2024-04-15 |  |
-| [The Right Words](https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [The Right Words](https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG) | 3:22 | 2024-04-15 |  |
+| [The Right Words](https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [The Right Words](https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG) | 3:22 | 2024-04-15 | 2025-02-02 |
 | [The Scientist](https://open.spotify.com/track/7tn1tcxenMwDXrYTOjS3z1) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:16 | 2022-11-25 | 2023-02-22 |
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 | 2022-11-25 | 2024-04-19 |
 | [The Story of the Impossible](https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W) | [Going To Where The Tea Trees Are](https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU) | 3:37 | 2022-11-25 | 2023-02-22 |

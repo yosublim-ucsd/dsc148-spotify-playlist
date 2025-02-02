@@ -999,6 +999,28 @@
     },
     {
       "album": {
+        "name": "Bloom: Living World - Single",
+        "url": "https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Peter Chilvers",
+          "url": "https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334205,
+      "name": "Bloom: Small World",
+      "url": "https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6"
+    },
+    {
+      "album": {
         "name": "Infinite Echo",
         "url": "https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4"
       },
@@ -7448,7 +7470,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-02",
       "duration_ms": 230309,
       "name": "Two Halves Touching",
       "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"

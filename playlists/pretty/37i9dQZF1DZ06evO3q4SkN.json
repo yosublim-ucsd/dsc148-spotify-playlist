@@ -1,12 +1,12 @@
 {
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
-  "num_followers": 623,
+  "num_followers": 622,
   "original_name": "This Is Germaine Franco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABVBXq3M0gNkHrx2GOx+2bN",
+  "snapshot_id": "Z5wSgAAAAAC/XRrWg30g3gvyN/iZCch1",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 84240,
-      "name": "Wolf Watcher",
-      "url": "https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Margarita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 130663,
       "name": "Margarita's Cha Cha",
       "url": "https://open.spotify.com/track/6nDOL5nhJUk9MCf8PjewZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 84240,
+      "name": "Wolf Watcher",
+      "url": "https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus"
     },
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 129973,
+      "name": "Ginny's Home",
+      "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -127,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 71879,
-      "name": "Jordan's Glasses",
-      "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -155,6 +155,22 @@
       "duration_ms": 87200,
       "name": "El R\u00edo",
       "url": "https://open.spotify.com/track/6NU17xd9hC8JZCcYc2cTE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 71879,
+      "name": "Jordan's Glasses",
+      "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
     },
     {
       "added_at": null,
@@ -183,22 +199,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        },
-        {
-          "name": "Gavin Greenaway",
-          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
         }
       ],
-      "duration_ms": 160786,
-      "name": "Mother Daughter Theme - Solo Piano Version",
-      "url": "https://open.spotify.com/track/7qMxlJ1K6Px8awhdYV1lny"
+      "duration_ms": 88053,
+      "name": "A Storm Approaches",
+      "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 147520,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/6FpvvigQOnNyTmLAfethGC"
     },
     {
       "added_at": null,
@@ -223,6 +251,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 85173,
+      "name": "George At The Derby",
+      "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "duration_ms": 160786,
+      "name": "Mother Daughter Theme - Solo Piano Version",
+      "url": "https://open.spotify.com/track/7qMxlJ1K6Px8awhdYV1lny"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -232,9 +296,113 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 147520,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/6FpvvigQOnNyTmLAfethGC"
+      "duration_ms": 128345,
+      "name": "Meet La Familia",
+      "url": "https://open.spotify.com/track/2p9OhUXRl2hACpmw9M9JvO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "The Stampede",
+      "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        },
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 99826,
+      "name": "Dora the Explorer Theme Song",
+      "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 78480,
+      "name": "Whatever The Question",
+      "url": "https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 130639,
+      "name": "The Ultimate Vision",
+      "url": "https://open.spotify.com/track/6H3MJlrliScYcpPfGLwPis"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 154638,
+      "name": "Leaving Lone Pine Falls",
+      "url": "https://open.spotify.com/track/6kMVwV8S6VV3LDgJ02dDwm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "George's Realization",
+      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
     },
     {
       "added_at": null,
@@ -264,142 +432,6 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 78480,
-      "name": "Whatever The Question",
-      "url": "https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 154638,
-      "name": "Leaving Lone Pine Falls",
-      "url": "https://open.spotify.com/track/6kMVwV8S6VV3LDgJ02dDwm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 128345,
-      "name": "Meet La Familia",
-      "url": "https://open.spotify.com/track/2p9OhUXRl2hACpmw9M9JvO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "George's Realization",
-      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
-      },
-      "artists": [
-        {
-          "name": "John Debney",
-          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
-        },
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        },
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 99826,
-      "name": "Dora the Explorer Theme Song",
-      "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 129973,
-      "name": "Ginny's Home",
-      "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 130639,
-      "name": "The Ultimate Vision",
-      "url": "https://open.spotify.com/track/6H3MJlrliScYcpPfGLwPis"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 85173,
-      "name": "George At The Derby",
-      "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
       "duration_ms": 95853,
       "name": "Separation Anxiety",
       "url": "https://open.spotify.com/track/07DwLdqts4dZrfCm6sfO3k"
@@ -416,9 +448,25 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 143946,
-      "name": "The Stampede",
-      "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
+      "duration_ms": 119346,
+      "name": "History of Lone Pine Falls",
+      "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 87013,
+      "name": "Masks And Mirrors",
+      "url": "https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0"
     },
     {
       "added_at": null,
@@ -435,22 +483,6 @@
       "duration_ms": 65306,
       "name": "No Such Thing as Magic",
       "url": "https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Ted's Stuck In A Tree",
-      "url": "https://open.spotify.com/track/4D7Pmj4rFZi90cXYTcrnun"
     },
     {
       "added_at": null,
@@ -480,70 +512,6 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 88053,
-      "name": "A Storm Approaches",
-      "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 64986,
-      "name": "Toughen Up Jordan",
-      "url": "https://open.spotify.com/track/1BwHJRlwTES1XqLYUm42gf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 87013,
-      "name": "Masks And Mirrors",
-      "url": "https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tag (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 71786,
-      "name": "Roundhouse",
-      "url": "https://open.spotify.com/track/11VT8c2XwdWgX91rMCgOBo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
       "duration_ms": 79426,
       "name": "Cowboys Don't Quit",
       "url": "https://open.spotify.com/track/4jKqRwLiOCpxQqRpp7uwf0"
@@ -551,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 76453,
-      "name": "April Wears Cheetah",
-      "url": "https://open.spotify.com/track/09pfICGonkBl6TXhbglryk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -576,45 +528,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 61293,
-      "name": "George's Pancake Practice",
-      "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
-      },
-      "artists": [
-        {
-          "name": "John Debney",
-          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
-        },
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 66933,
-      "name": "Opera House",
-      "url": "https://open.spotify.com/track/08lXo0ES201xImrPw8f6hg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 67600,
-      "name": "Giant Sea Turtle",
-      "url": "https://open.spotify.com/track/3bkJr6YU7AfHUwCsg0yYa4"
+      "duration_ms": 140160,
+      "name": "Ted's Stuck In A Tree",
+      "url": "https://open.spotify.com/track/4D7Pmj4rFZi90cXYTcrnun"
     },
     {
       "added_at": null,
@@ -644,9 +560,77 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 91782,
-      "name": "Golf Cart Down",
-      "url": "https://open.spotify.com/track/7kHxcxJiWkeBSsmDKvOjSl"
+      "duration_ms": 71786,
+      "name": "Roundhouse",
+      "url": "https://open.spotify.com/track/11VT8c2XwdWgX91rMCgOBo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 66933,
+      "name": "Opera House",
+      "url": "https://open.spotify.com/track/08lXo0ES201xImrPw8f6hg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 61293,
+      "name": "George's Pancake Practice",
+      "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 76453,
+      "name": "April Wears Cheetah",
+      "url": "https://open.spotify.com/track/09pfICGonkBl6TXhbglryk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 76680,
+      "name": "Mr. Stubbles",
+      "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
     },
     {
       "added_at": null,
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 113266,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/7gIJ2VYtxDMzw44LK2sarl"
+      "duration_ms": 64986,
+      "name": "Toughen Up Jordan",
+      "url": "https://open.spotify.com/track/1BwHJRlwTES1XqLYUm42gf"
     },
     {
       "added_at": null,
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 76680,
-      "name": "Mr. Stubbles",
-      "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
+      "duration_ms": 71120,
+      "name": "Two Thousand Dollars",
+      "url": "https://open.spotify.com/track/7cmPZVwqmNQSA1zoijPyg5"
     },
     {
       "added_at": null,
@@ -747,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
-        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 123533,
-      "name": "Legend Of The Tortoise",
-      "url": "https://open.spotify.com/track/0sB4nZMAssgGXb2hEp9Cdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shovel Buddies (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR"
       },
@@ -779,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 113266,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/7gIJ2VYtxDMzw44LK2sarl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tag (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
       },
@@ -788,9 +772,25 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 85546,
-      "name": "No Contact Protocol",
-      "url": "https://open.spotify.com/track/63MSmS4qlCYRXr5vXosefr"
+      "duration_ms": 91782,
+      "name": "Golf Cart Down",
+      "url": "https://open.spotify.com/track/7kHxcxJiWkeBSsmDKvOjSl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 123946,
+      "name": "Autumn Becomes Winter",
+      "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 135600,
-      "name": "You Officially Suck",
-      "url": "https://open.spotify.com/track/1sllNINbmPAVJrKdcvgaQW"
+      "duration_ms": 85546,
+      "name": "No Contact Protocol",
+      "url": "https://open.spotify.com/track/63MSmS4qlCYRXr5vXosefr"
     }
   ],
   "unique_name": "This Is Germaine Franco",

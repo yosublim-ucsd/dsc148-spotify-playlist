@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,651 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,676 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 41 | [Round 5 \(feat\. MC Davo\)](https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [The Take Over, Vol\. 3](https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax) | 3:56 |
 | 42 | [Debut Y Despedida](https://open.spotify.com/track/5D2tEdUibUNSeucsEv5Sjz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:34 |
 | 43 | [Ya no hay nada](https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:23 |
-| 44 | [Round 6](https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:36 |
-| 45 | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/album/4TID8AMKXScQbE140lc45n) | 2:51 |
+| 44 | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/album/4TID8AMKXScQbE140lc45n) | 2:51 |
+| 45 | [Round 6](https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:36 |
 | 46 | [Chingo De Parientes](https://open.spotify.com/track/5awjLC1FKAf1L5sgbtmwtf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:00 |
 | 47 | [Aparentan \(feat\. Adán Zapata\)](https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:10 |
 | 48 | [Modo Bestia](https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 50 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
 | 51 | [En Cámara Lenta](https://open.spotify.com/track/0yvQfU5ZvFkOOAOpHNorfI) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:17 |
 
-Snapshot ID: `Z5rBAAAAAABDrUdGjSWHMVsUq2opKMuF`
+Snapshot ID: `Z5wSgAAAAAAhY644Vawe4reF7t7EWmk1`

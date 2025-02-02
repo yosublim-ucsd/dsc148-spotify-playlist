@@ -539,22 +539,6 @@
     {
       "added_at": "2025-01-28 21:29:11",
       "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 222722,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q"
-    },
-    {
-      "added_at": "2025-01-28 21:29:11",
-      "album": {
         "name": "366\u65e5",
         "url": "https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 350700,
       "name": "366\u65e5",
       "url": "https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA"
+    },
+    {
+      "added_at": "2025-01-28 21:29:11",
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 222722,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q"
     },
     {
       "added_at": "2025-01-28 21:29:11",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-01-28 21:29:11",
       "album": {
-        "name": "Re:ERA",
-        "url": "https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "\u30dc\u30fc\u30a4\u30df\u30fc\u30c4\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC"
-    },
-    {
-      "added_at": "2025-01-28 21:29:11",
-      "album": {
         "name": "Got Boost\uff1f (\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30f4\u300f\u4e3b\u984c\u6b4c)",
         "url": "https://open.spotify.com/album/1TYeL46j0ro3Tl3IFgxIrW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 192200,
       "name": "Got Boost\uff1f",
       "url": "https://open.spotify.com/track/2IO82CijAxfwxLhOnDajhD"
+    },
+    {
+      "added_at": "2025-01-28 21:29:11",
+      "album": {
+        "name": "Re:ERA",
+        "url": "https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "\u30dc\u30fc\u30a4\u30df\u30fc\u30c4\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC"
     },
     {
       "added_at": "2025-01-28 21:29:11",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-01-28 21:29:11",
       "album": {
-        "name": "moooove!!",
-        "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "moooove!!",
-      "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
-    },
-    {
-      "added_at": "2025-01-28 21:29:11",
-      "album": {
         "name": "H\u207a",
         "url": "https://open.spotify.com/album/0GoIL3ApSF3ttfO1U367bJ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 215586,
       "name": "Donkey Gongs",
       "url": "https://open.spotify.com/track/5dEqcmor35aN7xwbupzDqz"
+    },
+    {
+      "added_at": "2025-01-28 21:29:11",
+      "album": {
+        "name": "\u30df\u30c1\u30b7\u30eb\u30d9",
+        "url": "https://open.spotify.com/album/052jurik7u7naYKyLCL8n0"
+      },
+      "artists": [
+        {
+          "name": "IMP.",
+          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "\u30df\u30c1\u30b7\u30eb\u30d9",
+      "url": "https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz"
     }
   ],
   "unique_name": "Boys Group Japan",

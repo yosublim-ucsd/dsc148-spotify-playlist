@@ -4,7 +4,7 @@
 
 > Apaga a luz e deixa rolar.
 
-94 songs - 5 hr 4 min
+96 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,14 +29,15 @@
 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 | 2023-06-16 | 2024-07-01 |
 | [Cê Tá Bem](https://open.spotify.com/track/1DLwaIqLEMrKz5czGKlI8B) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/46YXJKIzU5bYu7hmu0b6mw) | 3:20 | 2024-03-08 | 2024-03-24 |
 | [Depois da Briga](https://open.spotify.com/track/4JHh4XKEjrSYIq0NbUxfDz) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn) | 2:57 | 2023-10-20 | 2024-04-19 |
-| [DESASTRE NATURAL](https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp) | [VERSOS](https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X) | 2:20 | 2024-12-13 |  |
+| [DESASTRE NATURAL](https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp) | [VERSOS](https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X) | 2:20 | 2024-12-13 | 2025-02-02 |
 | [DISK](https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [DISK](https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T) | 2:37 | 2023-06-16 |  |
 | [Djavan](https://open.spotify.com/track/5qvHuqSk7uQmHWyGLn58LE) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Marinho 2v](https://open.spotify.com/artist/6TBK4O9o7mNImiDGfrIzvc) | [Djavan](https://open.spotify.com/album/7FrPBgxnDtKXFF0fDo02VU) | 4:29 | 2023-06-16 | 2024-04-19 |
 | [Do jeito que tu gosta](https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ImPKvel](https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS) | 2:23 | 2023-06-16 |  |
 | [Dona do Rolê](https://open.spotify.com/track/5PIppheInDGkAo5W68w1ow) | [Bárbara Labres](https://open.spotify.com/artist/0trHMgCbRohjsr2uzM6scS), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81) | [Dona do Rolê](https://open.spotify.com/album/4RyMPAOzowymsswvzetDwU) | 2:40 | 2024-03-08 |  |
 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 | 2023-06-16 |  |
+| [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 | 2025-01-31 |  |
 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 | 2023-06-16 |  |
-| [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 | 2024-10-07 |  |
+| [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 | 2024-10-07 | 2025-02-02 |
 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 | 2023-06-16 | 2024-10-08 |
 | [Flamingos](https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Bluesman](https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I) | 3:57 | 2023-06-16 |  |
 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 | 2023-06-16 |  |
@@ -101,6 +102,7 @@
 | [Vício](https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Vício](https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82) | 2:55 | 2023-06-16 | 2024-04-19 |
 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 | 2023-06-16 |  |
 | [Y.D.K.H.M \- Remix](https://open.spotify.com/track/6slv9K1TWiGKS0lLPGToXN) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Ashley David](https://open.spotify.com/artist/1wEC94P6n5pxqSRpiJHufF), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Y.D.K.H.M \(Remix\)](https://open.spotify.com/album/09zWyPaGkqIMLF4pv7Z7ky) | 4:25 | 2023-06-16 | 2023-10-25 |
+| [Água de Coco](https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:21 | 2025-01-31 |  |
 | [Águias e Sereias](https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Sentido](https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35) | 3:49 | 2024-09-27 | 2024-10-08 |
 
 \*This playlist was first scraped on 2023-09-18. Prior content cannot be recovered.

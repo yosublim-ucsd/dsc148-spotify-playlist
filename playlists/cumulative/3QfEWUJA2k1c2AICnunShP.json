@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Blossoms",
+        "url": "https://open.spotify.com/album/6MaxQWVji2jW4GlyyErVhl"
+      },
+      "artists": [
+        {
+          "name": "Lauri Porra",
+          "url": "https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn"
+        },
+        {
+          "name": "Mumintrollen",
+          "url": "https://open.spotify.com/artist/6SXUdE8lwqmLKPQgyGrpUP"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153037,
+      "name": "Beautiful Blossoms",
+      "url": "https://open.spotify.com/track/44LzfRe95WyZGf2U5LJT4F"
+    },
+    {
+      "album": {
         "name": "Belle de Nuit",
         "url": "https://open.spotify.com/album/6uvEZdsKn7Rqa7W24y5O5X"
       },

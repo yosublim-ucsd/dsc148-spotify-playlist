@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3586,
+  "num_followers": 3591,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABWPx9we/oQ7YWkFS7qIkv3",
+  "snapshot_id": "Z5wSgAAAAAAUiQAu6AW0hRGuUrbVCKzL",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departures",
-        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
+        "name": "Live To Tape: Volume II",
+        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
       },
       "artists": [
         {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 253213,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
+      "duration_ms": 202319,
+      "name": "Be My Witness (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
     },
     {
       "added_at": null,
@@ -223,22 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live To Tape: Volume II",
-        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 202319,
-      "name": "Be My Witness (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
+      "duration_ms": 253213,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
     },
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rage Unplugged",
-        "url": "https://open.spotify.com/album/0uw8iYxkyP0pZJRkwvrr6i"
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
       },
       "artists": [
-        {
-          "name": "Eric Slick",
-          "url": "https://open.spotify.com/artist/5odtYnxUvkfTC6wmwR53aI"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 216493,
-      "name": "The Moment - Acoustic",
-      "url": "https://open.spotify.com/track/5TL9oxmDIsT0KIFEvAZo5n"
+      "duration_ms": 241973,
+      "name": "Beauty Into Clich\u00e9s",
+      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Sake Of The Rhyme",
-        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+        "name": "Rage Unplugged",
+        "url": "https://open.spotify.com/album/0uw8iYxkyP0pZJRkwvrr6i"
       },
       "artists": [
+        {
+          "name": "Eric Slick",
+          "url": "https://open.spotify.com/artist/5odtYnxUvkfTC6wmwR53aI"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 241973,
-      "name": "Beauty Into Clich\u00e9s",
-      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
+      "duration_ms": 216493,
+      "name": "The Moment - Acoustic",
+      "url": "https://open.spotify.com/track/5TL9oxmDIsT0KIFEvAZo5n"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
       "duration_ms": 239120,
       "name": "I Close My Eyes",
       "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 270746,
-      "name": "When Love Loves Alone",
-      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

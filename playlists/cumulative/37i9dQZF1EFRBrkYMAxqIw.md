@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 7 hr 37 min
+147 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,10 @@
 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 | 2023-06-11 |  |
 | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX) | 3:06 | 2022-05-25 |  |
 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 | 2022-11-10 |  |
+| [Down with Me](https://open.spotify.com/track/16PYbLlyjjgGgnFbnr5yaT) | [NYAKI](https://open.spotify.com/artist/1hElvFQvJ9TtVzwyX50XWP) | [Down with Me](https://open.spotify.com/album/7izGbJdcUqe3h0CoqJ9UPj) | 3:25 | 2025-02-01 |  |
 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 | 2024-10-13 |  |
 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 | 2024-10-24 |  |
+| [Escape](https://open.spotify.com/track/5UA23VfYZt4RZkF6g3nZAp) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN), [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [Escape](https://open.spotify.com/album/3cfs0TtaFisZ9d1mytwQvB) | 2:55 | 2025-02-01 |  |
 | [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 | 2022-09-03 |  |
 | [Feels Like Home](https://open.spotify.com/track/0Y1HzOAyIj8O6N3lnKmi2l) | [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Feels Like Home](https://open.spotify.com/album/31QEjfkSaLZPHpchsT997H) | 4:07 | 2022-05-25 |  |
 | [Fever](https://open.spotify.com/track/3QlC75jqpGZSpIi2xM0mfl) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Fever](https://open.spotify.com/album/2HEnmzQD2rjlbGzFnMhbxO) | 2:09 | 2023-12-13 |  |
@@ -133,6 +135,7 @@
 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 | 2022-05-25 |  |
 | [Switching Gears](https://open.spotify.com/track/4gIGodi4ksOcavBosvDHRr) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:02 | 2022-05-25 |  |
 | [Thank You For Breathing](https://open.spotify.com/track/5kTmFfy5oE4hph7PK4nU9Q) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 2:43 | 2024-09-29 |  |
+| [The Lights](https://open.spotify.com/track/3lyva1vdXEt40kkS1hffW0) | [Capa \(Official\)](https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [The Lights](https://open.spotify.com/album/5FdJ9QhTY6Rk1ojFRxXbG1) | 2:50 | 2025-02-01 |  |
 | [Tiger Style](https://open.spotify.com/track/0l5SV9KzArEMV03rqHA9yM) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/52G03cQ20MDAhIPhlKKooV) | 2:13 | 2023-06-02 | 2023-06-26 |
 | [Tiger Style](https://open.spotify.com/track/2vDpTwmngMfXaLIbDFtNfi) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/2XV8XjeCKE2aMXKBeTRhHJ) | 2:13 | 2023-06-25 |  |
 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 | 2022-05-25 |  |

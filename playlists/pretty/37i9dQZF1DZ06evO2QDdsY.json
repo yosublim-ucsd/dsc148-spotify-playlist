@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 15565,
+  "num_followers": 15566,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAAq5HitSjqbpkxUj0REvjnG",
+  "snapshot_id": "Z5wSgAAAAADZaGuznQT2/uNwuftRlmYj",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+      "duration_ms": 212573,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "Pushin' against a Stone",
+        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Trials, Troubles, Tribulations",
-      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
+      "duration_ms": 229668,
+      "name": "The Hour",
+      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
     },
     {
       "added_at": null,
@@ -499,26 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up and Rolling (feat. Son Little and Valerie June)",
-        "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
+        "name": "Sweetheart 2014",
+        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
       },
       "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 201921,
-      "name": "Up and Rolling (feat. Son Little and Valerie June)",
-      "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
+      "duration_ms": 111853,
+      "name": "Happy Or Lonesome",
+      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
     },
     {
       "added_at": null,
@@ -539,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' against a Stone",
-        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
         {
@@ -548,25 +540,33 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 229668,
-      "name": "The Hour",
-      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
+      "duration_ms": 182093,
+      "name": "Trials, Troubles, Tribulations",
+      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sweetheart 2014",
-        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
+        "name": "Up and Rolling (feat. Son Little and Valerie June)",
+        "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
       },
       "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 111853,
-      "name": "Happy Or Lonesome",
-      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
+      "duration_ms": 201921,
+      "name": "Up and Rolling (feat. Son Little and Valerie June)",
+      "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
     },
     {
       "added_at": null,
@@ -599,6 +599,30 @@
       "duration_ms": 259799,
       "name": "Colors",
       "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheese (feat. PawPaw Rod & Valerie June)",
+        "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 229525,
+      "name": "Cheese (feat. PawPaw Rod & Valerie June)",
+      "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
     },
     {
       "added_at": null,
@@ -651,30 +675,6 @@
       "duration_ms": 225186,
       "name": "Our Problem",
       "url": "https://open.spotify.com/track/3ftHWoelVf9VdGx0xYpu1e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheese (feat. PawPaw Rod & Valerie June)",
-        "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 229525,
-      "name": "Cheese (feat. PawPaw Rod & Valerie June)",
-      "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
     },
     {
       "added_at": null,

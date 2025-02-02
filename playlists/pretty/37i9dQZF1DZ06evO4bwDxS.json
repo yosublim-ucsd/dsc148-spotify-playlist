@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 492588,
+  "num_followers": 492823,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAAizTBMByfc10HFnhydOfUu",
+  "snapshot_id": "Z5wSgAAAAAABT3xrVJtFppqeqUFhEJZW",
   "tracks": [
     {
       "added_at": null,
@@ -267,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
       "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 162748,
-      "name": "things i wish you said",
-      "url": "https://open.spotify.com/track/2t2fnYja6b2pUizMungIo0"
+      "duration_ms": 186377,
+      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
       "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 186377,
-      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
+      "duration_ms": 162748,
+      "name": "things i wish you said",
+      "url": "https://open.spotify.com/track/2t2fnYja6b2pUizMungIo0"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WOW (feat. Sabrina Carpenter) [Remix]",
         "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 243880,
       "name": "how many things",
       "url": "https://open.spotify.com/track/6NvlhDdVgFotNgPK30LM2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon Fades",
-        "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "Honeymoon Fades",
-      "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 174840,
       "name": "Alien",
       "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honeymoon Fades",
+        "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Honeymoon Fades",
+      "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Joaquina en portada.
 
-420 songs - 21 hr 16 min
+421 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Mi Soledad](https://open.spotify.com/track/5YpuWisXx6bCrZ6jNBZTqT) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP) | [Mi Soledad](https://open.spotify.com/album/1V22bpq4hclFJkiYFf4eJ7) | 2:25 | 2022-02-04 | 2022-07-27 |
 | [miamor](https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [miamor](https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz) | 2:39 | 2023-08-25 | 2025-01-18 |
 | [Miedo](https://open.spotify.com/track/4wGQKXcBM4Nb37gzDKPYCJ) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [¿Y Qué Si Todo Acaba Mal?](https://open.spotify.com/album/0RDFuUVX699HW92X4JHFGS) | 2:22 | 2024-11-22 | 2025-01-18 |
-| [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 | 2024-05-31 |  |
+| [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 | 2024-05-31 | 2025-02-02 |
 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 | 2022-02-04 | 2022-07-16 |
 | [MIENTES](https://open.spotify.com/track/0l49H3WEYgONsfd9gsr64B) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [MIENTES](https://open.spotify.com/album/1HgVz6E7u9acXEUVKoaNzv) | 2:47 | 2024-05-10 | 2024-08-17 |
 | [Miguel](https://open.spotify.com/track/3TMewqIJrTRNXCnDbN8gmW) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Miguel](https://open.spotify.com/album/3JhJXzDLUmLih2prJA38hD) | 2:43 | 2024-08-23 | 2024-09-14 |
@@ -409,6 +409,7 @@
 | [Tú](https://open.spotify.com/track/6SSbMKSHk1wgUWvTOyvitE) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Hora Cero](https://open.spotify.com/album/7G1y1jJTOwXqCemSHwfg8U) | 3:14 | 2024-07-05 | 2024-08-17 |
 | [Tú Me Pones a Pecar](https://open.spotify.com/track/1UHr7qxB7kZvpc6WqQKOrF) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Tú Me Pones a Pecar](https://open.spotify.com/album/0JLS0mZHxPFOOkqW7jqBYH) | 3:27 | 2022-03-11 | 2022-06-03 |
 | [Tú Y Yo](https://open.spotify.com/track/6KL6betdtjLyzJmpjPjvuw) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Tú Y Yo](https://open.spotify.com/album/2VKf0eYjLH2aisNK18lhhE) | 2:41 | 2024-06-07 | 2024-06-29 |
+| [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 | 2025-01-31 |  |
 | [Una Noche Más](https://open.spotify.com/track/7nxvsuEtsUoFWx5H9jaF8A) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Una Noche Más](https://open.spotify.com/album/235NJ0yplxfwmTPGCmjQjl) | 2:48 | 2024-12-06 | 2025-01-18 |
 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 | 2023-02-24 |  |
 | [Vamos A Mi Ritmo](https://open.spotify.com/track/4ySt3gOb6ioa2R8C9hlojC) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Isabela Souza](https://open.spotify.com/artist/2sSeIHqgpFdFg83U8kYnHY) | [Vamos A Mi Ritmo](https://open.spotify.com/album/6UanWjcM4BtuOxyUX6KbTc) | 3:04 | 2022-02-04 | 2022-07-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 171799,
+  "num_followers": 171809,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAAASL3VbbPnPRwiEmqyU6/Mn",
+  "snapshot_id": "Z5wSgAAAAABrpBy5VZabLEI0Q7ELP8ys",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Vice",
+      "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Postcards From Texas",
         "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 183242,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Vice",
-      "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
     },
     {
       "added_at": null,
@@ -379,46 +379,6 @@
       "duration_ms": 272640,
       "name": "Holding On to You",
       "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In His Arms",
-        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
-      },
-      "artists": [
-        {
-          "name": "Jack Ingram",
-          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Jon Randall",
-          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "In His Arms",
-      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
     },
     {
       "added_at": null,
@@ -515,6 +475,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In His Arms",
+        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
+      },
+      "artists": [
+        {
+          "name": "Jack Ingram",
+          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Jon Randall",
+          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "In His Arms",
+      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Space in My Heart",
+        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 178849,
+      "name": "Space in My Heart",
+      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Annie Up",
         "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 198640,
       "name": "I Feel A Sin Comin' On",
       "url": "https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space in My Heart",
-        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 178849,
-      "name": "Space in My Heart",
-      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Locomotive",
-      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
+      "duration_ms": 214786,
+      "name": "It All Comes Out in the Wash",
+      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 214786,
-      "name": "It All Comes Out in the Wash",
-      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
+      "duration_ms": 193560,
+      "name": "Locomotive",
+      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
     },
     {
       "added_at": null,

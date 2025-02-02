@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,355 likes - 38 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,390 likes - 38 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 7 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 |
 | 8 | [Aranjuez](https://open.spotify.com/track/6lJNdg9MAxvyvcGQU4mg4L) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:54 |
 | 9 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
-| 10 | [TNT](https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Bajo Tierra](https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:55 |
+| 10 | [Medellificación](https://open.spotify.com/track/6m5azasM8eY0Q7Fs04GJNq) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jerónimo](https://open.spotify.com/artist/23LGnTM5aQJ1GrMQTWl9B7) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:52 |
 | 11 | [Baño de Ruda](https://open.spotify.com/track/1RonotN63dWXzprapZyw3w) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Baño de Ruda](https://open.spotify.com/album/6dlkv3zp2mKTfDaoaAAV7h) | 3:09 |
 | 12 | [Pambelé](https://open.spotify.com/track/6dEHpnOkqzhnclru69FXkl) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:47 |
 | 13 | [El Malo de la Película](https://open.spotify.com/track/3egoacsGKBZhKp2ytmW4dO) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Polimnia](https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:46 |
-| 14 | [Medellificación](https://open.spotify.com/track/6m5azasM8eY0Q7Fs04GJNq) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jerónimo](https://open.spotify.com/artist/23LGnTM5aQJ1GrMQTWl9B7) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:52 |
+| 14 | [TNT](https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Bajo Tierra](https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:55 |
 | 15 | [Fruko y Sus Presos \(2.018\)](https://open.spotify.com/track/0TrH7tQ2qIhsGFs4fDUVBj) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 3:38 |
 | 16 | [Reflujo](https://open.spotify.com/track/56uh5rHySaH3vf3jvr0dgL) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:48 |
 | 17 | [N.A.D.A.](https://open.spotify.com/track/4YP3mC222xnszWgVHwqUwI) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:30 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 37 | [Let My People](https://open.spotify.com/track/1EEBQGpufjlLt6IsVRezYc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:32 |
 | 38 | [El Ritual](https://open.spotify.com/track/1sWyFCxCG38zZDlEZFQ0Cc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 3:26 |
 
-Snapshot ID: `Z5rBAAAAAACuSV/9TBEDpmwpsMA1fw6i`
+Snapshot ID: `Z5wSgAAAAAC8KmZOUZ8whxvb5SwnHkoP`

@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 239279,
+  "num_followers": 239310,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAABfmzMML6Sj5dPVvfRoQIR5",
+  "snapshot_id": "Z5wSgAAAAADUNFE0BC0jOLzc6yd4VN9V",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Missionary",
-        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 176034,
-      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/3WXRXRRnWbbIFMOPKj8BB4"
+      "duration_ms": 207066,
+      "name": "I. Pink Toes",
+      "url": "https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn"
     },
     {
       "added_at": null,
@@ -567,22 +563,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
+        "name": "Missionary",
+        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 207066,
-      "name": "I. Pink Toes",
-      "url": "https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn"
+      "duration_ms": 176034,
+      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3WXRXRRnWbbIFMOPKj8BB4"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "guidance",
-        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 215198,
-      "name": "guidance",
-      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 161146,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "guidance",
+        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 215198,
+      "name": "guidance",
+      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
     },
     {
       "added_at": null,

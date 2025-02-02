@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 132472,
+  "num_followers": 132449,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "My Body's a Zombie For You",
-      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "My Body's a Zombie For You",
+      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Head of the Love Club",
         "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 175500,
       "name": "Little Vampire",
       "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "To Lose My Life ...",
-        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "To Lose My Life",
-      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 285920,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "To Lose My Life ...",
+        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "To Lose My Life",
+      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
     },
     {
       "added_at": "2024-11-14 23:00:00",

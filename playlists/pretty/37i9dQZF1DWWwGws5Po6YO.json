@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: LI YILEI",
-  "num_followers": 48240,
+  "num_followers": 48302,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
         "name": "Esperance",
         "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 215746,
       "name": "Esperance",
       "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -611,18 +611,22 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
       },
       "artists": [
         {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
+      "duration_ms": 226613,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -643,22 +647,18 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
       "artists": [
         {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
         }
       ],
-      "duration_ms": 226613,
-      "name": "Amare",
-      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 460000,
-      "name": "Frost",
-      "url": "https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 460000,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 437059,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "I'll Look For You In Others",
         "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "The Flower And The Vessel",
-        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 478488,
-      "name": "Moderato Cantabile",
-      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -1379,6 +1363,22 @@
       "duration_ms": 291026,
       "name": "Divining (naming of the Lost)",
       "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "The Flower And The Vessel",
+        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 478488,
+      "name": "Moderato Cantabile",
+      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Night Changes Many Thoughts",
-      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "Arboretum",
         "url": "https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 218505,
       "name": "Winter into Spring",
       "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Night Changes Many Thoughts",
+      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Desert Ballads",
-        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "As We Record the Disappearing Ice",
-      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "The Light That's Left",
         "url": "https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 198800,
       "name": "The Light That's Left",
       "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "Desert Ballads",
+        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "As We Record the Disappearing Ice",
+      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
     },
     {
       "added_at": "2025-01-31 04:00:25",

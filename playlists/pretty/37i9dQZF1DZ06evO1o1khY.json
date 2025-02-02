@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 31613,
+  "num_followers": 31674,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5rBAAAAAADK9aA18vBv96b/boQP8kfX",
+  "snapshot_id": "Z5wSgAAAAABMXBvnZaXcs90PTp8au4re",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 213608,
+      "name": "Lay Down - Remix",
+      "url": "https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HOOD POET",
         "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 156303,
       "name": "Bad Kids (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "On Wat U On (with GloRilla)",
-      "url": "https://open.spotify.com/track/6eHksHmETBULwFo0N3k562"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lay Down (Remix)",
-        "url": "https://open.spotify.com/album/0iErPUXAYKozyKHkm4oAU9"
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
       },
       "artists": [
         {
-          "name": "OMB Peezy",
-          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 213608,
-      "name": "Lay Down - Remix",
-      "url": "https://open.spotify.com/track/4MtdVcnZZ9WjssJV4whnPQ"
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/6eHksHmETBULwFo0N3k562"
     },
     {
       "added_at": null,
@@ -722,11 +722,15 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Boston Richey",
+          "url": "https://open.spotify.com/artist/6N6dtckgIXwmGROqfhwkFz"
         }
       ],
-      "duration_ms": 126315,
-      "name": "Opp Shit",
-      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
+      "duration_ms": 180800,
+      "name": "Bad Bih 4 Ya (feat. Boston Richey)",
+      "url": "https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V"
     },
     {
       "added_at": null,
@@ -887,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
       },
       "artists": [
         {
@@ -896,13 +900,13 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 156521,
-      "name": "Overstood (GloRilla)",
-      "url": "https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5"
+      "duration_ms": 197011,
+      "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
+      "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
     },
     {
       "added_at": null,
@@ -923,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
-        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
       },
       "artists": [
         {
@@ -932,13 +936,13 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 197011,
-      "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
-      "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
+      "duration_ms": 156521,
+      "name": "Overstood (GloRilla)",
+      "url": "https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,087 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,225 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 14 | [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 |
 | 15 | [Sunshine](https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Sunshine](https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF) | 3:03 |
 | 16 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 |
-| 17 | [Lose Control](https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lose Control](https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q) | 2:40 |
-| 18 | [Upside Down](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Upside Down](https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9) | 2:28 |
+| 17 | [Upside Down](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Upside Down](https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9) | 2:28 |
+| 18 | [Lose Control](https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lose Control](https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q) | 2:40 |
 | 19 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 | 20 | [Human \(Remix\)](https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Manimal](https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9) | [Human \(Remix\)](https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo) | 3:31 |
 | 21 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 |
