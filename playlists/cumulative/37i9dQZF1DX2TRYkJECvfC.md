@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-573 songs - 1 day 23 hr 51 min
+574 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2021-12-08 | 2024-04-13 |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 | 2021-12-08 | 2022-09-04 |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/1Y5C8ioJGpEYzSdAbcJsqn) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Nillla \(La la La la La\)](https://open.spotify.com/album/6LOzTtWRvtuCHlsRZchMu4) | 4:02 | 2022-05-03 | 2023-05-06 |
-| [No More](https://open.spotify.com/track/3IVzg7wBPT6h4oJbjd34uS) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [No More](https://open.spotify.com/album/20UreWApjSw8Kh7Uq6zwFt) | 5:09 | 2024-07-12 |  |
+| [No More](https://open.spotify.com/track/3IVzg7wBPT6h4oJbjd34uS) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [No More](https://open.spotify.com/album/20UreWApjSw8Kh7Uq6zwFt) | 5:09 | 2024-07-12 | 2025-02-03 |
 | [No Stress in Cres](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [No Stress in Cres](https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef) | 4:51 | 2023-10-13 |  |
 | [Nobody But You](https://open.spotify.com/track/2CrlhJAUBfMc53CYt0v8ev) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Hudson Scott](https://open.spotify.com/artist/1ejaJ2V5Ea7O43Y32vAwEl) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 4:51 | 2022-05-03 | 2024-03-09 |
 | [Nobody Knows](https://open.spotify.com/track/4hq1oUeJruAfgsEmfdtgLR) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Tarazed](https://open.spotify.com/album/03fHzOcSrqgaYKiKjs0Ldn) | 4:30 | 2023-02-14 |  |
@@ -576,6 +576,7 @@
 | [You & I](https://open.spotify.com/track/18FRKIMe5W7f3ah7xsYmwH) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/3hgGqJOaHGylGOtSHMJ0Fz) | 6:22 | 2022-05-03 | 2023-05-21 |
 | [You & I](https://open.spotify.com/track/4nv58e7q8KdkSafgTlQ7VB) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/5dFWnW9pGt4qOypBJwm9g3) | 6:22 | 2021-12-08 | 2022-07-29 |
 | [You're a Superstar](https://open.spotify.com/track/6i6Jj8hSVfpvqiXnVSvsTe) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [You're a Superstar](https://open.spotify.com/album/3MucnLVLWD41n03C7UQqnw) | 2:22 | 2022-02-21 | 2024-11-23 |
+| [Your Love](https://open.spotify.com/track/195FCOZRj3Z7H5AvfTwzbx) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Your Love](https://open.spotify.com/album/75WdbHFNhcNna9gLW229lL) | 3:48 | 2025-01-31 |  |
 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 | 2021-12-08 |  |
 | [Yuregine Deprem](https://open.spotify.com/track/4WyEKbKh03uvJRcdKRnBBi) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV), [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Yuregine Deprem](https://open.spotify.com/album/2sdxUgB4Oit1CtucCTaqhm) | 3:47 | 2021-12-08 | 2022-07-29 |
 | [Yuregine Deprem](https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Yuregine Deprem](https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99) | 3:47 | 2022-05-03 | 2024-04-19 |

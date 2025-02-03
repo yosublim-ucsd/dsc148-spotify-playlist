@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Anyma &amp; Ellie Goulding
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,055 likes - 120 songs - 6 hr 13 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,056 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

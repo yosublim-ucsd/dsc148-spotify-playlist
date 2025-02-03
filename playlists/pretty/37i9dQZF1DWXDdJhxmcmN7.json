@@ -1,6 +1,6 @@
 {
   "description": "Beats lo-fi con sabor mexa. Takeover: Chill&Go. Arte: Lis Marroquin ",
-  "num_followers": 32872,
+  "num_followers": 32990,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
+        "name": "Un Final",
+        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 235863,
+      "name": "Un Final",
+      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
       },
@@ -203,38 +219,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Un Final",
-        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 235863,
-      "name": "Un Final",
-      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Trompo de Pastor",
-        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
-      },
-      "artists": [
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Trompo de Pastor",
-      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "fiesta",
         "url": "https://open.spotify.com/album/7f2SsN58aFgvlZQj7mgYGw"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 137187,
       "name": "fiesta",
       "url": "https://open.spotify.com/track/6TsUg8El8NguxXebmWgSCs"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+      },
+      "artists": [
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "La Casa Azul",
-        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
-      },
-      "artists": [
-        {
-          "name": "De la Plante",
-          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
-        },
-        {
-          "name": "Federico Lenarduzzi",
-          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
-        }
-      ],
-      "duration_ms": 131541,
-      "name": "La Casa Azul",
-      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "Cumbia Psicod\u00e9lica",
         "url": "https://open.spotify.com/album/35Km6XTEEYQCIB7YZ9Vrtb"
       },
@@ -343,18 +323,22 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+        "name": "La Casa Azul",
+        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
       },
       "artists": [
         {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+          "name": "De la Plante",
+          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
+        },
+        {
+          "name": "Federico Lenarduzzi",
+          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
         }
       ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
+      "duration_ms": 131541,
+      "name": "La Casa Azul",
+      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -375,6 +359,22 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
         "name": "Respira",
         "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
       },
@@ -391,58 +391,6 @@
       "duration_ms": 168000,
       "name": "Respira",
       "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Dusty Beats 2",
-        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 65893,
-      "name": "Sonora (Interludio 2)",
-      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "tranqui",
-        "url": "https://open.spotify.com/album/1E0WkP4PHH8eatHnoxzXsO"
-      },
-      "artists": [
-        {
-          "name": "hazzelbeats",
-          "url": "https://open.spotify.com/artist/3dT7oRtDgSIB5HENQ223Nb"
-        }
-      ],
-      "duration_ms": 122191,
-      "name": "tranqui",
-      "url": "https://open.spotify.com/track/7DMW7Mo9muPOoCpfAgKEFL"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/2wvumsqitTryhLJdKfCrpP"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -471,6 +419,38 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
+        "name": "tranqui",
+        "url": "https://open.spotify.com/album/1E0WkP4PHH8eatHnoxzXsO"
+      },
+      "artists": [
+        {
+          "name": "hazzelbeats",
+          "url": "https://open.spotify.com/artist/3dT7oRtDgSIB5HENQ223Nb"
+        }
+      ],
+      "duration_ms": 122191,
+      "name": "tranqui",
+      "url": "https://open.spotify.com/track/7DMW7Mo9muPOoCpfAgKEFL"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Dusty Beats 2",
+        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 65893,
+      "name": "Sonora (Interludio 2)",
+      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
         "name": "Autorretrato",
         "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
       },
@@ -491,34 +471,22 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Chola - Beat Tape",
-        "url": "https://open.spotify.com/album/5p0noa82CVmfKHvfFyuYQ6"
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 129804,
-      "name": "por ti",
-      "url": "https://open.spotify.com/track/22QRuNu0lS0pD8eMVQDOsH"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
-        "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
-      },
-      "artists": [
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
         {
-          "name": "JOSUE A.S",
-          "url": "https://open.spotify.com/artist/1NlIim5DiRnxn77GosYlN1"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
-      "url": "https://open.spotify.com/track/1uSjwldHYBafRBZr6OAnIs"
+      "duration_ms": 114000,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/2wvumsqitTryhLJdKfCrpP"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -535,6 +503,38 @@
       "duration_ms": 144363,
       "name": "La Villa",
       "url": "https://open.spotify.com/track/1X54JQsqoNdQS11kpCwh1U"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Birria",
+        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 119527,
+      "name": "Birria",
+      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
+        "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
+      },
+      "artists": [
+        {
+          "name": "JOSUE A.S",
+          "url": "https://open.spotify.com/artist/1NlIim5DiRnxn77GosYlN1"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
+      "url": "https://open.spotify.com/track/1uSjwldHYBafRBZr6OAnIs"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
+        "name": "Zer",
+        "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
+      },
+      "artists": [
+        {
+          "name": "Drasharth",
+          "url": "https://open.spotify.com/artist/3YSlQVl8g56svjM2vwPFPE"
+        }
+      ],
+      "duration_ms": 186214,
+      "name": "MexFi",
+      "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
         "name": "Taco de barbacoa",
         "url": "https://open.spotify.com/album/4tHJKkqpiJ5ccLFA7LdYrY"
       },
@@ -579,18 +595,38 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Zer",
-        "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
+        "name": "Chola - Beat Tape",
+        "url": "https://open.spotify.com/album/5p0noa82CVmfKHvfFyuYQ6"
       },
       "artists": [
         {
-          "name": "Drasharth",
-          "url": "https://open.spotify.com/artist/3YSlQVl8g56svjM2vwPFPE"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 186214,
-      "name": "MexFi",
-      "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
+      "duration_ms": 129804,
+      "name": "por ti",
+      "url": "https://open.spotify.com/track/22QRuNu0lS0pD8eMVQDOsH"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Taco Envenenado",
+        "url": "https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Taco Envenenado",
+      "url": "https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -627,38 +663,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "la zona",
-        "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
-      },
-      "artists": [
-        {
-          "name": "SUNNO",
-          "url": "https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "la zona",
-      "url": "https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Birria",
-        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 119527,
-      "name": "Birria",
-      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "El Mercado",
         "url": "https://open.spotify.com/album/09BVrTYlFl82ndSfLcpqLS"
       },
@@ -675,6 +679,22 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
+        "name": "la zona",
+        "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
+      },
+      "artists": [
+        {
+          "name": "SUNNO",
+          "url": "https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "la zona",
+      "url": "https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
         "name": "Another Chrismast",
         "url": "https://open.spotify.com/album/1sMBHtMqurzzvcG67UhWFo"
       },
@@ -687,6 +707,22 @@
       "duration_ms": 143283,
       "name": "Another Chrismast",
       "url": "https://open.spotify.com/track/32Mk9n4NLiQ2UJs73xGpvo"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
+      },
+      "artists": [
+        {
+          "name": "Gagdropers",
+          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
+        }
+      ],
+      "duration_ms": 132551,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -743,22 +779,50 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Taco Envenenado",
-        "url": "https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW"
+        "name": "Velita",
+        "url": "https://open.spotify.com/album/6hAlzCXbTG1hK8LyKL3RGP"
       },
       "artists": [
         {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+          "name": "Shetafacker",
+          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
         }
       ],
-      "duration_ms": 118285,
-      "name": "Taco Envenenado",
-      "url": "https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4"
+      "duration_ms": 146250,
+      "name": "Velita",
+      "url": "https://open.spotify.com/track/3PF57MOvltYgERpjyrCcPr"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Sonora Sunset",
+        "url": "https://open.spotify.com/album/0pRI7eDfbsp8CTNyR3bgUy"
+      },
+      "artists": [
+        {
+          "name": "Sh\u014d.gun",
+          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
+        }
+      ],
+      "duration_ms": 121481,
+      "name": "Sonora Sunset",
+      "url": "https://open.spotify.com/track/5L43t8y0vjwa8MDHySdVz0"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Moreno",
+        "url": "https://open.spotify.com/album/3IVSTr3ARmJXeWlQaVrUYe"
+      },
+      "artists": [
+        {
+          "name": "Chill Blunt",
+          "url": "https://open.spotify.com/artist/5lwo4rPPfp9QPDVTwF1k0f"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Tres",
+      "url": "https://open.spotify.com/track/07HF3nOzSgzGzQVNBbTvIV"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -803,18 +867,18 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
+        "name": "M\u00e9xico lofi",
+        "url": "https://open.spotify.com/album/1B9IWojkmn40BhjoinC6hQ"
       },
       "artists": [
         {
-          "name": "Gagdropers",
-          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
         }
       ],
-      "duration_ms": 132551,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy"
+      "duration_ms": 117779,
+      "name": "Mi tierra",
+      "url": "https://open.spotify.com/track/30bFkZVlFbKsYxRoR1JUmf"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -839,22 +903,6 @@
       "duration_ms": 202590,
       "name": "ajijic, jalisco",
       "url": "https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Los Vinilos de Mi Abuelo",
-        "url": "https://open.spotify.com/album/5ydNvh7aeSfYrPWL2Q7r7I"
-      },
-      "artists": [
-        {
-          "name": "Unsxgned",
-          "url": "https://open.spotify.com/artist/3OAjPREfc1vOHOBQp4f4z6"
-        }
-      ],
-      "duration_ms": 165008,
-      "name": "Los Vinilos de Mi Abuelo",
-      "url": "https://open.spotify.com/track/066KFPg9SDg95q5Gbzgu06"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -895,50 +943,38 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Velita",
-        "url": "https://open.spotify.com/album/6hAlzCXbTG1hK8LyKL3RGP"
+        "name": "Los Vinilos de Mi Abuelo",
+        "url": "https://open.spotify.com/album/5ydNvh7aeSfYrPWL2Q7r7I"
       },
       "artists": [
         {
-          "name": "Shetafacker",
-          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+          "name": "Unsxgned",
+          "url": "https://open.spotify.com/artist/3OAjPREfc1vOHOBQp4f4z6"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Velita",
-      "url": "https://open.spotify.com/track/3PF57MOvltYgERpjyrCcPr"
+      "duration_ms": 165008,
+      "name": "Los Vinilos de Mi Abuelo",
+      "url": "https://open.spotify.com/track/066KFPg9SDg95q5Gbzgu06"
     },
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "M\u00e9xico lofi",
-        "url": "https://open.spotify.com/album/1B9IWojkmn40BhjoinC6hQ"
+        "name": "Capricho N.01",
+        "url": "https://open.spotify.com/album/4ibjPtyX70qWJs1vrAHDog"
       },
       "artists": [
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
-        }
-      ],
-      "duration_ms": 117779,
-      "name": "Mi tierra",
-      "url": "https://open.spotify.com/track/30bFkZVlFbKsYxRoR1JUmf"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Sonora Sunset",
-        "url": "https://open.spotify.com/album/0pRI7eDfbsp8CTNyR3bgUy"
-      },
-      "artists": [
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        },
         {
-          "name": "Sh\u014d.gun",
-          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
+          "name": "Goldweight",
+          "url": "https://open.spotify.com/artist/19YNMn4hUCwEMxW9mBuGfy"
         }
       ],
-      "duration_ms": 121481,
-      "name": "Sonora Sunset",
-      "url": "https://open.spotify.com/track/5L43t8y0vjwa8MDHySdVz0"
+      "duration_ms": 110432,
+      "name": "El Principio",
+      "url": "https://open.spotify.com/track/2W23HpWRQhlHj3sIJb8MdI"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -979,42 +1015,6 @@
       "duration_ms": 91778,
       "name": "Nimbo",
       "url": "https://open.spotify.com/track/4CFFQpQm9Mn3fSruzOIw74"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Capricho N.01",
-        "url": "https://open.spotify.com/album/4ibjPtyX70qWJs1vrAHDog"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Goldweight",
-          "url": "https://open.spotify.com/artist/19YNMn4hUCwEMxW9mBuGfy"
-        }
-      ],
-      "duration_ms": 110432,
-      "name": "El Principio",
-      "url": "https://open.spotify.com/track/2W23HpWRQhlHj3sIJb8MdI"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Moreno",
-        "url": "https://open.spotify.com/album/3IVSTr3ARmJXeWlQaVrUYe"
-      },
-      "artists": [
-        {
-          "name": "Chill Blunt",
-          "url": "https://open.spotify.com/artist/5lwo4rPPfp9QPDVTwF1k0f"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Tres",
-      "url": "https://open.spotify.com/track/07HF3nOzSgzGzQVNBbTvIV"
     },
     {
       "added_at": "2025-01-31 06:00:28",

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Blahalouisiana",
-  "num_followers": 14195,
+  "num_followers": 14201,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ"
+      },
+      "artists": [
+        {
+          "name": "Koll\u00e1r Dea",
+          "url": "https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
         "name": "Mez\u00edtl\u00e1b",
         "url": "https://open.spotify.com/album/2TUAFNnuCHQzwsKXrJH4CG"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 207546,
       "name": "Mez\u00edtl\u00e1b",
       "url": "https://open.spotify.com/track/7AV4aH4TEg2YggBzVaKgjS"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ"
-      },
-      "artists": [
-        {
-          "name": "Koll\u00e1r Dea",
-          "url": "https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
-        "name": "FELDOBOM A K\u00d6VET",
-        "url": "https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "FELDOBOM A K\u00d6VET",
-      "url": "https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
         "name": "A b\u00e1lban",
         "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
-        "name": "Od\u00fa",
-        "url": "https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 210005,
-      "name": "Od\u00fa",
-      "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
         "name": "F\u00fcgg\u0151h\u00edd",
         "url": "https://open.spotify.com/album/1cQmne6wI1HME5NMqu7MoG"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 153005,
       "name": "F\u00fcgg\u0151h\u00edd",
       "url": "https://open.spotify.com/track/6zcsO14Ut0Dsmep5sev482"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
+        "name": "FELDOBOM A K\u00d6VET",
+        "url": "https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "FELDOBOM A K\u00d6VET",
+      "url": "https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
+        "name": "Od\u00fa",
+        "url": "https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 210005,
+      "name": "Od\u00fa",
+      "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
+        "name": "Csillagb\u00f3l f\u00e9ny",
+        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 251423,
+      "name": "Csillagb\u00f3l f\u00e9ny",
+      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
         "name": "n\u00e9ha-n\u00e9ha",
         "url": "https://open.spotify.com/album/4ozadBudxjgvEmKraTBPi8"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 201000,
       "name": "n\u00e9ha-n\u00e9ha",
       "url": "https://open.spotify.com/track/3d11FZAmFZ57EXpv0CgsGO"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
-        "name": "Csillagb\u00f3l f\u00e9ny",
-        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 251423,
-      "name": "Csillagb\u00f3l f\u00e9ny",
-      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
         "name": "Cloudy Skies",
         "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
+      },
+      "artists": [
+        {
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
-        "name": "H\u00e9jan\u00e1sz",
-        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 188230,
-      "name": "H\u00e9jan\u00e1sz",
-      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
         "name": "Engem szeretni neh\u00e9z",
         "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 242803,
       "name": "Engem szeretni neh\u00e9z",
       "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
+        "name": "H\u00e9jan\u00e1sz",
+        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 188230,
+      "name": "H\u00e9jan\u00e1sz",
+      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
-        "name": "Zenekar (5 f\u0151re)",
-        "url": "https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT"
-      },
-      "artists": [
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 197844,
-      "name": "Zenekar - 5 f\u0151re",
-      "url": "https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
         "name": "T\u00fckr\u00f6k",
         "url": "https://open.spotify.com/album/5VzEhxcbWr9NQFaCivfp42"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 213333,
       "name": "Nekedval\u00f3s\u00e1g",
       "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
+        "name": "Zenekar (5 f\u0151re)",
+        "url": "https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "duration_ms": 197844,
+      "name": "Zenekar - 5 f\u0151re",
+      "url": "https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
+        "name": "Tal\u00e1n",
+        "url": "https://open.spotify.com/album/0lkJsDRKUKNj7SbhwxIaMQ"
+      },
+      "artists": [
+        {
+          "name": "Labek & Chrobak",
+          "url": "https://open.spotify.com/artist/4T8Wfe5msKm69gj4mJUefK"
+        },
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 283631,
+      "name": "Tal\u00e1n",
+      "url": "https://open.spotify.com/track/0wjC043aJvsNJ4irylqZht"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
         "name": "CSILLAGT\u00daRA",
         "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
       },
@@ -1403,22 +1423,6 @@
       "duration_ms": 219474,
       "name": "CSILLAGT\u00daRA",
       "url": "https://open.spotify.com/track/2XpwU5EvFQNRDJqTWrajaC"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
-        "name": "Med\u00faza",
-        "url": "https://open.spotify.com/album/32QM8xH4rYWLe0817ZhMju"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9terfy Bori & Love Band",
-          "url": "https://open.spotify.com/artist/1rRAJF3FBwQsGx4twrUqiC"
-        }
-      ],
-      "duration_ms": 209050,
-      "name": "Med\u00faza",
-      "url": "https://open.spotify.com/track/5rt2rfkScn4MNvLsm3ngKL"
     }
   ],
   "unique_name": "Nemazapop",

@@ -6,7 +6,7 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAce5HqQgfaTQiGWQDORjsOKOV3trM3",
+  "snapshot_id": "AAAciJSw7e4GJFF6xr77hli7ZSx0oidP",
   "tracks": [
     {
       "added_at": "2025-02-01 02:43:11",
@@ -73,20 +73,20 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2025-02-01 02:43:11",
+      "added_at": "2025-02-02 22:29:53",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr"
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/1ozQDYIyCeM7YKhHotVdny"
       },
       "artists": [
         {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 205632,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/0rPHsDRiWwPfR6HG7JLj1K"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-02-01 02:43:11",
       "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 260946,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/43wNqEJvEkdWVgNQmOnLiB"
-    },
-    {
-      "added_at": "2025-02-01 02:43:11",
-      "album": {
         "name": "Bass Player's Brother",
         "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 186489,
       "name": "Bass Player's Brother",
       "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
+    },
+    {
+      "added_at": "2025-02-01 02:43:11",
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 260946,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/43wNqEJvEkdWVgNQmOnLiB"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -155,34 +155,18 @@
     {
       "added_at": "2025-02-01 02:43:11",
       "album": {
-        "name": "Unaired",
-        "url": "https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 237200,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e"
-    },
-    {
-      "added_at": "2025-02-01 02:43:11",
-      "album": {
-        "name": "A Tear in Space (Airlock)",
-        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 203989,
-      "name": "A Tear in Space (Airlock)",
-      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+      "duration_ms": 205632,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -199,6 +183,22 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "added_at": "2025-02-01 02:43:11",
+      "album": {
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -235,18 +235,18 @@
     {
       "added_at": "2025-02-01 02:43:11",
       "album": {
-        "name": "Panoramic View",
-        "url": "https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz"
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo"
       },
       "artists": [
         {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 232733,
-      "name": "Panoramic View",
-      "url": "https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG"
+      "duration_ms": 237200,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -323,18 +323,18 @@
     {
       "added_at": "2025-02-01 02:43:11",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+        "name": "Panoramic View",
+        "url": "https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+      "duration_ms": 232733,
+      "name": "Panoramic View",
+      "url": "https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -407,18 +407,18 @@
     {
       "added_at": "2025-02-01 02:43:11",
       "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 191746,
-      "name": "That's How I'm Feeling",
-      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -487,18 +487,18 @@
     {
       "added_at": "2025-02-01 02:43:11",
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 201233,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
+      "duration_ms": 191746,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-02-01 02:43:11",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -643,6 +643,22 @@
       "duration_ms": 128735,
       "name": "and it feels",
       "url": "https://open.spotify.com/track/2tlfU7XGAMIRkmfeoHZXPj"
+    },
+    {
+      "added_at": "2025-02-01 02:43:11",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "added_at": "2025-02-01 02:43:11",
@@ -1151,22 +1167,6 @@
       "duration_ms": 213014,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0mxw4ASEKtasJM6cSGPpmr"
-    },
-    {
-      "added_at": "2025-02-01 02:43:11",
-      "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
     },
     {
       "added_at": "2025-02-01 02:43:11",

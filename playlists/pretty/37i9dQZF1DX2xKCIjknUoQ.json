@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 48960,
+  "num_followers": 48974,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "666.667 Club",
-        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
-      },
-      "artists": [
-        {
-          "name": "Noir D\u00e9sir",
-          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "L'homme press\u00e9",
-      "url": "https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "La cerise",
         "url": "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
+        "name": "666.667 Club",
+        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
       },
       "artists": [
         {
-          "name": "Mickey 3d",
-          "url": "https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF"
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
         }
       ],
-      "duration_ms": 186440,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
+      "duration_ms": 225933,
+      "name": "L'homme press\u00e9",
+      "url": "https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -299,6 +283,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
+      },
+      "artists": [
+        {
+          "name": "Mickey 3d",
+          "url": "https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "L'amour Parfait",
         "url": "https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX"
       },
@@ -311,54 +311,6 @@
       "duration_ms": 213800,
       "name": "Elle m'a dit",
       "url": "https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Nevermind the Living Dead",
-        "url": "https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Toy Boy",
-      "url": "https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Coming Out (Standard)",
-        "url": "https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm"
-      },
-      "artists": [
-        {
-          "name": "Les Fatals Picards",
-          "url": "https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Le retour \u00e0 la terre",
-      "url": "https://open.spotify.com/track/715zIQcEj658KTFby8MJYp"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "666.667 Club",
-        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
-      },
-      "artists": [
-        {
-          "name": "Noir D\u00e9sir",
-          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Comme elle vient",
-      "url": "https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -379,6 +331,38 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "666.667 Club",
+        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Comme elle vient",
+      "url": "https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Nevermind the Living Dead",
+        "url": "https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Toy Boy",
+      "url": "https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "\u00c7a me vexe",
         "url": "https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 226800,
       "name": "Jalouse",
       "url": "https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Coming Out (Standard)",
+        "url": "https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm"
+      },
+      "artists": [
+        {
+          "name": "Les Fatals Picards",
+          "url": "https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Le retour \u00e0 la terre",
+      "url": "https://open.spotify.com/track/715zIQcEj658KTFby8MJYp"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Dolly (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y"
-      },
-      "artists": [
-        {
-          "name": "Dolly",
-          "url": "https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Je n'veux pas rester sage",
-      "url": "https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "\u00eel",
         "url": "https://open.spotify.com/album/3jTF9VlDnWcu4lGbMXRnHI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 196600,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/3XwQ8ks84wlj3YcRyxXrlN"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Dolly (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y"
+      },
+      "artists": [
+        {
+          "name": "Dolly",
+          "url": "https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Je n'veux pas rester sage",
+      "url": "https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Jouer dehors",
+        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
+      },
+      "artists": [
+        {
+          "name": "Mademoiselle K",
+          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Jouer dehors",
+      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "Izia",
         "url": "https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm"
       },
@@ -527,34 +543,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Pamplemousse M\u00e9canique (Edition Eurovision + 1 titre bonus)",
-        "url": "https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu"
+        "name": "La t\u00eate en arri\u00e8re",
+        "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
       },
       "artists": [
         {
-          "name": "Les Fatals Picards",
-          "url": "https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz"
+          "name": "Luke",
+          "url": "https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO"
         }
       ],
-      "duration_ms": 162693,
-      "name": "L'Amour \u00e0 la fran\u00e7aise",
-      "url": "https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Jouer dehors",
-        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
-      },
-      "artists": [
-        {
-          "name": "Mademoiselle K",
-          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Jouer dehors",
-      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
+      "duration_ms": 188280,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "La t\u00eate en arri\u00e8re",
-        "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
+        "name": "Pamplemousse M\u00e9canique (Edition Eurovision + 1 titre bonus)",
+        "url": "https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu"
       },
       "artists": [
         {
-          "name": "Luke",
-          "url": "https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO"
+          "name": "Les Fatals Picards",
+          "url": "https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz"
         }
       ],
-      "duration_ms": 188280,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG"
+      "duration_ms": 162693,
+      "name": "L'Amour \u00e0 la fran\u00e7aise",
+      "url": "https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH"
     },
     {
       "added_at": "2024-06-24 19:56:15",

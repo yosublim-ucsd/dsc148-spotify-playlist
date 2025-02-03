@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-254 songs - 14 hr 7 min
+255 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Smile Flower](https://open.spotify.com/track/054sQZ2qmw0Ya7N0XSxl3j) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:52 | 2022-05-27 |  |
 | [Snap Shoot](https://open.spotify.com/track/1Yimn9plSAWNv9G3ePzITO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 2:55 | 2022-07-21 | 2024-04-19 |
 | [Snap Shoot](https://open.spotify.com/track/6Ow2fTmMI6T7LeOUznHBAm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 2:55 | 2022-05-27 |  |
+| [Somewhere in This Universe](https://open.spotify.com/track/4oAp3etVXydrLaVBcXHvDZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [When the Stars Gossip OST Part.4](https://open.spotify.com/album/0J0BdxuVScM437RcBmmHDG) | 4:24 | 2025-02-03 |  |
 | [SOS \(Prod\. Marshmello\)](https://open.spotify.com/track/3oTDi9MWC0JB39FcsLRon3) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:12 | 2023-11-03 |  |
 | [Spell](https://open.spotify.com/track/2L6QRccSHAsdZDc9gz6Bfi) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:17 | 2024-04-29 |  |
 | [Spider](https://open.spotify.com/track/2TwB7aK39tnZBQjBPgcbCj) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Spider](https://open.spotify.com/album/3PtE3yizKf8e2MzCtXU8K9) | 3:31 | 2022-05-27 |  |

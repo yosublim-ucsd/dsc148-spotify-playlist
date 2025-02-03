@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 203086,
       "name": "Everything Is A Cult",
       "url": "https://open.spotify.com/track/3Iz2maejf44VizLxMtBC9R"
@@ -10603,6 +10603,24 @@
     },
     {
       "album": {
+        "name": "LOST!",
+        "url": "https://open.spotify.com/album/2XbZzLQYHh43DiDyxS8K9T"
+      },
+      "artists": [
+        {
+          "name": "Nerv",
+          "url": "https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "LOST!",
+      "url": "https://open.spotify.com/track/5yv3Wt4FSt0rijkxAIdXji"
+    },
+    {
+      "album": {
         "name": "Dream Machine (The Lucid Edition)",
         "url": "https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F"
       },
@@ -14004,7 +14022,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 204906,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/6CBzAoZQxtQRijpauBTYRG"
@@ -18522,6 +18540,24 @@
       "duration_ms": 212571,
       "name": "Through My Head",
       "url": "https://open.spotify.com/track/7ydzZp3LEAugJbxCaJBiYh"
+    },
+    {
+      "album": {
+        "name": "The Hart",
+        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220096,
+      "name": "Through The Landslide",
+      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
     },
     {
       "album": {

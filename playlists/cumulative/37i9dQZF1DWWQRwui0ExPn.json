@@ -14096,7 +14096,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 147000,
       "name": "Blue Autumn",
       "url": "https://open.spotify.com/track/384o83LbqnmcXpdl8SaYnl"
@@ -22066,7 +22066,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 132500,
       "name": "chop suey lunch special",
       "url": "https://open.spotify.com/track/79KYPpZH78Vbab2qZqrGiD"
@@ -47470,7 +47470,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 152030,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7JGMIK6MNkDEoCSsdABXII"
@@ -67978,7 +67978,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 125787,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2"
@@ -108299,6 +108299,24 @@
     },
     {
       "album": {
+        "name": "Slow & Steady",
+        "url": "https://open.spotify.com/album/1rRpI35chNLEDzJUPKBpDE"
+      },
+      "artists": [
+        {
+          "name": "fluffy",
+          "url": "https://open.spotify.com/artist/4OqfSWELqg0RW8Ab9blfaA"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121371,
+      "name": "Slow & Steady",
+      "url": "https://open.spotify.com/track/3SfUB3X9sfBNDHY5WhgwWN"
+    },
+    {
+      "album": {
         "name": "Slow Breaths",
         "url": "https://open.spotify.com/album/5AoEPaJg52pcsTYJ432PMl"
       },
@@ -108578,7 +108596,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 98863,
       "name": "slowly",
       "url": "https://open.spotify.com/track/0OQycB6AjHHMbGii30Mo56"

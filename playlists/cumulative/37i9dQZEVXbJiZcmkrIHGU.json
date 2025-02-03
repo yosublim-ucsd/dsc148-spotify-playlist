@@ -5872,7 +5872,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -6582,7 +6582,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 133932,
       "name": "bauch beine po",
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
@@ -6786,7 +6786,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -14994,7 +14994,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -15446,7 +15446,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 162613,
       "name": "Dreck",
       "url": "https://open.spotify.com/track/5jK9Nw8l237DA7dsB0suAJ"
@@ -16378,7 +16378,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 160000,
       "name": "D\u00f3nde",
       "url": "https://open.spotify.com/track/12WDhdA9LAn4FqiuPhOTWZ"
@@ -16560,7 +16560,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 155500,
       "name": "Edibles",
       "url": "https://open.spotify.com/track/4YfgoRJrhbLsxZRxaUe5Sj"
@@ -20524,7 +20524,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 133850,
       "name": "French Nails",
       "url": "https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ"
@@ -32509,6 +32509,24 @@
     },
     {
       "album": {
+        "name": "Lej kto rrena",
+        "url": "https://open.spotify.com/album/4bBU1jMBMnQEAI3vJm2Ef9"
+      },
+      "artists": [
+        {
+          "name": "Butrint Imeri",
+          "url": "https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165001,
+      "name": "Lej kto rrena",
+      "url": "https://open.spotify.com/track/28LgPbNAuQOYOcdoJzaGGP"
+    },
+    {
+      "album": {
         "name": "B4 The Storm",
         "url": "https://open.spotify.com/album/2vGU0DOcfsDee0euvhl1iZ"
       },
@@ -39068,7 +39086,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -41588,7 +41606,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -41720,7 +41738,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 187421,
       "name": "Nur die Nacht",
       "url": "https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp"
@@ -57388,7 +57406,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 151298,
       "name": "Uhr",
       "url": "https://open.spotify.com/track/2Qd7CMkV1FeZfTBi8Ib0VT"
@@ -59584,7 +59602,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 308575,
       "name": "Wake Me Up (feat. Justice)",
       "url": "https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul"

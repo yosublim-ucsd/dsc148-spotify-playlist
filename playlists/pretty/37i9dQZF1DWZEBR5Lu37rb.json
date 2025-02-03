@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 82014,
+  "num_followers": 82095,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 209235,
-      "name": "Jolie",
-      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -407,6 +391,22 @@
       "duration_ms": 165448,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 427217,
       "name": "Masithokoze",
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Love & Light",
-        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 158052,
-      "name": "Beginning",
-      "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158052,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+        }
+      ],
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
         "name": "Broken Lipstick",
         "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 313714,
       "name": "I Do (feat. Amanda Black)",
       "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
-      },
-      "artists": [
-        {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
-        }
-      ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
-      },
-      "artists": [
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Number One",
-      "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Don't Keep Me Waiting",
         "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 227864,
       "name": "Don't Keep Me Waiting",
       "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 249866,
       "name": "Zodwa",
       "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "added_at": "2025-01-09 10:09:30",

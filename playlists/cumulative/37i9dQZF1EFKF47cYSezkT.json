@@ -70,10 +70,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 163000,
       "name": "American Adrenaline",
       "url": "https://open.spotify.com/track/3lB29hZfDXcYVkPIxhRcEY"
+    },
+    {
+      "album": {
+        "name": "KAWALA Collection",
+        "url": "https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "American Adrenaline",
+      "url": "https://open.spotify.com/track/5UFAGUdeoNHlm0Y6nLH8Fo"
     },
     {
       "album": {

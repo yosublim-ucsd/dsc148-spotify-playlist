@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,221 songs - 3 day 12 hr 39 min
+2,223 songs - 3 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,7 +786,7 @@
 | [Go to sleep](https://open.spotify.com/track/5BjcGj8GGtrnk0E0IGFqvD) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Go to sleep](https://open.spotify.com/album/2KPWKG9c1ZMKVWeGy45oJ5) | 2:24 | 2024-10-11 | 2024-11-16 |
 | [Goemon](https://open.spotify.com/track/7gfFlcWn0kNXi7oqTjkvTe) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Goemon](https://open.spotify.com/album/0GuzjoM2X7sGfV3VWcTduF) | 2:27 | 2023-08-03 | 2023-10-06 |
 | [Goes Around Comes Around](https://open.spotify.com/track/5FAGCFR3IUYJfOC4VCys8b) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Goes Around Comes Around](https://open.spotify.com/album/2wucS65hsTvv8WIVhLTJb1) | 2:31 | 2022-08-19 | 2022-12-17 |
-| [going home](https://open.spotify.com/track/1CP8ak51uQUi1G3MwBCYFk) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [going home](https://open.spotify.com/album/6loXdEyhzQlGIuDc1A96pO) | 2:03 | 2022-10-28 |  |
+| [going home](https://open.spotify.com/track/1CP8ak51uQUi1G3MwBCYFk) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [going home](https://open.spotify.com/album/6loXdEyhzQlGIuDc1A96pO) | 2:03 | 2022-10-28 | 2025-02-03 |
 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 | 2023-02-13 |  |
 | [golden ratio](https://open.spotify.com/track/4F5FPoDTBsuFmwkmIiDypZ) | [russki dilemma](https://open.spotify.com/artist/7Mo8ORceX8Hw7BdLKRso4J) | [golden ratio](https://open.spotify.com/album/2K2SqemhUZ9RO6ZWNr6sjZ) | 2:23 | 2022-04-15 | 2023-08-18 |
 | [Good As You](https://open.spotify.com/track/4r0wRQ7pw3ACGqNAKst3vB) | [Olle NB](https://open.spotify.com/artist/5HpbRGf62WXEBZbbMBCx80) | [Phases](https://open.spotify.com/album/01BpB45Lmbt3hZzurYa3It) | 1:39 | 2022-09-02 | 2024-05-25 |
@@ -916,6 +916,7 @@
 | [iceberg](https://open.spotify.com/track/6iza3mLh6G5jtw4DUJgWqZ) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [iceberg](https://open.spotify.com/album/1Aqy2EL1trEFMdDCoOKpYG) | 2:31 | 2024-07-26 | 2024-10-10 |
 | [Icecoffee Season](https://open.spotify.com/track/5TeLSirV20P8TpjjCvDpfd) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Icecoffee Season](https://open.spotify.com/album/2SIQj1Mn0RROzHSCQaH17b) | 1:59 | 2022-07-15 | 2023-10-06 |
 | [Iced Out](https://open.spotify.com/track/6N8OGfRHG6gqfpq1BULhzg) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Iced Out](https://open.spotify.com/album/6EujA0zskGp3NsefxPmOX9) | 2:03 | 2024-03-22 | 2024-10-01 |
+| [Idle](https://open.spotify.com/track/0JNzya76xG0ubKczzLsvWo) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Idle](https://open.spotify.com/album/4BXVmxpA1IZbaCmqkiSIQE) | 2:13 | 2025-01-31 |  |
 | [Idyllic](https://open.spotify.com/track/5AveowMyJKst81mznnDn3q) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Idyllic](https://open.spotify.com/album/64uSGFrQ3szLAWUBe4KfyR) | 1:58 | 2023-03-20 | 2024-02-09 |
 | [If So](https://open.spotify.com/track/5aUtGFhNUeNjX5piVkJera) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [If So](https://open.spotify.com/album/1H3MVoueBdHkp05j6chiXv) | 1:48 | 2024-07-05 | 2024-08-29 |
 | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/track/7wUevqE8Kpl6p6xZKAi7gl) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/album/5qRXYnq5sYYvSfrR77bnQN) | 2:42 | 2023-04-03 | 2023-10-20 |
@@ -1830,6 +1831,7 @@
 | [Starscapes](https://open.spotify.com/track/4Kxz7mFnE1dVsxbM6nZCxU) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Miracle](https://open.spotify.com/album/7yILBiqYvyWNs1hJ7NrnwU) | 2:32 | 2022-07-29 | 2022-08-12 |
 | [Starscapes](https://open.spotify.com/track/5NaWL5ISaHzLrL95t5U1M3) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Miracle](https://open.spotify.com/album/72vVfOOz58z2enjlALQUvv) | 2:32 | 2022-04-15 | 2022-07-29 |
 | [Startup](https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Startup](https://open.spotify.com/album/5VabtlN8uQLiftYe13BGvJ) | 2:47 | 2022-04-15 | 2022-09-09 |
+| [stay closer](https://open.spotify.com/track/26d8n4MjhZNopkmZKqCHM0) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [stay closer](https://open.spotify.com/album/5pSHFnyIyAM9LWI2CtGXhJ) | 2:05 | 2025-01-31 |  |
 | [stay here forever](https://open.spotify.com/track/7a6pu1aq2siFqMiLsLTcbB) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [stay here forever](https://open.spotify.com/album/4NLgYPTckHgyaiG3bZNqHP) | 2:14 | 2025-01-10 |  |
 | [stomp around](https://open.spotify.com/track/7ccSh1AqYoH8UMvWU43HQZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [stomp around](https://open.spotify.com/album/1pt2F8Ch6rYUGFMirLfo0f) | 2:07 | 2023-07-13 | 2024-09-07 |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2023-10-13 |  |
@@ -1887,7 +1889,7 @@
 | [Sunrays](https://open.spotify.com/track/0uJWwpRKgHFmFDIyXQtsji) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Sunrays](https://open.spotify.com/album/30sK54lSHYBcB95sRJn0QF) | 2:30 | 2022-11-18 | 2023-02-07 |
 | [Sunrise](https://open.spotify.com/track/7Kg3YSa4bilbvyFRSWScG0) | [Clipsheet](https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2) | [Sunrise](https://open.spotify.com/album/2MYdmyaARWA73eRLaD0PWi) | 1:43 | 2022-11-25 | 2023-09-16 |
 | [sunset](https://open.spotify.com/track/5NO2HocQGechq8BaHmvbIa) | [Aran Brôg](https://open.spotify.com/artist/7ba3vzhS4RU7esRdjexxwA) | [sunset](https://open.spotify.com/album/6hBdzlZdJVZZmDyT1fHMnT) | 2:20 | 2022-11-25 | 2023-02-07 |
-| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 |  |
+| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 | 2025-02-03 |
 | [Sunset](https://open.spotify.com/track/25E3oiuIVUsjow8jWW7GAf) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Coastal](https://open.spotify.com/album/5Vl92yFBmLGcr5bJ8p2vQ6) | 2:33 | 2022-10-07 | 2023-01-13 |
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-04-15 | 2022-08-12 |
 | [Sunset](https://open.spotify.com/track/1aswhgX6xYksPefv9z1phm) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Sunset](https://open.spotify.com/album/3TWhBNWnXwJ8wJpH0vOyTM) | 2:34 | 2024-04-26 |  |

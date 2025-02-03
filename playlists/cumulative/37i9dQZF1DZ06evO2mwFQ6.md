@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 40 min
+100 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Freakin' Weekend](https://open.spotify.com/track/0uWn5pMMb1go0idjjYxgRO) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed of Life](https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng) | 3:16 | 2024-12-07 |  |
 | [Freedom Rebels](https://open.spotify.com/track/5lW0nfOBqqv7k0HfOVrQEQ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Acoustic Diary](https://open.spotify.com/album/0Uiuepe8vEI4tKp2CvOLWg) | 3:29 | 2024-12-06 | 2024-12-07 |
 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 | 2023-06-17 |  |
-| [Get On Down The Road](https://open.spotify.com/track/0L4LJGIt2QkQOnA6ZtUZC8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 3:10 | 2023-06-17 |  |
+| [Get On Down The Road](https://open.spotify.com/track/0L4LJGIt2QkQOnA6ZtUZC8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 3:10 | 2023-06-17 | 2025-02-03 |
+| [Get On Down The Road](https://open.spotify.com/track/7GnbMZ6TB9BNx3BVb2Q9XN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL) | 3:10 | 2025-02-03 |  |
 | [Get On Your Feet](https://open.spotify.com/track/5YF7zeU2Op6MlUHQlzBf37) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 2:58 | 2023-06-17 | 2024-12-04 |
 | [Get on Your Feet](https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:00 | 2024-12-15 |  |
 | [Gettin' There](https://open.spotify.com/track/4PI3yDy1ozrZXiefoNTe0W) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Gettin' There](https://open.spotify.com/album/15XBSuTfxBgZZtKR2PbWaK) | 3:13 | 2024-12-09 |  |

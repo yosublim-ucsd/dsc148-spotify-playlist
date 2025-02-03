@@ -15063,6 +15063,24 @@
     },
     {
       "album": {
+        "name": "Pra Ser Amor",
+        "url": "https://open.spotify.com/album/6pwu5eQtC1yWf99NHQbGGs"
+      },
+      "artists": [
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Defeito Meu",
+      "url": "https://open.spotify.com/track/2Ty9lmWbd1F48qbQ2leR5n"
+    },
+    {
+      "album": {
         "name": "DEFINITIVA",
         "url": "https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI"
       },
@@ -65806,7 +65824,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 187507,
       "name": "WELTiTA",
       "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599"

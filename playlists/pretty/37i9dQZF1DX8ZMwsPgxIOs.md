@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Bart Skils
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,978 likes - 119 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,006 likes - 119 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-220 songs - 17 hr 55 min
+221 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Que Pasa Loco ?](https://open.spotify.com/track/3oauXpkAKyzYWkAiZAkVUH) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Que Pasa Loco?](https://open.spotify.com/album/6tEW80OuY2USui8d8WXdYS) | 6:18 | 2020-08-25 | 2022-07-25 |
 | [Que te pasa loco](https://open.spotify.com/track/73lAijiZS9B4Ai8rIJWCbG) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Con ganas](https://open.spotify.com/album/1mDDRmhPedob95tNBsfVVq) | 6:18 | 2020-08-25 | 2022-12-31 |
 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 | 2020-08-25 | 2025-01-13 |
-| [Quiero Verte Otra Vez](https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx) | [Havana D'primera](https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO) | [Quiero Verte Otra Vez](https://open.spotify.com/album/4862dwA64dtiFt42ezMima) | 4:48 | 2020-08-25 |  |
+| [Quiero Verte Otra Vez](https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx) | [Havana D'primera](https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO) | [Quiero Verte Otra Vez](https://open.spotify.com/album/4862dwA64dtiFt42ezMima) | 4:48 | 2020-08-25 | 2025-02-03 |
 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 | 2020-08-25 | 2022-04-29 |
 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2020-08-25 | 2024-04-19 |
 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 | 2020-08-25 |  |
@@ -213,6 +213,7 @@
 | [Vecina Présteme el Cubo \- Remasterizado](https://open.spotify.com/track/5E6Ry2vPmsreAo5ae7ZIsi) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 3:04 | 2020-08-25 | 2022-07-27 |
 | [Venenosa](https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 4:07 | 2020-08-25 | 2024-12-02 |
 | [Vivir Lo Nuestro](https://open.spotify.com/track/6Cb0BxsryQwRgDOhRqJGnm) | [Adalberto Álvarez y su Son](https://open.spotify.com/artist/0q7YkfPoOvx8x7r5MDRjbA) | [Somos Latinos](https://open.spotify.com/album/7oxfdDC7HPLX5Idu6TGywX) | 6:04 | 2020-08-25 | 2022-06-19 |
+| [Voy a Portarme Mal](https://open.spotify.com/track/0Br8uOi4SiYiMKCD0K5jSN) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 4:27 | 2024-07-12 |  |
 | [Vuelve a la Habana](https://open.spotify.com/track/7wG9JSSlEv2fs4D2OkGVYw) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [Más Duro](https://open.spotify.com/album/3zR9fk3CXln9qMLVMrJyK6) | 4:52 | 2020-08-25 | 2022-07-28 |
 | [Ya No Aguanto Más](https://open.spotify.com/track/1rGzhhwqsCU3iHu3I60RFE) | [Manana Club y Papucho](https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD) | [Respeta](https://open.spotify.com/album/4xTtfBZZN4WKhg2ZImTEgN) | 5:45 | 2020-08-25 | 2022-07-24 |
 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 | 2020-08-25 |  |

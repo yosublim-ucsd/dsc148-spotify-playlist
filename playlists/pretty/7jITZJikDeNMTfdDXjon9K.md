@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7jITZJikDeNMTfdDXjon9K.md) - [plain]
 
 > 
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 14 likes - 3,113 songs - 7 day 15 hr 42 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 14 likes - 3,114 songs - 7 day 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3121,5 +3121,6 @@ pretty - [cumulative](/playlists/cumulative/7jITZJikDeNMTfdDXjon9K.md) - [plain]
 | 3111 | [TEMPTATIONS](https://open.spotify.com/track/6mO0APDNwS1d2OYRfkZegK) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [COYOTE](https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu) | 3:19 |
 | 3112 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 |
 | 3113 | [Take Me Back To LA](https://open.spotify.com/track/7rVmzyFA7f4rNGl9onF21E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:13 |
+| 3114 | [Opening Night](https://open.spotify.com/track/4Msr8L0gHGDsLSBlk7pSPU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 1:36 |
 
-Snapshot ID: `AAAQFUq6KaXFKgknMIwTIGPBVnm1bjke`
+Snapshot ID: `AAAQFnLEaHYyNM7yNA9oRKJXTCosjn3J`

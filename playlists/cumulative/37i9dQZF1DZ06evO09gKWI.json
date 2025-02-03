@@ -870,6 +870,28 @@
     {
       "album": {
         "name": "M\u00fasica Vai Transmitir",
+        "url": "https://open.spotify.com/album/2wCcxC37vVavSQRiDOttv8"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "M\u00fasica Vai Transmitir",
+      "url": "https://open.spotify.com/track/7DCEStbxxrVwP8gWliLTJt"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Vai Transmitir",
         "url": "https://open.spotify.com/album/5oWUfKXlevDcAfmHADplCA"
       },
       "artists": [

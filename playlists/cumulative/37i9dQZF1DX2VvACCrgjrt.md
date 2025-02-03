@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with Laidback Luke & Henry Fong
 
-944 songs - 2 day 0 hr 24 min
+945 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Chrome](https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz) | [Luxo](https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9), [PINEO & LOEB](https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI) | [Chrome](https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo) | 2:41 | 2023-12-15 | 2024-08-17 |
 | [Circus](https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Circus](https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o) | 2:06 | 2024-05-24 | 2024-06-25 |
 | [City Of Lights](https://open.spotify.com/track/0g9y5TxBEyAyGmY3O2ZKAH) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [City Of Lights](https://open.spotify.com/album/0lhKewAQzYzvNyONpUKhjE) | 3:17 | 2022-08-26 | 2023-01-22 |
-| [Click Click](https://open.spotify.com/track/5xYr6yjWhR8XCjETGryIiI) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34), [LegacyOfficial](https://open.spotify.com/artist/4Dx15BmtLeUErq8Q0fJHRU) | [Click Click](https://open.spotify.com/album/2UAUGduBm3VsHMejAIjmfn) | 3:08 | 2024-10-04 |  |
+| [Click Click](https://open.spotify.com/track/5xYr6yjWhR8XCjETGryIiI) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34), [LegacyOfficial](https://open.spotify.com/artist/4Dx15BmtLeUErq8Q0fJHRU) | [Click Click](https://open.spotify.com/album/2UAUGduBm3VsHMejAIjmfn) | 3:08 | 2024-10-04 | 2025-02-03 |
 | [Closer](https://open.spotify.com/track/655qrPH2ktkBC20SGffBAj) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Closer](https://open.spotify.com/album/1lzlyna8QYmGs1QRzfe73K) | 2:34 | 2023-06-16 | 2023-10-31 |
 | [Closer](https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Closer](https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl) | 2:18 | 2023-11-03 | 2024-06-01 |
 | [Code Blue](https://open.spotify.com/track/1S7zKcXAnr3G65hGnUq4MY) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Elcamino](https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg) | [Code Blue](https://open.spotify.com/album/1hTIUorQRxlzlh1BCwc3E8) | 3:39 | 2021-10-29 | 2022-05-28 |
@@ -649,6 +649,7 @@
 | [Pass](https://open.spotify.com/track/1RrTBlXTL0S4ny1KaqGZIe) | [Bassani](https://open.spotify.com/artist/47g7XpOmuBClZV47fdNvux) | [Awake](https://open.spotify.com/album/1rKAlRLrD5XX1Zy9OrKbJD) | 3:10 | 2021-10-29 | 2022-05-07 |
 | [PBJ](https://open.spotify.com/track/0NmUL8gDbSDE3K7jBE4yFY) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [PBJ](https://open.spotify.com/album/6INzRJV3JKaf0I42L1tPZU) | 2:48 | 2023-04-21 | 2023-12-02 |
 | [Peace Of Mind](https://open.spotify.com/track/3Yiqps8YQhLL0EQXZGq2P7) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Peace Of Mind](https://open.spotify.com/album/4FUQ0z6XdPskun9gF20rT5) | 2:54 | 2023-12-08 | 2024-03-21 |
+| [Pecadora](https://open.spotify.com/track/4zDcTEkfMzfoca4Ddo4lRe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Pecadora](https://open.spotify.com/album/58lHkFd6stmMU1v2Bz3Fro) | 2:50 | 2025-01-31 |  |
 | [Pete On The Beat](https://open.spotify.com/track/29tAzclQs0eoZKNQgpVu09) | [Peter Kristensen](https://open.spotify.com/artist/0yNS4ajB10O4Y2eA26ZM62) | [Pete On The Beat](https://open.spotify.com/album/0vYjjG1C4LT3BG8rWllSzB) | 3:07 | 2024-06-07 | 2024-07-13 |
 | [Pick Your Battles \- Malaa Remix](https://open.spotify.com/track/4v4kiKe8FM3WTQkZQ2Nqu7) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Pick Your Battles \(Malaa Remix\)](https://open.spotify.com/album/4qs4lxuG4zMkCQv1HL90Pb) | 4:12 | 2021-10-29 | 2022-05-28 |
 | [PIKKO](https://open.spotify.com/track/76ZeYQ8R0eKT4SwDGnJ6Ha) | [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0), [Juan Kordoba](https://open.spotify.com/artist/7IfeHPRMQVV1L2wykDcG6R), [Nick Duque](https://open.spotify.com/artist/0vzAelcfyQ5eep2iVZBFQm) | [PIKKO](https://open.spotify.com/album/3Cd5SpxbMedAn8eJnO4oEY) | 2:45 | 2024-07-12 | 2024-08-31 |

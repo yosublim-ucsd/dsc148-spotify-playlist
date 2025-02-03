@@ -1,6 +1,6 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1249629,
+  "num_followers": 1249667,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
+        "name": "Skylarking",
+        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Dear God - Remastered 2001",
+      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
         "name": "Keep It like a Secret",
         "url": "https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 204621,
       "name": "Love Will Tear Us Apart - 2010 Remaster",
       "url": "https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
-        "name": "Skylarking",
-        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Dear God - Remastered 2001",
-      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
     },
     {
       "added_at": "2025-01-14 03:34:33",

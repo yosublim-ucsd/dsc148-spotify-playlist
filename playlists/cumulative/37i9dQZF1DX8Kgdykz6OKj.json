@@ -4339,6 +4339,24 @@
     },
     {
       "album": {
+        "name": "HOTEL LOBBY / ELEVATOR FREESTYLE",
+        "url": "https://open.spotify.com/album/3LrXfjHCEsyZY7Piai0sDX"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "HOTEL LOBBY",
+      "url": "https://open.spotify.com/track/228Fq47OvFGZO4Heo5IJyC"
+    },
+    {
+      "album": {
         "name": "How It Go",
         "url": "https://open.spotify.com/album/1z2lfM7X3EbIlvDEY4Uzpe"
       },
@@ -8958,7 +8976,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 413560,
       "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
       "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"

@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1362749,
+  "num_followers": 1362938,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "No Good",
         "url": "https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 234240,
       "name": "No Good",
       "url": "https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3zxPi455ceNpbN55gBMSIu"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 197522,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3twEx52dboO1CqWu5x1i2h"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Lazaretto",
         "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 224226,
       "name": "Get Right Church",
       "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3zxPi455ceNpbN55gBMSIu"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 197522,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3twEx52dboO1CqWu5x1i2h"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 259253,
-      "name": "NFWMB",
-      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "NFWMB",
+      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Back in '06",
-        "url": "https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3"
-      },
-      "artists": [
-        {
-          "name": "The Parlor Mob",
-          "url": "https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Carnival of Crows '06",
-      "url": "https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Where We Are",
         "url": "https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Back in '06",
+        "url": "https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3"
+      },
+      "artists": [
+        {
+          "name": "The Parlor Mob",
+          "url": "https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Carnival of Crows '06",
+      "url": "https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Axis Mundi",
         "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 273866,
       "name": "Smoke Rising",
       "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -823,6 +807,22 @@
       "duration_ms": 170810,
       "name": "Want",
       "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
     },
     {
       "added_at": "2024-08-23 15:39:31",

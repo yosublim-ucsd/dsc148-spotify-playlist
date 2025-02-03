@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 28325,
+  "num_followers": 28352,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-01-06 07:35:40",
       "album": {
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
         "name": "Angaat Aalaya - Zombivli",
         "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
       },
@@ -263,86 +279,6 @@
     {
       "added_at": "2025-01-06 07:35:40",
       "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
-        "name": "Rege (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 307304,
-      "name": "Shitti Wajali Gaadi Sutali",
-      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
-        "name": "Angar Bhangar Nay Rr - Single",
-        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
-      },
-      "artists": [
-        {
-          "name": "Madhur Milind Shinde",
-          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Angaar Bhangar Nai Rr",
-      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
-        "name": "Majhi Navri",
-        "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
-      },
-      "artists": [
-        {
-          "name": "Sonali Sonawane",
-          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
-        },
-        {
-          "name": "Keval Walanj",
-          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
-        },
-        {
-          "name": "Vishnupriya",
-          "url": "https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7"
-        },
-        {
-          "name": "Sai Patil",
-          "url": "https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Majhi Navri",
-      "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
         "name": "Mi Naadkhula",
         "url": "https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l"
       },
@@ -371,6 +307,70 @@
       "duration_ms": 259894,
       "name": "Mi Naadkhula",
       "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
+        "name": "Angar Bhangar Nay Rr - Single",
+        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
+      },
+      "artists": [
+        {
+          "name": "Madhur Milind Shinde",
+          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Angaar Bhangar Nai Rr",
+      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
+        "name": "Rege (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 307304,
+      "name": "Shitti Wajali Gaadi Sutali",
+      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
+        "name": "Majhi Navri",
+        "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
+      },
+      "artists": [
+        {
+          "name": "Sonali Sonawane",
+          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
+        },
+        {
+          "name": "Keval Walanj",
+          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
+        },
+        {
+          "name": "Vishnupriya",
+          "url": "https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7"
+        },
+        {
+          "name": "Sai Patil",
+          "url": "https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Majhi Navri",
+      "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
     },
     {
       "added_at": "2025-01-06 07:35:40",
@@ -611,30 +611,6 @@
     {
       "added_at": "2025-01-06 07:35:40",
       "album": {
-        "name": "Maharashtra Shaheer",
-        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 223831,
-      "name": "Baharla Ha Madhumas",
-      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
         "name": "Wat Mazi Baghatoy Rikshavala",
         "url": "https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 179573,
       "name": "Shantabai DJ",
       "url": "https://open.spotify.com/track/0UPVbrPxCWR41qk9uG75gJ"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
+        "name": "Maharashtra Shaheer",
+        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 223831,
+      "name": "Baharla Ha Madhumas",
+      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
     },
     {
       "added_at": "2025-01-06 07:35:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-01-06 07:35:40",
       "album": {
-        "name": "Meri Madhubala",
-        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 238864,
-      "name": "Meri Madhubala",
-      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
         "name": "Ringa Ringa",
         "url": "https://open.spotify.com/album/0unnoqFH7KO7kXaDV68BvL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 272226,
       "name": "Baaygo Baaygo",
       "url": "https://open.spotify.com/track/5Hwba9pAPtFKrEPsupYmvM"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
+        "name": "Meri Madhubala",
+        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
+      },
+      "artists": [
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 238864,
+      "name": "Meri Madhubala",
+      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
     },
     {
       "added_at": "2025-01-06 07:35:40",
@@ -779,6 +779,58 @@
     {
       "added_at": "2025-01-06 07:35:40",
       "album": {
+        "name": "Ishkkachi Nauka - Single",
+        "url": "https://open.spotify.com/album/5w0D78j35PmXTQeEqUfNXI"
+      },
+      "artists": [
+        {
+          "name": "Keval Walanj",
+          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
+        },
+        {
+          "name": "Shubhangii Kedar",
+          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Ishkkachi Nauka",
+      "url": "https://open.spotify.com/track/2m03aJi8s6pE0LIVtICt1o"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
+        "name": "Marathi Dance Hits",
+        "url": "https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA"
+      },
+      "artists": [
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 296328,
+      "name": "Mast Challay Amcha",
+      "url": "https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
+        "name": "Mauli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7mZGc0WvyyQznsSo2L7Rwg"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 214669,
+      "name": "Dhuvun Taak",
+      "url": "https://open.spotify.com/track/6GWKXINigx4Pf7yuqRHgq3"
+    },
+    {
+      "added_at": "2025-01-06 07:35:40",
+      "album": {
         "name": "Maharashtra Shaheer",
         "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
       },
@@ -803,58 +855,6 @@
       "duration_ms": 304001,
       "name": "Gau Nako Kisna",
       "url": "https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
-        "name": "Marathi Dance Hits",
-        "url": "https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA"
-      },
-      "artists": [
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 296328,
-      "name": "Mast Challay Amcha",
-      "url": "https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
-        "name": "Ishkkachi Nauka - Single",
-        "url": "https://open.spotify.com/album/5w0D78j35PmXTQeEqUfNXI"
-      },
-      "artists": [
-        {
-          "name": "Keval Walanj",
-          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
-        },
-        {
-          "name": "Shubhangii Kedar",
-          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Ishkkachi Nauka",
-      "url": "https://open.spotify.com/track/2m03aJi8s6pE0LIVtICt1o"
-    },
-    {
-      "added_at": "2025-01-06 07:35:40",
-      "album": {
-        "name": "Mauli (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7mZGc0WvyyQznsSo2L7Rwg"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 214669,
-      "name": "Dhuvun Taak",
-      "url": "https://open.spotify.com/track/6GWKXINigx4Pf7yuqRHgq3"
     },
     {
       "added_at": "2025-01-06 07:35:40",

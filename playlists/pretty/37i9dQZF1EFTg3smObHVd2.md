@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 84 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 84 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 44 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 |
 | 45 | [I Own It](https://open.spotify.com/track/0STgrGCTnpcIourTZwnN2y) | [Nacey](https://open.spotify.com/artist/4Cxyy6FNXakqJeo0hW3l7b), [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [I Own It](https://open.spotify.com/album/0qaykGr8StZ8bAtnpuXRU9) | 3:09 |
 | 46 | [Best Day](https://open.spotify.com/track/6wzIKvMIsOYStLxDsPlwAB) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Extra\-lucide](https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP) | 3:37 |
-| 47 | [If I Don't Have You \- Radio Edit](https://open.spotify.com/track/4qVnjAOLFDbCNLAewTQsSU) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [If I Don't Have You \(Radio Edit\)](https://open.spotify.com/album/2B0d3NShrpfLiXTwhshWSS) | 4:13 |
-| 48 | [Iron Heart](https://open.spotify.com/track/4T0cHbcxGzEGzUki89NFp9) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 3:47 |
+| 47 | [Iron Heart](https://open.spotify.com/track/4T0cHbcxGzEGzUki89NFp9) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 3:47 |
+| 48 | [If I Don't Have You \- Radio Edit](https://open.spotify.com/track/4qVnjAOLFDbCNLAewTQsSU) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [If I Don't Have You \(Radio Edit\)](https://open.spotify.com/album/2B0d3NShrpfLiXTwhshWSS) | 4:13 |
 | 49 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/6OHkEMiSDoJ8PWaD5uzA3p) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Heavenbound](https://open.spotify.com/album/5vNJ0VAIYS5Na10nzHkbaY) | 3:21 |
 | 50 | [Pretty little secret](https://open.spotify.com/track/2m1gC6k79JDXgySEQzyDOi) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Emma Steinbakken](https://open.spotify.com/album/3wOKUF7vMPvTC7YmIxo0zq) | 3:21 |
 | 51 | [Save Some](https://open.spotify.com/track/78zn53pukXBwKHxvDMB59P) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [25](https://open.spotify.com/album/359sbIX1FqGQ08ohs2z3on) | 3:17 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 83 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 84 | [Bullseye](https://open.spotify.com/track/57lxmFu1GsHgz6TCQg3iOl) | [Lukas](https://open.spotify.com/artist/3uZKKQew2u0fACpUypBGLO) | [Bullseye](https://open.spotify.com/album/3UScZ0tLexrUir6uAqbo18) | 3:00 |
 
-Snapshot ID: `AbodSgAAAACkaXZztmM9G3EzZK73GzdQ`
+Snapshot ID: `Aboi4AAAAADlTGLdYZhNfhqSwqCnm8G2`

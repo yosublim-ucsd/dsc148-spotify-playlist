@@ -1,12 +1,12 @@
 {
   "description": "This is TOOL. The essential tracks, all in one playlist.",
-  "num_followers": 431438,
+  "num_followers": 431516,
   "original_name": "This Is TOOL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5wSgAAAAABm55aqopJo9zo8t7jMtSgl",
+  "snapshot_id": "Z51kAAAAAAAj1mz7zw9B7FHJMvN7XVse",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear Inoculum",
-        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
         }
       ],
-      "duration_ms": 817832,
-      "name": "Descending",
-      "url": "https://open.spotify.com/track/0aTiUssEOy0Mt69bsavj6K"
+      "duration_ms": 671360,
+      "name": "Rosetta Stoned",
+      "url": "https://open.spotify.com/track/0D8l86LXxKcgKAO17DfQsl"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 671360,
-      "name": "Rosetta Stoned",
-      "url": "https://open.spotify.com/track/0D8l86LXxKcgKAO17DfQsl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear Inoculum",
         "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
       },
@@ -356,9 +340,25 @@
           "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
         }
       ],
-      "duration_ms": 943528,
-      "name": "7empest",
-      "url": "https://open.spotify.com/track/0gGfmw4csswZmFPj9YK8GW"
+      "duration_ms": 817832,
+      "name": "Descending",
+      "url": "https://open.spotify.com/track/0aTiUssEOy0Mt69bsavj6K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 673773,
+      "name": "10,000 Days (Wings Pt 2)",
+      "url": "https://open.spotify.com/track/4OhqsmPMreC0EFCo3OmDSm"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 673773,
-      "name": "10,000 Days (Wings Pt 2)",
-      "url": "https://open.spotify.com/track/4OhqsmPMreC0EFCo3OmDSm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear Inoculum",
         "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
       },
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
         }
       ],
-      "duration_ms": 605369,
-      "name": "Culling Voices",
-      "url": "https://open.spotify.com/track/3gPxMQWDMSEyPXMtzbcDdQ"
+      "duration_ms": 943528,
+      "name": "7empest",
+      "url": "https://open.spotify.com/track/0gGfmw4csswZmFPj9YK8GW"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 594048,
       "name": "Opiate\u00b2",
       "url": "https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 605369,
+      "name": "Culling Voices",
+      "url": "https://open.spotify.com/track/3gPxMQWDMSEyPXMtzbcDdQ"
     },
     {
       "added_at": null,

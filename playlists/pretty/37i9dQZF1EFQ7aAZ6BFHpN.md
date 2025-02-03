@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 192 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 192 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 35 | [Porgy And Bess: Overture](https://open.spotify.com/track/159pOXfbpvaeyjsxKM37i6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 10:50 |
 | 36 | [Bess You Is My Woman Now](https://open.spotify.com/track/4nGdWMAi7zChqNfuMzUHxc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 5:28 |
 | 37 | [Love Walked In](https://open.spotify.com/track/0EKksM4Hbt4DwTTApwBcDZ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Rhapsody In Blue: Saint\-Säens, Ravel, Gershwin](https://open.spotify.com/album/3hFTO4FkWbD6SD0ekUY5f1) | 3:59 |
-| 38 | [Finale](https://open.spotify.com/track/7MWVH7pW2cRUNey45UFgSL) | [Boris Karloff](https://open.spotify.com/artist/35uPgDW1J4hq6tqQ0LJcot), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [MGM Studio Chorus](https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW) | [Dr\. Seuss' How The Grinch Stole Christmas! \(Original TV Soundtrack\)](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) | 3:06 |
-| 39 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 |
+| 38 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 |
+| 39 | [Finale](https://open.spotify.com/track/7MWVH7pW2cRUNey45UFgSL) | [Boris Karloff](https://open.spotify.com/artist/35uPgDW1J4hq6tqQ0LJcot), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [MGM Studio Chorus](https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW) | [Dr\. Seuss' How The Grinch Stole Christmas! \(Original TV Soundtrack\)](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) | 3:06 |
 | 40 | [Oh Lady Be Good](https://open.spotify.com/track/4QfwBjaq7OprjSZss5Qle3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Lullabies Of Birdland](https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K) | 3:08 |
 | 41 | [3 Preludes: II\. Andante con moto e poco rubato](https://open.spotify.com/track/1Bwf36leTm4R3LmG8cNPcg) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Jon Nakamatsu](https://open.spotify.com/artist/0g9vUJBswjtjSq0KckUvdH) | [Gershwin: 3 Preludes](https://open.spotify.com/album/46lElo61ARwjjn9DVR6vNP) | 3:53 |
 | 42 | [Dawn of a new day](https://open.spotify.com/track/4YpFUa7c9naE00Dtb14ZMZ) | [Horace Heidt And His Orchestra](https://open.spotify.com/artist/1WeF9tMRvJCIcd9WDMyz40), [Horace Heidt](https://open.spotify.com/artist/4l7CLwtYLJMTlrBpoNJtMy) | [Horace Heidt & His Orchestra, Popular Songs](https://open.spotify.com/album/1tF2sOjVZtdUvWJbeRHLMv) | 2:30 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 191 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 | 192 | [Man](https://open.spotify.com/track/3nMDOiuqvSIwCxRrxn7OOG) | [The Moonlight Fairy's Manuru Home run](https://open.spotify.com/artist/53phTNQTwRpSxcK7oBwfY6) | [Love OST](https://open.spotify.com/album/6Uo8YynM7evPWl13t6r3Ud) | 2:19 |
 
-Snapshot ID: `AbodNgAAAAD4hNg/hJunHdiqgOoiZeD2`
+Snapshot ID: `AbojCAAAAABgiGLpbWDoWnouBBwA5x6t`

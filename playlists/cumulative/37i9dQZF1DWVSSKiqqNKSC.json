@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 288445,
       "name": "Quiero Verte Otra Vez",
       "url": "https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx"
@@ -4024,6 +4024,24 @@
       "duration_ms": 364382,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/6Cb0BxsryQwRgDOhRqJGnm"
+    },
+    {
+      "album": {
+        "name": "Sin Escala",
+        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
+      },
+      "artists": [
+        {
+          "name": "El Noro y Primera Clase",
+          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267693,
+      "name": "Voy a Portarme Mal",
+      "url": "https://open.spotify.com/track/0Br8uOi4SiYiMKCD0K5jSN"
     },
     {
       "album": {

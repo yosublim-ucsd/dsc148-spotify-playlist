@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 184559,
+  "num_followers": 184596,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
     },
     {
+      "added_at": "2024-10-23 05:28:43",
+      "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "duration_ms": 184120,
+      "name": "Doff",
+      "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
+    },
+    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "065 (Scorpio)",
@@ -409,20 +425,20 @@
       "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
     },
     {
-      "added_at": "2024-10-23 05:28:43",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Doff",
-        "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
+        "name": "\u4e4b / OF",
+        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
       },
       "artists": [
         {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 184120,
-      "name": "Doff",
-      "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -489,22 +505,6 @@
       "url": "https://open.spotify.com/track/0ZbUsVTjgbeq4Uhj9k7N9J"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u4e4b / OF",
-        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
-    },
-    {
       "added_at": "2024-10-04 14:02:22",
       "album": {
         "name": "Things We Have In Common",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
     },
     {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "Everything Squared",
-        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 331916,
-      "name": "Multifolds",
-      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
-    },
-    {
       "added_at": "2024-10-02 15:46:42",
       "album": {
         "name": "Selva",
@@ -587,6 +571,22 @@
       "duration_ms": 192283,
       "name": "Snapdragon",
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+    },
+    {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "BORNE WORLD",
-        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "THIEVES",
-      "url": "https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "OH WAH (feat. NATURE)",
         "url": "https://open.spotify.com/album/5P7A3lqcPyjge2jR5p376p"
       },
@@ -803,6 +787,38 @@
       "duration_ms": 205485,
       "name": "OH WAH (feat. NATURE)",
       "url": "https://open.spotify.com/track/2NB392VTggsHTnhRpfNl9r"
+    },
+    {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "BORNE WORLD",
+        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "THIEVES",
+      "url": "https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -855,22 +871,6 @@
       "duration_ms": 257226,
       "name": "Distance Learner",
       "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
-    },
-    {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Worm",
-        "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Bearded Fireworm",
-      "url": "https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Hailu Remixes",
         "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 320044,
       "name": "Moonlit Whispers",
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Worm",
+        "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Bearded Fireworm",
+      "url": "https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06"
     },
     {
       "added_at": "2024-10-23 05:18:13",
@@ -1219,38 +1219,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "A time to love, a time to die",
-        "url": "https://open.spotify.com/album/4yoWc0oOrrMPEln5ADQUAW"
-      },
-      "artists": [
-        {
-          "name": "Amor Muere",
-          "url": "https://open.spotify.com/artist/6nrwVCgpbdrOfGiu8A0tVh"
-        },
-        {
-          "name": "Camille Mandoki",
-          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
-        },
-        {
-          "name": "Concepci\u00f3n Huerta",
-          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
-        },
-        {
-          "name": "Gibrana Cervantes",
-          "url": "https://open.spotify.com/artist/3ckZktRMn9jidQuRarXJ7T"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 312770,
-      "name": "LA",
-      "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "humanus",
         "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
@@ -1281,20 +1249,36 @@
       "url": "https://open.spotify.com/track/7pljs8w88hJuYh0dSAgwXb"
     },
     {
-      "added_at": "2024-06-19 16:42:50",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+        "name": "A time to love, a time to die",
+        "url": "https://open.spotify.com/album/4yoWc0oOrrMPEln5ADQUAW"
       },
       "artists": [
         {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+          "name": "Amor Muere",
+          "url": "https://open.spotify.com/artist/6nrwVCgpbdrOfGiu8A0tVh"
+        },
+        {
+          "name": "Camille Mandoki",
+          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
+        },
+        {
+          "name": "Concepci\u00f3n Huerta",
+          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+        },
+        {
+          "name": "Gibrana Cervantes",
+          "url": "https://open.spotify.com/artist/3ckZktRMn9jidQuRarXJ7T"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
+      "duration_ms": 312770,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
     },
     {
       "added_at": "2025-01-29 04:37:38",
@@ -1311,6 +1295,22 @@
       "duration_ms": 144000,
       "name": "6\u00b0C",
       "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
+    },
+    {
+      "added_at": "2024-06-19 16:42:50",
+      "album": {
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
     },
     {
-      "added_at": "2024-06-19 16:42:50",
-      "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Epic Wonder",
@@ -1447,6 +1431,22 @@
       "duration_ms": 171198,
       "name": "En Paralelo",
       "url": "https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc"
+    },
+    {
+      "added_at": "2024-06-19 16:42:50",
+      "album": {
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -1561,6 +1561,22 @@
       "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
     },
     {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "Pordeno Me",
+        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 149457,
+      "name": "Pordeno Me",
+      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
+    },
+    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Sweat",
@@ -1591,22 +1607,6 @@
       "duration_ms": 199894,
       "name": "Echo Drift",
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
-    },
-    {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "Pordeno Me",
-        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 149457,
-      "name": "Pordeno Me",
-      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, punk e indie dall'Italia 🎸 Messa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,081 likes - 110 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,090 likes - 110 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

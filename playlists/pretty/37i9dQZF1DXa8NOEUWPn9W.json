@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring Austin Millz & Kah-Lo.",
-  "num_followers": 1953779,
+  "num_followers": 1954762,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 200787,
       "name": "RIZZ",
       "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
-        "name": "New Bottega",
-        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        },
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "New Bottega",
-      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
         "name": "CORA\u00c7AO (20th Anniversary Mix)",
         "url": "https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p"
       },
@@ -1091,26 +1071,22 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
-        "name": "palm of my hands (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/4wAyp0F1m8WNDb7SsuQarq"
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
         },
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
         }
       ],
-      "duration_ms": 203636,
-      "name": "palm of my hands - Odd Mob Remix",
-      "url": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -1135,6 +1111,30 @@
       "duration_ms": 251201,
       "name": "Summertime Blues (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
+        "name": "palm of my hands (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/4wAyp0F1m8WNDb7SsuQarq"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "palm of my hands - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
         "name": "Let's Go (Magalenha)",
         "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
       },
@@ -1407,18 +1423,22 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
-        "name": "Kimbara",
-        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 189816,
-      "name": "Kimbara",
-      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+      "duration_ms": 186997,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -1443,26 +1463,6 @@
       "duration_ms": 328760,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 186997,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
         "name": "Closer (feat. Bantu)",
         "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 181000,
       "name": "Closer (feat. Bantu)",
       "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
+        "name": "So Good (Heat Mix)",
+        "url": "https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "So Good - Heat Mix",
+      "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
         "name": "Shake & Pop (John Summit Remix)",
         "url": "https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 217694,
       "name": "Shake & Pop - John Summit Remix",
       "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
-        "name": "So Good (Heat Mix)",
-        "url": "https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "So Good - Heat Mix",
-      "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
+        "name": "Pegado",
+        "url": "https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Pegado",
+      "url": "https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
         "name": "BAD FOR YOU",
         "url": "https://open.spotify.com/album/4pQ1YdGRDSQGkxLz9LGE8H"
       },
@@ -2119,22 +2139,42 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
-        "name": "Pegado",
-        "url": "https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA"
+        "name": "Percolator (Chris Lake & Bontan Remixes)",
+        "url": "https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
         },
         {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
         }
       ],
-      "duration_ms": 125000,
-      "name": "Pegado",
-      "url": "https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB"
+      "duration_ms": 199714,
+      "name": "Percolator - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
+        "name": "Take It Easy on Me",
+        "url": "https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Take It Easy on Me",
+      "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -2179,26 +2219,6 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
-        "name": "Percolator (Chris Lake & Bontan Remixes)",
-        "url": "https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 199714,
-      "name": "Percolator - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
         "name": "As The Beat Goes Onnn",
         "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
       },
@@ -2235,22 +2255,6 @@
     {
       "added_at": "2025-01-31 05:00:19",
       "album": {
-        "name": "It's A Party (PRX002)",
-        "url": "https://open.spotify.com/album/0jfleoc8WwfuA5pP4la7rG"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "It's a Party (PRX002)",
-      "url": "https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
         "name": "Bandit (Club Mix)",
         "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
       },
@@ -2267,6 +2271,22 @@
       "duration_ms": 168000,
       "name": "Bandit - Club Mix",
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
+        "name": "It's A Party (PRX002)",
+        "url": "https://open.spotify.com/album/0jfleoc8WwfuA5pP4la7rG"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "It's a Party (PRX002)",
+      "url": "https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -2307,26 +2327,6 @@
       "duration_ms": 175081,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
-        "name": "GETAWAY",
-        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 163871,
-      "name": "GETAWAY",
-      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -2383,6 +2383,26 @@
       "duration_ms": 204843,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
+    },
+    {
+      "added_at": "2025-01-31 05:00:19",
+      "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
       "added_at": "2025-01-31 05:00:19",
@@ -2451,22 +2471,6 @@
       "duration_ms": 203134,
       "name": "Fallin In Love",
       "url": "https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt"
-    },
-    {
-      "added_at": "2025-01-31 05:00:19",
-      "album": {
-        "name": "Regulate",
-        "url": "https://open.spotify.com/album/4MecsyY4jCPfGx5wDmY6E4"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 147071,
-      "name": "Regulate",
-      "url": "https://open.spotify.com/track/0H2PMtarxegtVjNOWfegml"
     }
   ],
   "unique_name": "Housewerk",

@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 108680,
+  "num_followers": 108717,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Entren Los Que Quieran",
+        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/036nr5jRMRlrvtEVvld4lj"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Sin Sendero",
         "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
       },
@@ -303,38 +319,6 @@
       "duration_ms": 213646,
       "name": "Sin Sendero",
       "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Poes\u00eda Difusa",
-        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 316784,
-      "name": "Chico Problem\u00e1tico",
-      "url": "https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Alquimista",
-        "url": "https://open.spotify.com/album/66bNCIpTWpOyUkSxm3UvKE"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Alquimista",
-      "url": "https://open.spotify.com/track/6jnLJ9M1obPdVKj4kluKAD"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -355,18 +339,34 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Entren Los Que Quieran",
-        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
+        "name": "Alquimista",
+        "url": "https://open.spotify.com/album/66bNCIpTWpOyUkSxm3UvKE"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
         }
       ],
-      "duration_ms": 267413,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/036nr5jRMRlrvtEVvld4lj"
+      "duration_ms": 214285,
+      "name": "Alquimista",
+      "url": "https://open.spotify.com/track/6jnLJ9M1obPdVKj4kluKAD"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Poes\u00eda Difusa",
+        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 316784,
+      "name": "Chico Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -615,18 +615,30 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "De Pie",
-        "url": "https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY"
+        "name": "La Ansiedad y Yo",
+        "url": "https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n"
       },
       "artists": [
         {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 268260,
-      "name": "De Pie",
-      "url": "https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny"
+      "duration_ms": 196140,
+      "name": "La Ansiedad y Yo",
+      "url": "https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -671,6 +683,46 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "De Pie",
+        "url": "https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 268260,
+      "name": "De Pie",
+      "url": "https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        },
+        {
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Afirmativo",
+      "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Escaleras y Serpientes",
         "url": "https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j"
       },
@@ -683,34 +735,6 @@
       "duration_ms": 192046,
       "name": "Escaleras y Serpientes",
       "url": "https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "La Ansiedad y Yo",
-        "url": "https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 196140,
-      "name": "La Ansiedad y Yo",
-      "url": "https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -735,6 +759,26 @@
       "duration_ms": 248546,
       "name": "MALDITO",
       "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 265747,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -775,8 +819,8 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
+        "name": "La teor\u00eda de la evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
       },
       "artists": [
         {
@@ -786,35 +830,11 @@
         {
           "name": "Trafikante de Almas",
           "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        },
-        {
-          "name": "Se\u00f1or Marrano",
-          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Afirmativo",
-      "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 265747,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
+      "duration_ms": 173062,
+      "name": "La teor\u00eda de la evoluci\u00f3n",
+      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -879,22 +899,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "La teor\u00eda de la evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
+        "name": "Callejones",
+        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
         },
         {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
         }
       ],
-      "duration_ms": 173062,
-      "name": "La teor\u00eda de la evoluci\u00f3n",
-      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
+      "duration_ms": 192000,
+      "name": "Callejones",
+      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -923,42 +943,18 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Callejones",
-        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
       },
       "artists": [
         {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Callejones",
-      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+      "duration_ms": 347441,
+      "name": "Origen",
+      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -979,18 +975,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
       },
       "artists": [
         {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
         }
       ],
-      "duration_ms": 347441,
-      "name": "Origen",
-      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1111,6 +1111,30 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "La Felicidad",
+        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        },
+        {
+          "name": "InVnerable",
+          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
+        }
+      ],
+      "duration_ms": 203089,
+      "name": "La Felicidad",
+      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -1171,26 +1195,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "La Felicidad",
-        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
+        "name": "No Plastic",
+        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
       },
       "artists": [
         {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
         },
         {
-          "name": "Cevlade",
-          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
-        },
-        {
-          "name": "InVnerable",
-          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
         }
       ],
-      "duration_ms": 203089,
-      "name": "La Felicidad",
-      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
+      "duration_ms": 225238,
+      "name": "No Plastic",
+      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1211,26 +1231,6 @@
       "duration_ms": 269413,
       "name": "M\u00e1s & Menos",
       "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "No Plastic",
-        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
-      },
-      "artists": [
-        {
-          "name": "Mamborap",
-          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
-        },
-        {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        }
-      ],
-      "duration_ms": 225238,
-      "name": "No Plastic",
-      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Can + Zoo \u00cdndigo",
-        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 199758,
-      "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-      "url": "https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Colecci\u00f3n In\u00e9ditos",
         "url": "https://open.spotify.com/album/3skRkN1MIwSDjleT384X28"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 220321,
       "name": "Magia",
       "url": "https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 211181,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45"
     }
   ],
   "unique_name": "Rap Conciencia",

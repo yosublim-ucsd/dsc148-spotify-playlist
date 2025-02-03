@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: THE ORAL CIGARETTES",
-  "num_followers": 50549,
+  "num_followers": 50572,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
         "url": "https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "STARS",
         "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
       },
@@ -479,22 +479,18 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "Danger Danger",
-        "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
+        "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb"
       },
       "artists": [
         {
-          "name": "FZMZ",
-          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
-        },
-        {
-          "name": "icy",
-          "url": "https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3"
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Danger Danger",
-      "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
+      "duration_ms": 192500,
+      "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -515,34 +511,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb"
+        "name": "Danger Danger",
+        "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
       "artists": [
         {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
-      "url": "https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
-      },
-      "artists": [
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+        },
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "icy",
+          "url": "https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3"
         }
       ],
-      "duration_ms": 252200,
-      "name": "\u5b8c\u5168\u611f\u899aDreamer",
-      "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"
+      "duration_ms": 221000,
+      "name": "Danger Danger",
+      "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -563,6 +547,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
+          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
+        }
+      ],
+      "duration_ms": 89563,
+      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "Missing",
         "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
       },
@@ -579,18 +579,18 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
-        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
+        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
       },
       "artists": [
         {
-          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
-          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 89563,
-      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
-      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
+      "duration_ms": 252200,
+      "name": "\u5b8c\u5168\u611f\u899aDreamer",
+      "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "DEAD! (feat. CVLTE)",
         "url": "https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc"
       },
@@ -663,22 +647,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "I'll be there",
-        "url": "https://open.spotify.com/album/2XV1p7LViusogXzUiB338X"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 278433,
-      "name": "I'll be there",
-      "url": "https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "ELLEGARDEN BEST 1999-2008",
         "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
       },
@@ -691,6 +659,38 @@
       "duration_ms": 252453,
       "name": "\u98a8\u306e\u65e5",
       "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "I'll be there",
+        "url": "https://open.spotify.com/album/2XV1p7LViusogXzUiB338X"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 278433,
+      "name": "I'll be there",
+      "url": "https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "ELEVEN FIRE CRACKERS",
+        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "ELEVEN FIRE CRACKERS",
-        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Salamander",
-      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
-        "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
-      },
-      "artists": [
-        {
-          "name": "Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
-        }
-      ],
-      "duration_ms": 233393,
-      "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
-      "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "THE LAST ROCKSTARS (PARIS MIX)",
         "url": "https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 285700,
       "name": "THE LAST ROCKSTARS (PARIS MIX)",
       "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
+        "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "duration_ms": 233393,
+      "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
+      "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "DIGITAL PARANOIA 2052",
         "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 165124,
       "name": "girls lie.",
       "url": "https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "PHOENIX (Movie Ver.)",
-        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "PHOENIX (Movie Ver.)",
-      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "Inside Of Me",
         "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
       },
@@ -1251,22 +1235,6 @@
       "duration_ms": 193824,
       "name": "Inside of Me",
       "url": "https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "Enchant",
-        "url": "https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Enchant",
-      "url": "https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1287,6 +1255,38 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "PHOENIX (Movie Ver.)",
+        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "PHOENIX (Movie Ver.)",
+      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "Enchant",
+        "url": "https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Enchant",
+      "url": "https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "PARADISE (Kill The Silence)",
         "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
@@ -1299,38 +1299,6 @@
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "smileY:)",
-        "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
-      },
-      "artists": [
-        {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
-        }
-      ],
-      "duration_ms": 115769,
-      "name": "smileY:)",
-      "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 246518,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1351,6 +1319,38 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "SLAM",
+      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "smileY:)",
+        "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "duration_ms": 115769,
+      "name": "smileY:)",
+      "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6"
       },
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 168280,
-      "name": "SLAM",
-      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1411,6 +1411,38 @@
       "duration_ms": 193520,
       "name": "JUNGLE BUN DEM",
       "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "duration_ms": 201105,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "gg\u71e6\u7136",
+        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 149839,
+      "name": "gg\u71e6\u7136",
+      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1467,22 +1499,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
-      },
-      "artists": [
-        {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
-        }
-      ],
-      "duration_ms": 201105,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "BUNBUN SUIBUN",
         "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 191242,
       "name": "BUNBUN SUIBUN",
       "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "gg\u71e6\u7136",
-        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 149839,
-      "name": "gg\u71e6\u7136",
-      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
-      },
-      "artists": [
-        {
-          "name": "ROTTENGRAFFTY",
-          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
-        }
-      ],
-      "duration_ms": 251400,
-      "name": "\u5bc2\u5bde -sekibaku-",
-      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "\u30e6\u30a8\u30cb",
         "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
+      },
+      "artists": [
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        }
+      ],
+      "duration_ms": 251400,
+      "name": "\u5bc2\u5bde -sekibaku-",
+      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
     },
     {
       "added_at": "2025-01-21 15:00:30",

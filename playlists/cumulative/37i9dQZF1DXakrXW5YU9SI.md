@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-334 songs - 18 hr 50 min
+335 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [co do joty \(wersja zima\)](https://open.spotify.com/track/6xJdoCgXLI7M0nrCbtwhYp) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [co do joty \(wersja zima\)](https://open.spotify.com/album/7txc26kZ23Entx9WEk4pRD) | 3:15 | 2025-01-17 | 2025-01-25 |
 | [co jest nie tak?](https://open.spotify.com/track/2alDhwpcOlSrkhuPZ4JhvM) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2), [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [co jest nie tak?](https://open.spotify.com/album/3y8517HsHuK8QFbMPuFhis) | 3:10 | 2024-11-21 | 2024-11-30 |
 | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3) | 3:55 | 2024-12-09 |  |
+| [come over?](https://open.spotify.com/track/5Y1REJUiVtJGGUAqTEphWz) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [come over?](https://open.spotify.com/album/41DUwYHE0GETfovi2havgJ) | 2:40 | 2025-01-24 |  |
 | [Cowboys Cry](https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o) | 3:12 | 2024-06-28 | 2024-08-04 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-28 | 2024-09-13 |
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-06-28 | 2024-09-13 |
@@ -234,7 +235,7 @@
 | [Poszukam](https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Pośród Snów EP](https://open.spotify.com/album/7u5KWpB6S7YaJhhKYzXkDg) | 2:26 | 2024-07-11 | 2024-07-19 |
 | [powiedz](https://open.spotify.com/track/6i1eHxmWVmgg0hU2m90wIn) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:16 | 2024-11-21 | 2025-01-03 |
 | [Powiedz mi jak?](https://open.spotify.com/track/4RKILntw38FZRyfOU6VGUt) | [DOBRY](https://open.spotify.com/artist/7aDPHWat1S7ztOWasFLu6X), [Kuba Galiński](https://open.spotify.com/artist/2oR9K6tG6QppRoYYkDBpDo), [Piotr Fronczewski](https://open.spotify.com/artist/45gKB5AD7ADgQJUZNNPIXm) | [Powiedz mi jak?](https://open.spotify.com/album/2dUe7bVGnGHdzZ9pmdOc6S) | 3:48 | 2024-09-12 | 2024-10-08 |
-| [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 | 2024-11-29 |  |
+| [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 | 2024-11-29 | 2025-02-03 |
 | [Połowa Mnie](https://open.spotify.com/track/5o6kVWLGia3lOVGppXQBJb) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Połowa Mnie](https://open.spotify.com/album/6qnqvqS01qdpVp6WggOZlL) | 2:44 | 2024-09-12 | 2024-09-28 |
 | [przypadkiem](https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [przypadkiem](https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0) | 3:03 | 2024-09-12 | 2024-09-25 |
 | [Próba](https://open.spotify.com/track/5spcXc9GLGoxb2VHhyF2zT) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ), [Archie](https://open.spotify.com/artist/7MfeMkE24VwoEnNKR2RA8u) | [Dobrostan](https://open.spotify.com/album/7ceGAAkYLx3kIppeHjuibV) | 3:05 | 2024-11-15 | 2025-01-25 |

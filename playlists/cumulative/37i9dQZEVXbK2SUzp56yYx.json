@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 199166,
       "name": "Christ",
       "url": "https://open.spotify.com/track/1bsl1bsMi8bqQC4sJfS1pt"
@@ -7698,7 +7698,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 157331,
       "name": "Lusterka",
       "url": "https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD"
@@ -7808,7 +7808,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 247384,
       "name": "Make It Lower",
       "url": "https://open.spotify.com/track/0OrKI0CBTIMsOBE7iAgM9C"
@@ -7826,7 +7826,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 247384,
       "name": "Make It Lower",
       "url": "https://open.spotify.com/track/7fPSC9JGH8DjQEtKSvBEkh"
@@ -9598,7 +9598,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 81500,
       "name": "NUNCA MUDA?",
       "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
@@ -11157,6 +11157,28 @@
     },
     {
       "album": {
+        "name": "sad girl syndrome",
+        "url": "https://open.spotify.com/album/1kFa07OXOLxA6qHiq2IcT2"
+      },
+      "artists": [
+        {
+          "name": "enveel",
+          "url": "https://open.spotify.com/artist/2rYszb3z2tEGOtZHGhNamU"
+        },
+        {
+          "name": "metaego",
+          "url": "https://open.spotify.com/artist/7dzEaSWZxAe5OYMDVcHwxw"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "sad girl syndrome",
+      "url": "https://open.spotify.com/track/6UzBxQWNbFJFEJFmhkSwst"
+    },
+    {
+      "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
       },
@@ -11416,7 +11438,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
@@ -11438,7 +11460,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/78O33U6jbQtNiNfbkZudpd"
@@ -16560,7 +16582,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "\u0412\u0442\u043e\u0440\u0430\u044f \u0432\u0435\u0441\u043d\u0430 (\u043a/\u0444 \u00ab\u041b\u0430\u043d\u0434\u044b\u0448\u0438. \u0422\u0430\u043a\u0430\u044f \u043d\u0435\u0436\u043d\u0430\u044f \u043b\u044e\u0431\u043e\u0432\u044c\u00bb)",
       "url": "https://open.spotify.com/track/1VgFDyWg9ibnWWRhNhdXOo"
@@ -16732,7 +16754,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 82285,
       "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/71LcXxyXOLybJnTjno152t"
@@ -18690,7 +18712,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 246073,
       "name": "\u041b\u044e\u0431\u044f\u0442 \u0441\u0443\u043a\u0438",
       "url": "https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR"
@@ -19432,9 +19454,9 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 236095,
-      "name": "\u041d\u0435 \u043b\u0435\u0447\u0438 \u043c\u0435\u043d\u044f (feat. \u0412\u0438\u0442\u044f \u0410\u041a & \u041a\u0435\u043d\u0434\u0440\u0430)",
+      "name": "\u041d\u0435 \u043b\u0435\u0447\u0438 \u043c\u0435\u043d\u044f",
       "url": "https://open.spotify.com/track/4a3iWuyzghSUF65tFgfb5B"
     },
     {
@@ -20022,7 +20044,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 171000,
       "name": "\u041e \u0434\u043e\u0431\u0440\u0435",
       "url": "https://open.spotify.com/track/0sg112jcxFOYlaVDXmSrxY"
@@ -21462,7 +21484,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 325516,
       "name": "\u041f\u0440\u043e\u0441\u043f\u0430\u043b",
       "url": "https://open.spotify.com/track/6sMGwJLnCUM75e2FoyStyN"
@@ -21775,6 +21797,28 @@
     },
     {
       "album": {
+        "name": "\u041f\u0420\u0418\u041b\u0423\u041d\u0415\u041d\u0418\u0415",
+        "url": "https://open.spotify.com/album/37IUlbwICDbFDvUiv3q0js"
+      },
+      "artists": [
+        {
+          "name": "M00NCHILD",
+          "url": "https://open.spotify.com/artist/0MVRrvtxcsYq6mOlSIKa96"
+        },
+        {
+          "name": "GONE.Fludd",
+          "url": "https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135085,
+      "name": "\u0420\u044f\u0434\u043e\u043c \u0421 \u0422\u043e\u0431\u043e\u0439",
+      "url": "https://open.spotify.com/track/73yOxwFDtoQ9VHlvjAx0dZ"
+    },
+    {
+      "album": {
         "name": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 3. \u041b\u0443\u0447\u0448\u0435\u0435",
         "url": "https://open.spotify.com/album/2AGyYsnisbbAi7mX1lzxtF"
       },
@@ -21822,7 +21866,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 173500,
       "name": "\u0421\u0430\u043c\u043e\u043b\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/4gkQh8gUuxTpzQeJYRIpvb"

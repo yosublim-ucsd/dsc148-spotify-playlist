@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > Pearl of the week: Felix Sandman
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,983 likes - 102 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,223 likes - 102 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

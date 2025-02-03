@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Jadal
 
-211 songs - 12 hr 52 min
+212 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [في السماء \(Fe Samaa\)](https://open.spotify.com/track/1dIf1Gc7gIoXSuRzlnOTWC) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV), [ڭليثر Glitter٥٥](https://open.spotify.com/artist/2KWnDPIjSGjvYrwexIdYyI) | [في السماء \(Fe Samaa\)](https://open.spotify.com/album/03rlICPw5ab843v5pXMo4H) | 3:53 | 2021-12-23 | 2022-04-19 |
 | [كان لازم](https://open.spotify.com/track/55CSUlBluvD9gauoJNxRPt) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [كان لازم](https://open.spotify.com/album/4J3bWdyJvM81e1SmLci0fI) | 3:23 | 2023-04-23 |  |
 | [لا تزعل مني](https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [لا تزعل مني](https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe) | 3:23 | 2023-08-24 |  |
+| [لب الموضوع](https://open.spotify.com/track/77ItYbWD7Wnt1dlkwhE0dU) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [لب الموضوع](https://open.spotify.com/album/5TcOf5U179gvhT9WYCVZMc) | 3:38 | 2025-02-02 |  |
 | [لحالها](https://open.spotify.com/track/64NJb1lr4J9IXDUNl63nxo) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [لحالها](https://open.spotify.com/album/2War9jZBTVTUv12nB0YkUz) | 2:53 | 2021-12-23 | 2022-04-16 |
 | [لو](https://open.spotify.com/track/3zmnkk8mrFEr7gUcPDd5t7) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [لو](https://open.spotify.com/album/5DKgNNMIerP7WFn4H10RMw) | 3:36 | 2023-01-19 | 2023-04-01 |
 | [مسجون](https://open.spotify.com/track/6Dvp1Hb7gWBIYzceRxAZxF) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [مسجون](https://open.spotify.com/album/7nlkfrEg5PODWj2j571JMk) | 2:59 | 2023-06-08 | 2023-08-24 |

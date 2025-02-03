@@ -3506,7 +3506,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 223268,
       "name": "Don't Look My Way",
       "url": "https://open.spotify.com/track/0zHWYFL39eS420oqza436i"
@@ -10158,7 +10158,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 240133,
       "name": "Multiply - Feat. Luedji Luna",
       "url": "https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9"
@@ -15615,6 +15615,24 @@
     },
     {
       "album": {
+        "name": "U I Want",
+        "url": "https://open.spotify.com/album/6BvrElX8J2adlMIIqqdw5I"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128537,
+      "name": "U I Want",
+      "url": "https://open.spotify.com/track/0Zf87fv0qih56Wg1wjtLlN"
+    },
+    {
+      "album": {
         "name": "U Should Be Mine",
         "url": "https://open.spotify.com/album/1SAL8acM2LnCU1GmQpks37"
       },
@@ -15936,6 +15954,28 @@
       "duration_ms": 213800,
       "name": "Verbs (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ"
+    },
+    {
+      "album": {
+        "name": "Verrans Corner",
+        "url": "https://open.spotify.com/album/61B0gyR89D3jQd75TfQ5wj"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        },
+        {
+          "name": "Leith Sye Towers",
+          "url": "https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202415,
+      "name": "Verrans Corner",
+      "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"
     },
     {
       "album": {

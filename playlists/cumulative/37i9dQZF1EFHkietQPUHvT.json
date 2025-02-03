@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP"
+      },
+      "artists": [
+        {
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181269,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ"
+    },
+    {
+      "album": {
         "name": "Breadcrumbs",
         "url": "https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc"
       },

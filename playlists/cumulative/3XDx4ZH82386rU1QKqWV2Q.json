@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "AM I DREAMING?",
+        "url": "https://open.spotify.com/album/4ds2ypXPYlUSqTf3AHc2YJ"
+      },
+      "artists": [
+        {
+          "name": "Domininja",
+          "url": "https://open.spotify.com/artist/2ATzqh6IpLapls8ribDZHv"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "AM I DREAMING?",
+      "url": "https://open.spotify.com/track/5UeYqLU56gwrbHoAlOvfd0"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb"
       },
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 101298,
       "name": "BLUEBERRY DREAMS",
       "url": "https://open.spotify.com/track/5fUIkqXnyr5lxz6Kb925KD"
@@ -4985,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/1yEVti7jU3Xv93i6pUkzAq"
+      },
+      "artists": [
+        {
+          "name": "Steelyphil",
+          "url": "https://open.spotify.com/artist/515vqfDzR7DoyMTM8jk9tz"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/6jYrtZ53ivJUSa1kuC3yCI"
+    },
+    {
+      "album": {
         "name": "HA HA HA",
         "url": "https://open.spotify.com/album/3slZeuVySIVoGkJbAmvRPf"
       },
@@ -5662,6 +5698,28 @@
       "duration_ms": 224000,
       "name": "House Down",
       "url": "https://open.spotify.com/track/5TuBTdjCxrME5axAfnyPqc"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love (Phonk)",
+        "url": "https://open.spotify.com/album/5nmwPyrn4W2ZrFNOaHjfkG"
+      },
+      "artists": [
+        {
+          "name": "Ghostride Mane",
+          "url": "https://open.spotify.com/artist/2y545B8DpHTDFsylzGXJz9"
+        },
+        {
+          "name": "Phonk Queen",
+          "url": "https://open.spotify.com/artist/0T6tCYxOW9uPXAiO6lSFqO"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133098,
+      "name": "How Deep Is Your Love - Phonk",
+      "url": "https://open.spotify.com/track/1zp0mzLuvrBQhC5OZWk45K"
     },
     {
       "album": {
@@ -6910,6 +6968,28 @@
       "duration_ms": 189473,
       "name": "Life:Joy",
       "url": "https://open.spotify.com/track/2w0X8WC1qjH7j2pgB99HF1"
+    },
+    {
+      "album": {
+        "name": "Childhood Chords",
+        "url": "https://open.spotify.com/album/7FPBnYqg7F2cTayz66Q6Bz"
+      },
+      "artists": [
+        {
+          "name": "Chronoton",
+          "url": "https://open.spotify.com/artist/5eD4zr2i64hzdlBnudyOba"
+        },
+        {
+          "name": "ZAYAZ",
+          "url": "https://open.spotify.com/artist/5qqBnjqzTZvBQzsKsBbrfG"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Light Years Away - Chronoton remix",
+      "url": "https://open.spotify.com/track/481QzcsUQTAmpIeUwq5Uvg"
     },
     {
       "album": {
@@ -12461,6 +12541,24 @@
     },
     {
       "album": {
+        "name": "two",
+        "url": "https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135212,
+      "name": "two",
+      "url": "https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD"
+    },
+    {
+      "album": {
         "name": "Critical Release",
         "url": "https://open.spotify.com/album/3JKlGzfUumjLQFS9HH2NYX"
       },
@@ -12642,7 +12740,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 176000,
       "name": "URLIKEDRUGS.mp3",
       "url": "https://open.spotify.com/track/1wzOrBT9okDMkHMMnCLzXA"

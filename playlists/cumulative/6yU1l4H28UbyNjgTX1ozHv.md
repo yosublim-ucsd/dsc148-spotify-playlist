@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-265 songs - 13 hr 38 min
+266 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/1MVsvA4KgABP84K4yymwL1) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/2vMJzstrV9NINEBu05fJMR) | 2:32 | 2022-07-02 | 2023-02-02 |
 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 | 2019-10-13 |  |
 | [No Scrubs \- Acoustic](https://open.spotify.com/track/4SlvVeLLojqmRT3VpXGNVZ) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [No Scrubs \(Acoustic\)](https://open.spotify.com/album/2eTxGTbHIMKl8ZFzkbgQIT) | 3:11 | 2020-07-24 |  |
-| [Only You \- Acoustic](https://open.spotify.com/track/1VhvvVUUsdvHOg03lGTARR) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Only You \(Acoustic\)](https://open.spotify.com/album/6URklNb6ymA8wmm4J64WJ1) | 3:42 | 2022-01-13 |  |
+| [Only You \- Acoustic](https://open.spotify.com/track/1VhvvVUUsdvHOg03lGTARR) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Only You \(Acoustic\)](https://open.spotify.com/album/6URklNb6ymA8wmm4J64WJ1) | 3:42 | 2022-01-13 | 2025-02-03 |
 | [Paradise \- Acoustic Version](https://open.spotify.com/track/5IaTbmfClU9YmW9vjZr86l) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Paradise \(Acoustic Version\)](https://open.spotify.com/album/4w20E4lMmjWmApwDb7Iie6) | 3:40 | 2019-10-13 |  |
 | [Perfect \- Acoustic](https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Perfect \(Acoustic\)](https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv) | 4:20 | 2019-10-13 |  |
 | [Perfect Strangers \- Acoustic](https://open.spotify.com/track/10g2KYRNWnxFLfjIqMTRyV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers \(Acoustic\)](https://open.spotify.com/album/3q6OSra2h56Q7YMHNgZr3P) | 3:11 | 2019-10-13 |  |
@@ -205,6 +205,7 @@
 | [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 | 2023-01-27 | 2024-02-03 |
 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2019-10-13 |  |
 | [Stand By Me \- Acoustic](https://open.spotify.com/track/3EwflvIjTsj1geph4V1rj5) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Stand By Me \(Acoustic\)](https://open.spotify.com/album/4YBuNLaJI4MAHEeaobswnV) | 2:53 | 2020-04-09 | 2023-02-02 |
+| [Stargazing \- Acoustic](https://open.spotify.com/track/5uHduwKoauygmlCn8J8cBx) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Stargazing \(Acoustic\)](https://open.spotify.com/album/0HwxUJzRuCyaG9M1uyi761) | 2:40 | 2025-02-02 |  |
 | [Stars \- Acoustic](https://open.spotify.com/track/11OWrRwbgBug9CSe3Gj70c) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Stars \(Acoustic\)](https://open.spotify.com/album/4FCQZHSeNRgsKKDDgGm1Bg) | 2:26 | 2024-05-10 |  |
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2019-10-13 |  |
 | [Stuck In A Moment You Can't Get Out Of \- Acoustic Version / Remastered 2020](https://open.spotify.com/track/4qxXipoHUokPaPX1YWs47q) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind](https://open.spotify.com/album/42zp9yVG4N0SpcejLPoko5) | 3:44 | 2020-10-01 |  |

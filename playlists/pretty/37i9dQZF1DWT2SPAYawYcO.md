@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: The Jungle Giants
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,249 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,285 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 90 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 |
 | 91 | [Apollo \(ʞɔɐɹʇ snuoq\)](https://open.spotify.com/track/6T2x8eMnHJkmjeMaRDVsPX) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N) | [Incarnation](https://open.spotify.com/album/4Db1tA4CP29Ld0cKbqIZVP) | 2:57 |
 
-Snapshot ID: `Z5xY/AAAAACxkJcasklnnqNzcocvV+6c`
+Snapshot ID: `Z6AEeAAAAAAAJI/egsyoYO3/Ahdtl9mX`

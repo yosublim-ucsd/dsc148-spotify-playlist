@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 267161,
+  "num_followers": 267249,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
         "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
       },
@@ -123,38 +139,6 @@
       "duration_ms": 258933,
       "name": "Los Campeones De La Salsa",
       "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -223,6 +207,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Contra Todos los Pron\u00f3sticos",
+        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 387973,
+      "name": "El Aguila",
+      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Contra Todos los Pron\u00f3sticos",
-        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
       },
       "artists": [
         {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 387973,
-      "name": "El Aguila",
-      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
+      "duration_ms": 275253,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 284053,
+      "name": "Luna Negra",
+      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "Llego... Van Van",
         "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
         }
       ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
+      "duration_ms": 326720,
+      "name": "La Boda de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -375,22 +391,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Chapeando",
-        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 368720,
-      "name": "Despu\u00e9s de todo",
-      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Llego... Van Van",
         "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
       },
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+        "name": "Chapeando",
+        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
       },
       "artists": [
         {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
         }
       ],
-      "duration_ms": 326720,
-      "name": "La Boda de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
+      "duration_ms": 368720,
+      "name": "Despu\u00e9s de todo",
+      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+      },
+      "artists": [
+        {
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+        }
+      ],
+      "duration_ms": 313295,
+      "name": "Al Paso",
+      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "La Aplanadora de Cuba",
         "url": "https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
-      },
-      "artists": [
-        {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
-        }
-      ],
-      "duration_ms": 313295,
-      "name": "Al Paso",
-      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Sin Escala",
         "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 358520,
       "name": "La Preferencia",
       "url": "https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -691,46 +707,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "La Salsa Tiene mi Son",
-        "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
-      },
-      "artists": [
-        {
-          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
-        },
-        {
-          "name": "Alexander Delgado (Gente D' Zona)",
-          "url": "https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh"
-        },
-        {
-          "name": "Serguei Yera Madera",
-          "url": "https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
-      "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Recoge y Vete",
         "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 295200,
       "name": "La Bomba (Yo Lo S\u00e9)",
       "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "La Salsa Tiene mi Son",
+        "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
+      },
+      "artists": [
+        {
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
+        },
+        {
+          "name": "Alexander Delgado (Gente D' Zona)",
+          "url": "https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh"
+        },
+        {
+          "name": "Serguei Yera Madera",
+          "url": "https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
+      "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Quiero Verte Otra Vez",
-        "url": "https://open.spotify.com/album/4862dwA64dtiFt42ezMima"
+        "name": "Sin Escala",
+        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
       },
       "artists": [
         {
-          "name": "Havana D'primera",
-          "url": "https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO"
+          "name": "El Noro y Primera Clase",
+          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
         }
       ],
-      "duration_ms": 288445,
-      "name": "Quiero Verte Otra Vez",
-      "url": "https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx"
+      "duration_ms": 267693,
+      "name": "Voy a Portarme Mal",
+      "url": "https://open.spotify.com/track/0Br8uOi4SiYiMKCD0K5jSN"
     }
   ],
   "unique_name": "Salsa Cubana",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90! Ricky Martin en portada.",
-  "num_followers": 1191250,
+  "num_followers": 1191965,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-06-04 19:21:52",
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Ojos As\u00ed",
+      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
+    },
+    {
+      "added_at": "2024-06-04 19:21:52",
+      "album": {
         "name": "La Historia De Magneto",
         "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
@@ -303,38 +319,6 @@
     {
       "added_at": "2024-06-04 19:21:52",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Ojos As\u00ed",
-      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
-    },
-    {
-      "added_at": "2024-06-04 19:21:52",
-      "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Ser\u00e1 Que No Me Amas (Blame It on the Boogie)",
-      "url": "https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i"
-    },
-    {
-      "added_at": "2024-06-04 19:21:52",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 253266,
       "name": "Solo Se Vive una Vez",
       "url": "https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH"
+    },
+    {
+      "added_at": "2024-06-04 19:21:52",
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Ser\u00e1 Que No Me Amas (Blame It on the Boogie)",
+      "url": "https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i"
     },
     {
       "added_at": "2024-06-04 19:21:52",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-04 19:21:52",
       "album": {
-        "name": "Chicas Chic",
-        "url": "https://open.spotify.com/album/3ohvS7kECZaPGdK2D6XJ2S"
-      },
-      "artists": [
-        {
-          "name": "Mercurio",
-          "url": "https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Explota Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2fRynroc69YxU3c4w9RCPI"
-    },
-    {
-      "added_at": "2024-06-04 19:21:52",
-      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2024-06-04 19:21:52",
       "album": {
-        "name": "Grandes exitos 1997-2004",
-        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
+        "name": "Chicas Chic",
+        "url": "https://open.spotify.com/album/3ohvS7kECZaPGdK2D6XJ2S"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Mercurio",
+          "url": "https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV"
         }
       ],
-      "duration_ms": 359173,
-      "name": "No es lo mismo",
-      "url": "https://open.spotify.com/track/6p7KLIvLhnACzXHuUi00zs"
+      "duration_ms": 219146,
+      "name": "Explota Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2fRynroc69YxU3c4w9RCPI"
     },
     {
       "added_at": "2024-06-04 19:21:52",
@@ -799,6 +783,22 @@
       "duration_ms": 241800,
       "name": "TBC",
       "url": "https://open.spotify.com/track/2UAz1uQZR4OKfa55uBPmwl"
+    },
+    {
+      "added_at": "2024-06-04 19:21:52",
+      "album": {
+        "name": "Grandes exitos 1997-2004",
+        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 359173,
+      "name": "No es lo mismo",
+      "url": "https://open.spotify.com/track/6p7KLIvLhnACzXHuUi00zs"
     },
     {
       "added_at": "2024-06-04 19:21:52",

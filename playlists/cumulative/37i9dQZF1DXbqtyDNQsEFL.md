@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs?si=PeP0s4OOQR2MGIF8I2mVKw>Jimmy D Psalmist</a>
 
-461 songs - 1 day 20 hr 51 min
+462 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [KASALA](https://open.spotify.com/track/2lFtWNaAtdf9LZsrcTaWrz) | [John Cohen](https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T) | [KASALA](https://open.spotify.com/album/0VBE5HaU33800S64toSedh) | 4:21 | 2025-01-24 |  |
 | [Kaunar Ka, Oh Ya Yesu \- Live](https://open.spotify.com/track/07yKdaV1fiTDgiZKOcTp13) | [Chingtok Ishaku](https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ), [Firstlove](https://open.spotify.com/artist/6JYa5mchuanBIFD4QDTg84) | [The Bridge](https://open.spotify.com/album/0hpcHJ05OUYD81SFjR2odm) | 11:14 | 2022-10-14 | 2022-11-05 |
 | [Kelerem chimo](https://open.spotify.com/track/7IYBkPcrPnzLEg4TfAab51) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Fathered by the best](https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY) | 7:15 | 2023-08-04 | 2023-09-25 |
+| [Keneya](https://open.spotify.com/track/7bvytgDbzEeUf2SuwNe5qs) | [Kennyice](https://open.spotify.com/artist/36fj0UBiN4y4kx2H98ofdO), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Keneya](https://open.spotify.com/album/2kPm7KcYImvvkqYoWPETLb) | 2:39 | 2024-11-22 |  |
 | [Kidie Mevwo Kpevwen \(Live\)](https://open.spotify.com/track/0zxUDyZDv8HtP7GHJjON2Q) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [New Dimension](https://open.spotify.com/album/5F8AS4nbIJ1RRceKfrO7G8) | 6:58 | 2023-12-05 | 2023-12-11 |
 | [King of Glory](https://open.spotify.com/track/27E4LObyzj6OiszOv221pI) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Greatest Lord](https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r) | 5:40 | 2022-06-09 | 2023-06-30 |
 | [King of Heaven](https://open.spotify.com/track/7o5X7UiaWdlhZ8RzhgpMvB) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Limitless Worship: Accra](https://open.spotify.com/album/6TWDBr16khP07eyN8ANE4M) | 7:44 | 2023-03-30 | 2023-05-14 |
@@ -386,7 +387,7 @@
 | [The Name of Jesus \- Live in Concert](https://open.spotify.com/track/4KTSpi2D4uoHcwxcPvvt3v) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 8:10 | 2023-12-05 | 2023-12-11 |
 | [The One](https://open.spotify.com/track/2NOwb3KALk8CO3RakXZz8e) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/09BaJhUnNCDBkbIsUvwLxF) | 9:14 | 2024-12-31 | 2025-01-07 |
 | [The Only God](https://open.spotify.com/track/6jriZl0MvIiURIS64fSqfO) | [Mairo Ese](https://open.spotify.com/artist/78QoE7x1Wt8whxsUItnwm9) | [The Only God](https://open.spotify.com/album/0oCDl8tXWW4izMRgXnTzNf) | 7:23 | 2022-10-14 | 2022-11-05 |
-| [The Way](https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Good To Go](https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf) | 3:25 | 2023-12-15 |  |
+| [The Way](https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Good To Go](https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf) | 3:25 | 2023-12-15 | 2025-02-03 |
 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 | 2022-06-09 | 2023-10-06 |
 | [This Love](https://open.spotify.com/track/5RHUrCglxsMgs2xvo1wCh2) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [This Love](https://open.spotify.com/album/5jF6a0WvJ8zzO9a00lbP6I) | 5:00 | 2022-06-09 | 2023-01-26 |
 | [This New Year](https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [This New Year](https://open.spotify.com/album/4KMbeo33myIfZ8Rp5rYxLh) | 4:11 | 2023-12-15 | 2024-01-26 |

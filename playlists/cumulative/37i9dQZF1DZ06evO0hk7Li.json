@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 342012,
       "name": "The Descent",
       "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
@@ -1978,6 +1978,24 @@
       "duration_ms": 241889,
       "name": "You Don't Even Call Me",
       "url": "https://open.spotify.com/track/2Xxe9r20FuSheRY8832rr7"
+    },
+    {
+      "album": {
+        "name": "Yonder: Book II",
+        "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "You Like It I Love It",
+      "url": "https://open.spotify.com/track/78OGe0lRtqJI6bMiQeE8x4"
     },
     {
       "album": {

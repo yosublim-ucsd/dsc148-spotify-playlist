@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,535 songs - 2 day 9 hr 47 min
+1,536 songs - 2 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -848,6 +848,7 @@
 | [monday blues](https://open.spotify.com/track/6lmhW5QmKVvhkVsBgZDSZ8) | [DI3GO](https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ) | [monday blues](https://open.spotify.com/album/7JXVitzuRY1n9pDR1niZ3h) | 2:07 | 2022-06-17 | 2022-07-15 |
 | [Monday Jazz](https://open.spotify.com/track/1714nYm2c7rNoyCai0kv6S) | [Widefoot](https://open.spotify.com/artist/3AsTXF3O57Mh5814iDyMf0), [Jack Reefa](https://open.spotify.com/artist/7mS94sQcmmbPGWeF7vqfpB) | [Blue Grass](https://open.spotify.com/album/5AaVUDZOUEc1I1bNXrwLcY) | 1:51 | 2022-11-25 | 2024-12-12 |
 | [Mondaze](https://open.spotify.com/track/51lkxbTJPjihIWpnLePDiW) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Mondaze](https://open.spotify.com/album/0lP2Yp6boosjiED8MqKazI) | 2:34 | 2022-07-29 | 2022-10-29 |
+| [Monolo](https://open.spotify.com/track/4TG8tf21DAiKmXWhWNY0eI) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Monolome](https://open.spotify.com/album/4eIHkEFDSzIJNjdCBLHpzI) | 2:07 | 2025-01-31 |  |
 | [Montara](https://open.spotify.com/track/3yk4ibm1e9NKfcT7CLsbIq) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Montara](https://open.spotify.com/album/6acq60fDwhLZnSqXZf4hKo) | 2:05 | 2022-05-13 | 2022-11-26 |
 | [Monte Adentro](https://open.spotify.com/track/7IOcgTEFqAg2gW1GSVZDZy) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Monte Adentro](https://open.spotify.com/album/0Rsap5JXIEDLxkhTVNT3Kr) | 2:07 | 2022-09-16 | 2022-09-23 |
 | [Mood Lines](https://open.spotify.com/track/1EOYAHo9XA4Crk6zItThFa) | [Kap](https://open.spotify.com/artist/13LDOfBz1kXJzaejmIweLQ), [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Mood Lines](https://open.spotify.com/album/3lDGJ77W8b1pnFv5PXdWHm) | 2:19 | 2022-05-20 | 2022-09-11 |
@@ -1350,7 +1351,7 @@
 | [tempura](https://open.spotify.com/track/1zgFWd7USHOKNc30YtfsCT) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs), [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [Heartsick, extras.](https://open.spotify.com/album/1FMRlhclA9XtdN8iPbflJl) | 2:33 | 2022-01-27 | 2022-09-09 |
 | [Tendenzies](https://open.spotify.com/track/0dSDD52DBAuu7lNvej0WG8) | [$affie](https://open.spotify.com/artist/3m63AiBD7p1QAVi95d03te), [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Tendenzies](https://open.spotify.com/album/5ALwxXL1ZL5W9KiGrR8hVi) | 2:08 | 2022-01-27 | 2023-09-05 |
 | [Tender Mind](https://open.spotify.com/track/04DplA83rbqQVqWjPFYSpC) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Tender Mind](https://open.spotify.com/album/2TEZN8nwRNnom7KG3xc3hP) | 1:53 | 2023-06-05 |  |
-| [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 | 2023-11-17 |  |
+| [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 | 2023-11-17 | 2025-02-03 |
 | [Terzo](https://open.spotify.com/track/1EXS0FNpWbCjlYY5LKCqer) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Terzo](https://open.spotify.com/album/1ZtZwyMm2P4ujY02crKMIV) | 2:55 | 2022-01-27 | 2024-05-14 |
 | [thankful](https://open.spotify.com/track/0nyqWzGxfKw9k30MK0rXZQ) | [loku](https://open.spotify.com/artist/4syA0zfcvPMsZ6Fzw6MGHc) | [thankful](https://open.spotify.com/album/7r3eEEKheLFzti21hYnZ8L) | 2:19 | 2024-01-12 | 2024-12-03 |
 | [That FULLness](https://open.spotify.com/track/4chATeCAyWRsO7PEptGM41) | [Stay Nice](https://open.spotify.com/artist/0e0CMuJm0h7Dl1pFGb7MUD) | [That FULLness](https://open.spotify.com/album/1eRPL8SVCLThFHOWYRWgXD) | 3:00 | 2022-01-27 | 2022-09-03 |

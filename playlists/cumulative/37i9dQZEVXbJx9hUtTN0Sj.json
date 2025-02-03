@@ -6384,7 +6384,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 191360,
       "name": "Drums of Death",
       "url": "https://open.spotify.com/track/13QINbzgh3yta5OGvB77Pl"
@@ -7066,7 +7066,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 263693,
       "name": "Eusexua",
       "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
@@ -10272,7 +10272,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 214506,
       "name": "I Always Wanted A Brother",
       "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
@@ -14530,7 +14530,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
@@ -14950,7 +14950,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 223124,
       "name": "Miku",
       "url": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW"
@@ -15298,6 +15298,28 @@
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM BRAVO",
+        "url": "https://open.spotify.com/album/2RhX80u97LacDUbFoSLT5W"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "Mc Talib\u00e3",
+          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91906,
+      "name": "MONTAGEM BRAVO - Slowed",
+      "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
     },
     {
       "album": {
@@ -23741,6 +23763,24 @@
     },
     {
       "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "album": {
         "name": "Wacuka",
         "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
       },
@@ -24686,6 +24726,24 @@
       "duration_ms": 158951,
       "name": "Woops - Dimitri Vegas & Junkie Kid Remix",
       "url": "https://open.spotify.com/track/3s0ddyP32ZZMCXQT70UQYJ"
+    },
+    {
+      "album": {
+        "name": "Broken English",
+        "url": "https://open.spotify.com/album/3H0cWLh4X4x5TB8TTkE3LE"
+      },
+      "artists": [
+        {
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281253,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/7eG14zW8Vlevb4oOQnu5eU"
     },
     {
       "album": {

@@ -271,6 +271,28 @@
     },
     {
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/3huh7GYVDVU582wPJZ78Kp"
+      },
+      "artists": [
+        {
+          "name": "James Lacey",
+          "url": "https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG"
+        },
+        {
+          "name": "Fia De Luca",
+          "url": "https://open.spotify.com/artist/4L9Leu8vWuIkbUWKuJ0Mbq"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155172,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2X8EqHzSI872SjcdvlGDHy"
+    },
+    {
+      "album": {
         "name": "All I Think About",
         "url": "https://open.spotify.com/album/1LHgAOXD690JhN0fUja5BD"
       },
@@ -1144,6 +1166,28 @@
       "duration_ms": 176129,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/221YfSBqhocIartpTjwhx0"
+    },
+    {
+      "album": {
+        "name": "Better Than Today",
+        "url": "https://open.spotify.com/album/7G3JLxaGvrJ2NoRqHEYbCV"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "EyeMad",
+          "url": "https://open.spotify.com/artist/2C15mEsXxAqiKWKG4skXHY"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/41lhdlcrHf4xHTxJgnpf7U"
     },
     {
       "album": {
@@ -2972,7 +3016,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 132000,
       "name": "Don't Wake Me",
       "url": "https://open.spotify.com/track/5JaZ28x1JbN25VaRRuqEs1"
@@ -6208,7 +6252,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 185658,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/349Av8zxL82Cwas5CZk0hH"
@@ -9570,6 +9614,28 @@
       "duration_ms": 164936,
       "name": "Never Found It",
       "url": "https://open.spotify.com/track/5vz1ItCx8S2bZWbfjk4ESo"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/2gBKmaHMvmW3aqNriAmEmw"
+      },
+      "artists": [
+        {
+          "name": "Made Of Marble",
+          "url": "https://open.spotify.com/artist/3nkiEsorNbO1gdtibcPUdW"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6pKlEVAue9oZO1qsNCZton"
     },
     {
       "album": {
@@ -13874,7 +13940,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 140000,
       "name": "Thinkin' About Me",
       "url": "https://open.spotify.com/track/2MUng1WkmksQtlxmUNVlf1"

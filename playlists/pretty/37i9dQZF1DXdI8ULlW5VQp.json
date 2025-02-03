@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Leo Rizzi en portada.",
-  "num_followers": 74998,
+  "num_followers": 75002,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
         "name": "No Me Llores",
         "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
       },
@@ -283,26 +299,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Te Perd\u00ed",
-        "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 239377,
-      "name": "Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "a\u00f1o nuevo",
         "url": "https://open.spotify.com/album/56Mx91RHVVImdY8mCcR4Bm"
       },
@@ -323,18 +319,22 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 231053,
-      "name": "El lugar correcto",
-      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
+      "duration_ms": 239377,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "aeropuerto",
-        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "aeropuerto",
-      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 210333,
       "name": "Sed de Acci\u00f3n",
       "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "aeropuerto",
+        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "aeropuerto",
+      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
-        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
-      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Tofu",
         "url": "https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/4G0T2SK5Ph41HvzJEfSNVV"
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
       },
       "artists": [
         {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 206964,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/0i9vrEyQW07WdbJbavyGYw"
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -807,6 +791,22 @@
       "duration_ms": 211030,
       "name": "Tuvimos Futuro",
       "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/4G0T2SK5Ph41HvzJEfSNVV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 206964,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/0i9vrEyQW07WdbJbavyGYw"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Necios",
-      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Calle Sin Salida",
         "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 170240,
       "name": "Calle Sin Salida",
       "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Necios",
+      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "MUJER MARAVILLA",
-        "url": "https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "MUJER MARAVILLA",
-      "url": "https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Polvo De Gigantes",
         "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "MUJER MARAVILLA",
+        "url": "https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "MUJER MARAVILLA",
+      "url": "https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB"
     },
     {
       "added_at": "2025-01-24 06:00:28",

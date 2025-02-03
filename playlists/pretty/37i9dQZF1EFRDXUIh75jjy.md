@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625 likes - 210 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 624 likes - 210 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 192 | [Rent Money](https://open.spotify.com/track/0EG27a3cBSGE5bQvkVdAhY) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:12 |
 | 193 | [Indie Movie Zoomout Moment](https://open.spotify.com/track/52L7FseAcbWs0lqTH9Z2IK) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 2:45 |
 | 194 | [Nostalgia](https://open.spotify.com/track/3vZzVdbzeg8hbSmEKTqR2S) | [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Nostalgia](https://open.spotify.com/album/27VyDOinSlqrIMJLHjARWu) | 3:27 |
-| 195 | [Stalemate](https://open.spotify.com/track/6Kq4VclmEPKy4ZjGPsorGJ) | [Ryan Lafferty](https://open.spotify.com/artist/2udxH4GiKMeeAvtPAWbNse) | [The Half of It](https://open.spotify.com/album/454rXUMdCOtKu9OnEhvYWH) | 3:14 |
-| 196 | [Death Grip](https://open.spotify.com/track/5jOCZRdWItMJKacbZolEJF) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Death Grip](https://open.spotify.com/album/42mJsxvnDKCV4eMDBxDcpR) | 3:08 |
+| 195 | [Death Grip](https://open.spotify.com/track/5jOCZRdWItMJKacbZolEJF) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Death Grip](https://open.spotify.com/album/42mJsxvnDKCV4eMDBxDcpR) | 3:08 |
+| 196 | [Stalemate](https://open.spotify.com/track/6Kq4VclmEPKy4ZjGPsorGJ) | [Ryan Lafferty](https://open.spotify.com/artist/2udxH4GiKMeeAvtPAWbNse) | [The Half of It](https://open.spotify.com/album/454rXUMdCOtKu9OnEhvYWH) | 3:14 |
 | 197 | [BRIGHT LIGHTS](https://open.spotify.com/track/40SjNGa1n34Yw0ViAvM6D0) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [BRIGHT LIGHTS](https://open.spotify.com/album/0BFGBjU9udtF025t21EZUV) | 3:02 |
 | 198 | [Carry It All](https://open.spotify.com/track/04Tsc0341Dca5YJCa61H6G) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Nolan Taylor](https://open.spotify.com/album/1q0SJmCvJjp3rGPJHtuwCD) | 2:46 |
 | 199 | [Seasons](https://open.spotify.com/track/4y9jIjdtSEWAUnbjrSoOle) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [2019](https://open.spotify.com/album/0gCogRTzYsWjQjipkylR52) | 2:43 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 209 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 210 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbodaAAAAACs7bhq0Wf8YQEDc4m8zGnP`
+Snapshot ID: `Aboi/gAAAABO/qxHeifri1LAIRA1TtlW`

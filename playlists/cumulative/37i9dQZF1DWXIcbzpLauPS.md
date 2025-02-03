@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: Great American Ghost
 
-1,122 songs - 2 day 21 hr 8 min
+1,123 songs - 2 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,6 +852,7 @@
 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 | 2022-07-01 | 2023-03-25 |
 | [Shadow Walker](https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Shadow Walker](https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O) | 3:57 | 2022-02-11 | 2022-04-23 |
 | [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 | 2022-08-05 | 2022-11-23 |
+| [Shape Of My Mind](https://open.spotify.com/track/1GZNEk3SAySX6y79Y3ACIa) | [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Shape Of My Mind](https://open.spotify.com/album/6gB6uISPDphVltQinR1Oia) | 3:24 | 2025-01-31 |  |
 | [Shapeless in the Dark](https://open.spotify.com/track/6BQEJ21c1hNkMHzPfedF7x) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [What's Left Unsaid](https://open.spotify.com/album/473iM0z7iwQsy74zcilsRw) | 3:23 | 2024-07-12 | 2024-08-02 |
 | [Shapeshifter](https://open.spotify.com/track/5iIsClVGHkiXNum4RBo0d5) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Shapeshifter](https://open.spotify.com/album/7ITUQA21n3ru9Nxej4pHrk) | 3:05 | 2024-11-22 | 2025-01-18 |
 | [Shimmer](https://open.spotify.com/track/5fuq9zEt8fMmwz66Ks9wrU) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Shimmer](https://open.spotify.com/album/69tKJT4Z6ddrF9uOFuJH9G) | 3:46 | 2022-06-17 | 2022-07-27 |
@@ -963,7 +964,7 @@
 | [The Echoes of Disparity](https://open.spotify.com/track/15cliM4IVHGvwbK9O36xcV) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Charlie Rolfe](https://open.spotify.com/artist/61LUcApo9W4qxM7PjbO6gV), [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [The Echoes of Disparity](https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI) | 3:51 | 2024-06-04 | 2024-08-13 |
 | [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2022-07-13 | 2022-07-15 |
 | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/album/5bJ6joEOY28UkisojIyFOk) | 3:35 | 2021-12-17 | 2022-01-28 |
-| [The Far Side](https://open.spotify.com/track/3ws26a6G2rYjtAD5fK9ObC) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Vended](https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU) | 4:58 | 2024-09-20 |  |
+| [The Far Side](https://open.spotify.com/track/3ws26a6G2rYjtAD5fK9ObC) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Vended](https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU) | 4:58 | 2024-09-20 | 2025-02-03 |
 | [The Fear of God](https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God](https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj) | 2:02 | 2024-08-12 | 2024-12-19 |
 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 | 2024-07-12 | 2024-08-26 |
 | [The Fullness of My Being](https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [The Fullness of My Being](https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3) | 3:38 | 2024-01-12 | 2024-07-15 |

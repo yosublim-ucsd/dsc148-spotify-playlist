@@ -2,7 +2,7 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Banshee
+> Feeling dramatic? All eyes on you\. Cover: Chappell Roan
 
 427 songs - 23 hr 5 min
 

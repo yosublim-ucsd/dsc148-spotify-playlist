@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,748 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,768 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 48 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 |
 | 49 | [Be Free](https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:33 |
 | 50 | [Translation](https://open.spotify.com/track/0KmTe6ZCDyYi9rxUy3NWfg) | [Vein](https://open.spotify.com/artist/3BnF35ARlp8mMeyXTjUZsr), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Translation](https://open.spotify.com/album/1BRPWm8MXzNphCMt6K4OMB) | 3:39 |
-| 51 | [Madrid X Marbella](https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Madrid X Marbella](https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y) | 3:14 |
+| 51 | [Amigos por Siempre](https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS) | [Martin](https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:14 |
 
-Snapshot ID: `Z5wSgAAAAACVS15nj+WW9PQMvX+P8VYO`
+Snapshot ID: `Z51kAAAAAAC84zw9DcQFvusPDotZCMtW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 537 songs - 1 day 12 hr 3 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 535 songs - 1 day 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -542,8 +542,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 532 | [Heavenward](https://open.spotify.com/track/5LXg8cfq5hyegv2AwFlkV7) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:55 |
 | 533 | [The Rolling Stones](https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
 | 534 | [Persona](https://open.spotify.com/track/6zl3FkdpbmNwsvCqWkcEze) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Persona](https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt) | 0:32 |
-| 535 | [Tambourine Dream](https://open.spotify.com/track/5eAKaGCR0QEuPOxOo0zXqs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 0:33 |
-| 536 | [BLACK OPPS](https://open.spotify.com/track/3YnYMjDHxPs5WsKjGJwZEE) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [LOWER](https://open.spotify.com/album/01UBvt33eTksshPiwljpBn) | 3:48 |
-| 537 | [Do Not Fire! \(demo\)](https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy Demos](https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ) | 1:33 |
+| 535 | [Do Not Fire! \(demo\)](https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy Demos](https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ) | 1:33 |
 
-Snapshot ID: `AAAG5+flvQcZPrSqGw6RkmMyw0P9eR2s`
+Snapshot ID: `AAAG6b8Y1DlgOP8KpWb+Yc2pM0eVjRbR`

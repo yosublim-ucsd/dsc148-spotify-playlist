@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Feb 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Feb 23:01 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 149577,
       "name": "A Guy Called?",
       "url": "https://open.spotify.com/track/0d2Twch3UzAIY8yePbkAzz"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 235443,
       "name": "A Line in the Dust",
       "url": "https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P"
@@ -7898,6 +7898,24 @@
       "duration_ms": 122790,
       "name": "bishop ford II",
       "url": "https://open.spotify.com/track/70GpBzNBOV6etGYJxop0GP"
+    },
+    {
+      "album": {
+        "name": "bitch",
+        "url": "https://open.spotify.com/album/0Q58uvkt43jDJI7sAHZdFc"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204197,
+      "name": "bitch",
+      "url": "https://open.spotify.com/track/56frwVSZrFB08jBrmt9ZQW"
     },
     {
       "album": {
@@ -14543,6 +14561,24 @@
     },
     {
       "album": {
+        "name": "Coraline",
+        "url": "https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169013,
+      "name": "Coraline",
+      "url": "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF"
+    },
+    {
+      "album": {
         "name": "Cornflake Girl (Live 2024)",
         "url": "https://open.spotify.com/album/2OxBOGZOisGjdcfxn6fRVW"
       },
@@ -17244,6 +17280,24 @@
       "duration_ms": 144966,
       "name": "DENK ZU VIEL NACH",
       "url": "https://open.spotify.com/track/1ctq4FdMatfR9ZNCY8WKbM"
+    },
+    {
+      "album": {
+        "name": "Depraved Idol",
+        "url": "https://open.spotify.com/album/6TqWBOgLzqNVZBZ3neOBWK"
+      },
+      "artists": [
+        {
+          "name": "God Complex",
+          "url": "https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152437,
+      "name": "Depraved Idol",
+      "url": "https://open.spotify.com/track/5kt6KuCw6Zve6JhI4xRV4a"
     },
     {
       "album": {
@@ -20522,7 +20576,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 189103,
       "name": "Elevator Operator",
       "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
@@ -20844,6 +20898,28 @@
       "duration_ms": 162182,
       "name": "Enmore",
       "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
+    },
+    {
+      "album": {
+        "name": "Enter The Dragon / TEKTIME",
+        "url": "https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "Enter The Dragon",
+      "url": "https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ"
     },
     {
       "album": {
@@ -26518,6 +26594,24 @@
       "duration_ms": 198857,
       "name": "Girls On The Internet",
       "url": "https://open.spotify.com/track/2p646IXQ5NldzSmZmpHqC1"
+    },
+    {
+      "album": {
+        "name": "Girls On The Internet",
+        "url": "https://open.spotify.com/album/3DR5jShLK80E3NXJGUKxnp"
+      },
+      "artists": [
+        {
+          "name": "Elita",
+          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175019,
+      "name": "Girls On The Internet",
+      "url": "https://open.spotify.com/track/0WDxvH1bVNcBufkEcv5eb8"
     },
     {
       "album": {
@@ -38338,7 +38432,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 232702,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8"
@@ -40042,6 +40136,24 @@
       "duration_ms": 228133,
       "name": "LOSER!!",
       "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
+    },
+    {
+      "album": {
+        "name": "losers bracket / wakeup",
+        "url": "https://open.spotify.com/album/3C9uTZHObcyJ5Gi3QlVLAB"
+      },
+      "artists": [
+        {
+          "name": "kuru",
+          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105931,
+      "name": "losers bracket",
+      "url": "https://open.spotify.com/track/7iQIS0wcNM8xTZJDTKJmYW"
     },
     {
       "album": {
@@ -45909,6 +46021,24 @@
     },
     {
       "album": {
+        "name": "Never Know",
+        "url": "https://open.spotify.com/album/1wIKBow4Y0MtCFSWBdohuC"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175120,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa"
+    },
+    {
+      "album": {
         "name": "Never Like Me",
         "url": "https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT"
       },
@@ -47594,7 +47724,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 210020,
       "name": "Not What You Think",
       "url": "https://open.spotify.com/track/3EPWQOyuyCBi23OpIL6NDt"
@@ -52130,7 +52260,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 166363,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/04aXEFodDzoPVe3ZoXFuAZ"
@@ -75792,7 +75922,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 301976,
       "name": "Wrenches",
       "url": "https://open.spotify.com/track/2t9E8lwuPy7ySpX2pvj1Ct"

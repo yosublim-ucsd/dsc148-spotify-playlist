@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 帝国喫茶
 
-960 songs - 2 day 10 hr 17 min
+961 songs - 2 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Love Song ga Iranai Kimi e](https://open.spotify.com/track/1JckJKUfnd4Xbkh7xfAk8c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Love Song ga Iranai Kimi e](https://open.spotify.com/album/4jnUmf2eZu1fO3Pel9LwhN) | 3:43 | 2024-01-16 | 2024-02-07 |
 | [Love you](https://open.spotify.com/track/6EiYkXXJoDyTNDvIL8UiYk) | [NALUCK](https://open.spotify.com/artist/2pJw4suJbxO2ZUhNQMwJOq) | [piece](https://open.spotify.com/album/5oSSCIICpZWjsKHSMzMErq) | 3:59 | 2023-12-05 | 2023-12-13 |
 | [lowkey](https://open.spotify.com/track/0Zhvac48LN24ULEtZaAeWr) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [酸いも甘いも、好きも嫌いも](https://open.spotify.com/album/5sCWQBhe39iThEpiTGnCGI) | 2:57 | 2023-10-31 | 2023-11-22 |
-| [LSD](https://open.spotify.com/track/1CaHQd528Xcn0Jrj6rxjaM) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [pink II](https://open.spotify.com/album/4Qh5vpPfJWDvC51dtBKbXL) | 3:17 | 2025-01-09 |  |
+| [LSD](https://open.spotify.com/track/1CaHQd528Xcn0Jrj6rxjaM) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [pink II](https://open.spotify.com/album/4Qh5vpPfJWDvC51dtBKbXL) | 3:17 | 2025-01-09 | 2025-02-03 |
 | [LUCKY BOY](https://open.spotify.com/track/5assUIrvcCBk6wTw0YLNYT) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [LUCKY BOY](https://open.spotify.com/album/7832Hv94keKPcy8D6Gc7dA) | 2:32 | 2024-09-17 | 2024-10-02 |
 | [Lunch Box](https://open.spotify.com/track/21CwxQwgdOLisNTD0cdjyI) | [KUZIRA](https://open.spotify.com/artist/3BPlRvUsbJdNM0nM8wqmbV) | [Lunch Box](https://open.spotify.com/album/2zcJS2oxoP8c3ScmRcu3Gf) | 1:18 | 2025-01-07 |  |
 | [Lūcifer](https://open.spotify.com/track/1RtC6BpTJcChw0901aHqXu) | [ko shinonome](https://open.spotify.com/artist/14cmTPiiGSZZ3gW6AWAp10), [Riho Nishikata](https://open.spotify.com/artist/4xU4KNUaARwgoW0LYDYwq8) | [Lūcifer](https://open.spotify.com/album/2Z8REeACZ10kZyLfWkTcZl) | 3:21 | 2024-12-03 | 2024-12-11 |
@@ -455,6 +455,7 @@
 | [さらば碧き面影](https://open.spotify.com/track/3ohhTpOi14seuMtRNlBlkU) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [さらば碧き面影](https://open.spotify.com/album/73mDztUgb6pfmFICrLQFbK) | 3:40 | 2023-11-28 | 2023-12-06 |
 | [しあわせ](https://open.spotify.com/track/3yBCSTtiQuM0od1M9YrGMF) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [しあわせ](https://open.spotify.com/album/6pOMpdooijhZNxtxUjHHsL) | 2:49 | 2023-12-19 | 2024-01-10 |
 | [しおり](https://open.spotify.com/track/2NohdmxAQftrTgEBvdho2w) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [ダレカの地上絵](https://open.spotify.com/album/18PK1utMStEUIBPPVDQkgz) | 4:12 | 2023-11-28 | 2023-12-13 |
+| [したいことリスト](https://open.spotify.com/track/3ncUq6k51SRqhBJnItZQJ2) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [したいことリスト](https://open.spotify.com/album/6UXnmf6H9kWlDEL3PJNWDu) | 2:44 | 2025-01-28 |  |
 | [しわくちゃな雲を抱いて](https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [TRIANGLE](https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD) | 3:56 | 2023-08-15 | 2024-12-18 |
 | [すき。](https://open.spotify.com/track/3AxjdcjAKcidO2oUApgVsd) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [すき。](https://open.spotify.com/album/1D3eDRDjd8nnhyS5LLGiUK) | 3:08 | 2023-07-27 | 2024-12-18 |
 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 | 2024-12-17 |  |

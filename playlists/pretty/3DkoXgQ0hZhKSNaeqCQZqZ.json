@@ -1,13 +1,189 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 480,
+  "num_followers": 481,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADLCw+G5k8Hzt1hkDX/9eJ0epAmA/p",
+  "snapshot_id": "AAADMJsjSGSfv5psufGUVLuUq0IAhFWc",
   "tracks": [
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 158321,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/4J4tnoWcItyeWFFDd308HQ"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        },
+        {
+          "name": "2bagBreezoo",
+          "url": "https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf"
+        }
+      ],
+      "duration_ms": 188490,
+      "name": "RUSH!",
+      "url": "https://open.spotify.com/track/5qXCO06nIc5y70qxieIL7X"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        },
+        {
+          "name": "lizzy's personal army",
+          "url": "https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal"
+        }
+      ],
+      "duration_ms": 125218,
+      "name": "FOOL FOR YOU",
+      "url": "https://open.spotify.com/track/4NEkuzx5DgSNL7buwNsvCi"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "likeadrug",
+      "url": "https://open.spotify.com/track/1fAVjBTYJqIt3EyYGsVH3h"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "SOLO SO LONG!",
+      "url": "https://open.spotify.com/track/7v80olCrhPZNuaERNfhAQW"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 99977,
+      "name": "book of mending - interlude",
+      "url": "https://open.spotify.com/track/5xoSwE3PZWwfMDoA7AU1d6"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "PUNCTURE WOUND",
+      "url": "https://open.spotify.com/track/1DzXQOUVglLBTHxr34qwUQ"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        },
+        {
+          "name": "ghostsocial",
+          "url": "https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN"
+        },
+        {
+          "name": "Ivory Rasmus",
+          "url": "https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo"
+        }
+      ],
+      "duration_ms": 185031,
+      "name": "DAMAGE",
+      "url": "https://open.spotify.com/track/0LoknxzCYeZEHLMDuEZfnS"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "your friend",
+      "url": "https://open.spotify.com/track/5BJwsSeQAgYJDHvg4hCUMF"
+    },
+    {
+      "added_at": "2025-02-03 00:47:09",
+      "album": {
+        "name": "all these faces",
+        "url": "https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 165879,
+      "name": "goodbyeee",
+      "url": "https://open.spotify.com/track/2w4Ur3dJ5JxkaUploGOhvc"
+    },
     {
       "added_at": "2025-01-30 02:40:09",
       "album": {

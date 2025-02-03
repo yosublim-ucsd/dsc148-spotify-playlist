@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 62248,
+  "num_followers": 62364,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -207,30 +207,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "DOMPERI",
-        "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "AXL",
-          "url": "https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH"
-        }
-      ],
-      "duration_ms": 125747,
-      "name": "DOMPERI",
-      "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "PERO NO TE ENAMORES",
         "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
       },
@@ -251,6 +227,30 @@
       "duration_ms": 173365,
       "name": "SOFIA",
       "url": "https://open.spotify.com/track/1U40NYEnXxvbwdmDugvgjS"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "DOMPERI",
+        "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "AXL",
+          "url": "https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH"
+        }
+      ],
+      "duration_ms": 125747,
+      "name": "DOMPERI",
+      "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Hell",
-        "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        }
-      ],
-      "duration_ms": 232542,
-      "name": "Of The Void",
-      "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 186595,
       "name": "MiDNiGHT",
       "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "duration_ms": 232542,
+      "name": "Of The Void",
+      "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -895,6 +895,34 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Bora Nessa",
+        "url": "https://open.spotify.com/album/1cNMT60ZuWPDNG998L0q3T"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        },
+        {
+          "name": "Mait\u00ea Ina\u00ea",
+          "url": "https://open.spotify.com/artist/7gfwviXMBfLEQ5hFxtIKDx"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "Bora Nessa",
+      "url": "https://open.spotify.com/track/4OYFxsFpZvKuXgBfY6dCAs"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
       },
@@ -991,34 +1019,6 @@
       "duration_ms": 200000,
       "name": "Corrupted",
       "url": "https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Bora Nessa",
-        "url": "https://open.spotify.com/album/1cNMT60ZuWPDNG998L0q3T"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Augusto Yepes",
-          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
-        },
-        {
-          "name": "Mait\u00ea Ina\u00ea",
-          "url": "https://open.spotify.com/artist/7gfwviXMBfLEQ5hFxtIKDx"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "Bora Nessa",
-      "url": "https://open.spotify.com/track/4OYFxsFpZvKuXgBfY6dCAs"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
-        }
-      ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "MENTA",
         "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
       },
@@ -1207,6 +1187,26 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Tomala (Se Mueve Se Siente)",
         "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 162727,
       "name": "Chula",
       "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "HOUSE Y DESAMOR",
-        "url": "https://open.spotify.com/album/1ApTPwHsWrPoEIlMrCQW77"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 149758,
-      "name": "PUNTO FINAL",
-      "url": "https://open.spotify.com/track/7pfr0WwMdn3oIU6QGu2YNh"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1307,6 +1287,26 @@
       "duration_ms": 264374,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/5SNLzOQqKOXqTAavIjJz0u"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "HOUSE Y DESAMOR",
+        "url": "https://open.spotify.com/album/1ApTPwHsWrPoEIlMrCQW77"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 149758,
+      "name": "PUNTO FINAL",
+      "url": "https://open.spotify.com/track/7pfr0WwMdn3oIU6QGu2YNh"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "barbiechaka (funnynoiseclub003)",
-        "url": "https://open.spotify.com/album/2IICI2HCTynM1FY374BzWM"
-      },
-      "artists": [
-        {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
-        },
-        {
-          "name": "Morenito De Fuego",
-          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "barbiechaka (funnynoiseclub003)",
-      "url": "https://open.spotify.com/track/7jbHpXvI2zgWSAMt0Kzwbw"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "ALINE",
         "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
       },
@@ -1571,6 +1547,30 @@
       "duration_ms": 351219,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/1ujnqItR6qmrowmlBucSLQ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "barbiechaka (funnynoiseclub003)",
+        "url": "https://open.spotify.com/album/2IICI2HCTynM1FY374BzWM"
+      },
+      "artists": [
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        },
+        {
+          "name": "Morenito De Fuego",
+          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "barbiechaka (funnynoiseclub003)",
+      "url": "https://open.spotify.com/track/7jbHpXvI2zgWSAMt0Kzwbw"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
@@ -1715,22 +1735,6 @@
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "T siento RARA",
-        "url": "https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 129535,
-      "name": "T siento RARA",
-      "url": "https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1755,22 +1759,18 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+        "name": "T siento RARA",
+        "url": "https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+      "duration_ms": 129535,
+      "name": "T siento RARA",
+      "url": "https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1"
     },
     {
       "added_at": "2025-01-31 06:00:22",

@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "album": {
         "name": "I'm Lost",
         "url": "https://open.spotify.com/album/2FBPuKPAmuv1wJHZok2ugw"
       },
@@ -850,6 +868,32 @@
       "duration_ms": 167619,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/4oe5xGMkivOeMIINR4kIOb"
+    },
+    {
+      "album": {
+        "name": "All Day, All Night",
+        "url": "https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150447,
+      "name": "Mind Awake, Body Asleep",
+      "url": "https://open.spotify.com/track/1dEtz42oboLOlGHCBrwmA9"
     },
     {
       "album": {
@@ -1423,6 +1467,28 @@
     },
     {
       "album": {
+        "name": "Vertigo (feat. Ed Graves)",
+        "url": "https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Ed Graves",
+          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Vertigo (feat. Ed Graves)",
+      "url": "https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj"
+    },
+    {
+      "album": {
         "name": "Vogue",
         "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
       },
@@ -1456,6 +1522,28 @@
       "duration_ms": 249002,
       "name": "Voodoo Babe",
       "url": "https://open.spotify.com/track/6j7iBoA8Wt3ndo2qxSc552"
+    },
+    {
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/1jhMDPST130snbmr1Oe0Np"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216183,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI"
     },
     {
       "album": {

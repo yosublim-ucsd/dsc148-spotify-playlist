@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-642 songs - 1 day 10 hr 0 min
+643 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Cuéntame](https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuéntame](https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4) | 2:46 | 2022-08-05 | 2022-12-09 |
 | [Dama De Los Callejones](https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Dama De Los Callejones](https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f) | 3:10 | 2023-05-26 | 2023-08-12 |
 | [De Agua Prieta](https://open.spotify.com/track/3S9t1SlJRapi2SQ4KLaKVn) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [De Agua Prieta](https://open.spotify.com/album/6dWjvbEstWDqOkNvyU0c3H) | 2:45 | 2024-01-12 | 2024-01-27 |
+| [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 | 2025-01-31 |  |
 | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \(En Vivo\)](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 | 2022-12-09 | 2023-06-17 |
 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 | 2022-04-15 | 2023-08-23 |
 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 | 2022-06-03 | 2023-07-01 |
@@ -475,7 +476,7 @@
 | [PARIENTON](https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9) | [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [PARIENTON](https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR) | 2:29 | 2024-08-30 |  |
 | [Pase y Pase](https://open.spotify.com/track/34bYLz0WrZvFAcjn9f9sW1) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51), [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Pase y Pase](https://open.spotify.com/album/3v5dehR5hdwW6ZtV8H9FZV) | 2:23 | 2023-06-30 | 2023-07-15 |
 | [Paul Gallaga](https://open.spotify.com/track/5SW71Rw9qJQvy6QLVctg5h) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Paul Gallaga](https://open.spotify.com/album/2PisFqKeu1mpgRRYLTk9hV) | 3:03 | 2023-02-24 | 2023-03-09 |
-| [Paz En Este Amor](https://open.spotify.com/track/6XqL9LBSTRGhLQFbvYJGYt) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 2:55 | 2024-12-20 |  |
+| [Paz En Este Amor](https://open.spotify.com/track/6XqL9LBSTRGhLQFbvYJGYt) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 2:55 | 2024-12-20 | 2025-02-03 |
 | [Paz en Este Amor](https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Paz en Este Amor](https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT) | 3:22 | 2024-09-20 |  |
 | [Películas de Miedo](https://open.spotify.com/track/6AG3OFUzMGbvuXvCeNprVn) | [Los HH](https://open.spotify.com/artist/2W81ZrVzhbOmp0l1I5U43w) | [Películas de Miedo](https://open.spotify.com/album/33J7kk6CE2Y15WV4l1Ryvm) | 3:18 | 2024-11-22 | 2024-12-21 |
 | [Pensando En Ti](https://open.spotify.com/track/4FR3utwoboyYzKXrQPtiDG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Pensando En Ti](https://open.spotify.com/album/5wn18PD40QMoq03QNy5777) | 3:02 | 2024-05-24 | 2024-06-29 |

@@ -1,4 +1,4 @@
-## Playlists \(8353\)
+## Playlists \(8354\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3301,7 +3301,7 @@
 - [Kwaito Classics](/playlists/pretty/37i9dQZF1DXaJxsJXPjB3v.md)
 - [Kıyı Boyu](/playlists/pretty/37i9dQZF1DX3wzU43lch6G.md)
 - [L3arke](/playlists/pretty/1Ksv8iR2uzFfLgc86m8aBi.md)
-- [LA LLISTA DE FLAIXBAC \(26/01/2025\)](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md)
+- [LA LLISTA DE FLAIXBAC \(2/2/2025\)](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md)
 - [LGBTQIA+ Narrators](/playlists/pretty/37i9dQZF1DWUr2k2D9iwHi.md)
 - [LINDEMANN complete](/playlists/pretty/55qEVSpVEAIfzxOaNGffTE.md)
 - [LOCKJAW](/playlists/pretty/37i9dQZF1DWSgQ5Y8XEtFi.md)
@@ -7464,6 +7464,7 @@
 - [World Folk](/playlists/pretty/0ByLkBLDx1AS5yXJuBTyCd.md)
 - [World's Best Dad](/playlists/pretty/37i9dQZF1DX3XHbM3c2ftZ.md)
 - [Worldly](/playlists/pretty/3a5epFDyqVvoo5wLyldV9d.md)
+- [Worship Chants](/playlists/pretty/37i9dQZF1DX6Axm04pkvqs.md)
 - [Worship Classics](/playlists/pretty/37i9dQZF1DWZoR0U5SzE1r.md)
 - [Worship Hits](/playlists/pretty/37i9dQZF1DWVlWpJblBvap.md)
 - [Worship Rising](/playlists/pretty/37i9dQZF1DX7fPhUztqfIX.md)

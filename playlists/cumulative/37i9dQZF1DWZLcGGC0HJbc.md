@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-117 songs - 7 hr 0 min
+118 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Glad You Did](https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Glad You Did](https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR) | 3:11 | 2024-06-27 | 2025-01-24 |
 | [Golden](https://open.spotify.com/track/5miJiOLexPAA2F8J2sj4T4) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Golden](https://open.spotify.com/album/2d3CxH0CmA0XJkwk1NasG0) | 3:41 | 2024-06-27 | 2025-01-24 |
 | [green](https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [green](https://open.spotify.com/album/3wtbk8hyZN77OqkubXcAtc) | 3:06 | 2024-10-03 | 2025-01-24 |
-| [Hannah](https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Hannah](https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx) | 3:34 | 2025-01-27 |  |
+| [Hannah](https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Hannah](https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx) | 3:34 | 2025-01-27 | 2025-02-03 |
 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 | 2024-11-11 |  |
 | [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 | 2025-01-23 |  |
 | [Hold You](https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Hold You](https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk) | 3:55 | 2024-09-19 |  |
@@ -68,6 +68,7 @@
 | [it takes a long time to feel free](https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [it takes a long time to feel free](https://open.spotify.com/album/6NyDZz7SJAGHJp6W0roRPP) | 4:35 | 2024-07-18 | 2025-01-24 |
 | [Jaouad](https://open.spotify.com/track/7D5Qln7h4TYCjR37s8RyvB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Jaouad](https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD) | 5:01 | 2024-12-20 | 2025-01-24 |
 | [Just As I Remember](https://open.spotify.com/track/3s6R5jk43ny98ruPcs8CFk) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 2:18 | 2024-11-13 | 2025-01-24 |
+| [Lemaire](https://open.spotify.com/track/7Cy4YjaS8c5n3Us4qLNNKg) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [OCEANS](https://open.spotify.com/album/3KGHjN5me5TTvO3KTNVWsZ) | 3:51 | 2025-01-30 |  |
 | [Letting Go](https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go \(Alternate Version\)](https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT) | 3:29 | 2025-01-23 |  |
 | [Little Man](https://open.spotify.com/track/3ZNAh5LMu9zdCV0dAUTsTh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Little Man](https://open.spotify.com/album/0FL0XDLHQ3LIyWaxdA7IzO) | 2:54 | 2024-06-27 | 2024-12-19 |
 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 | 2024-06-27 |  |

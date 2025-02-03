@@ -4,7 +4,7 @@
 
 > Free your mind from distraction with calming white noise.
 
-287 songs - 13 hr 23 min
+288 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Blue Ocean Noise](https://open.spotify.com/track/1VY5tPZOe1RdLMkdlyswbO) | [Der Farbenspieler](https://open.spotify.com/artist/0c5LTefUcb32S0imhQRS8f) | [White Noise Clouds](https://open.spotify.com/album/3WpZBBLVyI0KaatmSnLzBS) | 4:58 | 2022-08-26 | 2022-10-28 |
 | [Blue White Noise](https://open.spotify.com/track/0X97bKfDQg76Abx5LDfs8g) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [The Focus Noise](https://open.spotify.com/album/1KLlCt51zibJJVuvcdo2lz) | 2:32 | 2022-08-26 |  |
 | [Bruit Apaisant](https://open.spotify.com/track/3bwsjtYOVEFWtLSQBujmbj) | [Di Melting Point](https://open.spotify.com/artist/00BUyp4ARwFm96JWiIaDFK) | [Bruit Inconscient](https://open.spotify.com/album/3ZKjY9ByrYwyTUc5NkwyiM) | 2:36 | 2022-08-26 |  |
+| [Buzzing](https://open.spotify.com/track/1vQKwIcjUZPbpFu6nExDZT) | [Pentadecimal](https://open.spotify.com/artist/6N70t9WnJfxcRSzxMmFF1R) | [Buzzing](https://open.spotify.com/album/4fD8l4PgXb6xQ2dqZKskMR) | 2:51 | 2025-01-30 |  |
 | [Cabin Back Noise](https://open.spotify.com/track/0KByxc2bldSo9PtAQQnipz) | [High Altitude Samples](https://open.spotify.com/artist/3T9Rn6sxhCylmpTyWCuu1f) | [Sleep Over the Ocean](https://open.spotify.com/album/433vYcfr0ssW6wMmdq4lv0) | 2:51 | 2022-08-26 |  |
 | [Cabin Noise Focus](https://open.spotify.com/track/3kxUcpFquT4ZdvJC1Nyu5q) | [Crafting Audio](https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9) | [Airline White Noise](https://open.spotify.com/album/0mXZdJakr0PkshOf9N5SLw) | 2:42 | 2022-08-26 |  |
 | [Calm Down Hertz](https://open.spotify.com/track/5PY1zGe9Tkcw9s1CtcwuOG) | [Selective Sounds TTA](https://open.spotify.com/artist/4fvzIW1n8V7G1t95O5Q2lB) | [Calm Down Hertz](https://open.spotify.com/album/7v4rKByJHGo7BLJ9OCWSCP) | 2:17 | 2022-08-26 |  |
@@ -237,7 +238,7 @@
 | [White Noise for the Dreamers](https://open.spotify.com/track/1mCMRPk1BSqTAAq4mLn5Qx) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [White Noise for Dreaming](https://open.spotify.com/album/0hvo0Wp3DXUVVwHcSx1iSg) | 2:54 | 2022-08-26 |  |
 | [White Noise for Tranquility](https://open.spotify.com/track/2Kw1Ri1K3eItC6QTMRt84d) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [White Noise for Tranquility](https://open.spotify.com/album/6NFMR5Xo0auZjp4SAtfWS7) | 3:58 | 2022-08-26 | 2023-09-02 |
 | [white noise hall](https://open.spotify.com/track/040R2K1gn128MwftR0bdyJ) | [tenuous](https://open.spotify.com/artist/2c0w3O1CdURTp36ZzxPPFO) | [lamentation](https://open.spotify.com/album/6wOx6IDIrIDJ30g68UoPWQ) | 2:41 | 2022-08-26 |  |
-| [White Noise Hypnosis](https://open.spotify.com/track/2aLuDr1424kf07uw3zOPFE) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [White Magic](https://open.spotify.com/album/5ge7IkYrqpNu6A68ECyNcK) | 3:08 | 2022-08-26 |  |
+| [White Noise Hypnosis](https://open.spotify.com/track/2aLuDr1424kf07uw3zOPFE) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [White Magic](https://open.spotify.com/album/5ge7IkYrqpNu6A68ECyNcK) | 3:08 | 2022-08-26 | 2025-02-03 |
 | [White Noise Hz](https://open.spotify.com/track/0mG42zKN4SCbohCNM0dMqc) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:26 | 2022-08-26 |  |
 | [White Noise in a Pyramid](https://open.spotify.com/track/2yCjvG2nq0NoyvCKMycnRS) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Around The World](https://open.spotify.com/album/4tItATXwhbCxeOVlANR6BE) | 3:35 | 2022-08-26 | 2025-01-31 |
 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 | 2022-08-26 |  |

@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 232176,
       "name": "Baptized In Fear",
       "url": "https://open.spotify.com/track/0bxRSMz5WY1VuMmOhanE4b"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -12602,7 +12602,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 166611,
       "name": "Foden",
       "url": "https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv"
@@ -13524,7 +13524,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 255045,
       "name": "F\u00f6rsent",
       "url": "https://open.spotify.com/track/1U49LNwMAgAwlLMQxeqWL6"
@@ -15628,7 +15628,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 157386,
       "name": "Halleluja",
       "url": "https://open.spotify.com/track/7JZhNQj6LwyubJS2byzHfE"
@@ -17673,6 +17673,24 @@
     },
     {
       "album": {
+        "name": "Hush Hush",
+        "url": "https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN"
+      },
+      "artists": [
+        {
+          "name": "Meira Omar",
+          "url": "https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "Hush Hush",
+      "url": "https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -18456,7 +18474,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 177811,
       "name": "I'm The Problem",
       "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
@@ -20688,6 +20706,24 @@
       "duration_ms": 193500,
       "name": "Kalorier & kokain",
       "url": "https://open.spotify.com/track/3nYlc6yJ2WqMHnkYvd7XMO"
+    },
+    {
+      "album": {
+        "name": "Kamikaze Life",
+        "url": "https://open.spotify.com/album/4eB1ll3k2qLZVWrF2TNFjz"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181335,
+      "name": "Kamikaze Life",
+      "url": "https://open.spotify.com/track/7GD6wNULWTgFoNNZN2Q5Fk"
     },
     {
       "album": {
@@ -28344,7 +28380,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 234923,
       "name": "Open Hearts",
       "url": "https://open.spotify.com/track/0stJVUUSrbEwyFHOp2dRu0"
@@ -36042,7 +36078,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 191103,
       "name": "Svag",
       "url": "https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3"
@@ -37716,7 +37752,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -37734,7 +37770,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -39885,6 +39921,28 @@
     },
     {
       "album": {
+        "name": "Upp I Luften (feat. PA)",
+        "url": "https://open.spotify.com/album/2cGxjHLsgYuKRHQxPdK5se"
+      },
+      "artists": [
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        },
+        {
+          "name": "PA",
+          "url": "https://open.spotify.com/artist/7lajTunyA5lTd0gKNKXrZn"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Upp I Luften (feat. PA)",
+      "url": "https://open.spotify.com/track/3WI1yYBF8jMNjkQ6IHZSbu"
+    },
+    {
+      "album": {
         "name": "UPPLOPP",
         "url": "https://open.spotify.com/album/6lLx8fBlqZzKuJ07F39PYE"
       },
@@ -40976,6 +41034,24 @@
       "duration_ms": 162857,
       "name": "VOI",
       "url": "https://open.spotify.com/track/6pUm3MoTibn5ql3VkNCghC"
+    },
+    {
+      "album": {
+        "name": "Voice Of The Silent",
+        "url": "https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169125,
+      "name": "Voice Of The Silent",
+      "url": "https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas"
     },
     {
       "album": {

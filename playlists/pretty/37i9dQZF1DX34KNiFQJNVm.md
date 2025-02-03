@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem DENNIS com Luisa Sonza, Simone Mendes, BK e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,011,371 likes - 56 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,011,737 likes - 56 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

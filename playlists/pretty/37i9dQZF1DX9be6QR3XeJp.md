@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Jacob Alon
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,625 likes - 220 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,618 likes - 220 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

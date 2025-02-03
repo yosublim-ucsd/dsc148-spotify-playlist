@@ -1876,10 +1876,28 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 139500,
       "name": "Rose Tinted Glass",
       "url": "https://open.spotify.com/track/0ZFyR9BTGHh3UwEshTCTJ2"
+    },
+    {
+      "album": {
+        "name": "Violets From Lily",
+        "url": "https://open.spotify.com/album/0H3C62RxEl93hRjZVKyODU"
+      },
+      "artists": [
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Rose Tinted Glass",
+      "url": "https://open.spotify.com/track/0jn4mx9HMpXHVIFqrFLDA6"
     },
     {
       "album": {

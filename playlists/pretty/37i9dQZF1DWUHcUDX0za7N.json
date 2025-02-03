@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Apex Village & Pyscho YP ",
-  "num_followers": 59061,
+  "num_followers": 59090,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,42 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
+        "name": "Hello Habibi",
+        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 194661,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
+    },
+    {
+      "added_at": "2025-01-31 00:01:04",
+      "album": {
+        "name": "Bad Bitch Syndrome",
+        "url": "https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS"
+      },
+      "artists": [
+        {
+          "name": "Siraheem",
+          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
+        }
+      ],
+      "duration_ms": 141662,
+      "name": "Bad Bitch Syndrome",
+      "url": "https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA"
+    },
+    {
+      "added_at": "2025-01-31 00:01:04",
+      "album": {
         "name": "NOTHING CHANGED",
         "url": "https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S"
       },
@@ -363,42 +399,6 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
-        "name": "Bad Bitch Syndrome",
-        "url": "https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS"
-      },
-      "artists": [
-        {
-          "name": "Siraheem",
-          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
-        }
-      ],
-      "duration_ms": 141662,
-      "name": "Bad Bitch Syndrome",
-      "url": "https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA"
-    },
-    {
-      "added_at": "2025-01-31 00:01:04",
-      "album": {
-        "name": "Hello Habibi",
-        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 194661,
-      "name": "Hello Habibi",
-      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
-    },
-    {
-      "added_at": "2025-01-31 00:01:04",
-      "album": {
         "name": "OMOBANKE",
         "url": "https://open.spotify.com/album/7dU4V0V0pKO5AYaoNivnhT"
       },
@@ -435,22 +435,18 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
-        "name": "Jehovah",
-        "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 164760,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
+      "duration_ms": 136732,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
     },
     {
       "added_at": "2025-01-31 00:01:04",
@@ -475,6 +471,26 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
+        "name": "Jehovah",
+        "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
+    },
+    {
+      "added_at": "2025-01-31 00:01:04",
+      "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 181764,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2025-01-31 00:01:04",
-      "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 136732,
-      "name": "Hello Habibi",
-      "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
     },
     {
       "added_at": "2025-01-31 00:01:04",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
-        "name": "O.U.A.T",
-        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 141052,
-      "name": "O.U.A.T",
-      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
-    },
-    {
-      "added_at": "2025-01-31 00:01:04",
-      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL"
+        "name": "O.U.A.T",
+        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
       },
       "artists": [
         {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9"
+      "duration_ms": 141052,
+      "name": "O.U.A.T",
+      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
     },
     {
       "added_at": "2025-01-31 00:01:04",
@@ -723,6 +707,22 @@
       "duration_ms": 163034,
       "name": "Refund (Part 2)",
       "url": "https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB"
+    },
+    {
+      "added_at": "2025-01-31 00:01:04",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9"
     },
     {
       "added_at": "2025-01-31 00:01:04",
@@ -935,6 +935,26 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
+        "name": "Shame On You",
+        "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 186796,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
+    },
+    {
+      "added_at": "2025-01-31 00:01:04",
+      "album": {
         "name": "WELCOME TO WONDAH:LAND",
         "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 138461,
       "name": "Bomaye",
       "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
-    },
-    {
-      "added_at": "2025-01-31 00:01:04",
-      "album": {
-        "name": "Shame On You",
-        "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 186796,
-      "name": "Shame On You",
-      "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
     },
     {
       "added_at": "2025-01-31 00:01:04",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
+        "name": "[escapism]",
+        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "[escapism]",
+      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
+    },
+    {
+      "added_at": "2025-01-31 00:01:04",
+      "album": {
         "name": "Confirm Parole",
         "url": "https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6"
       },
@@ -1051,18 +1067,22 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
-        "name": "[escapism]",
-        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
       "artists": [
         {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 154983,
-      "name": "[escapism]",
-      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
+      "duration_ms": 211485,
+      "name": "Woman of Virtue (feat. Ajebo Hustlers)",
+      "url": "https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH"
     },
     {
       "added_at": "2025-01-31 00:01:04",
@@ -1099,26 +1119,6 @@
       "duration_ms": 169130,
       "name": "Jumpin Bumpin",
       "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
-    },
-    {
-      "added_at": "2025-01-31 00:01:04",
-      "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 211485,
-      "name": "Woman of Virtue (feat. Ajebo Hustlers)",
-      "url": "https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH"
     },
     {
       "added_at": "2025-01-31 00:01:04",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-01-31 00:01:04",
       "album": {
-        "name": "ADITI ALARIWO",
-        "url": "https://open.spotify.com/album/3ByvwqNTIuIN35qud5Mxjj"
-      },
-      "artists": [
-        {
-          "name": "Davolee",
-          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "ADITI ALARIWO",
-      "url": "https://open.spotify.com/track/4gsA5B84gGSjBAR296ZziO"
-    },
-    {
-      "added_at": "2025-01-31 00:01:04",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 211200,
       "name": "Bless Me",
       "url": "https://open.spotify.com/track/2c7UxjUAIzP7xs3Pa6vv8K"
+    },
+    {
+      "added_at": "2025-01-31 00:01:04",
+      "album": {
+        "name": "ADITI ALARIWO",
+        "url": "https://open.spotify.com/album/3ByvwqNTIuIN35qud5Mxjj"
+      },
+      "artists": [
+        {
+          "name": "Davolee",
+          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "ADITI ALARIWO",
+      "url": "https://open.spotify.com/track/4gsA5B84gGSjBAR296ZziO"
     },
     {
       "added_at": "2025-01-31 00:01:04",

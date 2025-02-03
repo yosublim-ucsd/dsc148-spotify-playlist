@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-172 songs - 15 hr 19 min
+173 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [If Heartaches Were Nickels \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/73ceTXNtWGpy6FDhVJi7C1) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [If Heartaches Were Nickels \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/4b3bP1yKzANH1bVFpgCF7S) | 9:22 | 2024-05-19 | 2024-07-21 |
 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 | 2023-10-10 | 2024-08-30 |
 | [It's Hard But It's Fair](https://open.spotify.com/track/0nXc4KXgMDAtRsQXwulH9t) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:15 | 2023-10-10 | 2024-06-01 |
+| [I’m Going Down](https://open.spotify.com/track/0p2gjEwWiiU6N5Xk0HI2xC) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I’m Going Down](https://open.spotify.com/album/35y6SzyOwEbX19F9TIvf0c) | 5:30 | 2025-02-03 |  |
 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 | 2022-08-06 | 2024-10-12 |
 | [Just 'Cos You Can Don’t Mean You Should \(Live\)](https://open.spotify.com/track/2ZYO00AxBjv8jeaPahRyhk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 7:58 | 2023-04-23 | 2023-05-13 |
 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 | 2022-08-05 | 2024-03-02 |
@@ -133,7 +134,7 @@
 | [Sloe Gin](https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 8:12 | 2022-08-05 |  |
 | [Slow Train](https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 6:49 | 2022-08-05 |  |
 | [So Many Roads](https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [You & Me](https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv) | 7:05 | 2022-08-05 |  |
-| [So Sad \(The World's in a Tangle\)](https://open.spotify.com/track/2lGG0ypdFl6MYccu3PEPJ1) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [So Sad \(The World's in a Tangle\)](https://open.spotify.com/album/02nG6wsgYkbS5Uj4alFnlI) | 5:51 | 2024-04-02 |  |
+| [So Sad \(The World's in a Tangle\)](https://open.spotify.com/track/2lGG0ypdFl6MYccu3PEPJ1) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [So Sad \(The World's in a Tangle\)](https://open.spotify.com/album/02nG6wsgYkbS5Uj4alFnlI) | 5:51 | 2024-04-02 | 2025-02-03 |
 | [Somewhere Down The Road](https://open.spotify.com/track/7iXlT2Zy74M7SfbOJH5Sgm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:17 | 2022-10-29 | 2023-05-09 |
 | [Soul On Fire](https://open.spotify.com/track/3JydVM40nMUKs739USb7aF) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Black Coffee](https://open.spotify.com/album/2jjZQU9uBfmnGDtCFA7qAj) | 5:02 | 2022-08-06 | 2022-10-06 |
 | [Stay Free](https://open.spotify.com/track/4NOfeN9b6hDAG3voJlw3bg) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Stay Free](https://open.spotify.com/album/5RHIAFOTuTSVZvc3A2YhHC) | 4:30 | 2024-03-03 | 2024-06-28 |

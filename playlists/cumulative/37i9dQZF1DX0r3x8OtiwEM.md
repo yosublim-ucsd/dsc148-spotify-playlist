@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-677 songs - 2 day 18 hr 5 min
+678 songs - 2 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 | 2025-01-26 |
 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 | 2023-06-30 | 2024-08-30 |
 | [Let It Go](https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Let It Go](https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj) | 2:58 | 2025-01-10 |  |
+| [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 | 2025-01-31 |  |
 | [Lieblingsmensch \- Edit](https://open.spotify.com/track/6CXFxsx3VCNLwRdOn9cXKp) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lieblingsmensch \(Edit\)](https://open.spotify.com/album/0a7nVpT905t2mcpvMVuxuL) | 3:40 | 2020-01-14 | 2020-07-18 |
 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 |  |
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-08-30 |  |
@@ -606,7 +607,7 @@
 | [Time \- Alan Walker Remix \- Extended Version](https://open.spotify.com/track/6SDQETfHW9JT9p99S3nB44) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 3:35 | 2020-06-12 | 2020-09-11 |
 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 | 2023-09-15 | 2024-05-23 |
 | [Toni](https://open.spotify.com/track/1pCKUgc3yk3F9Mt0MTX51o) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Toni](https://open.spotify.com/album/3X2xoDkyQ7hVrelZbAiJJY) | 4:58 | 2021-07-17 | 2022-07-28 |
-| [Too Far Down The Trap \- Kölsch Remix](https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Promised Land \(Remixes\)](https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn) | 4:14 | 2024-10-04 |  |
+| [Too Far Down The Trap \- Kölsch Remix](https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Promised Land \(Remixes\)](https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn) | 4:14 | 2024-10-04 | 2025-02-03 |
 | [Topinambur](https://open.spotify.com/track/1aVOrF9veeQuBHZ3FqgZo3) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Topinambur EP](https://open.spotify.com/album/6DN4tGqxGOdvGTagUJFmMe) | 6:30 | 2019-12-02 | 2020-05-27 |
 | [Torch](https://open.spotify.com/track/0OcME0MLglLCSUABwfObS1) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Torch / The Highs Are Higher](https://open.spotify.com/album/1oGZxY1b5cxa3CnK52Wzif) | 7:08 | 2019-10-10 | 2020-06-08 |
 | [Transition](https://open.spotify.com/track/0UxU9qQc3Et21BAoVjb5og) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Transition](https://open.spotify.com/album/0QvkWlC02bMXH0nLz2ErTo) | 4:03 | 2020-01-01 | 2020-01-03 |

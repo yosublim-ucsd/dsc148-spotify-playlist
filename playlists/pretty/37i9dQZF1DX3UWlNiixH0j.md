@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 鈴木実貴子ズ（Suzuki Mikiko's）
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,498 likes - 74 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,503 likes - 74 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 33 | [budding](https://open.spotify.com/track/6XEribRoXnT1GrO5TG5Opc) | [Secession](https://open.spotify.com/artist/2kVDeNHzsEbJco6f2XrVJy) | [budding](https://open.spotify.com/album/3jjfO1zEkRF2oHcLK3wofy) | 6:32 |
 | 34 | [夢を見ようよ](https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 3:12 |
 | 35 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
-| 36 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 |
+| 36 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
 | 37 | [アットマーク](https://open.spotify.com/track/2d0etH4i903Fg9V2q3SJni) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [アットマーク](https://open.spotify.com/album/6YUOQDhOOqouokTBwFw3hF) | 5:03 |
-| 38 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
+| 38 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 |
 | 39 | [you're my](https://open.spotify.com/track/0282oL6TW2TMbxEljHQNJn) | [Pablo Haiku](https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt) | [you're my](https://open.spotify.com/album/1WnFBJ5DOdq5at6Kjjdu3P) | 4:02 |
 | 40 | [Make a Move](https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Make a Move](https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7) | 2:37 |
 | 41 | [海のにおい](https://open.spotify.com/track/5NcHKzO5vQc6L4rCE1wBiw) | [岡林風穂 withサポート](https://open.spotify.com/artist/6bkMTzpaHuuvRbITFpJpwV) | [BLUE IS SO BRIGHT](https://open.spotify.com/album/430ytOlwJpb5txWmJpdD0d) | 3:53 |
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 61 | [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 |
 | 62 | [天才は今度](https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりを編む駐車場](https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV) | 2:55 |
 | 63 | [Luciférine](https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luciférine](https://open.spotify.com/album/0SpLGc25URm3IjnGs41Eq4) | 5:01 |
-| 64 | [日蝕](https://open.spotify.com/track/7tQ8dUcLAe1JUbD9tEx0DC) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [日蝕](https://open.spotify.com/album/6QZeC1bldtQG8LvsrdNx1a) | 3:53 |
-| 65 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
-| 66 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
-| 67 | [ANIMA \- Feat\. Such](https://open.spotify.com/track/5vFc7ydAJJ5T2QotoTvm0B) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [EMPT MILE](https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf) | 4:01 |
-| 68 | [Anti Piracy Screen](https://open.spotify.com/track/73Mf5IAWPXiGRXy2bZKuY6) | [Cafune](https://open.spotify.com/artist/3DZYBDeLQQv0JIww7b3uRV), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3), [嚩ᴴᴬᴷᵁ](https://open.spotify.com/artist/7Mza9mcYZcEBJblRUgSzxM), [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4), [utumiyqcom](https://open.spotify.com/artist/0z2nVl8o9RsgqHxktTIlJ8), [NOVA](https://open.spotify.com/artist/1jYRmOVGbSdBXngTEORRe9) | [NOVA](https://open.spotify.com/album/0NJAsSYxzBK5LdYnRdVJo5) | 3:30 |
+| 64 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
+| 65 | [日蝕](https://open.spotify.com/track/7tQ8dUcLAe1JUbD9tEx0DC) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [日蝕](https://open.spotify.com/album/6QZeC1bldtQG8LvsrdNx1a) | 3:53 |
+| 66 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
+| 67 | [Anti Piracy Screen](https://open.spotify.com/track/73Mf5IAWPXiGRXy2bZKuY6) | [Cafune](https://open.spotify.com/artist/3DZYBDeLQQv0JIww7b3uRV), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3), [嚩ᴴᴬᴷᵁ](https://open.spotify.com/artist/7Mza9mcYZcEBJblRUgSzxM), [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4), [utumiyqcom](https://open.spotify.com/artist/0z2nVl8o9RsgqHxktTIlJ8), [NOVA](https://open.spotify.com/artist/1jYRmOVGbSdBXngTEORRe9) | [NOVA](https://open.spotify.com/album/0NJAsSYxzBK5LdYnRdVJo5) | 3:30 |
+| 68 | [ANIMA \- Feat\. Such](https://open.spotify.com/track/5vFc7ydAJJ5T2QotoTvm0B) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [EMPT MILE](https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf) | 4:01 |
 | 69 | [Oppressed](https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Oppressed](https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ) | 5:15 |
 | 70 | [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 |
 | 71 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |
-| 72 | [出自](https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [出自](https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M) | 5:47 |
-| 73 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 |
+| 72 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 |
+| 73 | [出自](https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [出自](https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M) | 5:47 |
 | 74 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 |
 
 Snapshot ID: `Z5jxBwAAAABFtumicMu9K+otC8r2iadD`

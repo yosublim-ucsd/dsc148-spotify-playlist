@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1235228,
+  "num_followers": 1235323,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5wSgAAAAADUl/BaIvN6OqgCJsYO+3pp",
+  "snapshot_id": "Z51kAAAAAAAk9Jo9Pcax1YZ9z2E3kDy0",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How To Re-Assemble An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 103160,
-      "name": "Theme From 'The Batman'",
-      "url": "https://open.spotify.com/track/54nPhznuQ4wFu5HDHoVvHY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 227173,
       "name": "Ordinary Love - Extraordinary Mix",
       "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How To Re-Assemble An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 103160,
+      "name": "Theme From 'The Batman'",
+      "url": "https://open.spotify.com/track/54nPhznuQ4wFu5HDHoVvHY"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atomic City",
-        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 210842,
-      "name": "Atomic City",
-      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
+      "duration_ms": 294000,
+      "name": "The Unforgettable Fire - Remastered 2009",
+      "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
+        "name": "Atomic City",
+        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 294000,
-      "name": "The Unforgettable Fire - Remastered 2009",
-      "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
+      "duration_ms": 210842,
+      "name": "Atomic City",
+      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How To Dismantle An Atomic Bomb (Re-Assemble Edition)",
-        "url": "https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 372805,
-      "name": "Luckiest Man In The World",
-      "url": "https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 274120,
       "name": "Original Of The Species",
       "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb (Re-Assemble Edition)",
+        "url": "https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 372805,
+      "name": "Luckiest Man In The World",
+      "url": "https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,624 likes - 54 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,644 likes - 54 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 9 | [Summertime](https://open.spotify.com/track/62Xj6x2LSWv47PtRAXrg5Z) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:53 |
 | 10 | [Love Is Here To Stay](https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:49 |
 | 11 | [Who Cares?](https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Steppin' Out](https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F) | 3:17 |
-| 12 | [So Am I](https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV) | [Gershwin Plays Gershwin: The Piano Rolls](https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0) | 4:18 |
-| 13 | [Do It Again](https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 3:19 |
+| 12 | [Do It Again](https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 3:19 |
+| 13 | [So Am I](https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV) | [Gershwin Plays Gershwin: The Piano Rolls](https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0) | 4:18 |
 | 14 | [7 Virtuoso Etudes: No\. 1, I Got Rhythm \(after G\. Gershwin\)](https://open.spotify.com/track/1MCCJo3HPgOZkGAd2BmTuZ) | [Earl Wild](https://open.spotify.com/artist/12Fk4SuKXPe97FaSVD6WHK), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Wild: 7 Virtuoso Etudes: 1\. I Got Rhythm \(after G\. Gershwin\)](https://open.spotify.com/album/1i1I1Su34eDYOoKdT5x0hF) | 2:12 |
 | 15 | ['S Wonderful](https://open.spotify.com/track/6UHsYaPGop2ySwksAbreY6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book \(Expanded Edition\)](https://open.spotify.com/album/5QmvPo8pAa95shF5MAuNsm) | 3:31 |
 | 16 | [How Long Has This Been Going On?](https://open.spotify.com/track/3ugWiNqRWichzUF7Iu5JFs) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Originals International Version\)](https://open.spotify.com/album/0KdUhu6ELlN0Ld1NGxDLkv) | 5:58 |

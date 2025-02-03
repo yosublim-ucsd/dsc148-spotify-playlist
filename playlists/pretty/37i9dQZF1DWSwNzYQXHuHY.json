@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10639,
+  "num_followers": 10636,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-01-16 09:27:31",
       "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
+    },
+    {
+      "added_at": "2025-01-16 09:27:31",
+      "album": {
         "name": "Nerdy Love",
         "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 140506,
       "name": "My Dear",
       "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
-    },
-    {
-      "added_at": "2025-01-16 09:27:31",
-      "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2025-01-16 09:27:31",
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-01-16 09:27:31",
       "album": {
+        "name": "Someday (feat. Ha Hyun Sang)",
+        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Someday (feat. Ha Hyun Sang)",
+      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
+    },
+    {
+      "added_at": "2025-01-16 09:27:31",
+      "album": {
         "name": "Winter Dance",
         "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 198986,
       "name": "Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone \u25cf",
       "url": "https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr"
-    },
-    {
-      "added_at": "2025-01-16 09:27:31",
-      "album": {
-        "name": "Someday (feat. Ha Hyun Sang)",
-        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Someday (feat. Ha Hyun Sang)",
-      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
     },
     {
       "added_at": "2025-01-16 09:27:31",
@@ -635,6 +635,30 @@
     {
       "added_at": "2025-01-16 09:27:31",
       "album": {
+        "name": "What's On Your Mind? (Feat. UNE)",
+        "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "\uc73c\ub124 (UNE)",
+          "url": "https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW"
+        }
+      ],
+      "duration_ms": 156857,
+      "name": "What's On Your Mind? (Feat. UNE)",
+      "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
+    },
+    {
+      "added_at": "2025-01-16 09:27:31",
+      "album": {
         "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
         "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 241544,
       "name": "Friends to lovers",
       "url": "https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4"
-    },
-    {
-      "added_at": "2025-01-16 09:27:31",
-      "album": {
-        "name": "What's On Your Mind? (Feat. UNE)",
-        "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
-        },
-        {
-          "name": "\uc73c\ub124 (UNE)",
-          "url": "https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW"
-        }
-      ],
-      "duration_ms": 156857,
-      "name": "What's On Your Mind? (Feat. UNE)",
-      "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
     },
     {
       "added_at": "2025-01-16 09:27:31",

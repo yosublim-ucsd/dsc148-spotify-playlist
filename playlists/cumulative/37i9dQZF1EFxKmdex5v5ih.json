@@ -6587,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/1JkEkTW1OMZcKP1SnnmJue"
+      },
+      "artists": [
+        {
+          "name": "Badscandal",
+          "url": "https://open.spotify.com/artist/29kaubgb6Esvwu0idVndGy"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/4ljWtIqF5JcTnvUZtEof6S"
+    },
+    {
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },

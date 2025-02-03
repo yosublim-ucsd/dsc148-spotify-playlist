@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Soundtrack the big game with all the hits from past and present halftime shows!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 114,986 likes - 60 songs - 4 hr 8 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 114,977 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -763,18 +763,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "LUMOS",
-        "url": "https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO"
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
       "artists": [
         {
-          "name": "AEONIT",
-          "url": "https://open.spotify.com/artist/43Y3IZ3LrZD1YsSzG5xRxF"
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
         }
       ],
-      "duration_ms": 157666,
-      "name": "LUMOS",
-      "url": "https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr"
+      "duration_ms": 182031,
+      "name": "CAPTAIN",
+      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "LUMOS",
+        "url": "https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO"
+      },
+      "artists": [
+        {
+          "name": "AEONIT",
+          "url": "https://open.spotify.com/artist/43Y3IZ3LrZD1YsSzG5xRxF"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "LUMOS",
+      "url": "https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
       },
@@ -807,42 +823,6 @@
       "duration_ms": 277653,
       "name": "Be with me",
       "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "For you, my sunshine",
-        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        },
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "For you, my sunshine",
-      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 182031,
-      "name": "CAPTAIN",
-      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -867,26 +847,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Once In a Summer",
-        "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
+        "name": "For you, my sunshine",
+        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         },
         {
-          "name": "Ashley Alisha",
-          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
-        },
-        {
-          "name": "Kelsey Kuan",
-          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
-      "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
+      "duration_ms": 226346,
+      "name": "For you, my sunshine",
+      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -907,6 +883,50 @@
       "duration_ms": 205856,
       "name": "TALK2ME! (feat. pH-1)",
       "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 171967,
+      "name": "SKIP (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Once In a Summer",
+        "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -963,42 +983,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh"
+        "name": "flowerain",
+        "url": "https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ"
       },
       "artists": [
         {
-          "name": "ZHOUMI",
-          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
-        },
-        {
-          "name": "HENDERY",
-          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
+          "name": "Yunsae",
+          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
         }
       ],
-      "duration_ms": 229320,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 171967,
-      "name": "SKIP (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
+      "duration_ms": 177936,
+      "name": "flowerain",
+      "url": "https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "flowerain",
-        "url": "https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh"
       },
       "artists": [
         {
-          "name": "Yunsae",
-          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
+          "name": "ZHOUMI",
+          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
+        },
+        {
+          "name": "HENDERY",
+          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
         }
       ],
-      "duration_ms": 177936,
-      "name": "flowerain",
-      "url": "https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF"
+      "duration_ms": 229320,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

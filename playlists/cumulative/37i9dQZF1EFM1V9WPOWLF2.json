@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "UWU",
+        "url": "https://open.spotify.com/album/2DmiIfiNVVEEoPp1gIU7jx"
+      },
+      "artists": [
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "UWU",
+      "url": "https://open.spotify.com/track/1cEhypJFllfBA5sGVZFtq3"
+    },
+    {
+      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },

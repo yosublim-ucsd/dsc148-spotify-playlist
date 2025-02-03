@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Doechii",
-  "num_followers": 60924,
+  "num_followers": 60923,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "duration_ms": 282850,
+      "name": "Portrait of My Heart",
+      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42"
       },
@@ -295,18 +311,18 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Portrait of My Heart",
-        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH"
       },
       "artists": [
         {
-          "name": "SPELLLING",
-          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
         }
       ],
-      "duration_ms": 282850,
-      "name": "Portrait of My Heart",
-      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
+      "duration_ms": 204816,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -323,22 +339,6 @@
       "duration_ms": 217733,
       "name": "Ain't Enough Cowboy Songs",
       "url": "https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH"
-      },
-      "artists": [
-        {
-          "name": "Samantha Ebert",
-          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
-        }
-      ],
-      "duration_ms": 204816,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M"
     },
     {
       "added_at": "2025-01-17 05:00:55",

@@ -4,7 +4,7 @@
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-119 songs - 6 hr 19 min
+120 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amore mio aiutami \- Version 6](https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Amore mio aiutami \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF) | 3:01 | 2024-01-18 |  |
 | [Another Day Of Sun](https://open.spotify.com/track/5kRBzRZmZTXVg8okC7SJFZ) | [La La Land Cast](https://open.spotify.com/artist/6T70tWxqyIpdVbsFvPzqM3) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 3:48 | 2024-01-18 |  |
 | [As Time Goes By](https://open.spotify.com/track/5X0M16GjlZYN1WjPNzerb5) | [Dooley Wilson](https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB) | [Casablanca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61pUrUqSnYMZxqhRMhWGuD) | 2:44 | 2024-01-18 | 2024-04-19 |
+| [As time goes by \- Complete vocal by Dooley Wilson](https://open.spotify.com/track/5kcYD1LPNKqgwl2qPgL85i) | [Max Steiner](https://open.spotify.com/artist/3llWEEOW2xNfiKsXXWjrwl), [Dooley Wilson](https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB) | [Casablanca](https://open.spotify.com/album/5Gt9heVd66amesuAR2VOGK) | 2:44 | 2025-01-13 |  |
 | [Autumn In New York](https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:47 | 2024-01-18 |  |
 | [B.\-Loved \(feat\. Cécile McLorin Salvant\) \- French Version](https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6) | [Fabrice Lecomte](https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Sylvie's Love \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj) | 1:59 | 2024-01-18 |  |
 | [Bigger Than Us](https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 1:51 | 2024-01-18 |  |
@@ -49,7 +50,7 @@
 | [Haupe](https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:36 | 2024-01-18 |  |
 | [He's Younger Than You Are \- From "Alfie" Score](https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 5:13 | 2024-01-18 |  |
 | [Herman’s Habit](https://open.spotify.com/track/4f6PUDRYJI51UrZy0jDAxD) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:51 | 2024-01-18 |  |
-| [I Cried For You \(Now It's Your Turn To Cry Over Me\) \- Pt\. 1](https://open.spotify.com/track/3X381HDSNNeaLs8KBk1G9G) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Lady Sings The Blues \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zYpWLebrhgA86lH1RxyXt) | 0:38 | 2024-03-20 |  |
+| [I Cried For You \(Now It's Your Turn To Cry Over Me\) \- Pt\. 1](https://open.spotify.com/track/3X381HDSNNeaLs8KBk1G9G) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Lady Sings The Blues \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zYpWLebrhgA86lH1RxyXt) | 0:38 | 2024-03-20 | 2025-02-03 |
 | [I Cried For You \(Now It's Your Turn To Cry Over Me\) \- Pt\. 1](https://open.spotify.com/track/4a2ETShIS1iaTmKg6hk8Ja) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Lady Sings The Blues](https://open.spotify.com/album/7cVlD1xaBLou7tBLwKxpST) | 0:38 | 2024-01-18 | 2024-04-19 |
 | [I Love Penny Sue](https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L) | [Daniel May](https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:17 | 2024-01-18 |  |
 | [I Wan'na Be Like You \(The Monkey Song\) \- From "The Jungle Book" / Soundtrack Version](https://open.spotify.com/track/6FJmVOcQPaRYGiJQRIpWAL) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Phil Harris](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa), [Bruce Reitherman](https://open.spotify.com/artist/43HPW60tz4BMYMRnmXMagJ) | [Songs and Story: The Jungle Book](https://open.spotify.com/album/1wvT0KYQZsVL4LNJ7u55QY) | 4:38 | 2024-01-18 |  |

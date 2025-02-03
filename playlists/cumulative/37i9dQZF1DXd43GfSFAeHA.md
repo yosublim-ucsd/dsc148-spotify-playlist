@@ -4,7 +4,7 @@
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: ElGrandeToto
 
-506 songs - 1 day 1 hr 58 min
+507 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 | 2024-01-29 | 2024-07-01 |
 | [MADARETSH](https://open.spotify.com/track/20ug862pGPnJRSuENJp3ae) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 2:28 | 2024-02-13 | 2024-05-21 |
 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 | 2023-12-05 | 2023-12-30 |
+| [MAGNÜN](https://open.spotify.com/track/0cjvN98fx7yVctY9QFaxF1) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:06 | 2025-01-30 |  |
 | [Maktoub](https://open.spotify.com/track/5gcjlJBN0VbOcxMZlRTnmn) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Maktoub](https://open.spotify.com/album/1aodjEwWr0vyVMIOGgGHuP) | 3:14 | 2022-10-04 | 2023-01-12 |
 | [Malet](https://open.spotify.com/track/1byU3My7AALXDnwSHM2ZRQ) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Malet](https://open.spotify.com/album/3BgQk5FH2NVhZPuwENJkrC) | 3:21 | 2024-01-29 | 2024-07-30 |
 | [Mandela](https://open.spotify.com/track/6UcJ3RJipzAiI4tt0W9u71) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Memento](https://open.spotify.com/album/5TxnFtqYxSTOjh7B5SKaZH) | 2:49 | 2024-11-04 |  |
@@ -478,7 +479,7 @@
 | [تبسي](https://open.spotify.com/track/1fdwrQdInEatnElvOZVuEL) | [KHALIFA OG](https://open.spotify.com/artist/0dNsEdHWYo7jFACFABQOWs) | [تبسي](https://open.spotify.com/album/3oMSpM04MvEJPbrBCjbpRT) | 2:57 | 2022-05-08 | 2022-10-04 |
 | [تروح لمين \- من فيلم البحث عن منفذ لخروج السيد رامبو](https://open.spotify.com/track/3A84MH5fFWCHgy5R5c7WpC) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تروح لمين \(من فيلم البحث عن منفذ لخروج السيد رامبو\)](https://open.spotify.com/album/4gNQZT3zYV1by1BHTngarP) | 2:58 | 2025-01-30 |  |
 | [تسجيل دخول](https://open.spotify.com/track/6d3kzCWQESvrsDJkItIMzS) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Dj Aloo](https://open.spotify.com/artist/6IxTrmFoKAlamtTxTKUzkH) | [تسجيل دخول](https://open.spotify.com/album/0tAkfOwyGCWjR2iLrhbVHI) | 2:56 | 2022-11-29 | 2023-01-28 |
-| [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-12-20 |  |
+| [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-12-20 | 2025-02-03 |
 | [جيزة](https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [جيزة](https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ) | 2:58 | 2022-09-09 | 2022-10-04 |
 | [حدث جلل](https://open.spotify.com/track/6YP7E6G8T2D3ynj3SpRRIp) | [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1) | [حدث جلل](https://open.spotify.com/album/4Ha1tAd20dCed8WqEpWTF4) | 3:16 | 2022-11-29 | 2023-02-12 |
 | [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-10-04 | 2022-12-07 |

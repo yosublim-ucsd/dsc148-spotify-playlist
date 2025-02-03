@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,743 songs - 3 day 18 hr 26 min
+1,744 songs - 3 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1083,6 +1083,7 @@
 | [Nu grönskar det](https://open.spotify.com/track/5ZZGRLU47Gkp8q5ERLTLP5) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [Nu grönskar det](https://open.spotify.com/album/7sMqoulaSuezdKiz0T9K3d) | 3:39 | 2022-03-17 | 2022-07-29 |
 | [Nu kan du få mig så lätt \- Spotify Singles](https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Nu kan du få mig så lätt \- Spotify Singles](https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo) | 3:00 | 2022-05-12 | 2023-04-01 |
 | [Nu stannar vi på marken](https://open.spotify.com/track/6AmXtz8CoUpH0AXvRSucLx) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Nu stannar vi på marken](https://open.spotify.com/album/7BtDGXxR0eVKXJb7t3jdfr) | 3:57 | 2021-12-16 | 2022-03-11 |
+| [nylon](https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Yue](https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w) | 2:34 | 2025-01-30 |  |
 | [Nyper mig i armen](https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Nyper mig i armen](https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09) | 3:15 | 2024-08-15 |  |
 | [Nytt opium](https://open.spotify.com/track/24ZQxBTSz22uh3DdnKLUTG) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Nytt opium](https://open.spotify.com/album/17y3qSADqECIpSUSqo6cZT) | 4:09 | 2022-06-09 | 2022-06-11 |
 | [Näktergal](https://open.spotify.com/track/6vkoAWNPTyAcaOUASnjsaC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Näktergal](https://open.spotify.com/album/5wKEC1wo0s1QGGcpYx90tT) | 2:27 | 2024-04-11 | 2024-05-17 |
@@ -1521,7 +1522,7 @@
 | [THRILLER \(with Clara Mae\)](https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [THRILLER \(with Clara Mae\)](https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE) | 2:41 | 2023-04-20 | 2023-09-09 |
 | [Through The Fire](https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK) | [Alex Alexander](https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj) | [Through The Fire](https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf) | 3:53 | 2022-09-15 | 2023-06-23 |
 | [Tiden har stått still](https://open.spotify.com/track/1toEHcEtoy0TY0PxXuP9Oj) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tiden har stått still](https://open.spotify.com/album/1g1dDHJaszMN3scbyj1FgX) | 1:59 | 2024-04-26 | 2024-05-24 |
-| [Tiden läker alla sår](https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE](https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF) | 2:54 | 2024-10-17 |  |
+| [Tiden läker alla sår](https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE](https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF) | 2:54 | 2024-10-17 | 2025-02-03 |
 | [Tiden rinner iväg](https://open.spotify.com/track/7JxgJn1DCftAEZim7e5gPc) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [Tiden rinner iväg](https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2) | 2:59 | 2022-12-01 | 2023-01-23 |
 | [Tidsmaskin](https://open.spotify.com/track/6Nmeso3ijBsLrIpSMboYm0) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Underbart i all misär](https://open.spotify.com/album/51Pbz9gnabh4ouprPLUx29) | 4:08 | 2021-12-16 | 2022-03-11 |
 | [Till slutet av augusti \- Live från Benjamin's](https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Till slutet av augusti \(Live från Benjamin's\)](https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR) | 4:10 | 2022-04-07 | 2023-10-06 |

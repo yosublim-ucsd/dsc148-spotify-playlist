@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 86612,
+  "num_followers": 86636,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "When I Rule the World",
+        "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "When I Rule the World",
+      "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "how i'm feeling now",
         "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
@@ -239,38 +255,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "When I Rule the World",
-        "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "When I Rule the World",
-      "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "cypress grove",
-        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 101938,
-      "name": "astrid",
-      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "NEVER MET! (feat. Glitch Gum)",
         "url": "https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 122227,
       "name": "you don't love me",
       "url": "https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "cypress grove",
+        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 101938,
+      "name": "astrid",
+      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -403,42 +403,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 120754,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "then i'll be happy",
-        "url": "https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 111875,
-      "name": "heather",
-      "url": "https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "punk2",
         "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
@@ -451,6 +415,22 @@
       "duration_ms": 222493,
       "name": "rosier/punk2",
       "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 120754,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -487,6 +467,26 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "then i'll be happy",
+        "url": "https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 111875,
+      "name": "heather",
+      "url": "https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "fishmonger",
         "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
@@ -499,6 +499,30 @@
       "duration_ms": 199796,
       "name": "Spoiled little brat",
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 143663,
+      "name": "ringtone",
+      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -543,50 +567,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 143663,
-      "name": "ringtone",
-      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "cloak n dagger",
-        "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "cloak n dagger",
-      "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "punk2",
         "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
@@ -619,6 +599,30 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 140183,
+      "name": "800 db cloud",
+      "url": "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "hi, i'm dante",
         "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
       },
@@ -631,6 +635,26 @@
       "duration_ms": 116349,
       "name": "movinglikeazombie",
       "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "cloak n dagger",
+        "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "cloak n dagger",
+      "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -671,22 +695,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 157903,
-      "name": "fuckboy",
-      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "BIPP",
         "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
@@ -703,42 +711,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 175360,
-      "name": "victim",
-      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 140183,
-      "name": "800 db cloud",
-      "url": "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c"
+      "duration_ms": 157903,
+      "name": "fuckboy",
+      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -791,22 +775,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "life is pain",
-        "url": "https://open.spotify.com/album/5um4xh5kyCRzBb6rU8fV3k"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 93961,
-      "name": "life is pain",
-      "url": "https://open.spotify.com/track/4owlbKGHwB63hp7wPkw2gT"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Be Your USA",
         "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
       },
@@ -827,18 +795,34 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "serialkilled",
-        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
       },
       "artists": [
         {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 107129,
-      "name": "serialkilled",
-      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
+      "duration_ms": 175360,
+      "name": "victim",
+      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "life is pain",
+        "url": "https://open.spotify.com/album/5um4xh5kyCRzBb6rU8fV3k"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 93961,
+      "name": "life is pain",
+      "url": "https://open.spotify.com/track/4owlbKGHwB63hp7wPkw2gT"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -855,6 +839,22 @@
       "duration_ms": 295866,
       "name": "venus fly trap",
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "serialkilled",
+        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 107129,
+      "name": "serialkilled",
+      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Visored Vitality",
-        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Butterfly Bankai",
-      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "PC Music, Vol. 1",
         "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 227750,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Visored Vitality",
+        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Butterfly Bankai",
+      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "1UL",
-        "url": "https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 205447,
-      "name": "1UL",
-      "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "HIGHSCHOOLUNDEAD",
         "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 215641,
       "name": "Toy Car",
       "url": "https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "1UL",
+        "url": "https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "duration_ms": 205447,
+      "name": "1UL",
+      "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 290061,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
       },
@@ -1415,54 +1431,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 290061,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "PC Music, Vol. 1",
-        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 207289,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/3oGqxUlbE5ZoavVQnFN75D"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "RUBBER",
-        "url": "https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC"
-      },
-      "artists": [
-        {
-          "name": "six impala",
-          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
-        }
-      ],
-      "duration_ms": 184437,
-      "name": "FARAWAY199X/TAPE 2",
-      "url": "https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "hide me here",
         "url": "https://open.spotify.com/album/3hwJTjrj7A1JibjYJVc0Gh"
       },
@@ -1491,6 +1459,38 @@
       "duration_ms": 145610,
       "name": "#BrooklynBloodPop!",
       "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "RUBBER",
+        "url": "https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "duration_ms": 184437,
+      "name": "FARAWAY199X/TAPE 2",
+      "url": "https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "PC Music, Vol. 1",
+        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "duration_ms": 207289,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/3oGqxUlbE5ZoavVQnFN75D"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "My Agenda",
-        "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 87293,
-      "name": "Sorry Bro (I Love You)",
-      "url": "https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "scawy monstews and nice spwites :3",
         "url": "https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp"
       },
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "My Agenda",
+        "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 87293,
+      "name": "Sorry Bro (I Love You)",
+      "url": "https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "So Clear",
         "url": "https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 180000,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "bad idea",
-        "url": "https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        }
-      ],
-      "duration_ms": 69015,
-      "name": "bad idea",
-      "url": "https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1719,6 +1699,26 @@
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "bad idea",
+        "url": "https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 69015,
+      "name": "bad idea",
+      "url": "https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv"
     },
     {
       "added_at": "2024-10-09 21:55:22",

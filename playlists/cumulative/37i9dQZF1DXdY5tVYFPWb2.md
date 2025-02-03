@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-872 songs - 2 day 9 hr 30 min
+873 songs - 2 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-01 | 2023-09-06 |
 | [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-04-20 |
 | [Fuwa Fuwa](https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Fuwa Fuwa](https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3) | 3:26 | 2024-07-24 |  |
-| [F・L・Y（1991 Mix）](https://open.spotify.com/track/4eiO5U06qk9xlNgq0b9BvQ) | [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [GOLDEN☆BEST スペクトラム](https://open.spotify.com/album/07ez6GItigQyNflz3D68qf) | 5:06 | 2025-01-30 |  |
+| [F・L・Y](https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK) | [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [オプティカル・サンライズ／スペクトラム２](https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U) | 3:30 | 2025-02-02 |  |
+| [F・L・Y（1991 Mix）](https://open.spotify.com/track/4eiO5U06qk9xlNgq0b9BvQ) | [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [GOLDEN☆BEST スペクトラム](https://open.spotify.com/album/07ez6GItigQyNflz3D68qf) | 5:06 | 2025-01-30 | 2025-02-03 |
 | [Gentle Hands](https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm), [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Gentle Hands](https://open.spotify.com/album/1mq2LQh4ZcG8USY6v8ujpL) | 4:12 | 2022-07-27 | 2022-08-17 |
 | [Getsuyou no Dance](https://open.spotify.com/track/51zSpfOogDG3NqCsVfI8O0) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Shikousei](https://open.spotify.com/album/0WYt2Vo6QgYJeB3KHWUhgV) | 3:22 | 2022-09-25 | 2022-10-26 |
 | [Gift](https://open.spotify.com/track/77VV0IhRZikqbVz6eLMIpY) | [ネオンに恋して](https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9) | [LOVE DRIVE](https://open.spotify.com/album/05UHHOq9BVELWwF5Xuqceg) | 4:06 | 2024-02-20 | 2024-07-31 |

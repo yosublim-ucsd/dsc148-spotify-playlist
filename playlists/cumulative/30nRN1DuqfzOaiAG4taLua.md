@@ -4,7 +4,7 @@
 
 > 
 
-72 songs - 3 hr 56 min
+76 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 | 2023-12-15 |  |
 | [Help Me](https://open.spotify.com/track/1lLMUMpTAKCjHoKhR0MCVh) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Help Me](https://open.spotify.com/album/7DjRXrfWnN1dJNoDWXwxoy) | 3:10 | 2023-12-14 |  |
 | [Hook Or Crook](https://open.spotify.com/track/1PAP14ZkxJGdyFR2KpxORT) | [Jack Kennedy](https://open.spotify.com/artist/31dw7SuERzZnTvIMo98GOq) | [Hook Or Crook](https://open.spotify.com/album/0wN03tpWcsbTbb4eK5XETQ) | 2:46 | 2024-01-16 |  |
+| [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2025-02-02 |  |
 | [I'm Lost](https://open.spotify.com/track/4LhZ61CeMpOHnGr7rl03Au) | [Aidan Rudd](https://open.spotify.com/artist/0Sk7ICzr5YpQ2b9N7zPSdD) | [I'm Lost](https://open.spotify.com/album/2FBPuKPAmuv1wJHZok2ugw) | 2:36 | 2023-12-14 | 2024-04-20 |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2024-01-16 |  |
 | [Illuminate](https://open.spotify.com/track/6yythpkfyJhdqRSrPjmsLN) | [STVN LEON](https://open.spotify.com/artist/67qaDEodmDODu7iHm0Atfs) | [Illuminate](https://open.spotify.com/album/3QyvGioO1kxAiTJ7XQmwcc) | 2:47 | 2023-12-23 |  |
@@ -50,6 +51,7 @@
 | [Looking For Love \- salute remix](https://open.spotify.com/track/3pbaa7YbnJLNif8TOONI9t) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Looking For Love \(salute remix\)](https://open.spotify.com/album/550Hl0NNiWdFJcIqaMGWuT) | 4:59 | 2023-12-18 | 2024-01-16 |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-12-14 |  |
 | [Madonna](https://open.spotify.com/track/4oe5xGMkivOeMIINR4kIOb) | [TEGI](https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn) | [Madonna / Like WTF](https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON) | 2:47 | 2024-01-19 |  |
+| [Mind Awake, Body Asleep](https://open.spotify.com/track/1dEtz42oboLOlGHCBrwmA9) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 | 2025-02-02 |  |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-12-14 | 2024-01-16 |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-12-22 | 2024-04-20 |
 | [My House](https://open.spotify.com/track/0oEKYdiP3gmLqm21gOhaDD) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Rave Rae](https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG) | [My House](https://open.spotify.com/album/52moeSswi9l8mbonOt3vJR) | 3:01 | 2023-12-18 | 2024-01-16 |
@@ -77,8 +79,10 @@
 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 | 2024-02-29 |  |
 | [Underground](https://open.spotify.com/track/3utIQ1ZdQuRzrbstsTMkFc) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Birthdayy Partyy](https://open.spotify.com/artist/2oOuwFJjxe5enJAkDgPkHp) | [Club Rompas](https://open.spotify.com/album/7cJdhK0qniYWKodYxK6LPP) | 2:30 | 2023-12-14 |  |
 | [Vazilando \- Radio Edit](https://open.spotify.com/track/2RLRhf7kmUTHCwh3QsXi5G) | [Gonan Drew](https://open.spotify.com/artist/7vMFXzl7w3Q4Jt0dmGJRqS) | [Vazilando](https://open.spotify.com/album/2lNgt39ta4lVjYN7mCoDUK) | 5:15 | 2023-12-14 |  |
+| [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB) | 2:28 | 2025-02-02 |  |
 | [Vogue](https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Vogue](https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz) | 3:12 | 2024-02-29 |  |
 | [Voodoo Babe](https://open.spotify.com/track/6j7iBoA8Wt3ndo2qxSc552) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/65JLPXyCU5zlSNBXZNseSs) | 4:09 | 2023-12-15 |  |
+| [Wide Open](https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Wide Open](https://open.spotify.com/album/1jhMDPST130snbmr1Oe0Np) | 3:36 | 2025-02-02 |  |
 | [WORK](https://open.spotify.com/track/6CbZAYh6bOfahHkptyvc59) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7) | [WORK](https://open.spotify.com/album/7LPdj3geNctVBgnFWBgyjr) | 4:04 | 2023-12-15 |  |
 
 \*This playlist was first scraped on 2024-01-03. Prior content cannot be recovered.

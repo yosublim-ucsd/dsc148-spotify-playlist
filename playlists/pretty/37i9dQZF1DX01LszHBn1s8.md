@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm too messy and then i'm too fucking clean 😵‍💫
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,218 likes - 103 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,163 likes - 103 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

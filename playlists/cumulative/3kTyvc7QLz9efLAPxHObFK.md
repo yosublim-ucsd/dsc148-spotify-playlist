@@ -4,7 +4,7 @@
 
 > 
 
-2,023 songs - 4 day 11 hr 24 min
+2,024 songs - 4 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Find You \-VIP\-](https://open.spotify.com/track/7Mc6DzEcpTg2fx7sOM1RLM) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Relect](https://open.spotify.com/artist/4Zyibxrgy9RPKmlgWmqtp6) | [Find You \-VIP\-](https://open.spotify.com/album/1NtUOjejzCPn0bDIEkWxSO) | 3:52 | 2022-03-15 |  |
 | [Fingers To The Sky](https://open.spotify.com/track/1Agmt00ZysDMXes5xR2KL4) | [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD) | [Fingers To The Sky](https://open.spotify.com/album/6IH7dEUlmsOtfAgKuC2EQG) | 2:53 | 2024-08-17 |  |
 | [Finish Line](https://open.spotify.com/track/4jGXPdLpQiN0lS96nl4es7) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Finish Line](https://open.spotify.com/album/5S7Wf2SoW6Q2TxsFJdPX26) | 2:51 | 2024-12-06 |  |
+| [FINK ABOUT IT](https://open.spotify.com/track/43Tt84LnG7V7M7SGX2jERr) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FINK ABOUT IT](https://open.spotify.com/album/3uGVbyqgGk5UuHVNWgNBbz) | 2:26 | 2025-02-02 |  |
 | [Fire](https://open.spotify.com/track/3BiNXvPlL8BHgAO6kenUV5) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Fire](https://open.spotify.com/album/7seDShHq8w7l7Shko8hQRS) | 2:53 | 2024-10-08 |  |
 | [Fire \- Extended Mix](https://open.spotify.com/track/5DFYYneSS1pJwPhYiMZlCl) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Rewcore](https://open.spotify.com/artist/60757zANSWqTu7lUGh2TiO) | [Fire](https://open.spotify.com/album/0S7a0x4wPGeicAy9jENWli) | 4:14 | 2023-04-14 |  |
 | [Fire Burning](https://open.spotify.com/track/0NaO9zysuSWZHZyt2zZcU8) | [Outforce](https://open.spotify.com/artist/0SyKgafiTwxlGmkmGEvDpz) | [XCLUSiiV](https://open.spotify.com/album/194FpXlCP33qnT6N1XimRY) | 2:59 | 2023-03-06 |  |

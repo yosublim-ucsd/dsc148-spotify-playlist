@@ -1067,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "Mi Amiga Mi Amor",
+        "url": "https://open.spotify.com/album/7MORxA5rjGIie2s8s0qKPH"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        },
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Mi Amiga Mi Amor",
+      "url": "https://open.spotify.com/track/3xHBOHk3voHVjE2xQpcyPK"
+    },
+    {
+      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
       },

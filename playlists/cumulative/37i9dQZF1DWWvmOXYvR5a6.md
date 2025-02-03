@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Coogie\(쿠기\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-742 songs - 1 day 15 hr 57 min
+743 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,7 @@
 | [Seat Belt \(Feat\. Dynamic Duo\)](https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv), [다이나믹 듀오](https://open.spotify.com/artist/16cRWWcs7lg0DxKweabRhf) | [Primary and Pphk Pt.1](https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t) | 4:08 | 2022-06-18 | 2022-07-29 |
 | [Self Isolation \(feat\. Paloalto\)](https://open.spotify.com/track/6neQsYjtYlp98ioxs2XhZn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Self Isolation](https://open.spotify.com/album/190NSlHxe7iDHTe1V9Pb5c) | 3:37 | 2022-05-03 | 2022-07-18 |
 | [Selfish \(Feat\. Woo\)](https://open.spotify.com/track/6De1dLF23zuUzf5jbh2vI1) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:28 | 2022-04-21 | 2022-07-21 |
-| [Semen Analysis](https://open.spotify.com/track/43BfGwtuOOL5afN8lTKG9v) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [HAPPY END](https://open.spotify.com/album/0qIzl7bf88ON5s0HuZ9WUG) | 2:31 | 2025-01-21 |  |
+| [Semen Analysis](https://open.spotify.com/track/43BfGwtuOOL5afN8lTKG9v) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [HAPPY END](https://open.spotify.com/album/0qIzl7bf88ON5s0HuZ9WUG) | 2:31 | 2025-01-21 | 2025-02-03 |
 | [Sensitive \(Feat\. Yong Yong\) \(Prod\. Way Ched\)](https://open.spotify.com/track/38FtaX0lTQXLT7BmbUHcSm) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [용용\(yongyong\)](https://open.spotify.com/artist/3GSlkavpHzm4wGvUJo0Bx4) | [Sensitive \(Feat\. Yong Yong\) \(Prod\. Way Ched\)](https://open.spotify.com/album/2g91i7Dnox27C6Z79IAW8G) | 3:15 | 2022-06-09 | 2022-06-21 |
 | [Seokchon Lake \(Prod\. OPO\)](https://open.spotify.com/track/3Ys1RMLdevLDW2vy6ZfPiY) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [Seokchon Lake](https://open.spotify.com/album/6H8aEMN206OF5MeErEbyMy) | 3:13 | 2022-05-11 | 2022-07-28 |
 | [SEOUL DRIFT](https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [SEOUL DRIFT](https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC) | 3:19 | 2022-07-19 |  |
@@ -596,6 +596,7 @@
 | [So What](https://open.spotify.com/track/1f6Kf9tZpHRL7zWqso9ibQ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Spacetime & So What](https://open.spotify.com/album/7vyDXiK6jN41QVSKWTrroQ) | 3:47 | 2022-05-11 | 2022-07-13 |
 | [So What](https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9) | [전현재](https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv) | [Beautiful Struggles](https://open.spotify.com/album/4BgxqlGNChjQb4MQzfjXEg) | 3:08 | 2022-12-26 | 2023-01-11 |
 | [SO WHAT \(feat\. Benzamin\)](https://open.spotify.com/track/616namACNtpqiBK29kgaDV) | [plusNONE](https://open.spotify.com/artist/6Rxno1qKhluurvawF1JVtr), [Father Pocket](https://open.spotify.com/artist/1hS88rTVFPwUThhfDXEE4s), [Benzamin](https://open.spotify.com/artist/0MfEPnKo5ZZ1KFyCPe68yJ) | [PREVIEW \- plusNONE](https://open.spotify.com/album/0mv9HXhq7wB0kcNYexp6l2) | 3:49 | 2022-04-21 | 2022-07-26 |
+| [Somebody To Love](https://open.spotify.com/track/1kBPXcKo8NZx6chyQm9YL8) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Somebody To Love](https://open.spotify.com/album/7r2aXCzdVtunI3w3v3t2eC) | 2:43 | 2025-02-03 |  |
 | [Someday \(Feat\. SOLE\) \(Prod\. Padi\)](https://open.spotify.com/track/6NfUyAbEcC2Le5KSeXRZ7G) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Day](https://open.spotify.com/album/2j6ufwzCjQglhOc60VodiB) | 2:46 | 2022-05-05 | 2022-07-29 |
 | [Someone On You \(Feat\. Kid Wine\)](https://open.spotify.com/track/5yYpA3IqmJjZqMSwVy5nNU) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Stargaze](https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5) | 2:56 | 2023-06-13 | 2023-07-04 |
 | [Sometimes](https://open.spotify.com/track/7zbSWhM41T0ne9XtKPYoVD) | [Flaiboitrap](https://open.spotify.com/artist/0vNY03hYuSfkX9UVEtZDQ7), [YUMIN](https://open.spotify.com/artist/1Wbm8a86AGAgr1S71ZNn9i) | [Sometimes](https://open.spotify.com/album/5CKVX8zuu99jVvwgqeMZ24) | 2:42 | 2022-12-13 | 2022-12-20 |

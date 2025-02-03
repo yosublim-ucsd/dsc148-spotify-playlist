@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1378530,
+  "num_followers": 1378654,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5wSgAAAAABPOd9kacusgbnta4k/acQe",
+  "snapshot_id": "Z51kAAAAAADvpJ9hPOYPcN+CqrLn1hsl",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Germany 1995 - 2011 (Special Edition)",
-        "url": "https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB"
+        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
+        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 233186,
-      "name": "Mein Land",
-      "url": "https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa"
+      "duration_ms": 239080,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/50AB24h51HlBrp6PqOg50k"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
-        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
+        "name": "Made In Germany 1995 - 2011 (Special Edition)",
+        "url": "https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 239080,
-      "name": "Pussy",
-      "url": "https://open.spotify.com/track/50AB24h51HlBrp6PqOg50k"
+      "duration_ms": 233186,
+      "name": "Mein Land",
+      "url": "https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa"
     },
     {
       "added_at": null,

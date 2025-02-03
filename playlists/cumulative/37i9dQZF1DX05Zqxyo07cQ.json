@@ -7764,7 +7764,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 180170,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/7pj05Z3J520aOzLdH3sAAz"
@@ -10414,6 +10414,24 @@
       "duration_ms": 154074,
       "name": "The Morning Star",
       "url": "https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF"
+    },
+    {
+      "album": {
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/4zzaUqPBhwf9MMIMkOZ2e5"
+      },
+      "artists": [
+        {
+          "name": "Pius Sylla",
+          "url": "https://open.spotify.com/artist/7cD2wGIWLgv5oxmmgS1EY5"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "The Next Step",
+      "url": "https://open.spotify.com/track/5Cu36fWWD1nSaTnDgSuTf5"
     },
     {
       "album": {

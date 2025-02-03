@@ -3047,6 +3047,28 @@
     },
     {
       "album": {
+        "name": "Bala",
+        "url": "https://open.spotify.com/album/1HibTEnRacx8M6wPy9eMDL"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        },
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127389,
+      "name": "Bala",
+      "url": "https://open.spotify.com/track/1om4NP5OCxtkFq8rdRcXNl"
+    },
+    {
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/6gO313QReUdVZYsN7BH5Qg"
       },
@@ -5574,6 +5596,24 @@
       "duration_ms": 202105,
       "name": "Como Sea",
       "url": "https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg"
+    },
+    {
+      "album": {
+        "name": "Como Te Hiceron",
+        "url": "https://open.spotify.com/album/3XSKyfEkpfiKpnwwKcxIyv"
+      },
+      "artists": [
+        {
+          "name": "SEAN G",
+          "url": "https://open.spotify.com/artist/1amioE1z2YsW8Gk78HsSLO"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133069,
+      "name": "Como Te Hiceron",
+      "url": "https://open.spotify.com/track/4XVw1jVOkqbDI1ot8rztqV"
     },
     {
       "album": {
@@ -9376,7 +9416,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 159477,
       "name": "EBRIO",
       "url": "https://open.spotify.com/track/0c1ctKLU6NrzBXYJBz8z4p"
@@ -11942,7 +11982,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 165178,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
@@ -14510,7 +14550,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 147741,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/2lCA0tcZC927PxbHAF2QBj"
@@ -15786,7 +15826,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 125255,
       "name": "La Gran Vaina",
       "url": "https://open.spotify.com/track/77IGeNNbqrCxnV3CPR5T7p"
@@ -17622,7 +17662,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 226400,
       "name": "Ll\u00e9vame Contigo",
       "url": "https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw"
@@ -17728,7 +17768,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 229381,
       "name": "LO QUE LE PAS\u00d3 A HAWAii",
       "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
@@ -18490,7 +18530,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -32428,7 +32468,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 138025,
       "name": "Tiguere de Kellogs",
       "url": "https://open.spotify.com/track/0PCwmIoofdEurFcBuuNpZR"
@@ -32764,7 +32804,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 99946,
       "name": "Tolentino",
       "url": "https://open.spotify.com/track/4gS1PqXNaU8pXEN1Srbbz2"
@@ -32984,7 +33024,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 241846,
       "name": "TOUCHDOWN",
       "url": "https://open.spotify.com/track/17ilE3vG73RLtqg2vCSVNX"

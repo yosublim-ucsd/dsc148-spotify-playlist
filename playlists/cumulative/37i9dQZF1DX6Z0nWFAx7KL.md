@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-289 songs - 14 hr 24 min
+290 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 | 2025-01-10 |  |
 | [Bloom](https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Bloom](https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd) | 2:32 | 2024-09-19 |  |
 | [Bloom \(nowifi Remix\)](https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Bloom \(nowifi Remix\)](https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk) | 2:01 | 2022-09-15 | 2024-08-31 |
-| [Body Language](https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj) | [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Body Language](https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi) | 2:02 | 2024-11-14 |  |
+| [Body Language](https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj) | [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Body Language](https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi) | 2:02 | 2024-11-14 | 2025-02-03 |
 | [Body on Fire](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Body on Fire](https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu) | 2:39 | 2022-09-15 | 2024-03-21 |
 | [Bora Bora](https://open.spotify.com/track/5p9SH2mEUzBMlpkowTf1YM) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Bora Bora](https://open.spotify.com/album/75DrtHei7nrqfm7ThZo6oe) | 2:18 | 2024-05-23 | 2024-06-07 |
 | [Bosana](https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Bosana](https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1) | 3:31 | 2022-09-29 | 2022-10-25 |
@@ -116,6 +116,7 @@
 | [Going Home](https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Max Vidima](https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6) | [Going Home](https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y) | 4:22 | 2022-09-15 | 2023-03-03 |
 | [Gold](https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Gold](https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y) | 3:40 | 2022-09-15 | 2024-07-27 |
 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 | 2023-03-02 | 2024-03-21 |
+| [Havana](https://open.spotify.com/track/6zhLFfiMx8ulxcVnSlq54T) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Havana](https://open.spotify.com/album/4UggOindubYKHsDlCG8NEj) | 2:12 | 2025-02-02 |  |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-09-15 | 2022-11-17 |
 | [Heartbreak In Seychelles](https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Heartbreak In Seychelles](https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL) | 2:56 | 2022-09-15 | 2024-12-06 |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2022-09-15 | 2024-08-02 |

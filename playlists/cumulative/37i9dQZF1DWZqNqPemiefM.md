@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-723 songs - 2 day 8 hr 10 min
+724 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Breeding Tank](https://open.spotify.com/track/32rKfOIBR1arX5g3nQBS8E) | [Metome](https://open.spotify.com/artist/4EdG3DOqirA5Jpz9SfugWO) | [Dialect](https://open.spotify.com/album/2aEA2AMYDwItnVHb2W7KDO) | 5:02 | 2022-03-31 | 2022-05-30 |
 | [Breeding Tank](https://open.spotify.com/track/6xpANjnTCTtFo3bcwf5wmb) | [Metome](https://open.spotify.com/artist/4EdG3DOqirA5Jpz9SfugWO) | [Dialect](https://open.spotify.com/album/4GFinj2zqedcGcLNszGMRl) | 5:02 | 2022-03-31 | 2022-06-08 |
 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 | 2024-02-08 |  |
-| [Bury it Deep Inside Yourself](https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR) | [NEXCYIA](https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ) | [Endless Path of Memory](https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu) | 4:47 | 2024-12-10 |  |
+| [Bury it Deep Inside Yourself](https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR) | [NEXCYIA](https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ) | [Endless Path of Memory](https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu) | 4:47 | 2024-12-10 | 2025-02-03 |
 | [By The Window](https://open.spotify.com/track/3JWwz9vA04xErfWcZQuccm) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Minor Planet](https://open.spotify.com/album/2w9oe23evWlt31fPXYjkHa) | 4:46 | 2022-03-30 | 2022-07-01 |
 | [By Your Side](https://open.spotify.com/track/5Ux0zCT223DmKcjzISvSDW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Dreaming](https://open.spotify.com/album/6H6xD7PAqpdD7UU6MWbwb2) | 4:39 | 2022-03-30 | 2022-07-29 |
 | [C/O](https://open.spotify.com/track/5BKWJlgXhxT7UmWXxzoCfK) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [C/O](https://open.spotify.com/album/7quy2UPFmb4p5k7lLx1a59) | 5:28 | 2024-06-15 | 2024-08-11 |
@@ -356,6 +356,7 @@
 | [Magnetic Language](https://open.spotify.com/track/6CMoeTtaksSwCLuOBGYtwT) | [Ex\-Easter Island Head](https://open.spotify.com/artist/2gEm0eVQOu7MWVmuRqqFC7) | [Norther](https://open.spotify.com/album/2Df0QmgwhZlwnXL22k14zv) | 5:33 | 2024-09-06 | 2024-12-10 |
 | [Maha Rose North 102021, Breathwork](https://open.spotify.com/track/4xeZaQwDromjAF4IZK4K2R) | [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [\(I'm just\) Chillin', on Fire](https://open.spotify.com/album/5tHZvBCamKaoc6ZuDPypTr) | 7:25 | 2024-02-08 | 2024-04-19 |
 | [Maha Rose North 102021, Breathwork](https://open.spotify.com/track/4V0XU8oWY7M1o5BGKcmml2) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [\(Im just\) Chillin, on Fire](https://open.spotify.com/album/3ZBBhHrjGOBMTMTnvBghc5) | 7:25 | 2024-03-07 | 2024-06-07 |
+| [Malam Suci](https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Malam Suci](https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff) | 4:19 | 2025-01-24 |  |
 | [Mallow](https://open.spotify.com/track/6KkVrpgLQYzC79NMRMah0I) | [James Murray](https://open.spotify.com/artist/6FtfcguhZxMy6S04I0jOhc) | [Weeds](https://open.spotify.com/album/693yk02Dcy8O9AYCv3B8AB) | 7:03 | 2024-12-10 |  |
 | [Manbow](https://open.spotify.com/track/1We7bciAsCc4knw9ma9B8s) | [かわさき みれい](https://open.spotify.com/artist/3Wyr6ZE9XhVVLM252Z4ygJ) | [Aqua\~アクア](https://open.spotify.com/album/0K83JNd2tr8Ni4p150KB2b) | 9:30 | 2022-03-30 | 2022-07-09 |
 | [Marginalia \#119](https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/31TDrtEsbcHHJNnZ9IWOB9) | 6:09 | 2024-02-08 | 2024-04-19 |

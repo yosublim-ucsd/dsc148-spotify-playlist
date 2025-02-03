@@ -2193,6 +2193,28 @@
     },
     {
       "album": {
+        "name": "lemons",
+        "url": "https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI"
+      },
+      "artists": [
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        },
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149552,
+      "name": "lemons",
+      "url": "https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7"
+    },
+    {
+      "album": {
         "name": "Cesco & Chums",
         "url": "https://open.spotify.com/album/0j2KirysBHVgamExBrmjKL"
       },
@@ -2988,7 +3010,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 152888,
       "name": "Party All Night",
       "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Juliette",
-  "num_followers": 372199,
+  "num_followers": 372190,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,42 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 165487,
+      "name": "Se eu usasse sapato",
+      "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
+        "name": "Estoy Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 159755,
+      "name": "Estoy Aqu\u00ed - Remix",
+      "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -343,38 +379,6 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
-        "name": "Esquinas",
-        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 165487,
-      "name": "Se eu usasse sapato",
-      "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 122169,
-      "name": "Low Profile",
-      "url": "https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -395,6 +399,22 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 122169,
+      "name": "Low Profile",
+      "url": "https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
         "name": "Numanice #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
       },
@@ -411,58 +431,6 @@
       "duration_ms": 180009,
       "name": "Raio X - Ao Vivo",
       "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
-        "name": "Estoy Aqu\u00ed (Remix)",
-        "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 159755,
-      "name": "Estoy Aqu\u00ed - Remix",
-      "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 169845,
-      "name": "(N\u00e3o) Quero Me Apaixonar",
-      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -503,6 +471,42 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 188791,
+      "name": "Romance Em Cena",
+      "url": "https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -523,6 +527,22 @@
       "duration_ms": 165111,
       "name": "DA BRABA",
       "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 169845,
+      "name": "(N\u00e3o) Quero Me Apaixonar",
+      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -563,42 +583,6 @@
       "duration_ms": 235610,
       "name": "Nocaute",
       "url": "https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 188791,
-      "name": "Romance Em Cena",
-      "url": "https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
-        "name": "Amor Traumatizado",
-        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 190858,
-      "name": "Amor Traumatizado",
-      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -687,6 +671,22 @@
       "duration_ms": 165034,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
+        "name": "Amor Traumatizado",
+        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 190858,
+      "name": "Amor Traumatizado",
+      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
+        "name": "MEU CORA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/1MlmxhNB8HRbB2Rir0h4fi"
+      },
+      "artists": [
+        {
+          "name": "VOID",
+          "url": "https://open.spotify.com/artist/163Bo6wArUPNbzbTAgmbJQ"
+        }
+      ],
+      "duration_ms": 130321,
+      "name": "MEU CORA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
         "name": "Used To Feel",
         "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
       },
@@ -1015,6 +1031,30 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Francci",
+          "url": "https://open.spotify.com/artist/0ibBJyHUgpYajGcBAm8bbF"
+        }
+      ],
+      "duration_ms": 234820,
+      "name": "NECTAR",
+      "url": "https://open.spotify.com/track/0SsWDp8RTI6hNAGcukBbr8"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
         "name": "F.O.D.A.",
         "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
       },
@@ -1059,26 +1099,18 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
-        "name": "Busco Romance Love Show",
-        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+        "name": "P\u2605RN STAR",
+        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
       },
       "artists": [
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Francci",
-          "url": "https://open.spotify.com/artist/0ibBJyHUgpYajGcBAm8bbF"
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
         }
       ],
-      "duration_ms": 234820,
-      "name": "NECTAR",
-      "url": "https://open.spotify.com/track/0SsWDp8RTI6hNAGcukBbr8"
+      "duration_ms": 172173,
+      "name": "Filme de Adulto",
+      "url": "https://open.spotify.com/track/6zHZMuoynl05xREzPUCbQt"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -1115,22 +1147,6 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
-        "name": "P\u2605RN STAR",
-        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Filme de Adulto",
-      "url": "https://open.spotify.com/track/6zHZMuoynl05xREzPUCbQt"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
         "name": "LUA CHEIA",
         "url": "https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp"
       },
@@ -1147,6 +1163,26 @@
       "duration_ms": 170089,
       "name": "LUA CHEIA",
       "url": "https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
+        "name": "Esse \u00c9 Meu Mundo",
+        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+        }
+      ],
+      "duration_ms": 201792,
+      "name": "\u00c1gua de Coco",
+      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -1223,22 +1259,6 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
-        "name": "MEU CORA\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/1MlmxhNB8HRbB2Rir0h4fi"
-      },
-      "artists": [
-        {
-          "name": "VOID",
-          "url": "https://open.spotify.com/artist/163Bo6wArUPNbzbTAgmbJQ"
-        }
-      ],
-      "duration_ms": 130321,
-      "name": "MEU CORA\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
         "name": "POEIRA ESTELAR",
         "url": "https://open.spotify.com/album/0BQQKo6yhdLipmB9z4t3qo"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 170790,
       "name": "POEIRA ESTELAR",
       "url": "https://open.spotify.com/track/2oKhK6fjfaxx6QAE62Os7N"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
-        "name": "Esse \u00c9 Meu Mundo",
-        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Kaike",
-          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
-        }
-      ],
-      "duration_ms": 201792,
-      "name": "\u00c1gua de Coco",
-      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
-        "name": "Entrando na Dan\u00e7a",
-        "url": "https://open.spotify.com/album/7ouAOi6aYU1DjXnpvDjnyw"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "Entrando na Dan\u00e7a",
-      "url": "https://open.spotify.com/track/4sEQDt2e4NLsHkXYUdK9XZ"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
         "name": "Encontros",
         "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 201000,
       "name": "Encontros",
       "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
+        "name": "Entrando na Dan\u00e7a",
+        "url": "https://open.spotify.com/album/7ouAOi6aYU1DjXnpvDjnyw"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Entrando na Dan\u00e7a",
+      "url": "https://open.spotify.com/track/4sEQDt2e4NLsHkXYUdK9XZ"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
+        "name": "Vai dar Trabalho",
+        "url": "https://open.spotify.com/album/0e35qb3SQ6wz53veRHgaqr"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 186621,
+      "name": "Vai dar Trabalho",
+      "url": "https://open.spotify.com/track/1lqkujChVibjSQlps8oxLd"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
         "name": "Divino",
         "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 124887,
       "name": "Oi Xod\u00f3zinho",
       "url": "https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
-        "name": "Vai dar Trabalho",
-        "url": "https://open.spotify.com/album/0e35qb3SQ6wz53veRHgaqr"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 186621,
-      "name": "Vai dar Trabalho",
-      "url": "https://open.spotify.com/track/1lqkujChVibjSQlps8oxLd"
     },
     {
       "added_at": "2025-01-31 14:44:05",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-01-31 14:44:05",
       "album": {
-        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 244827,
-      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
-    },
-    {
-      "added_at": "2025-01-31 14:44:05",
-      "album": {
         "name": "Ela \u00e9 de Escorpi\u00e3o",
         "url": "https://open.spotify.com/album/36Zh8oOvqJ8yQ07yxGZuPf"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 141030,
       "name": "Ela \u00e9 de Escorpi\u00e3o",
       "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
+    },
+    {
+      "added_at": "2025-01-31 14:44:05",
+      "album": {
+        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 244827,
+      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
     }
   ],
   "unique_name": "Palco POP",

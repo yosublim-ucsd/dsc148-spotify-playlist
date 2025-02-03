@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > All Black like the cover of Essence\. Cover: <a href="spotify:artist:7tYKF4w9nC0nq9CsPZTHyP">SZA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,954 likes - 133 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,098 likes - 133 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

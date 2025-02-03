@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-684 songs - 1 day 16 hr 43 min
+685 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 | 2023-10-27 |  |
 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 | 2024-10-04 |  |
 | [Start over Somewhere](https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Start over Somewhere](https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc) | 4:06 | 2024-03-01 | 2024-05-03 |
+| [Starting Over Again](https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Starting Over Again](https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C) | 2:59 | 2025-01-31 |  |
 | [Starts in a Bar](https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 2:59 | 2023-09-01 | 2024-07-30 |
 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 | 2023-03-17 | 2024-07-23 |
 | [Stay](https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Stay](https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg) | 3:24 | 2024-01-19 | 2024-09-07 |
@@ -602,7 +603,7 @@
 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 | 2023-09-29 | 2024-09-07 |
 | [Too Much Texas](https://open.spotify.com/track/3hEWrpdstTH1OLaQdBZWG0) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Much Texas](https://open.spotify.com/album/09QxnbZzFjWyoZVStprhUJ) | 2:37 | 2022-03-18 | 2022-07-28 |
 | [Took the Fall](https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Took the Fall](https://open.spotify.com/album/4xRrlIj4QSLvwM2DSIykY4) | 3:36 | 2022-10-14 | 2023-05-27 |
-| [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-03 |  |
+| [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-03 | 2025-02-03 |
 | [Trenches](https://open.spotify.com/track/2HegYbfmMFwIIAjvMIc7e8) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Trenches](https://open.spotify.com/album/71uqGOKL1QEbwqtqTyFDTb) | 2:49 | 2022-08-05 | 2023-09-08 |
 | [Trouble With Angels](https://open.spotify.com/track/3BaVluQUA7ajqvFIp1iSkl) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Trouble With Angels](https://open.spotify.com/album/30PgSxZ5SpbUlJB6RjDmfo) | 3:15 | 2021-12-17 | 2022-03-19 |
 | [Trouble With You](https://open.spotify.com/track/5WxsXiljdTceevmqvsi4hq) | [Taylor Dunn](https://open.spotify.com/artist/1FfX9825XN0Uy6HBVoQsxr) | [Trouble With You](https://open.spotify.com/album/4aZYrGkb1ZxJql4oUQ3bfs) | 3:30 | 2021-12-17 | 2022-07-10 |

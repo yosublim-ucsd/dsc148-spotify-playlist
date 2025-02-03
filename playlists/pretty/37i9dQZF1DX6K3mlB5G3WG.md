@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,363 likes - 132 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,357 likes - 132 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

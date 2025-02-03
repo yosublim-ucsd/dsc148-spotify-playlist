@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 451446,
+  "num_followers": 451428,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "You Want It Darker",
         "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 187690,
       "name": "Horseness Is The Whatness",
       "url": "https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 110820,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
         "name": "Funny",
         "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 238746,
       "name": "Ms",
       "url": "https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 110820,
-      "name": "Slither",
-      "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Spirituals",
         "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 252272,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Contently Miserable",
-        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
-      },
-      "artists": [
-        {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Contently Miserable",
-      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "My Cosmos Is Mine",
         "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 316899,
       "name": "My Cosmos Is Mine",
       "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "The Waves Pt. 1",
-        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
-      },
-      "artists": [
-        {
-          "name": "Kele",
-          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
-        }
-      ],
-      "duration_ms": 262040,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Serfs Up!",
         "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 342538,
       "name": "Tastes Good With The Money",
       "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "The Waves Pt. 1",
+        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
+      },
+      "artists": [
+        {
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
+        }
+      ],
+      "duration_ms": 262040,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "How Are You Feeling?",
-        "url": "https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 269140,
-      "name": "How Are You Feeling?",
-      "url": "https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 144404,
       "name": "My Evil",
       "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "How Are You Feeling?",
+        "url": "https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 269140,
+      "name": "How Are You Feeling?",
+      "url": "https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Walking in a Vacuum",
-        "url": "https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93"
-      },
-      "artists": [
-        {
-          "name": "test plan",
-          "url": "https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA"
-        }
-      ],
-      "duration_ms": 267301,
-      "name": "Walking in a Vacuum",
-      "url": "https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
+        "name": "You are the Problem Here",
+        "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "You are the Problem Here",
+      "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
         "name": "Double Negative",
         "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 382674,
       "name": "Dancing and Blood",
       "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Walking in a Vacuum",
+        "url": "https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93"
+      },
+      "artists": [
+        {
+          "name": "test plan",
+          "url": "https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA"
+        }
+      ],
+      "duration_ms": 267301,
+      "name": "Walking in a Vacuum",
+      "url": "https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1243,22 +1259,6 @@
       "duration_ms": 339173,
       "name": "Deep Six Textbook",
       "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
-        "name": "You are the Problem Here",
-        "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "You are the Problem Here",
-      "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "The Rocky Road to Dublin (Edit)",
-        "url": "https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 246125,
-      "name": "The Rocky Road to Dublin - Edit",
-      "url": "https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Ecstasy Homosexuality",
         "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 240335,
       "name": "Ecstasy Homosexuality - Radio Edit",
       "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "The Rocky Road to Dublin (Edit)",
+        "url": "https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 246125,
+      "name": "The Rocky Road to Dublin - Edit",
+      "url": "https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "So Medieval",
-        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
-      },
-      "artists": [
-        {
-          "name": "Blue Bendy",
-          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Darp 2 / Exorcism",
-      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Spinning Wheel",
         "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 205703,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "So Medieval",
+        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Darp 2 / Exorcism",
+      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "Hard Candy",
-      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Tears In The Typing Pool [Demo]",
         "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 127832,
       "name": "Tears In The Typing Pool [Demo]",
       "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "Hard Candy",
+      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+        "name": "Less",
+        "url": "https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh"
       },
       "artists": [
         {
-          "name": "Gretel",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+          "name": "deathcrash",
+          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Little Vampire",
-      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
+      "duration_ms": 219133,
+      "name": "Duffy's",
+      "url": "https://open.spotify.com/track/0am577lRtOs3ur575VvdmI"
     }
   ],
   "unique_name": "Spooky",

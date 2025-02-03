@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Reggae, roots and dub\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,074 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,085 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

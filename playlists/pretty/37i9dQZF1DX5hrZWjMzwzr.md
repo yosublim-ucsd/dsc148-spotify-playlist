@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,972 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,969 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 30 | [Król jest nagi](https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Król jest nagi](https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT) | 3:04 |
 | 31 | [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 |
 | 32 | [Stary Pezet \(klasyczny\)](https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Waco](https://open.spotify.com/artist/4fwFJRmea6ksX4ZUM1Hhlu), [Eklektik](https://open.spotify.com/artist/1ArazAocOQKVEMD8VEPcnp) | [Stary Pezet \(klasyczny\)](https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO) | 3:27 |
-| 33 | [W GORĄCEJ WODZIE COMPANY](https://open.spotify.com/track/1UYPQ2AlncsTIRbIAZqZvV) | [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [E\- PUSIA](https://open.spotify.com/album/46fcnCGCRfLWAPdIioItSV) | 2:46 |
-| 34 | [Czarne czy Czerwone](https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU) | [VHS](https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q), [E V](https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX) | [Czarne czy Czerwone](https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL) | 3:33 |
+| 33 | [Czarne czy Czerwone](https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU) | [VHS](https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q), [E V](https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX) | [Czarne czy Czerwone](https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL) | 3:33 |
+| 34 | [W GORĄCEJ WODZIE COMPANY](https://open.spotify.com/track/1UYPQ2AlncsTIRbIAZqZvV) | [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [E\- PUSIA](https://open.spotify.com/album/46fcnCGCRfLWAPdIioItSV) | 2:46 |
 | 35 | [Kłamczuch](https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7) | [Floral Bugs](https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK), [Kudel](https://open.spotify.com/artist/0iaQyrpwB9pFge9sRokeim) | [KŁAMCZUCH](https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7) | 2:41 |
 | 36 | [ZAZA](https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [ZAZA](https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M) | 2:48 |
 | 37 | [Czarny Śląsk](https://open.spotify.com/track/0YYvmuW2qBIetZ907QPw35) | [Kaliber 44](https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx), [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Fokus](https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck), [Rahim](https://open.spotify.com/artist/0sKdZaAhTTobH1I6OHB2tY), [Abradab](https://open.spotify.com/artist/0wip5D37aCfjuD39Pmbp1q), [DJ Eprom](https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80) | [Czarny Śląsk](https://open.spotify.com/album/5v2v9p4n6Z1MuGS11wTwfy) | 4:38 |

@@ -6,7 +6,7 @@
     "name": "BLK OUT",
     "url": "https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla"
   },
-  "snapshot_id": "AAAAXiJ4KywpZ+zldkbxVojRM12Bl8bQ",
+  "snapshot_id": "AAAAYgkXYPLLHMXhgi2jF9Ygihc/ZnB3",
   "tracks": [
     {
       "added_at": "2023-12-14 18:50:16",
@@ -1027,6 +1027,86 @@
       "duration_ms": 220298,
       "name": "Okay Fine",
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
+    },
+    {
+      "added_at": "2025-02-02 22:45:53",
+      "album": {
+        "name": "Vertigo (feat. Ed Graves)",
+        "url": "https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Ed Graves",
+          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Vertigo (feat. Ed Graves)",
+      "url": "https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj"
+    },
+    {
+      "added_at": "2025-02-02 22:48:10",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/1jhMDPST130snbmr1Oe0Np"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 216183,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI"
+    },
+    {
+      "added_at": "2025-02-02 23:01:39",
+      "album": {
+        "name": "All Day, All Night",
+        "url": "https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Mind Awake, Body Asleep",
+      "url": "https://open.spotify.com/track/1dEtz42oboLOlGHCBrwmA9"
+    },
+    {
+      "added_at": "2025-02-02 23:01:55",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     }
   ],
   "unique_name": "Work From House",

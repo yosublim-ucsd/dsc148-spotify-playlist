@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-430 songs - 21 hr 56 min
+431 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 | 2022-08-15 | 2024-09-07 |
 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 | 2022-01-12 | 2024-05-21 |
 | [Aphelion](https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Aphelion](https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW) | 3:20 | 2022-01-12 | 2024-02-09 |
-| [Appreciation](https://open.spotify.com/track/5rL3vtLmgC53w0QVF8Sn8W) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Appreciation](https://open.spotify.com/album/4Jqd5OiORj1ymZtpgtMFxN) | 2:46 | 2024-07-15 |  |
+| [Appreciation](https://open.spotify.com/track/5rL3vtLmgC53w0QVF8Sn8W) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Appreciation](https://open.spotify.com/album/4Jqd5OiORj1ymZtpgtMFxN) | 2:46 | 2024-07-15 | 2025-02-03 |
 | [Aqua Aura](https://open.spotify.com/track/1ZC0NlMKMU0t3dtSdCnDf8) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aqua Aura](https://open.spotify.com/album/5NdiSoyeQn9WL8rMB219xC) | 2:45 | 2024-01-17 | 2024-02-08 |
 | [Aqua Vitae](https://open.spotify.com/track/0UdaRSL27LJVYkK2ZwUULn) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Aqua Vitae](https://open.spotify.com/album/7lisN5vAW0SJJxTTUt49In) | 3:08 | 2024-01-17 | 2024-02-08 |
 | [Arctic](https://open.spotify.com/track/0GU48wNylLzxHde7OXHpAj) | [Eural](https://open.spotify.com/artist/50x43BjaV7dRtBZkdrRNJo) | [Arctic](https://open.spotify.com/album/0Zq6Iv1Mzxjj2TJ5qHldja) | 2:36 | 2024-03-20 |  |
@@ -186,6 +186,7 @@
 | [Glorious Glow](https://open.spotify.com/track/60SnZrB33lIY2BEY553JFl) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 3:26 | 2022-01-12 | 2023-07-29 |
 | [Glowing Serenity](https://open.spotify.com/track/3uB7A1ZPamTIQKCjPg8LG8) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Glowing Serenity](https://open.spotify.com/album/4tlf1Tm9VYTpFILVuRoglN) | 2:45 | 2024-04-05 |  |
 | [Gold Coast Australia](https://open.spotify.com/track/6BNTFiV9i392ZnBLp4gpC2) | [Roman Roads](https://open.spotify.com/artist/2QUVHxjwBJB4Lok2MRT3Dh) | [Stay Safe](https://open.spotify.com/album/6D3qaysSHYi8dvpwslqB9A) | 3:32 | 2022-01-12 | 2024-05-21 |
+| [Golden Horizon](https://open.spotify.com/track/0SlVNliuqyeuTxdd7P54Y8) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Golden Horizon](https://open.spotify.com/album/3gpEprZg7w6N7VGh4rvOkS) | 2:55 | 2025-01-21 |  |
 | [Gone walkabout](https://open.spotify.com/track/7GJbZjIlTTgaHToArOsck5) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Gone walkabout](https://open.spotify.com/album/5zQOHBmizZaKLDr2Ojkohu) | 2:48 | 2022-01-19 | 2023-01-26 |
 | [Gratitude Frequency](https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Gratitude Frequency](https://open.spotify.com/album/4zGMCjX93ABo5zAxf8qbFl) | 2:24 | 2023-07-28 | 2024-10-16 |
 | [Grow Free](https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k) | [VØNAR](https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ) | [Grow Free](https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA) | 2:50 | 2024-01-17 |  |

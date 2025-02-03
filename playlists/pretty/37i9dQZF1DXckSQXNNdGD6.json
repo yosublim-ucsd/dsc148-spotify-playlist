@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Luna Zuazu.",
-  "num_followers": 19536,
+  "num_followers": 19542,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Humedad Valenciana",
-        "url": "https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "Parkineos",
-          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
-        }
-      ],
-      "duration_ms": 178288,
-      "name": "Humedad Valenciana",
-      "url": "https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Spawnpoint",
         "url": "https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 162461,
       "name": "Flow deskiciada",
       "url": "https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Humedad Valenciana",
+        "url": "https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "Parkineos",
+          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
+        }
+      ],
+      "duration_ms": 178288,
+      "name": "Humedad Valenciana",
+      "url": "https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -503,26 +503,6 @@
       "duration_ms": 182284,
       "name": "No Siento Nada",
       "url": "https://open.spotify.com/track/26njrrC807IokAXRM08tQN"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "El Grimorio",
-        "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Olor a perfume caro y tabaco",
-      "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -627,6 +607,26 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "El Grimorio",
+        "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Olor a perfume caro y tabaco",
+      "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "DIFERENTE",
         "url": "https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 163200,
       "name": "DIFERENTE",
       "url": "https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -675,26 +659,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Madre Fundadora",
-        "url": "https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Ave Mar\u00eda Put\u00edsima",
-      "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "La Magia de Tu Melena",
         "url": "https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw"
       },
@@ -711,6 +675,22 @@
       "duration_ms": 186500,
       "name": "La Magia de Tu Melena",
       "url": "https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -763,6 +743,26 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "Madre Fundadora",
+        "url": "https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Ave Mar\u00eda Put\u00edsima",
+      "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "Aitana O'Ca\u00f1a",
         "url": "https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u"
       },
@@ -775,30 +775,6 @@
       "duration_ms": 172378,
       "name": "Aitana O'Ca\u00f1a",
       "url": "https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "No hay nada m\u00e1s de vampiro que tener unos primos en Portugal",
-        "url": "https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        },
-        {
-          "name": "ANADIE",
-          "url": "https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs"
-        }
-      ],
-      "duration_ms": 162086,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -895,6 +871,30 @@
       "duration_ms": 215516,
       "name": "Paris Hilton",
       "url": "https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "No hay nada m\u00e1s de vampiro que tener unos primos en Portugal",
+        "url": "https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "ANADIE",
+          "url": "https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs"
+        }
+      ],
+      "duration_ms": 162086,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2"
     },
     {
       "added_at": "2025-01-07 23:00:01",

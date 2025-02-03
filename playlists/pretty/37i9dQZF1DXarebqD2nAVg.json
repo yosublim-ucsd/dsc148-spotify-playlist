@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 455176,
+  "num_followers": 455191,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-01-09 14:10:42",
       "album": {
+        "name": "Breakfast In Bed",
+        "url": "https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa"
+      },
+      "artists": [
+        {
+          "name": "Springy Dustfield",
+          "url": "https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm"
+        }
+      ],
+      "duration_ms": 166491,
+      "name": "Breakfast In Bed",
+      "url": "https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K"
+    },
+    {
+      "added_at": "2025-01-09 14:10:42",
+      "album": {
         "name": "polaris",
         "url": "https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 120374,
       "name": "polaris",
       "url": "https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh"
-    },
-    {
-      "added_at": "2025-01-09 14:10:42",
-      "album": {
-        "name": "Breakfast In Bed",
-        "url": "https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa"
-      },
-      "artists": [
-        {
-          "name": "Springy Dustfield",
-          "url": "https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm"
-        }
-      ],
-      "duration_ms": 166491,
-      "name": "Breakfast In Bed",
-      "url": "https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K"
     },
     {
       "added_at": "2025-01-09 14:10:42",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-01-09 14:10:42",
       "album": {
+        "name": "superabundance",
+        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
+      },
+      "artists": [
+        {
+          "name": "Mickey Jam",
+          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
+        }
+      ],
+      "duration_ms": 139738,
+      "name": "superabundance",
+      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
+    },
+    {
+      "added_at": "2025-01-09 14:10:42",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 160000,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g"
-    },
-    {
-      "added_at": "2025-01-09 14:10:42",
-      "album": {
-        "name": "superabundance",
-        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
-      },
-      "artists": [
-        {
-          "name": "Mickey Jam",
-          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
-        }
-      ],
-      "duration_ms": 139738,
-      "name": "superabundance",
-      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
     },
     {
       "added_at": "2025-01-09 14:10:42",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-01-09 14:10:42",
       "album": {
-        "name": "call me when ur lonely",
-        "url": "https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5"
-      },
-      "artists": [
-        {
-          "name": "sumthin",
-          "url": "https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd"
-        }
-      ],
-      "duration_ms": 82962,
-      "name": "sad music",
-      "url": "https://open.spotify.com/track/1mZDmX2U780ucdnGB78Qzr"
-    },
-    {
-      "added_at": "2025-01-09 14:10:42",
-      "album": {
         "name": "roadtrip",
         "url": "https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 137580,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
+    },
+    {
+      "added_at": "2025-01-09 14:10:42",
+      "album": {
+        "name": "call me when ur lonely",
+        "url": "https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5"
+      },
+      "artists": [
+        {
+          "name": "sumthin",
+          "url": "https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd"
+        }
+      ],
+      "duration_ms": 82962,
+      "name": "sad music",
+      "url": "https://open.spotify.com/track/1mZDmX2U780ucdnGB78Qzr"
     },
     {
       "added_at": "2025-01-09 14:10:42",

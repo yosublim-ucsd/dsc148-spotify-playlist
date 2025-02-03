@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-652 songs - 1 day 9 hr 7 min
+654 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Lie](https://open.spotify.com/track/6GqPqEym2wiP33hzRWdFjA) | [David Swinkels](https://open.spotify.com/artist/199zUCPodV9ira0AxnnpTz), [Thomas](https://open.spotify.com/artist/4xCYNOxexrSYnziTn5DHkW) | [A Lie](https://open.spotify.com/album/4XxzLzgn1XEUPcG25RrmlD) | 3:05 | 2024-10-14 |  |
 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-06-12 | 2024-10-15 |
 | [Accepteer de Stress](https://open.spotify.com/track/7AQK0D7AsyoyCXXTDEsxh4) | [Milan Knol](https://open.spotify.com/artist/3QPrW2AxSYf8F6cSqPceLZ) | [Accepteer de Stress](https://open.spotify.com/album/71l4yEvhNQEEMVcX3R1cVQ) | 2:08 | 2023-07-13 | 2023-07-18 |
+| [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/track/4iMT7wRGEJdLvknC3JFjwS) | [Sjorleone](https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/album/0TqtTiVPUo1CjarIxlL2DH) | 1:51 | 2025-02-02 |  |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-04 | 2024-02-09 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-13 | 2024-04-26 |
 | [Ademnood](https://open.spotify.com/track/2eDMoEp6O5taokIJa6heCj) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Magie](https://open.spotify.com/album/3yQLlokzePpTGRzYivm5RE) | 3:19 | 2024-03-21 | 2024-04-09 |
@@ -254,6 +255,7 @@
 | [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 | 2023-02-23 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-03-06 | 2024-04-17 |
 | [Hosselen](https://open.spotify.com/track/3pupFhUH3n5CfXQ8KO70S0) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Gewoon BOEF](https://open.spotify.com/album/3vJ9aTYd6r9klB1SsMcpqr) | 3:28 | 2023-05-24 | 2023-11-10 |
+| [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 | 2025-02-02 |  |
 | [Hung Up](https://open.spotify.com/track/70VjMtwhm3Q2HBQeJnPfmh) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:36 | 2024-09-17 | 2024-11-28 |
 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 | 2023-10-02 | 2023-12-15 |
 | [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:20 | 2023-07-14 | 2023-12-15 |

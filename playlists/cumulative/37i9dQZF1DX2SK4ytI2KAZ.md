@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-649 songs - 1 day 11 hr 34 min
+651 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Cardiac Arrest](https://open.spotify.com/track/3pxDFUN3LrSGq6RrUKHtaG) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Cardiac Arrest \- Single](https://open.spotify.com/album/23akFIxImoRSj5ncdx0ZMM) | 3:02 | 2021-03-10 | 2022-05-01 |
 | [Carried Away](https://open.spotify.com/track/07DWmCB9pgs6Nye0jiQut0) | [OVERSTREET](https://open.spotify.com/artist/5TGdkTyHliaYLHPGxqcSUt) | [Carried Away](https://open.spotify.com/album/3gXKO1gLcuk9zyeGwWfo1r) | 3:16 | 2021-03-10 | 2022-07-29 |
 | [Carried Away](https://open.spotify.com/track/670iB5TOAt9dGjyPFXUUiu) | [OVERSTREET](https://open.spotify.com/artist/5TGdkTyHliaYLHPGxqcSUt) | [Carried Away](https://open.spotify.com/album/5UHnIcmtWq5rldnKeDF2cc) | 3:16 | 2022-06-27 | 2023-03-29 |
-| [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 | 2024-05-05 |  |
+| [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 | 2024-05-05 | 2025-02-03 |
 | [Caught In The Middle](https://open.spotify.com/track/1SD2TWyBiComJuvPk6PfJm) | [Half the Animal](https://open.spotify.com/artist/6oHY2GHcrGTZmLZxt2xswT) | [Not Today](https://open.spotify.com/album/7bkKiSh1CFnWkl48eY8EYd) | 3:10 | 2021-03-10 | 2022-06-22 |
 | [Ceasefire](https://open.spotify.com/track/3Te0NUMofZVs1KHQgrqXVe) | [Judas](https://open.spotify.com/artist/4oEv60GQ9pJpWoU88SMwOP) | [Ceasefire](https://open.spotify.com/album/3WStXCR8KygmiP2X28J2Q5) | 3:03 | 2022-03-11 | 2022-04-21 |
 | [Cemetery](https://open.spotify.com/track/5czZkLGepjburbkbEaCfm4) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td) | 2:57 | 2021-03-10 | 2022-05-04 |
@@ -284,6 +284,7 @@
 | [I Wanna Dance With You](https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [I Wanna Dance With You](https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA) | 2:54 | 2023-02-17 | 2023-03-29 |
 | [I Wanna Get Better](https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [I Wanna Get Better](https://open.spotify.com/album/4JaTMQFdRy5TfEKs8M9Doq) | 3:24 | 2021-03-10 | 2022-05-04 |
 | [I Wanna Go Out](https://open.spotify.com/track/3yVnBKYkQR2LFEhL1htZ2G) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [I Wanna Go Out](https://open.spotify.com/album/1bHTKkjlPSNEK3i2AB8t6j) | 3:04 | 2022-03-11 | 2022-04-17 |
+| [I Want You \(Fever\)](https://open.spotify.com/track/5LLCNZ9TPe6X7BCRUMWBY2) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [I Want You \(Fever\)](https://open.spotify.com/album/1vxHtRS0NZAlYMogLwbpH9) | 3:37 | 2025-01-31 |  |
 | [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 | 2023-08-07 | 2023-10-19 |
 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 | 2023-05-31 | 2023-07-31 |
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2021-03-10 | 2022-07-29 |
@@ -333,7 +334,7 @@
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-01-21 | 2024-03-11 |
 | [Look at the Sky](https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Look at the Sky](https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y) | 5:09 | 2021-03-10 | 2023-03-29 |
 | [Look At The Time](https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Look At The Time](https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1) | 4:20 | 2024-02-27 |  |
-| [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-31 |  |
+| [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-31 | 2025-02-03 |
 | [Lose Money](https://open.spotify.com/track/5k6nFk3OyHxrZu6bHGYNan) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [teche](https://open.spotify.com/album/64tfW7uOt51l5TU7LyLgcf) | 3:06 | 2021-09-09 | 2022-05-04 |
 | [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 | 2023-11-27 |  |
 | [Loser](https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q) | 3:05 | 2022-10-07 | 2023-06-08 |
@@ -565,6 +566,7 @@
 | [Talk Too Much](https://open.spotify.com/track/7FX3ZWE70VRjsprg5oeECc) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Talk Too Much](https://open.spotify.com/album/1S6679M19iLZfuoAgtCD1g) | 3:07 | 2021-03-10 | 2022-05-04 |
 | [Talking is Hard](https://open.spotify.com/track/0r733vlPgYPpZ6y6BnFK3U) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:17 | 2021-08-13 | 2022-07-29 |
 | [Teach Me To Be Bad](https://open.spotify.com/track/2f3JUM4a2jJnmJrMvDDIpN) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Teach Me To Be Bad](https://open.spotify.com/album/5vU4w6Q0MIDvka5Y5Ae5LZ) | 2:48 | 2024-10-18 | 2025-02-01 |
+| [Telescope](https://open.spotify.com/track/3I6BZFdnhkpSlGDvTGLg6N) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Telescope](https://open.spotify.com/album/7u7J2ZsrQ5TwEGAsKfuccQ) | 3:28 | 2025-01-31 |  |
 | [Television](https://open.spotify.com/track/469PWHZlngcQyOJnGGAWzs) | [Wilmah](https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J) | [Television](https://open.spotify.com/album/5BjVFIuhhstr2pWVAUqxnb) | 3:06 | 2021-06-25 | 2022-07-29 |
 | [Tell Me Tell Me](https://open.spotify.com/track/3n0y72mRws8IZPQA0QkKEK) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Tell Me Tell Me](https://open.spotify.com/album/0XbVK5VZidNVJ66a1m6KXz) | 3:08 | 2022-03-09 | 2022-04-21 |
 | [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 | 2024-07-19 |  |

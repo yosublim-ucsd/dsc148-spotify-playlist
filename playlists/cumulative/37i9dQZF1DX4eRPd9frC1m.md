@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-391 songs - 21 hr 17 min
+392 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 | 2023-12-15 |  |
 | [Body Breaker](https://open.spotify.com/track/6ViOxqq7aLe3lnfVTXH8LI) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Body Breaker](https://open.spotify.com/album/3iuQ6wqOmB3c4Bm9We7hRS) | 3:04 | 2022-06-10 | 2023-04-29 |
 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 | 2022-06-17 | 2023-03-10 |
-| [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-13 |  |
+| [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-13 | 2025-02-03 |
 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 | 2023-07-07 | 2024-09-01 |
 | [Bread](https://open.spotify.com/track/4faOZ6IoasobnFNB2PAaYx) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Bread](https://open.spotify.com/album/3d4L0bShdwPHwnQkbRKYaF) | 2:52 | 2021-11-19 | 2022-01-08 |
 | [Bunker Buster](https://open.spotify.com/track/4sIb34wgeE5G0XXGTrpERP) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Bunker Buster](https://open.spotify.com/album/41mKx6GIJU5WuxO6ucgvRa) | 3:53 | 2021-11-19 | 2022-01-08 |
@@ -390,6 +390,7 @@
 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 | 2024-04-05 |  |
 | [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 | 2023-06-09 |  |
 | [Who Run Dis](https://open.spotify.com/track/4YqiqOr3raVtOeA0moroQP) | [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Who Run Dis](https://open.spotify.com/album/63ANwKD831AL1Y6o57875Q) | 3:40 | 2022-05-06 | 2022-07-24 |
+| [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 | 2025-01-31 |  |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-03-30 |
 | [Wicked Witch](https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [String Theory](https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121) | 3:12 | 2021-11-19 | 2022-01-08 |
 | [with vengeance](https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [with vengeance](https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK) | 3:20 | 2024-06-17 | 2024-08-30 |

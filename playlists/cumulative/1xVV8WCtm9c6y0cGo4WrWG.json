@@ -4099,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "pop",
+        "url": "https://open.spotify.com/album/5HtZb8vYuUU788VPRCXUxH"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2025-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175257,
+      "name": "pop",
+      "url": "https://open.spotify.com/track/1P9AOBEfNAfKsYAmN5nP6h"
+    },
+    {
+      "album": {
         "name": "PORSCHE TOPLESS",
         "url": "https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn"
       },
@@ -6126,7 +6144,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-03",
       "duration_ms": 200771,
       "name": "WTW",
       "url": "https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn"

@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 97316,
+  "num_followers": 97329,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "\u81ea\u5b9a\u7fa9",
-        "url": "https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD"
-      },
-      "artists": [
-        {
-          "name": "\u8a31\u5d69",
-          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
-        }
-      ],
-      "duration_ms": 240027,
-      "name": "\u6709\u4f55\u4e0d\u53ef",
-      "url": "https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
         "url": "https://open.spotify.com/album/0SaL2FBYObFbkhRisnIhag"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 162762,
       "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
       "url": "https://open.spotify.com/track/18MWw902cGonMsCbWjoJkZ"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "\u81ea\u5b9a\u7fa9",
+        "url": "https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD"
+      },
+      "artists": [
+        {
+          "name": "\u8a31\u5d69",
+          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
+        }
+      ],
+      "duration_ms": 240027,
+      "name": "\u6709\u4f55\u4e0d\u53ef",
+      "url": "https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "\u6efe\u77f3\u9999\u6e2f\u9ec3\u91d1\u5341\u5e74-\u4efb\u8ce2\u9f4a\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL"
-      },
-      "artists": [
-        {
-          "name": "Richie Jen",
-          "url": "https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "\u5c0d\u9762\u7684\u5973\u5b69\u770b\u904e\u4f86",
-      "url": "https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "Till We Fall in Love",
         "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 240283,
       "name": "Till We Fall in Love",
       "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "\u6efe\u77f3\u9999\u6e2f\u9ec3\u91d1\u5341\u5e74-\u4efb\u8ce2\u9f4a\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL"
+      },
+      "artists": [
+        {
+          "name": "Richie Jen",
+          "url": "https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "\u5c0d\u9762\u7684\u5973\u5b69\u770b\u904e\u4f86",
+      "url": "https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "\u505a\u6211\u7684\u8c93",
-        "url": "https://open.spotify.com/album/0KjE00V0E6lIsqCbsr7Ukv"
-      },
-      "artists": [
-        {
-          "name": "HowZ",
-          "url": "https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE"
-        }
-      ],
-      "duration_ms": 234315,
-      "name": "\u505a\u6211\u7684\u8c93",
-      "url": "https://open.spotify.com/track/51XbIeW3UFnpXuJu8gMwK5"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "\u80fd\u4e0d\u80fd",
         "url": "https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 175062,
       "name": "\u80fd\u4e0d\u80fd",
       "url": "https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "\u505a\u6211\u7684\u8c93",
+        "url": "https://open.spotify.com/album/0KjE00V0E6lIsqCbsr7Ukv"
+      },
+      "artists": [
+        {
+          "name": "HowZ",
+          "url": "https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE"
+        }
+      ],
+      "duration_ms": 234315,
+      "name": "\u505a\u6211\u7684\u8c93",
+      "url": "https://open.spotify.com/track/51XbIeW3UFnpXuJu8gMwK5"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
-      },
-      "artists": [
-        {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
-        }
-      ],
-      "duration_ms": 244690,
-      "name": "\u5169\u96bb\u6200\u4eba",
-      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "Call me bae",
         "url": "https://open.spotify.com/album/7mRQ5QMXXvdvpdg8Mb2NBo"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 216000,
       "name": "Call me bae",
       "url": "https://open.spotify.com/track/0axuBJII4kOrI958dT5djA"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "\u5169\u96bb\u6200\u4eba",
+      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "fill me in love",
-        "url": "https://open.spotify.com/album/0ZX1injt006uMBLj3rRaxj"
-      },
-      "artists": [
-        {
-          "name": "Lu Han",
-          "url": "https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO"
-        }
-      ],
-      "duration_ms": 175050,
-      "name": "fill me in love",
-      "url": "https://open.spotify.com/track/4wE1y97uzWQTFrkFwKFuQ8"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "\u60f3\u548c\u4f60",
         "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 183428,
       "name": "\u60f3\u548c\u4f60",
       "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "fill me in love",
+        "url": "https://open.spotify.com/album/0ZX1injt006uMBLj3rRaxj"
+      },
+      "artists": [
+        {
+          "name": "Lu Han",
+          "url": "https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO"
+        }
+      ],
+      "duration_ms": 175050,
+      "name": "fill me in love",
+      "url": "https://open.spotify.com/track/4wE1y97uzWQTFrkFwKFuQ8"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
+        "name": "Yes, I Do",
+        "url": "https://open.spotify.com/album/4vMmLt7csGlAiuPZZOo7Eg"
+      },
+      "artists": [
+        {
+          "name": "\u60f3\u7834\u982d",
+          "url": "https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW"
+        }
+      ],
+      "duration_ms": 249734,
+      "name": "Yes, I Do",
+      "url": "https://open.spotify.com/track/2CivIhGFj0CPPuDTh4d3S7"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4eba\u751f\u6307\u5357",
         "url": "https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 227200,
       "name": "\u4ec0\u4e48\u8ddf\u4ec0\u4e48\u6709\u4ec0\u4e48\u5173\u7cfb",
       "url": "https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
-        "name": "Yes, I Do",
-        "url": "https://open.spotify.com/album/4vMmLt7csGlAiuPZZOo7Eg"
-      },
-      "artists": [
-        {
-          "name": "\u60f3\u7834\u982d",
-          "url": "https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW"
-        }
-      ],
-      "duration_ms": 249734,
-      "name": "Yes, I Do",
-      "url": "https://open.spotify.com/track/2CivIhGFj0CPPuDTh4d3S7"
     },
     {
       "added_at": "2025-01-23 16:00:03",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd"
+      },
+      "artists": [
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        }
+      ],
+      "duration_ms": 180467,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
         "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
         "url": "https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd"
-      },
-      "artists": [
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        }
-      ],
-      "duration_ms": 180467,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "\u8bf4\u7231\u4f60 (\u7537\u751f\u7248)",
         "url": "https://open.spotify.com/album/62tQtda36PFAcFqKiYv4Ts"
       },
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-01-23 16:00:03",
       "album": {
-        "name": "\u66fc\u714e\u7cd5",
-        "url": "https://open.spotify.com/album/7HJXf0UTyN6rqV9yJLLyVw"
-      },
-      "artists": [
-        {
-          "name": "Jestinna Kuan",
-          "url": "https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2"
-        },
-        {
-          "name": "Danny Lee",
-          "url": "https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6"
-        }
-      ],
-      "duration_ms": 199001,
-      "name": "\u66fc\u714e\u7cd5",
-      "url": "https://open.spotify.com/track/5sllnFvJeEIi6Nahng3FBX"
-    },
-    {
-      "added_at": "2025-01-23 16:00:03",
-      "album": {
         "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 (HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2)",
         "url": "https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t"
       },
@@ -1299,6 +1279,22 @@
       "duration_ms": 204291,
       "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
+    },
+    {
+      "added_at": "2025-01-23 16:00:03",
+      "album": {
+        "name": "\u4e45\u7b49\u4e86\uff0c\u4eb2\u7231\u7684",
+        "url": "https://open.spotify.com/album/3HKLf05VUYXUTsShq0yLXV"
+      },
+      "artists": [
+        {
+          "name": "Caven Tang",
+          "url": "https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF"
+        }
+      ],
+      "duration_ms": 217006,
+      "name": "\u4e45\u7b49\u4e86\uff0c\u4eb2\u7231\u7684",
+      "url": "https://open.spotify.com/track/6KlxdtC8h0i5DbvM7GqBpH"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 121380,
+  "num_followers": 121430,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Born Wit It (Bumpa Riddim)",
+        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 202448,
+      "name": "Born Wit It (Bumpa Riddim)",
+      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -103,6 +119,22 @@
       "duration_ms": 274600,
       "name": "Wukking Up",
       "url": "https://open.spotify.com/track/4IXdZ1ko9XR6G4PM9xAZNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -139,38 +171,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Born Wit It (Bumpa Riddim)",
-        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 202448,
-      "name": "Born Wit It (Bumpa Riddim)",
-      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca 101 Vol.2",
         "url": "https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 292986,
       "name": "Big Belly Man",
       "url": "https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Gilded Collection 1986 - 1989",
+        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
+      },
+      "artists": [
+        {
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+        }
+      ],
+      "duration_ms": 433266,
+      "name": "Calypso Music",
+      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -223,22 +239,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Gilded Collection 1986 - 1989",
-        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
-      },
-      "artists": [
-        {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
-        }
-      ],
-      "duration_ms": 433266,
-      "name": "Calypso Music",
-      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 253253,
       "name": "Feels Like I'm Home Again",
       "url": "https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -287,18 +303,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+        "name": "The Gilded Collection 1986 - 1989",
+        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
       },
       "artists": [
         {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Togetherness",
-      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
+      "duration_ms": 309373,
+      "name": "The Hammer",
+      "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -315,22 +331,6 @@
       "duration_ms": 254640,
       "name": "Soka Junkie",
       "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "The Gilded Collection 1986 - 1989",
-        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
-      },
-      "artists": [
-        {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
-        }
-      ],
-      "duration_ms": 309373,
-      "name": "The Hammer",
-      "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca for De World",
-        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
-      },
-      "artists": [
-        {
-          "name": "Nigel Lewis",
-          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
-        }
-      ],
-      "duration_ms": 317857,
-      "name": "Movin To De Left",
-      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2",
         "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
@@ -395,6 +379,38 @@
       "duration_ms": 372000,
       "name": "Doh Back Back",
       "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Gilded Collection 1986 - 1989",
+        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
+      },
+      "artists": [
+        {
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+        }
+      ],
+      "duration_ms": 345373,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca for De World",
+        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
+      },
+      "artists": [
+        {
+          "name": "Nigel Lewis",
+          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
+        }
+      ],
+      "duration_ms": 317857,
+      "name": "Movin To De Left",
+      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -475,22 +491,6 @@
       "duration_ms": 195400,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "The Gilded Collection 1986 - 1989",
-        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
-      },
-      "artists": [
-        {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
-        }
-      ],
-      "duration_ms": 345373,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Trini Gold",
-        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
-      },
-      "artists": [
-        {
-          "name": "Superblue",
-          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Tribute to Sundar",
-      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 410573,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Trini Gold",
+        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
+      },
+      "artists": [
+        {
+          "name": "Superblue",
+          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Tribute to Sundar",
+      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1111,6 +1111,46 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "X Man",
+        "url": "https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp"
+      },
+      "artists": [
+        {
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+        }
+      ],
+      "duration_ms": 221776,
+      "name": "X Man",
+      "url": "https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Wining Season",
+        "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Defense (The Anthem) (feat. Lil Jon)",
+      "url": "https://open.spotify.com/track/4XfHo2SjVk7c6WeVxPDMYK"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Get Soca 2017",
         "url": "https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG"
       },
@@ -1139,38 +1179,6 @@
       "duration_ms": 232500,
       "name": "Full Extreme",
       "url": "https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "X Man",
-        "url": "https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp"
-      },
-      "artists": [
-        {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
-        }
-      ],
-      "duration_ms": 221776,
-      "name": "X Man",
-      "url": "https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 218549,
-      "name": "Happiest Man Alive",
-      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1239,26 +1247,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Heavy Duty",
-        "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
       },
@@ -1271,6 +1259,22 @@
       "duration_ms": 255093,
       "name": "Thelma",
       "url": "https://open.spotify.com/track/5ZPN4WWRRN0R0QavqpVV7i"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 218549,
+      "name": "Happiest Man Alive",
+      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
     },
     {
       "added_at": "2024-08-06 01:00:53",

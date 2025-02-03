@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 763 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 |
 | 50 | [Така съм аз, така си ти](https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4) | [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK), [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt) | [Така съм аз, така си ти](https://open.spotify.com/album/4LkLJgHZ9HnFHnLcHYn6Ed) | 2:52 |
 
-Snapshot ID: `LzGLyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzLdSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

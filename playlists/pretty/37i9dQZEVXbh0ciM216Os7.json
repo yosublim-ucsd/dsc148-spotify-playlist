@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABAtWkDUorWCSRhMq/U7Ozm",
+  "snapshot_id": "AAAAAAAAAABOx3iQer6mFAbFbwqgc470",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+    },
+    {
+      "added_at": "2025-01-31 05:00:00",
+      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -63,6 +79,26 @@
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "added_at": "2025-01-31 05:00:00",
+      "album": {
+        "name": "In Waves (Deluxe)",
+        "url": "https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 217074,
+      "name": "F.U.",
+      "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
     },
     {
       "added_at": "2025-01-31 05:00:00",
@@ -107,46 +143,22 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
-        "name": "In Waves (Deluxe)",
-        "url": "https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS"
+        "name": "The Game is Real",
+        "url": "https://open.spotify.com/album/6Uy6YIFAG4O1GpzqA90gXx"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Eric Leo 108",
+          "url": "https://open.spotify.com/artist/1rZN0phOseB2V5JmKD7nuE"
         },
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 217074,
-      "name": "F.U.",
-      "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
-    },
-    {
-      "added_at": "2025-01-31 05:00:00",
-      "album": {
-        "name": "WCKR Radio 90's Freestyles (Vol. 1)",
-        "url": "https://open.spotify.com/album/5ohjJufzaps2DTo9fcDUKu"
-      },
-      "artists": [
-        {
-          "name": "D.J. Stretch Armstrong",
-          "url": "https://open.spotify.com/artist/4bkFQ1ndjjZzt348qd4YYh"
-        },
-        {
-          "name": "Bobbito Garcia",
-          "url": "https://open.spotify.com/artist/59h4BC2kewGgsTSfgnarda"
-        },
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        }
-      ],
-      "duration_ms": 419160,
-      "name": "Wu '93 Freestyle",
-      "url": "https://open.spotify.com/track/16UI6VhKYO69h3VEiiuel0"
+      "duration_ms": 168000,
+      "name": "The Game is Real",
+      "url": "https://open.spotify.com/track/7FNcrbE0wcWiTDa58DLJIC"
     },
     {
       "added_at": "2025-01-31 05:00:00",
@@ -175,18 +187,26 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
-        "name": "I'm The Problem",
-        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+        "name": "WCKR Radio 90's Freestyles (Vol. 1)",
+        "url": "https://open.spotify.com/album/5ohjJufzaps2DTo9fcDUKu"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "D.J. Stretch Armstrong",
+          "url": "https://open.spotify.com/artist/4bkFQ1ndjjZzt348qd4YYh"
+        },
+        {
+          "name": "Bobbito Garcia",
+          "url": "https://open.spotify.com/artist/59h4BC2kewGgsTSfgnarda"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         }
       ],
-      "duration_ms": 177811,
-      "name": "I'm The Problem",
-      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+      "duration_ms": 419160,
+      "name": "Wu '93 Freestyle",
+      "url": "https://open.spotify.com/track/16UI6VhKYO69h3VEiiuel0"
     },
     {
       "added_at": "2025-01-31 05:00:00",
@@ -219,26 +239,6 @@
       "duration_ms": 567386,
       "name": "WCKR Freestyle",
       "url": "https://open.spotify.com/track/2YzyHnmkX4nHsc2ejwFM6M"
-    },
-    {
-      "added_at": "2025-01-31 05:00:00",
-      "album": {
-        "name": "The Game is Real",
-        "url": "https://open.spotify.com/album/6Uy6YIFAG4O1GpzqA90gXx"
-      },
-      "artists": [
-        {
-          "name": "Eric Leo 108",
-          "url": "https://open.spotify.com/artist/1rZN0phOseB2V5JmKD7nuE"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "The Game is Real",
-      "url": "https://open.spotify.com/track/7FNcrbE0wcWiTDa58DLJIC"
     },
     {
       "added_at": "2025-01-31 05:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
-        "name": "Sports car",
-        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Sports car",
-      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
-    },
-    {
-      "added_at": "2025-01-31 05:00:00",
-      "album": {
         "name": "Fat Juicy & Wet",
         "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
-        "name": "Glass Shatters (New Mix)",
-        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
+        "name": "Sports car",
+        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 244397,
-      "name": "Glass Shatters - New Mix",
-      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
     },
     {
       "added_at": "2025-01-31 05:00:00",
@@ -411,6 +395,22 @@
       "duration_ms": 153250,
       "name": "Alter Ego (feat. Eminem)",
       "url": "https://open.spotify.com/track/4fchxVAOV4T6fkaL8jkNou"
+    },
+    {
+      "added_at": "2025-01-31 05:00:00",
+      "album": {
+        "name": "Glass Shatters (New Mix)",
+        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 244397,
+      "name": "Glass Shatters - New Mix",
+      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
     },
     {
       "added_at": "2025-01-31 05:00:00",
@@ -483,6 +483,30 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
+        "name": "Lionel Rich",
+        "url": "https://open.spotify.com/album/5BgQiIOWb0THI1yWgiah4H"
+      },
+      "artists": [
+        {
+          "name": "jacuzzi jefferson",
+          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
+        },
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 108280,
+      "name": "Lionel Rich",
+      "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
+    },
+    {
+      "added_at": "2025-01-31 05:00:00",
+      "album": {
         "name": "The Move",
         "url": "https://open.spotify.com/album/1LlT9ujGNiDPGGOC7ID9D4"
       },
@@ -511,26 +535,22 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
-        "name": "Lionel Rich",
-        "url": "https://open.spotify.com/album/5BgQiIOWb0THI1yWgiah4H"
+        "name": "Thrill Seeker: 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
       },
       "artists": [
         {
-          "name": "jacuzzi jefferson",
-          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
         },
         {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Adam Dutkiewicz",
+          "url": "https://open.spotify.com/artist/7MQmvww3EAbsmv7p1O0ufN"
         }
       ],
-      "duration_ms": 108280,
-      "name": "Lionel Rich",
-      "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
+      "duration_ms": 243281,
+      "name": "Speech Impediment",
+      "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
     },
     {
       "added_at": "2025-01-31 05:00:00",
@@ -555,26 +575,6 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
-        "name": "Thrill Seeker: 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Adam Dutkiewicz",
-          "url": "https://open.spotify.com/artist/7MQmvww3EAbsmv7p1O0ufN"
-        }
-      ],
-      "duration_ms": 243281,
-      "name": "Speech Impediment",
-      "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
-    },
-    {
-      "added_at": "2025-01-31 05:00:00",
-      "album": {
         "name": "The Call That Never Ended, Pt. 1",
         "url": "https://open.spotify.com/album/01CTkUKTpiRO6XCAoJH9F4"
       },
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 138650,
-      "name": "First Call",
-      "url": "https://open.spotify.com/track/2Beinc5X8shuSQHb9Z8bKp"
+      "duration_ms": 105048,
+      "name": "Baawe She Callin",
+      "url": "https://open.spotify.com/track/1cgtnrPjZpHdeRkIrSiFsc"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",
