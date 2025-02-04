@@ -1,33 +1,13 @@
 {
-  "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 48626,
-  "original_name": "Minimal Tech",
+  "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f with Chris Stussy",
+  "num_followers": 48657,
+  "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z50GsQAAAAC7alWH6rFZZaf/5DteSsAx",
+  "snapshot_id": "Z6FA/wAAAABL8LVJjxWbUajfIF9Y8wBI",
   "tracks": [
-    {
-      "added_at": "2024-12-31 01:32:19",
-      "album": {
-        "name": "Vintage Culture & Friends, Vol. 6 (Pt. II)",
-        "url": "https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
-        }
-      ],
-      "duration_ms": 197460,
-      "name": "Analog Ascent",
-      "url": "https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F"
-    },
     {
       "added_at": "2025-01-24 05:00:51",
       "album": {
@@ -63,6 +43,22 @@
     {
       "added_at": "2025-01-31 05:00:36",
       "album": {
+        "name": "It's About Us",
+        "url": "https://open.spotify.com/album/1obE6RQ5LGUFgIhvfg35e6"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 232790,
+      "name": "It's About Us",
+      "url": "https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT"
+    },
+    {
+      "added_at": "2025-01-31 05:00:36",
+      "album": {
         "name": "Step By Step",
         "url": "https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO"
       },
@@ -75,6 +71,26 @@
       "duration_ms": 179779,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8"
+    },
+    {
+      "added_at": "2024-12-31 01:32:19",
+      "album": {
+        "name": "Vintage Culture & Friends, Vol. 6 (Pt. II)",
+        "url": "https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "duration_ms": 197460,
+      "name": "Analog Ascent",
+      "url": "https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -91,30 +107,6 @@
       "duration_ms": 218181,
       "name": "Paula Abdul",
       "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Different Side",
-        "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
-        },
-        {
-          "name": "Audio Bullys",
-          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
-        }
-      ],
-      "duration_ms": 193710,
-      "name": "Different Side",
-      "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -193,20 +185,24 @@
       "url": "https://open.spotify.com/track/08YpwzuwC4vtmcCJnk3pqA"
     },
     {
-      "added_at": "2025-01-31 17:21:53",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Superstyler",
-        "url": "https://open.spotify.com/album/3PCB4JPS4lx1k58dm3VZCK"
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/4zplw0xNTYIa6AWSNtEmC7"
       },
       "artists": [
         {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+          "name": "Goosey",
+          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
+        },
+        {
+          "name": "Mattia Scolaro",
+          "url": "https://open.spotify.com/artist/76v943xhTKzJCZuFT4QU1x"
         }
       ],
-      "duration_ms": 362536,
-      "name": "Superstyler",
-      "url": "https://open.spotify.com/track/2lwpEHtMIce18cnwRl0QB2"
+      "duration_ms": 205161,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/1tXc3MKP0xGeKCN2RD3ryF"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -293,24 +289,20 @@
       "url": "https://open.spotify.com/track/4sD8IER4xBNH6Onug5klHU"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2025-01-31 17:21:53",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/4zplw0xNTYIa6AWSNtEmC7"
+        "name": "Superstyler",
+        "url": "https://open.spotify.com/album/3PCB4JPS4lx1k58dm3VZCK"
       },
       "artists": [
         {
-          "name": "Goosey",
-          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
-        },
-        {
-          "name": "Mattia Scolaro",
-          "url": "https://open.spotify.com/artist/76v943xhTKzJCZuFT4QU1x"
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/1tXc3MKP0xGeKCN2RD3ryF"
+      "duration_ms": 362536,
+      "name": "Superstyler",
+      "url": "https://open.spotify.com/track/2lwpEHtMIce18cnwRl0QB2"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -381,20 +373,20 @@
       "url": "https://open.spotify.com/track/2iAIllzzMRPryiRdebB9fi"
     },
     {
-      "added_at": "2025-01-31 17:21:53",
+      "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Skywalker",
-        "url": "https://open.spotify.com/album/56DpIpJOy5mz32mnIHWMu8"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5SZ0DESHbdeXHFATCtcORR"
       },
       "artists": [
         {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+          "name": "Sloujin",
+          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
         }
       ],
-      "duration_ms": 193282,
-      "name": "Skywalker",
-      "url": "https://open.spotify.com/track/4JQW1oYdF18vblyN48FBxP"
+      "duration_ms": 194109,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7vvcLryn7Ty6BC4xt0rAqy"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -577,20 +569,24 @@
       "url": "https://open.spotify.com/track/0eqa1ZYTJEDJy1UHIpTelr"
     },
     {
-      "added_at": "2025-01-10 05:00:18",
+      "added_at": "2025-02-03 15:49:30",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/5SZ0DESHbdeXHFATCtcORR"
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/14zX7DbCA9NLaKUGdwnL3O"
       },
       "artists": [
         {
-          "name": "Sloujin",
-          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
+          "name": "Nathan Barato",
+          "url": "https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4"
+        },
+        {
+          "name": "Sasha GiGi",
+          "url": "https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5"
         }
       ],
-      "duration_ms": 194109,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7vvcLryn7Ty6BC4xt0rAqy"
+      "duration_ms": 357674,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/06wZg9GZN98e7ZxQRDXRD9"
     },
     {
       "added_at": "2025-01-07 21:49:06",
@@ -661,20 +657,20 @@
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
-      "added_at": "2025-01-31 05:00:36",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "It's About Us",
-        "url": "https://open.spotify.com/album/1obE6RQ5LGUFgIhvfg35e6"
+        "name": "Misleading",
+        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         }
       ],
-      "duration_ms": 232790,
-      "name": "It's About Us",
-      "url": "https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT"
+      "duration_ms": 187365,
+      "name": "Misleading",
+      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
     },
     {
       "added_at": "2024-12-23 20:42:56",
@@ -713,20 +709,20 @@
       "url": "https://open.spotify.com/track/2tDxRJuCgfDf9rcb00B3Hs"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Misleading",
-        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
+        "name": "Won't Stop (Don't)",
+        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
       },
       "artists": [
         {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
         }
       ],
-      "duration_ms": 187365,
-      "name": "Misleading",
-      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
+      "duration_ms": 233306,
+      "name": "Won't Stop (Don't)",
+      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -747,8 +743,52 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Trip Advisor EP",
-        "url": "https://open.spotify.com/album/1410SX4Jl2z7RmU7uP1zH8"
+        "name": "Different Side",
+        "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        },
+        {
+          "name": "Audio Bullys",
+          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
+        }
+      ],
+      "duration_ms": 193710,
+      "name": "Different Side",
+      "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
+    },
+    {
+      "added_at": "2025-01-31 05:00:36",
+      "album": {
+        "name": "All You People Bring It Back",
+        "url": "https://open.spotify.com/album/20TVdL3l9QskriR9dp5HAg"
+      },
+      "artists": [
+        {
+          "name": "Rui Da Silva",
+          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
+        },
+        {
+          "name": "Cosmic Bambino",
+          "url": "https://open.spotify.com/artist/3tlaw59uwBVCYiuL8hXJ8z"
+        }
+      ],
+      "duration_ms": 355275,
+      "name": "All You People Bring It Back",
+      "url": "https://open.spotify.com/track/2pOBrqAoAcatWGBXLowqx8"
+    },
+    {
+      "added_at": "2025-01-31 17:21:53",
+      "album": {
+        "name": "Skywalker",
+        "url": "https://open.spotify.com/album/56DpIpJOy5mz32mnIHWMu8"
       },
       "artists": [
         {
@@ -756,9 +796,29 @@
           "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Trip Advisor (Rhythm, Snare, Bass)",
-      "url": "https://open.spotify.com/track/5kimJnpTUUYKMs8wccI0w2"
+      "duration_ms": 193282,
+      "name": "Skywalker",
+      "url": "https://open.spotify.com/track/4JQW1oYdF18vblyN48FBxP"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/4Zzp3MGr2M5rMF1oDxZ8mz"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 196850,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -785,24 +845,20 @@
       "url": "https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL"
     },
     {
-      "added_at": "2025-01-31 05:00:36",
+      "added_at": "2025-02-03 15:49:30",
       "album": {
-        "name": "All You People Bring It Back",
-        "url": "https://open.spotify.com/album/20TVdL3l9QskriR9dp5HAg"
+        "name": "Okay Alright",
+        "url": "https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv"
       },
       "artists": [
         {
-          "name": "Rui Da Silva",
-          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
-        },
-        {
-          "name": "Cosmic Bambino",
-          "url": "https://open.spotify.com/artist/3tlaw59uwBVCYiuL8hXJ8z"
+          "name": "Alan Nieves",
+          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
         }
       ],
-      "duration_ms": 355275,
-      "name": "All You People Bring It Back",
-      "url": "https://open.spotify.com/track/2pOBrqAoAcatWGBXLowqx8"
+      "duration_ms": 368034,
+      "name": "Okay Alright",
+      "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -841,20 +897,20 @@
       "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+        "name": "Trip Advisor EP",
+        "url": "https://open.spotify.com/album/1410SX4Jl2z7RmU7uP1zH8"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
         }
       ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
+      "duration_ms": 205714,
+      "name": "Trip Advisor (Rhythm, Snare, Bass)",
+      "url": "https://open.spotify.com/track/5kimJnpTUUYKMs8wccI0w2"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -905,10 +961,10 @@
       "url": "https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW"
     },
     {
-      "added_at": "2024-11-06 22:50:08",
+      "added_at": "2025-02-03 22:19:43",
       "album": {
-        "name": "FREAK IN THE SHEETS",
-        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
+        "name": "Don't Touch That Dial EP",
+        "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
       },
       "artists": [
         {
@@ -916,9 +972,9 @@
           "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 193500,
-      "name": "FREAK IN THE SHEETS",
-      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
+      "duration_ms": 214000,
+      "name": "Listen To The Bass",
+      "url": "https://open.spotify.com/track/2Izxb9M06Te9rXNZ0LP6QY"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -999,26 +1055,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/4Zzp3MGr2M5rMF1oDxZ8mz"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 196850,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "KILO (Beltran Remix)",
         "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
       },
@@ -1043,6 +1079,38 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Bass Up To The Top",
+        "url": "https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "Bass Up To The Top",
+      "url": "https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "FREAK IN THE SHEETS",
+        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "FREAK IN THE SHEETS",
+      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Bump Artist EP",
         "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
       },
@@ -1061,38 +1129,6 @@
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
     },
     {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Bass Up To The Top",
-        "url": "https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "Bass Up To The Top",
-      "url": "https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Little Man (Proud Of You)",
-        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 120902,
-      "name": "Little Man (Proud Of You)",
-      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
-    },
-    {
       "added_at": "2024-11-13 17:19:58",
       "album": {
         "name": "First Light",
@@ -1107,6 +1143,22 @@
       "duration_ms": 238153,
       "name": "First Light",
       "url": "https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd"
+    },
+    {
+      "added_at": "2024-12-13 05:00:18",
+      "album": {
+        "name": "Won't Stop (Don't) - EP",
+        "url": "https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 231972,
+      "name": "What Are You Waiting For - Sunrise Mix",
+      "url": "https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1147,66 +1199,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+        "name": "Little Man (Proud Of You)",
+        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Its Time to Move",
-        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 162125,
-      "name": "Its Time to Move",
-      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Won't Stop (Don't) - EP",
-        "url": "https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 231972,
-      "name": "What Are You Waiting For - Sunrise Mix",
-      "url": "https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7"
-    },
-    {
-      "added_at": "2024-11-30 00:43:23",
-      "album": {
-        "name": "Take You On A Ride",
-        "url": "https://open.spotify.com/album/5toTQhxSjfy0rMaqbOBajk"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Take You On A Ride",
-      "url": "https://open.spotify.com/track/0EHYJC5x9CNKumQe8WJA6k"
+      "duration_ms": 120902,
+      "name": "Little Man (Proud Of You)",
+      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
     },
     {
       "added_at": "2024-12-13 05:00:18",
@@ -1227,6 +1231,38 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2024-11-30 00:43:23",
+      "album": {
+        "name": "Take You On A Ride",
+        "url": "https://open.spotify.com/album/5toTQhxSjfy0rMaqbOBajk"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Take You On A Ride",
+      "url": "https://open.spotify.com/track/0EHYJC5x9CNKumQe8WJA6k"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "On Deck",
         "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
       },
@@ -1239,6 +1275,22 @@
       "duration_ms": 198187,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Its Time to Move",
+        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 162125,
+      "name": "Its Time to Move",
+      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1293,26 +1345,6 @@
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Mezcal Bounce",
-        "url": "https://open.spotify.com/album/2aJEt3IXffsdzso2o80yQa"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        },
-        {
-          "name": "Kidoo",
-          "url": "https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Mezcal Bounce",
-      "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
-    },
-    {
       "added_at": "2024-11-06 22:50:08",
       "album": {
         "name": "Reso Riddim EP",
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
       },
@@ -1359,6 +1375,22 @@
       "duration_ms": 481920,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1407,6 +1439,26 @@
       "duration_ms": 165581,
       "name": "Sample Inspector",
       "url": "https://open.spotify.com/track/0o7rsjC9mkIMGitGsCV8h9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Mezcal Bounce",
+        "url": "https://open.spotify.com/album/2aJEt3IXffsdzso2o80yQa"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Kidoo",
+          "url": "https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Mezcal Bounce",
+      "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1511,22 +1563,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "The Rider",
-        "url": "https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 342790,
-      "name": "The Rider",
-      "url": "https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Im so Wavy",
         "url": "https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18"
       },
@@ -1543,6 +1579,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "The Rider",
+        "url": "https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "duration_ms": 342790,
+      "name": "The Rider",
+      "url": "https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Nothing Hurts",
         "url": "https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH"
       },
@@ -1555,22 +1607,6 @@
       "duration_ms": 189375,
       "name": "Nothing Hurts",
       "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Go Deeper EP",
-        "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 202781,
-      "name": "Go Deeper",
-      "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1595,22 +1631,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Journey LP",
-        "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 205039,
-      "name": "FUTUR",
-      "url": "https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Whatchagonnado EP",
         "url": "https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV"
       },
@@ -1623,6 +1643,22 @@
       "duration_ms": 277500,
       "name": "Whatchagonnado",
       "url": "https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Go Deeper EP",
+        "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 202781,
+      "name": "Go Deeper",
+      "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1707,44 +1743,8 @@
       "duration_ms": 373920,
       "name": "In You",
       "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "venus' secret",
-        "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
-      },
-      "artists": [
-        {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
-        },
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 200465,
-      "name": "venus' secret",
-      "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "ENDZ058",
-        "url": "https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi"
-      },
-      "artists": [
-        {
-          "name": "DXNBY",
-          "url": "https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8"
-        }
-      ],
-      "duration_ms": 374754,
-      "name": "Bumpin'",
-      "url": "https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a"
     }
   ],
-  "unique_name": "Minimal Tech",
+  "unique_name": "Deep & Minimal",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSI21IGRaeuC"
 }

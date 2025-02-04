@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-2,897 songs - 6 day 15 hr 51 min
+2,898 songs - 6 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Abendua \(feat\. En Tol Sarmiento\)](https://open.spotify.com/track/4T5cR0RE5GwGbrHHluAv3p) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO), [En Tol Sarmiento](https://open.spotify.com/artist/1Z6pq36YGnX2ODcUbV4tgQ) | [Abendua \(feat\. En Tol Sarmiento\)](https://open.spotify.com/album/2xiQrKzfIMi2qFaIBeiibU) | 3:24 | 2025-01-31 |  |
 | [Abigail](https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Abigail](https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5) | 3:07 | 2024-10-23 | 2024-11-09 |
 | [About to Lose](https://open.spotify.com/track/3qMNvUXMwoRBcNZxp9dAzN) | [Autre Ne Veut](https://open.spotify.com/artist/7MC5zmK3iZHzPqGZEVSROe) | [About to Lose](https://open.spotify.com/album/1Jvnn3TbjbrAC4X0cePUaL) | 4:56 | 2024-09-05 | 2024-09-14 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-03 |  |
 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 | 2024-08-30 | 2024-09-07 |
 | [abrigo](https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [abrigo](https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa) | 2:49 | 2024-10-25 | 2024-11-09 |
 | [Acción](https://open.spotify.com/track/3aI4QJH9QFVwy8LgH21q4D) | [BARGO](https://open.spotify.com/artist/3g1yH2VdcsFDZlneckOrtW) | [Acción](https://open.spotify.com/album/7xC0kE80JrWNZa4tohIqFQ) | 2:42 | 2024-11-21 | 2024-11-30 |
@@ -2603,7 +2604,7 @@
 | [toothache](https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [toothache](https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4) | 3:28 | 2024-09-27 | 2024-10-05 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-24 | 2024-06-12 |
 | [Tormenta](https://open.spotify.com/track/2gllHxMLYezYl0Tv54f27s) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Tormenta](https://open.spotify.com/album/4lh5sOBIEGLFNL48uDuQhf) | 3:20 | 2024-04-26 | 2024-05-10 |
-| [Tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-31 |  |
+| [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-31 |  |
 | [Tormenta Perfecta](https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp) | [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [Tormenta Perfecta](https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n) | 3:57 | 2024-11-01 | 2024-11-09 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-05-18 |
 | [Tot el que puja baixa](https://open.spotify.com/track/04TJkm3QwxOdRZilXzuwvL) | [Pau Vallvé](https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s) | [Agorafília](https://open.spotify.com/album/2fLE99aVBoCZtvhdkAzeTC) | 4:19 | 2024-10-25 | 2024-11-09 |

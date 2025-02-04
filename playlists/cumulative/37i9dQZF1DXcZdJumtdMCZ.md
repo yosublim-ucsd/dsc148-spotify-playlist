@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Hip Hop Tamizha
 
-157 songs - 9 hr 29 min
+158 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Showkali \(From "Achcham Yenbadhu Madamaiyada"\)](https://open.spotify.com/track/5RJck8e9eBWGwz0rxlmgcF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Sri Rascol](https://open.spotify.com/artist/7LSJ81kXzFkitlykHNm0tY) | [A.R\. Rahman Hits, Vol.1](https://open.spotify.com/album/5kLPwMhxebU9T49fxYNZhN) | 4:38 | 2022-02-08 | 2024-04-19 |
 | [Siruvani Siruvan](https://open.spotify.com/track/4ccdyHi5wvlMlRK1gOcprH) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 3:31 | 2025-01-06 |  |
 | [Solli Vei](https://open.spotify.com/track/0a3kxt3ENfxvhNRC9MVLCY) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Solli Vei](https://open.spotify.com/album/75674aUkYs4u2joPaL94YK) | 1:53 | 2025-01-27 |  |
+| [Sollisai Haters](https://open.spotify.com/track/1mh0E5vVsDwSEkeziK7Z3H) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [Sollisai Haters](https://open.spotify.com/album/5fpeLYig2Dlh3DorpVXkfn) | 3:07 | 2025-02-03 |  |
 | [Stable In The Game](https://open.spotify.com/track/516ahJ811GuLW1vgz1H0aB) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/41z6TiF47cBMfGdzEd9PBr) | 3:23 | 2024-12-29 | 2025-01-31 |
 | [Suna Pana \(feat\. Jeruson\)](https://open.spotify.com/track/5oFUweeBMoGCLs0UzqQ5Yj) | [Manikandan](https://open.spotify.com/artist/4ujp5wk5AK1cMq0LHzRzLv), [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Suna Pana \(feat\. Jeruson\)](https://open.spotify.com/album/03pKi5SyllM186lRtJhd22) | 3:23 | 2024-12-29 |  |
 | [Surviva \(feat\. Yogi B & Mali\)](https://open.spotify.com/track/0jvNc73pMCkyHTchaQu6NV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm), [MALIII](https://open.spotify.com/artist/6l1lQ5WaTFT05RImOssYKg) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 3:42 | 2022-02-08 | 2025-01-10 |

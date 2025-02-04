@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,120 likes - 78 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,077 likes - 78 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 25 | [Good King Wenceslas](https://open.spotify.com/track/7bVCSdxKp3KXF2JKYvyxyu) | [The Oxford Trinity Choir](https://open.spotify.com/artist/3r3EF4IUivV9v7HYln1YzB) | [Christmas Hymns \- The Very Best \- A Collection of Traditional Christmas Songs \(Deluxe Hymns Version\)](https://open.spotify.com/album/0AHs8EwSL5VTHEEeMIgRAk) | 2:33 |
 | 26 | [In the Bleak Midwinter \(Arr\. Gjeilo\)](https://open.spotify.com/track/4a0npy6TddlwGKXNQI0Ixx) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Winter](https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI) | 5:11 |
 | 27 | [Away in A Manger](https://open.spotify.com/track/1puoSjzghXmw0I6bupN3EB) | [William J\. Kirkpatrick](https://open.spotify.com/artist/0IyFf7sJynolp1a7Ck79u9), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Sir David Willcocks](https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC) | [Christmas Carols](https://open.spotify.com/album/2IfPdn5qYxHNlik5Zb7fKT) | 2:24 |
-| 28 | [Carol of the Bells](https://open.spotify.com/track/0oEBvSzYp0aS7Obdus1RGm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Christmas Hits](https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x) | 1:25 |
+| 28 | [Carol of the Bells \(From "Home Alone" Soundtrack\)](https://open.spotify.com/track/0oEBvSzYp0aS7Obdus1RGm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Christmas Hits](https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x) | 1:25 |
 | 29 | [Wood: Ding Dong Merrily on High](https://open.spotify.com/track/4WIxnzrGhZxFXHsAiIMJqR) | [Charles Wood](https://open.spotify.com/artist/1qYK0Da6QkgbijP0d6FuCx), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 2:03 |
 | 30 | [The First Nowell \- Arr\. for choir and soprano by Ola Gjeilo](https://open.spotify.com/track/6j9ESL6dB0r06wLmlalj9l) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [UCI Chamber Singers](https://open.spotify.com/artist/4LgBlkFhskMxHc9B0e9EUH), [Irene Messoloras](https://open.spotify.com/artist/7bLs9uL2MjQUMXwSqW5btL), [Isabelle Knowles](https://open.spotify.com/artist/5K1eOKwgnF6WtMWN70jp7k) | [Winter Night](https://open.spotify.com/album/3JTx56jRaZjqyCtp4sjMoD) | 4:38 |
 | 31 | [Shepherd's Pipe Carol](https://open.spotify.com/track/1bjjdIqTewIdM9DO1J5JUW) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [City of London Sinfonia](https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn) | [The John Rutter Christmas Album](https://open.spotify.com/album/229Ap7BM41Vld93zoov3Jn) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Renny Conti
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,153 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,194 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 5 | [Looking at the Geese](https://open.spotify.com/track/7oXq6Rt7YcYGSDSv3ZlzNX) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Looking at the Geese](https://open.spotify.com/album/2x9lOjN6sFLzJJ433DGbdZ) | 4:25 |
 | 6 | [Power](https://open.spotify.com/track/3DgePT17pVxi2m2Vcl9GcA) | [Neu Blume](https://open.spotify.com/artist/5or4rwSv2Ks3c3X0rPJq5Z) | [Power](https://open.spotify.com/album/2dXE8zQHRH30Dl92f0dTWZ) | 3:17 |
 | 7 | [borrowed](https://open.spotify.com/track/7mqR25EmpUU23nzsS0jP9J) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [borrowed](https://open.spotify.com/album/3AlFW3ehH2mpBX9iskdnPU) | 4:00 |
-| 8 | [ocean](https://open.spotify.com/track/0438JvChCToYHZer7mdAZ9) | [Nancy Williams](https://open.spotify.com/artist/3XPQH2kwYIL317DxHeBzpu) | [you're like the ocean](https://open.spotify.com/album/4jtpzAJ5LofOxNnqvR0oob) | 3:43 |
+| 8 | [ocean](https://open.spotify.com/track/0438JvChCToYHZer7mdAZ9) | [Nancy Williams](https://open.spotify.com/artist/3XPQH2kwYIL317DxHeBzpu) | [ocean](https://open.spotify.com/album/4jtpzAJ5LofOxNnqvR0oob) | 3:43 |
 | 9 | [Well Roared Lion](https://open.spotify.com/track/77IhLXNIhNVMrIurGJ58IF) | [Red Hill](https://open.spotify.com/artist/3OqlGX7gDuFvMHDULh1siW) | [Well Roared Lion](https://open.spotify.com/album/1zOsGHC4itWLQa0jtm3B95) | 3:06 |
 | 10 | [little red, little blue](https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [little red, little blue](https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS) | 2:48 |
 | 11 | [Marigolds](https://open.spotify.com/track/3dEdX1g7zycepndaSgVocd) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Marigolds](https://open.spotify.com/album/4UaYSCoV7Vici62QSi4xmC) | 3:48 |

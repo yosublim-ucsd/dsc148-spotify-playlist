@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-629 songs - 1 day 13 hr 7 min
+630 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Bodhai Neeye](https://open.spotify.com/track/1F7zl2SM8Ckqjsyf3OBVG3) | [Praveen Powers](https://open.spotify.com/artist/2n0JRtQVAdOos5ROmEX6c3), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Bodhai Neeye](https://open.spotify.com/album/6LejRIejmqPBhLqpOA5Xlx) | 5:22 | 2022-02-14 | 2022-05-31 |
 | [Bodhai Penne Nee](https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6) | [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Bodhai Penne Nee](https://open.spotify.com/album/6kbDQ0mrYj9QQBJQrgvMhQ) | 3:17 | 2023-01-16 | 2023-03-23 |
 | [Born SuperStar](https://open.spotify.com/track/2ODqYo3poNPyxk4olwf3vA) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Born SuperStar](https://open.spotify.com/album/1gDJ7WJxYUFeyhS2W6tilw) | 2:58 | 2024-11-19 | 2024-12-06 |
+| [BREAKUP ANTHEM \(Tamil\)](https://open.spotify.com/track/6PyUshWytZsbBW1QwOSmaV) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Dongli Jumbo](https://open.spotify.com/artist/474cZcWdUhqXJzZUgCFgL9) | [BREAKUP ANTHEM \(Tamil\)](https://open.spotify.com/album/5zhpLzpWCuXwco9c0NK9EE) | 2:43 | 2025-02-03 |  |
 | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/track/4mWpO1fpNXneis8q93SHpW) | [Rohit Gopalakrishnan](https://open.spotify.com/artist/0adFWVYEksLW8fPuQi2dV1), [Aarthi MN Ashwin](https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R), [Medha Ramasamy](https://open.spotify.com/artist/08pPLU6h73jp7wmuZwIwUb), [Siddharth Shandilyasa](https://open.spotify.com/artist/6r8Qnew7Dd79tqaMqTiz1s) | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/album/7qZNggBLqmEiUsnk6lyDEH) | 3:53 | 2022-11-16 | 2023-02-07 |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2022-12-02 | 2024-12-12 |
 | [Bullet Vizhigalal \- Speed Up](https://open.spotify.com/track/67xBnmxtiYz53Wc0CqoOJU) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq) | [Bullet Vizhigalal](https://open.spotify.com/album/24XucL2zXmAMPPkvUMLoj5) | 2:58 | 2024-06-14 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:67pwWZtcg7U2P2keoeC9jW">Benjamin Hav</a> 📢 <a href="spotify:album:2bnnrhhq45z8MEfLbW04zo">...vil bare gerne være et godt menneske, men det er ikke let.</a>📢
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,458 likes - 113 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,463 likes - 113 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

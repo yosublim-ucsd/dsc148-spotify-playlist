@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 73310,
+  "num_followers": 73315,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z51kAAAAAACnziiJnPPj0eVYwuWaf+1N",
+  "snapshot_id": "Z561gAAAAACvvACtsBh5VU7PH38Koqg8",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 188040,
       "name": "Aquiles el de Tijuana (En Vivo)",
       "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
     },
     {
       "added_at": null,
@@ -983,22 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Corrido De Manuel",
-        "url": "https://open.spotify.com/album/174HyCRunSgjTEeA10jMlQ"
+        "name": "Album De Mi Puno Y Letra",
+        "url": "https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Samuel Sarmiento",
-          "url": "https://open.spotify.com/artist/07vA9azUbh60JWoiJsWAnR"
         }
       ],
-      "duration_ms": 133625,
-      "name": "El Corrido De Manuel",
-      "url": "https://open.spotify.com/track/7CfvkrTF0ceWUw83Oabp8D"
+      "duration_ms": 180924,
+      "name": "Me Famoso Chino Antrax",
+      "url": "https://open.spotify.com/track/6UsWPelSadUoBuy75fGxbi"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 220000,
       "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
       "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
@@ -2906,6 +2906,24 @@
       "duration_ms": 212600,
       "name": "\uc560\uc0c1",
       "url": "https://open.spotify.com/track/5LCxeObb3oj4m2lUCm0OJW"
+    },
+    {
+      "album": {
+        "name": "Yangpa Best",
+        "url": "https://open.spotify.com/album/3ABGP2JrFsCzvkfuvSpDDu"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219271,
+      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/12vpE3RdDwSy6D8W1Vp5cm"
     },
     {
       "album": {

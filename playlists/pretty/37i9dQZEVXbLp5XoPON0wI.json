@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - USA.",
-  "num_followers": 264245,
+  "num_followers": 264331,
   "original_name": "Top Songs - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LzLdSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LzQuyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-01-31 12:47:04",
@@ -222,10 +222,14 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless",
+      "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

@@ -246,8 +246,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 236 | [Beijão](https://open.spotify.com/track/4edZCJCx5PLEqpKMrxNesS) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Emocionadin da Vida](https://open.spotify.com/album/6fFHUxOeBbOH9xY7QnjFlr) | 2:34 |
 | 237 | [Olha Como Eu To Sofrendo](https://open.spotify.com/track/0pfYQm6OtKriyRDZfAMNB7) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Tour Cê Ta Doido](https://open.spotify.com/album/5w8WuthAAtuDY43j1b1cje) | 2:36 |
 | 238 | [Suas Amigas \(Assereje\)](https://open.spotify.com/track/0m3FT962yi9lhQkShANgFs) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ), [Rafinha RSQ](https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h) | [Suas Amigas \(Assereje\)](https://open.spotify.com/album/5ruPLKXsF9RIxdAQk9qVK8) | 2:18 |
-| 239 | [Imunidade Baixa \- Ao Vivo](https://open.spotify.com/track/2D0qOIQrglsvrtkNKvZx48) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Imunidade Baixa \(Ao Vivo\)](https://open.spotify.com/album/6lksX0Elu9qK26lzOZDqu6) | 2:54 |
-| 240 | [1% Diablita](https://open.spotify.com/track/3mzHRZYupj7KIQW5ZXFz39) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [1% Diablita](https://open.spotify.com/album/2BHodYJkofqWtW7XFMOwwv) | 2:31 |
+| 239 | [1% Diablita](https://open.spotify.com/track/3mzHRZYupj7KIQW5ZXFz39) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [1% Diablita](https://open.spotify.com/album/2BHodYJkofqWtW7XFMOwwv) | 2:31 |
+| 240 | [Imunidade Baixa \- Ao Vivo](https://open.spotify.com/track/2D0qOIQrglsvrtkNKvZx48) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Imunidade Baixa \(Ao Vivo\)](https://open.spotify.com/album/6lksX0Elu9qK26lzOZDqu6) | 2:54 |
 | 241 | [Orgulho Não É Orgulhoso \- Ao Vivo](https://open.spotify.com/track/3i2HMcgmwjQj20UUgRrHxl) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:54 |
 | 242 | [Usa Eu Bebê \- Ao Vivo](https://open.spotify.com/track/34Q4o1u2FtAHn9uzhQK9aE) | [Lipe & Lyan](https://open.spotify.com/artist/0V8z8kSUX83Zq7KKaqEJxD) | [Daqui pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/0ZGqMMjqP184TbUgVRNRfK) | 3:11 |
 | 243 | [Espera Aí](https://open.spotify.com/track/4FAOK8cHHx57Dfjns4l9A5) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:16 |
@@ -402,4 +402,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 392 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 | 393 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
 
-Snapshot ID: `Aboi/gAAAABWKFVV2uDAsHyX+UUsIJ0P`
+Snapshot ID: `AboolAAAAADtA6gL3mDIw7sf65COACGm`

@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 217133,
       "name": "Coney Island",
       "url": "https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh"
@@ -4066,10 +4066,6 @@
         {
           "name": "OGENE",
           "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
-        },
-        {
-          "name": "OG3NE",
-          "url": "https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo"
         }
       ],
       "date_added": "2025-01-23",
@@ -6248,6 +6244,24 @@
       "duration_ms": 195744,
       "name": "Overgold",
       "url": "https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy"
+    },
+    {
+      "album": {
+        "name": "Own Thing",
+        "url": "https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161309,
+      "name": "Own Thing",
+      "url": "https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud"
     },
     {
       "album": {

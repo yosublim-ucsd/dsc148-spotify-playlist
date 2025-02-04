@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,473 songs - 3 day 11 hr 39 min
+1,474 songs - 3 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [Eyes Don't Lie](https://open.spotify.com/track/5do5DDt3vAcPhKoNWKgsdm) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don't Lie](https://open.spotify.com/album/2zpX6quqq0nJUNIDOMqqQ8) | 3:56 | 2022-03-18 | 2022-07-19 |
 | [Fade Away](https://open.spotify.com/track/57fS5tDkIIsEhoBb8IcYF1) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Fade Away](https://open.spotify.com/album/2jdAHhRq48eYOmQSpxFzdl) | 3:31 | 2020-11-13 | 2021-10-16 |
 | [Fade Out](https://open.spotify.com/track/20XjdVfh6kFATmgm7T0C5r) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [Space Primates](https://open.spotify.com/artist/20RYWcdxVryQ6rcjxnsEtc) | [Fade Out](https://open.spotify.com/album/5cRfEKSt7XnvyUTTYuDU7v) | 3:16 | 2019-08-02 | 2022-04-03 |
-| [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 | 2022-04-14 |  |
+| [Faith \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 | 2022-04-14 |  |
 | [Fake](https://open.spotify.com/track/4Gt2kh3QbAGU6yquOWn4aW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Fake](https://open.spotify.com/album/6pbBHbkfs6i0JzhWjDmvb1) | 2:26 | 2020-10-16 | 2022-04-04 |
 | [Falling Asleep at the Wheel](https://open.spotify.com/track/3WtpWXNuY7ILC7oUlAXNmF) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Falling Asleep at the Wheel](https://open.spotify.com/album/7pQEhb6N9NqJXdB4sspBdU) | 3:11 | 2019-08-02 | 2022-04-21 |
 | [Falling Out](https://open.spotify.com/track/6De0fA04q3j464V66l1HLv) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Falling Out](https://open.spotify.com/album/7CFrSwenidHH4AVFdfO8pw) | 3:40 | 2019-08-04 | 2022-04-14 |
@@ -481,6 +481,7 @@
 | [Greenlight \- From "Songland"](https://open.spotify.com/track/5HgbcQFIHjNcn46w8ORwhu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greenlight \(From "Songland"\)](https://open.spotify.com/album/3RRyP3NlMJOrPGxjrRfK5l) | 3:00 | 2019-10-25 | 2021-05-28 |
 | [Groceries](https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In The Sky](https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C) | 3:37 | 2019-08-05 | 2022-04-21 |
 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2019-08-01 | 2022-04-21 |
+| [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-02-03 |  |
 | [Gummy](https://open.spotify.com/track/4wSz66biWgFqwbp1vuobBC) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Nights Like This](https://open.spotify.com/album/0MdLXjloliQpPU29gNFyXk) | 2:59 | 2020-06-12 | 2022-04-21 |
 | [Hall of Fame \(feat\. will.i.am\)](https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 3:22 | 2023-12-15 |  |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2020-06-12 | 2022-04-16 |
@@ -785,7 +786,7 @@
 | [Love On Myself](https://open.spotify.com/track/4KmfgzXQ1trtD2eY7CtUAP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Love On Myself](https://open.spotify.com/album/6VW7kUijiZ6DmX9066eMlJ) | 2:49 | 2021-03-15 | 2021-05-28 |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2019-08-01 | 2022-04-12 |
 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 | 2019-07-30 | 2022-04-04 |
-| [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 | 2019-08-01 |  |
+| [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 | 2019-08-01 | 2025-02-04 |
 | [Love Songs](https://open.spotify.com/track/5WmPL0RQxooB4si6PuSkUi) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Love Songs](https://open.spotify.com/album/0I3jWk2OaJ6jjQt3bbJllg) | 3:15 | 2020-06-30 | 2022-07-28 |
 | [Love Songs](https://open.spotify.com/track/0Fs0pr0lq3408wD1cemNll) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Songs](https://open.spotify.com/album/4Nflv5XvC1phnt8ZwFs1Ta) | 3:11 | 2020-05-04 | 2022-04-19 |
 | [Love Today](https://open.spotify.com/track/7d40ltmahMLJKA8HhzX9xe) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/1lGwdsq4OtYZfIIoi4p79E) | 3:55 | 2019-10-25 | 2019-10-26 |

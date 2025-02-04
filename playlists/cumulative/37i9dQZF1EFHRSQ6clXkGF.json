@@ -2924,10 +2924,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 133893,
       "name": "Le grand parking",
       "url": "https://open.spotify.com/track/2iYqLxOoxGPhWgcmTIC0Uy"
+    },
+    {
+      "album": {
+        "name": "Joe Dassin (Country)",
+        "url": "https://open.spotify.com/album/5ZmhcWrPhUkLxKhHL97eT8"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Le grand parking",
+      "url": "https://open.spotify.com/track/39cIOOwA67aAu31wFVgFZ0"
     },
     {
       "album": {

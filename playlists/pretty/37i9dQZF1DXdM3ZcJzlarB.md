@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: motty & S3BZS
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,229 likes - 99 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,228 likes - 99 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

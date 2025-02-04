@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: ROSEYE
 
-494 songs - 1 day 5 hr 0 min
+495 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Cold Nights](https://open.spotify.com/track/1iR2KYd4xQJdoVG7GICA1F) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Jon Ari](https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf) | [Cold Nights](https://open.spotify.com/album/1hREBt9rjIktCyLQtyh1Oo) | 3:03 | 2024-02-08 | 2024-09-13 |
 | [Come Over](https://open.spotify.com/track/08lS7uqLMbXv7BDOb9guYJ) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Come Over](https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0) | 3:42 | 2021-12-16 | 2022-06-17 |
 | [Company](https://open.spotify.com/track/3SlKn22we9mXaoRY6t78i6) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Company](https://open.spotify.com/album/07yfD6iFop3fOAH5zV5mje) | 2:45 | 2021-12-16 | 2022-01-14 |
-| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-16 |  |
+| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-16 | 2025-02-04 |
 | [Coolest Things \(feat\. Ari Lennox\)](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 | 2022-04-08 | 2023-04-07 |
 | [Copy & Paste Interlude](https://open.spotify.com/track/4Pq1hdbm1GrjBeh46BqFjO) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Copy & Paste Interlude](https://open.spotify.com/album/40WuuDpNMKy5GB2CUQO2Xx) | 2:49 | 2021-12-16 | 2022-04-29 |
 | [Cotton Wool](https://open.spotify.com/track/6qLpvNC53zSzKRBC3H2ayz) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Dream, Forever](https://open.spotify.com/album/4fVrPpUvcsP2Yf3YX5aZsh) | 2:51 | 2024-05-31 |  |
@@ -207,7 +207,7 @@
 | [Icarus](https://open.spotify.com/track/2KzpsnZztszanilxkAQBTh) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [ICARUS](https://open.spotify.com/album/6aGniRX6xCiybxgzc6llFD) | 4:58 | 2021-12-16 | 2022-02-25 |
 | [If I Stay](https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [If I Stay](https://open.spotify.com/album/1MJRA5NaQMs0KQs81sz4hX) | 3:28 | 2024-10-25 | 2025-01-10 |
 | [If They Fight](https://open.spotify.com/track/1VYTntAHqw8CzIJHkQELhx) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [If They Fight](https://open.spotify.com/album/5CKXnp8ymRtSpBINyM8gfC) | 6:39 | 2024-11-22 |  |
-| [Illusion](https://open.spotify.com/track/3gHncxCfXJFscqkjuZwxSx) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8), [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Illusion](https://open.spotify.com/album/3nCzJNz0PjANPCBku0a5XI) | 3:30 | 2025-01-23 |  |
+| [Illusion](https://open.spotify.com/track/3gHncxCfXJFscqkjuZwxSx) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8) | [Illusion](https://open.spotify.com/album/3nCzJNz0PjANPCBku0a5XI) | 3:30 | 2025-01-23 |  |
 | [Illusions](https://open.spotify.com/track/7KbAnSIxjZb8AXkMM1EfTG) | [EMY](https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG) | [Illusions](https://open.spotify.com/album/351WcL5BItxQNGjf4zVCkw) | 3:21 | 2022-02-10 | 2022-07-07 |
 | [ILY](https://open.spotify.com/track/64ufqPq3lzvKZrY6eDTKEv) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [ILY](https://open.spotify.com/album/17huoEXCzGM5Reu8bfBsHP) | 4:08 | 2024-02-09 | 2024-11-14 |
 | [Imaginary Windows](https://open.spotify.com/track/57D4IUGT6DHjAqiyJzbGCF) | [Helena Casella](https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN) | [Imaginary Windows](https://open.spotify.com/album/1RRDWzSM2lCKrt4p0Exy7I) | 6:32 | 2025-01-17 |  |
@@ -313,6 +313,7 @@
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2021-12-16 | 2022-05-20 |
 | [Over \[Feat\. Yebba\]](https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 4:55 | 2022-02-24 | 2023-03-03 |
 | [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-09-22 | 2023-10-12 |
+| [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 | 2025-02-03 |  |
 | [Paris, Texas](https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Now, You Know](https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR) | 3:03 | 2021-12-16 | 2022-07-07 |
 | [Pass Time](https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Pass Time](https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz) | 3:39 | 2022-06-24 | 2023-09-02 |
 | [Perfume](https://open.spotify.com/track/5Jfvor0HtNmj5HJ1dghY6y) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Perfume](https://open.spotify.com/album/0Ja0Nma8MpjUXHfHUohgbg) | 3:54 | 2025-01-09 |  |

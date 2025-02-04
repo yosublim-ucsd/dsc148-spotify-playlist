@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 16790,
+  "num_followers": 16815,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "What Should I do",
-        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
-    },
-    {
-      "added_at": "2024-12-05 09:33:19",
-      "album": {
         "name": "You don't have to say anything (I already know)",
         "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
+    },
+    {
+      "added_at": "2024-12-05 09:33:19",
+      "album": {
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2024-12-05 09:33:19",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "Cat, work for me",
-        "url": "https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH"
-      },
-      "artists": [
-        {
-          "name": "Homemade recording",
-          "url": "https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Cat, work for me",
-      "url": "https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo"
-    },
-    {
-      "added_at": "2024-12-05 09:33:19",
-      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 201151,
       "name": "Do You Know My Heart (Feat. NUITNUIT)",
       "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
+    },
+    {
+      "added_at": "2024-12-05 09:33:19",
+      "album": {
+        "name": "Cat, work for me",
+        "url": "https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH"
+      },
+      "artists": [
+        {
+          "name": "Homemade recording",
+          "url": "https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Cat, work for me",
+      "url": "https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo"
     },
     {
       "added_at": "2024-12-05 09:33:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "\uc2dc\uc18c",
-        "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
-      },
-      "artists": [
-        {
-          "name": "KiTak",
-          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "\uc2dc\uc18c",
-      "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
-    },
-    {
-      "added_at": "2024-12-05 09:33:19",
-      "album": {
         "name": "Call me now",
         "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 233520,
       "name": "Call me now",
       "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
+    },
+    {
+      "added_at": "2024-12-05 09:33:19",
+      "album": {
+        "name": "\uc2dc\uc18c",
+        "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
+      },
+      "artists": [
+        {
+          "name": "KiTak",
+          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "\uc2dc\uc18c",
+      "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
     },
     {
       "added_at": "2024-12-05 09:33:19",

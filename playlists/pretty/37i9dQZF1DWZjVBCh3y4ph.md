@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Meryl x Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,643 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,680 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 12 | [FAIT POUR TOI](https://open.spotify.com/track/3pvkYXexYNruvIEFx6pK8w) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno), [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [FAIT POUR TOI](https://open.spotify.com/album/3l7QX5xnR5MGsQBfgYRb66) | 3:44 |
 | 13 | [10 Minutes](https://open.spotify.com/track/77ovdPp9vieeFRcqhRWYm5) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [10 Minutes](https://open.spotify.com/album/5Q1lGUsuv9dGmNymEgYG8X) | 3:56 |
 | 14 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 |
-| 15 | [Et si..](https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [Et si..](https://open.spotify.com/album/5Y9vOsCmJ9hxdH3L9nUB5j) | 3:03 |
+| 15 | [Et si…](https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [Et si…](https://open.spotify.com/album/5Y9vOsCmJ9hxdH3L9nUB5j) | 3:03 |
 | 16 | [C'est fort](https://open.spotify.com/track/6xmklOu9eEvuWac0sDLvn4) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT), [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [C'est fort](https://open.spotify.com/album/0a0HukjpZhsYx9MWrBGdS3) | 3:40 |
 | 17 | [Petit cœur](https://open.spotify.com/track/40CR8Fb13bKFSPOV7cxDPg) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Petit cœur](https://open.spotify.com/album/2xk6KpXikarOhvLzLpTaOe) | 2:46 |
 | 18 | [Succomber](https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Succomber](https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs) | 4:07 |

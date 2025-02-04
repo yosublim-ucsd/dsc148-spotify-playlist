@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Austin Millz & Kah\-Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,196 likes - 66 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,209 likes - 66 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

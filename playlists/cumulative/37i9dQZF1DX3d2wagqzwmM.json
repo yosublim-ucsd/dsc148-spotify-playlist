@@ -1703,6 +1703,32 @@
     },
     {
       "album": {
+        "name": "Come On Baddie Let's Go Party",
+        "url": "https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153311,
+      "name": "Come On Baddie Let's Go Party",
+      "url": "https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
       },
@@ -2140,7 +2166,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 169209,
       "name": "Danza Kuduro - Remix",
       "url": "https://open.spotify.com/track/6XMCVXop0owqRXdfGAaKqW"
@@ -4495,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "BEATSBYSICK Vol. 01",
+        "url": "https://open.spotify.com/album/3wOGpE3SuvdehXwvnKj3ts"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167900,
+      "name": "How We Feelin",
+      "url": "https://open.spotify.com/track/4PkZNPD2waoSbn5ObPnwc9"
+    },
+    {
+      "album": {
         "name": "Huang",
         "url": "https://open.spotify.com/album/3TAPrHvvmIKCAkzZQrgmpC"
       },
@@ -4780,7 +4824,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 198571,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/005Tc9RHU1uHpjutQrXrk7"
@@ -5672,6 +5716,32 @@
       "duration_ms": 151875,
       "name": "Lowrider",
       "url": "https://open.spotify.com/track/4QmrKRhtR8r16U0rDEVCvr"
+    },
+    {
+      "album": {
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/3NQrqWMpGH9PqZMEoSPBsZ"
+      },
+      "artists": [
+        {
+          "name": "Rave Republic",
+          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/4IPEchRbWdV3CFCgl3tXRA"
     },
     {
       "album": {
@@ -11078,7 +11148,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 148828,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/1BOjGv32KA9gtqIM3lTAWQ"

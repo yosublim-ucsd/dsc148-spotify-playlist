@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-703 songs - 1 day 6 hr 34 min
+705 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Back to Summer](https://open.spotify.com/track/4YdF8yF2eKomyElIdMD4Vr) | [Batu Onat](https://open.spotify.com/artist/7aOWtkVztALwRvuLWDPC0p) | [Back to Summer](https://open.spotify.com/album/585JNE5aaruJLObK5M6Srj) | 2:51 | 2023-09-22 | 2024-01-03 |
 | [Back To The Sun](https://open.spotify.com/track/1cd3tQ5tB7V81PQhDOWUfY) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Back To The Sun](https://open.spotify.com/album/7yQluEMVJbUbve5i1TT0RM) | 2:15 | 2024-07-05 | 2024-10-09 |
 | [Bad Romance](https://open.spotify.com/track/2jsj5LogoxcqCnsyCb9Ksn) | [SAKKO](https://open.spotify.com/artist/6wgRPcEgacrIVqbDsg5t3o), [Adam Bowl](https://open.spotify.com/artist/5gmiZYhWcaElTDIKTEviT3) | [Bad Romance](https://open.spotify.com/album/3nIj5qPG72xSGoJ5nbNn9z) | 3:03 | 2024-06-09 | 2024-07-05 |
+| [Baddie](https://open.spotify.com/track/4b7akpitIiR9vJOiLbi06c) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE) | [Baddie](https://open.spotify.com/album/0sYvnqClfvOZPWxQkqiAM7) | 2:30 | 2025-02-03 |  |
 | [Beautiful Day \(Take Me Back\)](https://open.spotify.com/track/68SdV5sBG4xsj2psJoxaHy) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc) | [Beautiful Day \(Take Me Back\)](https://open.spotify.com/album/6miDC3XTPjHNLRjYqLeGaG) | 2:16 | 2024-08-07 |  |
 | [Beautiful Soul](https://open.spotify.com/track/6KUTm5xIeQFwrvQqelDRAZ) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Beautiful Soul](https://open.spotify.com/album/3ir2mtjdNfbkBpZkl0jHGT) | 2:43 | 2024-08-30 | 2024-11-05 |
 | [Best Days](https://open.spotify.com/track/18ZT8o8lcWCBQcVs3aK5fZ) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Nømad](https://open.spotify.com/artist/1Aq4QRiRBz0ddMjbv7GDy5) | [Best Days](https://open.spotify.com/album/21weltfdc5SmIE2ogzT0FF) | 2:38 | 2024-03-03 | 2024-10-28 |
@@ -274,6 +275,7 @@
 | [I Don't Need You](https://open.spotify.com/track/08hBQCNt6DRzZQs8gkJEIL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Don't Need You](https://open.spotify.com/album/0qC3o6ssC7IS7bEZ3fQaBn) | 3:00 | 2024-07-30 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/4cFjoK5WruTcT1bgcbodh0) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [I Don't Wanna Know](https://open.spotify.com/album/0uBJVRlz1fFjgiDFzRKqpK) | 2:13 | 2023-09-22 | 2023-12-31 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-05-14 | 2024-07-19 |
+| [I Don't Wanna Wait](https://open.spotify.com/track/16vXFPx5NK5BLmcTSBf5iN) | [veranda life](https://open.spotify.com/artist/4TuhUuVGlN2W79M1OKJnfr), [rivve](https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV) | [I Don't Wanna Wait](https://open.spotify.com/album/5g86LCQQ1debOHbZzvcTpO) | 2:36 | 2025-02-03 |  |
 | [I Don’t Wanna Wait](https://open.spotify.com/track/1rOFazrW0pro7IaAbwTH8n) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [I Don’t Wanna Wait](https://open.spotify.com/album/5sMpuHeaJ2YX9Vct2UsZko) | 2:50 | 2024-07-19 | 2024-08-26 |
 | [I Found A Life In You](https://open.spotify.com/track/0pwlF1O6h9MwN3cFnB5rQs) | [Kevin Ocean](https://open.spotify.com/artist/3Ok1AieWk4YBRCjjBKzVVT), [MSP](https://open.spotify.com/artist/33SPdKbbWQhohOtn7qGjP0), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [I Found A Life In You](https://open.spotify.com/album/2WSXuLcYnE1JRRnGADzhwT) | 2:42 | 2024-03-04 | 2024-07-05 |
 | [I Found You](https://open.spotify.com/track/2AVhYqb9unDWQbQgJ7IhwY) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Brian Michael Hinds](https://open.spotify.com/artist/3RekI3eGV7rHLL3li7jdqQ) | [I Found You](https://open.spotify.com/album/0Rqi5gamIVikYV4T0K1M4s) | 2:46 | 2024-07-08 | 2025-01-19 |

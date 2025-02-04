@@ -420,7 +420,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 222227,
       "name": "A Sleepin' Bee",
       "url": "https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 233946,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 161792,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H"
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 276828,
       "name": "Cloudy Days",
       "url": "https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d"
@@ -4879,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "Good Wishes and Everything",
+        "url": "https://open.spotify.com/album/3BWKPVXgj5sicro4DNLwZi"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210661,
+      "name": "Good Wishes and Everything",
+      "url": "https://open.spotify.com/track/0rhSC2LL96MnhUaBZoqGCJ"
+    },
+    {
+      "album": {
         "name": "Graceful Rhapsody",
         "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
       },
@@ -5744,7 +5762,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 297604,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/2WQ5tNYgO3FGmGLK7L13VT"
@@ -6464,7 +6482,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 164431,
       "name": "In a quiet voice",
       "url": "https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx"
@@ -9170,7 +9188,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 249231,
       "name": "Miranda\u00b4s Song",
       "url": "https://open.spotify.com/track/0Tde39U9YyGj62CXudXx6a"
@@ -11270,7 +11288,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 180318,
       "name": "Ragged Tux",
       "url": "https://open.spotify.com/track/3Xuy3E7OQ12IISyO4cm1lA"
@@ -12358,6 +12376,24 @@
       "duration_ms": 215471,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/3hG0RxJqxggDnSjg6tU6Py"
+    },
+    {
+      "album": {
+        "name": "Soon You'll Be Here",
+        "url": "https://open.spotify.com/album/7bm2l7LD3lzC1aZtXxRcm8"
+      },
+      "artists": [
+        {
+          "name": "Frank Guardiola",
+          "url": "https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Soon You'll Be Here",
+      "url": "https://open.spotify.com/track/18YVbElEYQYgJhgVZc44cT"
     },
     {
       "album": {
@@ -13589,6 +13625,24 @@
     },
     {
       "album": {
+        "name": "The Little Prince",
+        "url": "https://open.spotify.com/album/6fYj8bBEbYcVHj2A61ohDR"
+      },
+      "artists": [
+        {
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264440,
+      "name": "The Little Prince",
+      "url": "https://open.spotify.com/track/4Z4PldtqdgmdDbHcf29tJ3"
+    },
+    {
+      "album": {
         "name": "The Masquerade Is Over",
         "url": "https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp"
       },
@@ -13870,7 +13924,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 244579,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS"
@@ -14723,6 +14777,24 @@
     },
     {
       "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/20megDenCZJIgfLYe1VWpb"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Reed Quartet",
+          "url": "https://open.spotify.com/artist/5wrghSelzLqPiapSBx7fsu"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/1eH1braLVAu6MdyeaUpSoG"
+    },
+    {
+      "album": {
         "name": "W 52nd Street",
         "url": "https://open.spotify.com/album/6mURKCToOEmWlZkDeDduqU"
       },
@@ -15386,7 +15458,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 206486,
       "name": "Whispering Skies",
       "url": "https://open.spotify.com/track/1paocj4BrXXNPAuCBXUYwB"

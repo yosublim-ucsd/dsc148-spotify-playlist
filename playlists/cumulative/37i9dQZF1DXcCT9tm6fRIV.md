@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-156 songs - 8 hr 47 min
+157 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Adiós Muchachos](https://open.spotify.com/track/4I0SK7HDyVKL3ycr8lBMsc) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [La Historia Completa De Carlos Gardel \- Volumen 6](https://open.spotify.com/album/4gmnUTT6lzn7EcyNqjVnNh) | 2:29 | 2022-03-18 |  |
 | [Adiós Nonino](https://open.spotify.com/track/5vpv1rlqDVfhC5A65XraAN) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [Astor Piazzolla en el Colón](https://open.spotify.com/album/0UIKbjYqLwBMZL08aPtmZr) | 10:55 | 2022-03-18 |  |
 | [Anclao En Paris](https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [20 Grandes Exitos](https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu) | 2:20 | 2022-03-18 |  |
+| [Atenti pebeta](https://open.spotify.com/track/4aLT7Jg103QAoZI9K3cS5I) | [La Fulana Tango](https://open.spotify.com/artist/0A4dBvTbLRuAFzBmiOhepA) | [Atenti pebeta](https://open.spotify.com/album/4Dvuv4RNoWSiv0kUQcpoCp) | 2:50 | 2024-08-02 |  |
 | [Ave de Paso](https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Presentando a Charlo](https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm) | 3:11 | 2022-03-18 | 2024-04-19 |
 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 | 2022-03-18 |  |
 | [Bahia Blanca](https://open.spotify.com/track/258NSVG3mRBx8g425pxRyr) | [Carlos Di Sarli](https://open.spotify.com/artist/0gAbrqBahiaTF69TmVb9fQ) | [The Masters of Tango: Carlos Di Sarli, Bahia Blanca](https://open.spotify.com/album/4FR3cuYldDYxEULaTWm3LK) | 2:56 | 2022-03-18 | 2022-07-29 |
@@ -84,7 +85,7 @@
 | [La Yumba \- Instrumental](https://open.spotify.com/track/6B11DcP8lV8vq720QEfC9B) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Ausencia](https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF) | 2:46 | 2022-03-18 |  |
 | [La Última Curda](https://open.spotify.com/track/0sGwLqFBrk2PvQsOaRTRm2) | [Victoria Freijo](https://open.spotify.com/artist/3zT6U50nQPGOQaLfdL7Q8F), [Gastón de la Cruz](https://open.spotify.com/artist/31GIlrz5pD5rfSoDUWaTtn) | [Arenales](https://open.spotify.com/album/0gOOGGQ9XuDgluqileOc3M) | 3:36 | 2022-03-18 | 2022-07-26 |
 | [La Última Grela](https://open.spotify.com/track/3vshGrAPmdkL0bwAznsmEu) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Conexión Piazzolla Ferrer](https://open.spotify.com/album/6oEMkRwv8leVRbPCP7zWtc) | 3:51 | 2022-03-18 | 2025-02-01 |
-| [Las Ciudades](https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Piazzolla & Amelita Baltar](https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw) | 4:36 | 2022-03-18 |  |
+| [Las Ciudades](https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Piazzolla & Amelita Baltar](https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw) | 4:36 | 2022-03-18 | 2025-02-04 |
 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 | 2022-03-18 | 2024-12-10 |
 | [Los Cosos De Al Lao](https://open.spotify.com/track/1PiqZsBwsN50pZ7NCRmCd9) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa) | 3:28 | 2023-06-09 | 2024-04-19 |
 | [Los Cosos De Al Lao](https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 3:28 | 2022-03-18 |  |

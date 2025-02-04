@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-277 songs - 16 hr 20 min
+278 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,11 @@
 | [Aamu Tammelassa](https://open.spotify.com/track/5A83mbqGWVbBlVWqMWLMyB) | [Nina Kaitaranta](https://open.spotify.com/artist/2PsdnaaKgXsNDhPYsZkPpo) | [Aamu Tammelassa](https://open.spotify.com/album/07jW0trhK4wpAsx02jDAlS) | 3:40 | 2024-11-14 | 2025-01-10 |
 | [Aamuruuhkassa](https://open.spotify.com/track/6Jhiof5DHTaG0kG9zhHkUq) | [Vælimaa](https://open.spotify.com/artist/0NUlf45nkBfDbHm7cdDZNE) | [Uimahuoneessa \- ep](https://open.spotify.com/album/7ttn7rrUVsJgf1t9PLx7Uq) | 3:58 | 2024-07-02 | 2024-08-09 |
 | [Aamuyöstä](https://open.spotify.com/track/7cj1waMGZZW0g6YLAsfK6Z) | [Taikakaulin](https://open.spotify.com/artist/0J2ttsr9ibSjGcHVMc13PI) | [Aamuyöstä](https://open.spotify.com/album/3R326I6csnhw3veMlgpu4v) | 3:42 | 2024-07-02 | 2024-08-09 |
-| [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 | 2024-09-06 |  |
+| [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 | 2024-09-06 | 2025-02-04 |
 | [Aina sinulle](https://open.spotify.com/track/3OxJGAR04RUV1krR1usKTW) | [Aki Louhela](https://open.spotify.com/artist/4Rr5V3xQAQbhOw7WIfEvYK) | [Aina sinulle](https://open.spotify.com/album/5giDeA0EdcwVJGkuTg5ijH) | 3:46 | 2024-07-02 | 2024-09-06 |
 | [Aioin jättää sut tänään](https://open.spotify.com/track/3J2NZnUgELrDQLVfYAfJhy) | [Jonna Tervomaa](https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV) | [SUPERAURINKO](https://open.spotify.com/album/03fwmDxA6Q154BX2GwJU7A) | 3:50 | 2024-08-29 | 2024-12-06 |
 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 | 2025-01-09 |  |
+| [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 | 2025-02-03 |  |
 | [All In](https://open.spotify.com/track/71mG6R3cq45v4cHpOqZ063) | [Saga Olsson](https://open.spotify.com/artist/1HCzCxx9PSWC6fTLZcm4Ek) | [All In](https://open.spotify.com/album/1Pem1eoKD6pTZA7BJ2G6mQ) | 4:06 | 2024-08-22 | 2024-10-18 |
 | [Aloittelijan virhe](https://open.spotify.com/track/1sv3nfLkuPYRofmblnlD6a) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [Aloittelijan virhe](https://open.spotify.com/album/4d4zc7ijy9H0WvShVnIrmp) | 2:25 | 2024-10-31 | 2024-11-15 |
 | [Anna K.](https://open.spotify.com/track/0XIyge4FqVuwSgDZeEZnf1) | [Tuomo Mannonen](https://open.spotify.com/artist/1pVcazwrzonZgkPQifJNRc) | [Anna K.](https://open.spotify.com/album/0OQ2tfOnec7JrExaxlUa9Y) | 3:34 | 2024-10-17 | 2024-11-29 |

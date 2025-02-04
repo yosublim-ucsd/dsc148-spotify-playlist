@@ -4,7 +4,7 @@
 
 > Trueno con Feid y el resto de novedades más importantes de la semana.
 
-982 songs - 2 day 2 hr 3 min
+982 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [JPN](https://open.spotify.com/track/7a66e0TSXh1fKpSCLDQvUa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SAYONARA: FINALES ALTERNOS](https://open.spotify.com/album/33vdYyXRkC7kkenWARFMHu) | 4:46 | 2024-10-17 | 2024-10-25 |
 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 | 2024-11-01 | 2024-11-08 |
 | [julia](https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [julia](https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu) | 3:12 | 2025-01-16 | 2025-01-24 |
-| [Juro Que](https://open.spotify.com/track/55g8pO2TbOvBoNVRgrM935) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Juro Que](https://open.spotify.com/album/23CCHmgNmefaw1fZ0s31n4) | 3:04 | 2025-01-31 |  |
+| [Juro Que](https://open.spotify.com/track/55g8pO2TbOvBoNVRgrM935) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Juro Que](https://open.spotify.com/album/23CCHmgNmefaw1fZ0s31n4) | 2:27 | 2025-01-31 |  |
 | [K\-Rico](https://open.spotify.com/track/0uDSEZzJ9lj7xSM3bXGl45) | [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [K\-Rico](https://open.spotify.com/album/3JuOjdy9jlk9o70gD1nYcX) | 2:01 | 2025-01-31 |  |
 | [KAIMAN](https://open.spotify.com/track/7haiQQxJnawx0dEyWiOmcB) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [KAIMAN](https://open.spotify.com/album/5HFgyaVeJMVtirveWpI3CO) | 3:29 | 2025-01-31 |  |
 | [Karaoke español](https://open.spotify.com/track/3i97XSAj6jDO0k4x4AcStN) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Karaoke español](https://open.spotify.com/album/4Tkm6w0F5t1BjQlpcfJSji) | 3:09 | 2024-12-19 | 2025-01-03 |
@@ -890,7 +890,7 @@
 | [Tokome](https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tokome](https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo) | 2:37 | 2024-11-21 | 2024-11-29 |
 | [TOKYO \| Barracudas \#4](https://open.spotify.com/track/70hYSAKpLIplJ16jfxjdUt) | [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u) | [TOKYO \| Barracudas \#4](https://open.spotify.com/album/7tPfY9ZYW4RUPz8fVTqUVO) | 2:31 | 2024-12-13 | 2024-12-20 |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-21 | 2024-11-29 |
-| [Tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-31 |  |
+| [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-31 |  |
 | [Tormenta Perfecta](https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp) | [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [Tormenta Perfecta](https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n) | 3:57 | 2024-11-01 | 2024-11-08 |
 | [Tot el que puja baixa](https://open.spotify.com/track/04TJkm3QwxOdRZilXzuwvL) | [Pau Vallvé](https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s) | [Agorafília](https://open.spotify.com/album/2fLE99aVBoCZtvhdkAzeTC) | 4:19 | 2024-10-24 | 2024-11-01 |
 | [TOUCHDOWN](https://open.spotify.com/track/17ilE3vG73RLtqg2vCSVNX) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [TOUCHDOWN](https://open.spotify.com/album/60dMNPQXZoNfMd9u2GOLCT) | 4:01 | 2024-11-14 | 2024-11-22 |

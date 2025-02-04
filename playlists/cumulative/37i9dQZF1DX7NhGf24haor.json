@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Updated weekly | Hardstyle | Cover: Rebelion",
+  "description": "Updated weekly | Hardstyle | Cover: Noisecontrollers",
   "name": "Hardstyle Adrenaline! 2025",
   "tracks": [
     {
@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 165000,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/24snDKG3n2r4F0E5f3yLYz"
@@ -7292,7 +7292,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 170019,
       "name": "FADE AWAY",
       "url": "https://open.spotify.com/track/1bo7aiVjVHL9RWtaxZsxr1"
@@ -7372,6 +7372,24 @@
       "duration_ms": 188599,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/4xVMm0rx6iqv65XJ7IOYb9"
+    },
+    {
+      "album": {
+        "name": "Fall Of The Celestials",
+        "url": "https://open.spotify.com/album/2TYsZMFqcENa8toCUKenFw"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240387,
+      "name": "Fall Of The Celestials",
+      "url": "https://open.spotify.com/track/5MW9s0fr6BUgQnf3p4uXVm"
     },
     {
       "album": {
@@ -9838,6 +9856,32 @@
       "duration_ms": 123248,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet"
+    },
+    {
+      "album": {
+        "name": "Hey DJ (Remixes)",
+        "url": "https://open.spotify.com/album/3KMIgKp5t4I7F3d3U60mdD"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "LIAMOO",
+          "url": "https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br"
+        },
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184012,
+      "name": "Hey DJ (Refuzion Remix)",
+      "url": "https://open.spotify.com/track/29QZimw0fohQRHvCD7ZYFT"
     },
     {
       "album": {
@@ -14829,6 +14873,24 @@
     },
     {
       "album": {
+        "name": "Mingle Game Song (Round And Round)",
+        "url": "https://open.spotify.com/album/5J8MxbuBqKXyyM4Qdql6Dk"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84474,
+      "name": "Mingle Game Song (Round And Round)",
+      "url": "https://open.spotify.com/track/0KEMht9CB7EexAoGBuDZbh"
+    },
+    {
+      "album": {
         "name": "Minutes To Midnight",
         "url": "https://open.spotify.com/album/0IwpvUeNGrWwpVVfux9Hz6"
       },
@@ -15258,7 +15320,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 213677,
       "name": "My Own Path",
       "url": "https://open.spotify.com/track/75zCFjRh2CQb5nAT2moiwn"
@@ -15937,6 +15999,24 @@
     },
     {
       "album": {
+        "name": "No Angel",
+        "url": "https://open.spotify.com/album/1B1cP7J5EkwQIi8JO9So15"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "No Angel",
+      "url": "https://open.spotify.com/track/3JkPVnpvClPIif61EP4IrX"
+    },
+    {
+      "album": {
         "name": "No Gravity",
         "url": "https://open.spotify.com/album/6Le9uI86YS4dNlsCsUlGIc"
       },
@@ -16184,6 +16264,28 @@
       "duration_ms": 188903,
       "name": "Nobody Said It Was Easy (feat. Eelco)",
       "url": "https://open.spotify.com/track/1kvbBzDJoHYc3Bj4TpqGps"
+    },
+    {
+      "album": {
+        "name": "Nobody Stoppin Us",
+        "url": "https://open.spotify.com/album/0jvXorvaQEkSsfAz2FK9Ff"
+      },
+      "artists": [
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        },
+        {
+          "name": "Scarra",
+          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210488,
+      "name": "Nobody Stoppin Us",
+      "url": "https://open.spotify.com/track/5T5Pe4UOadLUaKxGsIo0jx"
     },
     {
       "album": {
@@ -20467,6 +20569,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/2URfrBctWJPR4dxuaGrE80"
+      },
+      "artists": [
+        {
+          "name": "VENNIC",
+          "url": "https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207874,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4QD8zw2fPYTufIbNV1f7UL"
+    },
+    {
+      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/75NHhqvk0Q2CO9jK6snNKZ"
       },
@@ -22605,6 +22725,24 @@
     },
     {
       "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/5WE8CHXY9q3zYu23MQMfly"
+      },
+      "artists": [
+        {
+          "name": "Nightcraft",
+          "url": "https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/3HfrSRXzKEbChOAdQbC3I4"
+    },
+    {
+      "album": {
         "name": "TAKING OVER",
         "url": "https://open.spotify.com/album/7gN1gSTN1rZmuW0goOmmPU"
       },
@@ -24340,6 +24478,28 @@
       "duration_ms": 206709,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/70y974H4TEVIuyImLTsAHV"
+    },
+    {
+      "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/5m97fHytpc1dAOSaXmNTaq"
+      },
+      "artists": [
+        {
+          "name": "Noisecontrollers",
+          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
+        },
+        {
+          "name": "Static Motion",
+          "url": "https://open.spotify.com/artist/657db5BkYygq0LI0fpIvfb"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226161,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/13ZlFYb8OfkbdlY3zlKSET"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Trueno con Feid y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,481 likes - 64 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,504 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 36 | [Te Voy A Regalar](https://open.spotify.com/track/2DBmBEu6L0ZVtTEyLH7e3e) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Te Voy A Regalar](https://open.spotify.com/album/1A2Q7SyCk9Di8psssnzCHM) | 2:48 |
 | 37 | [A Tu Compás](https://open.spotify.com/track/7k29gnz6YWD5JsvmsTa1MQ) | [Jalezz](https://open.spotify.com/artist/36pz5bGgSYy8RczEMcJDWd), [Raul Camacho](https://open.spotify.com/artist/10eONQKnUPe6K1pLnCUpqT) | [A Tu Compás](https://open.spotify.com/album/2XWOuiLoh4gX2rRoz8X9BW) | 3:20 |
 | 38 | [La Escapada\. Cap 8](https://open.spotify.com/track/6CiDyzL7h0m4wKOCMkCuRG) | [Negro Jari](https://open.spotify.com/artist/5wCD2Zj15nNjKiUl2o17JF), [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [La Escapada\. Cap 8](https://open.spotify.com/album/3PHGDtGSaoN46TRhQRUjlp) | 3:14 |
-| 39 | [Juro Que](https://open.spotify.com/track/55g8pO2TbOvBoNVRgrM935) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Juro Que](https://open.spotify.com/album/23CCHmgNmefaw1fZ0s31n4) | 3:04 |
+| 39 | [Juro Que](https://open.spotify.com/track/55g8pO2TbOvBoNVRgrM935) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Juro Que](https://open.spotify.com/album/23CCHmgNmefaw1fZ0s31n4) | 2:27 |
 | 40 | [Setas](https://open.spotify.com/track/2YVbrru4KQDnT6mTdzdI9F) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [ASNO](https://open.spotify.com/album/1D40QmXB90LSSS0FSGs66y) | 2:58 |
 | 41 | [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 |
 | 42 | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL) | 3:17 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 53 | [otro día](https://open.spotify.com/track/1QS1iRcAluULzf3RVTj96U) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg) | [la última página](https://open.spotify.com/album/3MSxN6GOVNWcdxtNEyE9Hh) | 4:06 |
 | 54 | [El Horóscopo](https://open.spotify.com/track/403yoIjg5G7GZ8iUjBxi7n) | [SAIBU](https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [El Horóscopo](https://open.spotify.com/album/3VOkIIS61XWUP1SoOyQIqK) | 2:59 |
 | 55 | [Radio](https://open.spotify.com/track/2BLWnaYTJQCzgkwQ1CJvk7) | [Morgan](https://open.spotify.com/artist/5KtT4N5jkrPVRAIcJ8GmnV) | [HOTEL MORGAN](https://open.spotify.com/album/6RFZkL8rPHJeoKO4NCwUjE) | 5:44 |
-| 56 | [Tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 |
+| 56 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 |
 | 57 | [el hilo](https://open.spotify.com/track/33rHLwegnvFV4RE8jSmf9E) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg) | [el hilo](https://open.spotify.com/album/6yB1rRRXJca0Uexu4UKobg) | 2:54 |
 | 58 | [capricho](https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:59 |
 | 59 | [Un poco más](https://open.spotify.com/track/7sr4IbjV6IxVUktNk86wf6) | [GREX](https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt) | [Un poco más](https://open.spotify.com/album/5e4oYrUK3XdyUHLi26md7X) | 2:40 |

@@ -1,6 +1,6 @@
 {
   "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Jessie Reyez",
-  "num_followers": 1744185,
+  "num_followers": 1744142,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -374,10 +374,14 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless",
+      "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

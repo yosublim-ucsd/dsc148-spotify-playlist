@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Strandz, Giggs
 
-1,425 songs - 3 day 0 hr 12 min
+1,426 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [4 The Win](https://open.spotify.com/track/2ci77PsnWsDLd57Opdud6a) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [4 The Win](https://open.spotify.com/album/6vjPlRatcX5zG3vUNJO3mv) | 3:27 | 2022-09-22 | 2022-09-24 |
 | [4 The Win](https://open.spotify.com/track/78UihSJn90VSGBBES12kFL) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:27 | 2022-09-23 | 2023-01-20 |
 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-10 | 2023-12-09 |
+| [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-02-03 |  |
 | [50s](https://open.spotify.com/track/3xGMOMy5PeVOoIl8zjzxRN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s](https://open.spotify.com/album/5NB0lhneowD68OlfY44Ed0) | 2:39 | 2022-12-09 | 2023-03-10 |
 | [6 Figures](https://open.spotify.com/track/5REHuumT1hFTNpDonMiqYt) | [Blade Brown](https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [6 Figures](https://open.spotify.com/album/7evdIkdwEnnxVEmKgPbBWM) | 2:00 | 2022-03-14 | 2022-03-25 |
 | [6ex In The Morning](https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:40 | 2022-11-18 | 2023-01-13 |
@@ -893,7 +894,7 @@
 | [Nostalgic](https://open.spotify.com/track/4c7hAxxli9JQ5cu5qgVyEY) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Nostalgic](https://open.spotify.com/album/6mnYEPTbNbCGSNrrRr6DKZ) | 3:37 | 2023-05-11 | 2023-06-02 |
 | [Not](https://open.spotify.com/track/2A6nUIicRakdC5VwkytMa9) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Quenga](https://open.spotify.com/artist/3SCF5O7tDI61AtzlE5z8Vv) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 3:33 | 2022-08-23 | 2022-08-31 |
 | [Not A Gold Digger](https://open.spotify.com/track/1Bs1wTR7nQznl6SaKgMq4X) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Not A Gold Digger](https://open.spotify.com/album/750CWMNi7dk4sItvrjhDfk) | 3:06 | 2024-08-02 | 2024-10-18 |
-| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-08 | 2024-11-08 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-08 |  |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-22 | 2023-03-09 |
 | [Not That Deep](https://open.spotify.com/track/1TrR6Lje004Yhdb4lBbbHk) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Not That Deep](https://open.spotify.com/album/07nrGRtcrHn9K2t3VCWyfz) | 2:20 | 2024-06-07 | 2024-07-05 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-09-16 | 2023-09-19 |

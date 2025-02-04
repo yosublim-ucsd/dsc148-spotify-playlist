@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 153760,
       "name": "Almost Made It",
       "url": "https://open.spotify.com/track/2pdYfeHGmZw01rqbspFIoZ"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 221492,
       "name": "And the Birds Sing",
       "url": "https://open.spotify.com/track/2dU1nKAltV9lWPfuHdHwnI"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 164630,
       "name": "Be Good (feat. Tom Rosenthal)",
       "url": "https://open.spotify.com/track/7ksUuRAALPLYjhlpwTcDCH"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 183853,
       "name": "Can't Hold Out on Love",
       "url": "https://open.spotify.com/track/5mZEmChvCko8MIEP5lLcqP"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 273533,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/2eKTPiHsDLaVV5aJpjW7Y3"
@@ -1041,6 +1041,42 @@
     },
     {
       "album": {
+        "name": "Give or Take a Few",
+        "url": "https://open.spotify.com/album/44qsKBxh5097kyFAlP9LFn"
+      },
+      "artists": [
+        {
+          "name": "Marble Sounds",
+          "url": "https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Give or Take a Few",
+      "url": "https://open.spotify.com/track/5FzCz6sNG38TC722559eAl"
+    },
+    {
+      "album": {
+        "name": "Leveller",
+        "url": "https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251426,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/0ZOEQL3Rs527cpaRNnV9fb"
+    },
+    {
+      "album": {
         "name": "Goodfoot",
         "url": "https://open.spotify.com/album/7nl91fBQrjHp0Efg8KJ3pg"
       },
@@ -1128,7 +1164,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
@@ -1338,6 +1374,42 @@
       "duration_ms": 256026,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/7fOstQ4Nq9Zkj2J0sZZ5rE"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6NiGNXGhMRoToVXf59ujX7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Geelens",
+          "url": "https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144574,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0rB5UZpt3AHmA8o80gxb2F"
+    },
+    {
+      "album": {
+        "name": "How About a Drink?",
+        "url": "https://open.spotify.com/album/1w3LJk9aI0OaDqEXtbkexz"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169096,
+      "name": "How About a Drink?",
+      "url": "https://open.spotify.com/track/7Mas27dGjWTu6PSiR7hntp"
     },
     {
       "album": {
@@ -1763,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Lay In The Sun",
+        "url": "https://open.spotify.com/album/3qTp8ABtfxzoxb70pUy015"
+      },
+      "artists": [
+        {
+          "name": "Shishani",
+          "url": "https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135040,
+      "name": "Lay In The Sun",
+      "url": "https://open.spotify.com/track/0BBB3QcVfHHY7w5lXT8ig6"
+    },
+    {
+      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -1814,7 +1904,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 260532,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7"
@@ -2032,6 +2122,24 @@
       "duration_ms": 219533,
       "name": "Lonely Nights (feat. Priscilla Ahn)",
       "url": "https://open.spotify.com/track/2rkk5vdzvYkahw9t0tAYgm"
+    },
+    {
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/42zZDUf8aA3p7SXgayzLVO"
+      },
+      "artists": [
+        {
+          "name": "SJ Hoffman",
+          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/0f3ad9J70tKjoehsC0Dbl0"
     },
     {
       "album": {
@@ -2280,7 +2388,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 233666,
       "name": "Lovely Morning",
       "url": "https://open.spotify.com/track/6efsCy6jKzBN6oz9xQEgKj"
@@ -2324,6 +2432,24 @@
       "duration_ms": 175828,
       "name": "Make It on Your Own",
       "url": "https://open.spotify.com/track/6g3h5Me9cAPMZVlGWZbXlN"
+    },
+    {
+      "album": {
+        "name": "matter (acoustic)",
+        "url": "https://open.spotify.com/album/5vwWSs8ggvKAy3UoP6XNbT"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181288,
+      "name": "matter - acoustic",
+      "url": "https://open.spotify.com/track/1A2W8FDYmlxVnw2rb8XjyT"
     },
     {
       "album": {
@@ -2432,7 +2558,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 194181,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/58FDKxg4uUVEOV0lSRHnQf"
@@ -2804,6 +2930,24 @@
       "duration_ms": 153493,
       "name": "Peaceful Now",
       "url": "https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE"
+    },
+    {
+      "album": {
+        "name": "Pillow Scream",
+        "url": "https://open.spotify.com/album/5tDWszKpaH5baAcFGpj6xF"
+      },
+      "artists": [
+        {
+          "name": "Will Knox",
+          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190379,
+      "name": "Pillow Scream",
+      "url": "https://open.spotify.com/track/5dt3DHWX8EnVR4QJZ0fhxI"
     },
     {
       "album": {
@@ -3455,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6lXsRALRbTwZC7In4eMLWr"
+    },
+    {
+      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29"
       },
@@ -3740,7 +3902,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 204689,
       "name": "Teach Me How To Dance With You",
       "url": "https://open.spotify.com/track/3eqWhMow4fBmD22XuuNQTe"
@@ -4032,6 +4194,24 @@
       "duration_ms": 222467,
       "name": "Trying My Best",
       "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
+    },
+    {
+      "album": {
+        "name": "Two After Twelve",
+        "url": "https://open.spotify.com/album/1PusfddhZ6d3Rt3PHMp2NP"
+      },
+      "artists": [
+        {
+          "name": "Maxine Julian",
+          "url": "https://open.spotify.com/artist/1EeyrU6wNgHmSNmG5dZYEv"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "Two After Twelve",
+      "url": "https://open.spotify.com/track/34v661LusKeFpxBr6U3sJM"
     },
     {
       "album": {

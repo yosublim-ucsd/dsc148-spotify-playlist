@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Lee Young Hyun(\uc774\uc601\ud604)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kwon Jin Ah(\uad8c\uc9c4\uc544)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -2447,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Excuse",
+        "url": "https://open.spotify.com/album/5CstpUDL81KyWYHqlsOS7G"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/25NbUuEgEGmMPiaCv3IAar"
+    },
+    {
+      "album": {
         "name": "First Letter",
         "url": "https://open.spotify.com/album/6KDXZk6JcmTkDtuW49ScTo"
       },
@@ -4242,7 +4260,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 243440,
       "name": "If you see me",
       "url": "https://open.spotify.com/track/1kJSVgmiirpy69GZYealwW"
@@ -4704,7 +4722,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 218320,
       "name": "JUST LOVE",
       "url": "https://open.spotify.com/track/0MdOgF705YiQELMS29p4gz"
@@ -6105,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "The Queen Who Crowns OST Part.3",
+        "url": "https://open.spotify.com/album/2R22prFpAEhkn5unRy3buY"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283293,
+      "name": "My Dream, My Love",
+      "url": "https://open.spotify.com/track/2XU6mwelJymDUz2WfYv6xi"
+    },
+    {
+      "album": {
         "name": "My Favorite Winter",
         "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
       },
@@ -6394,7 +6430,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 219186,
       "name": "Never Melt Away",
       "url": "https://open.spotify.com/track/0yHrlN8llbLyN4rCZD7max"
@@ -6694,6 +6730,24 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "album": {
+        "name": "The Queen Who Crowns OST Part.1",
+        "url": "https://open.spotify.com/album/2HfEC3ebmMP9k1HHtFCXDm"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245560,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4qjwurvhzFWb0hT0GeuYFl"
     },
     {
       "album": {

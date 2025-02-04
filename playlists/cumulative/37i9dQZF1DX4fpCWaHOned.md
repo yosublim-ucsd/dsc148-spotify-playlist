@@ -2,7 +2,7 @@
 
 ### [Confidence Boost](https://open.spotify.com/playlist/37i9dQZF1DX4fpCWaHOned)
 
-> I can buy my own flowers
+> She's working late..\. cos she's a Grammy Award winner.
 
 532 songs - 1 day 5 hr 19 min
 

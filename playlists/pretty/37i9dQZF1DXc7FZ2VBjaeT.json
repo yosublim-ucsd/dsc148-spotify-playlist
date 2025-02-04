@@ -1,13 +1,29 @@
 {
   "description": "Listen to all her biggest hits, in one place.",
-  "num_followers": 1748172,
+  "num_followers": 1749278,
   "original_name": "This Is Lady Gaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3dyQgAAAADA5O92wUGlArgyQcJT5K1v",
+  "snapshot_id": "Z6A50gAAAABfJ8gbKA6WqjGdv8Xawal3",
   "tracks": [
+    {
+      "added_at": "2025-02-03 03:36:50",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
     {
       "added_at": "2024-10-25 04:01:54",
       "album": {
@@ -807,26 +823,6 @@
       "duration_ms": 222106,
       "name": "The Fame",
       "url": "https://open.spotify.com/track/3HhAZV8ngUOOt4eUHovhud"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "Love For Sale (Deluxe)",
-        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/6jz5HzDmPuQ24U7u7KfKGw"
     },
     {
       "added_at": "2024-10-25 04:01:54",

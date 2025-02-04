@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 229657,
-  "original_name": "Hip-Hop and Play: Bossman Dlow Takeover",
+  "num_followers": 229643,
+  "original_name": "Hip-Hop and Play",
   "owner": {
     "name": "PlayStation\u00ae\ufe0f",
     "url": "https://open.spotify.com/user/playstation_music"
   },
-  "snapshot_id": "AAAKrHFEnwBHMtFA5zLlEdR1cLzZi2ks",
+  "snapshot_id": "AAAKsB3m0Obj2w12GwYET116yNHq1FBj",
   "tracks": [
+    {
+      "added_at": "2025-02-04 00:27:30",
+      "album": {
+        "name": "Jump Out",
+        "url": "https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "duration_ms": 104444,
+      "name": "The Whole World Is Free",
+      "url": "https://open.spotify.com/track/3SEdomp4pjtkEfdZ48e4VJ"
+    },
     {
       "added_at": "2025-01-16 20:52:32",
       "album": {
@@ -27,126 +43,6 @@
       "duration_ms": 180063,
       "name": "Mo Chicken (feat. French Montana)",
       "url": "https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn"
-    },
-    {
-      "added_at": "2025-01-16 20:52:32",
-      "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 121518,
-      "name": "46th Street",
-      "url": "https://open.spotify.com/track/1ufEb5mMR8kgYtoJsY4MZV"
-    },
-    {
-      "added_at": "2025-01-16 20:52:32",
-      "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/3oLR9OrpINJUQT4UcKBp7a"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 124556,
-      "name": "Dlow Curry",
-      "url": "https://open.spotify.com/track/3PwNJhkvRAbRJfTq3alFIP"
-    },
-    {
-      "added_at": "2025-01-16 20:52:32",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/7bEsA9QL79CqmMpFADe8LU"
-      },
-      "artists": [
-        {
-          "name": "LAZER DIM 700",
-          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
-        }
-      ],
-      "duration_ms": 98133,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/5Ryyh301NTp03Ays0ovWbS"
-    },
-    {
-      "added_at": "2025-01-16 20:52:32",
-      "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/6tXYuvwZnIuTMnN9QoMw3Z"
-    },
-    {
-      "added_at": "2025-01-16 20:52:32",
-      "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 122368,
-      "name": "Star Life",
-      "url": "https://open.spotify.com/track/1MnGIoD852ZRv4bjEndM7C"
-    },
-    {
-      "added_at": "2025-01-16 20:52:32",
-      "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4"
-      },
-      "artists": [
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
-    },
-    {
-      "added_at": "2025-01-16 20:52:32",
-      "album": {
-        "name": "The Kick Off",
-        "url": "https://open.spotify.com/album/6iPRyGEo3zvY1u7gepOjp5"
-      },
-      "artists": [
-        {
-          "name": "Rowdy Racks",
-          "url": "https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe"
-        },
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        }
-      ],
-      "duration_ms": 126264,
-      "name": "Groovy",
-      "url": "https://open.spotify.com/track/2EqnrBzEQW1uRAjPJFTboG"
     },
     {
       "added_at": "2025-01-16 20:52:32",
@@ -14185,6 +14081,6 @@
       "url": "https://open.spotify.com/track/1xzUQMiCoY5pdego0pHMeV"
     }
   ],
-  "unique_name": "Hip-Hop and Play: Bossman Dlow Takeover",
+  "unique_name": "Hip-Hop and Play",
   "url": "https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV"
 }

@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 413538,
+  "num_followers": 413664,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z51kAAAAAAAZDu5bYeZzCrvEGOe/4Ii/",
+  "snapshot_id": "Z561gAAAAAAZW0yJvKEHtPw78z5Lp8Po",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Lion",
-        "url": "https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 252884,
-      "name": "Young Lion",
-      "url": "https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d"
+      "duration_ms": 260066,
+      "name": "Maureen",
+      "url": "https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Young Lion",
+        "url": "https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 252884,
+      "name": "Young Lion",
+      "url": "https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -580,9 +596,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 260066,
-      "name": "Maureen",
-      "url": "https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN"
+      "duration_ms": 238400,
+      "name": "Tar Baby",
+      "url": "https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soldier of Love",
-        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Be That Easy",
-      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Life",
         "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Be That Easy",
+      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Tar Baby",
-      "url": "https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU"
+      "duration_ms": 407866,
+      "name": "War of the Hearts",
+      "url": "https://open.spotify.com/track/1s7cklguCg0rkLeBGA7quh"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 247266,
       "name": "Bring Me Home",
       "url": "https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 407866,
-      "name": "War of the Hearts",
-      "url": "https://open.spotify.com/track/1s7cklguCg0rkLeBGA7quh"
     },
     {
       "added_at": null,

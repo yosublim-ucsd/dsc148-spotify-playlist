@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSI21IGRaeuC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSI21IGRaeuC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSI21IGRaeuC)
 
-### [Minimal Tech](https://open.spotify.com/playlist/37i9dQZF1DWSI21IGRaeuC)
+### [Deep & Minimal](https://open.spotify.com/playlist/37i9dQZF1DWSI21IGRaeuC)
 
-> the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
+> the deep & minimal side of house and techno ⛏️⛏️ with Chris Stussy
 
-484 songs - 1 day 14 hr 7 min
+486 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Bring The Action](https://open.spotify.com/track/69kvxgM6Tp6YmqyuT582ja) | [Rello](https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48) | [Bring The Action](https://open.spotify.com/album/3Is4RYx6tTGJZgxLLIQda7) | 5:30 | 2024-03-08 | 2024-05-25 |
 | [Broke Man](https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Broke Man](https://open.spotify.com/album/1jp9pH3J4AD661hsZXudd7) | 5:42 | 2024-01-05 | 2024-03-02 |
 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-20 |  |
-| [Bumpin'](https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [ENDZ058](https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi) | 6:14 | 2024-11-04 |  |
+| [Bumpin'](https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [ENDZ058](https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi) | 6:14 | 2024-11-04 | 2025-02-04 |
 | [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 | 2023-03-17 | 2024-01-29 |
 | [C'mon](https://open.spotify.com/track/3p28zxsE5Ndd9CJUvpUwnC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [C'mon](https://open.spotify.com/album/1JFfBxteXBD0yGNbfENRdA) | 4:00 | 2023-08-04 | 2023-09-17 |
 | [can't stop the swing.](https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '23](https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL) | 6:04 | 2023-05-26 | 2023-11-07 |
@@ -150,7 +150,7 @@
 | [Fuego](https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h) | 3:10 | 2023-07-14 | 2024-03-09 |
 | [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-09 | 2023-07-20 |
 | [Funkboy](https://open.spotify.com/track/3GKus5g2N6czJ5Eo4oCGpd) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:25 | 2024-09-20 |  |
-| [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 | 2024-05-03 |  |
+| [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 | 2024-05-03 | 2025-02-04 |
 | [FUTURA](https://open.spotify.com/track/6R5Rb4u8PmIe1D7JtSCC96) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [FUTURA](https://open.spotify.com/album/5GXkaEk1CFgQbzvrvt3XUd) | 7:29 | 2023-08-25 | 2023-10-17 |
 | [Gabriella](https://open.spotify.com/track/7GJxUpVl7nn4D8zOZrfpLI) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Gabriella](https://open.spotify.com/album/57FtoXQp4OsWJSJhtQfA0a) | 7:42 | 2024-04-26 | 2024-05-04 |
 | [Galactica](https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Galactica](https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3) | 5:10 | 2023-07-21 | 2024-01-13 |
@@ -192,6 +192,7 @@
 | [Honey Bee \- Edit](https://open.spotify.com/track/2xH4BN0PnHxLhLSWufL370) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee \(Edit\)](https://open.spotify.com/album/2vk2dQnpVMQdrlwodQQjwB) | 4:23 | 2023-12-15 | 2024-02-05 |
 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 | 2022-06-03 | 2023-11-05 |
 | [Hooky \- LDN Dub Mix](https://open.spotify.com/track/2pmiDdLR1JaQxGjxfktsPg) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [For The Music, Pt\. 2](https://open.spotify.com/album/5V6ltIRpsRzqYsgxnRYWlu) | 3:18 | 2024-04-12 | 2024-12-08 |
+| [Hot](https://open.spotify.com/track/06wZg9GZN98e7ZxQRDXRD9) | [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [Sasha GiGi](https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5) | [Hot](https://open.spotify.com/album/14zX7DbCA9NLaKUGdwnL3O) | 5:57 | 2025-02-03 |  |
 | [Hot Like Fire](https://open.spotify.com/track/4y6GSJmMoUs3cG4A2R1R4d) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN) | [Hot Like Fire](https://open.spotify.com/album/4s8teNPfiPFmprfIp1YzVz) | 3:30 | 2025-01-07 |  |
 | [How Low Can You Go](https://open.spotify.com/track/3L4Sen9oMlDkmbeufDEU3Q) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [How Low Can You Go EP](https://open.spotify.com/album/2F9Karze72Hgnk3NW2x08G) | 3:52 | 2024-12-13 |  |
 | [How the Story Goes](https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [How the Story Goes](https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE) | 3:04 | 2024-10-04 | 2024-12-24 |
@@ -238,6 +239,7 @@
 | [Like It Is](https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Kids Love Acid House](https://open.spotify.com/album/4ETe9T1phkZPjTMCQDn4Cb) | 7:00 | 2022-06-03 | 2022-07-27 |
 | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids) | 2:56 | 2023-08-11 | 2023-09-29 |
 | [Lipid](https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Lipid](https://open.spotify.com/album/650mCjH1OTX40TgmzzkOP7) | 6:18 | 2022-06-03 | 2022-07-29 |
+| [Listen To The Bass](https://open.spotify.com/track/2Izxb9M06Te9rXNZ0LP6QY) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Don't Touch That Dial EP](https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl) | 3:34 | 2025-02-03 |  |
 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 | 2024-08-02 |  |
 | [Little Piggy](https://open.spotify.com/track/2efO97MDIWowC8n5yxfEvJ) | [PACH.](https://open.spotify.com/artist/1vhfOSmbBoEIhI89Eq3EF2) | [Body Control EP](https://open.spotify.com/album/4xy0spbHUrQRm0phUaUaVt) | 5:59 | 2024-05-24 | 2024-06-18 |
 | [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 | 2022-06-03 | 2024-02-08 |
@@ -293,7 +295,7 @@
 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 | 2023-05-26 | 2023-11-05 |
 | [Odile](https://open.spotify.com/track/3SVs5qlrL4O3NYw1Q0SnQb) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [Odile](https://open.spotify.com/album/3IRZJuTdFUjoswKXpTfaAC) | 3:17 | 2023-08-18 | 2023-09-17 |
 | [Oh Really](https://open.spotify.com/track/1AhLqJ6z2aIV17F0ijJvJR) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Oh Really](https://open.spotify.com/album/64YKsJIzGG6ilqM2c9s5Gi) | 3:34 | 2022-06-03 | 2022-07-21 |
-| [Okay Alright](https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Okay Alright](https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv) | 6:08 | 2022-08-26 | 2024-05-25 |
+| [Okay Alright](https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Okay Alright](https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv) | 6:08 | 2022-08-26 |  |
 | [Ole](https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/1LZqOEEoHgd2knaJMvJhZP) | 2:38 | 2023-02-17 | 2023-02-26 |
 | [Ole](https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen) | 2:38 | 2023-02-24 | 2024-01-22 |
 | [On Deck](https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [On Deck](https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy) | 3:18 | 2024-08-09 |  |
@@ -455,7 +457,7 @@
 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 | 2022-10-12 | 2023-10-21 |
 | [Vamo](https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [Vamo](https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA) | 3:36 | 2023-11-17 | 2024-08-17 |
 | [Velocity Funk](https://open.spotify.com/track/1U4LSGPscy17he2EXME0p7) | [George Privatti](https://open.spotify.com/artist/2sasskQYJB0zDfvUUtw0L6), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Velocity Funk](https://open.spotify.com/album/2WJ1YsxJMzFPVCLXJifDIR) | 2:58 | 2024-08-23 | 2024-08-31 |
-| [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 | 2024-05-10 |  |
+| [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 | 2024-05-10 | 2025-02-04 |
 | [Voices](https://open.spotify.com/track/6ayg5ddXVYrcYOjwJvtbGq) | [YOUniverse \(IT\)](https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii) | [Voices](https://open.spotify.com/album/7kiujTB11hmF8QgbCA7FaW) | 3:38 | 2024-05-10 | 2024-08-10 |
 | [W Up](https://open.spotify.com/track/4sD8IER4xBNH6Onug5klHU) | [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [W Up EP](https://open.spotify.com/album/1aG9J0UUaOLXdiKQnJ2gnk) | 3:15 | 2025-01-17 |  |
 | [Wait](https://open.spotify.com/track/6LSpFYdHDPiO6FndWILzCP) | [Botev](https://open.spotify.com/artist/6ocmQ5FlDB3SEfWJWo1Ny0) | [Wait](https://open.spotify.com/album/4lDtIwmSonyopCoxigYiFH) | 4:33 | 2024-09-06 | 2024-10-26 |

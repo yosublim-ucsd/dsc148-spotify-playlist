@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > This week, \#SpotifyTBT looking back at the pop\-rock scene of the 90s\. Cover: Adam Duritz of Counting Crows
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,303,647 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,303,631 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

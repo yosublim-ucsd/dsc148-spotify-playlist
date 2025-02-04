@@ -4,7 +4,7 @@
 
 > LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023, 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood song,1am Feels,BEST SONG'S FOREVER,Sad Love
 
-171 songs - 12 hr 57 min
+172 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Ishq Bulaava](https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sanam Puri](https://open.spotify.com/artist/5kiKQJrz4BT7vFWVECAmHH), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 5:03 | 2022-01-18 |  |
 | [Ishq Di Baajiyaan](https://open.spotify.com/track/6gHVMInOPMsA4ujf0nWHSt) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Soorma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76PIQnieybHVXDpW7Cc64l) | 4:47 | 2022-12-22 |  |
 | [Ishq Wala Love](https://open.spotify.com/track/1hQia6rxgfM1ly2hE3StWp) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 4:17 | 2021-09-02 |  |
+| [Jaane Tu \(From "Chhaava"\)](https://open.spotify.com/track/2xJljikiXXEymW80bqyG6u) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Jaane Tu \(From "Chhaava"\)](https://open.spotify.com/album/11cmqlCi2li2BrRBwV1otQ) | 4:44 | 2025-02-03 |  |
 | [Jab Se Tere Naina](https://open.spotify.com/track/0gRNu9dVzi5aC87AI1empZ) | [Monty Sharma](https://open.spotify.com/artist/554yyXUEFseU1dwvisHTik), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Saawariya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4E6rpd9IcOfe6X8mErzVxf) | 4:44 | 2022-05-10 |  |
 | [Janam Janam](https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 3:57 | 2021-10-19 |  |
 | [Jannatein Kahan](https://open.spotify.com/track/62wnQra2VgCUyHO3BUIAcr) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Mayur Puri](https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj) | [Jannat 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi) | 3:48 | 2023-06-26 |  |

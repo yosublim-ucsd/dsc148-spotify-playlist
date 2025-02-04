@@ -15065,6 +15065,24 @@
     },
     {
       "album": {
+        "name": "stay closer",
+        "url": "https://open.spotify.com/album/5pSHFnyIyAM9LWI2CtGXhJ"
+      },
+      "artists": [
+        {
+          "name": "Beats on 21st",
+          "url": "https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125041,
+      "name": "stay closer",
+      "url": "https://open.spotify.com/track/26d8n4MjhZNopkmZKqCHM0"
+    },
+    {
+      "album": {
         "name": "Lagom",
         "url": "https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4"
       },
@@ -15528,7 +15546,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 228965,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/71e14NqXbs73muybtabMjJ"

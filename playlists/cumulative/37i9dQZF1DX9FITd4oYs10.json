@@ -4186,7 +4186,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 191981,
       "name": "Rolo Compressor",
       "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
@@ -5068,11 +5068,15 @@
         {
           "name": "Pentagono",
           "url": "https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB"
+        },
+        {
+          "name": "Uter\u00e7o",
+          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
         }
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 246866,
       "name": "\u00c9 o Moio",
       "url": "https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW"

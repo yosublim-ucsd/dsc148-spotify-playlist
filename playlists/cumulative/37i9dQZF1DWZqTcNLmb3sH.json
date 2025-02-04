@@ -1347,6 +1347,28 @@
     },
     {
       "album": {
+        "name": "Alive (From \"Nodidavaru Enantare\")",
+        "url": "https://open.spotify.com/album/2tZZAIziv4udi7KNGcediU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Robert Kirk",
+          "url": "https://open.spotify.com/artist/6pJZo2WrJC33JQy4fNLKB0"
+        },
+        {
+          "name": "Mayuresh A",
+          "url": "https://open.spotify.com/artist/2jZG20zvYlAeYnfRYZnBOi"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259810,
+      "name": "Alive (From \"Nodidavaru Enantare\")",
+      "url": "https://open.spotify.com/track/5Uqi789L24pKEI4KkA1Yj0"
+    },
+    {
+      "album": {
         "name": "Butterfly (Kannada)",
         "url": "https://open.spotify.com/album/3JPHlyMAHGKfOmTNRqsEng"
       },
@@ -3146,6 +3168,32 @@
       "duration_ms": 204000,
       "name": "Baanu Bhoomi - From \"Kandidi Nodona\"",
       "url": "https://open.spotify.com/track/5APQaYxd4XKBCXfaloPsP2"
+    },
+    {
+      "album": {
+        "name": "Baare Baare Jinke Mari (From \"Shabhash Baddimagne\")",
+        "url": "https://open.spotify.com/album/2dY91LWdlmmrZrJ3jlM1Fu"
+      },
+      "artists": [
+        {
+          "name": "S P Bhupathi",
+          "url": "https://open.spotify.com/artist/43PWPcqmRWTYdKiLY0vHK0"
+        },
+        {
+          "name": "K Kalyan",
+          "url": "https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3"
+        },
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "Baare Baare Jinke Mari (From \"Shabhash Baddimagne\")",
+      "url": "https://open.spotify.com/track/7ij9tio885wO7oP7qPCeRF"
     },
     {
       "album": {
@@ -7072,7 +7120,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 217159,
       "name": "Dhad Nan Magane (From \"Nimde Kathe\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/43kmEYZv84aGExwGDM3qyc"
@@ -8294,6 +8342,36 @@
       "duration_ms": 294899,
       "name": "Ee Bhoomi - Sangeeth Song",
       "url": "https://open.spotify.com/track/02VU9iE0tU11Znza9z6uwC"
+    },
+    {
+      "album": {
+        "name": "Ee Bhuvana Aa Gagana (From \"Bhuvanam Gaganam\")",
+        "url": "https://open.spotify.com/album/3HBL1Ip3PUe5DtG3PDt588"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Gummineni Vijay",
+          "url": "https://open.spotify.com/artist/7tlDk660qu9f7yYtpIlFGw"
+        },
+        {
+          "name": "Ghouse Peer",
+          "url": "https://open.spotify.com/artist/7rN3ZHyF91OoEkEmktdvyB"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271792,
+      "name": "Ee Bhuvana Aa Gagana (From \"Bhuvanam Gaganam\")",
+      "url": "https://open.spotify.com/track/69aZBAxrrWDTDoPteDhgEc"
     },
     {
       "album": {
@@ -13602,7 +13680,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 193428,
       "name": "Hungama (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
       "url": "https://open.spotify.com/track/2xrXMNJ2DZJ8jPkfvMZHiR"
@@ -21376,6 +21454,24 @@
       "duration_ms": 200717,
       "name": "Mouna (From \"Murphy\")",
       "url": "https://open.spotify.com/track/4e4zz3JuIlZ54kHd2zo6vM"
+    },
+    {
+      "album": {
+        "name": "Mouna (From \"Nimitta Matra\")",
+        "url": "https://open.spotify.com/album/2Cd05RWyeMqhFq7RE0p0uk"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Rajeev",
+          "url": "https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "Mouna (From \"Nimitta Matra\")",
+      "url": "https://open.spotify.com/track/10T895kCP3lO0Bm857spMw"
     },
     {
       "album": {
@@ -32802,7 +32898,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 193117,
       "name": "Tere Bina (From \"Zebra\") [Kannada]",
       "url": "https://open.spotify.com/track/05lPTt3KayVmTF2GCC1hcJ"

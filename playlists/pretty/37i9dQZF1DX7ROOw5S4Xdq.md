@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,178 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,232 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 26 | [Estou Aqui](https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Estou Aqui](https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z) | 3:29 |
 | 27 | [Amor Que Constrange \- Ao Vivo](https://open.spotify.com/track/2iLTSeXKlSyaK2WwfvaC3q) | [Dilson e Débora](https://open.spotify.com/artist/3i21tba5PzQz8F5HuwyIHV), [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Amor Que Constrange \(Ao Vivo\)](https://open.spotify.com/album/4cLAa54FKsz2VYRYInrh0g) | 4:32 |
 | 28 | [Isso Muda Tudo](https://open.spotify.com/track/5BMsS0SrYhksvK2RyHNVRZ) | [Ipalpha Nova](https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM), [Ipalpha](https://open.spotify.com/artist/4L2uFeD7eBwcr6HVanlvNg) | [Isso Muda Tudo](https://open.spotify.com/album/144j0Og0THAX7OrueMexh7) | 5:12 |
-| 29 | [Além da Dor \- Ao Vivo](https://open.spotify.com/track/5whl2bGgvEvb6WvxQ5CV2H) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Thayna Azevedo](https://open.spotify.com/artist/2ZcolXX8HMPKGeY926QenE) | [A Glória da Segunda Casa, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4vjSGGLV2Mho6TqMrB3WFB) | 11:22 |
+| 29 | [Além da Dor \- Ao Vivo](https://open.spotify.com/track/5whl2bGgvEvb6WvxQ5CV2H) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Thayna Azevedo](https://open.spotify.com/artist/2ZcolXX8HMPKGeY926QenE) | [A Glória da Segunda Casa, Ato 1 \(Ao Vivo\)](https://open.spotify.com/album/4vjSGGLV2Mho6TqMrB3WFB) | 11:22 |
 | 30 | [Bastidores \- Ao Vivo](https://open.spotify.com/track/2msh8XrQd2yEJJmlsBkl7W) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Bastidores \(Ao Vivo\)](https://open.spotify.com/album/59jtTbqwjhTKC7IVsTgfnX) | 6:35 |
 | 31 | [Vim Para Adorar\-te \- Ao Vivo](https://open.spotify.com/track/539oE0qeQcwMJLlEOJN0Pu) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Vim Para Adorar\-Te \(Ao Vivo\)](https://open.spotify.com/album/2cqZPB6rWgOT4LOwWcsoud) | 4:12 |
 | 32 | [Meu Futuro \- Ao Vivo](https://open.spotify.com/track/0qwbgpG5ZjrTQDaazga9lV) | [Casa do Oleiro Adoração](https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv) | [Meu Futuro \(Ao Vivo\)](https://open.spotify.com/album/23LZ52Kxzo2bQQko9tHGzz) | 4:53 |

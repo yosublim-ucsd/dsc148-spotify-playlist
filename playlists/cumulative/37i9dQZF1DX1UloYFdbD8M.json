@@ -731,6 +731,32 @@
     },
     {
       "album": {
+        "name": "Bhal Lage",
+        "url": "https://open.spotify.com/album/4PFkaMSOYfqNRXSEpFBA0N"
+      },
+      "artists": [
+        {
+          "name": "RajdeepMusic",
+          "url": "https://open.spotify.com/artist/1w8Fqh5P94YeLgJpMZAZGj"
+        },
+        {
+          "name": "STANNiUM",
+          "url": "https://open.spotify.com/artist/3xjWUU2asayhICfjknfGyf"
+        },
+        {
+          "name": "Hirak Jyoti Sarma",
+          "url": "https://open.spotify.com/artist/20rNQvxTCAk1LQOTtv4pKD"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168486,
+      "name": "Bhal Lage",
+      "url": "https://open.spotify.com/track/4PyKda0dhHiHsruUw3uug9"
+    },
+    {
+      "album": {
         "name": "Bait/Switch",
         "url": "https://open.spotify.com/album/5BVFf3JcElyZUD1ds8N0St"
       },
@@ -2376,7 +2402,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 313712,
       "name": "LOVESICK",
       "url": "https://open.spotify.com/track/2FJd24vjgpvd3C0WK4ZwAA"
@@ -3006,7 +3032,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 250032,
       "name": "Nathune",
       "url": "https://open.spotify.com/track/2HcGtTLqWl7miMLKPSlGoI"
@@ -3574,7 +3600,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 183157,
       "name": "Ookku - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/0yDl4lv4HdqyVwyf6gEDBf"
@@ -5318,6 +5344,32 @@
       "duration_ms": 212932,
       "name": "Vettam",
       "url": "https://open.spotify.com/track/11CrYElJH7l26yy5Tb5Ihy"
+    },
+    {
+      "album": {
+        "name": "Vettam",
+        "url": "https://open.spotify.com/album/5TJaD6iQG8fSQebrEOZokD"
+      },
+      "artists": [
+        {
+          "name": "Vocal Dude",
+          "url": "https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI"
+        },
+        {
+          "name": "Irshad_dri",
+          "url": "https://open.spotify.com/artist/5fuaNrsoNucHTxysU3bnoJ"
+        },
+        {
+          "name": "Sourav Suresh",
+          "url": "https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Vettam",
+      "url": "https://open.spotify.com/track/4gt0eAORr5xdgr9bhRvH9f"
     },
     {
       "album": {

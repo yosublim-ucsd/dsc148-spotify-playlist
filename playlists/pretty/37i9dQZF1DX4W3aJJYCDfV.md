@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Weeknd \(pictured\), Bring Me The Horizon, JENNIE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,189 likes - 114 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,204 likes - 114 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 105 | [California \(feat\. CLOVES\)](https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [California \(feat\. CLOVES\)](https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw) | 3:18 |
 | 106 | [Find Peace](https://open.spotify.com/track/7y51ESqrsj7cVC8jot2vBP) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Find Peace](https://open.spotify.com/album/4mEiJ27tKr9qzVqO8QaaPp) | 3:02 |
 | 107 | [magic](https://open.spotify.com/track/02cnKY1iCTP2qp2VRYPJ00) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [magic](https://open.spotify.com/album/7yKJY3opymgCgsoAFBrami) | 2:55 |
-| 108 | [My Love For You](https://open.spotify.com/track/5p2dlnHVDxqqaZPMs8YJod) | [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD) | [My Love For You](https://open.spotify.com/album/4za4vcK0U4hqw5arJxz3Ib) | 5:05 |
+| 108 | [My Love 4 U](https://open.spotify.com/track/5p2dlnHVDxqqaZPMs8YJod) | [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [My Love 4 U](https://open.spotify.com/album/4za4vcK0U4hqw5arJxz3Ib) | 3:29 |
 | 109 | [Got Me Burnin'](https://open.spotify.com/track/6CdgfuWyFenGepAzdTJy1f) | [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe) | [Got Me Burnin'](https://open.spotify.com/album/0USQ18MG3L8Juehf3Q7CkK) | 4:08 |
 | 110 | [Limehouse](https://open.spotify.com/track/3o9Oez2hQyanbHUvbV7Yoa) | [POLO JAFFA](https://open.spotify.com/artist/17elXZK1RlBOcrDJ8HjEhJ) | [Limehouse](https://open.spotify.com/album/5XpvYmlwR3iu1yyzFSMugh) | 3:21 |
 | 111 | [Would You Feel Better?](https://open.spotify.com/track/03IliuUQrFbLXRqEuI2noo) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [Far Away EP](https://open.spotify.com/album/59sZZNvGlI4sdDqIQdhUB3) | 4:03 |

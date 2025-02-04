@@ -2,7 +2,7 @@
 
 ### [Best New Artist](https://open.spotify.com/playlist/37i9dQZF1DX2SaVGyZ9hsv)
 
-> Congratulations to all the nominees for Best New Artist 2025.
+> Congratulations to Best New Artist 2025 \- Chappell Roan
 
 45 songs - 2 hr 28 min
 

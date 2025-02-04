@@ -2,15 +2,16 @@
 
 ### [melomania](https://open.spotify.com/playlist/37i9dQZF1DWYFysGpUi8gb)
 
-> welcome to the underground\. greetings from porridge radio.
+> welcome to the underground\. greetings from black country, new road.
 
-195 songs - 11 hr 57 min
+201 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11](https://open.spotify.com/track/5uA9Ge1b2pipaONSF6cqnZ) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [11](https://open.spotify.com/album/68Ynadm5z5MYXRpRdnG6kf) | 2:53 | 2024-09-26 |  |
 | [2010](https://open.spotify.com/track/7xmCHaJqmZe9uhd3YeM987) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [2010](https://open.spotify.com/album/0HAbMqWVCeVwOBRNPIN02H) | 2:50 | 2024-06-14 | 2024-12-06 |
 | [2468](https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [2468](https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV) | 3:17 | 2024-11-22 |  |
+| [7 Minute Cigarette](https://open.spotify.com/track/4XIVhhgBbijsDhr8sBft4H) | [Parlay](https://open.spotify.com/artist/5u18L2iyCXqC6U02hDbTFc) | [7 Minute Cigarette](https://open.spotify.com/album/34iuem73NZCm3fKHvqyY2b) | 3:25 | 2025-02-03 |  |
 | [A Bit Like James Bond](https://open.spotify.com/track/4fASEx9IsOpo4SFsp67C8b) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [A Bit Like James Bond](https://open.spotify.com/album/3KDe2kXtkphSAfCYbwg6A0) | 2:38 | 2024-08-16 | 2024-11-23 |
 | [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 | 2025-01-17 |  |
 | [ahhhh!hhhh! \(i don't wanna go\)](https://open.spotify.com/track/1ehKFwhOB6ZSJuL0vbaxUT) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [the 8th cumming](https://open.spotify.com/album/1mH3BBuoz7FHrurfnbPRNY) | 3:09 | 2024-12-06 |  |
@@ -25,6 +26,7 @@
 | [Battle](https://open.spotify.com/track/3MTuf7SClqUl0UlPsrixPW) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Battle](https://open.spotify.com/album/3IbYC7UpTbAYKDmNRPdrUp) | 2:34 | 2024-06-14 | 2024-10-18 |
 | [bear walk](https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california / bear walk](https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy) | 3:33 | 2024-12-06 | 2025-01-17 |
 | [Bedwetter](https://open.spotify.com/track/0Pkkje3ykyNs1reEKq2Xih) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Bedwetter](https://open.spotify.com/album/3boYoDjJRkzVCRtruIGDXX) | 5:26 | 2025-01-17 |  |
+| [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-02-03 |  |
 | [BIG FISH](https://open.spotify.com/track/3gGtZis4nJpIMGGM2g0lcm) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [BIG FISH](https://open.spotify.com/album/3YOYvZEPsU7hMRiTmf9GWb) | 3:10 | 2024-09-05 | 2024-11-23 |
 | [Big In The Suburbs](https://open.spotify.com/track/5pqWWz46yO1aEWNFLSKnwW) | [Welly](https://open.spotify.com/artist/65LFWKj4j7xul6eSIN4IOI) | [Big In The Suburbs](https://open.spotify.com/album/1XdglB6kgGO6psjbDfLIzQ) | 5:01 | 2024-11-22 |  |
 | [Big Minnie](https://open.spotify.com/track/4DvxVU5iMZWF2vWq4HrVHa) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Big Minnie](https://open.spotify.com/album/2EErvdZJhob9HvvopNbNum) | 2:02 | 2025-01-17 |  |
@@ -61,6 +63,7 @@
 | [Dogs](https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd), [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Dogs](https://open.spotify.com/album/0Bu37cEkAfk8UGuSlMx9cm) | 3:33 | 2024-09-26 |  |
 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 | 2024-06-14 | 2024-12-06 |
 | [Don’t Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 |  |
+| [Dream Pixel](https://open.spotify.com/track/5K6IBtFEq8tDshC5Hu4CT3) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [Dream Pixel](https://open.spotify.com/album/5tV3kGOeNSM6xi8KtUYUyh) | 4:23 | 2025-02-03 |  |
 | [Dream Untitled \(On and On\)](https://open.spotify.com/track/7D7C76K9lJvDiZhzMNZrlM) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Dream Untitled \(On and On\)](https://open.spotify.com/album/18F789MGT0N0PgNsES9HPA) | 4:03 | 2024-09-05 |  |
 | [Dreams Aren't Enough](https://open.spotify.com/track/31cbWUY16syoEfOTz4g0dg) | [IST IST](https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq) | [Dreams Aren't Enough](https://open.spotify.com/album/1RhlvRwVVjKKC29gg5BCrS) | 3:16 | 2024-08-16 | 2024-10-18 |
 | [DUST OFF / START AGAIN](https://open.spotify.com/track/0lm396qvZ5yknbNQiEIA7z) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/1Ul753hYh0vX3EESvU5kef) | 3:44 | 2024-06-14 | 2024-08-17 |
@@ -78,6 +81,8 @@
 | [Fibbs](https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Fibbs](https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l) | 3:28 | 2024-06-14 | 2024-07-13 |
 | [Fish](https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Fish](https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2) | 3:45 | 2024-06-14 | 2024-10-07 |
 | [Flowers in the Rain](https://open.spotify.com/track/56sGK0Vx2NKKh3iTQVR6cF) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [Flowers in the Rain](https://open.spotify.com/album/3ch7NaK5OfME3gyySmo7Dt) | 3:35 | 2024-10-17 |  |
+| [Four](https://open.spotify.com/track/4aXP57iyfp7ApVMc9pu3md) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Four](https://open.spotify.com/album/2rMmBni7bR0pH9wiWVmmBf) | 3:00 | 2025-02-03 |  |
+| [Freedom](https://open.spotify.com/track/2CXhy8jh539ftEi5X49zqB) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Freedom](https://open.spotify.com/album/7BBlBzoPmvwxLYuVqIlCd6) | 3:10 | 2025-02-03 |  |
 | [Frog](https://open.spotify.com/track/1NRYR8oEWf17e3wcEbG06O) | [Daisy and The Deadheads](https://open.spotify.com/artist/2W9Smxs6424NtrKRN53rSb) | [Butter Wouldn't Melt](https://open.spotify.com/album/1boGE1Y6CfBS2s6JjRZ7BM) | 4:04 | 2024-07-12 | 2025-01-17 |
 | [Fugue \(Bin Song\)](https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Fugue \(Bin Song\)](https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL) | 5:22 | 2024-06-14 | 2024-07-27 |
 | [Ghosts](https://open.spotify.com/track/2svpdfxyaEL2wj2e9O3QYk) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Ghosts](https://open.spotify.com/album/6GaapvopMyzQ4jCAMcDAGR) | 3:01 | 2025-01-17 |  |
@@ -134,6 +139,7 @@
 | [Pull It Off](https://open.spotify.com/track/62N7hm6eDRcSZnUJgZBY2m) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [Twist Grip](https://open.spotify.com/album/4tfy7UXtrANEnVc5kDmG4r) | 2:32 | 2024-09-26 |  |
 | [Pumpkin](https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Pumpkin](https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs) | 4:17 | 2024-06-14 | 2024-12-06 |
 | [Rain](https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Rain](https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp) | 3:16 | 2024-08-16 |  |
+| [Raoul](https://open.spotify.com/track/1vwEPyKwOkllCo6ulQJR3I) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Raoul](https://open.spotify.com/album/2lWLuPhglhZMRb5fvbmdmN) | 5:07 | 2025-02-03 |  |
 | [Red Fibres](https://open.spotify.com/track/6koytEr9q7i6xreFg7V1bQ) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Red Fibres](https://open.spotify.com/album/7LMb3NorMKnQoap9LHs6T8) | 5:06 | 2024-06-14 | 2024-12-06 |
 | [Rehash](https://open.spotify.com/track/51Rt58qoVV08JasOPQkWFr) | [Last Waltzon](https://open.spotify.com/artist/79T273iKWd4Tfji4eQlst2) | [Rehash](https://open.spotify.com/album/7nUIzP9dXZKuHJp8OCbBFR) | 1:27 | 2024-06-14 | 2024-09-27 |
 | [Relief](https://open.spotify.com/track/6UKMajlKbSknZFdimZURwj) | [Our Girl](https://open.spotify.com/artist/09Lrr4vGyWxxsuo3lrZW7f) | [Relief](https://open.spotify.com/album/1TYaUNWodutkBffZ5Ul7Zp) | 4:29 | 2024-06-14 | 2024-12-06 |

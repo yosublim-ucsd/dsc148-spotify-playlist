@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 85908,
+  "num_followers": 85943,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -571,30 +571,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
-        }
-      ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 163373,
       "name": "Menea la Cadera",
       "url": "https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+        }
+      ],
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -659,22 +659,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Brindemos Por Ellas",
-        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
+        "name": "La Guarachita",
+        "url": "https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG"
       },
       "artists": [
         {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Baby Joss",
-          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
+          "name": "Clap Freckles",
+          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
         }
       ],
-      "duration_ms": 208146,
-      "name": "Brindemos Por Ellas",
-      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
+      "duration_ms": 179261,
+      "name": "La Guarachita",
+      "url": "https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -699,18 +695,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "La Guarachita",
-        "url": "https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG"
+        "name": "Brindemos Por Ellas",
+        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
       },
       "artists": [
         {
-          "name": "Clap Freckles",
-          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Baby Joss",
+          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
         }
       ],
-      "duration_ms": 179261,
-      "name": "La Guarachita",
-      "url": "https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii"
+      "duration_ms": 208146,
+      "name": "Brindemos Por Ellas",
+      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
     },
     {
       "added_at": "2024-07-05 22:41:57",

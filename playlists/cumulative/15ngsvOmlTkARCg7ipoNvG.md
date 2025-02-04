@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,886 songs - 1 day 14 hr 32 min
+1,887 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1854,6 +1854,7 @@
 | [Winter Stars](https://open.spotify.com/track/3ooGiXWggJaFgHqMTsYb1V) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rising Light](https://open.spotify.com/album/0htQDvvGMdICGa3gM2Z8be) | 1:01 | 2022-04-30 |  |
 | [Winter Stars](https://open.spotify.com/track/0SgPOgibVOPbcrFkasDL66) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Winter Stars](https://open.spotify.com/album/0SU7Uqp1A1KQuY4TsiePiQ) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Winter Stars \- Strings Version](https://open.spotify.com/track/58rrzaQs9mOoG3xYUKMhwa) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Winter Stars \(Strings Version\)](https://open.spotify.com/album/6TPtn58wMmZoSunwRPVu86) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Winter Sunset](https://open.spotify.com/track/1gLACMq0c8sFTiL3vSMdQi) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Sunset](https://open.spotify.com/album/0V7BW2DXxMROofON52Ifuf) | 1:00 | 2025-02-03 |  |
 | [Winter Sunshine](https://open.spotify.com/track/3jK42lBL023nhRIzsFqIX2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:43 | 2022-01-20 |  |
 | [Wish And Wonder \- Cello Version](https://open.spotify.com/track/61adYDrXeAXBvRiwWQeWsF) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Wish And Wonder](https://open.spotify.com/album/1oRNW6dxWomkyuli4m61zG) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Wish Me Well Arr\. For Cello](https://open.spotify.com/track/6QLM2awcrALis6qalmZcWk) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Wish Me Well](https://open.spotify.com/album/4bwfmpW4HymYcdeqeSnGy4) | 1:01 | 2023-04-19 | 2024-02-13 |

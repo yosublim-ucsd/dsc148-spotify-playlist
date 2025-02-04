@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Park Ji Hyeon\(박지현\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-938 songs - 2 day 5 hr 31 min
+939 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Comforter](https://open.spotify.com/track/4Pe0HCc3Gib0o5bEU9genz) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Comforter](https://open.spotify.com/album/12GZbwU8Cjfu1pQTmtNNi1) | 3:29 | 2022-10-07 | 2024-02-18 |
 | [Comforter](https://open.spotify.com/track/4VfClH8cM4Wlb8ZeH0KHBH) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 3:29 | 2022-04-22 | 2022-07-29 |
 | [Comforting hand](https://open.spotify.com/track/69HWfCUmPh7zD6dXSoQMCu) | [Choi Hyeonsang](https://open.spotify.com/artist/6ALjJAXxqk08xe0ziGT1zT) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 4:16 | 2022-05-03 | 2022-07-22 |
+| [Comforting Hand](https://open.spotify.com/track/3Oa4Z7TUxMAByvWGwgJ6n0) | [San Ha Kim](https://open.spotify.com/artist/0sBnGIZpbHCmpR2QGBOu1c) | [Queen of Diva preliminary match PART 2](https://open.spotify.com/album/5JAFCasBJSuk0QJKeLyBTa) | 4:35 | 2025-01-31 |  |
 | [Coming home](https://open.spotify.com/track/50eaioaMEGRbia13qeyU4h) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Love call center PART18](https://open.spotify.com/album/44u1ZQbUrDmFKK3dk1m0m9) | 3:55 | 2023-02-24 | 2023-05-12 |
 | [Coming home](https://open.spotify.com/track/7kAoWIj2uWUrZRosRZ2kMp) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 3:55 | 2022-04-21 | 2022-07-23 |
 | [Companion](https://open.spotify.com/track/3gTrOXrnkpfGokyhg4nwsX) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 3:08 | 2022-05-03 | 2022-06-08 |
@@ -526,7 +527,7 @@
 | [Okey Dokey \- Rock Version](https://open.spotify.com/track/2276dmQlSUR0zLBGRvrVNs) | [Kim Kyeungnam](https://open.spotify.com/artist/1TPUkl5PoJkwfNBYvMOqww) | [Revolutionary Sisters \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/15JZ2facfxwyYFZtRfBSyW) | 2:25 | 2022-04-22 | 2022-07-24 |
 | [Old love](https://open.spotify.com/track/1O26SZao7BhkTF2CWWZX4R) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART6](https://open.spotify.com/album/13HpqMqyjzlWI8lfNWxHUh) | 4:54 | 2022-04-22 | 2022-07-25 |
 | [Old Song](https://open.spotify.com/track/4t4KJfgbViWprTyPCo2zvl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 4:19 | 2022-04-07 | 2022-07-29 |
-| [Older sister is good](https://open.spotify.com/track/7M82JdFbYgDoqY6cAh8BUN) | [Lee Daewon](https://open.spotify.com/artist/5xY7mObtalDCBVkYeqDSjF) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:02 | 2024-12-23 |  |
+| [Older sister is good](https://open.spotify.com/track/7M82JdFbYgDoqY6cAh8BUN) | [Lee Daewon](https://open.spotify.com/artist/5xY7mObtalDCBVkYeqDSjF) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:02 | 2024-12-23 | 2025-02-04 |
 | [Olle](https://open.spotify.com/track/6BaHd4rHtl6bIo02EY8tj0) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:13 | 2022-04-22 | 2022-07-25 |
 | [On Your Side](https://open.spotify.com/track/46g4W1SZa9oQMDp1w7ItKI) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [On Your Side](https://open.spotify.com/album/6ICVii1l4RuNegMBBZ20ZW) | 3:06 | 2022-04-21 | 2022-07-16 |
 | [on your side](https://open.spotify.com/track/44ExXyftpKuTid27OwfnF9) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [on your side](https://open.spotify.com/album/1zGuwf2nqVE4C3DqMxgVD5) | 3:06 | 2023-07-24 | 2023-08-19 |

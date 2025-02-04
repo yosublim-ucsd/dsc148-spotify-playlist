@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 鈴木実貴子ズ（Suzuki Mikiko's）
 
-2,125 songs - 5 day 12 hr 39 min
+2,126 songs - 5 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kaleidoscope](https://open.spotify.com/album/4oBjaVl3xzRyVXxiB3T8Yz) | 3:28 | 2023-12-19 | 2024-01-12 |
 | [Kanade](https://open.spotify.com/track/35xsiA7qQnz1QMlmeTcpgH) | [Ryusuke Tanaki and the Library](https://open.spotify.com/artist/7jeaceEhKeLLp0zC2qPVzM) | [Kanade](https://open.spotify.com/album/7kDlMYo3ahLOAh7s5twUa7) | 4:33 | 2024-01-16 | 2024-01-24 |
 | [kani](https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [kani](https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28) | 1:49 | 2023-12-19 | 2024-02-14 |
+| [Karakara](https://open.spotify.com/track/04zteh0RRRlTsTp54sId8I) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Karakara](https://open.spotify.com/album/0z6RxvvDXIz33aQhLtyFcH) | 2:17 | 2025-01-28 |  |
 | [Kayoesque](https://open.spotify.com/track/3t5SYliIbQN92fQsIAeec7) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Kayoesque](https://open.spotify.com/album/4S6T3yQD7L4j88AJgkneKX) | 3:23 | 2023-11-30 | 2023-12-06 |
 | [Keepin Quiet](https://open.spotify.com/track/0PXNKHwNOhWNUMr57BLcP5) | [LilyClone](https://open.spotify.com/artist/7b9iPPDSz0VFOHu3xmbDDE) | [Keepin Quiet](https://open.spotify.com/album/0wRtsuXvw05JKC1ccG7SQL) | 3:04 | 2023-02-21 | 2023-03-15 |
 | [Keiken](https://open.spotify.com/track/4a8PnIB6neH5fmIDQdJwos) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [Keiken](https://open.spotify.com/album/556Os9XBPSIw2dfYYU39c3) | 4:20 | 2023-04-20 | 2023-04-26 |
@@ -1325,7 +1326,7 @@
 | [Wonder](https://open.spotify.com/track/7LmyUMkJ3NZXaznMpKbyBP) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [Wonder](https://open.spotify.com/album/7vfrEch41gKo7P7NTFhU2a) | 2:47 | 2023-08-08 | 2023-08-23 |
 | [Wonderful Christmastime](https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Wonderful Christmastime](https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI) | 2:57 | 2024-12-04 | 2025-01-24 |
 | [Wonderland](https://open.spotify.com/track/788dZDpJRy4wqFtOgpR0LH) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Wonderland](https://open.spotify.com/album/3aHWK9k7l5KKIr6sajBg03) | 3:19 | 2025-01-21 | 2025-01-29 |
-| [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-10 |  |
+| [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-10 | 2025-02-04 |
 | [Worst Dawn](https://open.spotify.com/track/05jo10yiDMaGSq3o7W05Zf) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Worst Dawn](https://open.spotify.com/album/4ZRBDAB1syNByoZQqRcjO0) | 3:42 | 2024-03-19 | 2024-03-27 |
 | [Worthy of..](https://open.spotify.com/track/00CUwlsD6vMV8gh8M7FggK) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Worthy of..](https://open.spotify.com/album/4mJPj7GNJhMy1JIlo7r71S) | 4:09 | 2023-03-07 | 2023-03-22 |
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |

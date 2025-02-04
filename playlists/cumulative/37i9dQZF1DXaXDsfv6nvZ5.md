@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-667 songs - 1 day 16 hr 8 min
+668 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-11 |  |
 | [Fine By Myself](https://open.spotify.com/track/0V3Ml2chd5ssOkUrz1X7FU) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Fine By Myself](https://open.spotify.com/album/4tBU38rdZK9rGZDDnaoVvs) | 2:43 | 2023-11-10 | 2024-11-09 |
 | [Fist Bump \(feat\. Free Nationals\) \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(feat\. Free Nationals\) \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 | 2024-05-17 |  |
-| [Flawless](https://open.spotify.com/track/7rCk0YGYPTgzdAUba5faP5) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Night About You](https://open.spotify.com/album/2bNdsHCAtT7UmllvIKP0PZ) | 3:23 | 2024-11-08 |  |
+| [Flawless](https://open.spotify.com/track/7rCk0YGYPTgzdAUba5faP5) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Night About You](https://open.spotify.com/album/2bNdsHCAtT7UmllvIKP0PZ) | 3:23 | 2024-11-08 | 2025-02-04 |
 | [Flaws & All](https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Flaws & All](https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww) | 3:15 | 2023-07-07 |  |
 | [Flow State](https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Flow State](https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE) | 2:32 | 2023-10-20 | 2025-02-01 |
 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 | 2023-10-06 | 2024-02-17 |
@@ -385,6 +385,7 @@
 | [MIllion Shades](https://open.spotify.com/track/4qTg1pM6JpCxfmGVqOLqRY) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Million Shades](https://open.spotify.com/album/09OzZziZlOvz02UoNanftg) | 3:10 | 2023-09-08 | 2024-02-17 |
 | [Mind Yo Mouth](https://open.spotify.com/track/2oyP6zpgfQOSAzYuLDrI6l) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:28 | 2023-05-19 | 2023-10-07 |
 | [Miracles](https://open.spotify.com/track/4hGEJ3VhpJJxxEqQnz9JPS) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 4:17 | 2022-10-03 | 2023-08-05 |
+| [Missing](https://open.spotify.com/track/3v01M7oSUyi2l8ddjznJQX) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Missing](https://open.spotify.com/album/2IfIc3vsMoHYe6RjLoojia) | 2:54 | 2025-01-31 |  |
 | [Misty in Matakana](https://open.spotify.com/track/4FtQayeU7UN8tsUHGUfPqi) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Misty in Matakana](https://open.spotify.com/album/2CeQ9LUeYO38eVaw9gKpyR) | 2:50 | 2023-06-02 | 2024-12-14 |
 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2022-03-11 | 2023-04-01 |
 | [Money \(with Tom Misch\)](https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Money](https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG) | 4:51 | 2022-03-11 | 2023-04-09 |

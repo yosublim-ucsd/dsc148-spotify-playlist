@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from The Weeknd (pictured), Bring Me The Horizon, JENNIE and more!",
-  "num_followers": 875189,
+  "num_followers": 875204,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -1879,17 +1879,21 @@
     {
       "added_at": "2025-01-31 11:15:34",
       "album": {
-        "name": "My Love For You",
+        "name": "My Love 4 U",
         "url": "https://open.spotify.com/album/4za4vcK0U4hqw5arJxz3Ib"
       },
       "artists": [
         {
           "name": "Shaolin Cowboy",
           "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD"
+        },
+        {
+          "name": "Kindora",
+          "url": "https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN"
         }
       ],
-      "duration_ms": 305708,
-      "name": "My Love For You",
+      "duration_ms": 209198,
+      "name": "My Love 4 U",
       "url": "https://open.spotify.com/track/5p2dlnHVDxqqaZPMs8YJod"
     },
     {

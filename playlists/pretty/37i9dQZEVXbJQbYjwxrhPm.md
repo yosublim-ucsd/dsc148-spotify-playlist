@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 769 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 2 | [Мераклия](https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Мераклия](https://open.spotify.com/album/5VBSe7KYebMlPsrDoETNul) | 3:08 |
 | 3 | [Уау](https://open.spotify.com/track/0eCynyX42rcSzLQIg2sHAy) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Sabi](https://open.spotify.com/artist/1goOMQQ0WvAs1SUlaVpI8r) | [Уау](https://open.spotify.com/album/2K7iBFjPSo8AOtth2pNRl9) | 3:05 |
 | 4 | [Mazalyak](https://open.spotify.com/track/542H35VsHuyhN1mBzDpAaT) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Monkey](https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw) | [Mazalyak](https://open.spotify.com/album/3O5pvkZ7Jrlqz1UN9qain9) | 3:38 |
-| 5 | [Timeless](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
+| 5 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 6 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 7 | [Mi Amor](https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Mi Amor](https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN) | 3:18 |
 | 8 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 10 | [Снайпера](https://open.spotify.com/track/34nRREax6dS5rV7QJO3q9K) | [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Снайпера](https://open.spotify.com/album/1N19vBHkxvwjJvIduaKlVj) | 3:14 |
 | 11 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 |
 | 12 | [Дум Так](https://open.spotify.com/track/1IURxiLGO4x5vVz0rX4AuP) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Дум Так](https://open.spotify.com/album/3zwks6rRLPkYwShLPswVjd) | 3:14 |
-| 13 | [São Paulo](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
+| 13 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
 | 14 | [AMG Isteria](https://open.spotify.com/track/0uoFYncPoFjOb7uU33yyl0) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Silver](https://open.spotify.com/artist/2xZOjY3LYFt8mfHuBUOBwF) | [AMG Isteria](https://open.spotify.com/album/4ebshulAd9ZBuGeTaqk3ZL) | 4:00 |
 | 15 | [Rebirth \(Intro\)](https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:24 |
 | 16 | [Мания](https://open.spotify.com/track/46iEOpz4CimiWRbX9KaJNB) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6) | [Мания](https://open.spotify.com/album/6mUcW1LGZSlvK9Fcbxh73B) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 |
 | 50 | [Така съм аз, така си ти](https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4) | [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK), [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt) | [Така съм аз, така си ти](https://open.spotify.com/album/4LkLJgHZ9HnFHnLcHYn6Ed) | 2:52 |
 
-Snapshot ID: `LzLdSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzQuyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

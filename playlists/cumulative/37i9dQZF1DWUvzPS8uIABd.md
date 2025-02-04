@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa VIIVI.
 
-417 songs - 20 hr 48 min
+418 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aivan sama](https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Aivan sama](https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm) | 3:10 | 2024-08-15 | 2024-09-13 |
 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 | 2025-01-09 | 2025-01-31 |
 | [Ake, Make, Pera ja mä \(Vain elämää kausi 15\)](https://open.spotify.com/track/7DRDYm10hKVRPgyJlADucs) | [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD), [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN) | [Ake, Make, Pera ja mä \(Vain elämää kausi 15\)](https://open.spotify.com/album/5w3ICiuxlbWZW2ksy66Aog) | 3:36 | 2024-10-31 | 2024-11-08 |
+| [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 | 2025-02-03 |  |
 | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/track/7A2IHlYAKZuf8bflrCygqq) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36) | 2:10 | 2025-01-23 |  |
 | [ALL IN](https://open.spotify.com/track/5WSW4kZ4lO6nACET8FgGqJ) | [Mikko Harju](https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n) | [ALL IN](https://open.spotify.com/album/72fCTQ0lNg5vXQ0Bynhy58) | 2:55 | 2024-10-03 | 2025-01-03 |
 | [Amaranth \(Vain elämää kausi 15\)](https://open.spotify.com/track/1coQO3QDwoujKGs34Kz3Q5) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Amaranth \(Vain elämää kausi 15\)](https://open.spotify.com/album/0k3zXybKHSpFQGk9CmoVLZ) | 3:19 | 2024-11-14 | 2024-11-22 |
@@ -163,7 +164,7 @@
 | [Koti\-iskä](https://open.spotify.com/track/2q5lka3Yy8zbX8fFh1SKAK) | [Juhana Haukkala](https://open.spotify.com/artist/0JtYpxkop6SX7L5trzsmp7) | [Koti\-iskä](https://open.spotify.com/album/6JmmJJpNsUPPGn0MzGAqfc) | 2:44 | 2024-09-26 | 2024-10-18 |
 | [Koukkuun \(Vain elämää kausi 15\)](https://open.spotify.com/track/3wWQTZw4j4WpKFZMQL25Mr) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Koukkuun \(Vain elämää kausi 15\)](https://open.spotify.com/album/3vxZB7YdPksUNR41LzIoh1) | 3:02 | 2024-10-24 | 2024-11-01 |
 | [Koukus](https://open.spotify.com/track/6P0Oi8lYdr7tdAQptCUuNZ) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Koukus](https://open.spotify.com/album/4Sd6GNkbQZ6tpZWhKX7wh7) | 2:15 | 2024-07-18 | 2024-08-23 |
-| [Kuka siin netis on](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka siin netis on](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 | 2025-01-30 |  |
+| [Kuka Siin Netis On](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka Siin Netis On](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 | 2025-01-30 |  |
 | [Kukapa ei](https://open.spotify.com/track/4KMULSjeSrEfJ7GHWtmHau) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Kukapa ei](https://open.spotify.com/album/5ihKUVxdUHER6vRcQlqr6d) | 3:31 | 2024-08-09 | 2024-10-11 |
 | [Kuningasidea](https://open.spotify.com/track/3bmM0j4a1IstLoo09CX75d) | [Kuningasidea](https://open.spotify.com/artist/7EuXVmTcFfpvmFbi1CTctP) | [Kuningasidea](https://open.spotify.com/album/4a1yzEatpxd5U8VkejI3eW) | 3:25 | 2025-01-09 |  |
 | [Kuollut liekki](https://open.spotify.com/track/1pEiJfcpRDglgmE50pf1uQ) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Kuollut liekki](https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV) | 2:58 | 2024-09-19 | 2024-11-15 |

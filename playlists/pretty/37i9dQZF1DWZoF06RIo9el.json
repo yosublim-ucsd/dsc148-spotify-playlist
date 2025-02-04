@@ -1,15 +1,15 @@
 {
-  "description": "Lo mejor de enero 2025. Cover: Aitana",
-  "num_followers": 1518614,
+  "description": "Lo mejor de febrero 2025. Cover: Aitana",
+  "num_followers": 1518681,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5pYqgAAAADyhdYSztWgfnXeccbk3kyh",
+  "snapshot_id": "Z6DoOAAAAAAJdBcYflzUUcv/wXSnp5Xf",
   "tracks": [
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "SEGUNDO INTENTO",
         "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "desahogo",
         "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Que Pedo",
         "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
+      "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 184689,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
+    },
+    {
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
@@ -85,7 +101,87 @@
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
+      "album": {
+        "name": "CRUZ",
+        "url": "https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 183970,
+      "name": "CRUZ",
+      "url": "https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI"
+    },
+    {
+      "added_at": "2025-02-03 16:00:56",
+      "album": {
+        "name": "Me Pasa (Piscis)",
+        "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "duration_ms": 201529,
+      "name": "Me Pasa (Piscis)",
+      "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
+    },
+    {
+      "added_at": "2025-02-03 16:00:56",
+      "album": {
+        "name": "danito",
+        "url": "https://open.spotify.com/album/2KKTCJwzwEeuEO8fOW8JeA"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 237395,
+      "name": "danito",
+      "url": "https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh"
+    },
+    {
+      "added_at": "2025-02-03 16:00:56",
+      "album": {
+        "name": "No Me Borres",
+        "url": "https://open.spotify.com/album/6Z527zpsy6DqiNCLpiwxK6"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 231435,
+      "name": "No Me Borres",
+      "url": "https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x"
+    },
+    {
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Mi Vida Mi Muerte",
         "url": "https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97"
@@ -101,7 +197,71 @@
       "url": "https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
+      "album": {
+        "name": "DICIEMBRE",
+        "url": "https://open.spotify.com/album/3HV3chanuZQZ302jOq7C4x"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "DICIEMBRE",
+      "url": "https://open.spotify.com/track/4zTD9DUG5fLc2fP3EJafoV"
+    },
+    {
+      "added_at": "2025-02-03 16:00:56",
+      "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "added_at": "2025-02-03 16:00:56",
+      "album": {
+        "name": "Gallos Y Caballos",
+        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 158543,
+      "name": "Gallos Y Caballos",
+      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
+    },
+    {
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Acto de Fe",
         "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
@@ -117,7 +277,7 @@
       "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Coraz\u00f3n Puro",
         "url": "https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp"
@@ -141,7 +301,7 @@
       "url": "https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Balas de Fogueo",
         "url": "https://open.spotify.com/album/3fhho7MnychDA1LDUk8TIM"
@@ -161,7 +321,7 @@
       "url": "https://open.spotify.com/track/76ctQ5HCF15awVSYFH2skE"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "LO QUE ME CAUSA",
         "url": "https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2"
@@ -181,7 +341,7 @@
       "url": "https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -197,7 +357,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Aloh Aloh",
         "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
@@ -213,7 +373,7 @@
       "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
@@ -229,7 +389,7 @@
       "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "NO HAY VERANO SIN GORDO",
         "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
@@ -249,7 +409,7 @@
       "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Aviso De Despido",
         "url": "https://open.spotify.com/album/6rs6EKlQu5tYC1vtrqVjOq"
@@ -269,7 +429,7 @@
       "url": "https://open.spotify.com/track/5QrWetGJiShrW7dJXVNN0r"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/62NbBxeE0ZcrV6nvirXORf"
@@ -285,7 +445,7 @@
       "url": "https://open.spotify.com/track/07iT27MVMrGC1eK4U3zbrB"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "EL CL\u00faB",
         "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
@@ -301,7 +461,7 @@
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -317,7 +477,7 @@
       "url": "https://open.spotify.com/track/7tCuCjhxzjX2XCz4JiiAsp"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Querida Yo",
         "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
@@ -337,7 +497,7 @@
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -353,7 +513,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "DE NOTA EN NOTA",
         "url": "https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5"
@@ -373,7 +533,7 @@
       "url": "https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
@@ -389,7 +549,7 @@
       "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "TE VAS",
         "url": "https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6"
@@ -409,7 +569,7 @@
       "url": "https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Baila Baila",
         "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
@@ -425,7 +585,7 @@
       "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -441,7 +601,7 @@
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o"
@@ -461,23 +621,7 @@
       "url": "https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
-      "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184462,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
-    },
-    {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "SE BUSCA",
         "url": "https://open.spotify.com/album/612fj3QrB4483OomTwgmnH"
@@ -493,7 +637,7 @@
       "url": "https://open.spotify.com/track/34ouHKuJQERGLd7aeg2QO7"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/5pNBy7P93HLwNQKJK952Gf"
@@ -509,7 +653,7 @@
       "url": "https://open.spotify.com/track/44Q6j0VouHOJV7EY1JG6Yg"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "el cielo",
         "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
@@ -525,27 +669,7 @@
       "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
-      "album": {
-        "name": "\u00bfQu\u00e9 Te Parece?",
-        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "\u00bfQu\u00e9 Te Parece?",
-      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
-    },
-    {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
@@ -565,23 +689,7 @@
       "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
-      "album": {
-        "name": "Sigueme Besando Asi",
-        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Sigueme Besando Asi",
-      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
-    },
-    {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
@@ -601,7 +709,7 @@
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "UGH / OTROS LUGARES",
         "url": "https://open.spotify.com/album/0XhIxz89H75DGG7ku4T1FU"
@@ -621,7 +729,7 @@
       "url": "https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "b\u00fascame otra vez",
         "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
@@ -637,23 +745,7 @@
       "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
-      "album": {
-        "name": "NADIE",
-        "url": "https://open.spotify.com/album/2op3VYOlPBj8PhFxLEQ0Ol"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 197031,
-      "name": "NADIE",
-      "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
-    },
-    {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Mi Refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
@@ -673,7 +765,7 @@
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Amor Rosado",
         "url": "https://open.spotify.com/album/2ldsW8XrIaXRTqNabye8VW"
@@ -689,7 +781,7 @@
       "url": "https://open.spotify.com/track/1i14XuLKchAv9oAiMakCqv"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -709,23 +801,7 @@
       "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
-      "album": {
-        "name": "Esta noche",
-        "url": "https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 276613,
-      "name": "Esta noche",
-      "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
-    },
-    {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Lipstick ;*",
         "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
@@ -741,7 +817,7 @@
       "url": "https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "aeropuerto",
         "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
@@ -757,7 +833,7 @@
       "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Private Suite (Vol. 2)",
         "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
@@ -773,7 +849,7 @@
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "En Otra Vida - Con Carin Leon",
         "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
@@ -797,23 +873,7 @@
       "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
-      "album": {
-        "name": "Mis Traumas, Mis Chistes",
-        "url": "https://open.spotify.com/album/25Gsw8B8ZpFFhOlx9fF1LR"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Verano 23",
-      "url": "https://open.spotify.com/track/33D8RI7wFKjzh8zvbSE1mN"
-    },
-    {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu"
@@ -833,7 +893,7 @@
       "url": "https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Hola",
         "url": "https://open.spotify.com/album/4j2N25PHTL3JEXVRROY82x"
@@ -853,31 +913,7 @@
       "url": "https://open.spotify.com/track/6V6aStL8beAAuJFCI423Li"
     },
     {
-      "added_at": "2025-01-27 15:59:19",
-      "album": {
-        "name": "LOS 9 DE FERXXO Y SKY ROMPIENDO",
-        "url": "https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 223039,
-      "name": "ESTOY PUTIAO",
-      "url": "https://open.spotify.com/track/0lhcaiGyAkmZg5RaC99ZbH"
-    },
-    {
-      "added_at": "2025-01-27 15:59:19",
+      "added_at": "2025-02-03 16:00:56",
       "album": {
         "name": "Mi KAMA",
         "url": "https://open.spotify.com/album/08NlLGUI4aV6yOYfBAk75W"

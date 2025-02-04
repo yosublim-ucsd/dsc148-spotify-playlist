@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Danilla, Hindia
 
-949 songs - 2 day 9 hr 19 min
+951 songs - 2 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Laskar Pelangi](https://open.spotify.com/track/0wcQln9MrQ0NRetjYYZsKv) | [TRUST \(Trinity Youth Symphony Orchestra\)](https://open.spotify.com/artist/0PXiTwsJJQRYhRzKGUn9sc), [Nathania Karina](https://open.spotify.com/artist/5lBzbavvZxwebJniZTtnfd) | [Hari Ini Indah](https://open.spotify.com/album/6pYAlS13TFIymXJmpea1zR) | 4:50 | 2024-04-22 | 2024-05-22 |
 | [Last Chance](https://open.spotify.com/track/3VNm72yGbPkxaUMhoWk15s) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Queen of Tears \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7IlGRv127ABNT0oN8xQUKK) | 4:08 | 2024-05-03 | 2024-06-07 |
 | [LAURA \- From "Laura Movie"](https://open.spotify.com/track/2ZssqMaDKBntWIrPw2AwWX) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [LAURA \- From "Laura Movie"](https://open.spotify.com/album/04uLbUZ031riEIXGnT2Kvk) | 3:40 | 2024-09-18 | 2024-10-16 |
+| [Laut](https://open.spotify.com/track/0v0XEH9pzcIPKrehl914ky) | [Midnight Serenade](https://open.spotify.com/artist/54W9oHAP8OcFEkPgzm8Os2) | [Laut](https://open.spotify.com/album/2rzYi0p2uiYJqPbDii7flj) | 4:30 | 2025-02-03 |  |
 | [Leftover](https://open.spotify.com/track/1zHPzyKOs6AsnJcnWSjZhO) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 3:48 | 2024-07-04 | 2024-08-29 |
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2023-04-13 | 2023-05-26 |
 | [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-04-26 | 2024-06-19 |
@@ -838,6 +839,7 @@
 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 | 2023-11-09 | 2024-03-27 |
 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 | 2024-11-05 | 2025-02-01 |
 | [Tertunda](https://open.spotify.com/track/5BN10Fpx563bPV5Bs6Ogv3) | [dbatlayar](https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG) | [Tertunda](https://open.spotify.com/album/2VFTEFxdxHpNU1RCqVpd26) | 3:52 | 2024-07-30 | 2024-08-23 |
+| [Teruntuk Mia](https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B) | [Nuh...](https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT) | [Teruntuk Mia](https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG) | 3:16 | 2025-02-03 |  |
 | [Teteh](https://open.spotify.com/track/1inTM4gzLWIxle8iSUq3SZ) | [Doel Sumbang](https://open.spotify.com/artist/7uK1hDwCzfG6qyOlxxb8AD) | [Top Hits Sunda Togel](https://open.spotify.com/album/2XPl4bdQyIYizpcMi4QrOm) | 3:54 | 2024-04-19 | 2024-05-28 |
 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 | 2023-05-18 | 2024-07-16 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-05 |  |

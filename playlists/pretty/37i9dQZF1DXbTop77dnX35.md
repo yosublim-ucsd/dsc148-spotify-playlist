@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,314 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,370 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 29 | [Wanita](https://open.spotify.com/track/6QZBqo7ubhps9A0Z3BvXwf) | [ICent](https://open.spotify.com/artist/56bg8TSGbshdGcQnPXqOlR), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wanita](https://open.spotify.com/album/7utPhWIODju3YH6vdFKokR) | 3:32 |
 | 30 | [Amin](https://open.spotify.com/track/13jjtnxXbKt8bGUxlygnWW) | [Shaamar](https://open.spotify.com/artist/318V5GuOCum8HUSIhcBmbu) | [Amin](https://open.spotify.com/album/6ruxAIvL8dAETBou9k1jX6) | 2:42 |
 | 31 | [Banana](https://open.spotify.com/track/0zjibhXKxqdZDrHg00T54g) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [Banana](https://open.spotify.com/album/70WSgoawSShoJKO5G9L5ub) | 2:44 |
-| 32 | [LOVE SZN \(feat\. Yumbs\)](https://open.spotify.com/track/36EG2rg9RAS910WbXRlt2V) | [Dj Six7even](https://open.spotify.com/artist/7yyFlB8IOlpxT5aKGLdGZk), [Dj Consequence](https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh), [Paranormal Dj](https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [LOVE SZN \(feat\. Yumbs\)](https://open.spotify.com/album/7wiYN800StxCIUTXG9CGpQ) | 3:53 |
+| 32 | [LOVE SZN \(feat\. Yumbs\)](https://open.spotify.com/track/36EG2rg9RAS910WbXRlt2V) | [Dj Six7even](https://open.spotify.com/artist/7yyFlB8IOlpxT5aKGLdGZk), [Dj Consequence](https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh), [Paranormal Dj](https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [LOVE SZN \(feat\. Yumbs\)](https://open.spotify.com/album/7wiYN800StxCIUTXG9CGpQ) | 3:24 |
 | 33 | [FAMILY](https://open.spotify.com/track/65aQ76660Dd6rn40UwQVgM) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [KURIMA](https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR) | 2:33 |
 | 34 | [How Far](https://open.spotify.com/track/6pCYRPDBu9Ze5l7F2Db4Z4) | [Brosthrone](https://open.spotify.com/artist/2nqyqpjz5FcbMMNZBBAZ98) | [How Far](https://open.spotify.com/album/1KkFYJ1R3YLq81QyyKtxOv) | 2:31 |
 | 35 | [Everything](https://open.spotify.com/track/0mri12PLHjvRkRIUzTNOdN) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Everything](https://open.spotify.com/album/3qylVxMkbYFylrUFf16oIJ) | 2:21 |

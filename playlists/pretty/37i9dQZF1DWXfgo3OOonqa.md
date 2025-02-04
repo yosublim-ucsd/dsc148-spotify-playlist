@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,857 likes - 128 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,863 likes - 128 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,19 +12,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 2 | [Lucky Luciano](https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Lucky Luciano](https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj) | 2:15 |
 | 3 | [Foden](https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Vägen in](https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh) | 2:46 |
 | 4 | [Good Girl Gone Bad](https://open.spotify.com/track/5zVhowfbb7vH8uYupiLSgi) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Good Girl Gone Bad](https://open.spotify.com/album/6pLCzjdFLHQRcmD4bgBqJr) | 2:08 |
-| 5 | [Land Till Land](https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Land Till Land](https://open.spotify.com/album/5RNOw8MKgHH5lUwteCZQx8) | 2:10 |
-| 6 | [Block Boy](https://open.spotify.com/track/3Hx7Q4rCjzKGrk0pNEMi9Z) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Block Boy](https://open.spotify.com/album/5zx268AJd3jAYeZ7i8uGju) | 1:50 |
-| 7 | [HER PERSPECTIVE](https://open.spotify.com/track/3ngMJlDJZrYfwcUApLnzAZ) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs) | [HER PERSPECTIVE](https://open.spotify.com/album/5Kqr4gLZZXF4a7SaDNqcM4) | 2:01 |
-| 8 | [Min Bitch](https://open.spotify.com/track/7BuyYUuSiAsh5mi4JPRjC6) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Lost Tapes](https://open.spotify.com/album/0jpkN3FgA9PVKagrcKOpos) | 2:40 |
-| 9 | [QURBANI \(KOM TBX\)](https://open.spotify.com/track/1Xa3BK62uD9mzrzU0S6UMz) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [QURBANI \(KOM TBX\)](https://open.spotify.com/album/2jlobVYL62mvN3Wm4XvJJQ) | 3:11 |
-| 10 | [VA](https://open.spotify.com/track/7opNT4NMSpwljDmhL4YnPL) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [VA](https://open.spotify.com/album/4U0mPfQEUkJKIWt2KatNyM) | 1:52 |
-| 11 | [Vara](https://open.spotify.com/track/3BxPwiz7nX9nOsaLuIWQJK) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Vara](https://open.spotify.com/album/0LQ0K55Dd60iUwiVd6m1p0) | 2:25 |
-| 12 | [TEMPO](https://open.spotify.com/track/62bhpdFzSd641xVh6T6yV3) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [TEMPO](https://open.spotify.com/album/6jukXgsRW4B8r024ueI5vE) | 2:35 |
-| 13 | [See Me Shine](https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [See Me Shine](https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0) | 3:02 |
-| 14 | [City Lights](https://open.spotify.com/track/6OkhTyk3exCfkCuA65lLyO) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [City Lights](https://open.spotify.com/album/49AbYeZXe1YJXY8i2QPyvg) | 1:55 |
-| 15 | [DROWNING](https://open.spotify.com/track/2d6x84uooJhxNfbIgKNj5q) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [DROWNING](https://open.spotify.com/album/150eFWaolpBjm1phWIgDbc) | 2:15 |
-| 16 | [G & P](https://open.spotify.com/track/2J6rn2z8zw9jBmWCJfuHYW) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [G & P](https://open.spotify.com/album/1D0BqbVwT9l2jjkYhs3vCY) | 1:51 |
-| 17 | [Daydate](https://open.spotify.com/track/4ODaUbbHmLOg2Q5T4JMa7G) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Daydate](https://open.spotify.com/album/1kjsVcNsaOStdTO3WYBiie) | 2:29 |
+| 5 | [Daydate](https://open.spotify.com/track/4ODaUbbHmLOg2Q5T4JMa7G) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Daydate](https://open.spotify.com/album/1kjsVcNsaOStdTO3WYBiie) | 2:29 |
+| 6 | [Land Till Land](https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Land Till Land](https://open.spotify.com/album/5RNOw8MKgHH5lUwteCZQx8) | 2:10 |
+| 7 | [Block Boy](https://open.spotify.com/track/3Hx7Q4rCjzKGrk0pNEMi9Z) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Block Boy](https://open.spotify.com/album/5zx268AJd3jAYeZ7i8uGju) | 1:50 |
+| 8 | [HER PERSPECTIVE](https://open.spotify.com/track/3ngMJlDJZrYfwcUApLnzAZ) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs) | [HER PERSPECTIVE](https://open.spotify.com/album/5Kqr4gLZZXF4a7SaDNqcM4) | 2:01 |
+| 9 | [Min Bitch](https://open.spotify.com/track/7BuyYUuSiAsh5mi4JPRjC6) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Lost Tapes](https://open.spotify.com/album/0jpkN3FgA9PVKagrcKOpos) | 2:40 |
+| 10 | [QURBANI \(KOM TBX\)](https://open.spotify.com/track/1Xa3BK62uD9mzrzU0S6UMz) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [QURBANI \(KOM TBX\)](https://open.spotify.com/album/2jlobVYL62mvN3Wm4XvJJQ) | 3:11 |
+| 11 | [VA](https://open.spotify.com/track/7opNT4NMSpwljDmhL4YnPL) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [VA](https://open.spotify.com/album/4U0mPfQEUkJKIWt2KatNyM) | 1:52 |
+| 12 | [Vara](https://open.spotify.com/track/3BxPwiz7nX9nOsaLuIWQJK) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Vara](https://open.spotify.com/album/0LQ0K55Dd60iUwiVd6m1p0) | 2:25 |
+| 13 | [TEMPO](https://open.spotify.com/track/62bhpdFzSd641xVh6T6yV3) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [TEMPO](https://open.spotify.com/album/6jukXgsRW4B8r024ueI5vE) | 2:35 |
+| 14 | [See Me Shine](https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [See Me Shine](https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0) | 3:02 |
+| 15 | [City Lights](https://open.spotify.com/track/6OkhTyk3exCfkCuA65lLyO) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [City Lights](https://open.spotify.com/album/49AbYeZXe1YJXY8i2QPyvg) | 1:55 |
+| 16 | [DROWNING](https://open.spotify.com/track/2d6x84uooJhxNfbIgKNj5q) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [DROWNING](https://open.spotify.com/album/150eFWaolpBjm1phWIgDbc) | 2:15 |
+| 17 | [G & P](https://open.spotify.com/track/2J6rn2z8zw9jBmWCJfuHYW) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [G & P](https://open.spotify.com/album/1D0BqbVwT9l2jjkYhs3vCY) | 1:51 |
 | 18 | [Soft Inställd](https://open.spotify.com/track/6i9JH1ZEftmH5cEWOfZixR) | [Adouli](https://open.spotify.com/artist/0D7xlQDyHU73mrurTwo0Fu), [Alex Lejonhjärta](https://open.spotify.com/artist/0QDBPTgCSmv3mKNyvY7ATB) | [Soft Inställd](https://open.spotify.com/album/2pzqee3AfedOn5jVL9eHdu) | 3:12 |
 | 19 | [BECHO](https://open.spotify.com/track/2NfxurrqwMoXW2bWYYWF63) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [BECHO](https://open.spotify.com/album/7mzFSuPUp3POWTyHpOzMkK) | 2:09 |
 | 20 | [MOVE](https://open.spotify.com/track/6l5cINkWl0q2OeELlBkHGl) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [nOnting](https://open.spotify.com/artist/2ZE4QDUxlhBy82CQidNTxJ), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [MOVE](https://open.spotify.com/album/0YLCKDvhncR4BeXNM1YAXz) | 2:03 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 127 | [Rush B](https://open.spotify.com/track/3StabSGNHakgNDpUewAu1W) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Rush B](https://open.spotify.com/album/3d1AiQVDQdwSKUoRApdb6K) | 2:24 |
 | 128 | [Veni Vidi Vici](https://open.spotify.com/track/1jvuT4OctIMkTLerIE9e1E) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Veni Vidi Vici](https://open.spotify.com/album/5kKE9BUeleg11gvFSSGE72) | 2:24 |
 
-Snapshot ID: `Z5wEcwAAAAD0sHM0oUmeGYRh/hEW6haa`
+Snapshot ID: `Z6CBmAAAAAAYj1XBtmjctAM/TRAVz922`

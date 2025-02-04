@@ -1,6 +1,6 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 96965,
+  "num_followers": 96994,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -779,18 +779,22 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz"
+        "name": "Mature Themes",
+        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
       },
       "artists": [
         {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
         }
       ],
-      "duration_ms": 168626,
-      "name": "American Daydream",
-      "url": "https://open.spotify.com/track/40QdVaXuZgxZ8vdoaFDNsL"
+      "duration_ms": 287426,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -827,22 +831,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Mature Themes",
-        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz"
       },
       "artists": [
         {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        },
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
         }
       ],
-      "duration_ms": 287426,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
+      "duration_ms": 168626,
+      "name": "American Daydream",
+      "url": "https://open.spotify.com/track/40QdVaXuZgxZ8vdoaFDNsL"
     },
     {
       "added_at": "2024-03-18 13:12:36",

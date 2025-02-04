@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,234 likes - 54 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,236 likes - 54 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 14 | [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 |
 | 15 | [Praise You](https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Praise You](https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV) | 1:59 |
 | 16 | [I Believe](https://open.spotify.com/track/6aDDgd5crYJ0OQPdq3TUmQ) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [I Believe](https://open.spotify.com/album/3omHcm5ucQJ26WUjdoF9DA) | 4:07 |
-| 17 | [Kesho](https://open.spotify.com/track/0TCgBgpoXiTiXC6dLrjzqZ) | [Phil Kimemia](https://open.spotify.com/artist/4r3O40RWed6CmE6XY51PRB), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Kesho](https://open.spotify.com/album/4sylMukFQrAHtmk9a6h3e9) | 2:52 |
+| 17 | [Kesho](https://open.spotify.com/track/0TCgBgpoXiTiXC6dLrjzqZ) | [Phil Kimemia](https://open.spotify.com/artist/4r3O40RWed6CmE6XY51PRB), [GUARDIAN ANGEL](https://open.spotify.com/artist/5JqNQoF9ReAcIXuMgdEpla) | [Kesho](https://open.spotify.com/album/4sylMukFQrAHtmk9a6h3e9) | 2:52 |
 | 18 | [Nipe](https://open.spotify.com/track/3eNOyLHRiMmQZDee8KYCYO) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA), [Bony Mwaitege](https://open.spotify.com/artist/1vh543t6ipbRMe1shJp0j1), [Tiddy Hotter](https://open.spotify.com/artist/47U6Bi5RlUhIkOmq4hkwxY) | [Goodluck Gozbert](https://open.spotify.com/album/0lWK1AqTBGfpBcunPToAOL) | 5:16 |
 | 19 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 |
 | 20 | [Lenga](https://open.spotify.com/track/7pRb8X9cHy14Om1Y14DUfW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Lenga](https://open.spotify.com/album/3dBYgjC44flylPLTfBFX2y) | 3:16 |

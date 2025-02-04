@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 339487,
+  "num_followers": 339525,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z51kAAAAAACdL8z4cnuIvOQ6P8bo1gmt",
+  "snapshot_id": "Z561gAAAAADdc7LB6+igvRdMjW4kvQuh",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 137480,
-      "name": "A Hazy Shade of Winter",
-      "url": "https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp"
+      "duration_ms": 145173,
+      "name": "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969",
+      "url": "https://open.spotify.com/track/0R0Ef3xXCpHLzwwhXX39kq"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 145173,
-      "name": "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969",
-      "url": "https://open.spotify.com/track/0R0Ef3xXCpHLzwwhXX39kq"
+      "duration_ms": 137480,
+      "name": "A Hazy Shade of Winter",
+      "url": "https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 80173,
-      "name": "Bookends Theme - Reprise",
-      "url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
+      "duration_ms": 171293,
+      "name": "Blues Run the Game - Studio Outtake - 1965",
+      "url": "https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Friends",
-        "url": "https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 171293,
-      "name": "Blues Run the Game - Studio Outtake - 1965",
-      "url": "https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr"
+      "duration_ms": 80173,
+      "name": "Bookends Theme - Reprise",
+      "url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 131746,
-      "name": "Flowers Never Bend with the Rainfall",
-      "url": "https://open.spotify.com/track/0qSITuCPLxjoDtESBy70WO"
+      "duration_ms": 158773,
+      "name": "The Dangling Conversation",
+      "url": "https://open.spotify.com/track/1tQy2AqgFc0AdddmIboIfX"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 158773,
-      "name": "The Dangling Conversation",
-      "url": "https://open.spotify.com/track/1tQy2AqgFc0AdddmIboIfX"
+      "duration_ms": 131746,
+      "name": "Flowers Never Bend with the Rainfall",
+      "url": "https://open.spotify.com/track/0qSITuCPLxjoDtESBy70WO"
     },
     {
       "added_at": null,

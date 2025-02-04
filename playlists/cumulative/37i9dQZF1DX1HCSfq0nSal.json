@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 169413,
       "name": "Como El Oro",
       "url": "https://open.spotify.com/track/4XKhhMOJibGRFECY10YMUC"
@@ -5382,6 +5382,24 @@
       "duration_ms": 174946,
       "name": "Foto En Panty",
       "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
+    },
+    {
+      "album": {
+        "name": "LowFlyer (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1FrWQryCHNC95W7JwpKKiK"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/4yMBRvsI4aFxlgwqYfzKco"
     },
     {
       "album": {
@@ -9300,6 +9318,32 @@
     {
       "album": {
         "name": "Muchoperro",
+        "url": "https://open.spotify.com/album/3JDxhTB9pdSsbXDz4hRFSs"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        },
+        {
+          "name": "Wiso Rivera",
+          "url": "https://open.spotify.com/artist/4IHDMpVNlWsPxPtA7BR5Fi"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219534,
+      "name": "Muchoperro",
+      "url": "https://open.spotify.com/track/0duM6rfxvpnpAALDHFmTFS"
+    },
+    {
+      "album": {
+        "name": "Muchoperro",
         "url": "https://open.spotify.com/album/26WhRQWZZpmkA6WbNb4ZLH"
       },
       "artists": [
@@ -11680,7 +11724,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> OSUN\(오선\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,012 likes - 104 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,389 likes - 104 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 6 | [KAWASAKI \(with pH\-1\)](https://open.spotify.com/track/0QZABM9f7qhxAeW88WmBSY) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KAWASAKI \(with pH\-1\)](https://open.spotify.com/album/1RXcebYRkziuEISb8Owebn) | 2:11 |
 | 7 | [Ballin \(Feat\. Kid Milli, NO:EL, Ksmartboi, Swings\)](https://open.spotify.com/track/39k6Kd9PcgJMkc4DRRztuq) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [ksmartboi](https://open.spotify.com/artist/6iBjPtCEGarFwpdJUc39P9), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Ballin](https://open.spotify.com/album/2UwETKmYuXkHwGmcwshk4r) | 5:20 |
 | 8 | [BOLO \(feat\. YDG\)](https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 2:51 |
-| 9 | [No Look](https://open.spotify.com/track/6uWbwbBteI7SnCyPCVuWXU) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [No Look](https://open.spotify.com/album/54TAga0U0ZrNmSYDO0t7Bd) | 2:32 |
+| 9 | [No Look](https://open.spotify.com/track/6uWbwbBteI7SnCyPCVuWXU) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [Foggyatthebottom](https://open.spotify.com/artist/3fXHHmLxAY43pSTlWnbYd7) | [No Look](https://open.spotify.com/album/54TAga0U0ZrNmSYDO0t7Bd) | 2:32 |
 | 10 | [OTL \(OFF THE LEASH\)](https://open.spotify.com/track/0Yox4FlUiFAtWVrSJhPheU) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb), [JP](https://open.spotify.com/artist/1MZvn2OoRX4PO4KA85NwdD) | [RAP:PUBLIC Episode.2](https://open.spotify.com/album/2EnJRg31hBB44HTbl7MpA4) | 4:23 |
 | 11 | [Swarm \(Feat\. Minbroskii, Dor1ki, Toru, Hijvc Kid, NY Dogg\) \- Flies Remix](https://open.spotify.com/track/4AnWN1umAFwuaMgAn1eAKc) | [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Minbroskii](https://open.spotify.com/artist/7misjwUfbGKpUmyuJv48Lc), [Dor1ki](https://open.spotify.com/artist/5JnH5TtpXZsDLFInoRHpeL), [Toru](https://open.spotify.com/artist/7txAb54gOfRN8fTkfj99CZ), [Hijvc Kid](https://open.spotify.com/artist/1s6kw5kqBkiaD5rjeqAhtH), [NY Dogg](https://open.spotify.com/artist/64nGOvwXGqGXVUGBlwr4uS) | [Swarm \(Flies Remix\)](https://open.spotify.com/album/78bwStJ3Ywu4IlJbFrwWx9) | 4:56 |
 | 12 | [Life Is A Movie \(Feat\. Jung Zi So\)](https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti) | [HANDS](https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU) | 3:10 |

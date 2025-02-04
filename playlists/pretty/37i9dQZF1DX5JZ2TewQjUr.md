@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: MADBOII
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,987 likes - 147 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,990 likes - 147 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [why? \- acoustic](https://open.spotify.com/track/6zljIM3WVTLtxv0PeiPYpk) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9), [Tangent](https://open.spotify.com/artist/417ytp5KTt4VKBAVXD47Wq) | [Bedroom](https://open.spotify.com/album/7bR2DvGjbJCfUi9HCkpSAp) | 3:50 |
 | 2 | [石沉大海](https://open.spotify.com/track/0Mu3cQmroCADlBs3t8qSQG) | [Tofu Kingdom](https://open.spotify.com/artist/5suKRYsfhnViNwhLjWWgnz) | [石沉大海](https://open.spotify.com/album/1tsylDEKEqx9LCjuIy67TS) | 5:31 |
 | 3 | [YES PLEASE](https://open.spotify.com/track/6g107zkNQJTU97EQl4zr3M) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [YES PLEASE](https://open.spotify.com/album/3P06y6CvlYMp5XqIgT5Cw2) | 2:53 |
-| 4 | [左手鑼 右手gyatt](https://open.spotify.com/track/1TpEnBdOaFRJA4I2tOCkUn) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM), [FUNGMADE 卓峰整嘅](https://open.spotify.com/artist/2anUMLZS9l0BCp2edXOz9I) | [新年西格馬 New Year Sigma](https://open.spotify.com/album/5p7Js3uRdFoNYlVniPpVkM) | 1:01 |
+| 4 | [左手鑼 右手gyatt](https://open.spotify.com/track/1TpEnBdOaFRJA4I2tOCkUn) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [新年西格馬 New Year Sigma](https://open.spotify.com/album/5p7Js3uRdFoNYlVniPpVkM) | 1:01 |
 | 5 | [898](https://open.spotify.com/track/4FjoJP9oIvBpsncKdszsJc) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH), [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27) | [898](https://open.spotify.com/album/2k8zQweyloa5wWGUlzZGXV) | 3:47 |
 | 6 | [原來太幼稚](https://open.spotify.com/track/6jjDMlKak4jKhJX9Y3xGjI) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [原來太幼稚](https://open.spotify.com/album/6VLCSD6NUmHbBxUXoRVxHJ) | 4:43 |
 | 7 | [Heaven](https://open.spotify.com/track/3xMmSqMvzJwdeOZ2sy7IKr) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [Heaven](https://open.spotify.com/album/7MUfbThaQndoDzbbG35uBU) | 5:00 |

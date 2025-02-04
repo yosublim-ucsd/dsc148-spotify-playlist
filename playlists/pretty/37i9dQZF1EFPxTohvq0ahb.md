@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,404 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,405 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 50 | [Sex Therapy](https://open.spotify.com/track/6MmxDAqXSxFS9dLQs1l7DT) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Sex Therapy: The Session](https://open.spotify.com/album/4Gm2OtBvivEPpoDIZSvA8o) | 4:35 |
 | 51 | [Crazy Youngsters \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/4epaMtVDYg7MMVBGzEjkmh) | [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Crazy Youngsters \(From "Pitch Perfect 2" Soundtrack\)](https://open.spotify.com/album/76W2zqaQNcFIs9vFl6hE34) | 3:39 |
 | 52 | [So Cold](https://open.spotify.com/track/6XLqWHfm6t1WsB1S3sGslQ) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Graffiti \(Expanded Edition\)](https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D) | 3:38 |
-| 53 | [Roc Me Out](https://open.spotify.com/track/2V4mS5qU1zIrlL9IdpTeJA) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 3:29 |
-| 54 | [No Money No Love \(feat\. Elliphant & Ms\. Dynamite\)](https://open.spotify.com/track/5I1QXv0dEydyRIPOo2MO9l) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:57 |
-| 55 | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4yb2x8ZxKSszH0TX4rJI8M) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:42 |
+| 53 | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4yb2x8ZxKSszH0TX4rJI8M) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:42 |
+| 54 | [Roc Me Out](https://open.spotify.com/track/2V4mS5qU1zIrlL9IdpTeJA) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 3:29 |
+| 55 | [No Money No Love \(feat\. Elliphant & Ms\. Dynamite\)](https://open.spotify.com/track/5I1QXv0dEydyRIPOo2MO9l) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:57 |
 | 56 | [We All Want Love](https://open.spotify.com/track/18YSXhCY2w86t7yK1Hp7YB) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 3:57 |
 | 57 | [Second Guessing \- From Songland](https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:07 |
 | 58 | [Greenlight \- From "Songland"](https://open.spotify.com/track/5HgbcQFIHjNcn46w8ORwhu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greenlight \(From "Songland"\)](https://open.spotify.com/album/3RRyP3NlMJOrPGxjrRfK5l) | 3:00 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 163 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 | 164 | [Stay](https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA) | 3:49 |
 
-Snapshot ID: `Aboi/gAAAABJp4jre8wFNxgfR3Di8tb3`
+Snapshot ID: `AboongAAAAA9rzccLy8ybfi4HpiMddjC`

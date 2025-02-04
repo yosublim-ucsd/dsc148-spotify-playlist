@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,305 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,315 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 31 | [HIM \(feat\. Big Boogie\)](https://open.spotify.com/track/39DG0y5aIV4DwtPjQcMSaP) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [HIM \(feat\. Big Boogie\)](https://open.spotify.com/album/3jIylx2aHp4FjezM9Cc4Ma) | 2:48 |
 | 32 | [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 |
 | 33 | [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 |
-| 34 | [PETER PARKER](https://open.spotify.com/track/68t3OspWseknli5rSmH3TG) | [CASTRO](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [PETER PARKER](https://open.spotify.com/album/0DT1s4PXCUXFrZcJohwBSA) | 2:24 |
+| 34 | [PETER PARKER](https://open.spotify.com/track/68t3OspWseknli5rSmH3TG) | [CASTRO](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [PETER PARKER](https://open.spotify.com/album/0DT1s4PXCUXFrZcJohwBSA) | 2:21 |
 | 35 | [Gunz N Smoke \(feat\. 50 Cent & Eminem\)](https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:33 |
-| 36 | [Book of Mou](https://open.spotify.com/track/0XijQDToF1hFc3MIEut9yO) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Book of Mou](https://open.spotify.com/album/2Ks3iDjoITlCz5w9dmgM7O) | 2:28 |
+| 36 | [Book of Mou](https://open.spotify.com/track/0XijQDToF1hFc3MIEut9yO) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Book of Mou](https://open.spotify.com/album/2Ks3iDjoITlCz5w9dmgM7O) | 2:20 |
 | 37 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 |
 | 38 | [Money Showers](https://open.spotify.com/track/5Hg7tK6LmFOdkgJyPMehV5) | [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Money Showers](https://open.spotify.com/album/3uab7YtiOV7hTEjpXdVxcu) | 2:27 |
 | 39 | [99 \(with Future\)](https://open.spotify.com/track/3wD05dVOHFfqr3Kra9f6PH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Florida Boy](https://open.spotify.com/track/60pLVKlxlxcE1nkbccLavt) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Florida Boy](https://open.spotify.com/album/2EffsPrxXhoDznoRMUd5NF) | 2:04 |
 | 49 | [GRWN BBY](https://open.spotify.com/track/2Z1tfusQMA8MjTu5OT33pV) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [THE HUMAN EXPERIENCE: SPIRITUAL EDITION](https://open.spotify.com/album/1VIjNyCiEz8gDlj3xObAWX) | 3:16 |
 
-Snapshot ID: `Z5xY4wAAAAAiigszn5tJDzm16MMrHEe+`
+Snapshot ID: `Z6DldwAAAADoY1kQ+zpqUABHL+tdDtzh`

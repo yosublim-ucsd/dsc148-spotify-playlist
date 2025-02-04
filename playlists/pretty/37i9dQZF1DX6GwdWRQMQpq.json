@@ -1,15 +1,31 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto",
-  "num_followers": 3207833,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Doechii",
+  "num_followers": 3208822,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY7wAAAACcELOR2rF6Sb6aaB/QAYud",
+  "snapshot_id": "Z6BOtQAAAACKeet5scgdmwRfSJn7D/VL",
   "tracks": [
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Blick Sum (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "OKAY",
         "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Get It Sexyy",
         "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Peggy",
         "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Fat Juicy & Wet",
         "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3un3wRHzA77vlkWIXTWxNW"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
         "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
@@ -209,7 +209,23 @@
       "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
+    },
+    {
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Enough (Miami)",
         "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Wanna Be (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "NISSAN ALTIMA",
         "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "No Service",
         "url": "https://open.spotify.com/album/2XcxugGEA00jD36FqBaUb7"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/5EvYT2ryEoFLsHMw1GF5zI"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Don Who Leo",
         "url": "https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
         "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "PRINCESS POP THAT",
         "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "First",
         "url": "https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/3TNlo9OEKQxBA9Ctghiz4r"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Needa Gangsta",
         "url": "https://open.spotify.com/album/4lSuzseuY8VL3JKc7j8ZKJ"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/08CQDDOc3NifKyLa3hUSDI"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "City Cinderella",
         "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/3Ur9zMHlzsCTnuEW9vXNyT"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Alter Ego (with JT)",
         "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) [hehe look y'all I made it longer]",
         "url": "https://open.spotify.com/album/5o7Wu7xeSeuey5Lwbn8Lv2"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/2LIgTJnCCAtGbuPn0qN7Ny"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Not My Problem (Flyer Than U)",
         "url": "https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "My Best",
         "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Flush Em",
         "url": "https://open.spotify.com/album/3BiLSwYY5MYLOhpyzOWPqY"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/53hdiPtasasa17cyJFDvyw"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Yeah Glo!",
         "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Turn Me Up",
         "url": "https://open.spotify.com/album/6Lc6kbVxDCYWlqvh42A6KC"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/1cFpJsDccThCnkHS10ypSB"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Neva Play (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Crazy Bout Me",
         "url": "https://open.spotify.com/album/0Y6IpiA84fDCMfhHa2Ky1j"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/5ZWOnARwK6B46d2xJQOveR"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Bad Boys: Ride Or Die Soundtrack",
         "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Tell Ur Girlfriend",
         "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "BOA",
         "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "WOKE UP",
         "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "Hot Girl Maybach",
         "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
     },
     {
-      "added_at": "2025-01-31 05:00:31",
+      "added_at": "2025-02-03 05:05:57",
       "album": {
         "name": "The Last Doll",
         "url": "https://open.spotify.com/album/7yn4tvk6FnItSAPYgPaQ4F"

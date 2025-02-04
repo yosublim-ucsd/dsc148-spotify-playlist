@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 87077,
+  "num_followers": 87106,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 266173,
       "name": "Palco",
       "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Brasilian Fiesta",
-        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Sossego",
-      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
         "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
       },
@@ -507,8 +491,24 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Canto Das Tr\u00eas Ra\u00e7as",
-        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
+        "name": "Brasilian Fiesta",
+        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Sossego",
+      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 264200,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
+      "duration_ms": 178613,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -623,8 +623,8 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Conto de Areia",
-        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
+        "name": "Canto Das Tr\u00eas Ra\u00e7as",
+        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 178613,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
+      "duration_ms": 264200,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -651,6 +651,22 @@
       "duration_ms": 397493,
       "name": "Preta Pretinha",
       "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Festa de Umbanda",
+      "url": "https://open.spotify.com/track/4auEly6WQF3aHdaP6CGqza"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -675,22 +691,6 @@
       "duration_ms": 185544,
       "name": "Chega",
       "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Festa de Umbanda",
-      "url": "https://open.spotify.com/track/4auEly6WQF3aHdaP6CGqza"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -757,7 +757,7 @@
         }
       ],
       "duration_ms": 215600,
-      "name": "Swing da Cor",
+      "name": "Swing da Cor - Ao Vivo",
       "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
     },
     {
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
-        "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
-      },
-      "artists": [
-        {
-          "name": "Los Sebosos Postizos",
-          "url": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "Minha Teimosia, uma Arma pra Te Conquistar",
-      "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Emilio Santiago (Remastered)",
         "url": "https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 173506,
       "name": "Bananeira (Remastered)",
       "url": "https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
+        "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
+      },
+      "artists": [
+        {
+          "name": "Los Sebosos Postizos",
+          "url": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
+        }
+      ],
+      "duration_ms": 248106,
+      "name": "Minha Teimosia, uma Arma pra Te Conquistar",
+      "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Para\u00edso da Miragem",
+        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
+      },
+      "artists": [
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 228895,
+      "name": "Paraquedas",
+      "url": "https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 232937,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Para\u00edso da Miragem",
-        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
-      },
-      "artists": [
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        }
-      ],
-      "duration_ms": 228895,
-      "name": "Paraquedas",
-      "url": "https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Condom Black",
+        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+      },
+      "artists": [
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Dias de Janeiro",
+      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Braseiro",
         "url": "https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 233426,
       "name": "Pelas Tabelas",
       "url": "https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 256053,
-      "name": "P\u00e9 do Meu Samba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
     }
   ],
   "unique_name": "Baile Maravilha",

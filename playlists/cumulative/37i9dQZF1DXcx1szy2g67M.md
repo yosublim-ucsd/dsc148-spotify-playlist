@@ -2,7 +2,7 @@
 
 ### [Winter 2025](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Januari beleef je hier!
+> Februari beleef je hier!
 
 580 songs - 1 day 5 hr 24 min
 

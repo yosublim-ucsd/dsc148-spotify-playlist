@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack the big game with all the hits from past and present halftime shows!",
-  "num_followers": 114977,
+  "num_followers": 114974,
   "original_name": "HALFTIME SHOW HITS",
   "owner": {
     "name": "Digster Global",
@@ -282,10 +282,14 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless",
+      "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

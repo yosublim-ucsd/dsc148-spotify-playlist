@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-193 songs - 21 hr 44 min
+195 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Mujhay Baar Baar](https://open.spotify.com/track/3vd0Z4j9xwLVZUGUbmQTUV) | [Abbas Ali Khan](https://open.spotify.com/artist/2s0QNp9mi0mup8DHbTPs9l) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:30 | 2024-01-05 |  |
 | [Naad E Ali \(feat\. Salim Merchant, Raj Pandit, Salman Ali & Vipul Mehta\)](https://open.spotify.com/track/5HeNJdOzrgWFPsbv4zvfum) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a) | [Naad E Ali \(feat\. Salim Merchant, Raj Pandit, Salman Ali & Vipul Mehta\)](https://open.spotify.com/album/2tHu2PCnhDhyUN4E6Oapii) | 7:10 | 2022-08-02 | 2024-01-06 |
 | [Nabi Nabi](https://open.spotify.com/track/4ttVAE1UfmqNiMREb3NAci) | [Aziz Mian](https://open.spotify.com/artist/0lyuCEP722XiHlj92fsxhU) | [Greatest Hits Of Aziz Mian Vol \-1](https://open.spotify.com/album/6hhmJLrMVmMHdFLA6laL1H) | 21:55 | 2022-08-02 | 2023-08-01 |
+| [Naina](https://open.spotify.com/track/39BdrPzA4UL05QCqdp2d7D) | [Mughal\-E\-Funk](https://open.spotify.com/artist/0FMFfSdbjQi08hUB2KqUyx), [Rassab Aamir](https://open.spotify.com/artist/2gxsNVoS1NMAkKIDK4x8Tn) | [Naina](https://open.spotify.com/album/6SwKz4ZFJuMw5BKy20SYPR) | 6:00 | 2025-02-03 |  |
 | [Naukar Shah Da](https://open.spotify.com/track/0QPOtQjf1Nl1wVNcPV6e4s) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Naukar Shah Da](https://open.spotify.com/album/54Kjgaj9mL1n2iFyKxZ70v) | 4:13 | 2022-06-21 | 2023-09-23 |
 | [Naukar Shah Da](https://open.spotify.com/track/4GypRqhNPkKNMn7DtE2suY) | [Kashmir Beats](https://open.spotify.com/artist/4J7oYZcQA6hAVCRVTh9GmY), [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Kashmir Beats \- Season 2](https://open.spotify.com/album/0R83g1T6jwC4AoK0E7ZKVi) | 4:13 | 2023-09-08 | 2024-01-06 |
 | [Nit Khair Manga](https://open.spotify.com/track/6Lks1JEnWDejwxwGIUGzRI) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 4:33 | 2022-06-21 |  |
@@ -152,6 +153,7 @@
 | [Rang Le](https://open.spotify.com/track/6AeeDw5Vckef3OD3QtOBu1) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2S9oWh8Cws0tGiHxFTe76c) | 3:33 | 2022-08-02 | 2024-04-27 |
 | [Rang Le](https://open.spotify.com/track/6BW7qbuZba3CoEr1OahhUo) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2OC8Tg8Z4F583hxAyb64tt) | 3:33 | 2022-11-02 | 2024-04-19 |
 | [Rangrez](https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 8:57 | 2022-08-02 |  |
+| [Ranjheya Ve](https://open.spotify.com/track/4uxuqSSwxaN1HDKWm3Qx7P) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/54NHimWyJ1NFHKQUxyFalk) | 4:38 | 2025-02-03 |  |
 | [Rasta Bhool Gaye](https://open.spotify.com/track/0mARMftPGcPABcF5YRF6tj) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [VASL](https://open.spotify.com/album/6OAH2QoJXw1yE4N7sH7v3W) | 4:08 | 2022-06-21 | 2024-01-06 |
 | [Sab Aakho Ali Ali](https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:57 | 2024-01-05 |  |
 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 | 2022-10-25 |  |

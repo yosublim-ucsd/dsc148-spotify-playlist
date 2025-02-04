@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb"
+      },
+      "artists": [
+        {
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX"
+    },
+    {
+      "album": {
         "name": "Blue Dreams",
         "url": "https://open.spotify.com/album/5lz235rEOhBXtnAlzu9HnV"
       },
@@ -1224,7 +1246,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 242497,
       "name": "Cup Of Tea",
       "url": "https://open.spotify.com/track/5IWapfr63DOAJztiBxgV3p"
@@ -3842,7 +3864,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 209751,
       "name": "Louise (feat. Teitur)",
       "url": "https://open.spotify.com/track/1ZeVc8ZvZsCzVZ532nr14a"
@@ -4174,7 +4196,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 239895,
       "name": "Mudroom",
       "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
@@ -4621,6 +4643,32 @@
     },
     {
       "album": {
+        "name": "Piece Of Me",
+        "url": "https://open.spotify.com/album/3ZljxSb9FYk4xeszx0F4OD"
+      },
+      "artists": [
+        {
+          "name": "Somewhere Sun",
+          "url": "https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg"
+        },
+        {
+          "name": "Heath Lancaster",
+          "url": "https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU"
+        },
+        {
+          "name": "Jess Josie Lee",
+          "url": "https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "Piece Of Me",
+      "url": "https://open.spotify.com/track/4tqHf5fTWCKXTOTP427cac"
+    },
+    {
+      "album": {
         "name": "Please Slow Down (Rubber Bridge Version)",
         "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
       },
@@ -4770,6 +4818,24 @@
       "duration_ms": 214272,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/39bnTxZSIoOoz2Gb7Vz0g7"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/7iioD6WZoXf9M3PyUIKsdw"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/0vgULlytrF8MCJ1dstuR66"
     },
     {
       "album": {

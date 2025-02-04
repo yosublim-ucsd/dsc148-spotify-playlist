@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 209718,
       "name": "Amore mio",
       "url": "https://open.spotify.com/track/346nT9OEHKXyc0RA5JzVYT"
@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "Pop-hoolista",
+        "url": "https://open.spotify.com/album/3MJfMtxaK8aHRFQk1Aqzcl"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258880,
+      "name": "L'amore eternit (feat. Noemi)",
+      "url": "https://open.spotify.com/track/2vAzyP21f777MdZNcyt6yt"
+    },
+    {
+      "album": {
         "name": "L'ULTIMA POESIA (feat. Ultimo)",
         "url": "https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG"
       },
@@ -2052,6 +2074,28 @@
       "duration_ms": 150330,
       "name": "Non ho bisogno di te",
       "url": "https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov"
+    },
+    {
+      "album": {
+        "name": "Tropico Del Capricorno",
+        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174673,
+      "name": "Non Lo So (feat. chiello)",
+      "url": "https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc"
     },
     {
       "album": {
@@ -2950,7 +2994,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 166693,
       "name": "Tacchi (fra le dita)",
       "url": "https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488"

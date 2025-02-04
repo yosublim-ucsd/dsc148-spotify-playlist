@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonito con Lauty Gram, DobleP, El Turko
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,530 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,557 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 15 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 |
 | 16 | [Saia Mini](https://open.spotify.com/track/383AaDYkagb6VGEdjYwFQ0) | [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Saia Mini](https://open.spotify.com/album/7HsoEEOmV8xHsjyJ5sA1a9) | 2:47 |
 | 17 | [bandida](https://open.spotify.com/track/2Qs0jR2ST0SPxRMlh8aczJ) | [Dib](https://open.spotify.com/artist/0dBOHbFtyJhntzjNS3ZFx6) | [bandida](https://open.spotify.com/album/0Cr8YZ0KxPLHbPUT7hb3Re) | 2:26 |
-| 18 | [São Paulo](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
+| 18 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
 | 19 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 |
 | 20 | [Tirando Corte](https://open.spotify.com/track/60MM0hgQ8OKkqTDi1qTz8x) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Tirando Corte](https://open.spotify.com/album/0Bvj4fN7e19wbrkmYhvDDY) | 2:32 |
 | 21 | [Voce](https://open.spotify.com/track/4dq5Lnp3WZhqtvLBXrpA8e) | [Las Gemelas del Free](https://open.spotify.com/artist/2K0a9Kxn7RcczBjYCDS3FT) | [Você](https://open.spotify.com/album/7HtzFT0jyWqG6XYPZTEGIy) | 3:02 |

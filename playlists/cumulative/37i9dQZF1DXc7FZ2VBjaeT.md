@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-136 songs - 8 hr 29 min
+137 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1000 Doves](https://open.spotify.com/track/62hTXlVQacy3pjBW4ntRPl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:35 | 2020-10-16\* | 2021-05-13 |
 | [911](https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:52 | 2020-10-16\* |  |
 | [A\-YO](https://open.spotify.com/track/4aea4osXbQHKgeOwZGzgEV) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:27 | 2020-10-16\* |  |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-03 |  |
 | [Alejandro](https://open.spotify.com/track/0iOu4s8w3pE9vbpb1SHXsL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(UK Deluxe\)](https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x) | 4:34 | 2020-10-16\* |  |
 | [Alejandro](https://open.spotify.com/track/4lwavw59UjXUPJZtKNdFYp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 4:34 | 2022-05-09 | 2024-04-19 |
 | [Alejandro](https://open.spotify.com/track/5qzeMc6uL3s9QvfeHK6VMP) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Pop Hits 2010 Vol\. 1I](https://open.spotify.com/album/7mXtjVnyUrunfAdGoNJdl2) | 4:34 | 2022-05-09 | 2022-11-13 |
@@ -68,7 +69,7 @@
 | [I Get A Kick Out Of You](https://open.spotify.com/track/6tANJIaIQAFhMxgnafAZd2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:33 | 2022-05-09 | 2024-04-07 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/7vFyHHpHhtdrygb7ULHVUU) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Award Winning Hits 2022](https://open.spotify.com/album/2oF6fEtW5G1rJh4TusCJAE) | 3:33 | 2022-05-09 | 2022-11-13 |
 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 | 2020-10-16\* | 2024-04-07 |
-| [I've Got You Under My Skin](https://open.spotify.com/track/6jz5HzDmPuQ24U7u7KfKGw) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:05 | 2021-10-01 |  |
+| [I've Got You Under My Skin](https://open.spotify.com/track/6jz5HzDmPuQ24U7u7KfKGw) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:05 | 2021-10-01 | 2025-02-04 |
 | [It's De\-Lovely](https://open.spotify.com/track/5i6SVeYn0jb3yMp9fsQGto) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 2:53 | 2021-10-02 | 2021-10-16 |
 | [Joanne](https://open.spotify.com/track/4CpYy3xVz778722sv0odtm) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:16 | 2020-10-16\* |  |
 | [Joanne \(Where Do You Think You're Goin'?\) \- Piano Version](https://open.spotify.com/track/1j8jHKgAQ7QD52Wd5uuLNZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Where Do You Think You're Goin'?\) \[Piano Version\]](https://open.spotify.com/album/5jqcNriHl28rS3LlmoP1fg) | 4:39 | 2022-05-09 | 2023-08-15 |

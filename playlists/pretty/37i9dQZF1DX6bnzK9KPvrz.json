@@ -1,15 +1,31 @@
 {
   "description": "The essential tracks from The Weeknd.",
-  "num_followers": 4700541,
+  "num_followers": 4701709,
   "original_name": "This Is The Weeknd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyMAwAAAAABTm7+zSXtaQLJJAb/yIveW",
+  "snapshot_id": "Z6Ds9gAAAADclQvFJGJi9KkM4TS/LWIY",
   "tracks": [
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+    },
+    {
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv"
@@ -18,14 +34,18 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
       "duration_ms": 301623,
-      "name": "S\u00e3o Paulo",
+      "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -34,14 +54,18 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless",
+      "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -57,7 +81,7 @@
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Dancing In The Flames",
         "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
@@ -73,7 +97,7 @@
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Die For You (Remix)",
         "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
@@ -93,7 +117,7 @@
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
@@ -117,7 +141,7 @@
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -133,7 +157,23 @@
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 234923,
+      "name": "Open Hearts",
+      "url": "https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6"
+    },
+    {
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -157,7 +197,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -177,7 +217,7 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
@@ -193,7 +233,7 @@
       "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
@@ -209,7 +249,7 @@
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/4MPTj8lMMvxLwT3EwuXFop"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -249,7 +289,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -265,7 +305,7 @@
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -305,7 +345,7 @@
       "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -349,7 +389,7 @@
       "url": "https://open.spotify.com/track/1FIwzmULOKGNmo5bOJqW0P"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "K-POP",
         "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
@@ -373,7 +413,7 @@
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -393,7 +433,7 @@
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6"
@@ -417,7 +457,7 @@
       "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Earned It (Fifty Shades Of Grey) [From The \"Fifty Shades Of Grey\" Soundtrack]",
         "url": "https://open.spotify.com/album/61Ba3txRZWfiX6ZTEZlFCV"
@@ -433,7 +473,7 @@
       "url": "https://open.spotify.com/track/2PIvq1pGrUjY007X5y1UpM"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -453,7 +493,7 @@
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
@@ -469,7 +509,7 @@
       "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -489,7 +529,7 @@
       "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -505,7 +545,7 @@
       "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
@@ -525,7 +565,7 @@
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -569,7 +609,7 @@
       "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69"
@@ -605,7 +645,7 @@
       "url": "https://open.spotify.com/track/5rgnyXr2PXFWsAnPFew077"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -621,7 +661,7 @@
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "You Right",
         "url": "https://open.spotify.com/album/18yAP4zwFlTwep9rQZChVa"
@@ -641,7 +681,7 @@
       "url": "https://open.spotify.com/track/0IakguBBeTUsAILmugkEam"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -657,7 +697,7 @@
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -673,7 +713,7 @@
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -689,7 +729,7 @@
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -705,7 +745,7 @@
       "url": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -721,7 +761,7 @@
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -737,7 +777,7 @@
       "url": "https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Lost in the Fire",
         "url": "https://open.spotify.com/album/3gXi45Aift9hCoB6lvuVJb"
@@ -757,23 +797,7 @@
       "url": "https://open.spotify.com/track/7wFybC8jBH3zE139OpCtpG"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 211814,
-      "name": "Less Than Zero",
-      "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
-    },
-    {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
@@ -789,7 +813,7 @@
       "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Pray For Me (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/1mESN9Zy0787YRMuLqOY4j"
@@ -809,7 +833,7 @@
       "url": "https://open.spotify.com/track/4ofvoCdXq99vpMZO4Cfp8x"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
@@ -825,7 +849,7 @@
       "url": "https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
@@ -841,7 +865,7 @@
       "url": "https://open.spotify.com/track/25KybV9BOUlvcnv7nN3Pyo"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
@@ -857,7 +881,7 @@
       "url": "https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
@@ -877,7 +901,7 @@
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
@@ -893,7 +917,7 @@
       "url": "https://open.spotify.com/track/7uJH0YdSZL6psjxI6Xy08b"
     },
     {
-      "added_at": "2024-10-31 04:00:00",
+      "added_at": "2025-02-03 16:21:10",
       "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
@@ -907,26 +931,6 @@
       "duration_ms": 405213,
       "name": "House Of Balloons / Glass Table Girls",
       "url": "https://open.spotify.com/track/50iiDJGpAPdr2VTrz999XA"
-    },
-    {
-      "added_at": "2024-10-31 04:00:00",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Sidewalks",
-      "url": "https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko"
     }
   ],
   "unique_name": "This Is The Weeknd",

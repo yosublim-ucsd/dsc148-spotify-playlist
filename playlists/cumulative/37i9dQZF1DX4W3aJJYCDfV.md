@@ -4,7 +4,7 @@
 
 > Brand new music from The Weeknd \(pictured\), Bring Me The Horizon, JENNIE and more!
 
-14,477 songs - 32 day 13 hr 29 min
+14,477 songs - 32 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8541,7 +8541,7 @@
 | [my little tony](https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [my little tony](https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX) | 2:59 | 2023-09-21 | 2023-09-29 |
 | [My Love](https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 4:15 | 2024-07-11 | 2024-07-19 |
 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 | 2023-09-07 | 2023-09-15 |
-| [My Love For You](https://open.spotify.com/track/5p2dlnHVDxqqaZPMs8YJod) | [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD) | [My Love For You](https://open.spotify.com/album/4za4vcK0U4hqw5arJxz3Ib) | 5:05 | 2025-01-31 |  |
+| [My Love 4 U](https://open.spotify.com/track/5p2dlnHVDxqqaZPMs8YJod) | [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [My Love 4 U](https://open.spotify.com/album/4za4vcK0U4hqw5arJxz3Ib) | 3:29 | 2025-01-31 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-14 | 2023-09-22 |
 | [My Love, My Town](https://open.spotify.com/track/0LLEj5V2aElrxpIv5wWTDi) | [Civic Green](https://open.spotify.com/artist/3qVzrto6VShlfsO1eZIr30) | [My Love, My Town](https://open.spotify.com/album/4y8Tl0z1WPSoEQSOBYk2k9) | 3:06 | 2023-08-03 | 2023-08-05 |
 | [My Lover Is Sleeping](https://open.spotify.com/track/0Y6DKikmdIIpDBUhUuxa8R) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [My Lover Is Sleeping](https://open.spotify.com/album/06aLmOK0BRvEIRvRLYC8ph) | 3:46 | 2023-05-18 | 2023-05-26 |

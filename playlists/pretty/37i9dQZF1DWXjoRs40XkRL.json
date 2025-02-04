@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the best Indian classical sounds out there.",
-  "num_followers": 115976,
+  "num_followers": 116006,
   "original_name": "Raga Lounge",
   "owner": {
     "name": "Spotify",
@@ -88,25 +88,21 @@
       },
       "artists": [
         {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          "name": "Prithvi Gandharv",
+          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
         },
         {
-          "name": "Ana Rehman",
-          "url": "https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH"
+          "name": "Suvarna Tiwari",
+          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
         },
         {
-          "name": "Shubham Shirule",
-          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
-        },
-        {
-          "name": "digV",
-          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+          "name": "Mandy Gill",
+          "url": "https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k"
         }
       ],
-      "duration_ms": 175075,
-      "name": "Ghar Aa Maahi",
-      "url": "https://open.spotify.com/track/7b0n7IkWqpECubGjiPODqW"
+      "duration_ms": 278205,
+      "name": "Nirmohiya",
+      "url": "https://open.spotify.com/track/09v5TgXyjMKYz7yEkkgMP5"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -160,21 +156,25 @@
       },
       "artists": [
         {
-          "name": "Prithvi Gandharv",
-          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         },
         {
-          "name": "Suvarna Tiwari",
-          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
+          "name": "Ana Rehman",
+          "url": "https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH"
         },
         {
-          "name": "Mandy Gill",
-          "url": "https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k"
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
         }
       ],
-      "duration_ms": 278205,
-      "name": "Nirmohiya",
-      "url": "https://open.spotify.com/track/09v5TgXyjMKYz7yEkkgMP5"
+      "duration_ms": 175075,
+      "name": "Ghar Aa Maahi",
+      "url": "https://open.spotify.com/track/7b0n7IkWqpECubGjiPODqW"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -619,6 +619,26 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
+        "name": "Piya Ki Nazariya (Raag Yaman)",
+        "url": "https://open.spotify.com/album/0uGYras6Hlp06K8nK0Sgd3"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s"
+        },
+        {
+          "name": "Sanchari Nag",
+          "url": "https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Piya Ki Nazariya - Raag Yaman",
+      "url": "https://open.spotify.com/track/2y07A0vDh1waCZirOiodB5"
+    },
+    {
+      "added_at": "2025-01-31 07:18:44",
+      "album": {
         "name": "Daavaanal",
         "url": "https://open.spotify.com/album/18qVKvrwy14E70G2EhhLBD"
       },
@@ -647,26 +667,6 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
-        "name": "Piya Ki Nazariya (Raag Yaman)",
-        "url": "https://open.spotify.com/album/0uGYras6Hlp06K8nK0Sgd3"
-      },
-      "artists": [
-        {
-          "name": "DEW",
-          "url": "https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s"
-        },
-        {
-          "name": "Sanchari Nag",
-          "url": "https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Piya Ki Nazariya - Raag Yaman",
-      "url": "https://open.spotify.com/track/2y07A0vDh1waCZirOiodB5"
-    },
-    {
-      "added_at": "2025-01-31 07:18:44",
-      "album": {
         "name": "Seher",
         "url": "https://open.spotify.com/album/7ea5hZN7sma70PcoQKXXQb"
       },
@@ -691,22 +691,18 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
-        "name": "Kaliyaan",
-        "url": "https://open.spotify.com/album/3fl0YteOBNVB020BXkgpS1"
+        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
+        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
       },
       "artists": [
         {
-          "name": "Lost Stories",
-          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
-        },
-        {
-          "name": "Bawari Basanti",
-          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
         }
       ],
-      "duration_ms": 159622,
-      "name": "Kaliyaan",
-      "url": "https://open.spotify.com/track/2imK2X4ah7bVms1TjSAB19"
+      "duration_ms": 1398866,
+      "name": "Raga Nata Bhairav - Remastered",
+      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -731,18 +727,22 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
-        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
-        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
+        "name": "Kaliyaan",
+        "url": "https://open.spotify.com/album/3fl0YteOBNVB020BXkgpS1"
       },
       "artists": [
         {
-          "name": "Ravi Shankar",
-          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
         }
       ],
-      "duration_ms": 1398866,
-      "name": "Raga Nata Bhairav - Remastered",
-      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
+      "duration_ms": 159622,
+      "name": "Kaliyaan",
+      "url": "https://open.spotify.com/track/2imK2X4ah7bVms1TjSAB19"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
-        "name": "Baju Band",
-        "url": "https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f"
-      },
-      "artists": [
-        {
-          "name": "Sniti Mishra",
-          "url": "https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Baju Band",
-      "url": "https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD"
-    },
-    {
-      "added_at": "2025-01-31 07:18:44",
-      "album": {
         "name": "Piya Mere",
         "url": "https://open.spotify.com/album/10ruqoIbD4Q5UWEDP4i8zH"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 193144,
       "name": "Piya Mere",
       "url": "https://open.spotify.com/track/7Arvf7vYFiPV7OovVT6GYh"
+    },
+    {
+      "added_at": "2025-01-31 07:18:44",
+      "album": {
+        "name": "Baju Band",
+        "url": "https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f"
+      },
+      "artists": [
+        {
+          "name": "Sniti Mishra",
+          "url": "https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Baju Band",
+      "url": "https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -1299,6 +1299,30 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
+        "name": "Saajan",
+        "url": "https://open.spotify.com/album/6WCSmcdBShRPCO3uKjvihh"
+      },
+      "artists": [
+        {
+          "name": "Shahid Khan",
+          "url": "https://open.spotify.com/artist/5NCYHU9bcrR0DaOBWgIn0G"
+        },
+        {
+          "name": "Arjun Sarkar",
+          "url": "https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Saajan",
+      "url": "https://open.spotify.com/track/2uiLL8F7KmQKnxiAXy0GkA"
+    },
+    {
+      "added_at": "2025-01-31 07:18:44",
+      "album": {
         "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
         "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
       },
@@ -1315,22 +1339,6 @@
       "duration_ms": 1290800,
       "name": "Rag Misra Mand",
       "url": "https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw"
-    },
-    {
-      "added_at": "2025-01-31 07:18:44",
-      "album": {
-        "name": "Swar Sadhna",
-        "url": "https://open.spotify.com/album/303Pkb83Anu8cMovTksOen"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt",
-          "url": "https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ"
-        }
-      ],
-      "duration_ms": 2112156,
-      "name": "Raga Shuddh Kalyan",
-      "url": "https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -1387,6 +1395,22 @@
       "duration_ms": 314000,
       "name": "Bhor Bhayi",
       "url": "https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2"
+    },
+    {
+      "added_at": "2025-01-31 07:18:44",
+      "album": {
+        "name": "Swar Sadhna",
+        "url": "https://open.spotify.com/album/303Pkb83Anu8cMovTksOen"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt",
+          "url": "https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ"
+        }
+      ],
+      "duration_ms": 2112156,
+      "name": "Raga Shuddh Kalyan",
+      "url": "https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -1495,26 +1519,6 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
-        "name": "Aaye Hain Samjhane Log - Single",
-        "url": "https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO"
-      },
-      "artists": [
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        },
-        {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
-        }
-      ],
-      "duration_ms": 287512,
-      "name": "Aaye Hain Samjhane Log",
-      "url": "https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH"
-    },
-    {
-      "added_at": "2025-01-31 07:18:44",
-      "album": {
         "name": "Aarambh",
         "url": "https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc"
       },
@@ -1539,18 +1543,22 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
-        "name": "Signature Series, Vol. 3",
-        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
+        "name": "Aaye Hain Samjhane Log - Single",
+        "url": "https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO"
       },
       "artists": [
         {
-          "name": "Ali Akbar Khan",
-          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        },
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
         }
       ],
-      "duration_ms": 1273906,
-      "name": "Rag Marwa, Part 2",
-      "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
+      "duration_ms": 287512,
+      "name": "Aaye Hain Samjhane Log",
+      "url": "https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -1575,26 +1583,18 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
-        "name": "Baiyaan",
-        "url": "https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V"
+        "name": "Signature Series, Vol. 3",
+        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
       },
       "artists": [
         {
-          "name": "Aniket Kar",
-          "url": "https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s"
-        },
-        {
-          "name": "Parul Mishra",
-          "url": "https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU"
-        },
-        {
-          "name": "Aabhas Joshi",
-          "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
+          "name": "Ali Akbar Khan",
+          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
         }
       ],
-      "duration_ms": 326999,
-      "name": "Baiyaan",
-      "url": "https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC"
+      "duration_ms": 1273906,
+      "name": "Rag Marwa, Part 2",
+      "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -1639,18 +1639,26 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
-        "name": "Jhuki Aayi Badariya",
-        "url": "https://open.spotify.com/album/0WBU61Fd1qBsaFWzo8n5w7"
+        "name": "Baiyaan",
+        "url": "https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V"
       },
       "artists": [
         {
-          "name": "Pamela Jain",
-          "url": "https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE"
+          "name": "Aniket Kar",
+          "url": "https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s"
+        },
+        {
+          "name": "Parul Mishra",
+          "url": "https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU"
+        },
+        {
+          "name": "Aabhas Joshi",
+          "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
         }
       ],
-      "duration_ms": 351514,
-      "name": "Jhuki Aayi Badariya",
-      "url": "https://open.spotify.com/track/6J14UQWmV5WPTwMv2SPOag"
+      "duration_ms": 326999,
+      "name": "Baiyaan",
+      "url": "https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC"
     },
     {
       "added_at": "2025-01-31 07:18:44",
@@ -1675,6 +1683,22 @@
     {
       "added_at": "2025-01-31 07:18:44",
       "album": {
+        "name": "Jhuki Aayi Badariya",
+        "url": "https://open.spotify.com/album/0WBU61Fd1qBsaFWzo8n5w7"
+      },
+      "artists": [
+        {
+          "name": "Pamela Jain",
+          "url": "https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE"
+        }
+      ],
+      "duration_ms": 351514,
+      "name": "Jhuki Aayi Badariya",
+      "url": "https://open.spotify.com/track/6J14UQWmV5WPTwMv2SPOag"
+    },
+    {
+      "added_at": "2025-01-31 07:18:44",
+      "album": {
         "name": "Barse Badariya",
         "url": "https://open.spotify.com/album/1N5lJDZXeReW3mDVpTr009"
       },
@@ -1691,26 +1715,6 @@
       "duration_ms": 204578,
       "name": "Barse Badariya",
       "url": "https://open.spotify.com/track/60l7qOaFTNccb7AX51U27k"
-    },
-    {
-      "added_at": "2025-01-31 07:18:44",
-      "album": {
-        "name": "Raag Darbari Kannada",
-        "url": "https://open.spotify.com/album/2SeQPXLYc3Sh7IfhhLLeax"
-      },
-      "artists": [
-        {
-          "name": "Sayan Ghosh",
-          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
-        },
-        {
-          "name": "Tamaghna Chakraborty",
-          "url": "https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw"
-        }
-      ],
-      "duration_ms": 617851,
-      "name": "Darbari Kanara Teen Taal",
-      "url": "https://open.spotify.com/track/6SdKS6uQA7Cvecsibddb2f"
     }
   ],
   "unique_name": "Raga Lounge",

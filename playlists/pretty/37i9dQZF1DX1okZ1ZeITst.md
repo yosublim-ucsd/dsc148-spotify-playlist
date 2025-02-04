@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Mufasa: The Lion King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,983 likes - 158 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,092 likes - 158 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

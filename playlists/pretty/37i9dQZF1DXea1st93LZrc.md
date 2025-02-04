@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2024\. Εξώφυλλο: TOQUEL, RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,359 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,377 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 20 | [ROLLS ROYCE](https://open.spotify.com/track/30NGlJlriaraINBxFfxAsY) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK) | [ROLLS ROYCE](https://open.spotify.com/album/5aChdDTUKnXBKn3YuAPqJ9) | 2:22 |
 | 21 | [KOINO MYSTIKO](https://open.spotify.com/track/4fejBXInswcgNhzuZTFokR) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [KOINO MYSTIKO](https://open.spotify.com/album/73lpQrTd3cXHkWUlAe5TCG) | 2:26 |
 | 22 | [MA](https://open.spotify.com/track/280avsj1mXpJZHLRim7mzE) | [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997) | [MA](https://open.spotify.com/album/5PcwK1tiH1hzmhVBiWWGto) | 3:55 |
-| 23 | [Timeless](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
+| 23 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 24 | [Vamos A Bailar](https://open.spotify.com/track/454F8uQt4IlAvBvh54CRrG) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Vamos A Bailar](https://open.spotify.com/album/6HdALb6FUd6pad2uYgudSZ) | 2:14 |
 | 25 | [Terrano](https://open.spotify.com/track/2i6m9IDP7obOv5qj9J2d4U) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Homesick](https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R) | 3:40 |
 | 26 | [Nyxterides](https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [G.T.K.](https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Alison Krauss & Union Station
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,952 likes - 116 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,970 likes - 116 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 15 | [Ghosts are Weak](https://open.spotify.com/track/71f2ka5owKm2ocIEwnD7GD) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [Ghosts Are Weak](https://open.spotify.com/album/5KttJOsdaXELYl9UkY4XlD) | 3:08 |
 | 16 | [Black Muddy River](https://open.spotify.com/track/56uENpwmYPdyAUZVqNSvyr) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Anders Osborne](https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888) | [Songs from the River](https://open.spotify.com/album/6bI3FFzvnOmKGghdMoLycs) | 6:19 |
 | 17 | [Lonely As It Gets](https://open.spotify.com/track/51R2mhekMWUWKwPk3wfSDK) | [Wilson Banjo Co.](https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo) | [Lonely As It Gets](https://open.spotify.com/album/2SYXTbHH8KoF40TrSuPb0s) | 3:32 |
-| 18 | [Early Shadow](https://open.spotify.com/track/0UXfar7exmcgQ8mzDHQVxZ) | [Ridgeliners](https://open.spotify.com/artist/4oMRt4Xf57vW1Tz3Lrmw0k), [Michael J Williams](https://open.spotify.com/artist/0pTZhIRNpxO7lUKGYUfRd4), [Justin Bradford](https://open.spotify.com/artist/7dTY85U7QdSwtUaKG4edhM) | [Early Shadow](https://open.spotify.com/album/14lPn3Bs8Zm1MFz7TwbjRu) | 3:16 |
+| 18 | [Early Shadow](https://open.spotify.com/track/0UXfar7exmcgQ8mzDHQVxZ) | [Ridgeliners](https://open.spotify.com/artist/4oMRt4Xf57vW1Tz3Lrmw0k), [Michael J Williams](https://open.spotify.com/artist/4tdwg9uqvjvG9dBaYfbjit), [Justin Bradford](https://open.spotify.com/artist/7dTY85U7QdSwtUaKG4edhM) | [Early Shadow](https://open.spotify.com/album/14lPn3Bs8Zm1MFz7TwbjRu) | 3:16 |
 | 19 | [Espresso](https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Espresso](https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP) | 3:09 |
 | 20 | [Glory Land Is Just in Sight](https://open.spotify.com/track/3DJbr0ruiNhsUiQANSwPsq) | [The Gospel Plowboys](https://open.spotify.com/artist/43Gssso581XyRUxLIKWvC5) | [Glory Land Is Just in Sight](https://open.spotify.com/album/7krHbmYsfl8JLpcYqAlPAC) | 2:21 |
 | 21 | [Move On](https://open.spotify.com/track/5KmP6dRaP4BW36oP2FOedl) | [Jaywalkers](https://open.spotify.com/artist/2jYb9fKcpvvs35wRr8lvlm) | [Move On](https://open.spotify.com/album/3giyknhZ1amxym7BQNVBux) | 4:37 |

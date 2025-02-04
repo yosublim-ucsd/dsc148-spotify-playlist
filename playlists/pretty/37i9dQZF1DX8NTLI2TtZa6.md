@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,432,315 likes - 201 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,432,423 likes - 201 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 29 | [Concentrada](https://open.spotify.com/track/7knnkIB1nGfuDK9XeBpbhI) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Concentrada](https://open.spotify.com/album/5aWPvJXCQ67QQT9LfIYj3U) | 2:24 |
 | 30 | [Playful Waters](https://open.spotify.com/track/44gLT7tLntDBP2HR5sFsHM) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Playful Waters](https://open.spotify.com/album/5t8wXhWDC0mlvFv3w33MFd) | 2:32 |
 | 31 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 |
-| 32 | [Hymn](https://open.spotify.com/track/7bi0PH9ZauH2jZHPwJgGZY) | [Farsjön](https://open.spotify.com/artist/5aAa6hPXOPxLqRZ9snYVxS) | [Hymn](https://open.spotify.com/album/1NdQXQEpfcPYuJcf1cBIKR) | 2:44 |
+| 32 | [Hymn](https://open.spotify.com/track/7bi0PH9ZauH2jZHPwJgGZY) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Hymn](https://open.spotify.com/album/1NdQXQEpfcPYuJcf1cBIKR) | 2:44 |
 | 33 | [Lost and Found](https://open.spotify.com/track/0zoY6SpBQMKmKr8KPtsxdP) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [Lost and Found](https://open.spotify.com/album/5KVNcufTRZBqJaOsVbqIQl) | 2:39 |
 | 34 | [Ethereal](https://open.spotify.com/track/357uWf4Ao1UqZ2DXMdrXIV) | [Güel Mipér](https://open.spotify.com/artist/17EwnKFq0C7U9arfvF0h05) | [Ethereal](https://open.spotify.com/album/5tmSZ65pTibqLtWujrIZBF) | 2:44 |
 | 35 | [Adiccio](https://open.spotify.com/track/5FQx940EUQUVwJPuZ1OhcK) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Adiccio](https://open.spotify.com/album/4PqWpze4lg8UCpgBaJ8hgh) | 2:01 |

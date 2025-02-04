@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Jake, Simba, Boro, Dani Faiv e tanti altri 🔥
 
-4,859 songs - 9 day 1 hr 25 min
+4,860 songs - 9 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1231,6 +1231,7 @@
 | [Demodè](https://open.spotify.com/track/59XPghPNocTlJlp6mKnjCh) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5), [NRY](https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s) | [Demodè](https://open.spotify.com/album/2YHTY2F7c4vy4tGX5uCuud) | 2:22 | 2023-01-26 | 2023-02-24 |
 | [Demon Time](https://open.spotify.com/track/5SFMqUci00YuDrQBLLJyWS) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8), [yungenob](https://open.spotify.com/artist/2wpyNCDCcqIpRZgAGdHRgg) | [Demon Time](https://open.spotify.com/album/5T468g5oVWDSd47uzJggVE) | 1:54 | 2024-11-28 | 2024-12-13 |
 | [Demone](https://open.spotify.com/track/214KT9TF4uVt1VCNBtOmzj) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Demone](https://open.spotify.com/album/6kIx9gfpHm1NI2TDo9FLU4) | 3:03 | 2023-07-06 | 2023-07-14 |
+| [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 | 2025-02-03 |  |
 | [Demoni](https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Demoni](https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7) | 2:53 | 2022-06-02 | 2022-06-17 |
 | [Demoni & Bitches](https://open.spotify.com/track/5igR4ckUc31NrR5PaKKsTi) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [Demoni & Bitches](https://open.spotify.com/album/3VeZ1fZtMX9tpJqqc5xLgC) | 2:34 | 2024-06-06 | 2024-06-28 |
 | [Demoni \(feat\. 22simba\)](https://open.spotify.com/track/2G9Zx7KBKeZgkpOD9qftq9) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Demoni \(feat\. 22simba\)](https://open.spotify.com/album/5ysro1UFFa2lJKCJ2yDboP) | 2:49 | 2024-07-04 | 2024-07-27 |

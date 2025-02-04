@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,842 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,844 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 85 | [Falling Up](https://open.spotify.com/track/2ZFOwLuqCZmzC2khHhRQc3) | [Horntet](https://open.spotify.com/artist/2miwAQ8PY05NnvIEZa4TQz), [Bartłomiej Leśniak](https://open.spotify.com/artist/6elU49AsLleDexXyQnOeAW), [Robert Wypasek](https://open.spotify.com/artist/3azzTqUgUR97rCoPjwq8lA), [Szymon Ziółkowski](https://open.spotify.com/artist/3XYwgUP8jS69oxkfxRuIfg), [Mikolaj Sikora](https://open.spotify.com/artist/1HfykGEcWFCtMQgVkBFKVh), [Piotr Przewoźniak](https://open.spotify.com/artist/4ungdngpcfCsXiIHS7enTF) | [Horntet](https://open.spotify.com/album/0i4KNRV2Uu7wn8UH8UeYLN) | 9:23 |
 | 86 | [Toksyczny myśliciel / Toxic thinker](https://open.spotify.com/track/1XiDMJtKPIUF1ymKhVlQKg) | [Władysław Komendarek](https://open.spotify.com/artist/5AsOXs9X5NwLxaApulRvV6), [Krzysztof Komendarek\-Tymendorf](https://open.spotify.com/artist/4n27D11U5l7SCihU7ymVts) | [AtomoGenus](https://open.spotify.com/album/3luSKB2QW6RRtE6mqVk0kS) | 6:19 |
 | 87 | [a Story of Perception](https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h) | [Irka Zapolska Quartet](https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu) | [perception of preception](https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq) | 14:10 |
-| 88 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
-| 89 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
+| 88 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
+| 89 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
 | 90 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
 
 Snapshot ID: `ZgE7OQAAAAApXB9/Dz9ytTtb0+it82dg`

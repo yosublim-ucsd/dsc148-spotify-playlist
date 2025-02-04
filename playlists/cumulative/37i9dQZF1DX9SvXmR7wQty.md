@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Yoa
 
-3,078 songs - 6 day 19 hr 35 min
+3,079 songs - 6 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2396,6 +2396,7 @@
 | [RIVIÈRE](https://open.spotify.com/track/7IPS4QVAre25NbjV9aWYsy) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [RIVIÈRE](https://open.spotify.com/album/2U8WGLMnKsFj9n8oj4myy4) | 4:22 | 2023-03-31 | 2023-04-16 |
 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2022-06-17 | 2022-07-02 |
 | [Rock Band](https://open.spotify.com/track/7goO0mzvYZAukSS0aUnDc8) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Rock Band](https://open.spotify.com/album/6nk21frolh3HS7MlwISfbg) | 3:52 | 2023-01-20 | 2023-02-04 |
+| [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [LIFE](https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh) | 2:25 | 2025-01-31 |  |
 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 | 2022-02-25 | 2022-03-12 |
 | [Roly](https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Roly](https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS) | 3:45 | 2023-07-07 | 2023-09-16 |
 | [Rome](https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rome](https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW) | 5:23 | 2022-04-08 | 2022-04-23 |
@@ -2972,7 +2973,7 @@
 | [Way Too Long](https://open.spotify.com/track/7Iz74b76qfdNOBOyVegHv2) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Way Too Long](https://open.spotify.com/album/1mby3xq3SFGEeTSojPrsVH) | 3:03 | 2024-05-31 | 2024-06-08 |
 | [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 | 2024-05-03 | 2024-05-11 |
 | [Wendat Rap](https://open.spotify.com/track/0WAyCe91XVpDOuQ2oqtvD3) | [Sandrine Masse](https://open.spotify.com/artist/35fwgEtPJdcASmEbtG4MZh) | [Wendat Rap](https://open.spotify.com/album/3HRmk6CSN7zUyyjHJ7dLIz) | 3:51 | 2022-04-01 | 2022-04-09 |
-| [West Coast](https://open.spotify.com/track/3mFmzE2bIrEiLLyGwjfm11) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [West Coast](https://open.spotify.com/album/323t5RLy984NASLdtjI5yx) | 2:26 | 2024-12-20 |  |
+| [West Coast](https://open.spotify.com/track/3mFmzE2bIrEiLLyGwjfm11) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [West Coast](https://open.spotify.com/album/323t5RLy984NASLdtjI5yx) | 2:26 | 2024-12-20 | 2025-02-04 |
 | [Western](https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [Fleur de cactus \(Face A\)](https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R) | 3:33 | 2022-09-30 | 2022-10-15 |
 | [WHAP](https://open.spotify.com/track/7pNJNSyIM9uHW5GeJQha6F) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [WHAP](https://open.spotify.com/album/1HpV0b6wVhRgJ0MLbBoqqE) | 2:42 | 2022-10-28 | 2022-11-12 |
 | [What We Doing!? / Qu'est\-ce qu'on fait!?](https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [What We Doing!? / Qu'est\-ce qu'on fait!?](https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C) | 3:03 | 2024-02-23 | 2024-04-19 |

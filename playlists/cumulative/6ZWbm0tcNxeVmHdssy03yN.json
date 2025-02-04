@@ -62179,6 +62179,28 @@
     },
     {
       "album": {
+        "name": "Out on the Weekend",
+        "url": "https://open.spotify.com/album/21O0wfdX76H6EgYbXlLHlR"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        },
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182864,
+      "name": "Out on the Weekend",
+      "url": "https://open.spotify.com/track/43GzGUJ0uP2QMelts2cRTI"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/0bPBrfBKsINIjUai0VJxaD"
       },

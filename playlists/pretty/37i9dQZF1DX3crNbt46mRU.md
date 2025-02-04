@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Milano
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,181 likes - 104 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,184 likes - 104 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 95 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 |
 | 96 | [Let It Hurt](https://open.spotify.com/track/0L6zAsIMoNEdNfdh0gNPRy) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Let It Hurt](https://open.spotify.com/album/4hQPmvPZa9falGTfL5DCqq) | 2:28 |
 | 97 | [Strung Out](https://open.spotify.com/track/4mkO9ZUgXdMq3ZcjchZ12f) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA) | [Strung Out](https://open.spotify.com/album/3iCrhxzNCKipJNSBdXjxiU) | 4:20 |
-| 98 | [Heawen](https://open.spotify.com/track/6JZDAuuL2MkzFG0HHx3oLr) | [Josha Hewitt](https://open.spotify.com/artist/0TT0Jq7scu8wq1tTqEktOl) | [Heawen](https://open.spotify.com/album/4xMhlNlB5nrT3kzpmrwJqH) | 3:48 |
+| 98 | [Heawen](https://open.spotify.com/track/6JZDAuuL2MkzFG0HHx3oLr) | [Josha Hewitt](https://open.spotify.com/artist/0TT0Jq7scu8wq1tTqEktOl) | [Heawen](https://open.spotify.com/album/4xMhlNlB5nrT3kzpmrwJqH) | 3:45 |
 | 99 | [All In Your Hands](https://open.spotify.com/track/7ouZfpLDgTQAj4aDId5joo) | [Christian Sean](https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt) | [All In Your Hands](https://open.spotify.com/album/0KyrqZ0D1gmRwBq3viNzg0) | 3:50 |
 | 100 | [Als wäris geschter gsy \- Single Version](https://open.spotify.com/track/6471z058SrdLEWvNHgWyyZ) | [Ritschi](https://open.spotify.com/artist/2lwhoL7iV7hMYAzKy53U2G) | [Als wäris geschter gsy](https://open.spotify.com/album/1IZFVxKWa1b1yLZB7S3BiI) | 2:59 |
 | 101 | [It's You](https://open.spotify.com/track/27a9HPwnvTCJvNRzBgNltD) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [It's You](https://open.spotify.com/album/0ncYwWbxKwRLjAwDzvJqDL) | 3:25 |

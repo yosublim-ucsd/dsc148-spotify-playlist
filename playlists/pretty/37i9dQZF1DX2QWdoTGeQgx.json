@@ -1,6 +1,6 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 54242,
+  "num_followers": 54247,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
+        "name": "Innuendo",
+        "url": "https://open.spotify.com/album/1Hz2RjuJq55piRp6x89Riz"
+      },
+      "artists": [
+        {
+          "name": "Innuendo",
+          "url": "https://open.spotify.com/artist/3QkhrBoDxbCaX6B7KxfAXk"
+        }
+      ],
+      "duration_ms": 273920,
+      "name": "Belaian Jiwa",
+      "url": "https://open.spotify.com/track/5DmXiAJka1BizGPcV3ME3Y"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -1203,34 +1219,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "Innuendo",
-        "url": "https://open.spotify.com/album/1Hz2RjuJq55piRp6x89Riz"
+        "name": "As Long As We Stay",
+        "url": "https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk"
       },
       "artists": [
         {
-          "name": "Innuendo",
-          "url": "https://open.spotify.com/artist/3QkhrBoDxbCaX6B7KxfAXk"
-        }
-      ],
-      "duration_ms": 273920,
-      "name": "Belaian Jiwa",
-      "url": "https://open.spotify.com/track/5DmXiAJka1BizGPcV3ME3Y"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
-      },
-      "artists": [
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        },
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Heidi Moru",
+          "url": "https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems"
         }
       ],
-      "duration_ms": 230060,
-      "name": "A Day That Feels Better",
-      "url": "https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD"
+      "duration_ms": 228000,
+      "name": "As Long As We Stay",
+      "url": "https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm"
     }
   ],
   "unique_name": "tired lei",

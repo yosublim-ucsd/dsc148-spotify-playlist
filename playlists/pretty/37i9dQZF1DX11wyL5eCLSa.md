@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Malcriada en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,988 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,995 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 30 | [Terco](https://open.spotify.com/track/7yysH55HkBXuFP8HqmmKq9) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Terco](https://open.spotify.com/album/5XDwRGh6sPUyToI5hRrYlO) | 2:14 |
 | 31 | [Rojo](https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rojo](https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO) | 3:06 |
 | 32 | [La Novedad](https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH), [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [La Novedad](https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW) | 3:31 |
-| 33 | [Para No Verte Más](https://open.spotify.com/track/5TLHhrm0sGLJNpRGo1kMxU) | [La Mosca](https://open.spotify.com/artist/71gxXAsSxhzk7kQKjVbyDw), [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Muchachos](https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM) | 3:13 |
+| 33 | [Para No Verte Más](https://open.spotify.com/track/5TLHhrm0sGLJNpRGo1kMxU) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Muchachos](https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM) | 3:13 |
 | 34 | [Grita](https://open.spotify.com/track/6DRiKwFSREKl2ADoV18Rp3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Grita](https://open.spotify.com/album/4fzH9IuG8ytX1TmWDfYr7i) | 3:26 |
 | 35 | [¿Dónde Estás?](https://open.spotify.com/track/3J1LchQHZ160AXRsAt6okN) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Arde en mí](https://open.spotify.com/album/1UANShIp1j6vR3FaA7Ok58) | 3:38 |
 | 36 | [Envenéname](https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Envenéname](https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH) | 3:45 |

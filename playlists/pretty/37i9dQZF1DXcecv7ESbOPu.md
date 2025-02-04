@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,828 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,836 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 12 | [Inget som ändras](https://open.spotify.com/track/6LiZ1HFli2pMZTtWT7JDl9) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Inget som ändras](https://open.spotify.com/album/0T7S5nRJfHdV4i0yYULoi2) | 2:17 |
 | 13 | [Stoner](https://open.spotify.com/track/3Cr1VDxAsrPbkldz1eUUMm) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Stoner](https://open.spotify.com/album/1RPzqHEjhx6ZG2XlaVYoY2) | 2:17 |
 | 14 | [Rör Mig](https://open.spotify.com/track/4a2lEFVDEqZ23YE9WqGkbc) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/6xeArYtgNeWryc5C0xOME3) | 3:40 |
-| 15 | [SÄG ORDET OCH JAG ÄR DIN](https://open.spotify.com/track/5przQRDUQGcp5RKCrwUNeh) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [JUST NU ÄR TILLRÄCKLIGT BRA](https://open.spotify.com/album/4zvfI9h2spqAIIxWBSZcSZ) | 3:03 |
+| 15 | [SÄG ORDET OCH JAG ÄR DIN](https://open.spotify.com/track/5przQRDUQGcp5RKCrwUNeh) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud), [BORIS](https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a) | [JUST NU ÄR TILLRÄCKLIGT BRA](https://open.spotify.com/album/4zvfI9h2spqAIIxWBSZcSZ) | 3:03 |
 | 16 | [nylon](https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Yue](https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w) | 2:34 |
 | 17 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 |
 | 18 | [F.U.](https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:37 |

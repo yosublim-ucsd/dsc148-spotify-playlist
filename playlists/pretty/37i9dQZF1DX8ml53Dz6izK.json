@@ -1,6 +1,6 @@
 {
   "description": "< insert emo glitter gif here >",
-  "num_followers": 68256,
+  "num_followers": 68262,
   "original_name": "CrySpace",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Lonely Day",
-      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 233933,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Lonely Day",
+      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "My Happy Ending",
-      "url": "https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "WANT",
         "url": "https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 192573,
       "name": "DONTTRUSTME",
       "url": "https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "My Happy Ending",
+      "url": "https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "The Same Old Blood Rush With A New Touch",
-        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
       "artists": [
         {
-          "name": "Cute Is What We Aim For",
-          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
         }
       ],
-      "duration_ms": 203626,
-      "name": "The Curse of Curves",
-      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
       "artists": [
         {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
         }
       ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "You Can't Spell Slaughter Without Laughter",
-        "url": "https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra"
-      },
-      "artists": [
-        {
-          "name": "I Set My Friends On Fire",
-          "url": "https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Things That Rhyme With Orange",
-      "url": "https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "Decadence",
         "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203733,
       "name": "Beating Heart Baby",
       "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "You Can't Spell Slaughter Without Laughter",
+        "url": "https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra"
+      },
+      "artists": [
+        {
+          "name": "I Set My Friends On Fire",
+          "url": "https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Things That Rhyme With Orange",
+      "url": "https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Instant Gratification",
-        "url": "https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e"
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y"
       },
       "artists": [
         {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Death Of A Strawberry",
-      "url": "https://open.spotify.com/track/0ZcQUwVyXgpUepJsvgOYgk"
+      "duration_ms": 218626,
+      "name": "Check Yes, Juliet",
+      "url": "https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE"
     }
   ],
   "unique_name": "CrySpace",

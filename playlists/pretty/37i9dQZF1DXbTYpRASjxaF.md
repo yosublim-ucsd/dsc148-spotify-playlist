@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,646 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,643 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 40 | [Pool Party \- REMIX](https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Pool Party \(REMIX\)](https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX) | 1:53 |
 | 41 | [Remessa Estrangeira \- Remix](https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN) | [2HEAVY BEATS](https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1) | [Remessa Estrangeira \(Remix\)](https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr) | 1:57 |
 | 42 | [Viajando no Drink](https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Real Wise](https://open.spotify.com/artist/5TMDIE7J0fAia565qmD5x2) | [Viajando no Drink](https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq) | 3:36 |
-| 43 | [Outra Hora](https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Outra Hora](https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw) | 3:17 |
-| 44 | [Hennessy](https://open.spotify.com/track/13plPuxQXo1trpgcoYoYIB) | [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [YNC Younco](https://open.spotify.com/artist/69MHK2hU8EbU2EXsdwxLrf) | [Hennessy](https://open.spotify.com/album/5ahBvjhShtljjmTzo6DvfB) | 2:07 |
+| 43 | [Hennessy](https://open.spotify.com/track/13plPuxQXo1trpgcoYoYIB) | [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [YNC Younco](https://open.spotify.com/artist/69MHK2hU8EbU2EXsdwxLrf) | [Hennessy](https://open.spotify.com/album/5ahBvjhShtljjmTzo6DvfB) | 2:07 |
+| 44 | [Outra Hora](https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Outra Hora](https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw) | 3:17 |
 | 45 | [F\*DASE O CLT](https://open.spotify.com/track/0DZiHCj9HVLWsoNaCRHR7W) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [F\*DASE O CLT](https://open.spotify.com/album/4fxe7ZZWxLdselrTehlxnT) | 2:12 |
 | 46 | [Thanos](https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Thanos](https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9) | 2:15 |
 | 47 | [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 |

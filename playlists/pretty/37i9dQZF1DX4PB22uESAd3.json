@@ -1,63 +1,31 @@
 {
-  "description": "The artists who laid the groundwork for Rock & Roll. Cover: Sister Rosetta Tharpe.",
-  "num_followers": 73800,
+  "description": "The artists who laid the groundwork for Rock & Roll. Cover: Little Richard",
+  "num_followers": 73959,
   "original_name": "Roots of Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zow7hQAAAADHXkmVD2WjF7R5pK07vUhJ",
+  "snapshot_id": "Z6EFhgAAAADH+kK98Ys50OFhEVFbjA6N",
   "tracks": [
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Hound Dog - Single Version",
-      "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
+      "duration_ms": 141400,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
-      "album": {
-        "name": "Presenting Jackie Brenston",
-        "url": "https://open.spotify.com/album/0lGyLGmExgZq0spI3df0ow"
-      },
-      "artists": [
-        {
-          "name": "Jackie Brenston",
-          "url": "https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj"
-        }
-      ],
-      "duration_ms": 166653,
-      "name": "Rocket 88",
-      "url": "https://open.spotify.com/track/2WODVps1PWm5KHCXlpe7Mw"
-    },
-    {
-      "added_at": "2023-04-20 19:50:37",
-      "album": {
-        "name": "I've Got a Feelin' - Okeh & Savoy Recordings 1952-56",
-        "url": "https://open.spotify.com/album/23TvdUPk9uACZuIROsADwL"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Whole Lotta Shakin' Goin' On",
-      "url": "https://open.spotify.com/track/0hje5OrPK3XNbcuGzmZwDV"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
         "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
@@ -73,7 +41,7 @@
       "url": "https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "The Best Of Louis Jordan",
         "url": "https://open.spotify.com/album/5fvGQvU2Hr99ABkrykFD7u"
@@ -89,7 +57,7 @@
       "url": "https://open.spotify.com/track/2jPlhMe0ptZPA6Of2mwKEZ"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Let 'em Roll",
         "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
@@ -105,7 +73,7 @@
       "url": "https://open.spotify.com/track/6JqgGrA5uWjVFuar7EC8v8"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
@@ -121,7 +89,7 @@
       "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "The Gospel Of The Blues",
         "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
@@ -141,7 +109,7 @@
       "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
@@ -157,7 +125,7 @@
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Somebody Up There Digs Me",
         "url": "https://open.spotify.com/album/3Oi4pLtW9GbwTX1Oycdjvt"
@@ -173,7 +141,7 @@
       "url": "https://open.spotify.com/track/0F18rDmCyWFBuwbbHxQdZs"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Boogie Woogie Blues",
         "url": "https://open.spotify.com/album/5q7R4Xt2dh7oiIWLbeJTq4"
@@ -189,7 +157,7 @@
       "url": "https://open.spotify.com/track/29D3AG8rhX2OSWg8k9GIII"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
@@ -205,7 +173,7 @@
       "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "LaVern Baker",
         "url": "https://open.spotify.com/album/4Wg7zulZEKDPrHvQJWOHLc"
@@ -221,7 +189,7 @@
       "url": "https://open.spotify.com/track/4WNEDjXbuCWnceZPOEkf0S"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Still Stompin' at the Savoy",
         "url": "https://open.spotify.com/album/51hmJbrX2UCEE1leO9FXxH"
@@ -237,7 +205,7 @@
       "url": "https://open.spotify.com/track/5Gy61MmcWGceYkamBwxGqr"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Greatest Country Blues",
         "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
@@ -253,7 +221,7 @@
       "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Messed Up! The Cobra Recordings 1956-1958",
         "url": "https://open.spotify.com/album/3kVFweslzBULC6Do0cJ2kp"
@@ -269,7 +237,7 @@
       "url": "https://open.spotify.com/track/20FacjwdyVBtI7AuKgov5R"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Jumpin' With Joe",
         "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
@@ -285,7 +253,7 @@
       "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
@@ -301,7 +269,7 @@
       "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "I Feel So Good - the Smooth Jazz of Hal Singer",
         "url": "https://open.spotify.com/album/4sMKVXekJtGwa9ObTFJi31"
@@ -317,7 +285,7 @@
       "url": "https://open.spotify.com/track/2Gxyi69M6qak0VbKvL5Nff"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "The Legendary Sun Classics Vol. 3",
         "url": "https://open.spotify.com/album/6RBeUEUBSDu4XRlqNisfWw"
@@ -333,7 +301,7 @@
       "url": "https://open.spotify.com/track/5NFb4kLCowduMSq91XC7dl"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
         "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
@@ -349,7 +317,7 @@
       "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
@@ -365,7 +333,7 @@
       "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
@@ -381,7 +349,7 @@
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
@@ -397,7 +365,7 @@
       "url": "https://open.spotify.com/track/0ImWszBg2sQEInlAWaug31"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "King Of The Delta Blues Singers",
         "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
@@ -413,7 +381,7 @@
       "url": "https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Good Golly!",
         "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
@@ -429,7 +397,7 @@
       "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
         "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
@@ -445,7 +413,7 @@
       "url": "https://open.spotify.com/track/42hEuH3gb4Qp66pPyRqigA"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Lead Belly's Last Sessions",
         "url": "https://open.spotify.com/album/4FtnyR5k41b6YpINfJeYgb"
@@ -461,7 +429,7 @@
       "url": "https://open.spotify.com/track/4ccW0n1s1ByBG88ZwxOPf1"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "That's All Right Mama",
         "url": "https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N"
@@ -477,7 +445,7 @@
       "url": "https://open.spotify.com/track/7qOFo8CJMGexuOkSOynx6b"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
@@ -493,7 +461,7 @@
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Presenting Arthur \"Big Boy\" Crudup",
         "url": "https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ"
@@ -509,7 +477,7 @@
       "url": "https://open.spotify.com/track/12LedD0MvtCtmVIsCAQlpC"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "King Of The Boogie",
         "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
@@ -525,7 +493,7 @@
       "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "The Early Years - Part 1 (1935-1938)",
         "url": "https://open.spotify.com/album/24lKvz4OOlIWhpYxBnHBTR"
@@ -545,7 +513,7 @@
       "url": "https://open.spotify.com/track/0C0H0Drjxe9gnQtYz2f5b6"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "The Excello Singles Anthology",
         "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
@@ -561,7 +529,7 @@
       "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
@@ -577,7 +545,55 @@
       "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Hound Dog - Single Version",
+      "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
+    },
+    {
+      "added_at": "2025-02-03 18:05:58",
+      "album": {
+        "name": "Presenting Jackie Brenston",
+        "url": "https://open.spotify.com/album/0lGyLGmExgZq0spI3df0ow"
+      },
+      "artists": [
+        {
+          "name": "Jackie Brenston",
+          "url": "https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj"
+        }
+      ],
+      "duration_ms": 166653,
+      "name": "Rocket 88",
+      "url": "https://open.spotify.com/track/2WODVps1PWm5KHCXlpe7Mw"
+    },
+    {
+      "added_at": "2025-02-03 18:05:58",
+      "album": {
+        "name": "I've Got a Feelin' - Okeh & Savoy Recordings 1952-56",
+        "url": "https://open.spotify.com/album/23TvdUPk9uACZuIROsADwL"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Whole Lotta Shakin' Goin' On",
+      "url": "https://open.spotify.com/track/0hje5OrPK3XNbcuGzmZwDV"
+    },
+    {
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Presenting Memphis Minnie",
         "url": "https://open.spotify.com/album/3dEooHBk6cpxW98yT25Z3T"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/1gmD8S3i2TKBPxWbanoYJi"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "See See Rider",
         "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
@@ -609,23 +625,7 @@
       "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
-    },
-    {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/0zQ1o6q0QaeMgro248kNGh"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Big Joe Turner: The Rhythm & Blues Years",
         "url": "https://open.spotify.com/album/7to9F3RsITVIxiWIMDLwU7"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/5ssXU6u9HqUW87W2gglY7F"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Volume 2 - Rock the Joint",
         "url": "https://open.spotify.com/album/7H4vgJSMCKTJ57maK2Q1Oe"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/3i1pqfP4SQVAw0iWh8GDsG"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Doo Wop Pops (Volume One)",
         "url": "https://open.spotify.com/album/4wfRpsosy07okdHKP4gddi"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/60fKMm3ts4mBzvfCityzUg"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Blues Classics 3",
         "url": "https://open.spotify.com/album/6iHSu46BEs0fIW7o339vp8"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/3mxe51ad3T4BFdguwAyp6Z"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
         "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Shake Rattle & Rock",
         "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Rock a While",
         "url": "https://open.spotify.com/album/5aOqm88qLw7kXDZdvk1tr3"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/0oMOMV1xeO3n6MDaieuhCh"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Sixty Minute Man",
         "url": "https://open.spotify.com/album/7t26O9uEYKDVLhvmgLGeVo"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/6O2ptWddF1zImt8CMwsdiF"
     },
     {
-      "added_at": "2023-04-20 19:50:37",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Presenting Roy Brown",
         "url": "https://open.spotify.com/album/4qP4SvX9u1r5hk3sxtmGYl"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/2k87zh87uA132TS9ENMpsw"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2025-02-03 18:05:58",
       "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"

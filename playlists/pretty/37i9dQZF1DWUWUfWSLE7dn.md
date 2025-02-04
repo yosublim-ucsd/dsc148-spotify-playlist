@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,333 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,504 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 45 | [The Journey to the Grey Havens \(feat\. Sir James Galway\)](https://open.spotify.com/track/6caCfb9Hg5NlUfXg9nRSnm) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings \- The Return of the King \- The Complete Recordings \(Limited Edition\)](https://open.spotify.com/album/2Re6RMBEfD8iv1HMxLMdzI) | 7:34 |
 | 46 | [Opening Titles](https://open.spotify.com/track/6eX3c7lUFeXAX0CFWOkLAB) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [The Chronicles of Narnia: The Voyage of the Dawn Treader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0L2WN9LAyXX4ESG8BcDmPc) | 1:07 |
 | 47 | [Ragnar Dreams of Home](https://open.spotify.com/track/3nVc5ARjS5gpGOV34QkTlw) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings IV \(Music from the TV Series\)](https://open.spotify.com/album/5zJORKvOIkroj9fmKdUPZI) | 1:41 |
-| 48 | [The John Dunbar Theme \(From "Dances With Wolves"\)](https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Dances With Wolves \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax) | 2:17 |
+| 48 | [The John Dunbar Theme \(From "Dance with Wolves" Soundtrack\)](https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Dances With Wolves \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax) | 2:17 |
 | 49 | [Now I'm Ready, I'm Ready Now](https://open.spotify.com/track/4OkXVcqJXUijBZ9hoKTLWj) | [Daniel Hart](https://open.spotify.com/artist/3T91YntaaHTAKK2GYoTUPW) | [The Green Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yuBusTe5rPkBCtGhfHirQ) | 4:01 |
 | 50 | [Salamander Eyes](https://open.spotify.com/track/4w0sBSIgy945h7TZE0FUbc) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:38 |
 | 51 | [Misty Mountains](https://open.spotify.com/track/3AAwJ043uT1wXSKDtGyuxF) | [Richard Armitage](https://open.spotify.com/artist/6DQsmplq17UDA3zmiybbSb), [The Dwarf Cast](https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6X0qkUUcolJDrRN3i3CAlT) | 1:43 |

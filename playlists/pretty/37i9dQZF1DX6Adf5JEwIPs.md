@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,810 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,878 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 23 | [Las Latas](https://open.spotify.com/track/0unFd28DNTE8Q72NMMal78) | [Gabriel Silva](https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Las Latas](https://open.spotify.com/album/31JUOwir7M3aMwn1APsyBI) | 3:10 |
 | 24 | [CON EL DOCTOR](https://open.spotify.com/track/2AzOv8RGH5NjnlJfshXGRj) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP), [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [CON EL DOCTOR](https://open.spotify.com/album/3lNGa1PDeCakgnAbiXFagb) | 2:47 |
 | 25 | [Vida Recia](https://open.spotify.com/track/1BeN72Vrbm5XhHT2tWYe5A) | [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K), [Uriel S\. Vázquez](https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4) | [Vida Recia](https://open.spotify.com/album/52Zdf4sApmm9BEf94suT0d) | 2:33 |
-| 26 | [El Mercenario](https://open.spotify.com/track/78Qlf5kmuvXuNukL75Mr39) | [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [Corridos Exoticos](https://open.spotify.com/album/31Il1c8MnxFxhx672DoXH1) | 2:45 |
+| 26 | [El Mercenario](https://open.spotify.com/track/78Qlf5kmuvXuNukL75Mr39) | [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [Corridos Exóticos](https://open.spotify.com/album/31Il1c8MnxFxhx672DoXH1) | 2:45 |
 | 27 | [MEJOR NADOTA](https://open.spotify.com/track/7uugCS3yzzs0fe1bjDf7Z1) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [MEJOR NADOTA](https://open.spotify.com/album/2frZRJd57Mut5m8eBwEkqU) | 2:42 |
 | 28 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 |
 | 29 | [Socia](https://open.spotify.com/track/5lDXCLvUcaM8xOw6UnjGnX) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Socia](https://open.spotify.com/album/26fHw49PRumROrHp59b4Gk) | 2:51 |

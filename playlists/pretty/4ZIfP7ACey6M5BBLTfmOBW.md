@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,292 likes - 60 songs - 2 hr 32 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,291 likes - 60 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 17 | [L'S & P'S \(feat\. Real Boston Richey\)](https://open.spotify.com/track/16hLyddaNiGbtfgA85k4nH) | [Dumar 1k](https://open.spotify.com/artist/3wnNapbDFS4rScCk1HezB4), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [L'S & P'S \(feat\. Real Boston Richey\)](https://open.spotify.com/album/0EHxobWnRykBte89G0q6Rt) | 3:06 |
 | 18 | [Pink Dreads](https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/1BmgY2s1z4yYuKU3ZwMrzZ) | 2:00 |
 | 19 | [Forever Rollin](https://open.spotify.com/track/4ML8XBXgsJI6ScPE98dVta) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [Forever Rollin](https://open.spotify.com/album/3IgZY1kzD5zTuZNNOjJjWW) | 2:02 |
-| 20 | [Mister \(Remix\) \(feat\. Doe Boy\)](https://open.spotify.com/track/5NHw0RWnAQ3c0igmBwLW50) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Mister \(Remix\) \(feat\. Doe Boy\)](https://open.spotify.com/album/3dwDLZdue1yjUv9J0Ef5ZC) | 2:09 |
+| 20 | [Mister \(Remix\)](https://open.spotify.com/track/5NHw0RWnAQ3c0igmBwLW50) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Mister \(Remix\)](https://open.spotify.com/album/3dwDLZdue1yjUv9J0Ef5ZC) | 2:09 |
 | 21 | [ginseng strip 2015](https://open.spotify.com/track/6sqqWi2Pt1CQNk57rNCrrG) | [MIRRAR](https://open.spotify.com/artist/39zqfoXqVbCNHs3Ip4kbGp) | [ginseng strip 2015](https://open.spotify.com/album/6R27PMqGc1KUCe3T2GbUD2) | 2:21 |
 | 22 | [i crash, u crash](https://open.spotify.com/track/5Kc7tvgQCCayTkJdVl8kS1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [i crash, u crash](https://open.spotify.com/album/188NanXzV5HE8FmrNYs8jF) | 2:37 |
 | 23 | [PROTECT THE CROSS](https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [PROTECT THE CROSS](https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm) | 2:49 |

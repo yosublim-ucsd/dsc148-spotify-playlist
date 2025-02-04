@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-01-30",
   "description": "",
-  "name": "Hip-Hop and Play: Bossman Dlow Takeover",
+  "name": "Hip-Hop and Play",
   "tracks": [
     {
       "album": {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 121518,
       "name": "46th Street",
       "url": "https://open.spotify.com/track/1ufEb5mMR8kgYtoJsY4MZV"
@@ -3208,7 +3208,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 98133,
       "name": "CALYPSO",
       "url": "https://open.spotify.com/track/5Ryyh301NTp03Ays0ovWbS"
@@ -4184,7 +4184,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 176105,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
@@ -4562,7 +4562,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 124556,
       "name": "Dlow Curry",
       "url": "https://open.spotify.com/track/3PwNJhkvRAbRJfTq3alFIP"
@@ -7888,7 +7888,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 126264,
       "name": "Groovy",
       "url": "https://open.spotify.com/track/2EqnrBzEQW1uRAjPJFTboG"
@@ -12368,7 +12368,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 120000,
       "name": "Motion",
       "url": "https://open.spotify.com/track/6tXYuvwZnIuTMnN9QoMw3Z"
@@ -17420,7 +17420,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 122368,
       "name": "Star Life",
       "url": "https://open.spotify.com/track/1MnGIoD852ZRv4bjEndM7C"
@@ -18910,6 +18910,24 @@
       "duration_ms": 287866,
       "name": "The Weekend (feat. Young Thug & Swizz Beatz)",
       "url": "https://open.spotify.com/track/6dLOBdCkdRG3HPouRUBe1A"
+    },
+    {
+      "album": {
+        "name": "Jump Out",
+        "url": "https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104444,
+      "name": "The Whole World Is Free",
+      "url": "https://open.spotify.com/track/3SEdomp4pjtkEfdZ48e4VJ"
     },
     {
       "album": {

@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,432 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,473 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad News](https://open.spotify.com/track/2tFedHU8BK2n9y345jAaO7) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Bad News](https://open.spotify.com/album/09j5cMuAxke4rblpRXq9Qp) | 2:20 |
-| 2 | [I Could Just Die Right Now](https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Medium Raw](https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg) | 4:15 |
-| 3 | [Pour Me Out](https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Pour Me Out](https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v) | 3:48 |
-| 4 | [Leaning On The Altar](https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Leaning On The Altar](https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI) | 3:19 |
-| 5 | [Baby Wild](https://open.spotify.com/track/0jVHzZhnTRduhq5y0fyu2U) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Baby Wild](https://open.spotify.com/album/5mb2wuyjdavQOzU72Yd2S1) | 4:10 |
-| 6 | [Out of All the Stars](https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Out of All the Stars](https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM) | 3:59 |
-| 7 | [Not Bad](https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC) | [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR), [Shelley Rena](https://open.spotify.com/artist/3uv1vlPPWpXtv6qCpqT9JQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Not Bad](https://open.spotify.com/album/2iApN2bz8aHffvQX5Rh4mm) | 3:05 |
-| 8 | [Crossroads](https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq) | [The Imaginaries](https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crossroads](https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN) | 3:47 |
-| 9 | [Victory Voices](https://open.spotify.com/track/2DXVg5DdblrOWYvlGDmwJt) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [In The Real World](https://open.spotify.com/album/5I46bTsjuXB4kq2JgRCEjG) | 4:01 |
-| 10 | [I Have No One](https://open.spotify.com/track/2vjv5sUGTHsb2fLem7b8AB) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/5q8iAuzS4wFRlkHjy50Ryj) | 2:33 |
-| 11 | [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:47 |
-| 12 | [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:38 |
-| 13 | [Mileage](https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 4:10 |
+| 1 | [Mileage](https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 4:10 |
+| 2 | [Bad News](https://open.spotify.com/track/2tFedHU8BK2n9y345jAaO7) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Bad News](https://open.spotify.com/album/09j5cMuAxke4rblpRXq9Qp) | 2:20 |
+| 3 | [I Could Just Die Right Now](https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Medium Raw](https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg) | 4:15 |
+| 4 | [Pour Me Out](https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Pour Me Out](https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v) | 3:48 |
+| 5 | [Leaning On The Altar](https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Leaning On The Altar](https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI) | 3:19 |
+| 6 | [Baby Wild](https://open.spotify.com/track/0jVHzZhnTRduhq5y0fyu2U) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Baby Wild](https://open.spotify.com/album/5mb2wuyjdavQOzU72Yd2S1) | 4:10 |
+| 7 | [Out of All the Stars](https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Out of All the Stars](https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM) | 3:59 |
+| 8 | [Not Bad](https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC) | [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR), [Shelley Rena](https://open.spotify.com/artist/3uv1vlPPWpXtv6qCpqT9JQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Not Bad](https://open.spotify.com/album/2iApN2bz8aHffvQX5Rh4mm) | 3:05 |
+| 9 | [Crossroads](https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq) | [The Imaginaries](https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crossroads](https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN) | 3:47 |
+| 10 | [Victory Voices](https://open.spotify.com/track/2DXVg5DdblrOWYvlGDmwJt) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [In The Real World](https://open.spotify.com/album/5I46bTsjuXB4kq2JgRCEjG) | 4:01 |
+| 11 | [I Have No One](https://open.spotify.com/track/2vjv5sUGTHsb2fLem7b8AB) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/5q8iAuzS4wFRlkHjy50Ryj) | 2:33 |
+| 12 | [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:47 |
+| 13 | [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:38 |
 | 14 | [Drifting \(feat\. Marcus King\)](https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q) | [Alain Apaloo](https://open.spotify.com/artist/3q8l8BcNjXxBaUP204OgX2), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Naked](https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa) | 4:15 |
 | 15 | [Seasons Change](https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu) | [Chadwick Johnson](https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV) | [Seasons Change](https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok) | 3:27 |
 | 16 | [Save Me](https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Save Me](https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 |
 | 100 | [How Deep Is Your Love](https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [How Deep Is Your Love](https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh) | 4:08 |
 
-Snapshot ID: `Z5MeaQAAAADl+0zwis+Zse5OlS65wtfy`
+Snapshot ID: `Z6EYNgAAAADq7nXMPfTpBsIqsgqR8HRU`

@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312240,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
+    },
+    {
+      "album": {
         "name": "Ah les crocodiles",
         "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
       },
@@ -6848,7 +6866,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -11270,7 +11288,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
@@ -11924,6 +11942,32 @@
       "duration_ms": 234093,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/32HSvBIdDEYZ0EDH5IeCAd"
+    },
+    {
+      "album": {
+        "name": "Keep Going Back to You",
+        "url": "https://open.spotify.com/album/2iJKGG1v2bXLGdR0gxTbwY"
+      },
+      "artists": [
+        {
+          "name": "Lewka",
+          "url": "https://open.spotify.com/artist/5YeNR0H8X50Z8ui66jFAUD"
+        },
+        {
+          "name": "Time To Talk",
+          "url": "https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh"
+        },
+        {
+          "name": "Red Sebastian",
+          "url": "https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168504,
+      "name": "Keep Going Back to You",
+      "url": "https://open.spotify.com/track/1WkhgWwNvLDfxz05nlcaCj"
     },
     {
       "album": {
@@ -13427,7 +13471,7 @@
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250285,
+      "duration_ms": 203142,
       "name": "Lonely Boy - Radio Edit",
       "url": "https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW"
     },
@@ -14950,7 +14994,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 223124,
       "name": "Miku",
       "url": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW"
@@ -15316,7 +15360,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 91906,
       "name": "MONTAGEM BRAVO - Slowed",
       "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
@@ -15986,7 +16030,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 110005,
       "name": "New Jeans - Jersey Club - Slowed Down",
       "url": "https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"
@@ -16204,7 +16248,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 280540,
       "name": "No Go Zone (Remix)",
       "url": "https://open.spotify.com/track/4XetXvo7S3IXMRPn8Do4LO"
@@ -19972,7 +20016,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 134400,
       "name": "Sigma Boy - \u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
@@ -23928,6 +23972,24 @@
       "duration_ms": 198648,
       "name": "Wanna Feel",
       "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"
+    },
+    {
+      "album": {
+        "name": "Raw Tracks and Reworks",
+        "url": "https://open.spotify.com/album/3rROE9cryMcT8NEm4JyGRd"
+      },
+      "artists": [
+        {
+          "name": "Aloboi",
+          "url": "https://open.spotify.com/artist/4Lfqvnzd6MN7hmHJt6LfcY"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "Want To Love - Just Raw",
+      "url": "https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO"
     },
     {
       "album": {

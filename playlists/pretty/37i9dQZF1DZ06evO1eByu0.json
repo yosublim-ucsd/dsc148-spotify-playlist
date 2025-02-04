@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161417,
+  "num_followers": 161424,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z51kAAAAAAAHtSkYoxzZhHG3lpUGFYmq",
+  "snapshot_id": "Z561gAAAAABA67i8atVfZsDVldhA3Dh6",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Poder do Teu Amor",
         "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 295360,
       "name": "Autor da Vida",
       "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros 20 Anos Ao Vivo",
-        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Digno \u00e9 o Senhor (Worthy Is The Lamb) - Ao Vivo",
-      "url": "https://open.spotify.com/track/66WaKTCLP5nUwOrwn7Oet0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
       },
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 359166,
-      "name": "Poder Pra Salvar (Mighty to Save)",
-      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
+      "duration_ms": 303173,
+      "name": "Digno \u00e9 o Senhor (Worthy Is The Lamb) - Ao Vivo",
+      "url": "https://open.spotify.com/track/66WaKTCLP5nUwOrwn7Oet0"
     },
     {
       "added_at": null,
@@ -595,22 +579,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
       },
       "artists": [
         {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 359166,
+      "name": "Poder Pra Salvar (Mighty to Save)",
+      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pai Presente",
+        "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
+      "duration_ms": 293684,
+      "name": "Pai Presente",
+      "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
     },
     {
       "added_at": null,
@@ -635,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pai Presente",
-        "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
+        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
         },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 293684,
-      "name": "Pai Presente",
-      "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
+      "duration_ms": 287120,
+      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem Fluir (Fall Like Rain)",
-        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 387779,
-      "name": "Vem Fluir (Fall Like Rain)",
-      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bom \u00e9 ser crian\u00e7a Vol.II",
         "url": "https://open.spotify.com/album/3KdCN8uROd6EyUNf0rWqMK"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 128853,
       "name": "Dom-dim-dom-dom",
       "url": "https://open.spotify.com/track/1mWgyvjnrn1c7u4YYQr0mm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem Fluir (Fall Like Rain)",
+        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 387779,
+      "name": "Vem Fluir (Fall Like Rain)",
+      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
     },
     {
       "added_at": null,

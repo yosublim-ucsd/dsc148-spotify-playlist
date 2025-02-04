@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACnjfggtUMLaBgEpE/+H+TW",
+  "snapshot_id": "AAAAAAAAAADHrZZ6Q0HCkBZ1Ex1HZuot",
   "tracks": [
     {
       "added_at": "2025-01-31 03:00:00",
@@ -95,6 +95,46 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
+        "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
+      },
+      "artists": [
+        {
+          "name": "Kevin Sherwood",
+          "url": "https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb"
+        },
+        {
+          "name": "Matthew K. Heafy",
+          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+        },
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 229019,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 190749,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
         "name": "Lightning In A Bottle",
         "url": "https://open.spotify.com/album/57Su2zr1axyRz62rpq2j4n"
       },
@@ -127,46 +167,6 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
-        "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
-      },
-      "artists": [
-        {
-          "name": "Kevin Sherwood",
-          "url": "https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb"
-        },
-        {
-          "name": "Matthew K. Heafy",
-          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
-        },
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 229019,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/2Thk2chudkQfw6TujY7E0D"
-      },
-      "artists": [
-        {
-          "name": "Soviet Soviet",
-          "url": "https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/2R4naTnDcjFFS6R7cRbZ9W"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
         "name": "Heart Of Glass",
         "url": "https://open.spotify.com/album/6OqSPTRG6exv6YfzNKMCLQ"
       },
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/2Thk2chudkQfw6TujY7E0D"
+      },
+      "artists": [
+        {
+          "name": "Soviet Soviet",
+          "url": "https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/2R4naTnDcjFFS6R7cRbZ9W"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/4uDU83M7EkDXDb2iHahVIr"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 226631,
       "name": "Disease",
       "url": "https://open.spotify.com/track/59UJiPmDhdEILOKgrJ6WP3"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Stand By Me",
-        "url": "https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 190749,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6"
     },
     {
       "added_at": "2025-01-31 03:00:00",
@@ -279,6 +279,34 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
+        "name": "Wish I Could Forget (The Remixes)",
+        "url": "https://open.spotify.com/album/3zbQEtp9rjLHC41HrAunTn"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 245142,
+      "name": "Wish I Could Forget - Zomboy Remix",
+      "url": "https://open.spotify.com/track/3Pe9At2bwYx0mK27zUAoFa"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
         "name": "Tchaikovsky: Violin Concerto in D Major, Op. 35: II. Canzonetta. Andante",
         "url": "https://open.spotify.com/album/1mhothaRlrdj7qlMeVTKcx"
       },
@@ -303,34 +331,6 @@
       "duration_ms": 394080,
       "name": "Violin Concerto in D Major, Op. 35: II. Canzonetta. Andante",
       "url": "https://open.spotify.com/track/6AfQARGh5i8w8FPYaTWWKG"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Wish I Could Forget (The Remixes)",
-        "url": "https://open.spotify.com/album/3zbQEtp9rjLHC41HrAunTn"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 245142,
-      "name": "Wish I Could Forget (Zomboy Remix)",
-      "url": "https://open.spotify.com/track/3Pe9At2bwYx0mK27zUAoFa"
     },
     {
       "added_at": "2025-01-31 03:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 234931,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
         "name": "Glass Shatters (New Mix)",
         "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
-        "name": "Even If It Kills Me",
-        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
         }
       ],
-      "duration_ms": 212239,
-      "name": "Even If It Kills Me",
-      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
     },
     {
       "added_at": "2025-01-31 03:00:00",
@@ -491,6 +475,22 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
+        "name": "Even If It Kills Me",
+        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 212239,
+      "name": "Even If It Kills Me",
+      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
         "name": "Curious Ruminant",
         "url": "https://open.spotify.com/album/7EfhM9H9X5qCBr1Q5jVCXa"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 360120,
       "name": "Curious Ruminant",
       "url": "https://open.spotify.com/track/1GwbwKkKsj3EqkJda5RdoR"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Nod",
-        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 182494,
-      "name": "Nod",
-      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
     },
     {
       "added_at": "2025-01-31 03:00:00",
@@ -555,6 +539,22 @@
       "duration_ms": 281800,
       "name": "Against The Wind",
       "url": "https://open.spotify.com/track/1PNW6bmWU7pKdrWv5bymSY"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
+        "name": "Nod",
+        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
     },
     {
       "added_at": "2025-01-31 03:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
+        "name": "Desfragmentado",
+        "url": "https://open.spotify.com/album/0CIzhS5H1mNPH3uPuoeBbh"
+      },
+      "artists": [
+        {
+          "name": "Waly",
+          "url": "https://open.spotify.com/artist/1hiKLjsL5uJ1RswZDhWJAP"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "duration_ms": 233248,
+      "name": "Partir de cero",
+      "url": "https://open.spotify.com/track/2K0Cj8FW678xTAlFy6yU1D"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
         "name": "Artificial Gods",
         "url": "https://open.spotify.com/album/2m9BtKQVtxIDvyrqpeyrRx"
       },
@@ -675,26 +695,6 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
-        "name": "Desfragmentado",
-        "url": "https://open.spotify.com/album/0CIzhS5H1mNPH3uPuoeBbh"
-      },
-      "artists": [
-        {
-          "name": "Waly",
-          "url": "https://open.spotify.com/artist/1hiKLjsL5uJ1RswZDhWJAP"
-        },
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        }
-      ],
-      "duration_ms": 233248,
-      "name": "Partir de cero",
-      "url": "https://open.spotify.com/track/2K0Cj8FW678xTAlFy6yU1D"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
         "name": "Hot For You Baby",
         "url": "https://open.spotify.com/album/06UN5FS25CSUgSyqrpZxp8"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 283103,
       "name": "Hot For You Baby",
       "url": "https://open.spotify.com/track/7LYGiSEES9KJlThWIkNbGF"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Tiquitimporta",
-        "url": "https://open.spotify.com/album/3kXU6xsPKIMQ51aTx1Hvtz"
-      },
-      "artists": [
-        {
-          "name": "Nosecuenta",
-          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
-        }
-      ],
-      "duration_ms": 223948,
-      "name": "Una vez al amanecer",
-      "url": "https://open.spotify.com/track/7IQhT0BKvimBIwiLRLwqoF"
     },
     {
       "added_at": "2025-01-31 03:00:00",
@@ -767,6 +751,22 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
+        "name": "Tiquitimporta",
+        "url": "https://open.spotify.com/album/3kXU6xsPKIMQ51aTx1Hvtz"
+      },
+      "artists": [
+        {
+          "name": "Nosecuenta",
+          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
+        }
+      ],
+      "duration_ms": 223948,
+      "name": "Una vez al amanecer",
+      "url": "https://open.spotify.com/track/7IQhT0BKvimBIwiLRLwqoF"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
         "name": "Forged by Fire (Orchestral Version)",
         "url": "https://open.spotify.com/album/5O19rf46jB3Y6i4CTr7Z28"
       },
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
+        "name": "Steady Damage (Lo-Fi)",
+        "url": "https://open.spotify.com/album/6wZt5vEAe5Fr5BWEb3DLC2"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Damage - Lo-Fi",
+      "url": "https://open.spotify.com/track/7z5WhTU8rmyY2j2mMYY6TG"
+    },
+    {
+      "added_at": "2025-01-31 03:00:00",
+      "album": {
         "name": "It's My Ego (3mix)",
         "url": "https://open.spotify.com/album/4ShJe9chOSEQWZEkc1MxeX"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 165631,
       "name": "It's My Ego - 3mix",
       "url": "https://open.spotify.com/track/4fx2mGAwYCaxkZQjUTOxXj"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Steady Damage (Lo-Fi)",
-        "url": "https://open.spotify.com/album/6wZt5vEAe5Fr5BWEb3DLC2"
-      },
-      "artists": [
-        {
-          "name": "Fit For Rivals",
-          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Damage - Lo-Fi",
-      "url": "https://open.spotify.com/track/7z5WhTU8rmyY2j2mMYY6TG"
     },
     {
       "added_at": "2025-01-31 03:00:00",

@@ -33317,6 +33317,24 @@
     },
     {
       "album": {
+        "name": "Winter Sunset",
+        "url": "https://open.spotify.com/album/0V7BW2DXxMROofON52Ifuf"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60275,
+      "name": "Winter Sunset",
+      "url": "https://open.spotify.com/track/1gLACMq0c8sFTiL3vSMdQi"
+    },
+    {
+      "album": {
         "name": "Soft Strings",
         "url": "https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz"
       },

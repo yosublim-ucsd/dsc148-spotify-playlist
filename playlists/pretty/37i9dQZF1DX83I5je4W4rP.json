@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1064806,
+  "num_followers": 1064804,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Trevor Hall",
-        "url": "https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Where's The Love",
-      "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "From Here To Now To You",
         "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 179346,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Trevor Hall",
+        "url": "https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Where's The Love",
+      "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sunburn (with Tropidelic)",
-        "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
-      },
-      "artists": [
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        },
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 240435,
-      "name": "Sunburn (with Tropidelic)",
-      "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Catch My Wave",
         "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 194386,
       "name": "Catch My Wave",
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sunburn (with Tropidelic)",
+        "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
+      },
+      "artists": [
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        },
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 240435,
+      "name": "Sunburn (with Tropidelic)",
+      "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
+        "name": "Good Times (Roll On)",
+        "url": "https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk"
       },
       "artists": [
         {
-          "name": "Katastro",
-          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+          "name": "Fortunate Youth",
+          "url": "https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB"
         }
       ],
-      "duration_ms": 157640,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
+      "duration_ms": 225371,
+      "name": "Good Times (Roll On)",
+      "url": "https://open.spotify.com/track/0ghN5Z1pNRnSHkMwSzgpck"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Good Times (Roll On)",
-        "url": "https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk"
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
       },
       "artists": [
         {
-          "name": "Fortunate Youth",
-          "url": "https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB"
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
         }
       ],
-      "duration_ms": 225371,
-      "name": "Good Times (Roll On)",
-      "url": "https://open.spotify.com/track/0ghN5Z1pNRnSHkMwSzgpck"
+      "duration_ms": 157640,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2235,26 +2235,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sun and the Moon (with Collie Buddz)",
-        "url": "https://open.spotify.com/album/600mLwSU7CJ5gSqK11Xzpb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 212994,
-      "name": "Sun and the Moon (with Collie Buddz)",
-      "url": "https://open.spotify.com/track/0RGfnMQ6yrUJymY6EMJ3tC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Two (with The Hip Abduction)",
         "url": "https://open.spotify.com/album/1aQ2utdXHjEVtHf8C3ff1Z"
       },
@@ -2271,6 +2251,26 @@
       "duration_ms": 213233,
       "name": "Two (with The Hip Abduction)",
       "url": "https://open.spotify.com/track/14Yv4l3SQsgQ1XAcWtP8kw"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sun and the Moon (with Collie Buddz)",
+        "url": "https://open.spotify.com/album/600mLwSU7CJ5gSqK11Xzpb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 212994,
+      "name": "Sun and the Moon (with Collie Buddz)",
+      "url": "https://open.spotify.com/track/0RGfnMQ6yrUJymY6EMJ3tC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Noon (Deluxe)",
-        "url": "https://open.spotify.com/album/1X38peQ9XkvThebEfH3hIe"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 182715,
-      "name": "Let It Slide",
-      "url": "https://open.spotify.com/track/4BrBGUYUQEByBOpvBfTwhD"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "In The LBC (Warren G Remix)",
         "url": "https://open.spotify.com/album/1blaIeHQWKD8RGYRbOgfRi"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 166880,
       "name": "Work That We Do",
       "url": "https://open.spotify.com/track/16yxo4Dq5hMohINfjX7DGz"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Noon (Deluxe)",
+        "url": "https://open.spotify.com/album/1X38peQ9XkvThebEfH3hIe"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 182715,
+      "name": "Let It Slide",
+      "url": "https://open.spotify.com/track/4BrBGUYUQEByBOpvBfTwhD"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2531,6 +2531,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Slow Ride",
+        "url": "https://open.spotify.com/album/6sxHexxRZSaulHeylFZP8f"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 260105,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/1qMrDdn5WfLmkQw3Np0eFW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Constellations (with Moon Taxi) [J-Vibe Remix]",
         "url": "https://open.spotify.com/album/3Azk0rq4VnT5LYRpAKc2V2"
       },
@@ -2567,22 +2583,6 @@
       "duration_ms": 192208,
       "name": "Peachy Skies",
       "url": "https://open.spotify.com/track/1qmY6ZtPBHWPZXhY34YKcI"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Slow Ride",
-        "url": "https://open.spotify.com/album/6sxHexxRZSaulHeylFZP8f"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 260105,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/1qMrDdn5WfLmkQw3Np0eFW"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Get Me Ready",
-        "url": "https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        }
-      ],
-      "duration_ms": 169688,
-      "name": "Get Me Ready",
-      "url": "https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Not The End",
         "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 170250,
       "name": "Not The End",
       "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Get Me Ready",
+        "url": "https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        }
+      ],
+      "duration_ms": 169688,
+      "name": "Get Me Ready",
+      "url": "https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM"
     },
     {
       "added_at": "2024-07-26 04:00:00",

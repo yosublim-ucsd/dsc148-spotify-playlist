@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Georgie Riot
 
-270 songs - 17 hr 53 min
+271 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Ghosts](https://open.spotify.com/track/6LWjwXoGxkMN9yxOSrguMJ) | [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Ghosts](https://open.spotify.com/album/60u3yj7sNhQ7mPDSZA2mIj) | 4:23 | 2022-05-06 | 2022-07-20 |
 | [Girlz \- L\-Side Intro Remix](https://open.spotify.com/track/2qEMJBxBGOIZeMLj3UPFAL) | [Potential Badboy](https://open.spotify.com/artist/3tgRH8lQ25Totz9QkeyC3n), [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR), [MC Fats](https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd), [Yush](https://open.spotify.com/artist/6vG5fLQGKPnMzSbxV4diFH) | [Girlz \(L\-Side Remix\)](https://open.spotify.com/album/6b4eS6SGoK1Oyf7hLrPSUM) | 5:17 | 2022-05-06 | 2022-07-19 |
 | [Golem](https://open.spotify.com/track/6j7y5o77r2wUyA7QhimFEZ) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [Golem](https://open.spotify.com/album/4AoRYyYWIVM41kQdkaIqiT) | 5:08 | 2023-12-27 | 2024-01-12 |
-| [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 | 2024-12-06 |  |
+| [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 | 2024-12-06 | 2025-02-04 |
 | [Got Beef](https://open.spotify.com/track/7ic3l3gvHqbp6a37kulofU) | [Jinx](https://open.spotify.com/artist/0hxLX6nWxNoBi2parGYEUc) | [Got Beef](https://open.spotify.com/album/7LhiHUOBStZOmtOl69yBHv) | 4:50 | 2022-05-06 | 2023-10-21 |
 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 | 2022-05-06 | 2023-09-22 |
 | [Hands In The Air \- VIP](https://open.spotify.com/track/1dun0VY9nR77M758yHdMzS) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [VIP](https://open.spotify.com/album/0fSCtb3g63qTiWCdWZXw9g) | 3:06 | 2023-12-27 | 2024-01-12 |
@@ -250,6 +250,7 @@
 | [The Weekend \- Bou Remix](https://open.spotify.com/track/0bHzvICBdoUXsG4D0IntMb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [The Weekend \(Bou Remix\)](https://open.spotify.com/album/3XAKsF8KTg4Ete5WN3Hvso) | 2:56 | 2023-09-22 | 2023-12-01 |
 | [Thrill Seekers \- Serum Remix](https://open.spotify.com/track/1SMnizgMVh1AYGKsWS29Vf) | [Ego Trippin](https://open.spotify.com/artist/5bdp2qyumzpzh4mJoLNilw), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [15 Years Of Low Down Deep](https://open.spotify.com/album/37OTn60AXNy6BuvxJik9hk) | 3:01 | 2022-05-06 | 2022-07-27 |
 | [Time Tripping](https://open.spotify.com/track/5CcT9KSH2IvTCtFg4frpFb) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [Time Tripping / Digital Bumble Bees](https://open.spotify.com/album/2gvINmxlLLFyonA7af898S) | 5:17 | 2023-12-27 | 2024-01-12 |
+| [Told You \(Soundboy\)](https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1) | [Gray](https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y) | [Told You \(Soundboy\)](https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS) | 2:58 | 2025-01-31 |  |
 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 | 2023-12-01 | 2024-06-21 |
 | [Transcend](https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz) | 4:52 | 2022-05-06 | 2023-05-19 |
 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 | 2022-08-12 | 2024-03-02 |

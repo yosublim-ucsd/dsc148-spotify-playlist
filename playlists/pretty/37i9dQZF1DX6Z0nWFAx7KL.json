@@ -1,12 +1,12 @@
 {
   "description": "easy breezy dance music",
-  "num_followers": 168289,
+  "num_followers": 168294,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z58pLgAAAACbtaWzXOqJ1W56zFGvVll9",
+  "snapshot_id": "Z6DHPgAAAACGRmnfM0RQ6pfy1FPUNphl",
   "tracks": [
     {
       "added_at": "2025-02-02 08:13:34",
@@ -391,6 +391,26 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
+        "name": "Wait No More",
+        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Lost Ways",
+          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Wait No More",
+      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
+    },
+    {
+      "added_at": "2025-02-02 08:13:34",
+      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -411,22 +431,22 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
-        "name": "Wait No More",
-        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/4UggOindubYKHsDlCG8NEj"
       },
       "artists": [
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Lost Ways",
-          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 142956,
-      "name": "Wait No More",
-      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
+      "duration_ms": 132500,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/6zhLFfiMx8ulxcVnSlq54T"
     },
     {
       "added_at": "2025-02-02 08:13:34",
@@ -459,26 +479,6 @@
       "duration_ms": 141371,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
-    },
-    {
-      "added_at": "2025-02-02 08:13:34",
-      "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/4UggOindubYKHsDlCG8NEj"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/6zhLFfiMx8ulxcVnSlq54T"
     },
     {
       "added_at": "2025-02-02 08:13:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
-    },
-    {
-      "added_at": "2025-02-02 08:13:34",
-      "album": {
         "name": "My Favourite Game",
         "url": "https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 221500,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa"
+    },
+    {
+      "added_at": "2025-02-02 08:13:34",
+      "album": {
+        "name": "Blood & Bones",
+        "url": "https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Blood & Bones",
+      "url": "https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua"
     },
     {
       "added_at": "2025-02-02 08:13:34",
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
-        "name": "Blood & Bones",
-        "url": "https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW"
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
       },
       "artists": [
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 192857,
-      "name": "Blood & Bones",
-      "url": "https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua"
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
     },
     {
       "added_at": "2025-02-02 08:13:34",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
-        "name": "Dance Of Love",
-        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
-      },
-      "artists": [
-        {
-          "name": "LU2VYK",
-          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
-        },
-        {
-          "name": "Wave94",
-          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "Dance Of Love",
-      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
-    },
-    {
-      "added_at": "2025-02-02 08:13:34",
-      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 170524,
       "name": "Red",
       "url": "https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28"
+    },
+    {
+      "added_at": "2025-02-02 08:13:34",
+      "album": {
+        "name": "Dance Of Love",
+        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
+      },
+      "artists": [
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "Wave94",
+          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "Dance Of Love",
+      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
     },
     {
       "added_at": "2025-02-02 08:13:34",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
-        "name": "Spark",
-        "url": "https://open.spotify.com/album/3LHK2NuRval8ZnVvad8gZ4"
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
       },
       "artists": [
         {
-          "name": "Mosoo",
-          "url": "https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh"
-        },
-        {
-          "name": "Mondingo",
-          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 287213,
-      "name": "Spark",
-      "url": "https://open.spotify.com/track/0eoErZM1gZ3SXapS7WvLWN"
+      "duration_ms": 129975,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
     },
     {
       "added_at": "2025-02-02 08:13:34",
@@ -1095,18 +1091,18 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
       },
       "artists": [
         {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
         }
       ],
-      "duration_ms": 129975,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
+      "duration_ms": 142909,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
     },
     {
       "added_at": "2025-02-02 08:13:34",
@@ -1131,22 +1127,6 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 142909,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
-    },
-    {
-      "added_at": "2025-02-02 08:13:34",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ"
       },
@@ -1163,6 +1143,22 @@
       "duration_ms": 207457,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ"
+    },
+    {
+      "added_at": "2025-02-02 08:13:34",
+      "album": {
+        "name": "All Shook Up",
+        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
     },
     {
       "added_at": "2025-02-02 08:13:34",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2025-02-02 08:13:34",
       "album": {
-        "name": "All Shook Up",
-        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+        "name": "Everything Changes But Us",
+        "url": "https://open.spotify.com/album/2l1U2LgHNCi1aVxE8HaKxw"
       },
       "artists": [
         {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+          "name": "Lindja",
+          "url": "https://open.spotify.com/artist/12FS78q2foxDejKiUm1BgD"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
         }
       ],
-      "duration_ms": 154838,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
+      "duration_ms": 232991,
+      "name": "Everything Changes But Us",
+      "url": "https://open.spotify.com/track/1ASSOK89dWkRbMNIbNgIT8"
     }
   ],
   "unique_name": "Chill Dance",

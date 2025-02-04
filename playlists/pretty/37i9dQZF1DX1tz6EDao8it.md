@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,020 likes - 130 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,258 likes - 130 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 109 | [Main Title And First Victim](https://open.spotify.com/track/1g10rYqM3jJQsWRnXCFcx7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(The Collector's Edition Soundtrack\)](https://open.spotify.com/album/6qUytVWmtw4xh2tjCv39GE) | 3:26 |
 | 110 | [Happiness Is Simple](https://open.spotify.com/track/7iFw1GrPSKTP7V8wr2HL7O) | [Simon Franglen](https://open.spotify.com/artist/12WCXE6DlRcCn2rEShNepL) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 2:22 |
 | 111 | [Main Title "Somewhere in My Memory" \(From "Home Alone" Soundtrack\)](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
-| 112 | [The John Dunbar Theme \(From "Dances With Wolves"\)](https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Dances With Wolves \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax) | 2:17 |
+| 112 | [The John Dunbar Theme \(From "Dance with Wolves" Soundtrack\)](https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Dances With Wolves \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax) | 2:17 |
 | 113 | [Tennessee](https://open.spotify.com/track/2O0UWIMFeMtFR0LJMuIPjJ) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pearl Harbor \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6d0LelwtKFd0F0ZfImWWDz) | 3:39 |
 | 114 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 |
 | 115 | [Introduction \(Titles\)](https://open.spotify.com/track/4T0M3ao3PfYRkIolo5wpLK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/5K8mB1LGyBDQBKnj6k64Uq) | 2:36 |

@@ -2,9 +2,9 @@
 
 ### [Indie Update](https://open.spotify.com/playlist/37i9dQZF1DXbBKF9yWSvWR)
 
-> All new music with an Indie twist\. Cover: Lucy Dacus
+> All new music with an Indie twist\. Cover: Tamino & Mitski
 
-261 songs - 15 hr 8 min
+265 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [In My House](https://open.spotify.com/track/29IImCkTjioBd7YEDmvQDS) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House](https://open.spotify.com/album/2VLG0K4y9i7eTeaNOzuYXb) | 3:03 | 2024-09-05 | 2024-12-03 |
 | [In My Room](https://open.spotify.com/track/1v8ciwOzwSSaZYDW5jXgEr) | [Giant Julie](https://open.spotify.com/artist/20npHsmynFR5Ty3qJeeIu0) | [In My Room](https://open.spotify.com/album/0kivE1tzHdMBzh1ZmJ6Njt) | 3:49 | 2024-07-09 | 2024-10-04 |
 | [In Our Blood](https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7) | 3:27 | 2024-06-24 | 2024-07-10 |
+| [In The Dark](https://open.spotify.com/track/4MjZwT2XVXjRn2gPYWbOLE) | [Josephine Odhil](https://open.spotify.com/artist/3dBiZ9QHHuXQhb1Ni8BAYl) | [In The Dark](https://open.spotify.com/album/1EThUat1SAzJmhm6AEnl8l) | 3:14 | 2025-02-03 |  |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-24 | 2024-10-24 |
 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 | 2024-10-03 | 2024-12-19 |
 | [it takes a long time to feel free](https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [it takes a long time to feel free](https://open.spotify.com/album/6NyDZz7SJAGHJp6W0roRPP) | 4:35 | 2024-07-11 | 2024-11-07 |
@@ -134,6 +135,7 @@
 | [Leave It](https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Leave It](https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04) | 4:08 | 2024-09-13 | 2024-10-04 |
 | [Leave The Light On](https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Leave The Light On](https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA) | 3:40 | 2025-01-09 |  |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-24 | 2024-10-15 |
+| [Let's Leave Together](https://open.spotify.com/track/7xv3o3szm1R3zQDc95Q0eA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Let's Leave Together](https://open.spotify.com/album/7J2HCZc3g9V0KAq2DhAo7b) | 3:20 | 2025-02-03 |  |
 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-16 |  |
 | [Like A Thorn](https://open.spotify.com/track/55yobpZviT1VLRzOSvSF0p) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/6EKBtdLXalR4ZLsaEZtnNZ) | 2:48 | 2024-11-06 | 2025-01-24 |
 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 | 2024-11-22 |  |
@@ -215,6 +217,8 @@
 | [Somehow/Somewhere](https://open.spotify.com/track/4Uh25olyNzbWPBm5IELAhy) | [Gos Rosling](https://open.spotify.com/artist/2zJha56ZWbPFutom5jySwf) | [Somehow/Somewhere](https://open.spotify.com/album/5nmq3ZCCcYshME2b9poIV6) | 3:31 | 2024-08-30 | 2024-11-15 |
 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:21 | 2025-01-09 |  |
 | [Something In My Room](https://open.spotify.com/track/5CSWTPWy2JC0VOoqbnNq38) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Patch](https://open.spotify.com/album/7xwXXKv5bsAmeISpytBJvr) | 3:20 | 2024-09-05 | 2024-11-23 |
+| [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-02-03 |  |
+| [Soon Enough](https://open.spotify.com/track/0hF37RDD4gfMwgjbcbQgBY) | [King Viktor](https://open.spotify.com/artist/4O8MbCzsOScPb5KzkE1bdI), [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Soon Enough](https://open.spotify.com/album/1yKSFwdBR9cIacRT0FDegH) | 5:17 | 2025-02-03 |  |
 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 | 2024-10-23 | 2025-01-08 |
 | [Sounds Like You](https://open.spotify.com/track/7JFsiIjRm0jwq90I6GW7dF) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Sounds Like You](https://open.spotify.com/album/2TaSisxt0dmALrEfpLNagV) | 2:51 | 2024-10-23 | 2024-11-23 |
 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-06-24 | 2024-08-02 |

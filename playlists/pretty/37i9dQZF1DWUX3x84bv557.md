@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Numidia
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,260 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,479 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 |
-| 2 | [Als Ik Je Later Weer Zie](https://open.spotify.com/track/7day754wnySWAD13AGVZM2) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Als Ik Je Later Weer Zie](https://open.spotify.com/album/37gH35rFNpAHYFUtQqQpJ4) | 3:48 |
-| 3 | [O.N.S.](https://open.spotify.com/track/2c2TO8EYrrGGmqX1AfkxFj) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Juultje Tieleman](https://open.spotify.com/artist/22EjzscO27k9jGcRhEfCRK) | [O.N.S.](https://open.spotify.com/album/29CDkeqi0F9a3M61aitDjX) | 2:49 |
+| 2 | [O.N.S.](https://open.spotify.com/track/2c2TO8EYrrGGmqX1AfkxFj) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Juultje Tieleman](https://open.spotify.com/artist/22EjzscO27k9jGcRhEfCRK) | [O.N.S.](https://open.spotify.com/album/29CDkeqi0F9a3M61aitDjX) | 2:49 |
+| 3 | [Als Ik Je Later Weer Zie](https://open.spotify.com/track/7day754wnySWAD13AGVZM2) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Als Ik Je Later Weer Zie](https://open.spotify.com/album/37gH35rFNpAHYFUtQqQpJ4) | 3:48 |
 | 4 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 |
-| 5 | [101 Redenen](https://open.spotify.com/track/4CZb8qgRg8E69sABwMV8X2) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [101 Redenen](https://open.spotify.com/album/7Hk7GY0QhDACpZSBRiiZom) | 2:47 |
-| 6 | [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 |
-| 7 | [Scherven](https://open.spotify.com/track/14h13moB369WHcbOOjOY0z) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Scherven](https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew) | 2:59 |
-| 8 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
+| 5 | [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 |
+| 6 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
+| 7 | [101 Redenen](https://open.spotify.com/track/4CZb8qgRg8E69sABwMV8X2) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [101 Redenen](https://open.spotify.com/album/7Hk7GY0QhDACpZSBRiiZom) | 2:47 |
+| 8 | [Scherven](https://open.spotify.com/track/14h13moB369WHcbOOjOY0z) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Scherven](https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew) | 2:59 |
 | 9 | [Ik Bouw Een Huis](https://open.spotify.com/track/5A1Upu21oc90sZLWqDQMnO) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Ik Bouw Een Huis](https://open.spotify.com/album/3TQyS6dUZ75kMxhHNUb0qv) | 2:28 |
 | 10 | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER) | 2:35 |
 | 11 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [smeken staat ons beide niet](https://open.spotify.com/track/4NGJwHVKyD8NsM1dpljzaa) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE) | [smeken staat ons beide niet](https://open.spotify.com/album/1oGrS9Y00pM6pcdXSzxSce) | 3:31 |
 | 60 | [Stewardess](https://open.spotify.com/track/2uu4nNPZnvyBQuZoEdStge) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Stewardess](https://open.spotify.com/album/4nDQI6KJ6PPyAuNlGepb15) | 2:15 |
 
-Snapshot ID: `Z5wEfQAAAADQ6SRF+tksNUjhrmDHIJED`
+Snapshot ID: `Z6DHmwAAAACHVyDo7p1LIAOauabzRCps`

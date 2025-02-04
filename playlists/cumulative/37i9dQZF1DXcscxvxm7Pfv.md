@@ -4,7 +4,7 @@
 
 > Free your mind from distraction with calming white noise.
 
-288 songs - 13 hr 26 min
+290 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Do You Mind?](https://open.spotify.com/track/3uN5SegBAYYuoDEDYIU1lw) | [HOLISTIK](https://open.spotify.com/artist/5snzdlYPB9rks7jXF4bxl4) | [Do You Mind?](https://open.spotify.com/album/5mkGpRwDHBuQsTtzeexCDy) | 1:35 | 2022-08-26 | 2023-06-30 |
 | [Dozy White Noise](https://open.spotify.com/track/3Z0PCugUi5AKwPBJuMacQH) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:09 | 2022-08-26 |  |
 | [Dream Cave](https://open.spotify.com/track/24oboCpHTfhCGaHOF4Kyh2) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [In The Noise](https://open.spotify.com/album/0fa4s6gzRkLanH66t5jie2) | 2:27 | 2022-08-26 | 2024-01-30 |
+| [Dreams in White](https://open.spotify.com/track/0llaJPP8m0VLRSDIgeFLKa) | [Titan Pulse](https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY) | [Dreams in White](https://open.spotify.com/album/2MU5F73KbDspAV3MW3nCJm) | 5:09 | 2025-01-30 |  |
 | [Dreamy White Water](https://open.spotify.com/track/6RW7Mx0mQeEDXCxPu8Fpnu) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 | 2022-08-26 | 2025-01-31 |
 | [Dull White Noise](https://open.spotify.com/track/2NbKo7vh9ysSALZTCb2wiw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:04 | 2022-10-27 |  |
 | [Echoes From Nowhere](https://open.spotify.com/track/5mGPuajka7C75r5sFwbN10) | [Aguamenti](https://open.spotify.com/artist/51zDhvo49NXlaQpANXgOtb) | [Stillness Speaks \(White Noise\)](https://open.spotify.com/album/0vyJCTLqiUDsyaJiwG5EtF) | 3:05 | 2024-01-29 |  |
@@ -90,6 +91,7 @@
 | [Low Earth Orbit](https://open.spotify.com/track/6iFY0bfr83RB6oq8V6MkSG) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 | 2022-10-27 | 2023-03-25 |
 | [Luscious White](https://open.spotify.com/track/4QaBH3v6voepmoqRexzSLH) | [Arcticos](https://open.spotify.com/artist/3cMJyeklWJOqZ46VjZYFJT) | [Luscious White](https://open.spotify.com/album/28wK2xz6pk7iAzSRe6Robs) | 2:53 | 2022-08-26 | 2023-10-24 |
 | [Magic Baby Noise](https://open.spotify.com/track/3mdZaRNblDtvpwSrjZef4p) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [Baby Noise Machine](https://open.spotify.com/album/69XDtLpr30IiwcnJuNGYuR) | 3:16 | 2023-06-29 |  |
+| [Marina Spectrum](https://open.spotify.com/track/0c2MpWGREvtCbThpvgUCuU) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Marina Spectrum](https://open.spotify.com/album/3lJgm6LPUnZ3gTrKqC3CB8) | 2:44 | 2025-01-30 |  |
 | [Mellow Forest Noise](https://open.spotify.com/track/3mwvAQMWc3Hb1Rmcl7iyyx) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:26 | 2022-10-27 | 2023-10-24 |
 | [Mercury](https://open.spotify.com/track/1A0CaPuTm6M6I9TQlj04Iz) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Peaceful Pink Noise](https://open.spotify.com/album/1rAg0uZGcsQi6tdinyStqa) | 2:24 | 2022-08-26 | 2023-01-04 |
 | [Mid\-Side White Noise](https://open.spotify.com/track/0rf0CVZqFGwOxte6Si5eGw) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Mid\-Side](https://open.spotify.com/album/6i2LFCKG2lJVFRk569ecxl) | 1:56 | 2022-08-26 | 2023-03-25 |
@@ -259,7 +261,7 @@
 | [White Noise R.E.M](https://open.spotify.com/track/5POuCIgP1PxbzSLXDcWbyi) | [Pinkage](https://open.spotify.com/artist/4wFbCRYOgiYItOMGZM5HgJ) | [White Noise Dreams](https://open.spotify.com/album/5Ue0NVI0gEtU8VgHfDAkQj) | 3:02 | 2023-10-19 |  |
 | [White Noise Rauschen](https://open.spotify.com/track/4HbdRcLLnUHgBVBDVRD14M) | [Night Time Sounds](https://open.spotify.com/artist/029NCna9Sf2isa6oeBAhyP) | [White Noise On My Mind](https://open.spotify.com/album/2gGwtQwg3DRXQwvW9Kh3ca) | 2:53 | 2022-08-26 |  |
 | [White Noise Relax](https://open.spotify.com/track/6r920LdVbEO6TchoxUUqBy) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [White Noise Focus And Relax](https://open.spotify.com/album/2i1JTIAMD4UhouwkFb3A6P) | 2:48 | 2023-10-19 |  |
-| [White Noise Relaxation Haven](https://open.spotify.com/track/6lthCEvodT1v7NR0b3qXOk) | [Dreamy White Noise](https://open.spotify.com/artist/3fphHcubpPIVJ80z5uBgyA) | [White Noise Dream State](https://open.spotify.com/album/4MVN2QQAwJJY6gliY1N7Ya) | 2:32 | 2023-10-19 |  |
+| [White Noise Relaxation Haven](https://open.spotify.com/track/6lthCEvodT1v7NR0b3qXOk) | [Dreamy White Noise](https://open.spotify.com/artist/3fphHcubpPIVJ80z5uBgyA) | [White Noise Dream State](https://open.spotify.com/album/4MVN2QQAwJJY6gliY1N7Ya) | 2:32 | 2023-10-19 | 2025-02-04 |
 | [White Noise Resort](https://open.spotify.com/track/6glqD1h7HKXKKGuBzVMIWj) | [Noise Retreat](https://open.spotify.com/artist/2xhxnZx1l0Zvu7eEpt1OYM) | [White Noise Resort](https://open.spotify.com/album/4XMkYJ2qs9chQrskYYJujc) | 2:43 | 2022-08-26 | 2023-03-25 |
 | [White noise serenity](https://open.spotify.com/track/2dxH9FqkS1lTttrAfw3Mm8) | [Birger Jarl White Noise](https://open.spotify.com/artist/6Yg715fRGlixydiif4Dsxi) | [White Noise For Babies Vol\. 2](https://open.spotify.com/album/2seuerCIyJ89MeXSHJrUgx) | 2:58 | 2022-10-27 | 2023-01-04 |
 | [White Noise Shade 1](https://open.spotify.com/track/57VQEFgAfv2uChGSv6xBjx) | [Octobas](https://open.spotify.com/artist/7LxuQFfTwNk6V8sS7sAha4) | [Shades Of White Noise](https://open.spotify.com/album/7qrxvqiTX2CcS87UKtg1ea) | 2:27 | 2022-08-26 |  |
@@ -279,7 +281,7 @@
 | [White Noise Wind 2](https://open.spotify.com/track/6unotMuZFbqK1TpEuyERFb) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [White Noise Wind](https://open.spotify.com/album/6zIzJzvihAdp5RCuExT1a6) | 3:28 | 2022-08-26 | 2023-06-30 |
 | [White Noise Windows Open at Night](https://open.spotify.com/track/7GSfkfVhKjZ4TL2jYFGyuG) | [Tellus Recordings](https://open.spotify.com/artist/3EwfrJRom0WYp9unSsooUg) | [At Night](https://open.spotify.com/album/0BrHPsNRODAwUelEKmaNmb) | 3:22 | 2022-08-26 | 2022-10-28 |
 | [White Noise Winter Dreams](https://open.spotify.com/track/0WYciAV0lVsMEQk15UXVw1) | [Freifall](https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte) | [White Noise Winter Dreams](https://open.spotify.com/album/7CZu7ZsAzkSCwEZtB4Ouyt) | 3:22 | 2023-12-05 |  |
-| [White Noise Zen](https://open.spotify.com/track/0fcaYaOIBM5RK42ZmJQT7j) | [White Noise Dream](https://open.spotify.com/artist/4lvbkZhX4PJpOuuk6QekZb) | [Tranquility](https://open.spotify.com/album/4ziuxclf5GUjkF2bKGH1gk) | 3:33 | 2022-08-26 |  |
+| [White Noise Zen](https://open.spotify.com/track/0fcaYaOIBM5RK42ZmJQT7j) | [White Noise Dream](https://open.spotify.com/artist/4lvbkZhX4PJpOuuk6QekZb) | [Tranquility](https://open.spotify.com/album/4ziuxclf5GUjkF2bKGH1gk) | 3:33 | 2022-08-26 | 2025-02-04 |
 | [White Oasis](https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:30 | 2023-06-29 |  |
 | [White Reverb 800 Hz](https://open.spotify.com/track/68s3njCBvLcevxxMSOjq8P) | [Worry Less](https://open.spotify.com/artist/49CQw3DOUXwNq8mV3EaFux) | [Worryless White Noise](https://open.spotify.com/album/0aEDSss6BeAgY6VIc3WkWV) | 3:22 | 2022-08-26 | 2023-09-02 |
 | [White Roses Static](https://open.spotify.com/track/2t6cAPfMIdgMOlsfFMr2e5) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [White Roses Static](https://open.spotify.com/album/5U8R8epqr0R6Jwnky2pTSu) | 4:45 | 2025-01-30 |  |

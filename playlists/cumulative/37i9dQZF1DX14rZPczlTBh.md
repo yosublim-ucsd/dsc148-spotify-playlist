@@ -4,14 +4,14 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-150 songs - 8 hr 17 min
+151 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aadathanama](https://open.spotify.com/track/0MU4LT5akvYfbRKXBfBlPY) | [Sunitha Saradhi, Febimani](https://open.spotify.com/artist/1mSgjkVDvQ04bmNK7Zy4Ta) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 4:48 | 2021-06-24 | 2024-08-24 |
 | [Aadathanama](https://open.spotify.com/track/1IdliXRVilLPSas4M3weay) | [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Febimani](https://open.spotify.com/artist/6m4WCOPRSEsSPeiEtrpu2I) | [Gharshana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vcMhImy6HvLrAczwRtakO) | 4:48 | 2021-06-24 | 2022-07-29 |
 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 | 2024-08-23 |  |
-| [Ala Vaikunthapurramuloo Theme](https://open.spotify.com/track/5auPwTDLSnm5syWYDQ0f1a) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo \- OST](https://open.spotify.com/album/2fMmgyEeanH2Wx5gxSEDTU) | 1:01 | 2024-08-23 |  |
+| [Ala Vaikunthapurramuloo Theme](https://open.spotify.com/track/5auPwTDLSnm5syWYDQ0f1a) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo \- OST](https://open.spotify.com/album/2fMmgyEeanH2Wx5gxSEDTU) | 1:01 | 2024-08-23 | 2025-02-04 |
 | [All Hail The Tiger \(From "Devara Part 1"\)](https://open.spotify.com/track/4vWoTjRTSwVBhfp5kbDAXg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Natalie Di Luccio](https://open.spotify.com/artist/3KMkQ4hHVUXhx7TKLhgBxT), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [All Hail The Tiger \(From "Devara Part 1"\)](https://open.spotify.com/album/2D4YarggnCqBeCRLHVcjW3) | 1:26 | 2024-08-23 |  |
 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 | 2021-06-24 | 2024-08-24 |
 | [Ammakutti Ammakutti Andhamantha Ompake](https://open.spotify.com/track/7ga0tdQeHtJl6F0I07qbZE) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Jai Simha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7qkDsUnZrTzjhecBjvc4RS) | 4:41 | 2021-06-24 | 2022-07-29 |
@@ -141,6 +141,7 @@
 | [The Blind](https://open.spotify.com/track/1Vmq74DX8WfWIyz0odHmiS) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 0:43 | 2024-08-23 |  |
 | [The Karma Theme \- Telugu \(From "U Turn"\)](https://open.spotify.com/track/0K2CU7TTmFBSbFm1Lt50Sx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [The Karma Theme \[Telugu \(From "U Turn"\)\]](https://open.spotify.com/album/7JzWYvbRsMEBBbufyXnkcL) | 3:34 | 2021-06-24 | 2024-08-24 |
 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 | 2024-08-23 |  |
+| [The Unpredictable Rap Verse](https://open.spotify.com/track/3AM69qzTqwns3FLV0dTyZG) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 2:23 | 2025-02-03 |  |
 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 | 2024-08-23 |  |
 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 | 2024-08-23 |  |
 | [Theme of Gharshanaa](https://open.spotify.com/track/4uGnRhL3ZKDyTmLaDD0kMP) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Gharshanaa](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 2:17 | 2024-08-23 |  |

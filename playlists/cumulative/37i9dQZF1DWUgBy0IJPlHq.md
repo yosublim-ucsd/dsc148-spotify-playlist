@@ -2,7 +2,7 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Willow Avalon
+> A new shade of Country\. Cover: Sierra Ferrell
 
 608 songs - 1 day 13 hr 8 min
 

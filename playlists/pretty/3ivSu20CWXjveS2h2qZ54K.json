@@ -1,13 +1,29 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6707,
+  "num_followers": 6705,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACsNrFZH5Quam5ZXKJT0DlP64HoTZM2",
+  "snapshot_id": "AACsN1x05v3QJlYDu5sCiszC+5JSaj5d",
   "tracks": [
+    {
+      "added_at": "2025-02-03 08:52:02",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
     {
       "added_at": "2025-01-31 05:37:36",
       "album": {
@@ -591,7 +607,7 @@
     {
       "added_at": "2025-01-31 06:06:08",
       "album": {
-        "name": "Tormenta",
+        "name": "tormenta",
         "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
       },
       "artists": [
@@ -601,7 +617,7 @@
         }
       ],
       "duration_ms": 256423,
-      "name": "Tormenta",
+      "name": "tormenta",
       "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
     },
     {

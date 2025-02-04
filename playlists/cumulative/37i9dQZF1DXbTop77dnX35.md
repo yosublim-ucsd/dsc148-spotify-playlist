@@ -4,7 +4,7 @@
 
 > New Music from Qing Madi and more
 
-1,735 songs - 3 day 14 hr 15 min
+1,735 songs - 3 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,7 +902,7 @@
 | [LOVE OR LAMBA](https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA](https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP) | 2:33 | 2024-06-28 | 2024-07-05 |
 | [Love or lust](https://open.spotify.com/track/6N5FrRW8pn0UEmVt2sACyf) | [Klevarr](https://open.spotify.com/artist/5vSwQzCx4pmaarv2EaT4Z7), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Love or lust](https://open.spotify.com/album/1057dxJtveKgyHOEG63jXK) | 2:46 | 2024-07-05 | 2024-07-12 |
 | [LOVE POTION](https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [LOVE POTION](https://open.spotify.com/album/6gRcRXz1b8wjUPc1PTwYeN) | 3:19 | 2024-10-18 | 2024-10-25 |
-| [LOVE SZN \(feat\. Yumbs\)](https://open.spotify.com/track/36EG2rg9RAS910WbXRlt2V) | [Dj Six7even](https://open.spotify.com/artist/7yyFlB8IOlpxT5aKGLdGZk), [Dj Consequence](https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh), [Paranormal Dj](https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [LOVE SZN \(feat\. Yumbs\)](https://open.spotify.com/album/7wiYN800StxCIUTXG9CGpQ) | 3:53 | 2025-01-31 |  |
+| [LOVE SZN \(feat\. Yumbs\)](https://open.spotify.com/track/36EG2rg9RAS910WbXRlt2V) | [Dj Six7even](https://open.spotify.com/artist/7yyFlB8IOlpxT5aKGLdGZk), [Dj Consequence](https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh), [Paranormal Dj](https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [LOVE SZN \(feat\. Yumbs\)](https://open.spotify.com/album/7wiYN800StxCIUTXG9CGpQ) | 3:24 | 2025-01-31 |  |
 | [Love to Wine](https://open.spotify.com/track/2epTIK4ugF89A6NO7Jo5qR) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [Love to Wine](https://open.spotify.com/album/3uzn4qQq2UlzTROlEQX0Nu) | 2:26 | 2024-08-09 | 2024-08-17 |
 | [Lovespell](https://open.spotify.com/track/2aYuVjc4CwK0Wug0id3F0E) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps) | [Lovespell](https://open.spotify.com/album/175BauU0ljMwlLBe5qCJuz) | 2:22 | 2024-10-04 | 2024-10-11 |
 | [Lovin' U](https://open.spotify.com/track/1OzZAsw02pitzWNarjpubU) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Thrill Max](https://open.spotify.com/artist/4aAwLZhHII5PgS4YhjrsRv), [Uloko](https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP) | [Lovin' U](https://open.spotify.com/album/6jcPTETBV7CATmqvDP7wX2) | 3:26 | 2024-12-06 | 2024-12-13 |

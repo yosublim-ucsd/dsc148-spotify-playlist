@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-654 songs - 1 day 9 hr 11 min
+655 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,6 +649,7 @@
 | [Wie Ben Jij](https://open.spotify.com/track/2txPPrev1n79RlLuFh01lW) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Money En Gang En Mixtape](https://open.spotify.com/album/5xmTC3gfSq84ZvFQOvYk2T) | 4:46 | 2023-08-31 | 2023-09-30 |
 | [Wie Ben Jij \- Sped Up](https://open.spotify.com/track/5Wgkd6dgFvjLadervYGJHH) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Wie Ben Jij \(Sped Up\)](https://open.spotify.com/album/5HPvRGI723QNLimhjzXD9q) | 3:44 | 2023-09-29 | 2024-01-07 |
 | [Wil Je Weten](https://open.spotify.com/track/2Toz57Z50AtzmG1WJNynrC) | [OFFICIAL KALOUTJE](https://open.spotify.com/artist/4DelmsIXEfwweSJLOcfDQn) | [Wil Je Weten](https://open.spotify.com/album/6dms2PVjRmbmsvsU94Yu0D) | 2:33 | 2023-05-19 | 2023-07-11 |
+| [Winterjas](https://open.spotify.com/track/0fp3KUWXNSFSwg37hahuit) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Winterjas](https://open.spotify.com/album/2EqyZmY7HDSArHt3Ys69ny) | 2:19 | 2025-02-03 |  |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2023-11-16 | 2023-11-30 |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 | 2023-05-01 | 2023-05-26 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-17 |  |

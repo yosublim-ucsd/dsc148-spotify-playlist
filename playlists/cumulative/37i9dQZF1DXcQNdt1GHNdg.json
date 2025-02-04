@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 161000,
       "name": "8 ASLE",
       "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
@@ -308,6 +308,28 @@
       "duration_ms": 230000,
       "name": "AL Capone",
       "url": "https://open.spotify.com/track/5zOA3WtFimt56zmmZDoWfm"
+    },
+    {
+      "album": {
+        "name": "Andaaze",
+        "url": "https://open.spotify.com/album/32nIGDQBehbZAM8ocu0qZs"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        },
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329610,
+      "name": "Andaaze",
+      "url": "https://open.spotify.com/track/2xfIFQON97MGpE1ewc6f3n"
     },
     {
       "album": {
@@ -528,7 +550,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 230400,
       "name": "Bitch I'm Back",
       "url": "https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS"
@@ -630,7 +652,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 178714,
       "name": "Brat",
       "url": "https://open.spotify.com/track/5Jugrt4U7Xa0FPw7YvjXWU"
@@ -722,6 +744,28 @@
       "duration_ms": 181000,
       "name": "Chorni",
       "url": "https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh"
+    },
+    {
+      "album": {
+        "name": "Clockin",
+        "url": "https://open.spotify.com/album/2nsZv6osPR8TeCBYKJDdoH"
+      },
+      "artists": [
+        {
+          "name": "NIJJAR",
+          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Clockin",
+      "url": "https://open.spotify.com/track/41P540FctQvKXvGLMDQTBd"
     },
     {
       "album": {
@@ -862,6 +906,32 @@
       "duration_ms": 186729,
       "name": "Defender",
       "url": "https://open.spotify.com/track/7gBtxQokQU5f8uqlLua9q0"
+    },
+    {
+      "album": {
+        "name": "Future Folk",
+        "url": "https://open.spotify.com/album/6ukTEfsBa5GIp9nOJQTLkw"
+      },
+      "artists": [
+        {
+          "name": "Harf Cheema",
+          "url": "https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A"
+        },
+        {
+          "name": "Sudesh Kumari",
+          "url": "https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183149,
+      "name": "Defender",
+      "url": "https://open.spotify.com/track/695j3oqRL6a4o0oJR2rHS1"
     },
     {
       "album": {
@@ -1353,6 +1423,28 @@
     },
     {
       "album": {
+        "name": "GHOSTMODE",
+        "url": "https://open.spotify.com/album/6jC6tPEU71kg4XEx5fi5ea"
+      },
+      "artists": [
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        },
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147530,
+      "name": "GHOSTMODE",
+      "url": "https://open.spotify.com/track/2h6MI6a8TkMQZDaZqj2H6o"
+    },
+    {
+      "album": {
         "name": "UNDISPUTED",
         "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
       },
@@ -1452,6 +1544,32 @@
       "duration_ms": 276279,
       "name": "Hathyar - From \"Sikander 2\"",
       "url": "https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB"
+    },
+    {
+      "album": {
+        "name": "Hu Jattiye",
+        "url": "https://open.spotify.com/album/73R0sf5hUv3faSxgGBvIJ8"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Hu Jattiye",
+      "url": "https://open.spotify.com/track/72vuc3a2dvWXSKnbHgP1Yl"
     },
     {
       "album": {
@@ -1964,7 +2082,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 160825,
       "name": "Listen Girl",
       "url": "https://open.spotify.com/track/7CVxTGAwmjMbWdn1T6XDCb"
@@ -2626,7 +2744,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 190923,
       "name": "Punjabi Kompa",
       "url": "https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi"
@@ -2884,6 +3002,32 @@
       "duration_ms": 140331,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/72dpLcvlQNZdDecynf9t7Y"
+    },
+    {
+      "album": {
+        "name": "A KID FROM GURDASPUR",
+        "url": "https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ"
+      },
+      "artists": [
+        {
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        },
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135177,
+      "name": "RYDE OR DIE",
+      "url": "https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag"
     },
     {
       "album": {
@@ -3338,7 +3482,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 182022,
       "name": "Trade Marka",
       "url": "https://open.spotify.com/track/1we2yN08AAo5pNiT9ngdhC"

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Nebrugg",
-  "num_followers": 145554,
+  "num_followers": 145548,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,30 @@
     {
       "added_at": "2025-01-24 03:01:22",
       "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+    },
+    {
+      "added_at": "2025-01-24 03:01:22",
+      "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
-    },
-    {
-      "added_at": "2025-01-24 03:01:22",
-      "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        }
-      ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": "2025-01-24 03:01:22",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2025-01-24 03:01:22",
       "album": {
+        "name": "A Vida De Um G\u00e2ngster",
+        "url": "https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77"
+      },
+      "artists": [
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Melt77",
+          "url": "https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX"
+        }
+      ],
+      "duration_ms": 230015,
+      "name": "Afli\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7"
+    },
+    {
+      "added_at": "2025-01-24 03:01:22",
+      "album": {
         "name": "Mixtape Novset, Vol. 1",
         "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
       },
@@ -1139,30 +1163,6 @@
       "duration_ms": 184000,
       "name": "Jovem Pr\u00edncipe - Remix",
       "url": "https://open.spotify.com/track/1Ky0nJZ03ZH3Y50uD4gvek"
-    },
-    {
-      "added_at": "2025-01-24 03:01:22",
-      "album": {
-        "name": "A Vida De Um G\u00e2ngster",
-        "url": "https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77"
-      },
-      "artists": [
-        {
-          "name": "DEGE",
-          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Melt77",
-          "url": "https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX"
-        }
-      ],
-      "duration_ms": 230015,
-      "name": "Afli\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7"
     },
     {
       "added_at": "2025-01-24 03:01:22",

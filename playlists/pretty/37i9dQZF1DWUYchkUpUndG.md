@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=9xF4d6\-CQFmtXPubREvJdQ>Sjava</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,918 likes - 108 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,960 likes - 108 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 58 | [AWAKE](https://open.spotify.com/track/7aazbjtRjChzjEmsVYSv39) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [AWAKE](https://open.spotify.com/album/2J7DouFwiT7iuub7sFWmkb) | 12:10 |
 | 59 | [Chosen/Away \- Live Version](https://open.spotify.com/track/0bR1C1AF13zq4gAAM4c4Y9) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Chosen/Away \(Live Version\)](https://open.spotify.com/album/5Qx2DH3fSuClBDlEsCHROs) | 6:24 |
 | 60 | [Fall On Your Knees \- Drill](https://open.spotify.com/track/5vmR1xd1DpE8yvJkdfMjsL) | [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr), [Odyssybeatz](https://open.spotify.com/artist/3S2OGX2C4LWinf6b4Tqni7) | [Fall On Your Knees \(Drill\)](https://open.spotify.com/album/5CHNju2rdwDMq31f2KpWUW) | 1:52 |
-| 61 | [Dawn](https://open.spotify.com/track/6jU2w5cuoy4DKxd9qu4MEa) | [Domnik](https://open.spotify.com/artist/25sThYyRb0zAJxvrHSRlEx), [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [Dawn](https://open.spotify.com/album/6LJfCClnwWY2ohuioyguF3) | 2:31 |
+| 61 | [Dawn](https://open.spotify.com/track/6jU2w5cuoy4DKxd9qu4MEa) | [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo), [Domnik](https://open.spotify.com/artist/25sThYyRb0zAJxvrHSRlEx), [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB) | [Dawn](https://open.spotify.com/album/6LJfCClnwWY2ohuioyguF3) | 2:31 |
 | 62 | [No Turning Back](https://open.spotify.com/track/6X06ssOplf4RQb1L48qZVX) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Lofi & Jesus: Sober Journal](https://open.spotify.com/album/000LlWeGQHw4GGOY7gj2rn) | 3:26 |
 | 63 | [Ema Seun Ni \- Acoustic Version](https://open.spotify.com/track/4f1fUc6KIeSjxQDVbXgpZ0) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Ema Seun Ni \(Acoustic Version\)](https://open.spotify.com/album/3gyjUjoDbZv5bWo5V0eINH) | 1:43 |
 | 64 | [Bianu Sorom](https://open.spotify.com/track/6LRbLPFHskuvPmltv6cZ8c) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Bianu Sorom](https://open.spotify.com/album/0TPwjoGDzhYPScSnecgNDY) | 5:34 |

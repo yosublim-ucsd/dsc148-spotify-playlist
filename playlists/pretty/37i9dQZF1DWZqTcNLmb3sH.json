@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62618,
+  "num_followers": 62627,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5yXmAAAAACwFOCpiRekCSBNEx5ok/DA",
+  "snapshot_id": "Z6DNJwAAAADIITwVGHYHVQhGF9nrIw17",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -31,6 +31,34 @@
       "duration_ms": 146880,
       "name": "Lion's Roar (From \"Max\") (Kannada)",
       "url": "https://open.spotify.com/track/3fYtnQP9CgiaT3JRfw4PCJ"
+    },
+    {
+      "added_at": "2025-02-03 14:03:49",
+      "album": {
+        "name": "Ee Bhuvana Aa Gagana (From \"Bhuvanam Gaganam\")",
+        "url": "https://open.spotify.com/album/3HBL1Ip3PUe5DtG3PDt588"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Gummineni Vijay",
+          "url": "https://open.spotify.com/artist/7tlDk660qu9f7yYtpIlFGw"
+        },
+        {
+          "name": "Ghouse Peer",
+          "url": "https://open.spotify.com/artist/7rN3ZHyF91OoEkEmktdvyB"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "duration_ms": 271792,
+      "name": "Ee Bhuvana Aa Gagana (From \"Bhuvanam Gaganam\")",
+      "url": "https://open.spotify.com/track/69aZBAxrrWDTDoPteDhgEc"
     },
     {
       "added_at": "2025-01-20 07:38:56",
@@ -83,6 +111,50 @@
       "duration_ms": 220933,
       "name": "Mungaru Maleyalli - From \"Andondittu Kaala\"",
       "url": "https://open.spotify.com/track/5jXdW5vBjwKr76oBprssJQ"
+    },
+    {
+      "added_at": "2025-02-03 14:03:12",
+      "album": {
+        "name": "Baare Baare Jinke Mari (From \"Shabhash Baddimagne\")",
+        "url": "https://open.spotify.com/album/2dY91LWdlmmrZrJ3jlM1Fu"
+      },
+      "artists": [
+        {
+          "name": "S P Bhupathi",
+          "url": "https://open.spotify.com/artist/43PWPcqmRWTYdKiLY0vHK0"
+        },
+        {
+          "name": "K Kalyan",
+          "url": "https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3"
+        },
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "Baare Baare Jinke Mari (From \"Shabhash Baddimagne\")",
+      "url": "https://open.spotify.com/track/7ij9tio885wO7oP7qPCeRF"
+    },
+    {
+      "added_at": "2025-02-03 14:05:27",
+      "album": {
+        "name": "Alive (From \"Nodidavaru Enantare\")",
+        "url": "https://open.spotify.com/album/2tZZAIziv4udi7KNGcediU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Robert Kirk",
+          "url": "https://open.spotify.com/artist/6pJZo2WrJC33JQy4fNLKB0"
+        },
+        {
+          "name": "Mayuresh A",
+          "url": "https://open.spotify.com/artist/2jZG20zvYlAeYnfRYZnBOi"
+        }
+      ],
+      "duration_ms": 259810,
+      "name": "Alive (From \"Nodidavaru Enantare\")",
+      "url": "https://open.spotify.com/track/5Uqi789L24pKEI4KkA1Yj0"
     },
     {
       "added_at": "2025-01-31 09:26:31",
@@ -171,6 +243,22 @@
       "duration_ms": 243271,
       "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
+    },
+    {
+      "added_at": "2025-02-03 06:40:08",
+      "album": {
+        "name": "Mouna (From \"Nimitta Matra\")",
+        "url": "https://open.spotify.com/album/2Cd05RWyeMqhFq7RE0p0uk"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Rajeev",
+          "url": "https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Mouna (From \"Nimitta Matra\")",
+      "url": "https://open.spotify.com/track/10T895kCP3lO0Bm857spMw"
     },
     {
       "added_at": "2025-01-30 11:14:52",
@@ -1005,22 +1093,6 @@
       "url": "https://open.spotify.com/track/6NZachdB2oMjc8agwnvgWQ"
     },
     {
-      "added_at": "2025-01-09 13:23:38",
-      "album": {
-        "name": "Dhad Nan Magane (From \"Nimde Kathe\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4bOKZuhv70egI7gF0jY8cU"
-      },
-      "artists": [
-        {
-          "name": "Naveen Sajju",
-          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
-        }
-      ],
-      "duration_ms": 217159,
-      "name": "Dhad Nan Magane (From \"Nimde Kathe\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/43kmEYZv84aGExwGDM3qyc"
-    },
-    {
       "added_at": "2025-01-06 08:11:30",
       "album": {
         "name": "Hukka Eli (From \"Rudhra Garuda Purana\")",
@@ -1565,30 +1637,6 @@
       "url": "https://open.spotify.com/track/1PJVQAnZjwS9pfVtYLnuld"
     },
     {
-      "added_at": "2024-12-09 08:43:15",
-      "album": {
-        "name": "Hungama (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
-        "url": "https://open.spotify.com/album/3KqtFP0kz30GOar8EOGJ9Y"
-      },
-      "artists": [
-        {
-          "name": "Prasad K Shetty",
-          "url": "https://open.spotify.com/artist/20uxeH7uGGbhMA8RqEjUf4"
-        },
-        {
-          "name": "Keshav Moorthy",
-          "url": "https://open.spotify.com/artist/79xBEVnseG23fDs12xWsAi"
-        },
-        {
-          "name": "Siddhartha Belmannu",
-          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
-        }
-      ],
-      "duration_ms": 193428,
-      "name": "Hungama (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
-      "url": "https://open.spotify.com/track/2xrXMNJ2DZJ8jPkfvMZHiR"
-    },
-    {
       "added_at": "2024-12-09 08:43:55",
       "album": {
         "name": "Hey Rangule (From \"Amaran\") (Telugu)",
@@ -1787,30 +1835,6 @@
       "duration_ms": 321272,
       "name": "Neenena Neenena",
       "url": "https://open.spotify.com/track/0MtJa9qX1vl0uNVQNhS58r"
-    },
-    {
-      "added_at": "2024-11-19 05:39:55",
-      "album": {
-        "name": "Tere Bina (From \"Zebra\")",
-        "url": "https://open.spotify.com/album/3QW0BvTKpxLrnjRUK7zIHn"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Airaa Udupi",
-          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 193117,
-      "name": "Tere Bina (From \"Zebra\") [Kannada]",
-      "url": "https://open.spotify.com/track/05lPTt3KayVmTF2GCC1hcJ"
     }
   ],
   "unique_name": "Latest Kannada",

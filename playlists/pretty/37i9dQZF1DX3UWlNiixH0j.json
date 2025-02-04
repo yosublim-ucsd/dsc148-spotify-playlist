@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u9234\u6728\u5b9f\u8cb4\u5b50\u30ba\uff08Suzuki Mikiko's\uff09",
-  "num_followers": 60503,
+  "num_followers": 60507,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "\u3084\u3081\u308b\u306a\u3089\u4eca\u3060",
-        "url": "https://open.spotify.com/album/1FxYYHAFvn8HxkUJYDTeTi"
-      },
-      "artists": [
-        {
-          "name": "MOROHA",
-          "url": "https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY"
-        }
-      ],
-      "duration_ms": 261786,
-      "name": "\u3084\u3081\u308b\u306a\u3089\u4eca\u3060",
-      "url": "https://open.spotify.com/track/24moPNcVQ1zpt4vCMIi7ZQ"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 257911,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "\u3084\u3081\u308b\u306a\u3089\u4eca\u3060",
+        "url": "https://open.spotify.com/album/1FxYYHAFvn8HxkUJYDTeTi"
+      },
+      "artists": [
+        {
+          "name": "MOROHA",
+          "url": "https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY"
+        }
+      ],
+      "duration_ms": 261786,
+      "name": "\u3084\u3081\u308b\u306a\u3089\u4eca\u3060",
+      "url": "https://open.spotify.com/track/24moPNcVQ1zpt4vCMIi7ZQ"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -639,22 +639,18 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "LIKE A FIRST KISS",
-        "url": "https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM"
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
       },
       "artists": [
         {
-          "name": "HITOMITOI",
-          "url": "https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l"
-        },
-        {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 198078,
-      "name": "LIKE A FIRST KISS",
-      "url": "https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy"
+      "duration_ms": 157133,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -675,18 +671,22 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
+        "name": "LIKE A FIRST KISS",
+        "url": "https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "HITOMITOI",
+          "url": "https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l"
+        },
+        {
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
         }
       ],
-      "duration_ms": 157133,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
+      "duration_ms": 198078,
+      "name": "LIKE A FIRST KISS",
+      "url": "https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
-      },
-      "artists": [
-        {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
-        }
-      ],
-      "duration_ms": 314933,
-      "name": "\u518d\u751f",
-      "url": "https://open.spotify.com/track/0roAc68FRlR0RX0fHXjDpC"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "\u4f59\u97fb",
         "url": "https://open.spotify.com/album/4EqQmG1fJ3GQ36FfonkaGp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 246858,
       "name": "\u4f59\u97fb",
       "url": "https://open.spotify.com/track/6IXpfkYDZG9HduKQ4PEI7c"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "duration_ms": 314933,
+      "name": "\u518d\u751f",
+      "url": "https://open.spotify.com/track/0roAc68FRlR0RX0fHXjDpC"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "\u706b\u9b45\u87f2",
-        "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "\u706b\u9b45\u87f2",
-      "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
         "url": "https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 251522,
       "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
       "url": "https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "\u706b\u9b45\u87f2",
+        "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "\u706b\u9b45\u87f2",
+      "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "\u65e5\u8755",
-        "url": "https://open.spotify.com/album/6QZeC1bldtQG8LvsrdNx1a"
-      },
-      "artists": [
-        {
-          "name": "downy",
-          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "\u65e5\u8755",
-      "url": "https://open.spotify.com/track/7tQ8dUcLAe1JUbD9tEx0DC"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
-        "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
-        "url": "https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 274750,
-      "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
-      "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "NOVA",
         "url": "https://open.spotify.com/album/0NJAsSYxzBK5LdYnRdVJo5"
       },
@@ -1159,6 +1127,54 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
+        "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
+        "url": "https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 274750,
+      "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
+      "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "\u65e5\u8755",
+        "url": "https://open.spotify.com/album/6QZeC1bldtQG8LvsrdNx1a"
+      },
+      "artists": [
+        {
+          "name": "downy",
+          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "\u65e5\u8755",
+      "url": "https://open.spotify.com/track/7tQ8dUcLAe1JUbD9tEx0DC"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "Karakara",
+        "url": "https://open.spotify.com/album/0z6RxvvDXIz33aQhLtyFcH"
+      },
+      "artists": [
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Karakara",
+      "url": "https://open.spotify.com/track/04zteh0RRRlTsTp54sId8I"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
         "name": "EMPT MILE",
         "url": "https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "Oppressed",
-        "url": "https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ"
-      },
-      "artists": [
-        {
-          "name": "yuragi",
-          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
-        }
-      ],
-      "duration_ms": 315153,
-      "name": "Oppressed",
-      "url": "https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "Genie",
         "url": "https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU"
       },
@@ -1211,6 +1211,38 @@
       "duration_ms": 193570,
       "name": "Genie",
       "url": "https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "Oppressed",
+        "url": "https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ"
+      },
+      "artists": [
+        {
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+        }
+      ],
+      "duration_ms": 315153,
+      "name": "Oppressed",
+      "url": "https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h"
+    },
+    {
+      "added_at": "2025-01-28 15:00:23",
+      "album": {
+        "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+        "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+      "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
     },
     {
       "added_at": "2025-01-28 15:00:23",
@@ -1239,22 +1271,6 @@
     {
       "added_at": "2025-01-28 15:00:23",
       "album": {
-        "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
-        "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
-      "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
         "name": "\u51fa\u81ea",
         "url": "https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M"
       },
@@ -1267,26 +1283,6 @@
       "duration_ms": 347551,
       "name": "\u51fa\u81ea",
       "url": "https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL"
-    },
-    {
-      "added_at": "2025-01-28 15:00:23",
-      "album": {
-        "name": "World's Famous",
-        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
-      },
-      "artists": [
-        {
-          "name": "DJ KOCO aka SHIMOKITA",
-          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
-        },
-        {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
-        }
-      ],
-      "duration_ms": 191747,
-      "name": "World's Famous",
-      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
     }
   ],
   "unique_name": "Edge!",

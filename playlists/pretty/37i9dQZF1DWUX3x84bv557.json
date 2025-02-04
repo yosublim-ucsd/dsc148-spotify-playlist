@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Numidia",
-  "num_followers": 165260,
+  "num_followers": 246479,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5wEfQAAAADQ6SRF+tksNUjhrmDHIJED",
+  "snapshot_id": "Z6DHmwAAAACHVyDo7p1LIAOauabzRCps",
   "tracks": [
     {
       "added_at": "2025-01-30 23:00:13",
@@ -23,22 +23,6 @@
       "duration_ms": 199108,
       "name": "Eenzame Nacht",
       "url": "https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI"
-    },
-    {
-      "added_at": "2025-01-30 23:00:13",
-      "album": {
-        "name": "Als Ik Je Later Weer Zie",
-        "url": "https://open.spotify.com/album/37gH35rFNpAHYFUtQqQpJ4"
-      },
-      "artists": [
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Als Ik Je Later Weer Zie",
-      "url": "https://open.spotify.com/track/7day754wnySWAD13AGVZM2"
     },
     {
       "added_at": "2025-01-30 23:00:13",
@@ -63,6 +47,22 @@
     {
       "added_at": "2025-01-30 23:00:13",
       "album": {
+        "name": "Als Ik Je Later Weer Zie",
+        "url": "https://open.spotify.com/album/37gH35rFNpAHYFUtQqQpJ4"
+      },
+      "artists": [
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Als Ik Je Later Weer Zie",
+      "url": "https://open.spotify.com/track/7day754wnySWAD13AGVZM2"
+    },
+    {
+      "added_at": "2025-01-30 23:00:13",
+      "album": {
         "name": "Ga Dan!",
         "url": "https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv"
       },
@@ -75,22 +75,6 @@
       "duration_ms": 137999,
       "name": "Ga Dan!",
       "url": "https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa"
-    },
-    {
-      "added_at": "2025-01-30 23:00:13",
-      "album": {
-        "name": "101 Redenen",
-        "url": "https://open.spotify.com/album/7Hk7GY0QhDACpZSBRiiZom"
-      },
-      "artists": [
-        {
-          "name": "Nienke Leone",
-          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
-        }
-      ],
-      "duration_ms": 167494,
-      "name": "101 Redenen",
-      "url": "https://open.spotify.com/track/4CZb8qgRg8E69sABwMV8X2"
     },
     {
       "added_at": "2025-01-30 23:00:13",
@@ -119,22 +103,6 @@
     {
       "added_at": "2025-01-30 23:00:13",
       "album": {
-        "name": "Scherven",
-        "url": "https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Scherven",
-      "url": "https://open.spotify.com/track/14h13moB369WHcbOOjOY0z"
-    },
-    {
-      "added_at": "2025-01-30 23:00:13",
-      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj"
       },
@@ -151,6 +119,38 @@
       "duration_ms": 169756,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu"
+    },
+    {
+      "added_at": "2025-01-30 23:00:13",
+      "album": {
+        "name": "101 Redenen",
+        "url": "https://open.spotify.com/album/7Hk7GY0QhDACpZSBRiiZom"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "duration_ms": 167494,
+      "name": "101 Redenen",
+      "url": "https://open.spotify.com/track/4CZb8qgRg8E69sABwMV8X2"
+    },
+    {
+      "added_at": "2025-01-30 23:00:13",
+      "album": {
+        "name": "Scherven",
+        "url": "https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Scherven",
+      "url": "https://open.spotify.com/track/14h13moB369WHcbOOjOY0z"
     },
     {
       "added_at": "2025-01-30 23:00:13",

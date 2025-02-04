@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 668487,
+  "num_followers": 668542,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z51kAAAAAAC8buVBbYkZu8Pebf5z4ftt",
+  "snapshot_id": "Z561gAAAAADpSIqtigyWFyvzYYuPX2vz",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "An American Prayer",
-        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        },
         {
           "name": "The Doors",
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Ghost Song",
-      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
+      "duration_ms": 471160,
+      "name": "L.A. Woman",
+      "url": "https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn"
     },
     {
       "added_at": null,
@@ -223,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
       },
       "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
         {
           "name": "The Doors",
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 471160,
-      "name": "L.A. Woman",
-      "url": "https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn"
+      "duration_ms": 170666,
+      "name": "Ghost Song",
+      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
     },
     {
       "added_at": null,

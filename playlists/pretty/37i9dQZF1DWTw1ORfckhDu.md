@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,883 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,895 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kuka siin netis on](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka siin netis on](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 |
+| 1 | [Kuka Siin Netis On](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka Siin Netis On](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 |
 | 2 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 |
-| 3 | [Se Nainen](https://open.spotify.com/track/1KGRYDGIkt2DOwjXdPicxF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Se Nainen](https://open.spotify.com/album/1hdUbyu29r7EJEG5M9WIFr) | 2:50 |
-| 4 | [Eino Leino Bars \(feat\. Jami Faltin\)](https://open.spotify.com/track/5PkEmdlZA4wcLIH0Nv5VVa) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Eino Leino Bars \(feat\. Jami Faltin\)](https://open.spotify.com/album/7zICwE3Sgy0hZ0U2z2APoZ) | 3:22 |
-| 5 | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/track/7A2IHlYAKZuf8bflrCygqq) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36) | 2:10 |
-| 6 | [Paratiisi](https://open.spotify.com/track/51S0Hn25rALtlGLhylAWH7) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Paratiisi](https://open.spotify.com/album/2YzAWzSha2qcwYARqIsaxM) | 2:54 |
+| 3 | [Päivä joka meidät pilaa](https://open.spotify.com/track/7pas0lEEhW9FpmWkDJ260C) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Päivä joka meidät pilaa](https://open.spotify.com/album/3axhVDy2rJGw40hBlY7fh7) | 3:27 |
+| 4 | [Se Nainen](https://open.spotify.com/track/1KGRYDGIkt2DOwjXdPicxF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Se Nainen](https://open.spotify.com/album/1hdUbyu29r7EJEG5M9WIFr) | 2:50 |
+| 5 | [Eino Leino Bars \(feat\. Jami Faltin\)](https://open.spotify.com/track/5PkEmdlZA4wcLIH0Nv5VVa) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Eino Leino Bars \(feat\. Jami Faltin\)](https://open.spotify.com/album/7zICwE3Sgy0hZ0U2z2APoZ) | 3:22 |
+| 6 | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/track/7A2IHlYAKZuf8bflrCygqq) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36) | 2:10 |
 | 7 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
-| 8 | [FIRST DAY OUT](https://open.spotify.com/track/2jyAzORasictsDwMNyc0Jq) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [FIRST DAY OUT](https://open.spotify.com/album/3Bm5TiVOGxtaOEt6XzTbO7) | 2:24 |
-| 9 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
-| 10 | [Rehellisesti](https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rehellisesti](https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI) | 3:10 |
-| 11 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
-| 12 | [Willy Wonka Freestyle](https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Willy Wonka Freestyle](https://open.spotify.com/album/316Aav3ExDWznx8uLtnOtT) | 2:01 |
-| 13 | [Päivä joka meidät pilaa](https://open.spotify.com/track/7pas0lEEhW9FpmWkDJ260C) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Päivä joka meidät pilaa](https://open.spotify.com/album/3axhVDy2rJGw40hBlY7fh7) | 3:27 |
+| 8 | [Paratiisi](https://open.spotify.com/track/51S0Hn25rALtlGLhylAWH7) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Paratiisi](https://open.spotify.com/album/2YzAWzSha2qcwYARqIsaxM) | 2:54 |
+| 9 | [FIRST DAY OUT](https://open.spotify.com/track/2jyAzORasictsDwMNyc0Jq) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [FIRST DAY OUT](https://open.spotify.com/album/3Bm5TiVOGxtaOEt6XzTbO7) | 2:24 |
+| 10 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 11 | [Rehellisesti](https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rehellisesti](https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI) | 3:10 |
+| 12 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
+| 13 | [Willy Wonka Freestyle](https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Willy Wonka Freestyle](https://open.spotify.com/album/316Aav3ExDWznx8uLtnOtT) | 2:01 |
 | 14 | [Ympyrää](https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Ympyrää](https://open.spotify.com/album/53Z3cU90vVY3vAsH8ll3kj) | 2:25 |
 | 15 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
 | 16 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 50 | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/track/025yrw6g4e5OM4R9TpJqhQ) | [Rosvo](https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/album/27f3BuFXVj423LXp423lTd) | 2:46 |
 | 51 | [Kyl Sä Tiiät](https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kyl Sä Tiiät](https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0) | 2:49 |
 
-Snapshot ID: `Z55T7AAAAACZR+yXZz2vWCu36gMBnWVT`
+Snapshot ID: `Z6BuFQAAAAAG2+dvackRHQjaYE0oHYiq`

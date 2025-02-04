@@ -4,7 +4,7 @@
 
 > Melodies of the movement.
 
-112 songs - 9 hr 18 min
+113 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,11 +101,12 @@
 | [They Don't Care About Us](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:44 | 2024-02-01 |  |
 | [To Be Young, Gifted and Black](https://open.spotify.com/track/6B3H7aue15Ntp6sfQaH7wE) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:41 | 2024-02-01 | 2024-06-18 |
 | [True To The Game](https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 4:10 | 2024-02-01 | 2024-04-19 |
-| [True To The Game](https://open.spotify.com/track/44xsa6cvJWeoWPm3dA1mdP) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/0VoorTgcwMRROTmmZlxPSG) | 4:10 | 2024-02-06 |  |
+| [True To The Game](https://open.spotify.com/track/44xsa6cvJWeoWPm3dA1mdP) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/0VoorTgcwMRROTmmZlxPSG) | 4:10 | 2024-02-06 | 2025-02-04 |
 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 | 2024-02-01 |  |
 | [UMI Says](https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 5:05 | 2024-02-01 |  |
 | [Wake up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/763jJ8T1utfvNqz1WRDzx4) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody](https://open.spotify.com/album/6HEs5qnRcMu03zTSqMIdNM) | 7:31 | 2024-02-06 |  |
 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 | 2024-02-01 | 2024-04-19 |
+| [We Are One](https://open.spotify.com/track/4En1RHebOOiZlULe6qY0sF) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Slow Jams](https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG) | 6:27 | 2025-02-03 |  |
 | [We Are One \(feat\. A More Perfect Union\)](https://open.spotify.com/track/2DrtkKqEMnMsskLzl2QeoR) | [Barack Obama](https://open.spotify.com/artist/4FySKEW0F2fAmS8Jc5ClRv) | [Hope, Change and History \(Barack Obama's Greatest Speeches including Inaugural Oath and Address\)](https://open.spotify.com/album/4iwrI3d40QAX8ufR6ltAHO) | 4:38 | 2021-04-16 | 2024-02-02 |
 | [We Shall Overcome](https://open.spotify.com/track/5pTwWOOMfTOU2FOw89U5ua) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Sings the Best\-Loved Hymns of Dr\. Martin Luther King, Jr.](https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE) | 2:47 | 2021-04-16 | 2024-02-07 |
 | [We the People Who Are Darker Than Blue](https://open.spotify.com/track/6dSdoRdRIJ7fUvxDRq9Ln1) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 6:05 | 2024-02-01 |  |

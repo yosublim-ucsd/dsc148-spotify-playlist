@@ -8052,12 +8052,12 @@
       },
       "artists": [
         {
-          "name": "EHXIS",
-          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
         },
         {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/24Q9wu12ThAFhM4hKiQeq9"
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
         }
       ],
       "date_added": "2025-01-31",
@@ -28996,7 +28996,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 160000,
       "name": "Pra Se Entorpecer",
       "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
@@ -29912,6 +29912,28 @@
       "duration_ms": 142545,
       "name": "Putas e Drogas",
       "url": "https://open.spotify.com/track/6CjfzMj1BcNwNTxTPlKPoc"
+    },
+    {
+      "album": {
+        "name": "808 CLUB",
+        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "PUTO (feat. Alee)",
+      "url": "https://open.spotify.com/track/1mhgqpCAnVZarcA65K6L0h"
     },
     {
       "album": {

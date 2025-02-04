@@ -1,6 +1,6 @@
 {
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 255606,
+  "num_followers": 255591,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -48,8 +48,20 @@
       },
       "artists": [
         {
+          "name": "Adele Adkins",
+          "url": "https://open.spotify.com/artist/6HZ5IH5ksF7cs4mg0HQlSN"
+        },
+        {
+          "name": "Paul Epworth",
+          "url": "https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8"
+        },
+        {
           "name": "Adele",
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "duration_ms": 286480,

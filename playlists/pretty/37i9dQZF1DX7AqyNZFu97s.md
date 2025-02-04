@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Phoebe Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,540 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,555 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 9 | [Crush](https://open.spotify.com/track/75M3g2qnWgOiwaAdCEsDNz) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [Crush](https://open.spotify.com/album/5azJzrxPgl0z3tUZPDoJio) | 2:40 |
 | 10 | [Friends](https://open.spotify.com/track/2mxXLOyW1y7apDLidJnfjI) | [Gabby Martin](https://open.spotify.com/artist/2o2U1JlkmCsWDICkgOjrht) | [Friends](https://open.spotify.com/album/4oLtKEIjzUhqx7qZhPDurT) | 2:08 |
 | 11 | [Feel The Rush](https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Feel The Rush](https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0) | 3:13 |
-| 12 | [ocean](https://open.spotify.com/track/0438JvChCToYHZer7mdAZ9) | [Nancy Williams](https://open.spotify.com/artist/3XPQH2kwYIL317DxHeBzpu) | [you're like the ocean](https://open.spotify.com/album/4jtpzAJ5LofOxNnqvR0oob) | 3:43 |
+| 12 | [ocean](https://open.spotify.com/track/0438JvChCToYHZer7mdAZ9) | [Nancy Williams](https://open.spotify.com/artist/3XPQH2kwYIL317DxHeBzpu) | [ocean](https://open.spotify.com/album/4jtpzAJ5LofOxNnqvR0oob) | 3:43 |
 | 13 | [P POWER](https://open.spotify.com/track/4z17oaGI7YGrLZzuvvn9Ai) | [MADEINPARRIS](https://open.spotify.com/artist/2UiZpyNlTfTf1TX5pQ0cnU) | [P POWER](https://open.spotify.com/album/1xYdDMFvKdWpVej9OTVYUw) | 2:39 |
 | 14 | [Blind](https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU) | [Only Real](https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5) | [Blind](https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq) | 3:00 |
 | 15 | [THE GEARS](https://open.spotify.com/track/1YSJ2GO5SJmuGollbYZ8Vn) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [THE GEARS](https://open.spotify.com/album/7qk8WOrt4wE4JEnHZV2Fjb) | 3:02 |

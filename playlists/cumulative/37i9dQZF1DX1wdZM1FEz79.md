@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Sogaksogak\(소각소각\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Mingginyu\(밍기뉴\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-552 songs - 1 day 8 hr 47 min
+553 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 | 2021-12-10 |  |
 | [First Confession](https://open.spotify.com/track/449Oc8OI6gPZo8FFuCEYO2) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [First Confession](https://open.spotify.com/album/13AOgIWiuBJCMvAyBWW9SU) | 4:01 | 2024-05-10 | 2024-06-01 |
 | [First dance](https://open.spotify.com/track/6f7r1qCJBPZo5NubaKPipP) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 3:43 | 2022-03-31 | 2022-04-18 |
-| [First Night](https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [First Night](https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM) | 3:36 | 2025-01-09 |  |
+| [First Night](https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [First Night](https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM) | 3:36 | 2025-01-09 | 2025-02-04 |
 | [Flashback](https://open.spotify.com/track/48IH46gTbuyXsL5EjtRHxo) | [권결](https://open.spotify.com/artist/0jy3BB8xJVu7fuBeD9OolD) | [Flashback](https://open.spotify.com/album/5ZOFISUwly1UlG4k0dBL7i) | 2:40 | 2022-03-31 | 2022-04-16 |
 | [For a Long Time 오래도록 반짝이게](https://open.spotify.com/track/1iyrKf79eBRdPoxQ1zawzu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End of The Summer 새봄, 04 소품집 \`여름녘\`](https://open.spotify.com/album/0pgphJHEePy829QEVesrXs) | 4:03 | 2021-12-10 | 2022-07-29 |
 | [For Lovers who Hesitate](https://open.spotify.com/track/7DvYdIOzC25BqAucmEMa7K) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Adolescence](https://open.spotify.com/album/079llPxFVYSKxxOM4vbczw) | 3:44 | 2022-03-31 | 2022-04-21 |
@@ -146,6 +146,7 @@
 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 | 2021-12-10 |  |
 | [From Me To You](https://open.spotify.com/track/421hiNw7zfbeS9wALKMr5K) | [Oh Si Young](https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI) | [From Me To You](https://open.spotify.com/album/3GomXLTbqeK1piqSa7ryWW) | 3:45 | 2021-12-10 | 2022-04-19 |
 | [From Winter To Winter](https://open.spotify.com/track/704lNx7gCD6CooNMVp8tdl) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Seoul Check\-in OST Part 3](https://open.spotify.com/album/6RPncLDPcNlnuFrxLNGmFx) | 3:17 | 2022-05-02 | 2022-05-12 |
+| [Frost](https://open.spotify.com/track/67MOlOhWOxq2hiK32nphc9) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Naturous Album](https://open.spotify.com/album/6Ow6ZukVE8reCHVZU7W5NK) | 3:14 | 2025-02-03 |  |
 | [Fuel](https://open.spotify.com/track/0fzF35JGZANP4E3KKBNs6J) | [ASHER](https://open.spotify.com/artist/6fXfmVxyO2JZJApAM38BKl) | [FUEL](https://open.spotify.com/album/4SDu4Gt3aYP4uZaXR53R4e) | 3:59 | 2022-03-31 | 2022-04-04 |
 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2021-12-10 |  |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-03-21 | 2022-04-10 |
@@ -182,7 +183,7 @@
 | [How Is Your Night](https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/0fbVHkoxzHbm6RDa9IOUGC) | 4:23 | 2021-12-10 | 2022-07-29 |
 | [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 | 2022-07-08 | 2024-04-19 |
 | [Hug me](https://open.spotify.com/track/089QvCGproM6tZgdaszIBO) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Tempted OST Part.1](https://open.spotify.com/album/3MxpfwmQ1V40w1EGUetqWo) | 3:39 | 2022-03-31 | 2022-04-11 |
-| [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-24 |  |
+| [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-24 | 2025-02-04 |
 | [I can feel you](https://open.spotify.com/track/4ObaWDh9Kif34bIucjOnTR) | [Oneyears](https://open.spotify.com/artist/1KWw0DYl1RylWUmZUgTqkH) | [Taepung's Bride \(Original Soundtrack\), Pt.16](https://open.spotify.com/album/22JRozoTvxuojR9NsEkfmj) | 3:51 | 2023-01-11 | 2023-01-26 |
 | [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 | 2022-08-12 | 2022-08-19 |
 | [I guess it's like this](https://open.spotify.com/track/4qWNdhJCqHZUwis42ugD66) | [E Z Hyoung](https://open.spotify.com/artist/4vMoealzfru4Q1WOmi0aVs) | [I guess it's like this](https://open.spotify.com/album/3b5t5JOqloKBosUjcmfwbx) | 4:37 | 2022-02-10 | 2022-07-03 |
@@ -448,7 +449,7 @@
 | [This Love](https://open.spotify.com/track/7iIonwGw62P7Cg82PwNBqz) | [Cha So Yeon](https://open.spotify.com/artist/3OmSRBBbXUGwj7MsMsgJpk) | [This Love](https://open.spotify.com/album/1FjXRR4fRodEIfOklIyDKI) | 4:04 | 2022-03-31 | 2022-04-19 |
 | [Though I Want To Complain \(feat\. Lee Min Hyuk\)](https://open.spotify.com/track/0KSO2jskXjBIZqfutot8VT) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Though I Want To Complain \(feat\. Lee Min Hyuk\)](https://open.spotify.com/album/5ACynX9ZoIGr9qJydtRaiU) | 3:07 | 2022-03-31 | 2022-04-20 |
 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 | 2021-12-10 |  |
-| [Time’s Up](https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Interest of Love \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao) | 3:46 | 2023-01-25 | 2025-01-23 |
+| [Time’s Up](https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Interest of Love \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao) | 3:46 | 2023-01-25 |  |
 | [To All 서른에게 \- Guitar Ver](https://open.spotify.com/track/5ssqQrQJMNCXhp6F1gXd6r) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon So Hyun](https://open.spotify.com/artist/3jMgodiEy9ze7ksHxPkc9v) | [To All 서른에게](https://open.spotify.com/album/63M6yzXRbwWH3nW8ZdRlOZ) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [To Love You More](https://open.spotify.com/track/0wnFLe7zakzjBcw12cuyyP) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [To Love You More](https://open.spotify.com/album/7Kkti9u35dqFzI9rhqTLJn) | 4:06 | 2025-01-14 | 2025-01-25 |
 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2021-12-10 | 2022-05-15 |

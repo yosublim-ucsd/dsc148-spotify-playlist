@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 71141,
+  "num_followers": 71164,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z51kAAAAAADInkJkOY5s9gEQkuzt9s/i",
+  "snapshot_id": "Z561gAAAAAAqOBdHPUconh2V4XNr+Jhi",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Me Vuelvo Loco por Vos",
-      "url": "https://open.spotify.com/track/0HXYqKxtdHB9HLhjwPozcF"
+      "duration_ms": 209960,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/3okNQ9w68odjhNWXk6SY1n"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/3okNQ9w68odjhNWXk6SY1n"
+      "duration_ms": 292000,
+      "name": "Me Vuelvo Loco por Vos",
+      "url": "https://open.spotify.com/track/0HXYqKxtdHB9HLhjwPozcF"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Agarrate Fuerte",
-      "url": "https://open.spotify.com/track/3lUBSiPCNkJGVmd9jG6T39"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -531,13 +515,29 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Agarrate Fuerte",
+      "url": "https://open.spotify.com/track/3lUBSiPCNkJGVmd9jG6T39"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchachos",
         "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
       },
       "artists": [
         {
           "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/71gxXAsSxhzk7kQKjVbyDw"
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
         },
         {
           "name": "Vilma Palma e Vampiros",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Vintage Culture",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Fancy Inc, Teamworx",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 442500,
       "name": "Atmos",
       "url": "https://open.spotify.com/track/7KUZcM96eFDRllqP1obote"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 367058,
       "name": "Cigarettes (Techno Mix)",
       "url": "https://open.spotify.com/track/6RLehdIu6TH0nLYS45WjVG"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 221190,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/4yYc5agQLrzA1uJJat8EYe"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 242000,
       "name": "Deep End - VIP Mix",
       "url": "https://open.spotify.com/track/1ptHpULRhvFV3te7c58eJX"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 196829,
       "name": "Different Way",
       "url": "https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 172263,
       "name": "Disco Shit",
       "url": "https://open.spotify.com/track/6Od1L6369vboOOofSij7mj"
@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 158769,
       "name": "Everything To Lose",
       "url": "https://open.spotify.com/track/3lXUkAnDOEzxkxaCmv0jRZ"
@@ -4909,6 +4909,28 @@
     },
     {
       "album": {
+        "name": "Prismatic: Pack One",
+        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "album": {
         "name": "I Promise You - EP",
         "url": "https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA"
       },
@@ -5481,6 +5503,28 @@
     },
     {
       "album": {
+        "name": "Lapada",
+        "url": "https://open.spotify.com/album/55eaFqOnxlrFDWGgRcyQxG"
+      },
+      "artists": [
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255909,
+      "name": "Joga",
+      "url": "https://open.spotify.com/track/4R5ykfXBWAFk106m78VzdG"
+    },
+    {
+      "album": {
         "name": "Jolie Fille (feat. Layefa)",
         "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
       },
@@ -5556,6 +5600,32 @@
       "duration_ms": 157283,
       "name": "Just Like You Do",
       "url": "https://open.spotify.com/track/78nADVmhPNONKTed3XmuhW"
+    },
+    {
+      "album": {
+        "name": "Just Stay The Night",
+        "url": "https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192937,
+      "name": "Just Stay The Night",
+      "url": "https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u"
     },
     {
       "album": {
@@ -6878,7 +6948,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 200952,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1n7TLaImP9HxG4FkfuLmT9"
@@ -7360,7 +7430,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 122839,
       "name": "Never Letting Go",
       "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
@@ -7516,7 +7586,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 165581,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/0mUiwuaBeGHn2YFMRfeue2"
@@ -7666,7 +7736,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 259680,
       "name": "O Superman",
       "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"
@@ -8839,6 +8909,28 @@
     },
     {
       "album": {
+        "name": "Rock the Floor",
+        "url": "https://open.spotify.com/album/3y92Vab7bPABBKwz49yGkF"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Teamworx",
+          "url": "https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164791,
+      "name": "Rock the Floor",
+      "url": "https://open.spotify.com/track/1lz4gBRc57LjO9DaKmbP4Q"
+    },
+    {
+      "album": {
         "name": "Rubber",
         "url": "https://open.spotify.com/album/3Hlqhxneb4KFXGUsP2NEzg"
       },
@@ -9562,7 +9654,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 161463,
       "name": "Song Stuck In My Head",
       "url": "https://open.spotify.com/track/7AlcGsMJIwtZ24W2LObswT"
@@ -9834,7 +9926,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 191233,
       "name": "Still My Baby",
       "url": "https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"
@@ -11690,7 +11782,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 176129,
       "name": "You'll Be Mine",
       "url": "https://open.spotify.com/track/3A5f21zhjkjGj7wnXnJK3i"

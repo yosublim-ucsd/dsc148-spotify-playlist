@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Zach John King
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,637 likes - 220 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,683 likes - 220 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 6 | [Lie A Little](https://open.spotify.com/track/4pHBuaLIyipCuu141M3wM6) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Lie A Little](https://open.spotify.com/album/4oonRc26wyOvH3Uf0Ta0a1) | 2:37 |
 | 7 | [Stay Rowdy](https://open.spotify.com/track/55yhL8O36Ac414ZOJeJou9) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Stay Rowdy](https://open.spotify.com/album/5zRO6La6SzJYrdcODTLjxJ) | 3:07 |
 | 8 | [Get The Hell Out Of This Town](https://open.spotify.com/track/3wk3qPlDWa8gYNEtqPeosg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Get The Hell Out Of This Town](https://open.spotify.com/album/5niesz0tsaHb9YIaJs6Lv3) | 3:01 |
-| 9 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where To Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
+| 9 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
 | 10 | [Just Like That](https://open.spotify.com/track/72EKEjpuKafbjxUDUuXLTM) | [Clayton Johnson](https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9) | [Just Like That](https://open.spotify.com/album/0U8XAHwZlyrSgdx5JSSM7Q) | 2:31 |
 | 11 | [By Now](https://open.spotify.com/track/7uKsNldSb04DXI4mCr7xG0) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Imagine Cabin Sessions](https://open.spotify.com/album/4WsZoWexlzlzK9R2fn2qmZ) | 3:06 |
 | 12 | [Something Like Us](https://open.spotify.com/track/4oXRb08lRQS4OpQFQevlBo) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Something Like Us](https://open.spotify.com/album/0XZcK3GOdaCQ7i6MfvEMu2) | 2:44 |

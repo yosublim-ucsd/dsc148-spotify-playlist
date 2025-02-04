@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All new music with an Indie twist. Cover: Lucy Dacus",
+  "description": "All new music with an Indie twist. Cover: Tamino & Mitski",
   "name": "Indie Update",
   "tracks": [
     {
@@ -2131,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/1EThUat1SAzJmhm6AEnl8l"
+      },
+      "artists": [
+        {
+          "name": "Josephine Odhil",
+          "url": "https://open.spotify.com/artist/3dBiZ9QHHuXQhb1Ni8BAYl"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/4MjZwT2XVXjRn2gPYWbOLE"
+    },
+    {
+      "album": {
         "name": "Into Gold",
         "url": "https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW"
       },
@@ -2362,6 +2380,24 @@
       "duration_ms": 230909,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS"
+    },
+    {
+      "album": {
+        "name": "Let's Leave Together",
+        "url": "https://open.spotify.com/album/7J2HCZc3g9V0KAq2DhAo7b"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200740,
+      "name": "Let's Leave Together",
+      "url": "https://open.spotify.com/track/7xv3o3szm1R3zQDc95Q0eA"
     },
     {
       "album": {
@@ -3832,6 +3868,46 @@
       "duration_ms": 200506,
       "name": "Something In My Room",
       "url": "https://open.spotify.com/track/5CSWTPWy2JC0VOoqbnNq38"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Feel Great, Sometimes I Feel Useless",
+        "url": "https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf"
+      },
+      "artists": [
+        {
+          "name": "Mazey Haze",
+          "url": "https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229350,
+      "name": "Sometimes I Feel Great, Sometimes I Feel Useless",
+      "url": "https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe"
+    },
+    {
+      "album": {
+        "name": "Soon Enough",
+        "url": "https://open.spotify.com/album/1yKSFwdBR9cIacRT0FDegH"
+      },
+      "artists": [
+        {
+          "name": "King Viktor",
+          "url": "https://open.spotify.com/artist/4O8MbCzsOScPb5KzkE1bdI"
+        },
+        {
+          "name": "Eosine",
+          "url": "https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317055,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/0hF37RDD4gfMwgjbcbQgBY"
     },
     {
       "album": {

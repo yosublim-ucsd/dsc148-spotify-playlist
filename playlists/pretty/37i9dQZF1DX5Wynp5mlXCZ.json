@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: The Weeknd",
-  "num_followers": 9256,
+  "num_followers": 9267,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-31 07:00:20",
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2025-01-31 07:00:20",
+      "album": {
         "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2025-01-31 07:00:20",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "added_at": "2025-01-31 07:00:20",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2025-01-31 07:00:20",
       "album": {
-        "name": "\u0416\u0438\u0442\u0442\u044f",
-        "url": "https://open.spotify.com/album/1CzeqMvPbHCoyIuIJ1fbCG"
+        "name": "\u0422\u043e\u043d\u0443",
+        "url": "https://open.spotify.com/album/4rlPesNYp4JQhDnGFqgh0g"
       },
       "artists": [
         {
-          "name": "Wellboy",
-          "url": "https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz"
+          "name": "KAZKA",
+          "url": "https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw"
+        },
+        {
+          "name": "\u041c\u0423\u041b\u042c\u0422\u0418\u0422\u0420\u0415\u041a",
+          "url": "https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev"
         }
       ],
-      "duration_ms": 148200,
-      "name": "\u0416\u0438\u0442\u0442\u044f",
-      "url": "https://open.spotify.com/track/5FM6srcTfyye1n53lGeZil"
+      "duration_ms": 155478,
+      "name": "\u0422\u043e\u043d\u0443",
+      "url": "https://open.spotify.com/track/1X9e8ay2sRpWC3pxRJefMd"
     },
     {
       "added_at": "2025-01-31 07:00:20",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2025-01-31 07:00:20",
       "album": {
-        "name": "\u0422\u043e\u043d\u0443",
-        "url": "https://open.spotify.com/album/4rlPesNYp4JQhDnGFqgh0g"
+        "name": "\u0416\u0438\u0442\u0442\u044f",
+        "url": "https://open.spotify.com/album/1CzeqMvPbHCoyIuIJ1fbCG"
       },
       "artists": [
         {
-          "name": "KAZKA",
-          "url": "https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw"
-        },
-        {
-          "name": "\u041c\u0423\u041b\u042c\u0422\u0418\u0422\u0420\u0415\u041a",
-          "url": "https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev"
+          "name": "Wellboy",
+          "url": "https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz"
         }
       ],
-      "duration_ms": 155478,
-      "name": "\u0422\u043e\u043d\u0443",
-      "url": "https://open.spotify.com/track/1X9e8ay2sRpWC3pxRJefMd"
+      "duration_ms": 148200,
+      "name": "\u0416\u0438\u0442\u0442\u044f",
+      "url": "https://open.spotify.com/track/5FM6srcTfyye1n53lGeZil"
     },
     {
       "added_at": "2025-01-31 07:00:20",

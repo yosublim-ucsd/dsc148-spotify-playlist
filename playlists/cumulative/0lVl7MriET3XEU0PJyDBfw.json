@@ -559,6 +559,28 @@
     },
     {
       "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/7vJotFuRezyas881l9VzFa"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141890,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/1GVnmE2ODw8keauT29R2sG"
+    },
+    {
+      "album": {
         "name": "Gold Deeper, Vol. 16",
         "url": "https://open.spotify.com/album/4irYxeLoXcM4pDpXMMcZDL"
       },
@@ -2300,7 +2322,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 306525,
       "name": "Do You Know Where Your Children Are",
       "url": "https://open.spotify.com/track/5n3JQtxzFaGG00b154C3nQ"
@@ -3925,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Grindhouse",
+        "url": "https://open.spotify.com/album/2hmpO5xhgvo9EXM7JEUm5s"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/7ewecejRd83t9kq8gJEuPS"
+    },
+    {
+      "album": {
         "name": "Groovy Vibes",
         "url": "https://open.spotify.com/album/0omLB2VjyvSnEDvTfkXVT6"
       },
@@ -4910,7 +4950,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 263818,
       "name": "King Of Monaco",
       "url": "https://open.spotify.com/track/0m4CwaAQtQpx1TJNNOIBl7"
@@ -5238,7 +5278,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 185625,
       "name": "Lights Out - Radio Edit",
       "url": "https://open.spotify.com/track/1IDD9pR56Z9Pwdvb5CdHFI"
@@ -5308,7 +5348,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 290322,
       "name": "Little Red",
       "url": "https://open.spotify.com/track/3jv7AenlUxZ9VCyNlusIqU"
@@ -5875,6 +5915,28 @@
     },
     {
       "album": {
+        "name": "Mueve Mami",
+        "url": "https://open.spotify.com/album/5v9jNYEv8LSfr3pgUUbx8S"
+      },
+      "artists": [
+        {
+          "name": "FAME Sounds",
+          "url": "https://open.spotify.com/artist/47gZgELu7feCG8NwdhoNF2"
+        },
+        {
+          "name": "Sean Swan",
+          "url": "https://open.spotify.com/artist/75N6hEuBA5kIJo876GItJC"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Mueve Mami",
+      "url": "https://open.spotify.com/track/4aB8jPrxszz9yvmyh7QTYw"
+    },
+    {
+      "album": {
         "name": "Litterbox 17",
         "url": "https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB"
       },
@@ -6180,6 +6242,28 @@
       "duration_ms": 158095,
       "name": "No Focus - Radio Edit",
       "url": "https://open.spotify.com/track/5kGJmUoQyFG5XjbPkzfd8v"
+    },
+    {
+      "album": {
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/5wwyIcBUZWmbAG7v7aLyiz"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120465,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/7I9BGzeW1ftuIMViPqRyeJ"
     },
     {
       "album": {
@@ -6674,7 +6758,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 203636,
       "name": "palm of my hands - Odd Mob Remix",
       "url": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
@@ -6772,7 +6856,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 199714,
       "name": "Percolator - Chris Lake Remix",
       "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
@@ -6954,7 +7038,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 120476,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/7tQM4R95uZpu02joUPNDAP"
@@ -7975,6 +8059,24 @@
     },
     {
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6ml2hCMoE7RFSaHhFt6Vfh"
+      },
+      "artists": [
+        {
+          "name": "VENGA",
+          "url": "https://open.spotify.com/artist/4SHOU5SKwu9LVOwGPHUotS"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5Oyb5GjMDGGiU4mZP8QCen"
+    },
+    {
+      "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9"
       },
@@ -8896,7 +8998,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 189193,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
@@ -9206,7 +9308,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 154615,
       "name": "The Sound Of House",
       "url": "https://open.spotify.com/track/5BqlPcXL7312zS0r6nr1nZ"
@@ -9286,6 +9388,24 @@
       "duration_ms": 209307,
       "name": "This Groove",
       "url": "https://open.spotify.com/track/3nu0zz6F1jHFi49hrrGMsL"
+    },
+    {
+      "album": {
+        "name": "This Is The",
+        "url": "https://open.spotify.com/album/2RKU7VTVtlv98OsmfpY6Pb"
+      },
+      "artists": [
+        {
+          "name": "THE HOTEL LOBBY",
+          "url": "https://open.spotify.com/artist/2bFpvoGZ1lD2HiAfE34Ypl"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "This Is The",
+      "url": "https://open.spotify.com/track/1xQ3jSTN3i8HR5qUXNohjD"
     },
     {
       "album": {
@@ -9591,6 +9711,36 @@
     },
     {
       "album": {
+        "name": "Turn Me Deeper",
+        "url": "https://open.spotify.com/album/114ruiIHc5HGyGG21g6epJ"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Turn Me Deeper",
+      "url": "https://open.spotify.com/track/2yxSoXjsfPfmKZ2VWGmf4J"
+    },
+    {
+      "album": {
         "name": "Give Me EP",
         "url": "https://open.spotify.com/album/7d27tyYSvvLK7WXkAT6r5D"
       },
@@ -9791,6 +9941,28 @@
     },
     {
       "album": {
+        "name": "Vibin\u2019",
+        "url": "https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167317,
+      "name": "Vibin'",
+      "url": "https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M"
+    },
+    {
+      "album": {
         "name": "Vibrate / On The Ground",
         "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
       },
@@ -9868,6 +10040,24 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "VSCO Girl",
+        "url": "https://open.spotify.com/album/3QLNIvwH0JN3Guk1Ivn93i"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "VSCO Girl",
+      "url": "https://open.spotify.com/track/0KIrc2e6NZEQOMhKhzf1JE"
     },
     {
       "album": {
@@ -10024,7 +10214,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 236190,
       "name": "Week Days",
       "url": "https://open.spotify.com/track/5tIIk1AhDhv2P3HfCtrXVX"
@@ -10282,6 +10472,28 @@
       "duration_ms": 216183,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/5ES5vJibEbJDLVENc5IMfo"
+    },
+    {
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/1jhMDPST130snbmr1Oe0Np"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216183,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI"
     },
     {
       "album": {

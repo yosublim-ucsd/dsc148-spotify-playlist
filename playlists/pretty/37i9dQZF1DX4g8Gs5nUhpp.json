@@ -1,32 +1,32 @@
 {
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Shiki",
-  "num_followers": 177518,
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Ph\u01b0\u01a1ng M\u1ef9 Chi",
+  "num_followers": 177532,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5+krgAAAABc5NrTAbN/lv3+3jmfW6nw",
+  "snapshot_id": "Z6D2HAAAAABwna7IBovrf4juYCqQUjFW",
   "tracks": [
     {
       "added_at": "2025-02-01 17:00:21",
       "album": {
-        "name": "L\u1eb7ng",
-        "url": "https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN"
+        "name": "\u0110\u1ea9y Xe B\u00f2",
+        "url": "https://open.spotify.com/album/5eZ9ZYzpJ6epSGHdxgszWG"
       },
       "artists": [
         {
-          "name": "Shiki",
-          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
         },
         {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
         }
       ],
-      "duration_ms": 152000,
-      "name": "1000 \u00c1nh M\u1eaft",
-      "url": "https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc"
+      "duration_ms": 165607,
+      "name": "\u0110\u1ea9y Xe B\u00f2",
+      "url": "https://open.spotify.com/track/4PBuCwrczgtyqxP8q6NTQW"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -36,29 +36,29 @@
       },
       "artists": [
         {
-          "name": "Shiki",
-          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
         }
       ],
-      "duration_ms": 19433,
-      "name": "Shiki ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/3VuldpoVezBPOWk17fIDD3"
+      "duration_ms": 15744,
+      "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/2qmkBh0X88lPpkxKCAe1Gq"
     },
     {
       "added_at": "2025-02-01 17:00:21",
       "album": {
-        "name": "N\u1ebfn V\u00e0 Hoa",
-        "url": "https://open.spotify.com/album/6E4LzmxAeQPB3wmuMyucNE"
+        "name": "Ch\u0103m Hoa",
+        "url": "https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan"
       },
       "artists": [
         {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
         }
       ],
-      "duration_ms": 166000,
-      "name": "N\u1ebfn V\u00e0 Hoa",
-      "url": "https://open.spotify.com/track/4S0uLMXRoAjFfIJOW7A8aW"
+      "duration_ms": 211111,
+      "name": "Ch\u0103m Hoa",
+      "url": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -68,13 +68,13 @@
       },
       "artists": [
         {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
         }
       ],
-      "duration_ms": 24333,
-      "name": "Rhymastic ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/2U1HZvkzXfRWLhekuAYBwq"
+      "duration_ms": 27611,
+      "name": "MONO ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/7FSeZzvh0l9OI8PXTxYOlD"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -107,106 +107,6 @@
       "duration_ms": 27097,
       "name": "D\u01b0\u01a1ng Domic ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/1iRwmL5MnetP5vqN0mEciQ"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "T\u1ebft \u0110\u1ebfn",
-        "url": "https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1"
-      },
-      "artists": [
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "T\u1ebft \u0110\u1ebfn",
-      "url": "https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 29718,
-      "name": "RHYDER ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Love is",
-        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 266758,
-      "name": "Love is",
-      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 29920,
-      "name": "Dangrangto ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/0hsaJPrFXiqzRf0eqgvMnG"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Tr\u1ea7n Th\u1ebf",
-        "url": "https://open.spotify.com/album/5Ex7sh2k1zqQa18Cso68dy"
-      },
-      "artists": [
-        {
-          "name": "Th\u1ec3 Thi\u00ean",
-          "url": "https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "SAIGONTEY",
-      "url": "https://open.spotify.com/track/1KxXkPa3hO9WZqiIiOb5TJ"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "Th\u1ec3 Thi\u00ean",
-          "url": "https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU"
-        }
-      ],
-      "duration_ms": 29461,
-      "name": "Th\u1ec3 Thi\u00ean ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/6z17WPPFRNtgZSox8f5pB2"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -419,18 +319,22 @@
     {
       "added_at": "2025-02-01 17:00:21",
       "album": {
-        "name": "\u0110\u01a1n S\u01a1",
-        "url": "https://open.spotify.com/album/6YamFmJV03DbgLtWD1BacM"
+        "name": "Tr\u1ea7n Th\u1ebf",
+        "url": "https://open.spotify.com/album/5Ex7sh2k1zqQa18Cso68dy"
       },
       "artists": [
         {
-          "name": "H\u00e0 L\u00ea",
-          "url": "https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U"
+          "name": "Th\u1ec3 Thi\u00ean",
+          "url": "https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 203606,
-      "name": "B\u01b0\u1edbc C\u00f9ng Nhau",
-      "url": "https://open.spotify.com/track/1PAeUvBRNBu9rluqCOpwr0"
+      "duration_ms": 177560,
+      "name": "SAIGONTEY",
+      "url": "https://open.spotify.com/track/1KxXkPa3hO9WZqiIiOb5TJ"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -440,45 +344,13 @@
       },
       "artists": [
         {
-          "name": "H\u00e0 L\u00ea",
-          "url": "https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U"
+          "name": "Th\u1ec3 Thi\u00ean",
+          "url": "https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU"
         }
       ],
-      "duration_ms": 29255,
-      "name": "H\u00e0 L\u00ea ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/4SQuokprVy9dkmclj1BzG6"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Ch\u0103m Hoa",
-        "url": "https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan"
-      },
-      "artists": [
-        {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
-        }
-      ],
-      "duration_ms": 211111,
-      "name": "Ch\u0103m Hoa",
-      "url": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
-        }
-      ],
-      "duration_ms": 27611,
-      "name": "MONO ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/7FSeZzvh0l9OI8PXTxYOlD"
+      "duration_ms": 29461,
+      "name": "Th\u1ec3 Thi\u00ean ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/6z17WPPFRNtgZSox8f5pB2"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -551,6 +423,74 @@
     {
       "added_at": "2025-02-01 17:00:21",
       "album": {
+        "name": "L\u1eb7ng",
+        "url": "https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN"
+      },
+      "artists": [
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "1000 \u00c1nh M\u1eaft",
+      "url": "https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        }
+      ],
+      "duration_ms": 19433,
+      "name": "Shiki ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/3VuldpoVezBPOWk17fIDD3"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "N\u1ebfn V\u00e0 Hoa",
+        "url": "https://open.spotify.com/album/6E4LzmxAeQPB3wmuMyucNE"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "N\u1ebfn V\u00e0 Hoa",
+      "url": "https://open.spotify.com/track/4S0uLMXRoAjFfIJOW7A8aW"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 24333,
+      "name": "Rhymastic ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/2U1HZvkzXfRWLhekuAYBwq"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
         "name": "\u1ea3",
         "url": "https://open.spotify.com/album/3zVOHT1NsTDeG4NyjZFlbA"
       },
@@ -583,6 +523,38 @@
     {
       "added_at": "2025-02-01 17:00:21",
       "album": {
+        "name": "Love is",
+        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 266758,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 29920,
+      "name": "Dangrangto ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/0hsaJPrFXiqzRf0eqgvMnG"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
         "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 (From \"\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\")",
         "url": "https://open.spotify.com/album/3bbkxOcKHeyfk2UnZbXu5J"
       },
@@ -611,6 +583,38 @@
       "duration_ms": 26090,
       "name": "Ng\u00f4 Lan H\u01b0\u01a1ng ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/0jSDADVknUqe9T8QodBGIe"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "T\u1ebft \u0110\u1ebfn",
+        "url": "https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "T\u1ebft \u0110\u1ebfn",
+      "url": "https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 29718,
+      "name": "RHYDER ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -651,6 +655,38 @@
     {
       "added_at": "2025-02-01 17:00:21",
       "album": {
+        "name": "\u0110\u01a1n S\u01a1",
+        "url": "https://open.spotify.com/album/6YamFmJV03DbgLtWD1BacM"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 L\u00ea",
+          "url": "https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U"
+        }
+      ],
+      "duration_ms": 203606,
+      "name": "B\u01b0\u1edbc C\u00f9ng Nhau",
+      "url": "https://open.spotify.com/track/1PAeUvBRNBu9rluqCOpwr0"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 L\u00ea",
+          "url": "https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U"
+        }
+      ],
+      "duration_ms": 29255,
+      "name": "H\u00e0 L\u00ea ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/4SQuokprVy9dkmclj1BzG6"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
         "name": "\u0110i Ch\u00f9a C\u1ea7u Duy\u00ean",
         "url": "https://open.spotify.com/album/7D7ZjTO0CTsYcXtEfHGH3i"
       },
@@ -679,42 +715,6 @@
       "duration_ms": 25353,
       "name": "\u0110\u1ee9c Ph\u00fac ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/5IKFKrV0VzmBDddhQnZ4ed"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "\u0110\u1ea9y Xe B\u00f2",
-        "url": "https://open.spotify.com/album/5eZ9ZYzpJ6epSGHdxgszWG"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
-          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
-        },
-        {
-          "name": "DTAP",
-          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
-        }
-      ],
-      "duration_ms": 165607,
-      "name": "\u0110\u1ea9y Xe B\u00f2",
-      "url": "https://open.spotify.com/track/4PBuCwrczgtyqxP8q6NTQW"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
-          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
-        }
-      ],
-      "duration_ms": 15744,
-      "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/2qmkBh0X88lPpkxKCAe1Gq"
     }
   ],
   "unique_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",

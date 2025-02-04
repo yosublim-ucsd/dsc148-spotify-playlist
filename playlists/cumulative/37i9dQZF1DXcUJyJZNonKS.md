@@ -4,7 +4,7 @@
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-181 songs - 10 hr 44 min
+183 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Zen](https://open.spotify.com/track/060MftY3uM3R3r1miNh9ys) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/2yehRSY8pf27Md0UT6T6uW) | 3:34 | 2025-01-24 |  |
 | [あいくらふと](https://open.spotify.com/track/1jE7oyUD2V1jlB0Dat0OpB) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [あいくらふと](https://open.spotify.com/album/7KbV2xSeJaDP9BXC1jBTWe) | 3:30 | 2025-01-17 |  |
 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 | 2024-08-19 | 2025-01-03 |
+| [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 | 2025-02-03 |  |
 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 | 2024-10-11 | 2025-01-18 |
 | [おどるポンポコリン](https://open.spotify.com/track/4lEB1tqILbUcCkUDdLvNSW) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [まるちゃんと仲間たち](https://open.spotify.com/artist/2baYbl0HvDdfNZMJptPx3w) | [おどるポンポコリン](https://open.spotify.com/album/5GKa7qrRZbLrlZmeERGuqp) | 3:17 | 2024-08-19 | 2025-01-03 |
 | [しあわせえぼりゅ～しょん♡ ～こむぎ＆いろはVer.～](https://open.spotify.com/track/4tlhanveDT1PSkcObablNG) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV), [後本萌葉](https://open.spotify.com/artist/7ibiDlu55lnB2tumGzajcc), [わんだふるぷりきゅあ！](https://open.spotify.com/artist/4eCEDhxN1YKL8KxRwzc3el) | [わんだふるぷりきゅあ！ 後期主題歌シングル【通常盤】](https://open.spotify.com/album/59T7BAUTd6LuzPkBeJbqI3) | 3:51 | 2024-10-04 |  |
@@ -165,7 +166,8 @@
 | [天使たちの歌 \- TVアニメ「義妹生活」オープニング主題歌](https://open.spotify.com/track/4bSY6LK4KNiTGdc0C8EYYk) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [天使たちの歌 \(TVアニメ「義妹生活」オープニング主題歌\)](https://open.spotify.com/album/2DmXlUHvWAFWpaOg8fsLCX) | 4:16 | 2024-08-19 | 2024-10-12 |
 | [島人ぬ宝](https://open.spotify.com/track/6dL8NuFHNta7HB6faNzUkE) | [ひーなー\(CV.鬼頭明里\)](https://open.spotify.com/artist/2sLgcsB91sV4RpYrUWBY53), [かーなー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/16zEQFZFTlfzyceqwJ1Ccy) | [「沖縄で好きになった子が方言すぎてツラすぎる」エンディングテーマ「島人ぬ宝」](https://open.spotify.com/album/7dRqXcduEl3oiUazuKuXv5) | 4:17 | 2025-01-04 |  |
 | [幸せのレシピ](https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [幸せのレシピ](https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL) | 3:12 | 2025-01-17 |  |
-| [恋人以上、好き未満 \- TV Size](https://open.spotify.com/track/7yRUwPAlgUo6o4y8UaoxBB) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [恋人以上、好き未満 \(TV Size\)](https://open.spotify.com/album/0s31YyQe1uTbyBRCKplrDN) | 1:29 | 2025-01-04 |  |
+| [恋人以上、好き未満 \- Full Size](https://open.spotify.com/track/2VZg2pEya7gPj7BOKhleVo) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [恋人以上、好き未満 \(Full Size\)](https://open.spotify.com/album/1Ad3UwKobAvz3HYdGvsj4V) | 4:28 | 2025-02-03 |  |
+| [恋人以上、好き未満 \- TV Size](https://open.spotify.com/track/7yRUwPAlgUo6o4y8UaoxBB) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [恋人以上、好き未満 \(TV Size\)](https://open.spotify.com/album/0s31YyQe1uTbyBRCKplrDN) | 1:29 | 2025-01-04 | 2025-02-04 |
 | [我がまま](https://open.spotify.com/track/0ExhkL9si3Vw5bNsam9afZ) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [我がまま](https://open.spotify.com/album/2V9pmBw32QOe2MzvHCKiGv) | 3:09 | 2024-08-19 | 2024-10-12 |
 | [承認欲求](https://open.spotify.com/track/4ZyBYGHz2pCHJGWfmqpjES) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [イト／承認欲求](https://open.spotify.com/album/6kOD85ibBpUSFBmnMfgmPY) | 3:45 | 2025-01-02 | 2025-01-25 |
 | [明日の私に幸あれ](https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [明日の私に幸あれ](https://open.spotify.com/album/4Ux2KbDwOZ4hkrzC3etcyn) | 3:34 | 2025-01-24 |  |

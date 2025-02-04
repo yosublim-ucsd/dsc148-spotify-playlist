@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -8690,7 +8690,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -10368,7 +10368,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -15244,6 +15244,24 @@
       "duration_ms": 269840,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/6zshlyKGsGYKeo5mCTTGZp"
+      },
+      "artists": [
+        {
+          "name": "Emilija",
+          "url": "https://open.spotify.com/artist/5Yg2ZMGPDP0QLT5KPtBrkB"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170678,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/74iMVumLgNcbPhM7Tccppr"
     },
     {
       "album": {
@@ -22618,7 +22636,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 220133,
       "name": "LVL",
       "url": "https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4"
@@ -22706,6 +22724,24 @@
       "duration_ms": 183698,
       "name": "L\u012bgo",
       "url": "https://open.spotify.com/track/1owVSpNQeb5sexFnLHB76N"
+    },
+    {
+      "album": {
+        "name": "L\u012aGO",
+        "url": "https://open.spotify.com/album/1MZkssIYncAhJJqdUKm5Vu"
+      },
+      "artists": [
+        {
+          "name": "The Ludvig",
+          "url": "https://open.spotify.com/artist/5LE9VWPq1OCM1cEx7F8gyT"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170814,
+      "name": "L\u012aGO",
+      "url": "https://open.spotify.com/track/4M4kzX6oHNOIekbx4QZqwY"
     },
     {
       "album": {
@@ -30768,7 +30804,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -31304,7 +31340,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -32051,6 +32087,24 @@
     },
     {
       "album": {
+        "name": "Romance Isn't Dead",
+        "url": "https://open.spotify.com/album/5ULp70ZEk7deTwaKtOjsPE"
+      },
+      "artists": [
+        {
+          "name": "Chris Noah",
+          "url": "https://open.spotify.com/artist/5kBCim1X0RmlHeisRncpQ4"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171367,
+      "name": "Romance Isn't Dead",
+      "url": "https://open.spotify.com/track/0YpkWMtsFKrvf2e2lB56V3"
+    },
+    {
+      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -32494,7 +32548,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -38773,6 +38827,28 @@
     },
     {
       "album": {
+        "name": "The Water",
+        "url": "https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox"
+      },
+      "artists": [
+        {
+          "name": "Bel Tempo",
+          "url": "https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx"
+    },
+    {
+      "album": {
         "name": "Hidden Stories",
         "url": "https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa"
       },
@@ -41160,7 +41236,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"

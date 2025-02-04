@@ -2969,6 +2969,32 @@
     },
     {
       "album": {
+        "name": "Sollisai Haters",
+        "url": "https://open.spotify.com/album/5fpeLYig2Dlh3DorpVXkfn"
+      },
+      "artists": [
+        {
+          "name": "Nigavithran",
+          "url": "https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf"
+        },
+        {
+          "name": "Mc Vijay Sandy",
+          "url": "https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV"
+        },
+        {
+          "name": "Mc Azy",
+          "url": "https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Sollisai Haters",
+      "url": "https://open.spotify.com/track/1mh0E5vVsDwSEkeziK7Z3H"
+    },
+    {
+      "album": {
         "name": "Stable In The Game",
         "url": "https://open.spotify.com/album/41z6TiF47cBMfGdzEd9PBr"
       },

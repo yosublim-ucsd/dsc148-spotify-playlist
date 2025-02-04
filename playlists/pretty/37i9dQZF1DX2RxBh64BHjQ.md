@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">G3 Gelo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,789,180 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,789,251 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 21 | [HEAT STICK](https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HEAT STICK](https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w) | 2:17 |
 | 22 | [Can't Get Right](https://open.spotify.com/track/7prcfanTLk3DCeER51hqd3) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Can't Get Right](https://open.spotify.com/album/0FdhSn9vahw0oyHSqsYDwE) | 2:17 |
 | 23 | [Viking](https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Saaheem](https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA) | 2:44 |
-| 24 | [TEKTIME](https://open.spotify.com/track/6YkhFMoq5oAFFkShLhkuOx) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 3:00 |
+| 24 | [TEKTIME](https://open.spotify.com/track/6YkhFMoq5oAFFkShLhkuOx) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 3:00 |
 | 25 | [Look Like](https://open.spotify.com/track/4jtF5coEPlEaoYzzr96iTE) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [Still Bussin](https://open.spotify.com/album/0WFYOaHjMHBtu4vuoiWdAt) | 2:56 |
 | 26 | [FREE SMURK OFNG](https://open.spotify.com/track/2x2W9oXb3aEKh0Ey0TaVOz) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [FREE SMURK OFNG](https://open.spotify.com/album/45x6Ld9RHaICXBk34MbTtY) | 3:19 |
 | 27 | [DUCKIN'](https://open.spotify.com/track/3RDm9iDnagNrWIoimEephO) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [DUCKIN'](https://open.spotify.com/album/7HR5kLSIqxIybzBrgbq73u) | 2:18 |

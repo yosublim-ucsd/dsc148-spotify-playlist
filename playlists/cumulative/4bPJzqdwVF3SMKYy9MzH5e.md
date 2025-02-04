@@ -4,7 +4,7 @@
 
 > 
 
-2,083 songs - 4 day 15 hr 47 min
+2,084 songs - 4 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -937,7 +937,7 @@
 | [I've Been Waiting \(w/ ILoveMakonnen & Fall Out Boy\)](https://open.spotify.com/track/2v5JTeM6hSmi5wWy7jiwrI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [I've Been Waiting \(w/ ILoveMakonnen & Fall Out Boy\)](https://open.spotify.com/album/4BQUTZlR3OMrBorJo1ahoY) | 3:53 | 2021-08-05 |  |
 | [I've Seen Footage](https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:22 | 2021-11-30 |  |
 | [I've Wasted So Much Time](https://open.spotify.com/track/2FNL28i0Q3RkwSYKK1aC42) | [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Deep Cuts \(2011\-2014\)](https://open.spotify.com/album/7BYdha593w1BAdWGBhmtVA) | 2:44 | 2023-06-06 |  |
-| [I\-E\-A\-I\-A\-I\-O](https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 3:08 | 2023-08-21 |  |
+| [I\-E\-A\-I\-A\-I\-O](https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5) | [Daron Malakian](https://open.spotify.com/artist/2MqLs2L4iNhAUNwJQwjmdm), [Shavo Odadjian](https://open.spotify.com/artist/0KnN84ZQ9NlLlLJOXf3Yr0), [Stu Phillips](https://open.spotify.com/artist/3qQJMaXGaP6E0EEXtqLIuh), [Glen Larson](https://open.spotify.com/artist/7fM84MEW7i52YKVtFmC8Vj), [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 3:08 | 2023-08-21 |  |
 | [Ibitbt](https://open.spotify.com/track/2xUJ4frQcK7zBbJSr1GcUY) | [3l3d3p](https://open.spotify.com/artist/1Q2WlUWRQZVxpBBO4UHRV5) | [Ibitbt](https://open.spotify.com/album/7fyHs2e9lEiaKDplqonw1M) | 2:24 | 2021-08-05 |  |
 | [Iceberg Lettuce](https://open.spotify.com/track/2y689dcKJJZXKRf0qlCVTB) | [hooligan chase](https://open.spotify.com/artist/2qSWeggSfTTkTaF4t4WFpF) | [Bodyache](https://open.spotify.com/album/5TXZaKrnd8rlBDthB2wKzv) | 3:02 | 2021-08-05 |  |
 | [idiota.zao](https://open.spotify.com/track/2YqCsO7Dr5Of6YcxoZ7Dey) | [kreevv](https://open.spotify.com/artist/3geVFRJvQS1HrJ9Xr1wovJ) | [idiota.zao](https://open.spotify.com/album/75IY9ftq0077pY3XRzld4f) | 2:09 | 2024-10-06 |  |
@@ -1107,6 +1107,7 @@
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2021-08-05 |  |
 | [Love Story](https://open.spotify.com/track/28iWca1I2wjlrkfiMMP0aL) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Love Story](https://open.spotify.com/album/0ao7Hy2A1MbyH8CccdzOgx) | 3:10 | 2021-08-05 |  |
 | [Love Taste](https://open.spotify.com/track/0XVoD3TmJVEYdRzZoe0Ewy) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [Jamie Paige](https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf), [Shiki\-TMNS](https://open.spotify.com/artist/433MAtNbNMBD9ErZQBBnXb) | [Love Taste](https://open.spotify.com/album/0r9YlVLiJf93hXHxCiJKCt) | 2:56 | 2022-06-10 |  |
+| [Love The Lows](https://open.spotify.com/track/7zMdkX1VNdKgSJPEti8OwT) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Love The Lows](https://open.spotify.com/album/50JKpF36EA6xWYomnonM8E) | 3:11 | 2025-02-03 |  |
 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2021-08-05 |  |
 | [Love?](https://open.spotify.com/track/4MVJvkKhoeLPH3BcssmVpC) | [Strapping Young Lad](https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy) | [Alien](https://open.spotify.com/album/6SS8I9qRTwh0tMdAYoTbat) | 4:53 | 2022-02-18 |  |
 | [LoveGame](https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 3:36 | 2022-10-28 |  |

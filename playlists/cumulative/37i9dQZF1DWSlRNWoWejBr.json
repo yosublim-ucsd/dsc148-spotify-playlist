@@ -1347,6 +1347,44 @@
     },
     {
       "album": {
+        "name": "Carnaval de Vagabundo",
+        "url": "https://open.spotify.com/album/4VFJVnV9tS6QUlRzL7HHRQ"
+      },
+      "artists": [
+        {
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "MC MENOR SG",
+          "url": "https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp"
+        },
+        {
+          "name": "Yndj\u00e3o",
+          "url": "https://open.spotify.com/artist/17MauDKLFFguNNCvF2d7FV"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204922,
+      "name": "Carnaval de Vagabundo",
+      "url": "https://open.spotify.com/track/3icqxaMN4E0XWv74LcKBKQ"
+    },
+    {
+      "album": {
         "name": "Carro Bicho",
         "url": "https://open.spotify.com/album/5vvNsqp5JoAaDeTo2IZpc8"
       },
@@ -1704,7 +1742,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 181333,
       "name": "De Menino Virou Little Hair",
       "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
@@ -7552,6 +7590,28 @@
       "duration_ms": 105461,
       "name": "Vou Morar no Cabar\u00e9",
       "url": "https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll"
+    },
+    {
+      "album": {
+        "name": "Vou Raspar Seu Bigodin",
+        "url": "https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Vou Raspar Seu Bigodin",
+      "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"
     },
     {
       "album": {

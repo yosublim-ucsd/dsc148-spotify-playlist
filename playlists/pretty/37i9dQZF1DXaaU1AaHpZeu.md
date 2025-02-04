@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con rusowsky en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,020 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,021 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 11 | [Setas](https://open.spotify.com/track/2YVbrru4KQDnT6mTdzdI9F) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [ASNO](https://open.spotify.com/album/1D40QmXB90LSSS0FSGs66y) | 2:58 |
 | 12 | [En modo bucle](https://open.spotify.com/track/2UPrUf6ZDUoPTHw5Am3Ns7) | [Novembre Elèctric](https://open.spotify.com/artist/0hwP1zFS6XO7kSohkYwUjT), [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [En modo bucle](https://open.spotify.com/album/1YQcfZwakxuCOMCa8uIoFm) | 3:34 |
 | 13 | [danito](https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [danito](https://open.spotify.com/album/2KKTCJwzwEeuEO8fOW8JeA) | 3:57 |
-| 14 | [Tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 |
+| 14 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 |
 | 15 | [Radio](https://open.spotify.com/track/2BLWnaYTJQCzgkwQ1CJvk7) | [Morgan](https://open.spotify.com/artist/5KtT4N5jkrPVRAIcJ8GmnV) | [HOTEL MORGAN](https://open.spotify.com/album/6RFZkL8rPHJeoKO4NCwUjE) | 5:44 |
 | 16 | [Room Service](https://open.spotify.com/track/19yzA9PaNcxNBDTddBIfpC) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP) | [Room Service](https://open.spotify.com/album/69rgOLzzSqS3ILNesy5mrJ) | 3:25 |
 | 17 | [el hilo](https://open.spotify.com/track/33rHLwegnvFV4RE8jSmf9E) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg) | [el hilo](https://open.spotify.com/album/6yB1rRRXJca0Uexu4UKobg) | 2:54 |

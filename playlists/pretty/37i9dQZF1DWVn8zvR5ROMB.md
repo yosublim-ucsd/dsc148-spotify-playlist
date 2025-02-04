@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Cole Swindell, Morgan Wallen, Rascal Flatts and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,504 likes - 67 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,698 likes - 67 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 12 | [Wanna Be Loved \- Live AF from Callaghan's](https://open.spotify.com/track/0i6cBiYs3lYv9L9QY8lqam) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ), [Western AF](https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK) | [The Red Clay Strays Live AF from Callaghan's](https://open.spotify.com/album/5XEmSSf4BV37rhjExwPALQ) | 3:49 |
 | 13 | [I Hope You Have a Daughter](https://open.spotify.com/track/6qIm5SK5Ug1t1tMaAkBHBs) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [I Hope You Have a Daughter](https://open.spotify.com/album/5KltqnnhS84lpD3dAa2AWT) | 3:26 |
 | 14 | [Around You](https://open.spotify.com/track/2xBD9IFDSEHKYBJnOVINeL) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Around You](https://open.spotify.com/album/2DjVglDAwN9ThKCqlwmGry) | 3:54 |
-| 15 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where To Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
+| 15 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
 | 16 | [I Gotcha](https://open.spotify.com/track/3MaqXGL9oeeEpUMnUvmd8P) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [I Gotcha](https://open.spotify.com/album/3piKZ5qp7Ngk8uDVnjoNWN) | 2:22 |
 | 17 | [Stay Rowdy](https://open.spotify.com/track/55yhL8O36Ac414ZOJeJou9) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Stay Rowdy](https://open.spotify.com/album/5zRO6La6SzJYrdcODTLjxJ) | 3:07 |
 | 18 | [Ain't Been Sober](https://open.spotify.com/track/5mxNfDsLPqxvmACqDHwSNZ) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Ain't Been Sober](https://open.spotify.com/album/7j3a0Mn48DOK9usNsNN7HN) | 3:31 |

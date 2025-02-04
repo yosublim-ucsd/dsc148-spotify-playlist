@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-4,819 songs - 10 day 15 hr 14 min
+4,820 songs - 10 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3167,6 +3167,7 @@
 | [Out Of Context](https://open.spotify.com/track/1V0jcxP0b0aKi1gw3b9SaB) | [Sunbather](https://open.spotify.com/artist/0lSrXS3AviAI69PscG7BM8) | [Out Of Context](https://open.spotify.com/album/7cujrGkC4hCZbUuumUQyEw) | 3:46 | 2021-10-16 | 2021-11-06 |
 | [Out of Control](https://open.spotify.com/track/5KPM2c5Ui7YVh5sukXUvOq) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [Out of Control](https://open.spotify.com/album/6K1c8zF0hnsK37wiwvMMmp) | 2:42 | 2024-05-24 | 2024-06-22 |
 | [OUT OF SIGHT](https://open.spotify.com/track/6a2POOrd49v2PW9RZkV6LD) | [YP](https://open.spotify.com/artist/69UmThngo84p8zzyAAMkGB), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [OUT OF SIGHT](https://open.spotify.com/album/5qdOHbi7GnkKVISrjGZ8iF) | 2:37 | 2022-02-11 | 2022-04-09 |
+| [Out on the Weekend](https://open.spotify.com/track/43GzGUJ0uP2QMelts2cRTI) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu), [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [Out on the Weekend](https://open.spotify.com/album/21O0wfdX76H6EgYbXlLHlR) | 3:02 | 2025-02-03 |  |
 | [Out the Game](https://open.spotify.com/track/3gofoqGJZxlzLFvOvhqDzp) | [Thony Wilson](https://open.spotify.com/artist/00v0NP6nOH6LkNIX5xbvJ2), [Tebi](https://open.spotify.com/artist/66gFLT5G2jdWvzIGNnjZON) | [Evolution](https://open.spotify.com/album/0bPBrfBKsINIjUai0VJxaD) | 3:30 | 2020-12-12 | 2020-12-18 |
 | [Outlook Drive](https://open.spotify.com/track/2KzsoukDO8x0ysUWpMbRjA) | [Yoshi the Spirit](https://open.spotify.com/artist/6zcjTldNZ90HxNQzaJBO8p), [Jiya Noina](https://open.spotify.com/artist/5rmYAIq4ong7rSgH6XKtQs) | [Outlook Drive](https://open.spotify.com/album/73czseIOgLxPAzW75RUpYL) | 3:13 | 2021-05-08 | 2021-05-22 |
 | [Outro Mundo](https://open.spotify.com/track/3HnJEC10c6kk425o1dfe7G) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Outro Mundo](https://open.spotify.com/album/0SUHNEaxw15bFZCVOInXNA) | 2:25 | 2023-01-27 | 2023-02-18 |

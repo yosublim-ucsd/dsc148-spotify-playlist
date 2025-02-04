@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 235125,
       "name": "A Daydream Come True",
       "url": "https://open.spotify.com/track/3xztZwk3GZiRiENHstatJC"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 211615,
       "name": "A Letter to Yesterday",
       "url": "https://open.spotify.com/track/7LkdwMWR0xyImej3bSrlpH"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 137322,
       "name": "Aloft",
       "url": "https://open.spotify.com/track/0CiU0z4zCOraHw7ilpFrkO"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 243890,
       "name": "Cameron Highlands",
       "url": "https://open.spotify.com/track/3wGFSUEf91QvBd3Gd4ogCa"
@@ -3755,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Chelsea Bridge",
+        "url": "https://open.spotify.com/album/2lAqufTyIWuxUWMtyFhCYW"
+      },
+      "artists": [
+        {
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/3b9A019SlClHPQ6aQi7qiB"
+    },
+    {
+      "album": {
         "name": "chemin de la lune",
         "url": "https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1"
       },
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 180000,
       "name": "Columbia Road",
       "url": "https://open.spotify.com/track/7oxb4wUGdTCmL3Q6fd7kNX"
@@ -5318,7 +5336,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 206505,
       "name": "East of the Sun (and West of the Moon)",
       "url": "https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK"
@@ -6218,7 +6236,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 204130,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/0sJNygfrqrAWhYZgYzUXyd"
@@ -7161,6 +7179,24 @@
     },
     {
       "album": {
+        "name": "Good Wishes and Everything",
+        "url": "https://open.spotify.com/album/3BWKPVXgj5sicro4DNLwZi"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210661,
+      "name": "Good Wishes and Everything",
+      "url": "https://open.spotify.com/track/0rhSC2LL96MnhUaBZoqGCJ"
+    },
+    {
+      "album": {
         "name": "Mingus Ah Um",
         "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
       },
@@ -8070,7 +8106,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212493,
       "name": "I Didn't Know About You",
       "url": "https://open.spotify.com/track/0tiIQkcdPcECxqbS9dgDXx"
@@ -8164,7 +8200,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 440133,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/2Smeb5R5N2aCYAi7cIhema"
@@ -9154,7 +9190,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 164431,
       "name": "In a quiet voice",
       "url": "https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx"
@@ -12648,7 +12684,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 257196,
       "name": "Misty",
       "url": "https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd"
@@ -14080,7 +14116,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 267688,
       "name": "Nocturnal Whispers",
       "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
@@ -16924,7 +16960,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 225328,
       "name": "Snowdrops",
       "url": "https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC"
@@ -19282,7 +19318,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 241202,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4pBClgKkrfAOJuvIn59nlL"
@@ -19430,7 +19466,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 318107,
       "name": "The Promise of Spring",
       "url": "https://open.spotify.com/track/5MM3iDrZqnCs1W44bHeyb7"
@@ -19658,7 +19694,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 304293,
       "name": "Theme For Ernie",
       "url": "https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO"
@@ -20080,7 +20116,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 158581,
       "name": "Through Silence",
       "url": "https://open.spotify.com/track/7zKgBZ0O97OFSJ9fIjPHgS"
@@ -20784,7 +20820,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263912,
       "name": "Under A Smiling Moon",
       "url": "https://open.spotify.com/track/0I4boD33TLuWNt7kskm3KY"
@@ -21928,7 +21964,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286066,
       "name": "Who Could Care",
       "url": "https://open.spotify.com/track/2SzfUlXBgyYKTJMPbbqPw7"

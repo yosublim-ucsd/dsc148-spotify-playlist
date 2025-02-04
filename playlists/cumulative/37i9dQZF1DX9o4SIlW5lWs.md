@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
-509 songs - 1 day 4 hr 54 min
+510 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Escapate Conmigo](https://open.spotify.com/track/1qArUAxHiNOkigGwOLoMAF) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Ya No Llores](https://open.spotify.com/album/7lwRCZvuiKzDc0v9n0Nb5i) | 3:09 | 2022-01-14 | 2022-07-29 |
 | [Esperandote](https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Esperandote](https://open.spotify.com/album/30lzvxFlN1pmaa0NqUSvZ1) | 3:48 | 2022-01-21 | 2022-07-17 |
 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 | 2022-01-14 | 2022-10-07 |
+| [Estaba Aquí Pensando](https://open.spotify.com/track/3KLJ5whtoUtU410ngf5Rzu) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub), [Aneley](https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ) | [Estaba Aquí Pensando](https://open.spotify.com/album/5nTyYQMVF86WvS91opGkUa) | 2:44 | 2025-01-24 |  |
 | [Estos Celos](https://open.spotify.com/track/6gLbjubs9mWaigVoUlqVwB) | [Mr\. Gato](https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO), [Franco Arroyo](https://open.spotify.com/artist/5QnY6Cap0lhIH7joetHu6q) | [Estos Celos](https://open.spotify.com/album/4mVrLgRnbUm3OnKuFtGzPM) | 3:53 | 2024-06-21 | 2024-08-31 |
 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2022-01-14 | 2023-10-30 |
 | [Extraño](https://open.spotify.com/track/2Ydtfox8U5t2rob7alFqS0) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Extraño](https://open.spotify.com/album/7vuYSvs3KzgnvIN2xo78Xk) | 2:07 | 2022-03-11 | 2022-04-19 |
@@ -216,7 +217,7 @@
 | [La Cita](https://open.spotify.com/track/2IjUAcbiHBT6peOmILkLoV) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36) | 4:18 | 2022-01-14 | 2022-07-29 |
 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 | 2022-07-22 | 2024-04-19 |
 | [La Estrategia](https://open.spotify.com/track/7rwBT0s2G44oK66I3cCzf4) | [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [La Estrategia](https://open.spotify.com/album/4RhpW9N4X7ukSSSz0u8keA) | 3:17 | 2022-03-18 | 2022-06-03 |
-| [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 | 2024-03-08 |  |
+| [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 | 2024-03-08 | 2025-02-04 |
 | [La Mejor De Todas](https://open.spotify.com/track/1AzjlvmSsC7ULBPHLCmHL7) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [La Mejor de Todas](https://open.spotify.com/album/1zfJFT7uRTwtw1ltjTSfNS) | 2:27 | 2024-11-01 |  |
 | [La Mitad](https://open.spotify.com/track/1n0TUKFvT1C9u2saSdZlIA) | [Laura Rous](https://open.spotify.com/artist/7wOkY1qB4dkbIs0fsw12Zg), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [La Mitad](https://open.spotify.com/album/7hEQGmeTuNe2493OL3I2ib) | 2:50 | 2023-04-07 | 2023-04-12 |
 | [La Rutina](https://open.spotify.com/track/6C094RYoKyovRnKMBTM3wD) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [La Rutina](https://open.spotify.com/album/4XyfsuL6Qn0afy1fAQmbzQ) | 2:46 | 2022-02-04 | 2022-06-27 |

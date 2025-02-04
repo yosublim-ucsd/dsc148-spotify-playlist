@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,156 likes - 124 songs - 6 hr 43 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,152 likes - 124 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 13 | [Code Red \- Skeler Vision](https://open.spotify.com/track/6gBOAEQZyxwZebEbtuHiW9) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Code Red \- Skeler Vision](https://open.spotify.com/album/1YeCWn6FG9hJhLHtjUGLl8) | 2:29 |
 | 14 | [MAMI](https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [MAMI](https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu) | 1:50 |
 | 15 | [Never Let U Go](https://open.spotify.com/track/0ksv0OPKcAF4Q8WL4zHXMF) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O), [MCYL](https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr) | [Never Let U Go](https://open.spotify.com/album/7q5xOVqeUKnTC8rMhXbKNA) | 2:45 |
-| 16 | [Wish I Could Forget \(Saka Remix\)](https://open.spotify.com/track/3lg5lEyqRCsjY9rnf8yDOZ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Wish I Could Forget \(The Remixes\)](https://open.spotify.com/album/3zbQEtp9rjLHC41HrAunTn) | 3:46 |
+| 16 | [Wish I Could Forget \- Saka Remix](https://open.spotify.com/track/3lg5lEyqRCsjY9rnf8yDOZ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Wish I Could Forget \(The Remixes\)](https://open.spotify.com/album/3zbQEtp9rjLHC41HrAunTn) | 3:46 |
 | 17 | [FRANKFURT](https://open.spotify.com/track/6vZ7b9NoY2kMpY5u0a2sdo) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Salvador Breed](https://open.spotify.com/artist/22xd8bAvjsXYYN3iGH2OwA), [VIER](https://open.spotify.com/artist/4dU80Fb1kJfjhzcm7pdoTZ) | [FRANKFURT](https://open.spotify.com/album/66fsc5he99SHwmMI8Plmoi) | 4:30 |
 | 18 | [Bulls On Parade](https://open.spotify.com/track/4PtONawB6HCSMlOwogcSO1) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Bulls On Parade](https://open.spotify.com/album/5evME0KeRdCDEUpU4Hk1Ai) | 3:19 |
 | 19 | [Pecadora](https://open.spotify.com/track/4zDcTEkfMzfoca4Ddo4lRe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Pecadora](https://open.spotify.com/album/58lHkFd6stmMU1v2Bz3Fro) | 2:50 |

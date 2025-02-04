@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-333 songs - 20 hr 4 min
+334 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Anukokunda](https://open.spotify.com/track/3SSAFT9NPbQTTAT8cKCuyD) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Anukokunda](https://open.spotify.com/album/3mmudJUHwELNQuiaLsAOMY) | 2:50 | 2024-07-25 | 2024-10-11 |
 | [Ayyayyo](https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Ayyayyo](https://open.spotify.com/album/6rhrJYqtqsse4H6b5gVoTB) | 4:30 | 2023-03-17 | 2024-01-03 |
 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 | 2024-02-14 |  |
+| [Badlove](https://open.spotify.com/track/4JKJkslEo77sWeJ5dAAIxp) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [Badlove](https://open.spotify.com/album/6KbFNnagvVLfTGYRrqvS2L) | 3:20 | 2025-02-03 |  |
 | [Beach Road Melody](https://open.spotify.com/track/0MbZn4qAeUUDKYhJiE8z0T) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Beach Road Melody](https://open.spotify.com/album/5ezBMNOkmFeF5KLdBB5qch) | 1:37 | 2024-04-25 | 2024-05-09 |
 | [Befikr Maama](https://open.spotify.com/track/4BkVCo1tvqkr9Px00GISlZ) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Befikr Maama](https://open.spotify.com/album/5Gn4r9bX0z3jYM1oY6B7h5) | 2:58 | 2023-05-16 | 2024-06-22 |
 | [Bhoo Bandham](https://open.spotify.com/track/4UXkFdFmKnkZP6gcF3rb3a) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Bhoo Bandham](https://open.spotify.com/album/1BpORTZsYI1axbf7yr5DBM) | 5:38 | 2023-11-07 | 2023-12-02 |
@@ -284,7 +285,7 @@
 | [Sitakokaciluka](https://open.spotify.com/track/0fWRLW7TcgYJ2M4vTuIzo3) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/7yuHkxh8ZUvYEnFhw2T5Pu) | 3:57 | 2023-09-11 | 2024-04-19 |
 | [Sitakokaciluka](https://open.spotify.com/track/78qGxoitQzG6JnamlP1bjN) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/1535QxiyC32YhsagUl8Wkm) | 3:57 | 2023-09-11 | 2024-07-02 |
 | [SMILE](https://open.spotify.com/track/0EBWSWotjdbyB719e4wXaT) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [SMILE](https://open.spotify.com/album/7baTThbApOZvuoLI7D7fYh) | 2:52 | 2024-11-06 | 2024-12-21 |
-| [Soul Saga](https://open.spotify.com/track/6K1q7Q70tHMSREEDd76DUR) | [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV) | [Soul Saga](https://open.spotify.com/album/18b6W0d45fexeM3G2ilGy1) | 3:43 | 2024-08-19 |  |
+| [Soul Saga](https://open.spotify.com/track/6K1q7Q70tHMSREEDd76DUR) | [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV) | [Soul Saga](https://open.spotify.com/album/18b6W0d45fexeM3G2ilGy1) | 3:43 | 2024-08-19 | 2025-02-04 |
 | [Soundarya Lahari](https://open.spotify.com/track/6UF17wbA3lGZnmtC5SQzZX) | [Anirudh Joshi](https://open.spotify.com/artist/6AqbTkpCtH1Tb8hwGgIC7l) | [Soundarya Lahari](https://open.spotify.com/album/2GqhuwmW6iptfgG0p2Zvuy) | 2:58 | 2024-11-25 | 2025-01-31 |
 | [Star](https://open.spotify.com/track/1XVSdHxrg2AnrTLKENA9RR) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Star](https://open.spotify.com/album/3mH1z3FmGyrrpOjMKcjDJJ) | 2:38 | 2023-03-23 | 2023-05-23 |
 | [Style \- Maati S1](https://open.spotify.com/track/19KVxEylhMbJ0tF4HSTZGs) | [Ajay Jayanthi](https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Style \(Maati S1\)](https://open.spotify.com/album/76lV7F4gIKw9rY14cI89FO) | 3:04 | 2024-10-16 |  |

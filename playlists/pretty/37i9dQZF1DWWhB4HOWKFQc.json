@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Danilla, Hindia",
-  "num_followers": 1371252,
+  "num_followers": 1371707,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xK1QAAAAAlGTUQ1uXaU863iczXJiUW",
+  "snapshot_id": "Z6BNYgAAAAAqs/GlijN51AMbhnWWjs7g",
   "tracks": [
     {
       "added_at": "2025-01-31 04:00:21",
@@ -179,6 +179,38 @@
       "duration_ms": 211301,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/1rwGbGLDE0AkaH1UgUbufL"
+    },
+    {
+      "added_at": "2025-02-03 05:00:18",
+      "album": {
+        "name": "Laut",
+        "url": "https://open.spotify.com/album/2rzYi0p2uiYJqPbDii7flj"
+      },
+      "artists": [
+        {
+          "name": "Midnight Serenade",
+          "url": "https://open.spotify.com/artist/54W9oHAP8OcFEkPgzm8Os2"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Laut",
+      "url": "https://open.spotify.com/track/0v0XEH9pzcIPKrehl914ky"
+    },
+    {
+      "added_at": "2025-02-03 05:00:18",
+      "album": {
+        "name": "Teruntuk Mia",
+        "url": "https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG"
+      },
+      "artists": [
+        {
+          "name": "Nuh...",
+          "url": "https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT"
+        }
+      ],
+      "duration_ms": 196090,
+      "name": "Teruntuk Mia",
+      "url": "https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B"
     },
     {
       "added_at": "2025-01-31 04:00:21",

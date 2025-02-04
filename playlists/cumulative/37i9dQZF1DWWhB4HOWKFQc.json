@@ -8141,6 +8141,24 @@
     },
     {
       "album": {
+        "name": "Laut",
+        "url": "https://open.spotify.com/album/2rzYi0p2uiYJqPbDii7flj"
+      },
+      "artists": [
+        {
+          "name": "Midnight Serenade",
+          "url": "https://open.spotify.com/artist/54W9oHAP8OcFEkPgzm8Os2"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Laut",
+      "url": "https://open.spotify.com/track/0v0XEH9pzcIPKrehl914ky"
+    },
+    {
+      "album": {
         "name": "JxW 1st Single Album 'THIS MAN'",
         "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
       },
@@ -15738,6 +15756,24 @@
       "duration_ms": 232100,
       "name": "Tertunda",
       "url": "https://open.spotify.com/track/5BN10Fpx563bPV5Bs6Ogv3"
+    },
+    {
+      "album": {
+        "name": "Teruntuk Mia",
+        "url": "https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG"
+      },
+      "artists": [
+        {
+          "name": "Nuh...",
+          "url": "https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196090,
+      "name": "Teruntuk Mia",
+      "url": "https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B"
     },
     {
       "album": {

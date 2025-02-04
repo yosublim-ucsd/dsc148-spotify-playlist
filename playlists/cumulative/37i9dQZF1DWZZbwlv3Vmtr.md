@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,001 songs - 1 day 14 hr 47 min
+1,002 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,6 +804,7 @@
 | [Star Guard](https://open.spotify.com/track/65j5nUIrMp1b0hE0y2hyN8) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB) | [Star Guard](https://open.spotify.com/album/7v4q39gP6Pj0PDXzlMd0a3) | 1:48 | 2022-12-09 | 2023-11-17 |
 | [Star Guard](https://open.spotify.com/track/032qJaBqhCnu91uv5CrI9F) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB) | [Star Guard](https://open.spotify.com/album/2cf3QBUSta0629BNlOvDYG) | 1:48 | 2022-11-11 | 2022-12-15 |
 | [starry nights](https://open.spotify.com/track/6JLCZPbRojiFATBFRoIFFR) | [Halon Alo](https://open.spotify.com/artist/6mV4xWgIKInX3SxE370eQQ) | [starry nights](https://open.spotify.com/album/710hEZOm9sL0Y0imd7Qj1b) | 3:00 | 2024-03-08 |  |
+| [stay closer](https://open.spotify.com/track/26d8n4MjhZNopkmZKqCHM0) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [stay closer](https://open.spotify.com/album/5pSHFnyIyAM9LWI2CtGXhJ) | 2:05 | 2025-01-31 |  |
 | [Staying Inside Tonight](https://open.spotify.com/track/5Wkh4tytIpCave04bDIr58) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:09 | 2022-04-15 | 2022-07-08 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-04-15 | 2022-04-22 |
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-04-15 |  |
@@ -828,7 +829,7 @@
 | [Summer Soul](https://open.spotify.com/track/2N4cy1qVpWs4FV625FcVJG) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Summer Soul](https://open.spotify.com/album/0xchkEyuHD2rvQmUO55l2a) | 2:16 | 2023-01-06 |  |
 | [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2022-04-15 | 2022-04-22 |
 | [Sunbake](https://open.spotify.com/track/13dSHGSpq8LoJe4YesGKSr) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sunbake](https://open.spotify.com/album/1vNX82DA1f0PLCNIdJaJ9P) | 2:04 | 2022-04-15 | 2023-10-13 |
-| [Sunday](https://open.spotify.com/track/71e14NqXbs73muybtabMjJ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Sunday](https://open.spotify.com/album/2GY7OcR4K6JftC80zFMrK0) | 3:48 | 2023-09-08 |  |
+| [Sunday](https://open.spotify.com/track/71e14NqXbs73muybtabMjJ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Sunday](https://open.spotify.com/album/2GY7OcR4K6JftC80zFMrK0) | 3:48 | 2023-09-08 | 2025-02-04 |
 | [Sunday Stroll](https://open.spotify.com/track/59X5tZsRdrmuj12YKnXvjh) | [Chilles](https://open.spotify.com/artist/13uNHvieT91AQEZiuno4KU) | [Sunday Stroll](https://open.spotify.com/album/4zmXufzsEaiw6tUvElJR6j) | 1:57 | 2022-04-15 | 2022-06-10 |
 | [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2022-12-09 |  |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2022-10-14 |  |

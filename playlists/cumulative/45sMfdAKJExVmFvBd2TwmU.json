@@ -1351,6 +1351,32 @@
     },
     {
       "album": {
+        "name": "Jaane Tu (From \"Chhaava\")",
+        "url": "https://open.spotify.com/album/11cmqlCi2li2BrRBwV1otQ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284721,
+      "name": "Jaane Tu (From \"Chhaava\")",
+      "url": "https://open.spotify.com/track/2xJljikiXXEymW80bqyG6u"
+    },
+    {
+      "album": {
         "name": "Saawariya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4E6rpd9IcOfe6X8mErzVxf"
       },

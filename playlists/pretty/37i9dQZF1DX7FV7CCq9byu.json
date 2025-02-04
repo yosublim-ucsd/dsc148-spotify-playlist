@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 174429,
+  "num_followers": 174443,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY9gAAAAC9MAkd/dhAtM9TFEknFZGH",
+  "snapshot_id": "Z6DBeAAAAADAdFmlfSAOtpWzrXwnOESX",
   "tracks": [
     {
       "added_at": "2025-01-30 23:00:23",
@@ -39,6 +39,22 @@
       "duration_ms": 177571,
       "name": "Tur i oturen",
       "url": "https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K"
+    },
+    {
+      "added_at": "2025-02-03 13:15:36",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "added_at": "2025-01-30 23:00:23",
@@ -350,6 +366,10 @@
         {
           "name": "LKN",
           "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
+        },
+        {
+          "name": "BORIS",
+          "url": "https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a"
         }
       ],
       "duration_ms": 183992,

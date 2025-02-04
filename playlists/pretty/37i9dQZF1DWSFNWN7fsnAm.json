@@ -1,6 +1,6 @@
 {
   "description": "Listen to <a href=\"spotify:artist:1yqxFtPHKcGcv6SXZNdyT9\">MK</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 54180,
+  "num_followers": 54200,
   "original_name": "MK's track IDs",
   "owner": {
     "name": "Spotify",
@@ -875,7 +875,7 @@
     {
       "added_at": "2024-12-27 05:00:39",
       "album": {
-        "name": "El Trompetta",
+        "name": "El Trumpetta",
         "url": "https://open.spotify.com/album/6G0Exe4QTIQ36BavjhMIrf"
       },
       "artists": [
@@ -885,7 +885,7 @@
         }
       ],
       "duration_ms": 168750,
-      "name": "El Trompetta",
+      "name": "El Trumpetta",
       "url": "https://open.spotify.com/track/43oWmmr0Im6ATmWMhGRzA1"
     },
     {

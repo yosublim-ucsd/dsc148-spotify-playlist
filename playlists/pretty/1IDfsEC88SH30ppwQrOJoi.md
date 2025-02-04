@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,379 likes - 102 songs - 5 hr 6 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,379 likes - 103 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 100 | [Feel My Needs](https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feel My Needs](https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn) | 2:30 |
 | 101 | [Freak Out](https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Freak Out](https://open.spotify.com/album/6DGCEXrMI3ZJ4Cy1Hns3NQ) | 2:53 |
 | 102 | [Life](https://open.spotify.com/track/33jZTXHw1CvUqai4Jum4Nc) | [Bottom Lip](https://open.spotify.com/artist/1kGshKeUGUyFii95MRyIiJ), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Life](https://open.spotify.com/album/3bNsBu66DMg1VGL5O547Zj) | 4:38 |
+| 103 | [Drink, Drank, Dancefloor \- Lexa'S Peak Mix](https://open.spotify.com/track/4Snp6mqDCUzPJfnKxdC3AW) | [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI) | [Drink, Drank, Dancefloor \(Lexa'S Peak Mix\)](https://open.spotify.com/album/2fgVuOyGchBrKXrsz4hyrC) | 5:16 |
 
-Snapshot ID: `AAAKNfr6XgP+q5qn6+puGYjqs9dg+Tc9`
+Snapshot ID: `AAAKNrgNcx0gEq8yKAnlUq29A8EcxQ55`

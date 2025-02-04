@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Comptines pour b\u00e9b\u00e9s et enfants",
+        "url": "https://open.spotify.com/album/3YaKXlhvy0V8hkmbJqTcjg"
+      },
+      "artists": [
+        {
+          "name": "Monde des Titounis",
+          "url": "https://open.spotify.com/artist/2ojTzBORrgTPHsG4aUXq6e"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135733,
+      "name": "Ah les crocodiles",
+      "url": "https://open.spotify.com/track/4val2KK5Qzaagl3Yo99ruC"
+    },
+    {
+      "album": {
         "name": "Ah Les Crocodiles - Comptines",
         "url": "https://open.spotify.com/album/4bnbv8DvHZrP986mcR9EPS"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 156000,
       "name": "Ah Les Crocodiles - Comptines",
       "url": "https://open.spotify.com/track/5whKKZba7pCYuzQnro3dC3"

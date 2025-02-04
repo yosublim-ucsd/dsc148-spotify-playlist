@@ -1,6 +1,6 @@
 {
   "description": "Hey, Mac Miller\nthat's DOPE!",
-  "num_followers": 1099442,
+  "num_followers": 1099350,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
@@ -518,10 +518,14 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless",
+      "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

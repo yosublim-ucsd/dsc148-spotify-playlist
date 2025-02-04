@@ -2,7 +2,7 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> All That Remains on top of today's best Metal playlist.
+> Poppy on top of today's best Metal playlist.
 
 857 songs - 2 day 8 hr 14 min
 

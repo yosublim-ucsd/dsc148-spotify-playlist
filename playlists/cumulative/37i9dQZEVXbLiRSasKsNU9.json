@@ -5481,6 +5481,28 @@
     },
     {
       "album": {
+        "name": "Baba Ji",
+        "url": "https://open.spotify.com/album/2G7ilvoYMgZpmedu4PROex"
+      },
+      "artists": [
+        {
+          "name": "Vishu Puthi",
+          "url": "https://open.spotify.com/artist/6PlayGmaL99vAn4c2FoXue"
+        },
+        {
+          "name": "Sapna Choudhary",
+          "url": "https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198086,
+      "name": "Baba Ji",
+      "url": "https://open.spotify.com/track/63as9DZPNQDfTD12kJnTIK"
+    },
+    {
+      "album": {
         "name": "Babaero",
         "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
       },
@@ -8668,6 +8690,24 @@
       "duration_ms": 166778,
       "name": "Bittersweet Goodbye",
       "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "album": {
+        "name": "B\u0130TM\u0130YOR",
+        "url": "https://open.spotify.com/album/3iakmZwZXRumlipk4r5D1S"
+      },
+      "artists": [
+        {
+          "name": "Ben Fero",
+          "url": "https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "B\u0130TM\u0130YOR",
+      "url": "https://open.spotify.com/track/4gqiqccm2NNQcdIUkEDEiM"
     },
     {
       "album": {
@@ -17428,7 +17468,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 191360,
       "name": "Drums of Death",
       "url": "https://open.spotify.com/track/13QINbzgh3yta5OGvB77Pl"
@@ -37838,6 +37878,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "MATUSHKA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/5Sy5gGuRIerOD2X5Bbz7H0"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/0S228q52IBUyj650bijgej"
     },
     {
       "album": {
@@ -65430,7 +65488,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 190153,
       "name": "Wacuka",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
@@ -66146,7 +66204,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 187507,
       "name": "WELTiTA",
       "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599"

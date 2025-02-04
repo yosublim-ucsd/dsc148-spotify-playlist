@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "5AM (Expanded Edition)",
+        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257906,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE"
+    },
+    {
+      "album": {
         "name": "84",
         "url": "https://open.spotify.com/album/1QOIdX1zaKeyXY8B8rTeae"
       },
@@ -524,7 +542,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 129957,
       "name": "A Place I Don\u2019t Know",
       "url": "https://open.spotify.com/track/6O96v1HqTrP34qPhdQ7sU7"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 183226,
       "name": "Aire on the Side of Love",
       "url": "https://open.spotify.com/track/2iDc9KmT8DnhEUzjIxkeET"
@@ -1334,10 +1352,28 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 171025,
       "name": "All That And More (Sailboat)",
       "url": "https://open.spotify.com/track/1Bc2DgDK6W5iyWEFkI92fe"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4wcSNzn8m4I0ZHABEssnvz"
+      },
+      "artists": [
+        {
+          "name": "Audiomachine",
+          "url": "https://open.spotify.com/artist/5F4ObszoeVebqtc0B3XqJa"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224768,
+      "name": "All That We Are",
+      "url": "https://open.spotify.com/track/1QObOfaCBVJjvbWqKhpcwQ"
     },
     {
       "album": {
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 179906,
       "name": "All The Faces",
       "url": "https://open.spotify.com/track/4BJhs8XWyr2M4MLvS4CSKx"
@@ -2131,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Journey (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn"
+      },
+      "artists": [
+        {
+          "name": "Austin Wintory",
+          "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430151,
+      "name": "Apotheosis",
+      "url": "https://open.spotify.com/track/6NlKpIgOeU0y4puwrTFI2w"
+    },
+    {
+      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -2322,7 +2376,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 161612,
       "name": "As the World Caves In",
       "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
@@ -2979,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221039,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5CN13QjYdc9s4aFg2wxwnE"
+    },
+    {
+      "album": {
         "name": "interrobang",
         "url": "https://open.spotify.com/album/4i7jYYRg860Ni7nxqoimzj"
       },
@@ -3254,7 +3326,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 164333,
       "name": "Better in the Morning",
       "url": "https://open.spotify.com/track/4iZDK4OvoQSZGeTmkxM4GH"
@@ -3698,7 +3770,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 241013,
       "name": "Bloom (Eros)",
       "url": "https://open.spotify.com/track/2cKkthxFdzFEmZeMThj2Sn"
@@ -3900,7 +3972,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 169805,
       "name": "Bones",
       "url": "https://open.spotify.com/track/6lt8Z886tMHpNqzOFWX8Yn"
@@ -5051,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/32clZ6aJoFWmSKrYqeNCkU"
+      },
+      "artists": [
+        {
+          "name": "Athlete",
+          "url": "https://open.spotify.com/artist/6C0JkmxU2cgkVzotHJgfW7"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290826,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/5Vd7KrcmbEYs6ohyPeTVYp"
+    },
+    {
+      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
       },
@@ -5423,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217070,
+      "name": "Chinese Satellite",
+      "url": "https://open.spotify.com/track/1scaOnahzG7o8pfwfsL784"
+    },
+    {
+      "album": {
         "name": "The 1975",
         "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
       },
@@ -5640,6 +5748,28 @@
       "duration_ms": 170759,
       "name": "City on a Hill",
       "url": "https://open.spotify.com/track/5WWBUjHWwDkAzCczIRxYmB"
+    },
+    {
+      "album": {
+        "name": "Debussy: Clair De Lune and Other Piano Favourites",
+        "url": "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Martin Jones",
+          "url": "https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Clair de Lune, L. 32",
+      "url": "https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL"
     },
     {
       "album": {
@@ -8645,6 +8775,24 @@
     },
     {
       "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/4tN7he6zP5ft8yv57lKptc"
+      },
+      "artists": [
+        {
+          "name": "Joseph William Morgan",
+          "url": "https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235794,
+      "name": "Enchanted",
+      "url": "https://open.spotify.com/track/4wvEacvHvKyEuqNUfPnJrj"
+    },
+    {
+      "album": {
         "name": "It Takes Two (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1RVUhqrZ6vEkghRDhe76qV"
       },
@@ -9283,6 +9431,28 @@
     },
     {
       "album": {
+        "name": "Tides and Telescopes",
+        "url": "https://open.spotify.com/album/3SiQNkCFEvHN8TSIy2a8xK"
+      },
+      "artists": [
+        {
+          "name": "McKane Davis",
+          "url": "https://open.spotify.com/artist/6rMYxscXk2MNP8THgDs3FD"
+        },
+        {
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277730,
+      "name": "Eye of the Universe (Outer Wilds)",
+      "url": "https://open.spotify.com/track/6is355kYR3V3nx2wHv4M7s"
+    },
+    {
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/4V0T29SYS4BLCbMcuSzPQm"
       },
@@ -9392,6 +9562,24 @@
       "duration_ms": 226066,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/5AWVGdsk88fcsrssrAdyEN"
+    },
+    {
+      "album": {
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "album": {
@@ -9732,6 +9920,24 @@
       "duration_ms": 165405,
       "name": "feather light - acoustic",
       "url": "https://open.spotify.com/track/1OluZ7aLTFOgHX3yD0pxHI"
+    },
+    {
+      "album": {
+        "name": "Lies of P (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5gJEFiXI4rIXC2TWIx65ZQ"
+      },
+      "artists": [
+        {
+          "name": "Lies of P",
+          "url": "https://open.spotify.com/artist/2SjtrCN3OEXHeomgAH6MVY"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237968,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1ZI607lJxi4P8RKtSHiYyd"
     },
     {
       "album": {
@@ -10914,7 +11120,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 97842,
       "name": "Ghost Choir",
       "url": "https://open.spotify.com/track/5d5vbFsYB7EebhVgafqvKS"
@@ -11076,7 +11282,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 134120,
       "name": "Glimpse",
       "url": "https://open.spotify.com/track/4npXs1X5zRRTjvCLNZPuR8"
@@ -13646,7 +13852,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 181285,
       "name": "Hopes And Dreams",
       "url": "https://open.spotify.com/track/7CMVo848b9LsUtVavIoiXC"
@@ -14724,7 +14930,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 181280,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1na2MOlie83rN9sTNRuEOj"
@@ -14764,6 +14970,24 @@
       "duration_ms": 215837,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/3rAj9szI49Snd5vBCkHSe4"
+    },
+    {
+      "album": {
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276466,
+      "name": "I Of The Storm",
+      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
     },
     {
       "album": {
@@ -16310,7 +16534,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 139247,
       "name": "Jacob and the Stone - Slowed",
       "url": "https://open.spotify.com/track/4x3r948PzG7f2KQZ7jbrBs"
@@ -16842,7 +17066,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 414790,
       "name": "Kara Main Theme - Kara",
       "url": "https://open.spotify.com/track/1KOUWbi3StqWAT4odlEhu3"
@@ -16900,6 +17124,24 @@
       "duration_ms": 226287,
       "name": "Keeps Me Light",
       "url": "https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV"
+    },
+    {
+      "album": {
+        "name": "Happy Songs for Happy People",
+        "url": "https://open.spotify.com/album/1k2uLH7mwB72zbepvM8rR4"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327173,
+      "name": "Kids Will Be Skeletons",
+      "url": "https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6"
     },
     {
       "album": {
@@ -17496,7 +17738,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 241770,
       "name": "Learning to Fly",
       "url": "https://open.spotify.com/track/6Au80eD2nty1qvZaxLEkkG"
@@ -18556,7 +18798,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
@@ -20226,7 +20468,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 285076,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn"
@@ -20880,6 +21122,24 @@
       "duration_ms": 279500,
       "name": "Moving Mountains",
       "url": "https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL"
+    },
+    {
+      "album": {
+        "name": "Hurricane Glass",
+        "url": "https://open.spotify.com/album/5kT4P1c9Hq1OHuNw7sOupq"
+      },
+      "artists": [
+        {
+          "name": "Catherine Feeny",
+          "url": "https://open.spotify.com/artist/2PKUc5LXsZNjqOpAZKcFgz"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Mr Blue",
+      "url": "https://open.spotify.com/track/6ta5yavnnEfCE4faU0jebM"
     },
     {
       "album": {
@@ -21725,6 +21985,24 @@
     },
     {
       "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "No Plans",
+      "url": "https://open.spotify.com/track/3qjgMPGzM3dnRwoAG3Mv4t"
+    },
+    {
+      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/2BEcS31JAcmiXeMsYAyJtq"
       },
@@ -21848,7 +22126,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 173504,
       "name": "Norman's Walk",
       "url": "https://open.spotify.com/track/06MOMPokkhyLYztibnUZBE"
@@ -21902,7 +22180,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 190214,
       "name": "Northern Italy",
       "url": "https://open.spotify.com/track/1Eg4CmLudi51fJHjY6kegZ"
@@ -22104,7 +22382,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 233845,
       "name": "Oak Trees",
       "url": "https://open.spotify.com/track/39HJhQPvFCpt8y3N2jlKjd"
@@ -22144,6 +22422,24 @@
       "duration_ms": 295367,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/4XfApF1jJqLN1R7cPC0wZy"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0GeL4qG8LeNZU2yyHNpP1h"
+      },
+      "artists": [
+        {
+          "name": "John Butler",
+          "url": "https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 699261,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/59tcQJiHwApzE4h6yVnL9i"
     },
     {
       "album": {
@@ -22381,6 +22677,24 @@
     },
     {
       "album": {
+        "name": "Far Cry 5 Presents: We Will Rise Again (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4Gxql1kKRbHfHZnqrBGuAz"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291016,
+      "name": "Oh the Bliss (Reinterpretation)",
+      "url": "https://open.spotify.com/track/2e32odICy2AjX3gP52JPUJ"
+    },
+    {
+      "album": {
         "name": "Okay With That",
         "url": "https://open.spotify.com/album/4fCh1mEEa0gufuViBaQebz"
       },
@@ -22508,6 +22822,44 @@
       "duration_ms": 264000,
       "name": "Olympia",
       "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Philip Sheppard",
+          "url": "https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371746,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
     },
     {
       "album": {
@@ -22916,7 +23268,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 192131,
       "name": "Orange Blossoms",
       "url": "https://open.spotify.com/track/3Xg2ZCPPKfWsj9W8cmLbHF"
@@ -22970,7 +23322,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 197900,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/2oyFkgt5lh7bQWBo5XQ4V4"
@@ -23072,7 +23424,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 245836,
       "name": "Out Loud - Remastered",
       "url": "https://open.spotify.com/track/415YnURdXwND7z2GiVxtZm"
@@ -24273,6 +24625,32 @@
     },
     {
       "album": {
+        "name": "Divenire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EhFeiWsTdfqzdFskVUxBg"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442400,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/4BMHp3DkI8VLsuB9Kr0pzu"
+    },
+    {
+      "album": {
         "name": "Musings",
         "url": "https://open.spotify.com/album/4fV2VWapdU62HH3wUtTcNj"
       },
@@ -24764,6 +25142,24 @@
       "duration_ms": 234482,
       "name": "reasons.",
       "url": "https://open.spotify.com/track/6jnNIeDgGUhtrlKMjXfMQi"
+    },
+    {
+      "album": {
+        "name": "Hereditary (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/1D2pqmGuOBFjqtThwcWHXS"
+      },
+      "artists": [
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/6pDzUazSIrRhViOqiMMraX"
     },
     {
       "album": {
@@ -25838,7 +26234,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 245795,
       "name": "See You",
       "url": "https://open.spotify.com/track/2E9Mfz6CKQVDNVUGSyFeTg"
@@ -27443,6 +27839,24 @@
     },
     {
       "album": {
+        "name": "Total Life Forever",
+        "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409560,
+      "name": "Spanish Sahara",
+      "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
+    },
+    {
+      "album": {
         "name": "Sparks (Adding Sax Solos To Songs That Don't Need Them)",
         "url": "https://open.spotify.com/album/1eNqYzmxSMMC1B9EVV0bcd"
       },
@@ -27988,7 +28402,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 157493,
       "name": "Still",
       "url": "https://open.spotify.com/track/5rasBZY5n2yEKm6J7mypIK"
@@ -28537,6 +28951,24 @@
     },
     {
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456026,
+      "name": "Sun Bleached Flies",
+      "url": "https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS"
+    },
+    {
+      "album": {
         "name": "Sunday Call",
         "url": "https://open.spotify.com/album/6s0C7LthU6d3aE2ZhGCogI"
       },
@@ -29064,7 +29496,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 248616,
       "name": "Take Me Down Easy",
       "url": "https://open.spotify.com/track/1Gqu3WAy93q3lhkv67ZPW8"
@@ -29194,7 +29626,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 238480,
       "name": "Talk It Up",
       "url": "https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0"
@@ -29578,7 +30010,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 142533,
       "name": "The About Time Theme",
       "url": "https://open.spotify.com/track/2uWMiNjIlRIF5iJ8uss76w"
@@ -29842,7 +30274,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
@@ -29914,7 +30346,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 146160,
       "name": "The First I love You",
       "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
@@ -30466,7 +30898,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 113663,
       "name": "The Opening (Original Video Game Soundtrack)",
       "url": "https://open.spotify.com/track/2Cy0je383HEoGsRPk7ZVUr"
@@ -30545,6 +30977,46 @@
     },
     {
       "album": {
+        "name": "Risk of Rain 2",
+        "url": "https://open.spotify.com/album/3eFWXLdogrCHW11f8ZQLoa"
+      },
+      "artists": [
+        {
+          "name": "Chris Christodoulou",
+          "url": "https://open.spotify.com/artist/63OPPk7uHFdcpTuOFYpNfV"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474692,
+      "name": "The Rain Formerly Known as Purple",
+      "url": "https://open.spotify.com/track/5KEoPtv1mCNpF9Ne75kozY"
+    },
+    {
+      "album": {
+        "name": "Unravel (EA Games Soundtrack)",
+        "url": "https://open.spotify.com/album/3TjU2yKwySPgoS0JhsGckG"
+      },
+      "artists": [
+        {
+          "name": "Frida Johansson",
+          "url": "https://open.spotify.com/artist/7rZE4EXI29trKfndWcB7uu"
+        },
+        {
+          "name": "Henrik Oja",
+          "url": "https://open.spotify.com/artist/0ZRpw7Hh1DMUoC6QOHtjvv"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287600,
+      "name": "The Red Thread",
+      "url": "https://open.spotify.com/track/19ZKAGRawnY8BrRB6bISr6"
+    },
+    {
+      "album": {
         "name": "The Ripples",
         "url": "https://open.spotify.com/album/22D4GPyd1V0UP5VoTk4ozo"
       },
@@ -30617,6 +31089,32 @@
     },
     {
       "album": {
+        "name": "Kerry Muzzey: The Architect",
+        "url": "https://open.spotify.com/album/4GoDSfUm5XK2NCzPWq3aqk"
+      },
+      "artists": [
+        {
+          "name": "Kerry Muzzey",
+          "url": "https://open.spotify.com/artist/42ZxYNK8wmSwfkwV1oesGb"
+        },
+        {
+          "name": "Andrew Skeet",
+          "url": "https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK"
+        },
+        {
+          "name": "The Chamber Orchestra Of London",
+          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302095,
+      "name": "The Secret History",
+      "url": "https://open.spotify.com/track/5gC2gJLfv8VZjePQXWZh7j"
+    },
+    {
+      "album": {
         "name": "Doctor Who - Series 9 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5AQhqhSKwL8yIlNWhm5o8C"
       },
@@ -30628,7 +31126,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 287720,
       "name": "The Shepherd's Boy",
       "url": "https://open.spotify.com/track/6EIJTVtOQEzmLUItwb4sdh"
@@ -30866,7 +31364,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 190500,
       "name": "The Weather (acoustic-ish)",
       "url": "https://open.spotify.com/track/4YrBpjgss8Y8VisQArkLwF"
@@ -33317,6 +33815,24 @@
     },
     {
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250359,
+      "name": "Way out There",
+      "url": "https://open.spotify.com/track/1cS1SMKBkrqFGVIjUXbWAm"
+    },
+    {
+      "album": {
         "name": "Way Out West",
         "url": "https://open.spotify.com/album/5zpA2ccD0j0awYRJLgmHN9"
       },
@@ -33590,7 +34106,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 213474,
       "name": "What Could Have Been (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/6YB9jhzVEzw8CKeXD7Vx8j"

@@ -1,12 +1,12 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: ASTROPICAL (Bomba Est\u00e9reo + Rawayana)",
-  "num_followers": 888840,
+  "num_followers": 888821,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z54v4gAAAABG52hGYoJErbDwJItxbHKD",
+  "snapshot_id": "Z6DVjwAAAAAwLppS0NUkTNkr9BtIJvcp",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:21",
@@ -35,6 +35,22 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
+        "name": "SENTIDO COM\u00daN",
+        "url": "https://open.spotify.com/album/7Gjl4Unb6gNKMXDjyANuxJ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 203146,
+      "name": "SENTIDO COM\u00daN",
+      "url": "https://open.spotify.com/track/43gQjpu2eXUsbDhW8UPjYA"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
         "name": "CRUZ",
         "url": "https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 183970,
       "name": "CRUZ",
       "url": "https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
-        "name": "SENTIDO COM\u00daN",
-        "url": "https://open.spotify.com/album/7Gjl4Unb6gNKMXDjyANuxJ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 203146,
-      "name": "SENTIDO COM\u00daN",
-      "url": "https://open.spotify.com/track/43gQjpu2eXUsbDhW8UPjYA"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -111,26 +111,6 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
-        "name": "Diamante",
-        "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
         "name": "7 Dias",
         "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 180688,
       "name": "7 Dias",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/7gFsnxX16N2ZoPI23SibID"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 195470,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/2NvnmIJHPoDLqPIGmoMZS7"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
         "name": "PA'L CORA EP. 02",
         "url": "https://open.spotify.com/album/21oGI6V204SgNkl2iXmtjQ"
       },
@@ -291,6 +275,38 @@
       "duration_ms": 253269,
       "name": "A Solas con la Botella",
       "url": "https://open.spotify.com/track/4eOCDe8x4K4bFIhpbtIbfZ"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
+        "name": "Hasta Que Salga el Sol",
+        "url": "https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/2KbPTTNKEYlOUmW34shHOW"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/7gFsnxX16N2ZoPI23SibID"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 195470,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/2NvnmIJHPoDLqPIGmoMZS7"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -339,42 +355,6 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
-        "name": "Hasta Que Salga el Sol",
-        "url": "https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/2KbPTTNKEYlOUmW34shHOW"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
-        "name": "La Elegida",
-        "url": "https://open.spotify.com/album/35RiGLZarXKvekrknPYPXh"
-      },
-      "artists": [
-        {
-          "name": "Dr. Ryo",
-          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 139514,
-      "name": "La Elegida",
-      "url": "https://open.spotify.com/track/7Do0G6hwdVCUTuEqa2eEe2"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
         "name": "Un Besito",
         "url": "https://open.spotify.com/album/6mDnbII3fazVP0CVNeLVx6"
       },
@@ -399,22 +379,62 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
-        "name": "La \u00daltima Noche (con Estopa)",
-        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/3TVquO62tDD8r3OIKaMHMU"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         },
         {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
+        {
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
         }
       ],
-      "duration_ms": 229247,
-      "name": "La \u00daltima Noche - con Estopa",
-      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
+      "duration_ms": 175520,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/7mMr62GZzz6OyLR7cfFwru"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
+        "name": "La Elegida",
+        "url": "https://open.spotify.com/album/35RiGLZarXKvekrknPYPXh"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 139514,
+      "name": "La Elegida",
+      "url": "https://open.spotify.com/track/7Do0G6hwdVCUTuEqa2eEe2"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
+        "name": "Extranjero",
+        "url": "https://open.spotify.com/album/0JxgRDaUcyxTpzuE56jL5V"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 152870,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/2OVkvSveQPSmiYbgQj2GFu"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -443,46 +463,22 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
-        "name": "La Patrulla",
-        "url": "https://open.spotify.com/album/4iPUAL1LLPnd3jTjn3PbWn"
+        "name": "La \u00daltima Noche (con Estopa)",
+        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         },
         {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Luis Brown",
-          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
-        },
-        {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/6XRYalSzxmHEHi1Zp9T32N"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 270638,
-      "name": "La Patrulla",
-      "url": "https://open.spotify.com/track/6Q3f0PpLowVMddWQfF0TlA"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
-        "name": "Extranjero",
-        "url": "https://open.spotify.com/album/0JxgRDaUcyxTpzuE56jL5V"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 152870,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/2OVkvSveQPSmiYbgQj2GFu"
+      "duration_ms": 229247,
+      "name": "La \u00daltima Noche - con Estopa",
+      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -523,26 +519,30 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
-        "name": "Me Duele",
-        "url": "https://open.spotify.com/album/3TVquO62tDD8r3OIKaMHMU"
+        "name": "La Patrulla",
+        "url": "https://open.spotify.com/album/4iPUAL1LLPnd3jTjn3PbWn"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         },
         {
-          "name": "Pipe Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        },
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/6XRYalSzxmHEHi1Zp9T32N"
         }
       ],
-      "duration_ms": 175520,
-      "name": "Me Duele",
-      "url": "https://open.spotify.com/track/7mMr62GZzz6OyLR7cfFwru"
+      "duration_ms": 270638,
+      "name": "La Patrulla",
+      "url": "https://open.spotify.com/track/6Q3f0PpLowVMddWQfF0TlA"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -563,6 +563,42 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
+        "name": "LGN",
+        "url": "https://open.spotify.com/album/2hirDNFSxe3FlmuprSisD1"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 184874,
+      "name": "LGN",
+      "url": "https://open.spotify.com/track/3vgw6WZLvD9lqt9TrcqVER"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/1VOXsJ8ly2QTliQgdqpHzi"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 181744,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/52sJwN0u3ER2iko7yqV449"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
         "name": "MJM",
         "url": "https://open.spotify.com/album/75RvZzgUh99Gr3Ihi18TEp"
       },
@@ -579,6 +615,26 @@
       "duration_ms": 168394,
       "name": "MJM",
       "url": "https://open.spotify.com/track/1unQBsx7P9S8saXJtDtOnz"
+    },
+    {
+      "added_at": "2025-01-31 05:00:21",
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/67vo1otCCHNiC5DOMVW7ed"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 222604,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7Bhf0oxExqJkNPmqiS4YZf"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -607,58 +663,18 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
-        "name": "LGN",
-        "url": "https://open.spotify.com/album/2hirDNFSxe3FlmuprSisD1"
+        "name": "acaramelada",
+        "url": "https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9"
       },
       "artists": [
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 184874,
-      "name": "LGN",
-      "url": "https://open.spotify.com/track/3vgw6WZLvD9lqt9TrcqVER"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/67vo1otCCHNiC5DOMVW7ed"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        }
-      ],
-      "duration_ms": 222604,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/7Bhf0oxExqJkNPmqiS4YZf"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/1VOXsJ8ly2QTliQgdqpHzi"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 181744,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/52sJwN0u3ER2iko7yqV449"
+      "duration_ms": 154851,
+      "name": "acaramelada",
+      "url": "https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -675,22 +691,6 @@
       "duration_ms": 239324,
       "name": "capricho",
       "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
-    },
-    {
-      "added_at": "2025-01-31 05:00:21",
-      "album": {
-        "name": "acaramelada",
-        "url": "https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 154851,
-      "name": "acaramelada",
-      "url": "https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -1015,7 +1015,7 @@
     {
       "added_at": "2025-01-31 05:00:21",
       "album": {
-        "name": "Los Shishi (feat. El Jordan 23, Marcianeke, Lleflight, Simon la Letra, Drago200, Bryartz, Shisosaloud, Keylon, Barbero Ex\u00f3tico, J Cap, Zewa, Bastian La Amenaza, Dee Erre, Chekamilo, Jay Ferragamo, Tame, Andre Alpuritano, Harry Nach & Aqua VS)",
+        "name": "Los Shishi (feat. Julianno Sosa, Marcianeke, Harry Nach, Bryartz, Lleflight, Aqua VS, Drago200, Simon la Letra, Shisosaloud, Zewa, Keylon, Barbero Ex\u00f3tico, Andre Alpuritano, J Cap, Bastian La Amenaza, Jay Ferragamo & EL VALLE DE LOS REYES)",
         "url": "https://open.spotify.com/album/2mVAAVOoe25a3NWdzCBSmX"
       },
       "artists": [
@@ -1028,12 +1028,12 @@
           "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         },
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
           "name": "El Jordan 23",
           "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         },
         {
           "name": "Marcianeke",
@@ -1080,28 +1080,28 @@
           "url": "https://open.spotify.com/artist/3YaG7MjMlngb9KewzRI14H"
         },
         {
-          "name": "Dee Erre",
-          "url": "https://open.spotify.com/artist/0ldsxRbdTbzzE7D9iknoXH"
-        },
-        {
-          "name": "Chekamilo",
-          "url": "https://open.spotify.com/artist/1Rsh45nclDwTKEWPq7M4lL"
-        },
-        {
           "name": "Jay Ferragamo",
           "url": "https://open.spotify.com/artist/56PIuOhNTWtetm2Vis0lG7"
         },
         {
-          "name": "Tame",
-          "url": "https://open.spotify.com/artist/1ZgTSY6hYsetST6YWQ3g4G"
-        },
-        {
           "name": "Andre Alpuritano",
           "url": "https://open.spotify.com/artist/59odqmrpQ27RvI5HBlPxvV"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "EL VALLE DE LOS REYES",
+          "url": "https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ"
         }
       ],
       "duration_ms": 398500,
-      "name": "Los Shishi (feat. El Jordan 23, Marcianeke, Lleflight, Simon la Letra, Drago200, Bryartz, Shisosaloud, Keylon, Barbero Ex\u00f3tico, J Cap, Zewa, Bastian La Amenaza, Dee Erre, Chekamilo, Jay Ferragamo, Tame, Andre Alpuritano, Harry Nach & Aqua VS)",
+      "name": "Los Shishi (feat. Julianno Sosa, Marcianeke, Harry Nach, Bryartz, Lleflight, Aqua VS, Drago200, Simon la Letra, Shisosaloud, Zewa, Keylon, Barbero Ex\u00f3tico, Andre Alpuritano, J Cap, Bastian La Amenaza, Jay Ferragamo & EL VALLE DE LOS REYES)",
       "url": "https://open.spotify.com/track/6olagVojvkvpDBizJ7Y7Cu"
     },
     {

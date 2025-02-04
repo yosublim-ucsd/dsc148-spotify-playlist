@@ -46513,6 +46513,28 @@
     },
     {
       "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145785,
+      "name": "RODEO DRIVE (feat. Hamza)",
+      "url": "https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J"
+    },
+    {
+      "album": {
         "name": "Roi",
         "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
       },
@@ -57784,7 +57806,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 146680,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/3mFmzE2bIrEiLLyGwjfm11"

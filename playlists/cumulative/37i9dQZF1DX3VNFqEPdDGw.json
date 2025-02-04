@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Bhangra is our pride, Bhangra is our culture. Cover: Sharry Maan",
+  "description": "Bhangra is our pride, Bhangra is our culture. Cover: Gurnam Bhullar &  Geet Goraya",
   "name": "Bhangra Bangers",
   "tracks": [
     {
@@ -192,7 +192,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 196032,
       "name": "90Degree",
       "url": "https://open.spotify.com/track/6pCUdn2CoXIFwryZpuIk1z"
@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "GT Road",
+        "url": "https://open.spotify.com/album/39dY7pVHwpoyndxNjtxwPI"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "GT Road",
+      "url": "https://open.spotify.com/track/3nA63JVZMYAgWizQVGHyQ4"
+    },
+    {
+      "album": {
         "name": "Gucci Gabhru",
         "url": "https://open.spotify.com/album/2HI0L36kWoMhhzIPQw9xki"
       },
@@ -2256,6 +2274,28 @@
       "duration_ms": 201258,
       "name": "Kamli",
       "url": "https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac"
+    },
+    {
+      "album": {
+        "name": "Kangani",
+        "url": "https://open.spotify.com/album/35JS6lcoGMNQPfWB87ou0N"
+      },
+      "artists": [
+        {
+          "name": "Rajvir Jawanda",
+          "url": "https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG"
+        },
+        {
+          "name": "Gill Raunta",
+          "url": "https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Kangani",
+      "url": "https://open.spotify.com/track/1s9gAzrbB8AchI6EGH9hMA"
     },
     {
       "album": {
@@ -3444,7 +3484,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 171538,
       "name": "Pehredaariyan",
       "url": "https://open.spotify.com/track/2vJaQC3GomnoivP7aIogz9"

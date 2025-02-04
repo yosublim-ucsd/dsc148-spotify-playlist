@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,747 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,734 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 57 | [Summer Sumwhere](https://open.spotify.com/track/1SPicerXhdLDcCK75TVvoF) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS) | [Summer Sumwhere](https://open.spotify.com/album/3JxyyET73Zx7YbwadjBtWI) | 2:27 |
 | 58 | [When Everything Was Right](https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [The Seasons: Winter](https://open.spotify.com/album/1Ky0DgdzRVJmFdYA4cuuVf) | 3:18 |
 | 59 | [Hoofdpijn](https://open.spotify.com/track/4gghhLJF4fqJGzIp6Xm02o) | [Mies](https://open.spotify.com/artist/2UtiF4krqQ3xlkXVC9tgbW) | [Kleine Verandering](https://open.spotify.com/album/34y95VWmRzsIKR5Roh0O9B) | 2:32 |
-| 60 | [LIGHT BETWEEN DAYS](https://open.spotify.com/track/2YvNxQYdyMltWxRF9Mx7El) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv) | [LIGHT BETWEEN DAYS](https://open.spotify.com/album/19r8kJWdXuRymWG9dlZOJP) | 2:58 |
+| 60 | [LIGHT BETWEEN DAYS](https://open.spotify.com/track/2YvNxQYdyMltWxRF9Mx7El) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2) | [LIGHT BETWEEN DAYS](https://open.spotify.com/album/19r8kJWdXuRymWG9dlZOJP) | 2:58 |
 | 61 | [Houstatlantaville \(feat\. Lil Baby & Travis Scott\)](https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 3:25 |
 | 62 | [Miss It \(At All\)](https://open.spotify.com/track/2nzuxOVjKggQgQG23AlwBu) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Miss It \(At All\)](https://open.spotify.com/album/1PpIp6eVoghdTRyTD20gdu) | 2:07 |
 | 63 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |

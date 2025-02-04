@@ -1,6 +1,6 @@
 {
   "description": "Deja que el sentimiento antig\u00fcito de los boleros te envuelva con amor y nostalgia \ud83d\udc96\ud83c\udfb5\ud83c\udf39",
-  "num_followers": 84155,
+  "num_followers": 84169,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Los Tres Ases - Serenata de Amor",
+        "url": "https://open.spotify.com/album/6rqDjOkxIHcNZqVAKK7vms"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Sabor a mi",
+      "url": "https://open.spotify.com/track/7CAwMLxGw5ypWHKxaWPdSq"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
         "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 199840,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3Jifgl1CGNY25f7R0bvASv"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Cl\u00e1sicos de Oro de la Billo Caracas Boy's",
-        "url": "https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "Cuando Estemos Viejos",
-      "url": "https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS"
     }
   ],
   "unique_name": "B\u00e9same Mucho",

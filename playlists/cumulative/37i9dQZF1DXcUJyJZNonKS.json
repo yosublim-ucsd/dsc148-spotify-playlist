@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
+    },
+    {
+      "album": {
         "name": "\u304a\u3068\u305a\u308c",
         "url": "https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5"
       },
@@ -3051,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "\u604b\u4eba\u4ee5\u4e0a\u3001\u597d\u304d\u672a\u6e80 (Full Size)",
+        "url": "https://open.spotify.com/album/1Ad3UwKobAvz3HYdGvsj4V"
+      },
+      "artists": [
+        {
+          "name": "=LOVE",
+          "url": "https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268133,
+      "name": "\u604b\u4eba\u4ee5\u4e0a\u3001\u597d\u304d\u672a\u6e80 - Full Size",
+      "url": "https://open.spotify.com/track/2VZg2pEya7gPj7BOKhleVo"
+    },
+    {
+      "album": {
         "name": "\u604b\u4eba\u4ee5\u4e0a\u3001\u597d\u304d\u672a\u6e80 (TV Size)",
         "url": "https://open.spotify.com/album/0s31YyQe1uTbyBRCKplrDN"
       },
@@ -3062,7 +3098,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 89300,
       "name": "\u604b\u4eba\u4ee5\u4e0a\u3001\u597d\u304d\u672a\u6e80 - TV Size",
       "url": "https://open.spotify.com/track/7yRUwPAlgUo6o4y8UaoxBB"

@@ -2,7 +2,7 @@
 
 ### [Roots of Rock & Roll](https://open.spotify.com/playlist/37i9dQZF1DX4PB22uESAd3)
 
-> The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
+> The artists who laid the groundwork for Rock & Roll\. Cover: Little Richard
 
 112 songs - 5 hr 6 min
 

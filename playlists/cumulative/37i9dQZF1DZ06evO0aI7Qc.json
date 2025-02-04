@@ -3792,6 +3792,28 @@
     {
       "album": {
         "name": "Todo Depende de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/7IEyrxbsPPnt0XOT7irIrY"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209365,
+      "name": "Todo Depende de Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/6EW3T5IPyotlqN8ZC9vEKo"
+    },
+    {
+      "album": {
+        "name": "Todo Depende de Ti (En Vivo)",
         "url": "https://open.spotify.com/album/6Uw8SR3sqcGD58x8PVvkn1"
       },
       "artists": [
@@ -3996,7 +4018,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-04",
       "duration_ms": 146086,
       "name": "Volando Bajito",
       "url": "https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX"

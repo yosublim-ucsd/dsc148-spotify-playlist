@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125484,
+  "num_followers": 125480,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATnVKJd/OABq2sOHaC4KSUz3MO6wOE",
+  "snapshot_id": "AAATnpJj9QowzAJ0xg/jEQP5G2QU/U9s",
   "tracks": [
+    {
+      "added_at": "2025-02-03 15:06:13",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw"
+    },
     {
       "added_at": "2025-01-31 16:10:49",
       "album": {

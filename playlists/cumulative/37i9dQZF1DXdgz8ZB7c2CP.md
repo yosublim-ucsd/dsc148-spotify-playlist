@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring camoufly
 
-937 songs - 2 day 3 hr 42 min
+938 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,7 +442,7 @@
 | [Is this a dream?](https://open.spotify.com/track/5Uc4lFuLehruhbkgLcErrs) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Don Jamal](https://open.spotify.com/artist/3b1DIrWDwR8A5gxBgWt0DV) | [Is this a dream?](https://open.spotify.com/album/7v80FGDLXpH7NublQR44NB) | 2:16 | 2024-08-29 | 2024-11-29 |
 | [It Don't Make Sense](https://open.spotify.com/track/5TbnWI4IgjlETHoodjmirV) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Club Stranger](https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI) | 3:08 | 2024-11-28 | 2025-01-24 |
 | [IT HURTS!](https://open.spotify.com/track/68PJWzJj2utbLBErEt7THk) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [IT HURTS!](https://open.spotify.com/album/45HOGzVjjJojLyOMvCqDD5) | 3:48 | 2021-08-06 | 2022-07-29 |
-| [it's all happening \(feat\. Daniel Allan & Evalyn\)](https://open.spotify.com/track/5qKuzoHvzd4POlLCaPIdvb) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [what is life?](https://open.spotify.com/album/3GaUmCnvDwAIhH8IvwH6J9) | 2:54 | 2024-10-24 |  |
+| [it's all happening \(feat\. Daniel Allan & Evalyn\)](https://open.spotify.com/track/5qKuzoHvzd4POlLCaPIdvb) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [what is life?](https://open.spotify.com/album/3GaUmCnvDwAIhH8IvwH6J9) | 2:54 | 2024-10-24 | 2025-02-04 |
 | [It's Our Destiny \- IMANU Remix](https://open.spotify.com/track/1hpGoHU1fJDizORjFQIkJp) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:37 | 2024-01-26 | 2024-03-22 |
 | [It's Our Destiny \- Nitepunk Remix](https://open.spotify.com/track/4Az8fdFVrwfCzQ4XweZTC1) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [It's Our Destiny \(Nitepunk Remix\)](https://open.spotify.com/album/3VweodPoEDWKlREBDJ2Bk5) | 2:54 | 2023-04-09 | 2023-06-05 |
 | [ItsNotREEAALLLLLLLL](https://open.spotify.com/track/397GpgLAJnwQDBwIJ8ko1t) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duoteque](https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 5:27 | 2024-04-11 | 2024-10-05 |
@@ -583,6 +583,7 @@
 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 | 2025-01-16 |  |
 | [only way out](https://open.spotify.com/track/1JZK4g9p89N6sACbG6V0a8) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [only way out](https://open.spotify.com/album/76WZMVMTs8HmJgNVYmFUWm) | 3:52 | 2021-08-06 | 2022-07-29 |
 | [Open Blinds](https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Open Blinds](https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs) | 4:15 | 2021-08-06 | 2023-05-13 |
+| [Open Season](https://open.spotify.com/track/0ftvcxmgmafkBWUxvPpRDb) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Bastion](https://open.spotify.com/artist/52tJU1YfTeD1uCQjq8yooZ) | [Open Season](https://open.spotify.com/album/6FmD0ohMKxaDUsnnQYnZKe) | 2:51 | 2025-01-30 |  |
 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 | 2021-08-06 | 2023-05-13 |
 | [ORANGES](https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [ORANGES](https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV) | 2:03 | 2023-05-12 | 2024-01-27 |
 | [Our Friends \(with Zoe from The Buoys\)](https://open.spotify.com/track/2igA9Xc274UG9uQ7mSkUT2) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Our Friends \(with Zoe from The Buoys\)](https://open.spotify.com/album/3xX6NxHuFpxkTtul7OWczm) | 3:24 | 2024-10-03 | 2024-10-18 |

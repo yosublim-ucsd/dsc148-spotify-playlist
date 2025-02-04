@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-296 songs - 19 hr 7 min
+297 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Last Chance Lost](https://open.spotify.com/track/76keUnX6s7sKyWav3F8fo3) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 3:14 | 2024-03-21 |  |
 | [Last Time I Saw Richard](https://open.spotify.com/track/4s1x3pWfCAxk2lBNWyF9ke) | [Daphne Ashbrook](https://open.spotify.com/artist/0tBVVhB5xEnOOc2dELd7Jw) | [All Good Dreamers](https://open.spotify.com/album/4TqQoUdD0Yuiqm8iDl02gj) | 3:46 | 2024-03-03 |  |
 | [Last Time I Saw Richard](https://open.spotify.com/track/58MZivql2RjFPtMppY7N9a) | [Kevin Sandbloom](https://open.spotify.com/artist/3AeCqchDnjbQYA68wWTXIK) | [Still Blue](https://open.spotify.com/album/68DoM5Dt9XUpisi6Btf4hG) | 2:54 | 2024-01-29 | 2024-03-04 |
-| [Le grand parking](https://open.spotify.com/track/2iYqLxOoxGPhWgcmTIC0Uy) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [La Fleur Aux Dents](https://open.spotify.com/album/4v4KFFVfqx1cUgJ0ZFoV71) | 2:13 | 2024-01-29 |  |
+| [Le grand parking](https://open.spotify.com/track/2iYqLxOoxGPhWgcmTIC0Uy) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [La Fleur Aux Dents](https://open.spotify.com/album/4v4KFFVfqx1cUgJ0ZFoV71) | 2:13 | 2024-01-29 | 2025-02-04 |
+| [Le grand parking](https://open.spotify.com/track/39cIOOwA67aAu31wFVgFZ0) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin \(Country\)](https://open.spotify.com/album/5ZmhcWrPhUkLxKhHL97eT8) | 2:15 | 2025-02-03 |  |
 | [Lead Balloon](https://open.spotify.com/track/3sCoAs0z7glYiApysrpOhr) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 3:37 | 2024-03-21 |  |
 | [Lesson in Survival](https://open.spotify.com/track/0Xrrxype3ih2nyfyTdUM6O) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:11 | 2024-03-21 |  |
 | [Let It Be Me](https://open.spotify.com/track/444Nvdxvyd7UeOC3ekJKzv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:33 | 2024-03-21 |  |

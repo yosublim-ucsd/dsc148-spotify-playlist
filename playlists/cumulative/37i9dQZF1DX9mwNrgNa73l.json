@@ -2663,6 +2663,28 @@
     },
     {
       "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/6SwKz4ZFJuMw5BKy20SYPR"
+      },
+      "artists": [
+        {
+          "name": "Mughal-E-Funk",
+          "url": "https://open.spotify.com/artist/0FMFfSdbjQi08hUB2KqUyx"
+        },
+        {
+          "name": "Rassab Aamir",
+          "url": "https://open.spotify.com/artist/2gxsNVoS1NMAkKIDK4x8Tn"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/39BdrPzA4UL05QCqdp2d7D"
+    },
+    {
+      "album": {
         "name": "Naukar Shah Da",
         "url": "https://open.spotify.com/album/54Kjgaj9mL1n2iFyKxZ70v"
       },
@@ -3134,6 +3156,24 @@
       "duration_ms": 537324,
       "name": "Rangrez",
       "url": "https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK"
+    },
+    {
+      "album": {
+        "name": "Ranjheya Ve",
+        "url": "https://open.spotify.com/album/54NHimWyJ1NFHKQUxyFalk"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278474,
+      "name": "Ranjheya Ve",
+      "url": "https://open.spotify.com/track/4uxuqSSwxaN1HDKWm3Qx7P"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 625768,
+  "num_followers": 625947,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "PASSION",
-        "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law (UK)",
-          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
-        },
-        {
-          "name": "Guy Mac",
-          "url": "https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk"
-        }
-      ],
-      "duration_ms": 170019,
-      "name": "PASSION",
-      "url": "https://open.spotify.com/track/4nH6vRJssAD2IV2BmPdDqp"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "(still) WON'T4GETU",
         "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 374116,
       "name": "(still) WON'T4GETU",
       "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "PASSION",
+        "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Guy Mac",
+          "url": "https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "PASSION",
+      "url": "https://open.spotify.com/track/4nH6vRJssAD2IV2BmPdDqp"
     },
     {
       "added_at": "2024-09-26 23:00:00",

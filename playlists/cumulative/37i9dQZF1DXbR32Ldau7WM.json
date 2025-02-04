@@ -8815,6 +8815,24 @@
     },
     {
       "album": {
+        "name": "Fool on the planet",
+        "url": "https://open.spotify.com/album/430pNVzkDDNcen9TRYPEGL"
+      },
+      "artists": [
+        {
+          "name": "the pillows",
+          "url": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Ride on shooting star",
+      "url": "https://open.spotify.com/track/40noxDIF8DGi3m7dBeikzo"
+    },
+    {
+      "album": {
         "name": "RIDE TOUGH!",
         "url": "https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW"
       },
