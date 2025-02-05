@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Aohdán King
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,903 likes - 110 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,249 likes - 110 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

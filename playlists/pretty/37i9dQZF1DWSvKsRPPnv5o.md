@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 ### [Westside Story](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: OHGEESY
+> Holdin' it down for the westside\. Cover: 03 Greedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,973 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,022 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [URRRGE!!!!!!!!!! \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 2:32 |
 | 100 | [EVERYBODY \(feat\. 310babii, OHGEESY, BlueBucksClan, John Mackk, G Perico, RJMrLA, Rucci, Heembeezy, CUZZOS, Wallie the Sensei, Chef Boy\) \- Remix](https://open.spotify.com/track/308356n91cdilodNAW0HfG) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0), [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Rucci](https://open.spotify.com/artist/5JbXKReqHxzCVIrHTIvSIT), [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Chef Boy](https://open.spotify.com/artist/4omnknFgN7kkHAiCZkR8XU) | [EVERYBODY \(Remix\)](https://open.spotify.com/album/0eZwrojLzZXjPg2PbEIjMQ) | 6:14 |
 
-Snapshot ID: `Z6EknAAAAAA6f1Xs6GoRhHuLT2jtPIRb`
+Snapshot ID: `Z6JSHwAAAADi+LAusfG8j+P3Ce6hI8qC`

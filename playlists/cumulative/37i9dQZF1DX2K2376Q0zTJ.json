@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u3061\u3083\u3093\u307f\u306a",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u306b\u3057\u306a",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 105984,
       "name": "airplanemusic",
       "url": "https://open.spotify.com/track/1jT6Wg0HUWTkMsr73MqdKw"
@@ -3658,6 +3658,24 @@
       "duration_ms": 304390,
       "name": "Drive My Car",
       "url": "https://open.spotify.com/track/2tFwftU9bB8WIS1spfZPIf"
+    },
+    {
+      "album": {
+        "name": "Drop",
+        "url": "https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148089,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2"
     },
     {
       "album": {
@@ -7818,7 +7836,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 182689,
       "name": "Kung-Fu",
       "url": "https://open.spotify.com/track/3VMMT6mr9WxmZvqjHxBGnL"
@@ -15984,7 +16002,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 238800,
       "name": "TWO HANDS",
       "url": "https://open.spotify.com/track/6Gt42KmyGkRa7M3M0MhY82"
@@ -16992,6 +17010,24 @@
       "duration_ms": 185554,
       "name": "Wifey - Feat. Lil Keed",
       "url": "https://open.spotify.com/track/1F12ArAq906JEJhfLFuhYh"
+    },
+    {
+      "album": {
+        "name": "wind, flower, noise, and street",
+        "url": "https://open.spotify.com/album/5UWoz1NRite9yXtPVECuIw"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252241,
+      "name": "wind, flower, noise, and street",
+      "url": "https://open.spotify.com/track/52s4jyBjDYQXgkDQvHAsAY"
     },
     {
       "album": {
@@ -18764,6 +18800,24 @@
       "duration_ms": 276822,
       "name": "\u3064\u304d\u3072",
       "url": "https://open.spotify.com/track/7LYvXPLIPAIoaSKY64ERki"
+    },
+    {
+      "album": {
+        "name": "\u3064\u304f\u3057",
+        "url": "https://open.spotify.com/album/7C9g2DBFNVJ2drlDCzquCI"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267800,
+      "name": "\u3064\u304f\u3057",
+      "url": "https://open.spotify.com/track/3fLHgcamKWZUG8qv6HrhoW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-146 songs - 8 hr 26 min
+148 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Brothers](https://open.spotify.com/track/2frIsLqlpUpQGS6Z80EUlF) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Brothers](https://open.spotify.com/album/0Y5ZQ28L3Oi1APem8PpPNM) | 3:29 | 2023-11-10 |  |
 | [Carpet Ride](https://open.spotify.com/track/0U7kzZCo3AukhMvJAXy9NY) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 2:28 | 2023-04-27 |  |
 | [Central Park West \(Rain\)](https://open.spotify.com/track/4otpI8Q3ofe7O0BNuRs3Ta) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Central Park West \(Rain\)](https://open.spotify.com/album/19gKjLugTg8IrZDc7iLZed) | 3:40 | 2023-08-03 |  |
+| [City Nights](https://open.spotify.com/track/6ignd5l7hk4Z8AWDbl5vtX) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [City Nights](https://open.spotify.com/album/7hNvVcYkzKSXfkELeeTYI2) | 3:18 | 2025-02-04 |  |
 | [Cloudburst](https://open.spotify.com/track/7tvV4pQbpWPcOaeZ0WNAag) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Cloudburst](https://open.spotify.com/album/0nNb04hpA17KvoJC3Rx2Ud) | 3:26 | 2023-08-17 |  |
 | [Cold Night in New York](https://open.spotify.com/track/2bxQ1MNNJxAjdtjiJ6MJx3) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf), [Jazz Liberatorz](https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Cold Night in New York](https://open.spotify.com/album/0ZlsULVG0io8URAPXjXmm0) | 5:17 | 2023-12-01 | 2024-01-19 |
 | [Come Away With Me](https://open.spotify.com/track/6W36Hqqh0VueDlZMT5iyjn) | [Maurice Windham](https://open.spotify.com/artist/1BqkyvviBNHzqXWxfCOYtL) | [Come Away With Me](https://open.spotify.com/album/4LnkT3vGIc1iifgGnblsc2) | 2:12 | 2023-04-27 |  |
@@ -57,6 +58,7 @@
 | [Forgiving](https://open.spotify.com/track/5tVKrc60aMf0daSkoUgJL4) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:08 | 2023-04-27 |  |
 | [Glencoe Sketches \(Rain\)](https://open.spotify.com/track/0MiOcIeWX5CdJKN8i49wzp) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches \(Rain\)](https://open.spotify.com/album/2TgNzsUJ4VgF7SkDGRBL7k) | 4:22 | 2024-03-08 |  |
 | [Grey Surroundings](https://open.spotify.com/track/4L6tRPsIaXt08jqSCXyOpr) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Grey Surroundings](https://open.spotify.com/album/0q4TVVIREiFXIECbrNIyen) | 3:35 | 2024-07-09 |  |
+| [Harmless](https://open.spotify.com/track/1aimEz2afv76wgDapf7y2i) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Harmless](https://open.spotify.com/album/2ep4TtOop22u1GintL5Yhx) | 3:56 | 2025-02-04 |  |
 | [Have You Met Miss Jones \- Rain version](https://open.spotify.com/track/1wPvqaFBWI8wpDZDm1xoCH) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones \- Rain version](https://open.spotify.com/album/1vNyfbtnTuXPJVPw7rUTA6) | 3:11 | 2023-04-27 |  |
 | [Her Song](https://open.spotify.com/track/1ePnBDWTj8rvGAqsfKApk3) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Her Song](https://open.spotify.com/album/6rcsRUeB2jjdWMtRZ3Yjjr) | 3:38 | 2023-05-25 |  |
 | [Honeymoon \(Rain\)](https://open.spotify.com/track/2qQqxXl7I6Z2QhpU5zPwHl) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Honeymoon \(Rain\)](https://open.spotify.com/album/0qsUKVODzSAZLkDxUlR5KZ) | 4:22 | 2023-08-03 |  |
@@ -77,7 +79,7 @@
 | [It Aint Necessary So](https://open.spotify.com/track/3aG1gZRn9kcJofJqFJQpvT) | [Edward Jefferson](https://open.spotify.com/artist/2NcNg8xv8ejUhVQviwlQNB) | [It Aint Necessary So](https://open.spotify.com/album/3HowxMF6pSrpsQJF4EpAgh) | 2:54 | 2023-04-27 |  |
 | [Just a Piece of My Heart](https://open.spotify.com/track/7DvYIDgcdDXPuojrQzn0Gk) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Just a Piece of My Heart](https://open.spotify.com/album/23OPXFjZxSYn3SNreIpuaY) | 2:07 | 2023-04-27 |  |
 | [Kites](https://open.spotify.com/track/5GBFC6IMRifrXhGpvntHHj) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Kites](https://open.spotify.com/album/1xckIXwRecVrXSRxG7sWJR) | 3:26 | 2023-04-27 |  |
-| [Knep \- Rain](https://open.spotify.com/track/2CdvXIuW8jHByY469ph8k4) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Knep \- Rain](https://open.spotify.com/album/2VwdRqGWSTuW2flvR9gIym) | 3:54 | 2023-04-27 |  |
+| [Knep \- Rain](https://open.spotify.com/track/2CdvXIuW8jHByY469ph8k4) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Knep \- Rain](https://open.spotify.com/album/2VwdRqGWSTuW2flvR9gIym) | 3:54 | 2023-04-27 | 2025-02-05 |
 | [Landing](https://open.spotify.com/track/5aWqkwh860xhalXLdDCEpM) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:04 | 2023-04-27 |  |
 | [Last July](https://open.spotify.com/track/2iSk8f5ORB6lB0nFECBRHW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Last July](https://open.spotify.com/album/143rj0nzCnMvtM2QwxMS86) | 3:22 | 2024-02-23 |  |
 | [Leaky Roofs](https://open.spotify.com/track/6NynfWuoyXIfUtivo6rIxu) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Leaky Roofs](https://open.spotify.com/album/2NkWcy7M5v9TR0kmAAryEA) | 4:29 | 2023-06-22 |  |
@@ -89,7 +91,7 @@
 | [Lost in Orbit](https://open.spotify.com/track/14CVtIGrRL3bV8BlQSJigf) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Orbital Rain](https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv) | 2:35 | 2023-04-27 |  |
 | [Lovely Weekends](https://open.spotify.com/track/5ujDFhQC9Xvp1vCaITdin9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Lovely Weekends](https://open.spotify.com/album/0jJAmJ2ihxm7iKHcsEQ6Jp) | 3:08 | 2024-07-09 |  |
 | [Loverman](https://open.spotify.com/track/4S1nLxqM7tWryABWdC7dmh) | [Gus Ayers](https://open.spotify.com/artist/3Ap9S9cThcOOH0vlzOV8ov) | [Loverman](https://open.spotify.com/album/5COVxRUZp3B1OvL9BtunBI) | 2:30 | 2023-04-27 |  |
-| [Lower East Side](https://open.spotify.com/track/6C7g94a9NZiXb8MKsjZpcJ) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Orbital Rain](https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv) | 3:54 | 2023-04-27 |  |
+| [Lower East Side](https://open.spotify.com/track/6C7g94a9NZiXb8MKsjZpcJ) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Orbital Rain](https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv) | 3:54 | 2023-04-27 | 2025-02-05 |
 | [Maybe We'll Meet Again](https://open.spotify.com/track/03DgmKAOSZy70tFCQZULM3) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Midnight Midtown Jazz \(Rain\)](https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC) | 3:40 | 2023-04-27 |  |
 | [Merry Monday \- With Rain](https://open.spotify.com/track/59dNEyVBv0ZoAe7zyvRl3L) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday \- With Rain](https://open.spotify.com/album/5f9MNfZHMS1tvWq55LdJU1) | 3:06 | 2023-04-27 |  |
 | [Midnight midtown](https://open.spotify.com/track/3A4bXk6EoP2nR6LyHnMecm) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Midnight Midtown Jazz \(Rain\)](https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC) | 4:36 | 2023-04-27 |  |

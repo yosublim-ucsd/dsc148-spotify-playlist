@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Las Pelotas",
-  "num_followers": 149730,
+  "num_followers": 149841,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Bajan",
+      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Bajan",
-      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "Abre",
-        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Dos en la ciudad",
-      "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 215386,
       "name": "Diez a\u00f1os despu\u00e9s",
       "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
+        "name": "Abre",
+        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Dos en la ciudad",
+      "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "Karmagedon",
-        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 328746,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 233868,
       "name": "Va a Ser Dif\u00edcil Olvidar",
       "url": "https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
+        "name": "Karmagedon",
+        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 328746,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "Vendedora de Caricias",
-        "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
-      },
-      "artists": [
-        {
-          "name": "La Perra Que Los Pari\u00f3",
-          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
-        }
-      ],
-      "duration_ms": 199610,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
         "name": "El Pozo Brillante",
         "url": "https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 181159,
       "name": "Ahora 2",
       "url": "https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
+        "name": "Vendedora de Caricias",
+        "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
+      },
+      "artists": [
+        {
+          "name": "La Perra Que Los Pari\u00f3",
+          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
+        }
+      ],
+      "duration_ms": 199610,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
     },
     {
       "added_at": "2024-12-17 15:40:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,074 likes - 100 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,148 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 71 | [Blowin' in the Wind](https://open.spotify.com/track/5vJJXYF4p0nAyvOBU2WHoD) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Blowin' in the Wind](https://open.spotify.com/album/47jaPNFEb5Tzm6fnJjpro6) | 5:00 |
 | 72 | [I Wish You Love](https://open.spotify.com/track/4m7MH411WVmBWq0bagAuTC) | [Jumaane Smith](https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8) | [Lonely Nights](https://open.spotify.com/album/6ISlh3JpauVe5p08WbUqvB) | 4:39 |
 | 73 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 8:02 |
-| 74 | [Voor Jou Yvonne](https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6) | [Bill Weeds](https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Voor Jou Yvonne](https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt) | 7:41 |
-| 75 | [Pannonica](https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc) | [Spike Wilner Trio](https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ) | [Pannonica](https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1) | 6:43 |
+| 74 | [Pannonica](https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc) | [Spike Wilner Trio](https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ) | [Pannonica](https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1) | 6:43 |
+| 75 | [Voor Jou Yvonne](https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6) | [Bill Weeds](https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Voor Jou Yvonne](https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt) | 7:41 |
 | 76 | [Diane](https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Stefano Bagnoli](https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S) | [Diane / Estemporaneo](https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA) | 5:29 |
 | 77 | [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 |
 | 78 | [Have a Day](https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Have a Day](https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k) | 6:23 |

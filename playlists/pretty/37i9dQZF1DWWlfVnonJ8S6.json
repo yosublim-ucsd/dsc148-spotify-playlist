@@ -1,6 +1,6 @@
 {
   "description": "*vibing in desi*",
-  "num_followers": 152651,
+  "num_followers": 152745,
   "original_name": "desi lofi",
   "owner": {
     "name": "Spotify",
@@ -768,16 +768,16 @@
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
           "name": "Atif Aslam",
           "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         },
         {
           "name": "Alisha Chinai",
           "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        {
+          "name": "Abhimanyu-Pragya",
+          "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
         }
       ],
       "duration_ms": 270526,
@@ -1363,17 +1363,21 @@
     {
       "added_at": "2024-11-07 11:03:58",
       "album": {
-        "name": "Tere Bin - Lofi Mix",
+        "name": "Tere Bin (Lofi Mix)",
         "url": "https://open.spotify.com/album/4tvavKubUy5VEnPAiX2W2Y"
       },
       "artists": [
         {
           "name": "Atif Aslam",
           "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Abhimanyu-Pragya",
+          "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
         }
       ],
       "duration_ms": 226534,
-      "name": "Tere Bin - Lofi Mix",
+      "name": "Tere Bin (Lofi Mix)",
       "url": "https://open.spotify.com/track/7dzrnWEi7fKXItVt0TLMl4"
     },
     {
@@ -2524,12 +2528,12 @@
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
           "name": "Atif Aslam",
           "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Shahraaz Khan",
+          "url": "https://open.spotify.com/artist/75XcQvCxyVhlKzJjiu5FGB"
         }
       ],
       "duration_ms": 148821,
@@ -3184,8 +3188,8 @@
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         },
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Shahraaz Khan",
+          "url": "https://open.spotify.com/artist/75XcQvCxyVhlKzJjiu5FGB"
         }
       ],
       "duration_ms": 177031,

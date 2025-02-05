@@ -508,7 +508,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 138461,
       "name": "Beaujolais",
       "url": "https://open.spotify.com/track/7Gkd6kMDczipeBRu795NhH"
@@ -6100,6 +6100,28 @@
       "duration_ms": 120666,
       "name": "Smooth Rush",
       "url": "https://open.spotify.com/track/5Jw8bFyOFGSHc76SufSoZd"
+    },
+    {
+      "album": {
+        "name": "Snowed in",
+        "url": "https://open.spotify.com/album/47QDodM19uTNibPuA37GKP"
+      },
+      "artists": [
+        {
+          "name": "Ben Jammin' Beats",
+          "url": "https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi"
+        },
+        {
+          "name": "yungmerrin",
+          "url": "https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129647,
+      "name": "Snowed in",
+      "url": "https://open.spotify.com/track/7fNAf2BTmp6FWqo7Hy24Wr"
     },
     {
       "album": {

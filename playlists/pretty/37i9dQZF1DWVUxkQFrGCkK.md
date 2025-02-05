@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,970 likes - 307 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,072 likes - 307 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 15 | [Maravilla](https://open.spotify.com/track/2818rKelLhd0pTRQaY3fXn) | [MEDITERANE](https://open.spotify.com/artist/4vR71H3X6ElW2XnP6Ggwhq), [ABOUTME](https://open.spotify.com/artist/7cXBldbNYipGrKZDr3hwVy) | [Maravilla](https://open.spotify.com/album/1QIG1RWCGY7kLFX5RFe8TH) | 2:28 |
 | 16 | [Escape \(feat\. Hayla\) \- Sparrow & Barbossa Remix](https://open.spotify.com/track/2KZ4cDFoEJbrTO7z2I3HAb) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Sparrow & Barbossa Remix\]](https://open.spotify.com/album/1eNDp92GW8sVkvn9uzHpaC) | 5:48 |
 | 17 | [Saturday \- MAXI MERAKI Remix](https://open.spotify.com/track/0Fi5BP9mPnqSq4K9bOtIb4) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Kiss & Forget Remixes](https://open.spotify.com/album/6EEn6shLUPyB81mp89ZTwQ) | 6:25 |
-| 18 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
+| 18 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
 | 19 | [Voyager](https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Gruwski](https://open.spotify.com/artist/0XMmdHuO3XYx3PCqqgCen6) | [Voyager](https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM) | 6:56 |
 | 20 | [Lomo Lomo \- AUGUSTE Version](https://open.spotify.com/track/5DVaGy0up308ppZYJiJPzW) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [AUGUSTE](https://open.spotify.com/artist/4iS5S3n4kI5QvnYV2dNziq) | [Lomo Lomo \(AUGUSTE Version\)](https://open.spotify.com/album/2bm6j6g7KMUzpxtiiPgPYU) | 3:37 |
 | 21 | [coca](https://open.spotify.com/track/2J6xmGcSPDHl6cG02zbxl0) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [coca](https://open.spotify.com/album/2KB1lo0690KCVimTNzJWF1) | 3:21 |

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Phương Mỹ Chi
+> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,532 likes - 42 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,552 likes - 42 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Đẩy Xe Bò](https://open.spotify.com/track/4PBuCwrczgtyqxP8q6NTQW) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Đẩy Xe Bò](https://open.spotify.com/album/5eZ9ZYzpJ6epSGHdxgszWG) | 2:45 |
-| 2 | [Phương Mỹ Chi chúc Tết](https://open.spotify.com/track/2qmkBh0X88lPpkxKCAe1Gq) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:15 |
+| 1 | [đưa em về nhàa](https://open.spotify.com/track/5LQpQ6SDeaz6SIkR0lvsoC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/1ds7bOlVzPrP64m8Fyz1Tk) | 4:00 |
+| 2 | [GREY D chúc Tết](https://open.spotify.com/track/5xLOjitzkm4jrpNG7dvvdg) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:16 |
 | 3 | [Chăm Hoa](https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Chăm Hoa](https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan) | 3:31 |
 | 4 | [MONO chúc Tết](https://open.spotify.com/track/7FSeZzvh0l9OI8PXTxYOlD) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:27 |
 | 5 | [Tràn Bộ Nhớ](https://open.spotify.com/track/0669gFIK8dYK9GGQ0K0QNF) | [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE) | [Dữ Liệu Quý](https://open.spotify.com/album/10Dwjqs7dJNxn2g1PkvRCw) | 2:52 |
@@ -28,27 +28,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 18 | [WEAN chúc Tết](https://open.spotify.com/track/0xm9MGuMFs8CwftNrZgTCS) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
 | 19 | [SAIGONTEY](https://open.spotify.com/track/1KxXkPa3hO9WZqiIiOb5TJ) | [Thể Thiên](https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Trần Thế](https://open.spotify.com/album/5Ex7sh2k1zqQa18Cso68dy) | 2:57 |
 | 20 | [Thể Thiên chúc Tết](https://open.spotify.com/track/6z17WPPFRNtgZSox8f5pB2) | [Thể Thiên](https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
-| 21 | [đưa em về nhàa](https://open.spotify.com/track/5LQpQ6SDeaz6SIkR0lvsoC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/1ds7bOlVzPrP64m8Fyz1Tk) | 4:00 |
-| 22 | [GREY D chúc Tết](https://open.spotify.com/track/5xLOjitzkm4jrpNG7dvvdg) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:16 |
-| 23 | [Cuộc gọi lúc nửa đêm](https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 3:02 |
-| 24 | [AMEE chúc Tết](https://open.spotify.com/track/5VJBWMfTyfpwvYESxRIPns) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:26 |
-| 25 | [1000 Ánh Mắt](https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Lặng](https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN) | 2:32 |
-| 26 | [Shiki chúc Tết](https://open.spotify.com/track/3VuldpoVezBPOWk17fIDD3) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:19 |
-| 27 | [Nến Và Hoa](https://open.spotify.com/track/4S0uLMXRoAjFfIJOW7A8aW) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Nến Và Hoa](https://open.spotify.com/album/6E4LzmxAeQPB3wmuMyucNE) | 2:46 |
-| 28 | [Rhymastic chúc Tết](https://open.spotify.com/track/2U1HZvkzXfRWLhekuAYBwq) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
-| 29 | [thiên thần giáng Trần](https://open.spotify.com/track/6qt79zQbwrcAetyyxE4nd0) | [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [ả](https://open.spotify.com/album/3zVOHT1NsTDeG4NyjZFlbA) | 2:29 |
-| 30 | [marzuz chúc Tết](https://open.spotify.com/track/0RXNOOxdprIDTmj3BqON9A) | [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
-| 31 | [Love is](https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Love is](https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m) | 4:26 |
-| 32 | [Dangrangto chúc Tết](https://open.spotify.com/track/0hsaJPrFXiqzRf0eqgvMnG) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
-| 33 | [Đi Giữa Trời Rực Rỡ \- From "Đi Giữa Trời Rực Rỡ"](https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Đi Giữa Trời Rực Rỡ \(From "Đi Giữa Trời Rực Rỡ"\)](https://open.spotify.com/album/3bbkxOcKHeyfk2UnZbXu5J) | 3:40 |
-| 34 | [Ngô Lan Hương chúc Tết](https://open.spotify.com/track/0jSDADVknUqe9T8QodBGIe) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:26 |
-| 35 | [Tết Đến](https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Tết Đến](https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1) | 3:57 |
-| 36 | [RHYDER chúc Tết](https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
-| 37 | [Cuối Tuần \(1825\)](https://open.spotify.com/track/47cMihvydPnDYWWrfp6iP6) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Lelarec](https://open.spotify.com/artist/66KVPHSpvejcXEkiPQ7djq) | [Cuối Tuần \(1825\)](https://open.spotify.com/album/78AJ8syflYYWeZIbAWPcXj) | 2:55 |
-| 38 | [Hoàng Dũng chúc Tết](https://open.spotify.com/track/4NKzRUP5bhejItrFbM26p8) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
-| 39 | [Bước Cùng Nhau](https://open.spotify.com/track/1PAeUvBRNBu9rluqCOpwr0) | [Hà Lê](https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U) | [Đơn Sơ](https://open.spotify.com/album/6YamFmJV03DbgLtWD1BacM) | 3:23 |
-| 40 | [Hà Lê chúc Tết](https://open.spotify.com/track/4SQuokprVy9dkmclj1BzG6) | [Hà Lê](https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
-| 41 | [Đi Chùa Cầu Duyên](https://open.spotify.com/track/3Nck7QyAElRokhrXRGuEF1) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Đi Chùa Cầu Duyên](https://open.spotify.com/album/7D7ZjTO0CTsYcXtEfHGH3i) | 3:11 |
-| 42 | [Đức Phúc chúc Tết](https://open.spotify.com/track/5IKFKrV0VzmBDddhQnZ4ed) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:25 |
+| 21 | [Cuộc gọi lúc nửa đêm](https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 3:02 |
+| 22 | [AMEE chúc Tết](https://open.spotify.com/track/5VJBWMfTyfpwvYESxRIPns) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:26 |
+| 23 | [1000 Ánh Mắt](https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Lặng](https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN) | 2:32 |
+| 24 | [Shiki chúc Tết](https://open.spotify.com/track/3VuldpoVezBPOWk17fIDD3) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:19 |
+| 25 | [Nến Và Hoa](https://open.spotify.com/track/4S0uLMXRoAjFfIJOW7A8aW) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Nến Và Hoa](https://open.spotify.com/album/6E4LzmxAeQPB3wmuMyucNE) | 2:46 |
+| 26 | [Rhymastic chúc Tết](https://open.spotify.com/track/2U1HZvkzXfRWLhekuAYBwq) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
+| 27 | [thiên thần giáng Trần](https://open.spotify.com/track/6qt79zQbwrcAetyyxE4nd0) | [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [ả](https://open.spotify.com/album/3zVOHT1NsTDeG4NyjZFlbA) | 2:29 |
+| 28 | [marzuz chúc Tết](https://open.spotify.com/track/0RXNOOxdprIDTmj3BqON9A) | [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
+| 29 | [Love is](https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Love is](https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m) | 4:26 |
+| 30 | [Dangrangto chúc Tết](https://open.spotify.com/track/0hsaJPrFXiqzRf0eqgvMnG) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
+| 31 | [Đi Giữa Trời Rực Rỡ \- From "Đi Giữa Trời Rực Rỡ"](https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Đi Giữa Trời Rực Rỡ \(From "Đi Giữa Trời Rực Rỡ"\)](https://open.spotify.com/album/3bbkxOcKHeyfk2UnZbXu5J) | 3:40 |
+| 32 | [Ngô Lan Hương chúc Tết](https://open.spotify.com/track/0jSDADVknUqe9T8QodBGIe) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:26 |
+| 33 | [Tết Đến](https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Tết Đến](https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1) | 3:57 |
+| 34 | [RHYDER chúc Tết](https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
+| 35 | [Cuối Tuần \(1825\)](https://open.spotify.com/track/47cMihvydPnDYWWrfp6iP6) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Lelarec](https://open.spotify.com/artist/66KVPHSpvejcXEkiPQ7djq) | [Cuối Tuần \(1825\)](https://open.spotify.com/album/78AJ8syflYYWeZIbAWPcXj) | 2:55 |
+| 36 | [Hoàng Dũng chúc Tết](https://open.spotify.com/track/4NKzRUP5bhejItrFbM26p8) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
+| 37 | [Bước Cùng Nhau](https://open.spotify.com/track/1PAeUvBRNBu9rluqCOpwr0) | [Hà Lê](https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U) | [Đơn Sơ](https://open.spotify.com/album/6YamFmJV03DbgLtWD1BacM) | 3:23 |
+| 38 | [Hà Lê chúc Tết](https://open.spotify.com/track/4SQuokprVy9dkmclj1BzG6) | [Hà Lê](https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
+| 39 | [Đi Chùa Cầu Duyên](https://open.spotify.com/track/3Nck7QyAElRokhrXRGuEF1) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Đi Chùa Cầu Duyên](https://open.spotify.com/album/7D7ZjTO0CTsYcXtEfHGH3i) | 3:11 |
+| 40 | [Đức Phúc chúc Tết](https://open.spotify.com/track/5IKFKrV0VzmBDddhQnZ4ed) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:25 |
+| 41 | [Đẩy Xe Bò](https://open.spotify.com/track/4PBuCwrczgtyqxP8q6NTQW) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Đẩy Xe Bò](https://open.spotify.com/album/5eZ9ZYzpJ6epSGHdxgszWG) | 2:45 |
+| 42 | [Phương Mỹ Chi chúc Tết](https://open.spotify.com/track/2qmkBh0X88lPpkxKCAe1Gq) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:15 |
 
-Snapshot ID: `Z6D2HAAAAABwna7IBovrf4juYCqQUjFW`
+Snapshot ID: `Z6JHrAAAAABSxsbDhWyTI8YG6t4KBsYc`

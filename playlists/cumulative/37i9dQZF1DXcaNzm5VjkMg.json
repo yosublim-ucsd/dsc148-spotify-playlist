@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 199737,
       "name": "Biar Mantan Tau",
       "url": "https://open.spotify.com/track/6E6OhmmXOkklCcbqq7XF88"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 257542,
       "name": "Cinta Terakhirku",
       "url": "https://open.spotify.com/track/5bLIFHq7N4yqz8LX3wwD4E"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 282973,
       "name": "Nuansa Bening",
       "url": "https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe"
@@ -2444,6 +2444,24 @@
       "duration_ms": 211293,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/0FO12KD8xommTnYK9xqLY8"
+    },
+    {
+      "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/12UUzKlYnWUZtmlX41geSZ"
+      },
+      "artists": [
+        {
+          "name": "Kahitna",
+          "url": "https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211301,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/1rwGbGLDE0AkaH1UgUbufL"
     },
     {
       "album": {

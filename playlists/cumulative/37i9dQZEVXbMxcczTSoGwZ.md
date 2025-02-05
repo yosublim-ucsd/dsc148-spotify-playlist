@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,405 songs - 5 day 7 hr 2 min
+2,406 songs - 5 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-17 | 2022-04-24 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-06 | 2022-06-24 |
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2023-01-01 | 2023-01-03 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-04 |  |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-12-30 | 2022-01-01 |
 | [Adiós \(feat\. Juuna Chill\)](https://open.spotify.com/track/4sPnPFF3ZWrrUBD6rA2Qpv) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Adiós \(feat\. Juuna Chill\)](https://open.spotify.com/album/2PAyYsAVyhllixYkVH1SUQ) | 2:53 | 2024-05-18 | 2024-06-16 |
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-25 | 2021-05-28 |
@@ -1040,7 +1041,7 @@
 | [Kävi mitä kävi sul on mut](https://open.spotify.com/track/4SguwpcFtBPDgn2pM21GkS) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Kävi mitä kävi sul on mut](https://open.spotify.com/album/4edlKrJOTjnaIdb723vR9d) | 3:17 | 2024-03-23 | 2024-04-21 |
 | [Käytöstapoi \(feat\. william\)](https://open.spotify.com/track/0JbfBxlJxSqjbI9vbzi4Vn) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Käytöstapoi \(feat\. william\)](https://open.spotify.com/album/0bAWqhFMTLiZAsqQoZGE90) | 2:09 | 2022-05-21 | 2022-12-04 |
 | [Kääntöpuolii](https://open.spotify.com/track/5LIJUyoE2btHHMoBY43NbT) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Kääntöpuolii](https://open.spotify.com/album/1QW7sJqmVZdyyflE7dG4Qm) | 3:02 | 2022-09-24 | 2022-10-09 |
-| [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 | 2025-01-25 |  |
+| [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 | 2025-01-25 | 2025-02-05 |
 | [Käärinliinat](https://open.spotify.com/track/6SQ8EBcRYFCLPcA75UOVtc) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Käärinliinat](https://open.spotify.com/album/5BwKew53v47W3NgcUBGuYH) | 3:09 | 2024-03-02 | 2024-03-08 |
 | [Köyhä laulaa \(feat\. Diandra\)](https://open.spotify.com/track/3csvI7Z6Zi0uiQbbpUkvhE) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Diandra](https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg) | [Köyhä laulaa \(feat\. Diandra\)](https://open.spotify.com/album/1qmiOUIRqSr0yytDlg1Hnw) | 2:43 | 2023-06-17 | 2023-09-17 |
 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-05-13 | 2024-05-17 |
@@ -1765,7 +1766,7 @@
 | [Santa Tell Me \- Naughty Version](https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 3:23 | 2023-12-12 | 2023-12-15 |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 | 2021-12-23 | 2023-12-30 |
 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 | 2023-12-24 | 2023-12-27 |
-| [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 | 2024-10-19 | 2025-02-04 |
+| [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 | 2024-10-19 |  |
 | [Sata vuotta](https://open.spotify.com/track/1mHRqzrSR9MQaryDj6GibE) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Sata vuotta](https://open.spotify.com/album/0OhAVIkgi6mEtHcSJog1iT) | 3:32 | 2023-01-15 | 2023-07-14 |
 | [Sata vuotta](https://open.spotify.com/track/4JOQfZXLJ1bFKTl1uimWhz) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:32 | 2023-09-23 | 2023-10-15 |
 | [Satama](https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Satama](https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS) | 2:40 | 2023-12-02 | 2024-04-21 |
@@ -1843,7 +1844,7 @@
 | [Sinä lähdet, minä jään](https://open.spotify.com/track/2UIHqdjuY00JNF4BgUL1hn) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 4:44 | 2023-09-23 | 2023-10-09 |
 | [Sinä olet kaunis \- Vain elämää kausi 12](https://open.spotify.com/track/5kK01LL5xYf14RyurMOhG8) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg), [Triosis+](https://open.spotify.com/artist/3FLWGtQILFjVr2ENqhr8G4) | [Sinä olet kaunis \(Vain elämää kausi 12\)](https://open.spotify.com/album/24NNblpq0fsKZDbOc3kxa8) | 4:21 | 2021-10-24 | 2021-10-28 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-07-31 |
-| [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 | 2024-06-29 |  |
+| [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 | 2024-06-29 | 2025-02-05 |
 | [Sisko](https://open.spotify.com/track/6aJc9yW2geBF4OsrqOslOQ) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Sisko](https://open.spotify.com/album/4jPUMZtgvegZMUBI04azJq) | 2:31 | 2023-08-26 | 2023-10-22 |
 | [sisko älä pelkää](https://open.spotify.com/track/0oiz37APFPumfnCdLWNYjO) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sisko älä pelkää](https://open.spotify.com/album/0SGGPX84syrqNEa0d4BXQu) | 2:53 | 2023-01-21 | 2023-02-12 |
 | [Sitä mitä me oltiin](https://open.spotify.com/track/1Ie6qCuO9yQyoLR2umZnOL) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Sitä mitä me oltiin](https://open.spotify.com/album/1OJwcw7nKtNy1G8QiAC9ea) | 2:55 | 2023-04-15 | 2023-04-17 |

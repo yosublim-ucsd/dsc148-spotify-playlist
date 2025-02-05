@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110782,
+  "num_followers": 110784,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-01-24 14:45:11",
       "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        }
+      ],
+      "duration_ms": 187537,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
+    },
+    {
+      "added_at": "2025-01-24 14:45:11",
+      "album": {
         "name": "Tam czeka mnie dom",
         "url": "https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 174000,
       "name": "Lepiej ni\u017c teraz",
       "url": "https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM"
-    },
-    {
-      "added_at": "2025-01-24 14:45:11",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        }
-      ],
-      "duration_ms": 187537,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-01-24 14:45:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrhqK4SzCOJ.md) - [plain]
 
 > Kung Hei Fat Choi! Hit play and get the authentic Chinese New Year atmosphere right away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,262 likes - 166 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,274 likes - 166 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrhqK4SzCOJ.md) - [plain]
 | 49 | [幸福一笼笼](https://open.spotify.com/track/7xoSa4kccttgjvzjSgYECX) | [96.3HAOFM](https://open.spotify.com/artist/5wyGFYVvhdNvRjjqLrglkX) | [幸福一笼笼](https://open.spotify.com/album/1QTbHJiuvJnslpzBnAvOFG) | 2:57 |
 | 50 | [新年NOW！](https://open.spotify.com/track/1ijpPDkkzGlLAsrpYpkLnO) | [theCOVER x CAYS iDOL](https://open.spotify.com/artist/2vXgrTJIBughO4EoQ34FIr) | [新年NOW！](https://open.spotify.com/album/4QbvaZXdpDH3RMIYjDBC9E) | 3:21 |
 | 51 | [好运一条龙（DJ版）](https://open.spotify.com/track/5HQcYTVIfJMQ28aanHWBbM) | [Eddie Chen](https://open.spotify.com/artist/46jV2Q1CyyyB2nbqxbzeAI) | [新年歌 Chinese New Year Song（DJ版）](https://open.spotify.com/album/5U0tZGb1Z1G9ILtJ8uileM) | 2:48 |
-| 52 | [I Love You 兔！](https://open.spotify.com/track/4QGRzNDw8LZOOI5Ym9mcWE) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi) | [I Love You 兔！](https://open.spotify.com/album/0yF6DwrsXWS2zMINRNvWn4) | 3:31 |
+| 52 | [I Love You 兔！](https://open.spotify.com/track/4QGRzNDw8LZOOI5Ym9mcWE) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA) | [I Love You 兔！](https://open.spotify.com/album/0yF6DwrsXWS2zMINRNvWn4) | 3:31 |
 | 53 | [新年快樂好厲high](https://open.spotify.com/track/4Jf5ydHRKy9RvogpjDc3As) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB), [黃昺翔](https://open.spotify.com/artist/2t2aS6CYKM4pgQ1CEgqaDm), [李吳兄弟](https://open.spotify.com/artist/0Hs74cl3dxQEqBU4H8juXg), [吉巴奈](https://open.spotify.com/artist/2j8xQIiqk8wl06iBvJcGGn), [方麗庭](https://open.spotify.com/artist/5hURBbJkApbFpuRezOhFZE), [楊玉凡](https://open.spotify.com/artist/7lhmYKqmJiD2AOKxfRnwlE) | [新年快樂好厲high](https://open.spotify.com/album/2bV1KgoGQGPqBPuAqtsRJ4) | 4:05 |
 | 54 | [新年兔兔兔](https://open.spotify.com/track/1CSbQCEGnDTvt1UdtWC20A) | [Bingyen 郑斌彦](https://open.spotify.com/artist/5B3sXYh20CdngbsFfjezkb), [陈政宏](https://open.spotify.com/artist/5EuMH2yT27LfhcdYh0AOju), [王希豪](https://open.spotify.com/artist/1G4x7TRhUlsFGYHliTKY5V), [车小仆](https://open.spotify.com/artist/3sBGH1Kr1OB0R5PRFVeV4Z) | [新年兔兔兔](https://open.spotify.com/album/1o2UizgEP2nDXzVTDLPwLO) | 2:59 |
 | 55 | [团圆饭 2023](https://open.spotify.com/track/0D5zFSHdSYikokeGU2R8dW) | [叶剑锋](https://open.spotify.com/artist/0Z657WP6o0yEX8XdQSDtqE), [陈嘉荣](https://open.spotify.com/artist/1GY5v0Eo8R8JUj76TJ0Uwv), [林思婷](https://open.spotify.com/artist/7HMPPHpFD1UzsAZNWswJuL), [王菁忆](https://open.spotify.com/artist/24rBDtPbfS5HKveGgSrTDs), [陈丽亭](https://open.spotify.com/artist/5J7wtgo3JI6JDID6yCldaX) | [活力满分 Love You 兔](https://open.spotify.com/album/3Go7tcpNyamowChVt0pkde) | 3:11 |

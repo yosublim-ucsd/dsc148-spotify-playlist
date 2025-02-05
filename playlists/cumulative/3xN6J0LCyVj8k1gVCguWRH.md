@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,470 songs - 10 day 10 hr 28 min
+4,471 songs - 10 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1070,7 +1070,7 @@
 | [Done Believing](https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN) | [Snapdibz](https://open.spotify.com/artist/6oF5Y5JgNMSBfZR93mhKlK) | [Done Believing](https://open.spotify.com/album/1mOdL5EWP7nn8JbbYcq2yb) | 3:24 | 2025-01-13 | 2025-01-25 |
 | [DON’T STOP ME](https://open.spotify.com/track/5w6Wfxy37r4tS7vn9GK5Ls) | [RAKOVICKY](https://open.spotify.com/artist/5J2xJrZgjcWM3nQLyLsDyZ) | [DON’T STOP ME](https://open.spotify.com/album/4hSRG678m00lMqiSNozls5) | 3:08 | 2024-02-23 | 2024-03-08 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2019-09-29\* | 2024-08-13 |
-| [Dopamine](https://open.spotify.com/track/3Gx5BKn3cj2flQDtIQWmxr) | [Funsho](https://open.spotify.com/artist/2zTkayBLSvHJO4h1lVxsaY) | [Dopamine](https://open.spotify.com/album/2bdyJLDYU8hmfKMoEDcAfX) | 3:30 | 2025-01-24 |  |
+| [Dopamine](https://open.spotify.com/track/3Gx5BKn3cj2flQDtIQWmxr) | [Funsho](https://open.spotify.com/artist/2zTkayBLSvHJO4h1lVxsaY) | [Dopamine](https://open.spotify.com/album/2bdyJLDYU8hmfKMoEDcAfX) | 3:30 | 2025-01-24 | 2025-02-05 |
 | [Dopamine](https://open.spotify.com/track/2mCpvXUKoxExA4kJ5omRE3) | [Pale Moon](https://open.spotify.com/artist/0Fs4anTtuXgqXzOFOdfOs9) | [Dopamine](https://open.spotify.com/album/4bUvMbWIYNKV9ZQKCaabOm) | 2:34 | 2022-11-10 | 2022-12-05 |
 | [Dopamine](https://open.spotify.com/track/6tYkom0WX5G9yrQOD1VoZa) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Dopamine](https://open.spotify.com/album/39jPNvjoxyRoobNh2wtp94) | 3:13 | 2021-06-27 | 2021-07-12 |
 | [Dot Dot Dot](https://open.spotify.com/track/4eXQGxVLBrZKKj7a6widvk) | [Nikki Paige](https://open.spotify.com/artist/2C31l6mR38QGCGETH2sNJn), [Desren](https://open.spotify.com/artist/1v21stz51eeOrovaAeUtb5) | [Dot Dot Dot](https://open.spotify.com/album/6g6GIAJIl6L9iAKBSDl4Xb) | 2:48 | 2024-10-22 | 2024-11-03 |
@@ -1109,7 +1109,7 @@
 | [Drown](https://open.spotify.com/track/1oxPEOFAqkzKyv6XwNtIFz) | [Will Wallace](https://open.spotify.com/artist/1w4xMYzzViAQQ2bG0PnLo7) | [Drown](https://open.spotify.com/album/68FGziuVSjpId4NK22crrL) | 3:00 | 2022-11-25 | 2022-12-17 |
 | [Drowning](https://open.spotify.com/track/62TI3vk7l4bMIceGj5G6Kl) | [Jørdan Taylør](https://open.spotify.com/artist/0kkZOKaJBlqUhRlw42jHDI), [Solo Jane](https://open.spotify.com/artist/3YqvkghJFRueaZPBh2PdwU), [APC](https://open.spotify.com/artist/61TF518QCE2L2lt5OFZbFb) | [Drowning](https://open.spotify.com/album/7kNIoIDekVcr4GEnkhfyWV) | 4:13 | 2023-12-17 | 2023-12-26 |
 | [Drowning](https://open.spotify.com/track/6ra4QCibGRwecj33rpqTIo) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Drowning](https://open.spotify.com/album/46YjmtyJkwVGMjTqDo09ZE) | 2:36 | 2025-01-03 | 2025-01-29 |
-| [Drowning 4 U](https://open.spotify.com/track/6DPNnXOlCnibxalmkEve0O) | [Chris Jobe](https://open.spotify.com/artist/747NFKmOFoZwmq4yc6gCmT) | [Drowning 4 U](https://open.spotify.com/album/6wbc4Iulz1PFS9ZXFlqKo9) | 3:14 | 2025-01-24 |  |
+| [Drowning 4 U](https://open.spotify.com/track/6DPNnXOlCnibxalmkEve0O) | [Chris Jobe](https://open.spotify.com/artist/747NFKmOFoZwmq4yc6gCmT) | [Drowning 4 U](https://open.spotify.com/album/6wbc4Iulz1PFS9ZXFlqKo9) | 3:14 | 2025-01-24 | 2025-02-05 |
 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 | 2025-01-29 |  |
 | [Drowning in U](https://open.spotify.com/track/4mG9q3XvD8QSl0LZOzgtkT) | [Habbit](https://open.spotify.com/artist/5jnZs0tUrXXVVBsU95GwFT) | [Sleeper](https://open.spotify.com/album/0ETXjHepV53KXR1uT9AVgB) | 4:32 | 2022-09-02 | 2022-09-18 |
 | [Drugged Out](https://open.spotify.com/track/7A0oIyazUE54vv8DyReLAq) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Drugged Out](https://open.spotify.com/album/0cAWpKgEMcbghKrYfk9bUX) | 3:21 | 2024-09-23 | 2024-10-05 |
@@ -1247,6 +1247,7 @@
 | [Falling](https://open.spotify.com/track/6PoDq0kMqBGdk9CW5YCmr2) | [Ferreira](https://open.spotify.com/artist/0xKHLINRFajytpNdsF045U) | [Falling](https://open.spotify.com/album/6kjLKFrrJKgjsAsEXDvtmu) | 3:29 | 2024-10-18 | 2024-11-02 |
 | [Falling](https://open.spotify.com/track/2PnMKrp9TsVp3ZV0Rvoy6F) | [Gary McMahon](https://open.spotify.com/artist/0707bRJujuzzZiijTGxurP) | [Falling](https://open.spotify.com/album/1TkFDUaz1xpqyilvbwvozp) | 3:11 | 2025-01-17 | 2025-01-29 |
 | [Falling](https://open.spotify.com/track/2C9xZh47Bq79SvmmNpwTSJ) | [Malia Ferguson](https://open.spotify.com/artist/1VFbOlDbGWVUsC9lCbsezn) | [Shoreside](https://open.spotify.com/album/78RbgR4mWDRSN6gF0fXQea) | 2:31 | 2024-11-03 | 2024-11-15 |
+| [Falling \(Into You\)](https://open.spotify.com/track/5frGAffIOepRttsdcp5q7e) | [Zenon](https://open.spotify.com/artist/3Z5j2ENLXmM4dPrP7vSaZS) | [Falling \(Into You\)](https://open.spotify.com/album/1h9pUc0hu4ukkNBuNJzqM3) | 4:19 | 2025-02-04 |  |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-07-05 | 2022-07-27 |
 | [Falling by the Wayside](https://open.spotify.com/track/16q1Vnv42GoabfjYbYTaoL) | [Paul Mac Innes](https://open.spotify.com/artist/5TSiuFOzFcUE3caItvpilz) | [Falling by the Wayside](https://open.spotify.com/album/0OySeBvf7gQ9nmVB35Hc9j) | 3:51 | 2022-08-19 | 2022-09-04 |
 | [Falling in Love](https://open.spotify.com/track/4afsJrNBHLUdV66MirepMr) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Falling in Love](https://open.spotify.com/album/4IJLQFtCYl6ltje3bnOUJj) | 3:12 | 2024-10-18 | 2024-11-01 |
@@ -3935,7 +3936,7 @@
 | [Throw It All On Me](https://open.spotify.com/track/4EzYdkoohH5wJqccyNvChJ) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Just Shad](https://open.spotify.com/artist/6d4cow3OkL7leTkqKnQfad) | [Throw It All On Me](https://open.spotify.com/album/3u11QeneTdhktBLmrRVa6a) | 2:32 | 2024-05-20 | 2024-06-01 |
 | [Throw Me A Line](https://open.spotify.com/track/2B9BR45k0rmjGupMXyvUOM) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Sunshine Corner](https://open.spotify.com/album/3oqHKUUQalm8lqryVEt1ws) | 4:10 | 2022-01-28 | 2022-02-18 |
 | [Throw Some Rope For Me](https://open.spotify.com/track/2B0oZFMH1QaQsHzq2xGPM5) | [James Casper](https://open.spotify.com/artist/4sWygbZempEoTjiMaIQtAO), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [Throw Some Rope For Me](https://open.spotify.com/album/6vIlkEJd52BJcUPlDwUIFU) | 1:47 | 2024-05-29 | 2024-06-10 |
-| [Thrown Down](https://open.spotify.com/track/4Jg2XNf1oHeVsGPXaIFYGC) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Faraway Nearby \(Extended Version\)](https://open.spotify.com/album/3Eg2cykX7WRdsCkkZ3VEVT) | 4:09 | 2025-01-24 |  |
+| [Thrown Down](https://open.spotify.com/track/4Jg2XNf1oHeVsGPXaIFYGC) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Faraway Nearby \(Extended Version\)](https://open.spotify.com/album/3Eg2cykX7WRdsCkkZ3VEVT) | 4:09 | 2025-01-24 | 2025-02-05 |
 | [Thunderhead](https://open.spotify.com/track/6yivu7IE6Qc8WYNovbIqd6) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [Thunderhead](https://open.spotify.com/album/0LcI4O7Zn6bGrg55fSavVj) | 3:46 | 2022-12-09 | 2022-12-31 |
 | [TIBAA](https://open.spotify.com/track/1Cqpi7Rcf65jZlGNIizw2L) | [MAR5](https://open.spotify.com/artist/2MBqDXJGuZnVMM3bNfRSzA), [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [TIBAA](https://open.spotify.com/album/5dAvoVN5NOh3xKRKBlkcLa) | 2:52 | 2022-10-09 | 2022-10-30 |
 | [Tide](https://open.spotify.com/track/2YcbriSYeDwnQcC7ltX7DT) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [Tide](https://open.spotify.com/album/7t1Uc4xSV1lg4RWlRnmqDq) | 2:50 | 2025-01-22 |  |

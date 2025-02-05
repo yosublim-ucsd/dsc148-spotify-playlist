@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Chappell Roan
 
-3,164 songs - 7 day 3 hr 58 min
+3,165 songs - 7 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [Duke and the Cash](https://open.spotify.com/track/6OhrBMenfA6uNcpuXBmTiD) | [Baby Boys](https://open.spotify.com/artist/5h1aEtZ8g7GdavtgSg633u) | [Cannonball / Duke and the Cash](https://open.spotify.com/album/40Dy0bFYxrhFhQJjUKw1d7) | 2:14 | 2021-01-15 | 2021-03-06 |
 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 | 2024-08-23 | 2024-09-21 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-07-10 | 2021-08-14 |
+| [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-04 |  |
 | [Dunno](https://open.spotify.com/track/0v5cHrifMPkhqHkV02ddMq) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dunno](https://open.spotify.com/album/7otBn9X8Gpl0KCbGS4GILI) | 4:00 | 2020-07-24 | 2020-08-04 |
 | [Dusk](https://open.spotify.com/track/2XxX4oQeUyZKaccvVLRHck) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Dusk](https://open.spotify.com/album/2qNGZ0KcmpFHbCkZX0KKns) | 3:34 | 2019-10-11 | 2019-12-14 |
 | [Dust It Off](https://open.spotify.com/track/3AkfTXIZ3yRPlbUYzSveDO) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/4VPsDiUtgIDmKrK52O7GTN) | 3:42 | 2020-08-20 | 2020-08-21 |
@@ -2968,7 +2969,7 @@
 | [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-24 | 2023-04-29 |
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2019-08-23 | 2020-02-21 |
 | [Was It Something I Said \(feat\. Cavetown\)](https://open.spotify.com/track/4pCKJ8NFjBHSk1wGn13cab) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Was It Something I Said \(feat\. Cavetown\)](https://open.spotify.com/album/7r62ILwEeOZH9dJzvaU4vf) | 3:51 | 2020-05-15 | 2020-08-20 |
-| [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2025-01-16 |  |
+| [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2025-01-16 | 2025-02-05 |
 | [Waste Her Time](https://open.spotify.com/track/2mldDm6VRXu7rJmu24iaUF) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Waste Her Time](https://open.spotify.com/album/1LscYTDEEPiphfjHKtwL6h) | 3:05 | 2022-03-04 | 2022-04-09 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-08 | 2023-11-18 |
 | [WASTELAND](https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WASTELAND](https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14) | 3:59 | 2022-09-23 | 2023-01-26 |

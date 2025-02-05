@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,619 likes - 35 songs - 1 hr 39 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,617 likes - 35 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 16 | [Cry \(Just A Little\)](https://open.spotify.com/track/1iKJxbCsI4fYDKb0yuLSdX) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Cry \(Just A Little\)](https://open.spotify.com/album/2d47tIZyYSbTAQQwtRzITS) | 3:01 |
 | 17 | [The Rhythm](https://open.spotify.com/track/5XOwgvuIpCqCIMnL1sbTB8) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [The Rhythm](https://open.spotify.com/album/67ZkHThH8dM6Yt3vaU4SaZ) | 2:32 |
 | 18 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 |
-| 19 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
+| 19 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
 | 20 | [Cream](https://open.spotify.com/track/0DQiMuw802BljfUAbU8uxd) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG) | [Cream](https://open.spotify.com/album/7ltPrMbeM3QEMziwOCtBys) | 2:41 |
 | 21 | [Vortex](https://open.spotify.com/track/2yI3ZWbUDoZ2s6eMyPfA1m) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Vortex](https://open.spotify.com/album/3UwllTB2OERiCikVZmb4Hv) | 3:17 |
 | 22 | [All The Small Things](https://open.spotify.com/track/0acm2odfDKZzuRLrViBnTb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [All The Small Things](https://open.spotify.com/album/6vpocQEtVoMkffazXMxWX7) | 1:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,105 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,122 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 9 | [Diré Que Sí \(En Mi Diario Caminar\) \[Live\]](https://open.spotify.com/track/0VfS3jP30CUmksaCJdcqGr) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Tu Proveerás \(Live\)](https://open.spotify.com/album/1G3G5xewQRrUImuU50PA7w) | 4:33 |
 | 10 | [Tú Eres Dios](https://open.spotify.com/track/6Ba75b7WwhRuITzZsnKOp2) | [Chanel Novas](https://open.spotify.com/artist/359NLJX4VHDyNLBfybI0Uz), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Tú Eres Dios](https://open.spotify.com/album/0YICEYAaNv9lFBRrKtYtu4) | 9:19 |
 | 11 | [Tu Lugar](https://open.spotify.com/track/295pCZTvZBTdy4ycdGO5b7) | [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Entronado \(My Heart Your Home\)](https://open.spotify.com/album/0SRK8wvpLw5KdOYWAAtTn3) | 3:25 |
-| 12 | [Pescador de Hombres](https://open.spotify.com/track/4rsfyjRIQ2N1JJUR6wZY3I) | [Cindy Esparza](https://open.spotify.com/artist/1vsexuwY24xd5fHx9XBXew), [Andrés Gora](https://open.spotify.com/artist/2ZYglB5LhxoWySMAly1Nhm) | [Pescador de Hombres](https://open.spotify.com/album/1HxLnCoiU5T2vcol0M02ID) | 5:11 |
+| 12 | [Pescador de Hombres](https://open.spotify.com/track/4rsfyjRIQ2N1JJUR6wZY3I) | [Cindy Esparza](https://open.spotify.com/artist/1vsexuwY24xd5fHx9XBXew), [Andrés Gora](https://open.spotify.com/artist/2ZYglB5LhxoWySMAly1Nhm), [HOM.](https://open.spotify.com/artist/1dkLCJj0AprPcE3S3EBTbO) | [Pescador de Hombres](https://open.spotify.com/album/1HxLnCoiU5T2vcol0M02ID) | 5:11 |
 | 13 | [Por Siempre Eres Bueno \- Live](https://open.spotify.com/track/6jXexj7F6Jlcmx04WpSRGU) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Por Siempre Eres Bueno \(Live\)](https://open.spotify.com/album/57OTw4mfNXvMJ3mNfvvRc4) | 5:00 |
 | 14 | [Amor Primero \[The Heart of Worship\] \- Live](https://open.spotify.com/track/2Wnw2rLeUT1vcnFQusVFZv) | [Antioch Music](https://open.spotify.com/artist/597Lj3JwfCSRfhbDY7Wse2) | [Amor Primero \[The Heart of Worship\] \(Live\)](https://open.spotify.com/album/3AEjOWQLRTUzTt339Fbvcl) | 11:45 |
 | 15 | [Pange Lingua](https://open.spotify.com/track/1MrqX20FdSE6ZgG0rP1VG9) | [MARA](https://open.spotify.com/artist/6307XBA1jRaFXENDAWsMKP), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Pange Lingua](https://open.spotify.com/album/2IClplQGKNtFA2qYpscDgB) | 2:56 |

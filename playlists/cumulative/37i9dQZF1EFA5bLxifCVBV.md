@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 10 hr 44 min
+212 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Time, You Old Gypsy Man](https://open.spotify.com/track/1VYp41t4qFW5ZNOsF3fMEy) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:14 | 2024-07-24 |  |
 | [Tom, Tom, the Piper's Son \(from "Presenting Lily Mars"\) \- 2022 Remaster](https://open.spotify.com/track/48GRePQCk5Un0bx3OlW3GJ) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 2:42 | 2024-07-24 |  |
 | [Txus \- En Directo](https://open.spotify.com/track/1Lsj2zfBDd0ikjie2lpbwD) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [...Vamos Entrando..\. \(En Directo\)](https://open.spotify.com/album/3jN6ybKN0s2dKnLD0pDCtX) | 1:25 | 2024-07-24 |  |
-| [Under The Mango Tree](https://open.spotify.com/track/4Km3d8zd97VNJTS9BqYP56) | [John Barry Orchestra](https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog) | [Dr\. No \(original Motion Picture Soundtrack\)](https://open.spotify.com/album/4sWX7fwgRFbUY0U8pdVdpd) | 2:23 | 2024-07-24 |  |
+| [Under the Mango Tree](https://open.spotify.com/track/0fYi7GIeS4d6AnT1x6FdI7) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz), [Monty Norman](https://open.spotify.com/artist/2M3MaGqJ8NnwpflwOOA5iw) | [Dr\. No \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6eiwv2aJI6NTRh57zZE9fk) | 2:25 | 2025-02-04 |  |
+| [Under The Mango Tree](https://open.spotify.com/track/4Km3d8zd97VNJTS9BqYP56) | [John Barry Orchestra](https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog) | [Dr\. No \(original Motion Picture Soundtrack\)](https://open.spotify.com/album/4sWX7fwgRFbUY0U8pdVdpd) | 2:23 | 2024-07-24 | 2025-02-05 |
 | [Under the Mango Tree](https://open.spotify.com/track/3rIDEarWwNd8Go26mV6lt2) | [John Barry Orchestra](https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog) | [Dr\. No \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6a87gzXYTSMGY2dLM2HiyL) | 2:23 | 2024-08-09 | 2024-08-15 |
 | [Vieja Luna](https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 3:15 | 2024-07-24 |  |
 | [Vive la Virtue!](https://open.spotify.com/track/0APU0D5VkQaGbZbZObeFUv) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr), [Janice Rule](https://open.spotify.com/artist/0Jj6ZBoSkG9LN6J52d3RaJ) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 2:20 | 2024-07-24 |  |

@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142485,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/1Pn1My4kHwVdwumCRCCzXX"
+    },
+    {
+      "album": {
         "name": "COMPLICADO",
         "url": "https://open.spotify.com/album/34acwC6W2OjOMfEZXfUOFH"
       },

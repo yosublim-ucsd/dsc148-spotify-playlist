@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2AM Somewhere",
+        "url": "https://open.spotify.com/album/1wcULKmVUXFram5JoNdNYB"
+      },
+      "artists": [
+        {
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+        },
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107558,
+      "name": "2AM Somewhere",
+      "url": "https://open.spotify.com/track/2ay7Y6gHJPpXQJmboKB6zT"
+    },
+    {
+      "album": {
         "name": "A Minute...",
         "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
       },
@@ -392,6 +414,24 @@
       "duration_ms": 190661,
       "name": "bright side of the moon",
       "url": "https://open.spotify.com/track/5r4G5w8ujwefEnrCT5uzoX"
+    },
+    {
+      "album": {
+        "name": "Brown Eyed Baby",
+        "url": "https://open.spotify.com/album/7HPFvEwNsmy5eXxxY2m2uP"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182282,
+      "name": "Brown Eyed Baby",
+      "url": "https://open.spotify.com/track/4z0DCTfwCBX4kCzW2pruYb"
     },
     {
       "album": {
@@ -2526,6 +2566,24 @@
       "duration_ms": 143529,
       "name": "Real Life Sux",
       "url": "https://open.spotify.com/track/60pVjEAPLUQ30hkdfFB0TP"
+    },
+    {
+      "album": {
+        "name": "Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner",
+        "url": "https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/6g3egN3RHTN6z7WXjN77tS"
     },
     {
       "album": {

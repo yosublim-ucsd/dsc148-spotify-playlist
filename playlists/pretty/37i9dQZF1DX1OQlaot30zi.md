@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Jake, Simba, Boro, Dani Faiv e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,609 likes - 130 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,617 likes - 130 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

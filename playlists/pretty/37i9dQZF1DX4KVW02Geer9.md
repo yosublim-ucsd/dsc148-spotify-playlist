@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Maya Delilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,933 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,935 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 9 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
 | 10 | [Crossing Over](https://open.spotify.com/track/458KACLuAG3EMMx290Jq9W) | [Sam Cohen](https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP), [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A), [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Slow Fawn Music No\. 2](https://open.spotify.com/album/5dZSyWqIJF9mEvbm919G96) | 4:39 |
 | 11 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 |
-| 12 | [Capital, sweat](https://open.spotify.com/track/3IdeyMY9zADG9cGqG0jW1N) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [Insomniac Reveries](https://open.spotify.com/album/3xdfZMUA9tAzZeruasYenH) | 2:39 |
+| 12 | [capital, sweat](https://open.spotify.com/track/3IdeyMY9zADG9cGqG0jW1N) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [Insomniac Reveries](https://open.spotify.com/album/3xdfZMUA9tAzZeruasYenH) | 2:39 |
 | 13 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
 | 14 | [Sorrowful Rhodes](https://open.spotify.com/track/1IlfiJbfFXTpPeAIYP90XU) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Sorrow](https://open.spotify.com/album/0UyiCjA9y7TGW2VxBqFkPB) | 6:01 |
 | 15 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 |

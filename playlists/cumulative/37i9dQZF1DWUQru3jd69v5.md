@@ -4,7 +4,7 @@
 
 > Marte in cover della playlist con la nuova generazione del rap italiano.
 
-1,568 songs - 2 day 19 hr 10 min
+1,569 songs - 2 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1321,6 +1321,7 @@
 | [SOLA \(feat\. Azet\)](https://open.spotify.com/track/2FfIrkVATevsruB4V25hm0) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [SOLA \(feat\. Azet\)](https://open.spotify.com/album/7woq5CeiwbJDydx1AF4Gp3) | 2:13 | 2024-07-26 | 2024-09-13 |
 | [SOLDATI](https://open.spotify.com/track/3ko0rF0qAjuE3flb08beNL) | [Samy](https://open.spotify.com/artist/1Cf2hOIUGwQ3INfXlfZkaD) | [SOLDATI](https://open.spotify.com/album/6d9xSAgic07SIbzfZYKgf4) | 2:07 | 2024-06-27 | 2024-07-12 |
 | [Soldi](https://open.spotify.com/track/09sLI0QevvvwN8T2nhIM0D) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Soldi](https://open.spotify.com/album/3EuiGALkc1kDM63hz7BVfq) | 2:26 | 2022-11-24 | 2023-02-03 |
+| [Soldi nelle buste feat\. Enzo Benz](https://open.spotify.com/track/6A8yy2cBhv4mswJlpBGtUg) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Occhio Vivo](https://open.spotify.com/album/11jaBU9hA4PthDo6nRi74w) | 2:34 | 2025-02-04 |  |
 | [SOLIPSÌA \(feat\. Silent Bob\)](https://open.spotify.com/track/10brFkH6YLGZnhj0qHpFzm) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [OVERT](https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ) | 3:34 | 2023-06-08 | 2023-06-16 |
 | [SOLO](https://open.spotify.com/track/1hT8hHa7R5xh7xdz1E0rEO) | [Rione](https://open.spotify.com/artist/7iMfaY3weGRYnarHrFogVH) | [SOLO](https://open.spotify.com/album/4WmbPhczkJM6eXJOcNI7Xj) | 2:37 | 2022-12-08 | 2022-12-24 |
 | [Solo \(feat\. Silent Bob\)](https://open.spotify.com/track/31xwjwV6xHIRTUQt1ensEN) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [SOLO](https://open.spotify.com/album/1s7vbQPZFHT3gU79nDkDft) | 2:43 | 2024-12-12 | 2025-01-17 |

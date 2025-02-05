@@ -2743,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "'Caligo Pt.1'",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/3SyG2CrI1QNdZSwvNONVVI"
       },
@@ -6535,6 +6553,24 @@
     },
     {
       "album": {
+        "name": "It Rains",
+        "url": "https://open.spotify.com/album/59W9Ohv3Y6hlenBBk5whDn"
+      },
+      "artists": [
+        {
+          "name": "Seoul Electric Band",
+          "url": "https://open.spotify.com/artist/2rdg9jLI2WN0bAsrPWdRo1"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322723,
+      "name": "It Rains",
+      "url": "https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9"
+    },
+    {
+      "album": {
         "name": "It's Complicated - The 6th Mini Album",
         "url": "https://open.spotify.com/album/2ZsqDQ58pJDf9ljm4MAo3w"
       },
@@ -7504,7 +7540,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 224866,
       "name": "Little Light",
       "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-559 songs - 1 day 13 hr 22 min
+560 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Jumpin'](https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Jumpin'](https://open.spotify.com/album/0HkIYDIdHJCSQYl8xJeZlu) | 2:35 | 2022-04-14 | 2023-11-06 |
 | [Jumpin' \- Wh0 Remix](https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Jumpin' \(Wh0 Remix\)](https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P) | 2:59 | 2022-09-19 | 2024-08-31 |
 | [Jungle Trip \- Edit](https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Jungle Trip \(Edit Versions\)](https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg) | 3:41 | 2022-05-05 | 2023-10-07 |
-| [Just Keep On \- Edit](https://open.spotify.com/track/6Z4HZLJok0U4gc6zDTcdUr) | [Mirko & Meex](https://open.spotify.com/artist/59sPMElpQnw4DfEc1jjJg1) | [Just Keep On \(Edit\)](https://open.spotify.com/album/149eKsEz1fCCAV0VJBmh9X) | 3:15 | 2024-09-12 |  |
+| [Just Keep On \- Edit](https://open.spotify.com/track/6Z4HZLJok0U4gc6zDTcdUr) | [Mirko & Meex](https://open.spotify.com/artist/59sPMElpQnw4DfEc1jjJg1) | [Just Keep On \(Edit\)](https://open.spotify.com/album/149eKsEz1fCCAV0VJBmh9X) | 3:15 | 2024-09-12 | 2025-02-05 |
 | [Just Us \- Radio Edit](https://open.spotify.com/track/63GyZaNNNigHM47t7eaGzA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0sRdvqJBu6iFNtwaW7ORIk) | 3:35 | 2022-04-14 | 2022-07-29 |
 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 | 2024-12-03 |  |
 | [Keep It Simple](https://open.spotify.com/track/4Fp3p14zeLSGF3MLAjSBUH) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Keep It Simple](https://open.spotify.com/album/3FETrBitCgpS9AgqEktISJ) | 3:04 | 2023-03-23 | 2024-09-13 |
@@ -397,6 +397,7 @@
 | [Put A Spell On You](https://open.spotify.com/track/4EtEO4KP634oHaVSq9JAcf) | [Roog](https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh) | [Put A Spell On You](https://open.spotify.com/album/1DzwGAxGdHjyrjdlIwH1aj) | 3:05 | 2023-05-25 | 2024-09-13 |
 | [Que Tal America \- Dave Lee Mix](https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg) | [Dos Hombres Sonido](https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Que Tal America \(Dave Lee Mixes\)](https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH) | 4:00 | 2024-09-12 |  |
 | [R U](https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [R U](https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E) | 3:34 | 2022-04-14 | 2024-03-01 |
+| [Raw Affairs](https://open.spotify.com/track/59x0KNMIqmQDzESKYiqEfr) | [Luppi Clarke](https://open.spotify.com/artist/6d0JuBFS97YrGujJBiUmhj) | [Raw Affairs](https://open.spotify.com/album/35bbR5pPqWSWXdeggoWpWF) | 2:18 | 2025-01-30 |  |
 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 | 2024-01-18 | 2025-01-31 |
 | [Real Love \- Edit](https://open.spotify.com/track/1LchGeaRyfGqTDuU74TAYL) | [Sam Dexter](https://open.spotify.com/artist/7pxQky3WoeLE6evetlJ3Ty), [Elliotte Williams N'Dure](https://open.spotify.com/artist/77i43ZsRsl95w8GalimJPw), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Summer Of Love](https://open.spotify.com/album/6ZJYlK5jNLrZ0hU6SXaogE) | 2:43 | 2023-05-23 | 2023-05-26 |
 | [Real Love \- Kevin McKay Edit](https://open.spotify.com/track/5T16gJHTzaSfKrOdoQu6iQ) | [Sam Dexter](https://open.spotify.com/artist/7pxQky3WoeLE6evetlJ3Ty), [Elliotte Williams N'Dure](https://open.spotify.com/artist/77i43ZsRsl95w8GalimJPw), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Real Love \(Kevin McKay Re\-Edit\)](https://open.spotify.com/album/4pQS2DlyQMPygDaWTmyxkt) | 2:43 | 2023-11-01 | 2024-03-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 50151,
+  "num_followers": 50184,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Rum Sodomy & The Lash (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
-      },
-      "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "A Rainy Night in Soho",
-      "url": "https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "The Joshua Tree",
         "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 336613,
       "name": "Where The Streets Have No Name - Remastered",
       "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "A Rainy Night in Soho",
+      "url": "https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "Miracle Drug",
-      "url": "https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "The Snake",
         "url": "https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 218826,
       "name": "King's Call",
       "url": "https://open.spotify.com/track/3x3oEFoQzTwqrMLj6Zufgf"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "Miracle Drug",
+      "url": "https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4"
     },
     {
       "added_at": "2022-03-17 10:54:32",

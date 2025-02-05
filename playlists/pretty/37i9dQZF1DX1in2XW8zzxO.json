@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 81149,
+  "num_followers": 81183,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2025-01-30 23:28:32",
       "album": {
+        "name": "Woza La",
+        "url": "https://open.spotify.com/album/0uszDQSCIPfgXo8nEAPnaA"
+      },
+      "artists": [
+        {
+          "name": "King P",
+          "url": "https://open.spotify.com/artist/47afOpYr8n2njpPNQKuQfc"
+        },
+        {
+          "name": "Tumilemang",
+          "url": "https://open.spotify.com/artist/0zdAH79ZRnudDRbmuSJFHl"
+        }
+      ],
+      "duration_ms": 416532,
+      "name": "Woza La",
+      "url": "https://open.spotify.com/track/6XK0BdLYoXJyfb1JfuN4BQ"
+    },
+    {
+      "added_at": "2025-01-30 23:28:32",
+      "album": {
         "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
         "url": "https://open.spotify.com/album/68DnMLu8TDXG6RwZ1AzfeK"
       },
@@ -1287,34 +1307,6 @@
       "duration_ms": 375530,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
-    },
-    {
-      "added_at": "2025-01-30 23:28:32",
-      "album": {
-        "name": "Ngeke",
-        "url": "https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL"
-      },
-      "artists": [
-        {
-          "name": "Calvin Shaw",
-          "url": "https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        },
-        {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Ngeke - Radio Edit",
-      "url": "https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

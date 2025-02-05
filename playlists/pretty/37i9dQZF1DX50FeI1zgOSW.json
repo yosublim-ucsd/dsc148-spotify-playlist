@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14283,
+  "num_followers": 14289,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6CiMAAAAAC228kyyLHy8hLzE50vjUKi",
+  "snapshot_id": "Z6IxMAAAAABjrbBHtWxOmFRXUu1D9Ovk",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -43,22 +43,6 @@
       "duration_ms": 284000,
       "name": "222",
       "url": "https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x"
-    },
-    {
-      "added_at": "2024-10-18 04:57:06",
-      "album": {
-        "name": "Inidhai",
-        "url": "https://open.spotify.com/album/7BqfCxTAUt9Dnowv2za6pC"
-      },
-      "artists": [
-        {
-          "name": "Sandhya Chari",
-          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Inidhai",
-      "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
     },
     {
       "added_at": "2025-01-31 05:18:41",
@@ -109,6 +93,74 @@
       "url": "https://open.spotify.com/track/4mvItWtTtj3qkYmbCs6oQE"
     },
     {
+      "added_at": "2025-02-04 15:23:50",
+      "album": {
+        "name": "Nee Irundhal",
+        "url": "https://open.spotify.com/album/6JRgWcwgUBNsADtldL21WN"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        }
+      ],
+      "duration_ms": 193697,
+      "name": "Nee Irundhal",
+      "url": "https://open.spotify.com/track/3PIsAyTzSrtDX3JH9CxAmh"
+    },
+    {
+      "added_at": "2025-02-04 08:12:05",
+      "album": {
+        "name": "Roseuhh",
+        "url": "https://open.spotify.com/album/4hV8WQ4LF45Zvqy331fCRX"
+      },
+      "artists": [
+        {
+          "name": "Sajay ARS",
+          "url": "https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2"
+        },
+        {
+          "name": "Muji Fit",
+          "url": "https://open.spotify.com/artist/3AKk2SrkSQUqW3F2WfSsbq"
+        }
+      ],
+      "duration_ms": 228006,
+      "name": "Roseuhh",
+      "url": "https://open.spotify.com/track/5vAzNd2oiafo5yB79MII1u"
+    },
+    {
+      "added_at": "2025-01-29 14:54:54",
+      "album": {
+        "name": "Mudinjiriche Love-uh",
+        "url": "https://open.spotify.com/album/5CfRSZGUWm1UgRt7RVfwNJ"
+      },
+      "artists": [
+        {
+          "name": "Harish Ramachandran",
+          "url": "https://open.spotify.com/artist/7ghorCKxubrTHqGVOHDSiv"
+        },
+        {
+          "name": "Thillai Karthik",
+          "url": "https://open.spotify.com/artist/7itVIUaF54NxQvmA1ljGZA"
+        },
+        {
+          "name": "Sakthi Raj",
+          "url": "https://open.spotify.com/artist/77BxtwX1bzRnMWxm7SS7OU"
+        }
+      ],
+      "duration_ms": 180580,
+      "name": "Mudinjiriche Love-uh",
+      "url": "https://open.spotify.com/track/5zZm5rkuV25us8HO8IS4ef"
+    },
+    {
       "added_at": "2025-01-30 06:33:30",
       "album": {
         "name": "Death Molam",
@@ -155,30 +207,6 @@
       "duration_ms": 193300,
       "name": "Karakki (Raw Version) - From \"Think Specials\"",
       "url": "https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt"
-    },
-    {
-      "added_at": "2025-01-29 14:54:54",
-      "album": {
-        "name": "Mudinjiriche Love-uh",
-        "url": "https://open.spotify.com/album/5CfRSZGUWm1UgRt7RVfwNJ"
-      },
-      "artists": [
-        {
-          "name": "Harish Ramachandran",
-          "url": "https://open.spotify.com/artist/7ghorCKxubrTHqGVOHDSiv"
-        },
-        {
-          "name": "Thillai Karthik",
-          "url": "https://open.spotify.com/artist/7itVIUaF54NxQvmA1ljGZA"
-        },
-        {
-          "name": "Sakthi Raj",
-          "url": "https://open.spotify.com/artist/77BxtwX1bzRnMWxm7SS7OU"
-        }
-      ],
-      "duration_ms": 180580,
-      "name": "Mudinjiriche Love-uh",
-      "url": "https://open.spotify.com/track/5zZm5rkuV25us8HO8IS4ef"
     },
     {
       "added_at": "2025-02-03 06:03:05",
@@ -975,26 +1003,6 @@
       "duration_ms": 178000,
       "name": "Edho Seidhaai",
       "url": "https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV"
-    },
-    {
-      "added_at": "2024-10-04 05:12:27",
-      "album": {
-        "name": "Thakida Thaha Thaha",
-        "url": "https://open.spotify.com/album/2jDSqjyhG4syPd5uHc96ep"
-      },
-      "artists": [
-        {
-          "name": "Shaju Dhanaraj",
-          "url": "https://open.spotify.com/artist/3jawSTah689hO6LD9JnVTV"
-        },
-        {
-          "name": "prasanna",
-          "url": "https://open.spotify.com/artist/1df6x4uBRCdIDrDWik3yJl"
-        }
-      ],
-      "duration_ms": 260385,
-      "name": "Thakida Thaha Thaha",
-      "url": "https://open.spotify.com/track/08pNMQbnifUtYFWRWzHVBc"
     }
   ],
   "unique_name": "RADAR Tamil",

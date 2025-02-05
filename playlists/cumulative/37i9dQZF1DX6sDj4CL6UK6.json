@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 236666,
       "name": "Big Dawgs (Remix) [with A$AP Rocky]",
       "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
@@ -1984,6 +1984,28 @@
       "duration_ms": 186947,
       "name": "free",
       "url": "https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E"
+    },
+    {
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/6GGzNzRrPyIuXTp5yvwAHI"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220606,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/77mRIH0iEMSDycL7JwgPRz"
     },
     {
       "album": {
@@ -4484,7 +4506,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 242400,
       "name": "Perfect Life",
       "url": "https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu"
@@ -5040,6 +5062,28 @@
       "duration_ms": 186640,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8"
+    },
+    {
+      "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/0NgxRTUA93UA96M05S9pTH"
+      },
+      "artists": [
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113245,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/6ZLl6vyCbGeRzlCEiAJ2Vb"
     },
     {
       "album": {

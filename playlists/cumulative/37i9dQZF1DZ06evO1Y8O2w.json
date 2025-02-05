@@ -884,7 +884,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 314626,
       "name": "It's Not About You (It's About Me)",
       "url": "https://open.spotify.com/track/6UXYjqgQvV6JYIJjoxG5Vc"
@@ -1364,6 +1364,24 @@
       "duration_ms": 207920,
       "name": "Somewhere In My Lifetime",
       "url": "https://open.spotify.com/track/2MXUONwP4lnGiRLtqlKP9Z"
+    },
+    {
+      "album": {
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Soon Come Again",
+      "url": "https://open.spotify.com/track/2sl9F5mEvpIXpQMZ0Hk5N9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 139 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,054 likes - 139 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 95 | [Zero](https://open.spotify.com/track/78fm8tzHKEM47JmO9Nitca) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Woman To Woman \(Deluxe\)](https://open.spotify.com/album/2Zhm90xX10FfDsLkMP8E7d) | 4:07 |
 | 96 | [Make A Toast](https://open.spotify.com/track/624Qb8O6EKwQaq8nDPzHwW) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 4:26 |
 | 97 | [Speed Racing](https://open.spotify.com/track/6QSsY6S3tr1pZWKcRq13Zn) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Rich Forever 4](https://open.spotify.com/album/4dLLebdeyxmLDUOmUgmkEg) | 3:24 |
-| 98 | [Love For You \(feat\. Emanny\)](https://open.spotify.com/track/5Sz9YvcRaz8KrnypGOew9u) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6), [Emanny](https://open.spotify.com/artist/23zEEtmthkZdvz8j0LQHHo) | [All Love Lost](https://open.spotify.com/album/38jzfwvKmwgz4pKbPubaIY) | 6:20 |
-| 99 | [No Permission](https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 2:20 |
+| 98 | [No Permission](https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 2:20 |
+| 99 | [Love For You \(feat\. Emanny\)](https://open.spotify.com/track/5Sz9YvcRaz8KrnypGOew9u) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6), [Emanny](https://open.spotify.com/artist/23zEEtmthkZdvz8j0LQHHo) | [All Love Lost](https://open.spotify.com/album/38jzfwvKmwgz4pKbPubaIY) | 6:20 |
 | 100 | [Bayside \(feat\. 24kGoldn\)](https://open.spotify.com/track/5BJHS602oaTKgosEBc4NMJ) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Free Skizzy Mars](https://open.spotify.com/album/06uilmMkjOIuifxVYJyqwD) | 2:41 |
 | 101 | [Meagan Good](https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Rap?](https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm) | 2:58 |
 | 102 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 138 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 139 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `AboongAAAABQdUcMerkGnVOE152LQY25`
+Snapshot ID: `AbouFgAAAAC1RMdzHvbHZYCX24M0VqVu`

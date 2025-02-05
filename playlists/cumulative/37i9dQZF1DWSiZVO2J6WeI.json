@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Each And Every One Of Us",
+        "url": "https://open.spotify.com/album/0WUsUaFl6iJr3O0dAHT5l6"
+      },
+      "artists": [
+        {
+          "name": "Mindful Collage",
+          "url": "https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Each And Every One Of Us",
+      "url": "https://open.spotify.com/track/3yAkMJkc2Kzn6FCjaMIokZ"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33"
       },
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 148500,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm"

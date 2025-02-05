@@ -1,32 +1,32 @@
 {
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Ph\u01b0\u01a1ng M\u1ef9 Chi",
-  "num_followers": 177532,
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: GREY D",
+  "num_followers": 177552,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6D2HAAAAABwna7IBovrf4juYCqQUjFW",
+  "snapshot_id": "Z6JHrAAAAABSxsbDhWyTI8YG6t4KBsYc",
   "tracks": [
     {
       "added_at": "2025-02-01 17:00:21",
       "album": {
-        "name": "\u0110\u1ea9y Xe B\u00f2",
-        "url": "https://open.spotify.com/album/5eZ9ZYzpJ6epSGHdxgszWG"
+        "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
+        "url": "https://open.spotify.com/album/1ds7bOlVzPrP64m8Fyz1Tk"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
-          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
         },
         {
-          "name": "DTAP",
-          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+          "name": "Chillies",
+          "url": "https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4"
         }
       ],
-      "duration_ms": 165607,
-      "name": "\u0110\u1ea9y Xe B\u00f2",
-      "url": "https://open.spotify.com/track/4PBuCwrczgtyqxP8q6NTQW"
+      "duration_ms": 240000,
+      "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
+      "url": "https://open.spotify.com/track/5LQpQ6SDeaz6SIkR0lvsoC"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -36,13 +36,13 @@
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
-          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
         }
       ],
-      "duration_ms": 15744,
-      "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/2qmkBh0X88lPpkxKCAe1Gq"
+      "duration_ms": 16832,
+      "name": "GREY D ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/5xLOjitzkm4jrpNG7dvvdg"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -351,42 +351,6 @@
       "duration_ms": 29461,
       "name": "Th\u1ec3 Thi\u00ean ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/6z17WPPFRNtgZSox8f5pB2"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
-        "url": "https://open.spotify.com/album/1ds7bOlVzPrP64m8Fyz1Tk"
-      },
-      "artists": [
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
-        },
-        {
-          "name": "Chillies",
-          "url": "https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
-      "url": "https://open.spotify.com/track/5LQpQ6SDeaz6SIkR0lvsoC"
-    },
-    {
-      "added_at": "2025-02-01 17:00:21",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
-        }
-      ],
-      "duration_ms": 16832,
-      "name": "GREY D ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/5xLOjitzkm4jrpNG7dvvdg"
     },
     {
       "added_at": "2025-02-01 17:00:21",
@@ -715,6 +679,42 @@
       "duration_ms": 25353,
       "name": "\u0110\u1ee9c Ph\u00fac ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/5IKFKrV0VzmBDddhQnZ4ed"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "\u0110\u1ea9y Xe B\u00f2",
+        "url": "https://open.spotify.com/album/5eZ9ZYzpJ6epSGHdxgszWG"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+        }
+      ],
+      "duration_ms": 165607,
+      "name": "\u0110\u1ea9y Xe B\u00f2",
+      "url": "https://open.spotify.com/track/4PBuCwrczgtyqxP8q6NTQW"
+    },
+    {
+      "added_at": "2025-02-01 17:00:21",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        }
+      ],
+      "duration_ms": 15744,
+      "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/2qmkBh0X88lPpkxKCAe1Gq"
     }
   ],
   "unique_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",

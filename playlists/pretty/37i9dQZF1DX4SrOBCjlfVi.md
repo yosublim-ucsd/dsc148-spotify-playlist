@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring EST Gee, Latto & Playboi Carti,  Nardo Wick and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,321 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,451 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 27 | [Stop Blinking](https://open.spotify.com/track/5WNQwmdtWZhQCtaJz4gcVk) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Stop Blinking](https://open.spotify.com/album/69aaisl4lJmsmvAmvGWzk5) | 2:58 |
 | 28 | [I Was Cappin](https://open.spotify.com/track/1tF9GjN3XPju8uHq4hhXi5) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [I Was Cappin](https://open.spotify.com/album/0DQzcAYYhWeURDARtGjg4n) | 2:57 |
 | 29 | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/7I6XbdkDL1YLbRFeJFGJZT) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/5Iw8hmPOgFw9rzI9510FKQ) | 2:19 |
-| 30 | [Force My Hand \(feat\. No Savage\)](https://open.spotify.com/track/0npKzbJ435cSBuB2JTMgqD) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Force My Hand \(feat\. No Savage\)](https://open.spotify.com/album/267O8EYvOnakAmWmOXJZ7z) | 4:36 |
+| 30 | [Force My Hand](https://open.spotify.com/track/0npKzbJ435cSBuB2JTMgqD) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Force My Hand](https://open.spotify.com/album/267O8EYvOnakAmWmOXJZ7z) | 4:36 |
 | 31 | [Ain’t Settling](https://open.spotify.com/track/13krKD2DmeHPl7z20orRAZ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Still Havinn](https://open.spotify.com/album/69TPv5XIVhV37G2J5i5f6x) | 1:39 |
 | 32 | [A&G](https://open.spotify.com/track/7McFxWETe9IQFZGRphmxj8) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [A&G](https://open.spotify.com/album/3bWuAzXSUhYhDZWjj0VL65) | 2:01 |
 | 33 | [My N\*gga](https://open.spotify.com/track/6Uq4mdOpP2EjghpSSLVLgN) | [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi), [$ilkMoney](https://open.spotify.com/artist/6hj2p7pzusn5Fcdi35Yedr), [Big Kahuna Og](https://open.spotify.com/artist/5H9qWExyKaoAteM6JzlSoZ) | [My N\*gga](https://open.spotify.com/album/2IpuXukOp20Mv8HohtnJVD) | 4:55 |

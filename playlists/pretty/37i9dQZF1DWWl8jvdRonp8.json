@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 251687,
+  "num_followers": 251859,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Barra Abierta a los Dolidos... (En Vivo)",
-        "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 236835,
-      "name": "A Donde Vayas (En Vivo)",
-      "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Barra Abierta a los Dolidos... (En Vivo)",
+        "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 236835,
+      "name": "A Donde Vayas (En Vivo)",
+      "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Vete Mejor",
-      "url": "https://open.spotify.com/track/5dO4RByHh8krRh7om0jSYF"
+      "duration_ms": 219400,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/0WwP5kBrbmp3Or469SbSwR"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Vete Mejor",
+      "url": "https://open.spotify.com/track/5dO4RByHh8krRh7om0jSYF"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Encerrados Pero Enfiestados (Live Vol. 2)",
         "url": "https://open.spotify.com/album/3TKjCQA01ou9kAAYaXWZ2e"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 235813,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/6xQRigdALidNyqzQUM6m0A"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/0WwP5kBrbmp3Or469SbSwR"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Vete Con Ella",
-      "url": "https://open.spotify.com/track/7KdE3FPSxki2wwXDfq6ktE"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Te Reto",
         "url": "https://open.spotify.com/album/4w1wSD5VLpOy2xtrB8KHYn"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 200063,
       "name": "Presiento que voy a llorar",
       "url": "https://open.spotify.com/track/0fIvZVrFW3K9k1042sAZWw"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Vete Con Ella",
+      "url": "https://open.spotify.com/track/7KdE3FPSxki2wwXDfq6ktE"
     },
     {
       "added_at": "2025-01-23 17:30:18",

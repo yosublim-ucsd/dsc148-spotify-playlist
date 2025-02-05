@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Can't Fake It",
+        "url": "https://open.spotify.com/album/73CFBKvVMctTN6BkQhTPsl"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169640,
+      "name": "Can't Fake It",
+      "url": "https://open.spotify.com/track/0ocTT0J237xFSe33Pd7GO7"
+    },
+    {
+      "album": {
         "name": "ZOMBIES 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
       },

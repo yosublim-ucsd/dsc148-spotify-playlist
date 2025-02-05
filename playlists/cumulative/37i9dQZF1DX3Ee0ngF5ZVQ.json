@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Boys Growing Up",
+        "url": "https://open.spotify.com/album/4PV7QhsKFblKMyMQCFXBct"
+      },
+      "artists": [
+        {
+          "name": "Ned LeDoux",
+          "url": "https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220108,
+      "name": "Boys Growing Up",
+      "url": "https://open.spotify.com/track/359avoGK4rssamzUomqcLU"
+    },
+    {
+      "album": {
         "name": "Break Up In A Bar",
         "url": "https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5"
       },
@@ -8998,7 +9016,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 214756,
       "name": "She Always Takes Me Back",
       "url": "https://open.spotify.com/track/6hNrQDeyGlEA32LorsV8nS"

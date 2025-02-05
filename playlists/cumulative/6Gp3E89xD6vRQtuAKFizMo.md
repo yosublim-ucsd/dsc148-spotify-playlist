@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-398 songs - 19 hr 12 min
+399 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bury Me Alive](https://open.spotify.com/track/1BzKaH0CLmGYmML7OkSari) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Bury Me Alive](https://open.spotify.com/album/4zIOaE92119xnp2uWxHWT9) | 4:50 | 2022-05-06 | 2022-06-25 |
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-05-06 | 2022-09-10 |
 | [By Myself](https://open.spotify.com/track/4aN8bSBmzrsiKJYkEOU07w) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Future Unfold](https://open.spotify.com/album/52WRIedOWI8utWphQXhrRa) | 3:03 | 2024-04-19 |  |
+| [Call Me On Your Way Home \(feat\. Alisa\)](https://open.spotify.com/track/1qaajTYMmyFJWeP6Ze535N) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Alisa](https://open.spotify.com/artist/3V64tT9rVD9R0DaA4XKt3K) | [Call Me On Your Way Home \(feat\. Alisa\)](https://open.spotify.com/album/2GdaVuxuvnbvB1FxZtToO7) | 2:55 | 2025-02-04 |  |
 | [Call Me Up \(feat\. Namelle\)](https://open.spotify.com/track/6HrgbjynD4n5qPwUFkyGMR) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Call Me Up \(feat\. Namelle\)](https://open.spotify.com/album/3QMSVLN7YlUUGeEzr9lObT) | 2:46 | 2023-03-02 | 2023-05-27 |
 | [Can't Stop Me](https://open.spotify.com/track/0Of9Hs4sqM83EuNpYxB1Lw) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Can't Stop Me](https://open.spotify.com/album/2pxDxyYUtfpmwBaZ6A4rzE) | 2:35 | 2024-02-16 |  |
 | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/track/6zKYgILhhx9vYGa4imIvFm) | [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/album/52E6cNhQu9YtNb1x6qP9vf) | 3:31 | 2022-09-27 | 2023-04-09 |

@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "When I'm Alone (VIP)",
+        "url": "https://open.spotify.com/album/2ekLqVA30VwFDGOMdj6Ncm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Arnold",
+          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202619,
+      "name": "When I'm Alone - VIP",
+      "url": "https://open.spotify.com/track/4Bm0myZlodFmgss7C2Fxv4"
+    },
+    {
+      "album": {
         "name": "Count My Blessings",
         "url": "https://open.spotify.com/album/1ihGORcoWn4WCKYeWO8FHW"
       },

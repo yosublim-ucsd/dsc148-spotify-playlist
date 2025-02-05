@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZI7fwD69Nfv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZI7fwD69Nfv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZI7fwD69Nfv)
 
-### [TAMALIZA!](https://open.spotify.com/playlist/37i9dQZF1DWZI7fwD69Nfv)
+### [Música de Fonda](https://open.spotify.com/playlist/37i9dQZF1DWZI7fwD69Nfv)
 
-> ¿A quién le tocaron los tamales?
+> ¡Ya huele a sopita! Buen provecho.
 
 275 songs - 15 hr 51 min
 

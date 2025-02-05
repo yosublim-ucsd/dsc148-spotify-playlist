@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 240666,
       "name": "Inidhai",
       "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
@@ -5395,6 +5395,32 @@
     },
     {
       "album": {
+        "name": "Nee Irundhal",
+        "url": "https://open.spotify.com/album/6JRgWcwgUBNsADtldL21WN"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193697,
+      "name": "Nee Irundhal",
+      "url": "https://open.spotify.com/track/3PIsAyTzSrtDX3JH9CxAmh"
+    },
+    {
+      "album": {
         "name": "Nee Sooriyanadi",
         "url": "https://open.spotify.com/album/0zvU1pF5IKXQ79b61qmHRl"
       },
@@ -7069,6 +7095,28 @@
     },
     {
       "album": {
+        "name": "Roseuhh",
+        "url": "https://open.spotify.com/album/4hV8WQ4LF45Zvqy331fCRX"
+      },
+      "artists": [
+        {
+          "name": "Sajay ARS",
+          "url": "https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2"
+        },
+        {
+          "name": "Muji Fit",
+          "url": "https://open.spotify.com/artist/3AKk2SrkSQUqW3F2WfSsbq"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228006,
+      "name": "Roseuhh",
+      "url": "https://open.spotify.com/track/5vAzNd2oiafo5yB79MII1u"
+    },
+    {
+      "album": {
         "name": "Rotoram Pakayila",
         "url": "https://open.spotify.com/album/5M0jTe8qJQ5u4vrI1i2Dq7"
       },
@@ -7734,7 +7782,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 260385,
       "name": "Thakida Thaha Thaha",
       "url": "https://open.spotify.com/track/08pNMQbnifUtYFWRWzHVBc"

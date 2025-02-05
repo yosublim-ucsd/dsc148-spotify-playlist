@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Buono Time",
+        "url": "https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Buono Time",
+      "url": "https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY"
+    },
+    {
+      "album": {
         "name": "NEW CITY",
         "url": "https://open.spotify.com/album/3i8z39blp9XUU0ijk8PGC9"
       },
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 337173,
       "name": "IDEA",
       "url": "https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh"
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 307186,
       "name": "Kobune",
       "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
@@ -5182,7 +5200,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 358520,
       "name": "Straying In Alpacas",
       "url": "https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2"
@@ -5346,6 +5364,24 @@
       "duration_ms": 391261,
       "name": "Take the S Line",
       "url": "https://open.spotify.com/track/3h311N1RksKhDEphs0aa2B"
+    },
+    {
+      "album": {
+        "name": "Tall Man",
+        "url": "https://open.spotify.com/album/5WSZRZdRfvS1XY39DGVh68"
+      },
+      "artists": [
+        {
+          "name": "Solitary Circus",
+          "url": "https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223521,
+      "name": "Tall Man",
+      "url": "https://open.spotify.com/track/4XrCnlytKeHaoB3umqy4dQ"
     },
     {
       "album": {
@@ -7204,7 +7240,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 188830,
       "name": "\u611b\u306e\u3057\u308b\u3057",
       "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"

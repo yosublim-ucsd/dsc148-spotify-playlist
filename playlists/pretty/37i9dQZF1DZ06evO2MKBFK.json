@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 628203,
+  "num_followers": 628326,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z561gAAAAACz20jbPSWfWeISLH2yezLb",
+  "snapshot_id": "Z6AHAAAAAABSNWP265kdy4CHvlNbCERA",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
+        "name": "KPOP - JPOP Made In Korea Vol. 2",
+        "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 198760,
-      "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-      "url": "https://open.spotify.com/track/5brqQm02a7xLvdStXioywi"
+      "duration_ms": 198912,
+      "name": "Gara Gara Go!!",
+      "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KPOP - JPOP Made In Korea Vol. 2",
-        "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
+        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 198912,
-      "name": "Gara Gara Go!!",
-      "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
+      "duration_ms": 198760,
+      "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+      "url": "https://open.spotify.com/track/5brqQm02a7xLvdStXioywi"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 47643,
-      "name": "Intro (Alive)",
-      "url": "https://open.spotify.com/track/4G1DVtcCpyzcA3tBjOvF38"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 47643,
+      "name": "Intro (Alive)",
+      "url": "https://open.spotify.com/track/4G1DVtcCpyzcA3tBjOvF38"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 213640,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 205200,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,

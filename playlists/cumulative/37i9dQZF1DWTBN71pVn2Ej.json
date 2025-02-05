@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Split Chain (pictured), Superheaven, quannnic, Glixen, and more.",
+  "description": "The shape of noise to come with Glixen (pictured), Superheaven, Glare, and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 182099,
       "name": "(Re)-Extract",
       "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
@@ -2433,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/1ESDjhJCni1Q9HmjMw1KEd"
+      },
+      "artists": [
+        {
+          "name": "Slow Crush",
+          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286994,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/4TPeK1K6tgwrnI3HjPSdUX"
+    },
+    {
+      "album": {
         "name": "Cherry Red Rage",
         "url": "https://open.spotify.com/album/2F314L6DLTaWt1BlO9JTdi"
       },
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 114700,
       "name": "Doll",
       "url": "https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg"
@@ -5591,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/362mjExaEaTHsrGK5tdBOU"
+      },
+      "artists": [
+        {
+          "name": "Glare",
+          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219457,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/2whjziw7ZEzkXTUhuQ6tAF"
+    },
+    {
+      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/5dzgzO0jjIEkEYznHgXolo"
       },
@@ -7259,6 +7295,24 @@
     },
     {
       "album": {
+        "name": "ODDWORLD",
+        "url": "https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "LAST DANCE",
+      "url": "https://open.spotify.com/track/5huaN0RbN1CEnSEmIlr2n1"
+    },
+    {
+      "album": {
         "name": "Laugh",
         "url": "https://open.spotify.com/album/0OIDcAIHVAaxGc7ngpwN91"
       },
@@ -8412,7 +8466,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 207008,
       "name": "Mourning Haze",
       "url": "https://open.spotify.com/track/6siemd7q5UtGQHMoFDz9l0"
@@ -12062,7 +12116,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 255740,
       "name": "take.one.minute",
       "url": "https://open.spotify.com/track/1kz5vwtYp3oYfzlIAQfGwU"
@@ -12798,6 +12852,24 @@
       "duration_ms": 175244,
       "name": "TNT",
       "url": "https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4"
+    },
+    {
+      "album": {
+        "name": "To Live in a Different Way",
+        "url": "https://open.spotify.com/album/6K3FQUoE7CVh1eZ8BlRHk6"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263442,
+      "name": "To live in a different way",
+      "url": "https://open.spotify.com/track/65Dlo5TaWyYwDlAQjbb7ws"
     },
     {
       "album": {

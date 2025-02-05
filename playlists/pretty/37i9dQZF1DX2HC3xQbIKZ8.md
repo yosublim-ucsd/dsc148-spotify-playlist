@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Reggae, roots and dub\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,105 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,120 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 61 | [So True / Koia Ko Koe](https://open.spotify.com/track/7wBWcOC52UDk3OEejLKHAJ) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [So True / Koia Ko Koe](https://open.spotify.com/album/6NoNRr7Wh8J7WBEdRdhclH) | 3:52 |
 | 62 | [NEVER](https://open.spotify.com/track/6bhH46IM37BgPXxRpRFHqp) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [NEVER](https://open.spotify.com/album/1tWnJIkiZxQo3O45LJOYsL) | 3:30 |
 | 63 | [Papatuānuku He Ataahua](https://open.spotify.com/track/2F6z5DlnBcKscg5SzsLx8A) | [Ra Charmian](https://open.spotify.com/artist/0BTKTeI5PQN4V5DC47nJCo) | [Papatuānuku He Ataahua](https://open.spotify.com/album/034nWXWWL11yed8ummVyqq) | 2:22 |
-| 64 | [TELEFONI](https://open.spotify.com/track/1HnkTmTWOPFShHulgMHN8R) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Sefos.Beats](https://open.spotify.com/artist/2aTFbEhLLTETPB9jRgs8VI) | [TELEFONI](https://open.spotify.com/album/4d973tfQ907dhXH2fOCJAi) | 2:30 |
+| 64 | [TELEFONI](https://open.spotify.com/track/1HnkTmTWOPFShHulgMHN8R) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [TELEFONI](https://open.spotify.com/album/4d973tfQ907dhXH2fOCJAi) | 2:56 |
 | 65 | [Matters](https://open.spotify.com/track/1X3wZz1kuEyMpDog4XmKVP) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Enough](https://open.spotify.com/album/24wFiZb5AKjpUt9DJeyeFP) | 4:14 |
 | 66 | [On My Way](https://open.spotify.com/track/6SxVjWpYrs3ONAiT2zEN38) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [On My Way](https://open.spotify.com/album/0uSQfBqp7FRrJ3AyuAMv6K) | 3:22 |
 | 67 | [JAMMIN](https://open.spotify.com/track/29pm7xgC210nd0N3uWWdNX) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Revus](https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa), [Sefos.Beats](https://open.spotify.com/artist/2aTFbEhLLTETPB9jRgs8VI) | [JAMMIN](https://open.spotify.com/album/5VSJYyzqkwZwG9EnkDxHq6) | 2:50 |

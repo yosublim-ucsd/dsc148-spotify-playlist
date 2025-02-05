@@ -2,7 +2,7 @@
 
 ### [HALFTIME SHOW HITS](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Soundtrack the big game with all the hits from past and present halftime shows!
+> Soundtrack the Super Bowl with a ready made playlist with all the hits from past and present halftime shows!
 
 757 songs - 1 day 19 hr 51 min
 

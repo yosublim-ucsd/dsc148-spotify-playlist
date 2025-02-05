@@ -1,12 +1,12 @@
 {
   "description": "Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.",
-  "num_followers": 124449,
+  "num_followers": 124441,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QxSwAAAAA4HFx36xbm6s/uFiK69A4m",
+  "snapshot_id": "Z6J1mwAAAACCyi29X5EA2SW5Jd9irB2d",
   "tracks": [
     {
       "added_at": "2025-01-16 02:32:53",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/3N3QkpBCcVNdc3H4gH8ahD"
     },
     {
+      "added_at": "2025-02-04 20:15:18",
+      "album": {
+        "name": "King of Everything",
+        "url": "https://open.spotify.com/album/7D7UOOXWySjWezBDuaqa4p"
+      },
+      "artists": [
+        {
+          "name": "Adrian Lyles",
+          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "King of Everything",
+      "url": "https://open.spotify.com/track/3MBMDJbcQoUl5WKHgD5cp8"
+    },
+    {
       "added_at": "2024-05-22 11:00:00",
       "album": {
         "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
@@ -151,6 +167,22 @@
       "duration_ms": 242160,
       "name": "What Dreams Are Made Of",
       "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
+    },
+    {
+      "added_at": "2025-02-04 20:16:27",
+      "album": {
+        "name": "Can't Fake It",
+        "url": "https://open.spotify.com/album/73CFBKvVMctTN6BkQhTPsl"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Can't Fake It",
+      "url": "https://open.spotify.com/track/0ocTT0J237xFSe33Pd7GO7"
     },
     {
       "added_at": "2024-05-22 11:00:00",

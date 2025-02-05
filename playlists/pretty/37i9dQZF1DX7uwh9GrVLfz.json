@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: 04 Limited Sazabys",
-  "num_followers": 125924,
+  "num_followers": 125954,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "ETERNAL RECURRENCE",
+        "url": "https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW"
+      },
+      "artists": [
+        {
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "SEE OFF",
+      "url": "https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "Straight Up (feat. Kj)",
         "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 252300,
       "name": "Straight Up (feat. Kj)",
       "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "ETERNAL RECURRENCE",
-        "url": "https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW"
-      },
-      "artists": [
-        {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "SEE OFF",
-      "url": "https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
+        "name": "A FORLORN HOPE",
+        "url": "https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr"
       },
       "artists": [
         {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
         }
       ],
-      "duration_ms": 153866,
-      "name": "Love song",
-      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
+      "duration_ms": 122493,
+      "name": "DEEP",
+      "url": "https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "A FORLORN HOPE",
-        "url": "https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
       },
       "artists": [
         {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
         }
       ],
-      "duration_ms": 122493,
-      "name": "DEEP",
-      "url": "https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT"
+      "duration_ms": 153866,
+      "name": "Love song",
+      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u68b5\u5504 -bonbai-",
-        "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
-      },
-      "artists": [
-        {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "WOKE",
         "url": "https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 281000,
       "name": "SUNTOWN",
       "url": "https://open.spotify.com/track/1UUoK3etmWU8lFOa4wLod6"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "\u68b5\u5504 -bonbai-",
+        "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
+      },
+      "artists": [
+        {
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "Beginning",
-        "url": "https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye"
-      },
-      "artists": [
-        {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Place of Fire - Beginning mix",
-      "url": "https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 254373,
       "name": "PLAYBACK",
       "url": "https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "Beginning",
+        "url": "https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye"
+      },
+      "artists": [
+        {
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Place of Fire - Beginning mix",
+      "url": "https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u6c38\u9060\u885d\u52d5",
-        "url": "https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz"
-      },
-      "artists": [
-        {
-          "name": "I's",
-          "url": "https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU"
-        }
-      ],
-      "duration_ms": 254130,
-      "name": "\u6c38\u9060\u885d\u52d5",
-      "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "illuminate",
         "url": "https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 203024,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "\u6c38\u9060\u885d\u52d5",
+        "url": "https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz"
+      },
+      "artists": [
+        {
+          "name": "I's",
+          "url": "https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU"
+        }
+      ],
+      "duration_ms": 254130,
+      "name": "\u6c38\u9060\u885d\u52d5",
+      "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "RAIDEN GO",
-        "url": "https://open.spotify.com/album/5j3F1WvgLBwTYl6F51Nj8B"
+        "name": "LOVE THY DRUNX",
+        "url": "https://open.spotify.com/album/1n2g5AkNNm468K3AG3INeo"
       },
       "artists": [
         {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+          "name": "The Cherry Coke$",
+          "url": "https://open.spotify.com/artist/6GWciujSDoDzAAEcDp48sp"
+        },
+        {
+          "name": "\u30b6\u30fb\u68ee\u6771",
+          "url": "https://open.spotify.com/artist/1XYNQauHdnoJ7GYp9WyDC7"
         }
       ],
-      "duration_ms": 128132,
-      "name": "RAIDEN GO",
-      "url": "https://open.spotify.com/track/1YaE5X1vpdDuG9Os6gknB6"
+      "duration_ms": 228296,
+      "name": "\u3055\u3089\u3070\u9752\u6625\u306e\u5149 feat. \u30b6\u30fb\u68ee\u6771",
+      "url": "https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "LOVE THY DRUNX",
-        "url": "https://open.spotify.com/album/1n2g5AkNNm468K3AG3INeo"
+        "name": "Indian Burn",
+        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
       },
       "artists": [
         {
-          "name": "The Cherry Coke$",
-          "url": "https://open.spotify.com/artist/6GWciujSDoDzAAEcDp48sp"
-        },
-        {
-          "name": "\u30b6\u30fb\u68ee\u6771",
-          "url": "https://open.spotify.com/artist/1XYNQauHdnoJ7GYp9WyDC7"
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
         }
       ],
-      "duration_ms": 228296,
-      "name": "\u3055\u3089\u3070\u9752\u6625\u306e\u5149 feat. \u30b6\u30fb\u68ee\u6771",
-      "url": "https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN"
+      "duration_ms": 130225,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/7CJWvOBiVULjCGdElIkmNp"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "Indian Burn",
-        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+        "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/7IpuaGkwY82D6R0uQgZAJo"
       },
       "artists": [
         {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
         }
       ],
-      "duration_ms": 130225,
-      "name": "Parasites",
-      "url": "https://open.spotify.com/track/7CJWvOBiVULjCGdElIkmNp"
+      "duration_ms": 172053,
+      "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/4i8VGvlJnZJrw7y5TBfMoT"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
-        "url": "https://open.spotify.com/album/7IpuaGkwY82D6R0uQgZAJo"
+        "name": "PUT ON FRESH PAINT",
+        "url": "https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x"
       },
       "artists": [
         {
-          "name": "PK shampoo",
-          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+          "name": "Husking Bee",
+          "url": "https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy"
         }
       ],
-      "duration_ms": 172053,
-      "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/4i8VGvlJnZJrw7y5TBfMoT"
+      "duration_ms": 161026,
+      "name": "SUN MYSELF",
+      "url": "https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z"
     }
   ],
   "unique_name": "Punk Japan",

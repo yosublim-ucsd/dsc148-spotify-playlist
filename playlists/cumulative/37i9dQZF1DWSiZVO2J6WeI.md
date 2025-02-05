@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-433 songs - 22 hr 5 min
+434 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-02-01 | 2024-12-18 |
 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 | 2022-01-19 | 2024-01-18 |
 | [Dustlight](https://open.spotify.com/track/5wFaVk3TI1KE19tCct4Wqw) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0), [Andrew J Klimek](https://open.spotify.com/artist/3p9eCU04aiju30HHd6vQZd) | [Suspension](https://open.spotify.com/album/0IlGzWH0YNM4eR8U5paNBb) | 8:25 | 2022-04-13 | 2022-04-20 |
+| [Each And Every One Of Us](https://open.spotify.com/track/3yAkMJkc2Kzn6FCjaMIokZ) | [Mindful Collage](https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M) | [Each And Every One Of Us](https://open.spotify.com/album/0WUsUaFl6iJr3O0dAHT5l6) | 4:04 | 2025-01-21 |  |
 | [Echoes](https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 4:20 | 2022-01-19 | 2023-03-15 |
 | [Echoes \- Stripped](https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 3:39 | 2022-01-12 | 2023-03-15 |
 | [Eden](https://open.spotify.com/track/1DFn1WHnPSr80WSKNJcdWG) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Eden](https://open.spotify.com/album/103Ei0O61EuLk5cnadIT0t) | 3:04 | 2024-01-17 | 2024-03-21 |
@@ -160,7 +161,7 @@
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2022-01-12 | 2023-03-15 |
 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 | 2025-01-22 |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2022-01-12 | 2023-07-29 |
-| [Eyes Closed](https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Eyes Closed](https://open.spotify.com/album/5ThyCkeaaYKTizePiQsoNs) | 2:28 | 2024-05-20 |  |
+| [Eyes Closed](https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Eyes Closed](https://open.spotify.com/album/5ThyCkeaaYKTizePiQsoNs) | 2:28 | 2024-05-20 | 2025-02-05 |
 | [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 | 2024-05-22 |
 | [Falling Leaves](https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Falling Leaves](https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4) | 2:19 | 2024-02-27 | 2024-09-15 |
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 | 2024-01-18 |

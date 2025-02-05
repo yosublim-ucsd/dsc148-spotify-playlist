@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with Laidback Luke & Henry Fong
 
-945 songs - 2 day 0 hr 27 min
+946 songs - 2 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [Open Up The Door](https://open.spotify.com/track/2ZeKFaqUq3NPXECGKlxG95) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Open Up The Door](https://open.spotify.com/album/1JfjVkwfK41qSS4zXJgvaU) | 2:14 | 2024-05-17 | 2024-07-06 |
 | [Otherside](https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Otherside](https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG) | 3:30 | 2023-07-28 | 2024-05-18 |
 | [Out of Love](https://open.spotify.com/track/3eWPbGAI6Db9eP6PPSE9Nt) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Out of Love](https://open.spotify.com/album/3yfOjkxLPzuG5727fyBPaQ) | 3:00 | 2023-10-13 | 2023-11-11 |
+| [OUT OF MY MIND](https://open.spotify.com/track/5GT6lybuzfwsWvhLqdwEKg) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [OUT OF MY MIND](https://open.spotify.com/album/1ACFKfuUnG6QKrqK2JevQC) | 2:20 | 2025-01-31 |  |
 | [Out Of Time](https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Out Of Time](https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM) | 3:23 | 2023-12-01 | 2024-02-10 |
 | [Out Past 2](https://open.spotify.com/track/636DZcUk6YMmdG0rliLJ9H) | [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL), [AMPRS&ND](https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK), [BLK&WHT](https://open.spotify.com/artist/2C2HyiSzWJdRhsFRTTR9p8) | [Out Past 2](https://open.spotify.com/album/0Wj9OJw633Op4VZiCVJERY) | 3:16 | 2024-08-23 | 2024-12-07 |
 | [Outcast \(with Fivio Foreign\)](https://open.spotify.com/track/1JNgvtfz2bzr4yvVImSvk1) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 3:25 | 2022-09-30 | 2023-04-01 |
@@ -895,7 +896,7 @@
 | [Vibes on Tap](https://open.spotify.com/track/1Gr57mnG8D5S2DRvnBPEaT) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Vibes on Tap](https://open.spotify.com/album/35SzRaDCN9sThUGJwWstIH) | 4:12 | 2021-10-29 | 2022-03-26 |
 | [Vibin' Thing](https://open.spotify.com/track/2XuSf4trem71MrpauiM6lI) | [Vush](https://open.spotify.com/artist/0yX57vC3v0CSd0fNqzYpDs), [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Vibin' Thing](https://open.spotify.com/album/1U5xDYdjSiIIdGahfq6WoF) | 3:07 | 2022-03-18 | 2022-05-05 |
 | [Vibration](https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Vibration](https://open.spotify.com/album/3s3X1n94zpVxVRuUygWOYZ) | 3:50 | 2024-03-22 | 2024-07-13 |
-| [Vikings](https://open.spotify.com/track/5K5CdyikJA8RE1Mc7CRgTm) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Vikings](https://open.spotify.com/album/5jq4p9qA8zF8fBrqLv4nbQ) | 2:19 | 2024-12-06 |  |
+| [Vikings](https://open.spotify.com/track/5K5CdyikJA8RE1Mc7CRgTm) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Vikings](https://open.spotify.com/album/5jq4p9qA8zF8fBrqLv4nbQ) | 2:19 | 2024-12-06 | 2025-02-05 |
 | [VIP](https://open.spotify.com/track/5K762jYRpdnBm0uKKLKQCO) | [Dante](https://open.spotify.com/artist/7tACPI5pmla58E5B6R5V11), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3) | [VIP](https://open.spotify.com/album/5m6jMkebMtofI4GlETRzZN) | 3:31 | 2021-10-29 | 2022-01-20 |
 | [Void](https://open.spotify.com/track/0bP2hNFQL5GPRe9p34F13Q) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Shot Callers Vol\. 1](https://open.spotify.com/album/2bl7hbEZOyQuYTNiZOKXYb) | 2:41 | 2021-10-29 | 2022-07-30 |
 | [Want My Love](https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Nadia Gattas](https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw) | [Want My Love](https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd) | 2:37 | 2024-03-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Tokyo Young Vision",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Tete",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 156521,
       "name": "Beginning (feat. BIG POISON)",
       "url": "https://open.spotify.com/track/2LZZ4xqBS42yIHHzslaUoG"
@@ -1783,6 +1783,32 @@
     },
     {
       "album": {
+        "name": "better (feat. Authority & KVGGLV)",
+        "url": "https://open.spotify.com/album/2a6fruOE3awpm3Ry52RiC1"
+      },
+      "artists": [
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        },
+        {
+          "name": "Authority",
+          "url": "https://open.spotify.com/artist/6fY9vo5VWazGw5fZesSB71"
+        },
+        {
+          "name": "KVGGLV",
+          "url": "https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "better (feat. Authority & KVGGLV)",
+      "url": "https://open.spotify.com/track/1iIEOAADsM5xyaCX77VWOX"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/5EH7GcvBwcKl9oX6y8z5AE"
       },
@@ -1852,7 +1878,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 213816,
       "name": "Big mouth",
       "url": "https://open.spotify.com/track/6JvudsA23hxLYJ4e5SFqK8"
@@ -1892,6 +1918,24 @@
       "duration_ms": 166075,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/5HozX33fkmavrDrpHXLi0L"
+    },
+    {
+      "album": {
+        "name": "bill gates",
+        "url": "https://open.spotify.com/album/01OeaQerOKD7LzYqByuwMX"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153465,
+      "name": "bill gates",
+      "url": "https://open.spotify.com/track/3sAzvCRX1FeFh4xXIUEvhO"
     },
     {
       "album": {
@@ -3330,7 +3374,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 218186,
       "name": "DayNnight",
       "url": "https://open.spotify.com/track/39EVWzZfmYcDgYJmfBG5rG"
@@ -3676,7 +3720,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 159927,
       "name": "Dive",
       "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
@@ -5704,7 +5748,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 105000,
       "name": "Geeeks",
       "url": "https://open.spotify.com/track/1AwfJ1293eWHeCWcXFv5ik"
@@ -6782,6 +6826,24 @@
       "duration_ms": 208880,
       "name": "Hotbox",
       "url": "https://open.spotify.com/track/24yflAQpScsE9WvjQLAyxc"
+    },
+    {
+      "album": {
+        "name": "Hotondo",
+        "url": "https://open.spotify.com/album/351qKvGzN2MIzt1FZ2dWk2"
+      },
+      "artists": [
+        {
+          "name": "TOFU",
+          "url": "https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Hotondo",
+      "url": "https://open.spotify.com/track/06wQpAkRrhZHKu0KDZdmFq"
     },
     {
       "album": {
@@ -7942,6 +8004,36 @@
       "duration_ms": 128013,
       "name": "Karate",
       "url": "https://open.spotify.com/track/5WVG5gcr3IYucGjTAJtKp9"
+    },
+    {
+      "album": {
+        "name": "KEEP IT ALL DAY (feat. tombijerk, LiTa $leepy & Bixey)",
+        "url": "https://open.spotify.com/album/2jO9qlt6kf4m9Rk8q4h5gz"
+      },
+      "artists": [
+        {
+          "name": "13KID'S",
+          "url": "https://open.spotify.com/artist/6SXE1LYvCRysZoq12xvQnJ"
+        },
+        {
+          "name": "tombi jerk",
+          "url": "https://open.spotify.com/artist/1TBe71VFtrF7vHoEHHFRve"
+        },
+        {
+          "name": "LiTa $leepy",
+          "url": "https://open.spotify.com/artist/7J2u2ilGoD35nmfupl28nf"
+        },
+        {
+          "name": "Bixey",
+          "url": "https://open.spotify.com/artist/3yVj8ALvHeUfykmqQsbJwp"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "KEEP IT ALL DAY (feat. tombijerk, LiTa $leepy & Bixey)",
+      "url": "https://open.spotify.com/track/213B46YtmNfkpAJOsSrbA1"
     },
     {
       "album": {
@@ -9500,7 +9592,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 169343,
       "name": "My Soul",
       "url": "https://open.spotify.com/track/75wfLDRXNRdzrhQYHUJwrm"
@@ -10169,6 +10261,24 @@
     },
     {
       "album": {
+        "name": "NO RULES",
+        "url": "https://open.spotify.com/album/0NTjnb9gP7X9ighkElA32Z"
+      },
+      "artists": [
+        {
+          "name": "5Leaf",
+          "url": "https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168150,
+      "name": "NO RULES",
+      "url": "https://open.spotify.com/track/5OEPtB1XLGQulfdirZVEKX"
+    },
+    {
+      "album": {
         "name": "COOL DOWN 2",
         "url": "https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG"
       },
@@ -10188,6 +10298,24 @@
       "duration_ms": 208211,
       "name": "No suit",
       "url": "https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6"
+    },
+    {
+      "album": {
+        "name": "No.1",
+        "url": "https://open.spotify.com/album/328jY42ixtJbFIU6wjHN6R"
+      },
+      "artists": [
+        {
+          "name": "\u7409",
+          "url": "https://open.spotify.com/artist/7BxT3Bw182UA9mSUNxLee1"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/14v0B5Mz2hIYRltiAFyHIq"
     },
     {
       "album": {
@@ -10283,6 +10411,24 @@
     },
     {
       "album": {
+        "name": "not strong",
+        "url": "https://open.spotify.com/album/5aemYfiEZAfX22rvBLcABa"
+      },
+      "artists": [
+        {
+          "name": "Adem",
+          "url": "https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "not strong",
+      "url": "https://open.spotify.com/track/1UvJf3DDd64pnPiRCBQayR"
+    },
+    {
+      "album": {
         "name": "CROSS OVA",
         "url": "https://open.spotify.com/album/6TYODp2J2aSbnHnEnvTcuN"
       },
@@ -10346,7 +10492,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 182442,
       "name": "Oh Oh Oh (feat. DJ PMX & eyden)",
       "url": "https://open.spotify.com/track/0qOvLMSRYJ0reORGFPnJZt"
@@ -13355,6 +13501,24 @@
     },
     {
       "album": {
+        "name": "Step In To The Pure Life",
+        "url": "https://open.spotify.com/album/0AuBKTk1ut0UQ8OgPCDXeE"
+      },
+      "artists": [
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Step In To The Pure Life",
+      "url": "https://open.spotify.com/track/4kv4cjJMaFO6dsFagTlvup"
+    },
+    {
+      "album": {
         "name": "Day'N'Nite 2",
         "url": "https://open.spotify.com/album/4S8rLJZa2GAFA5OrTZy2sw"
       },
@@ -14550,7 +14714,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 126153,
       "name": "ugokuhikari",
       "url": "https://open.spotify.com/track/5CldiICU644zpGnQeJxC9s"
@@ -14798,6 +14962,28 @@
       "duration_ms": 186407,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/39OJLMt5VrA6xD6rpS3Ark"
+    },
+    {
+      "album": {
+        "name": "WAKE UP (feat. ROAR)",
+        "url": "https://open.spotify.com/album/0ntKRQqWLISoRPVTbGNhbC"
+      },
+      "artists": [
+        {
+          "name": "rirugiliyangugili",
+          "url": "https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9"
+        },
+        {
+          "name": "ROAR",
+          "url": "https://open.spotify.com/artist/2uXVymFjJxoA4W2aXtBUUy"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143418,
+      "name": "WAKE UP (feat. ROAR)",
+      "url": "https://open.spotify.com/track/4S5NUHDQni0UwYowWkqqvj"
     },
     {
       "album": {
@@ -15348,7 +15534,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 117492,
       "name": "yabebe (feat. sitissy luvit)",
       "url": "https://open.spotify.com/track/0Lbb4aGRa2tqxcYY4S2Z2u"
@@ -15366,7 +15552,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 177230,
       "name": "Yagi",
       "url": "https://open.spotify.com/track/2MNYR7CXddNZMZbKrYKK29"
@@ -15856,7 +16042,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 170921,
       "name": "\u304a\u3063\u3071\u3058\u3081\uff01",
       "url": "https://open.spotify.com/track/3Fsob6FMxkNjupTQwA1Auo"

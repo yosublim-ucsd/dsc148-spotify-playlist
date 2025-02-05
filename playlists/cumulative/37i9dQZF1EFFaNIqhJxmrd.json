@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Kpop Piano #70",
+        "url": "https://open.spotify.com/album/4kJWITPSP2fptI2bDgEMk6"
+      },
+      "artists": [
+        {
+          "name": "Shin Giwon Piano",
+          "url": "https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/2WQN4YorpjKFYiRXVeq3DD"
+    },
+    {
+      "album": {
         "name": "Same Old",
         "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
       },

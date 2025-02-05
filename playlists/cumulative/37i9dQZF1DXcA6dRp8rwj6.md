@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Travis Scott\)
 
-2,580 songs - 5 day 10 hr 33 min
+2,581 songs - 5 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1539,6 +1539,7 @@
 | [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 | 2024-01-18 | 2024-02-13 |
 | [NOROSHI](https://open.spotify.com/track/4eDcDZXIcdidReeWrrcVer) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 3:32 | 2024-02-09 | 2024-03-16 |
 | [NORTHSIDE](https://open.spotify.com/track/4wo9qxqcw3oGYosenGo5UA) | [AE$OP CA$H](https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo) | [NORTHSIDE](https://open.spotify.com/album/5RlU1bmW0uyIZuytaNsnSx) | 2:45 | 2024-05-16 | 2024-06-21 |
+| [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-02-05 |  |
 | [Not A Game \- feat\. Lucy Rose](https://open.spotify.com/track/4txfgFG1DgnRWB9Q5tXOuA) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Aquarius III](https://open.spotify.com/album/2Sgg02H2euJ1x6eZAysstY) | 2:19 | 2025-01-17 |  |
 | [Not Average](https://open.spotify.com/track/0oHtdoKgyDPsxChYXowY7y) | [Denzel Cheng](https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN) | [Drive Safe](https://open.spotify.com/album/407ZrjqunjerxlYcA4YrV1) | 2:50 | 2024-12-19 |  |
 | [Not For Nothing \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Richer Than I Ever Been \(Deluxe\)](https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH) | 3:56 | 2022-01-28 | 2022-03-04 |

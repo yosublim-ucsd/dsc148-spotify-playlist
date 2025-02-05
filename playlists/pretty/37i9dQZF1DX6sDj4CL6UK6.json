@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z44t2QAAAABEDNfKUB/hZx5AWUCPJoWX",
+  "snapshot_id": "Z6HbJAAAAAC47QfisdEQJvqiSDNf5ZdJ",
   "tracks": [
     {
       "added_at": "2024-11-22 06:53:41",
@@ -25,6 +25,46 @@
       "url": "https://open.spotify.com/track/2cXLI9yEmcNgAjRFDpyylC"
     },
     {
+      "added_at": "2025-02-04 09:08:47",
+      "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/0NgxRTUA93UA96M05S9pTH"
+      },
+      "artists": [
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 113245,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/6ZLl6vyCbGeRzlCEiAJ2Vb"
+    },
+    {
+      "added_at": "2025-02-04 09:17:24",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/6GGzNzRrPyIuXTp5yvwAHI"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/77mRIH0iEMSDycL7JwgPRz"
+    },
+    {
       "added_at": "2025-01-20 11:04:57",
       "album": {
         "name": "tungh",
@@ -39,30 +79,6 @@
       "duration_ms": 146938,
       "name": "tungh",
       "url": "https://open.spotify.com/track/64BceRX8T5sNVJhhKjeJJw"
-    },
-    {
-      "added_at": "2024-12-06 08:37:48",
-      "album": {
-        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
       "added_at": "2024-11-22 06:53:41",
@@ -899,22 +915,6 @@
       "duration_ms": 205046,
       "name": "Sucks To Be Human",
       "url": "https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z"
-    },
-    {
-      "added_at": "2024-07-12 09:03:58",
-      "album": {
-        "name": "Perfect Life",
-        "url": "https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5"
-      },
-      "artists": [
-        {
-          "name": "Tsumyoki",
-          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Perfect Life",
-      "url": "https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu"
     },
     {
       "added_at": "2024-07-12 09:03:58",

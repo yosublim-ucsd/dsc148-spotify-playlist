@@ -2715,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "Nalla Vibes",
+        "url": "https://open.spotify.com/album/7nRjkq5riRyb4gVIxhdrMf"
+      },
+      "artists": [
+        {
+          "name": "Rakz Radiant",
+          "url": "https://open.spotify.com/artist/2NXRGks1DHfqliMFosGcYJ"
+        },
+        {
+          "name": "DeXterDuke",
+          "url": "https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Nalla Vibes",
+      "url": "https://open.spotify.com/track/4LOjJJ8QqOHCQALGuXgSXv"
+    },
+    {
+      "album": {
         "name": "Namma Stories",
         "url": "https://open.spotify.com/album/4QDOVhXnmdyTc2xWynuCq3"
       },
@@ -3732,7 +3754,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 149571,
       "name": "Samsara",
       "url": "https://open.spotify.com/track/3ucs2f55t5j5GOSH1Bvafo"
@@ -3976,7 +3998,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 200956,
       "name": "Thakthom",
       "url": "https://open.spotify.com/track/6k5oJukXYfSYLTVLnD0er9"

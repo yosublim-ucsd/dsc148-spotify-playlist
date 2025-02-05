@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,362 likes - 134 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,389 likes - 134 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 51 | [ciecamente](https://open.spotify.com/track/2UcQ1vztQqvJEMr4361u0B) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [ciecamente](https://open.spotify.com/album/7txCmTIkCbIngxah0myq1U) | 2:38 |
 | 52 | [sei quel che sei](https://open.spotify.com/track/4rEqdT6srKeojcUdzK6zsT) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [sei quel che sei](https://open.spotify.com/album/0gHgtrWRHxwZ2RFNRNMThX) | 2:40 |
 | 53 | [FORT WORTH](https://open.spotify.com/track/4Fe51bLBDd44JcWCUJmCEL) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [FORT WORTH](https://open.spotify.com/album/1mz70bjExM3203Hdh1rQPS) | 2:40 |
-| 54 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
+| 54 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 55 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 |
 | 56 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 57 | [ALTOMARE](https://open.spotify.com/track/3ivx0H3d4jNPNxupsfPEVF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [ALTOMARE & WHISKY](https://open.spotify.com/album/74VQfqFIdGNkIIkIbkuPhE) | 2:49 |

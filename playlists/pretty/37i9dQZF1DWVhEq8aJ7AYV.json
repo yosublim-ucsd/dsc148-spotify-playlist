@@ -1,6 +1,6 @@
 {
   "description": "Enmascarados, Pin-Up Girls, Engrasados y Surfers en un mismo lugar ",
-  "num_followers": 77551,
+  "num_followers": 77567,
   "original_name": "Garage, Surf y Rockabilly ",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-11-29 17:13:47",
       "album": {
-        "name": "The Octopus Incident? (This Was the Day That Engulfed the Space in Terror)",
-        "url": "https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0"
-      },
-      "artists": [
-        {
-          "name": "Hawaii Samurai",
-          "url": "https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Pintor",
-      "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
-    },
-    {
-      "added_at": "2024-11-29 17:13:47",
-      "album": {
         "name": "Guadalupe Plata 2015",
         "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 194367,
       "name": "Calle 24",
       "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
+    },
+    {
+      "added_at": "2024-11-29 17:13:47",
+      "album": {
+        "name": "The Octopus Incident? (This Was the Day That Engulfed the Space in Terror)",
+        "url": "https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0"
+      },
+      "artists": [
+        {
+          "name": "Hawaii Samurai",
+          "url": "https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "Pintor",
+      "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
     },
     {
       "added_at": "2024-11-29 17:13:47",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2024-11-29 17:13:47",
       "album": {
+        "name": "Rocket Song",
+        "url": "https://open.spotify.com/album/7mM4xNYZMMZO79JxEzI5aw"
+      },
+      "artists": [
+        {
+          "name": "Lasser Drakar",
+          "url": "https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K"
+        },
+        {
+          "name": "Stag Girls",
+          "url": "https://open.spotify.com/artist/3x3erz9ReUd13rHrUh76o5"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Rocket Song",
+      "url": "https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN"
+    },
+    {
+      "added_at": "2024-11-29 17:13:47",
+      "album": {
         "name": "Surf Club",
         "url": "https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL"
       },
@@ -1195,38 +1215,22 @@
     {
       "added_at": "2024-11-29 17:13:47",
       "album": {
-        "name": "Rocket Song",
-        "url": "https://open.spotify.com/album/7mM4xNYZMMZO79JxEzI5aw"
+        "name": "La Mantequilla - Desencadena Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3i259A1pncMGQikOXpxnoE"
       },
       "artists": [
         {
-          "name": "Lasser Drakar",
-          "url": "https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K"
+          "name": "Leon Boy",
+          "url": "https://open.spotify.com/artist/3zAGNUjthXxNCP7wjyc4E5"
         },
         {
-          "name": "Stag Girls",
-          "url": "https://open.spotify.com/artist/3x3erz9ReUd13rHrUh76o5"
+          "name": "Desenfrenados Rockabilly",
+          "url": "https://open.spotify.com/artist/7KMrpJczTHJfmxImS5g703"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Rocket Song",
-      "url": "https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN"
-    },
-    {
-      "added_at": "2024-11-29 17:13:47",
-      "album": {
-        "name": "Dr. Malicia / 10 A\u00f1os El\u00e1sticos",
-        "url": "https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss"
-      },
-      "artists": [
-        {
-          "name": "Los Elasticos",
-          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
-        }
-      ],
-      "duration_ms": 134493,
-      "name": "Blue Demon Jr.",
-      "url": "https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0"
+      "duration_ms": 242822,
+      "name": "La Mantequilla",
+      "url": "https://open.spotify.com/track/46ZnCf3Yoed1vwQdrOiILy"
     },
     {
       "added_at": "2024-11-29 17:13:47",

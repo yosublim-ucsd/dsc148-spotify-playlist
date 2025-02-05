@@ -2,7 +2,7 @@
 
 ### [Westside Story](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: OHGEESY
+> Holdin' it down for the westside\. Cover: 03 Greedo
 
 1,086 songs - 2 day 2 hr 33 min
 

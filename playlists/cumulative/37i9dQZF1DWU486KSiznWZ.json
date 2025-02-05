@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Aijrah From Ayed Album 2025",
+        "url": "https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254571,
+      "name": "Aijrah From Ayed Album 2025",
+      "url": "https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV"
+    },
+    {
+      "album": {
         "name": "Akhaf Admank",
         "url": "https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH"
       },

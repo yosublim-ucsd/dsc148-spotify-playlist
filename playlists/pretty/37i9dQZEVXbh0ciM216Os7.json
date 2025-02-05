@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC7p3TX62IC6xyInw2zniBF",
+  "snapshot_id": "AAAAAAAAAAD3QsuzhGMOfC+dxBRbENN0",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
-        "name": "Blue Jean Baby",
-        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 132068,
-      "name": "Blue Jean Baby",
-      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
-    },
-    {
-      "added_at": "2025-01-31 05:00:00",
-      "album": {
         "name": "Blick Sum (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 192000,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": "2025-01-31 05:00:00",
+      "album": {
+        "name": "Blue Jean Baby",
+        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 132068,
+      "name": "Blue Jean Baby",
+      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
     },
     {
       "added_at": "2025-01-31 05:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-01-31 05:00:00",
       "album": {
-        "name": "Thrill Seeker: 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Adam Dutkiewicz",
-          "url": "https://open.spotify.com/artist/7MQmvww3EAbsmv7p1O0ufN"
-        }
-      ],
-      "duration_ms": 243281,
-      "name": "Speech Impediment",
-      "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
-    },
-    {
-      "added_at": "2025-01-31 05:00:00",
-      "album": {
         "name": "Facts",
         "url": "https://open.spotify.com/album/7DZ0fu9KXeChA0Mp11PBBA"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 200000,
       "name": "Facts",
       "url": "https://open.spotify.com/track/39JAn4sn5NOtT3fU9KQiLj"
+    },
+    {
+      "added_at": "2025-01-31 05:00:00",
+      "album": {
+        "name": "Thrill Seeker: 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Adam Dutkiewicz",
+          "url": "https://open.spotify.com/artist/7MQmvww3EAbsmv7p1O0ufN"
+        }
+      ],
+      "duration_ms": 243281,
+      "name": "Speech Impediment",
+      "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
     },
     {
       "added_at": "2025-01-31 05:00:00",

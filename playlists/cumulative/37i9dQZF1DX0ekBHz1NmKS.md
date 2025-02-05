@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,744 songs - 3 day 18 hr 28 min
+1,745 songs - 3 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [För Snabbt](https://open.spotify.com/track/2LUp7yM0n43fma1PZMT1Jf) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X) | [II](https://open.spotify.com/album/6YjgKHr6xxrmjaaMySlNUd) | 3:29 | 2021-12-16 | 2022-05-11 |
 | [Förbjudet land](https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Förbjudet land](https://open.spotify.com/album/3HkXIRwwC7MSTV5U3uDklm) | 3:47 | 2022-11-10 | 2022-12-13 |
 | [Fördärvad](https://open.spotify.com/track/6MSC5245nNM5GtZDq1ncC2) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Fördärvad](https://open.spotify.com/album/438edHGkbpMmjtI54r0zDh) | 2:38 | 2021-12-16 | 2022-03-11 |
-| [Förlora](https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6) | 3:09 | 2024-08-08 | 2025-02-02 |
+| [Förlora](https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6) | 3:09 | 2024-08-08 |  |
 | [Förlora mig](https://open.spotify.com/track/7LKZIASzyTpIuUiJ6ed2Ra) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Förlora mig](https://open.spotify.com/album/1ss6cOzXB9SEIPLc4sDtGY) | 2:03 | 2022-05-19 | 2022-07-29 |
 | [Förlora oss](https://open.spotify.com/track/3TYM9Mw1rzH0VEhi8cjstM) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD), [eden](https://open.spotify.com/artist/4IsTqAm3Q0LnbSwSimAcnw) | [Förlora oss](https://open.spotify.com/album/2DXK5zLqVI3K33C0grFam0) | 2:27 | 2024-03-07 | 2024-04-19 |
 | [Förlorarna vann](https://open.spotify.com/track/6vIrlfAEr3EwDi5zVAFDVv) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Förlorarna vann](https://open.spotify.com/album/5eR5DudruRLg3IJBQivdXD) | 3:52 | 2024-01-18 | 2024-03-08 |
@@ -774,6 +774,7 @@
 | [Ingenting](https://open.spotify.com/track/3t6K2juWZJbEEWWXM8YMjL) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ingenting](https://open.spotify.com/album/3DqUAzuwPpxBZDEwiL10aw) | 2:47 | 2024-05-02 | 2024-06-01 |
 | [Inget Lyckligt Slut](https://open.spotify.com/track/4EBbpAV9bKR4Foux4Z7JgS) | [Aron Milton](https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam) | [Inget Lyckligt Slut](https://open.spotify.com/album/0bZEnULFwN0Qbqiydexcbs) | 2:24 | 2024-08-08 | 2024-09-29 |
 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 | 2025-01-16 |  |
+| [Inget som ändras](https://open.spotify.com/track/6LiZ1HFli2pMZTtWT7JDl9) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Inget som ändras](https://open.spotify.com/album/0T7S5nRJfHdV4i0yYULoi2) | 2:17 | 2025-01-30 |  |
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-06-27 | 2024-10-13 |
 | [Innocent Love](https://open.spotify.com/track/71vojPlEiXkv0ZGWyfWqFj) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Innocent Love](https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5) | 3:02 | 2022-02-26 | 2022-09-16 |
 | [Inside Out](https://open.spotify.com/track/6Z9nNatxC7Nbm4VY15A3ij) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Inside Out](https://open.spotify.com/album/67iY4D5SSaw1eRfExYzWh3) | 2:58 | 2024-03-21 | 2024-05-03 |
@@ -936,7 +937,7 @@
 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/7BjVNMN9CInh6D7UJbzQRb) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [7856](https://open.spotify.com/album/3DZFOd20AkyZ5qnFSh9kLM) | 2:55 | 2022-09-29 | 2022-10-16 |
 | [Längesen](https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Längesen](https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy) | 2:39 | 2025-01-02 |  |
 | [Längs den långa vägen hem](https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Längs den långa vägen hem](https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP) | 3:51 | 2024-06-06 | 2024-08-09 |
-| [Längtan Bor I Mina Steg](https://open.spotify.com/track/3IpklZ9RHOaCtchJDtnP5u) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Alice](https://open.spotify.com/album/1hvd6IcbUFo4VV3tlRCUDF) | 3:29 | 2024-09-05 |  |
+| [Längtan Bor I Mina Steg](https://open.spotify.com/track/3IpklZ9RHOaCtchJDtnP5u) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Alice](https://open.spotify.com/album/1hvd6IcbUFo4VV3tlRCUDF) | 3:29 | 2024-09-05 | 2025-02-05 |
 | [Lätt](https://open.spotify.com/track/1rU3xTM0G4qQ0dfBhjTUCz) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Lätt](https://open.spotify.com/album/7nPeiml6nLN9Sm6l5DJ56t) | 3:43 | 2024-08-22 |  |
 | [Långa Vägen Hem](https://open.spotify.com/track/5LGG9YM4YPhmVvuom6T5QY) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Långa Vägen Hem](https://open.spotify.com/album/7Gf6HcA5iAyaJVHvevrs84) | 3:12 | 2024-01-25 | 2024-02-23 |
 | [Långsamt \(med Titiyo\)](https://open.spotify.com/track/5oIimgKjmPcrQDmmj0bb46) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND), [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Långsamt](https://open.spotify.com/album/2slS0luW5xPrlIQFQevMJs) | 3:54 | 2021-12-16 | 2022-03-10 |
@@ -1170,7 +1171,7 @@
 | [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
 | [Pengar](https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1) | [Hydra / Pengar](https://open.spotify.com/album/7FkFLq0d78ZsWvwzOpaKzz) | 3:36 | 2021-12-16 | 2022-03-10 |
 | [PENGAR OCH PENGARNAS DRÄNGAR \(Radio Edit\)](https://open.spotify.com/track/7q4YIj34l3NVNAebhnYUCo) | [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE), [Olle Nyman](https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at), [Rebecka Digervall](https://open.spotify.com/artist/3vHSNoHRWSvrQlbFnVR4Bw) | [PENGAR OCH PENGARNAS DRÄNGAR \(Radio Edit\)](https://open.spotify.com/album/6kFB7PqxaMpnzyAVOyhDCU) | 3:33 | 2024-02-15 | 2024-04-05 |
-| [Persienner](https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Persienner](https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp) | 3:16 | 2024-09-26 |  |
+| [Persienner](https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Persienner](https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp) | 3:16 | 2024-09-26 | 2025-02-05 |
 | [PERUVIAN LILIES](https://open.spotify.com/track/6tZxHGe7Y8jLEITwA1nJqA) | [Adam Taal](https://open.spotify.com/artist/1dYTeeSzWkPMdQw8N7aYbR) | [PERUVIAN LILIES](https://open.spotify.com/album/6p4GPJRujHUq7QQ7kg7dWv) | 3:00 | 2024-04-25 | 2024-05-10 |
 | [Picking Up](https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 3:19 | 2024-10-04 |  |
 | [Piller](https://open.spotify.com/track/3xZ690zBbgyUX7vwZhCrQv) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [I stadens famn](https://open.spotify.com/album/6QKW1QYSFKgwGD0ajHRvNm) | 3:20 | 2022-05-12 | 2022-07-23 |

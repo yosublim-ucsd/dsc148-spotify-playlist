@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,718 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,757 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 10 | [Bad Girls Like You \- English Version](https://open.spotify.com/track/3oKi7Fp9JhDLTKaW6fZLwO) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg), [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Bad Girls Like You \(English Version\)](https://open.spotify.com/album/4YutPe6yvcZk8u1a6zZ4ao) | 3:06 |
 | 11 | [I Felt That Insecure](https://open.spotify.com/track/73X3MnqAKmiEJfhJuTnjDM) | [Junva](https://open.spotify.com/artist/5OfxnYqIv0WZ4JmIg2NLtt) | [I Felt That Insecure](https://open.spotify.com/album/3iUuupxjT8dAgpejcNG6V4) | 3:31 |
 | 12 | [Feel So Good](https://open.spotify.com/track/3dXvB3N52i9dT1K3Smr4fc) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Feel So Good](https://open.spotify.com/album/5CFmYHFfypjVOphWDz1YaX) | 2:58 |
-| 13 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
+| 13 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 14 | [ON MY MIND](https://open.spotify.com/track/3uXN50jcJ3K4U4MKcH3FQd) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [ON MY MIND](https://open.spotify.com/album/3ojQKwUU3kVprQc4q0h0X2) | 2:21 |
 | 15 | [Niagara Falls](https://open.spotify.com/track/2v0AG62ZHtD3I4YmTb3WYM) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:37 |
 | 16 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |

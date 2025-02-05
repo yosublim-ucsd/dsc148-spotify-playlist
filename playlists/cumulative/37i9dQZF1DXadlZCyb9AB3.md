@@ -4,7 +4,7 @@
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-189 songs - 9 hr 22 min
+190 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 | 2023-06-09 |  |
 | [He's My Thing \- 2007 Remaster](https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Painkillers](https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa) | 2:55 | 2021-06-11 |  |
 | [Hell](https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Hell](https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK) | 3:13 | 2023-10-17 |  |
+| [Herjazz](https://open.spotify.com/track/0zu7AckNIpizd20gvMMTtK) | [Huggy Bear](https://open.spotify.com/artist/6QU6LPYJcoBRZhC2qpPfpv) | [Taking The Rough With The Smooch](https://open.spotify.com/album/0XX1Zg9Z0l1BEviHZvxXBg) | 2:55 | 2024-10-07 |  |
 | [Hey Heartbreaker](https://open.spotify.com/track/2U3DCTEnAF66pImTkso4Qo) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/7n281LqWVqFX2D2hbBULgM) | 3:33 | 2021-06-11 | 2023-04-30 |
 | [Hey Heartbreaker](https://open.spotify.com/track/2m4EMioktuQ98TZbkHVmZy) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/68VhZxHBW8rAwl0cD5D3hZ) | 3:33 | 2021-06-11 | 2024-04-19 |
 | [Hey Heartbreaker](https://open.spotify.com/track/368gF4TWtcJduCfcR0uKPd) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/5AaJfXlHtrlfQh8KfXiIZh) | 3:33 | 2021-06-11 | 2024-05-14 |
@@ -154,7 +155,7 @@
 | [Semiserious](https://open.spotify.com/track/1ApJJ9ab6kLUsu9CEdOLHV) | [Mocket](https://open.spotify.com/artist/3SPRKuovzRrpWnvlr1KQrU) | [Fanfare](https://open.spotify.com/album/2X07Vhl0SHb5HtGAaigAYq) | 1:40 | 2021-06-11 | 2024-05-14 |
 | [Semiserious](https://open.spotify.com/track/4NkWrgXMQfZA2VeSAd9z7u) | [Mocket](https://open.spotify.com/artist/3SPRKuovzRrpWnvlr1KQrU) | [Fanfare](https://open.spotify.com/album/1zygk2FNA6jzCXkGAXOB21) | 1:40 | 2021-06-11 | 2024-04-19 |
 | [Shadow](https://open.spotify.com/track/0LXibkUgRjhgjl6LIBvMpk) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/7dyzbiN0P6EfoxdRIgk6lL) | 2:40 | 2021-06-11 | 2024-04-19 |
-| [Shadow](https://open.spotify.com/track/3WLxWQTE7bIYQ6ceZww7Mm) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/1MF35ofwAGikdUzvhIFr7Z) | 2:40 | 2021-06-11 |  |
+| [Shadow](https://open.spotify.com/track/3WLxWQTE7bIYQ6ceZww7Mm) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/1MF35ofwAGikdUzvhIFr7Z) | 2:40 | 2021-06-11 | 2025-02-05 |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-09-08 |  |
 | [Shitlist](https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:55 | 2021-06-11 |  |
 | [Shove \- Remastered](https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Smell the Magic](https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB) | 3:13 | 2021-06-11 |  |

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "City Nights",
+        "url": "https://open.spotify.com/album/7hNvVcYkzKSXfkELeeTYI2"
+      },
+      "artists": [
+        {
+          "name": "Baxter Williams",
+          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "City Nights",
+      "url": "https://open.spotify.com/track/6ignd5l7hk4Z8AWDbl5vtX"
+    },
+    {
+      "album": {
         "name": "Cloudburst",
         "url": "https://open.spotify.com/album/0nNb04hpA17KvoJC3Rx2Ud"
       },
@@ -895,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/2ep4TtOop22u1GintL5Yhx"
+      },
+      "artists": [
+        {
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/1aimEz2afv76wgDapf7y2i"
+    },
+    {
+      "album": {
         "name": "Have You Met Miss Jones - Rain version",
         "url": "https://open.spotify.com/album/1vNyfbtnTuXPJVPw7rUTA6"
       },
@@ -1266,7 +1302,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 234723,
       "name": "Knep - Rain",
       "url": "https://open.spotify.com/track/2CdvXIuW8jHByY469ph8k4"
@@ -1482,7 +1518,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 234500,
       "name": "Lower East Side",
       "url": "https://open.spotify.com/track/6C7g94a9NZiXb8MKsjZpcJ"

@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Knuckle Puck
 
-1,348 songs - 2 day 23 hr 14 min
+1,349 songs - 2 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -939,6 +939,7 @@
 | [Replace Me](https://open.spotify.com/track/2bBO8oYoQth3Uqcdsi6y3Y) | [Reside](https://open.spotify.com/artist/2TJvqWePrnkU9Np6TlOMA4) | [Replace Me](https://open.spotify.com/album/1c9DbryCixKQPlCDH5FnIY) | 3:26 | 2021-12-10 | 2022-06-23 |
 | [Rest In Pieces \(feat\. Goody Grace\)](https://open.spotify.com/track/5RR9EjI16LxwQFOX5fxpCW) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Rest In Pieces \(feat\. Goody Grace\)](https://open.spotify.com/album/0ycKAr2DznJKSPN6sl6Ueg) | 2:55 | 2022-02-11 | 2023-12-09 |
 | [Restitution](https://open.spotify.com/track/0TTxfKH6thK77sO0mFTzXd) | [Boy Becomes Hero](https://open.spotify.com/artist/4ZDPNJOOPpGA6bgAYZEYEd), [Garret Rapp](https://open.spotify.com/artist/7mSSf8GCP3Lfu2QzyetVhR) | [Restitution](https://open.spotify.com/album/6mDw1FrWZuvwB7UR8hmgHo) | 4:47 | 2021-12-10 | 2022-05-19 |
+| [Return To Sender](https://open.spotify.com/track/6aBs71SfLXICPjgmgHhHVF) | [Free Friends](https://open.spotify.com/artist/4sWKMQMxKMdfZNWsozaGNZ), [The Great Heights Band](https://open.spotify.com/artist/4b4JHDZTZRl069AsKeuHqU), [Ben DeHan](https://open.spotify.com/artist/6NOcwcPdofGYv0UfUojN09) | [Return To Sender](https://open.spotify.com/album/4Nxd91jeNukvBxNAIzFFrB) | 2:51 | 2025-01-31 |  |
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-05-20 | 2022-08-27 |
 | [Riptide](https://open.spotify.com/track/27C5LnNArKlYH0dF2CONst) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Riptide](https://open.spotify.com/album/0bvzffajdVurM2Bi4hsdEq) | 2:59 | 2024-05-14 | 2024-08-24 |
 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 | 2024-02-09 | 2024-02-24 |
@@ -1035,7 +1036,7 @@
 | [sleepwalking](https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [sleepwalking](https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt) | 2:00 | 2023-04-10 | 2024-04-13 |
 | [Sleepyhead](https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw) | 3:12 | 2024-06-24 |  |
 | [Slide 2 Me](https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Slide 2 Me](https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi) | 2:37 | 2024-09-20 | 2024-12-07 |
-| [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 | 2024-04-12 |  |
+| [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 | 2024-04-12 | 2025-02-05 |
 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 | 2023-04-10 | 2023-06-01 |
 | [Slow Dance](https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV) | [Life After Youth](https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2) | [Slow Dance](https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc) | 3:32 | 2024-01-19 | 2024-10-12 |
 | [Slow Decline](https://open.spotify.com/track/5cp8mYB5hLuObilaSEaaZ3) | [Decay](https://open.spotify.com/artist/3ifyzut7ukOaKd3oQZS7S8) | [Slow Decline](https://open.spotify.com/album/0CuAfP45RJ9ILpt1nqSYW5) | 4:01 | 2022-03-25 | 2022-04-12 |

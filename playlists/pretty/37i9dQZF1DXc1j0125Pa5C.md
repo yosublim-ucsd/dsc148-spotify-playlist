@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,962 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,978 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 10 | [Deixa Alagar / Só Depois / Já Virou Rotina \- Ao Vivo](https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 5:26 |
 | 11 | [Mega Star / Telegrama \- Ao Vivo](https://open.spotify.com/track/1VToYenItqkmYkGfmJSV4X) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk) | [Mega Star / Telegrama \(Ao Vivo\)](https://open.spotify.com/album/5K4F8AQpRCJrDjJH0IsFDr) | 4:07 |
 | 12 | [Fala / Fulminante / Dependente \- Ao Vivo](https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Remédio Amargo / Fala / Fulminante / Dependente \- DVD Fases \(Ao Vivo\)](https://open.spotify.com/album/1pgXQ1v9dFzYC4nNaWDNsO) | 5:36 |
-| 13 | [Mais Forte Que Eu / Câmera Lenta](https://open.spotify.com/track/3NNUym2r3hlsq6GpmWy3xm) | [Na Hora H](https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ), [Pagodeando](https://open.spotify.com/artist/0yHAHsahIiXk6QMQax5SQ2) | [Mais Forte Que Eu / Câmera Lenta](https://open.spotify.com/album/2Mx6f2NUnloFl8de3y1r5t) | 3:41 |
+| 13 | [Mais Forte Que Eu / Câmera Lenta \- Acústico](https://open.spotify.com/track/3NNUym2r3hlsq6GpmWy3xm) | [Na Hora H](https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ), [Pagodeando](https://open.spotify.com/artist/0yHAHsahIiXk6QMQax5SQ2) | [Mais Forte Que Eu / Câmera Lenta \(Acústico\)](https://open.spotify.com/album/2Mx6f2NUnloFl8de3y1r5t) | 3:41 |
 | 14 | [Luz na Escuridão / Adivinha / Fatalmente \- Ao Vivo](https://open.spotify.com/track/2cicREalc7LMXuXlGLeKVw) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 4:51 |
 | 15 | [Como Nunca Amei Ninguém / Por Tão Pouco \- Ao Vivo](https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Tardezinha Pela Vida Inteira \(Ao Vivo\)](https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ) | 4:03 |
 | 16 | [Engano / Diz Que Quer Ficar / Amar Você \- Ao Vivo](https://open.spotify.com/track/1MMZ7oNHMGrKyW7b5VkMTL) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 7:16 |

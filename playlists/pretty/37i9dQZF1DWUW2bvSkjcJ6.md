@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Milano
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,114 likes - 82 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,107 likes - 82 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 78 | [Stay](https://open.spotify.com/track/6jb1TfRIG0J7eZyLgJTBGP) | [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv) | [Stay](https://open.spotify.com/album/4G1kFW1PkVO0UtOamyrD67) | 3:12 |
 | 79 | [Wolves](https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Feathers And Stone](https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T) | 3:02 |
 | 80 | [Universe](https://open.spotify.com/track/7f2E5Xxrzi1mGIaqNJK7vq) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Universe](https://open.spotify.com/album/2WfkAK6FWUMrIuxcKMc5FD) | 2:29 |
-| 81 | [Happy](https://open.spotify.com/track/1Vk4R84EyrzKzZtDFGh6oo) | [Laini](https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ), [Helene Hielscher](https://open.spotify.com/artist/0NUcE2BZqH4WS1MZ2dVfwS) | [Happy](https://open.spotify.com/album/7FElDXkoXCWG1sjQVOe8tB) | 3:12 |
+| 81 | [Happy](https://open.spotify.com/track/1Vk4R84EyrzKzZtDFGh6oo) | [Laini](https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ) | [Happy](https://open.spotify.com/album/7FElDXkoXCWG1sjQVOe8tB) | 3:12 |
 | 82 | [Von London nach New York](https://open.spotify.com/track/3sRctxrqANYLE0IZWtLJjr) | [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Von London nach New York](https://open.spotify.com/album/1zBeJ8CqJKbeGB8WeC5IMe) | 2:23 |
 
 Snapshot ID: `Z5yFLwAAAACltLAqmowXEo1P2PHpRYxb`

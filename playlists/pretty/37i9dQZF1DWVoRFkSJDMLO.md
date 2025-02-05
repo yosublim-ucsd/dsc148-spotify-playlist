@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: Shenseea 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,969 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,022 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 4 | [No Two Face](https://open.spotify.com/track/5ePcHVY2YXvBiojZzWAomh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [No Two Face](https://open.spotify.com/album/5I8VQnr8JyzbPLcW0MA7Zo) | 3:08 |
 | 5 | [Traffic Jam](https://open.spotify.com/track/5a2Bjc5Mngc8Fde1Oq32D3) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Traffic Jam](https://open.spotify.com/album/5EjGBIxfifGIwaKWklwcPQ) | 2:48 |
 | 6 | [Her World](https://open.spotify.com/track/2vGZsY7UyCqGuNYOGOsJlF) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lovers Till I’m Gone](https://open.spotify.com/album/2UUhXldWviKuy7NuGrPeLi) | 2:25 |
-| 7 | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/3cp5AXmGxhU3tgNO6TgD4H) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 |
+| 7 | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 |
 | 8 | [Take Care Of You](https://open.spotify.com/track/648JPdDNmkdO21DUaWTAnJ) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [Take Care Of You](https://open.spotify.com/album/1UqABBw4HzRJEpZlQhesKW) | 3:26 |
 | 9 | [Outside](https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Outside](https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA) | 2:56 |
 | 10 | [Hayi Costa](https://open.spotify.com/track/5lAHj2Dgl2UaSlGxa0ImOE) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN), [SjijoSA](https://open.spotify.com/artist/1QTwrKvItKgBKEaVTm7gdc) | [Hayi Costa](https://open.spotify.com/album/5xUG3IiaEtaamCifbkG9Ar) | 5:11 |

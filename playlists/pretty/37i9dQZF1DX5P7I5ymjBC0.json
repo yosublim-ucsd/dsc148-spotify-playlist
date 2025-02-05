@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  ",
-  "num_followers": 73794,
+  "num_followers": 73835,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2025-02-03 09:30:00",
       "album": {
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
+      },
+      "artists": [
+        {
+          "name": "Humera Channa",
+          "url": "https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL"
+        },
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 352048,
+      "name": "Mujh Se Pehli Si Muhabbat",
+      "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
+    },
+    {
+      "added_at": "2025-02-03 09:30:00",
+      "album": {
         "name": "Bawla (feat. Khan Brothers) [Maati S1]",
         "url": "https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 180782,
       "name": "Bawla (feat. Khan Brothers) [Maati S1]",
       "url": "https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht"
-    },
-    {
-      "added_at": "2025-02-03 09:30:00",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 3",
-        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
-      },
-      "artists": [
-        {
-          "name": "Humera Channa",
-          "url": "https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL"
-        },
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 352048,
-      "name": "Mujh Se Pehli Si Muhabbat",
-      "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
     },
     {
       "added_at": "2025-02-03 09:30:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-02-03 09:30:00",
       "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
-      },
-      "artists": [
-        {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        }
-      ],
-      "duration_ms": 412266,
-      "name": "Mora Saiyaan",
-      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
-    },
-    {
-      "added_at": "2025-02-03 09:30:00",
-      "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 717190,
       "name": "Rang",
       "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
+    },
+    {
+      "added_at": "2025-02-03 09:30:00",
+      "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "duration_ms": 412266,
+      "name": "Mora Saiyaan",
+      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
     },
     {
       "added_at": "2025-02-03 09:30:00",

@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 4080961,
+  "num_followers": 4081977,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6FsvAAAAADt4OunGzrH6fdcgC2D1fxO",
+  "snapshot_id": "Z6KSkwAAAABkRUiV+E+yy9OKbfDUKdnS",
   "tracks": [
     {
       "added_at": "2025-01-29 15:41:04",
@@ -545,6 +545,26 @@
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
+      "added_at": "2025-02-04 22:20:03",
+      "album": {
+        "name": "PRETTY PLEASE",
+        "url": "https://open.spotify.com/album/3RfIyFTT3h03PqTtFbiZR8"
+      },
+      "artists": [
+        {
+          "name": "Dutch Melrose",
+          "url": "https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn"
+        },
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 166721,
+      "name": "PRETTY PLEASE",
+      "url": "https://open.spotify.com/track/6kOdk29M8h6ZfHz4byVG0t"
+    },
+    {
       "added_at": "2024-12-21 18:44:12",
       "album": {
         "name": "Weathervane",
@@ -559,26 +579,6 @@
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Restless Mind",
-        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 286634,
-      "name": "Indigo (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
       "added_at": "2024-12-23 18:16:42",

@@ -213,6 +213,42 @@
     },
     {
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
+    },
+    {
+      "album": {
+        "name": "ADEIA",
+        "url": "https://open.spotify.com/album/7zTWgeVu4dqfgbeaz1JXmk"
+      },
+      "artists": [
+        {
+          "name": "aggelina",
+          "url": "https://open.spotify.com/artist/7xxXL3L6Nz2MkXUavA40Hq"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192076,
+      "name": "ADEIA",
+      "url": "https://open.spotify.com/track/0ZvDahi3JhwaJmFCYeFdik"
+    },
+    {
+      "album": {
         "name": "Adysopiti Agapi",
         "url": "https://open.spotify.com/album/3XF3VgkEMHiwMy4CiGN0XK"
       },
@@ -1178,7 +1214,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 177272,
       "name": "ANATOLI",
       "url": "https://open.spotify.com/track/1XaESunLfD5BmNNjSExrHq"
@@ -1222,7 +1258,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 161994,
       "name": "Anexartiti",
       "url": "https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy"
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 143250,
       "name": "Can\u2019t Help Falling In Love",
       "url": "https://open.spotify.com/track/6u9ap5XkD4wIV2I1XIVwuh"
@@ -2143,6 +2179,28 @@
     },
     {
       "album": {
+        "name": "DAVATZIS (LIVE by TOKYO THEATER)",
+        "url": "https://open.spotify.com/album/7gFygh1UdeoLUYaauss1uz"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136531,
+      "name": "DAVATZIS - LIVE by TOKYO THEATER",
+      "url": "https://open.spotify.com/track/2Lbjh8H9sFeAPWzldzZ1bW"
+    },
+    {
+      "album": {
         "name": "De Frenaro",
         "url": "https://open.spotify.com/album/6cAxTw6ojd9ndShoMd43q2"
       },
@@ -2386,7 +2444,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 193043,
       "name": "Diadromi",
       "url": "https://open.spotify.com/track/2QOPXR2ZZaeu65Wt6iXswk"
@@ -2910,7 +2968,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 240978,
       "name": "Eho Mia Thalassa Agapi",
       "url": "https://open.spotify.com/track/14QiTmCFLtVIoHBG7f6uV8"
@@ -3413,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "EPANO STO TRAPEZI",
+        "url": "https://open.spotify.com/album/1ZiVzPUElXoi8M8bENOhag"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144087,
+      "name": "EPANO STO TRAPEZI",
+      "url": "https://open.spotify.com/track/3wpiU5pc42REYEW9vd7fBa"
+    },
+    {
+      "album": {
         "name": "Epekses Kai Ehases",
         "url": "https://open.spotify.com/album/4e0sklr6RxCNsQUX3QFS9n"
       },
@@ -3577,6 +3653,32 @@
     },
     {
       "album": {
+        "name": "Fili Sto Parko",
+        "url": "https://open.spotify.com/album/500120s3tAdDbWseyPsMO5"
+      },
+      "artists": [
+        {
+          "name": "Rita Antonopoulou",
+          "url": "https://open.spotify.com/artist/3TWc0L3wPWiBoPQs2XmfzY"
+        },
+        {
+          "name": "Miltos Pashalidis",
+          "url": "https://open.spotify.com/artist/6VzFvK9yRRZkT0L8kMmOXV"
+        },
+        {
+          "name": "Stavros Siolas",
+          "url": "https://open.spotify.com/artist/4xhGnzy0l7emjfvzK867iN"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265113,
+      "name": "Fili Sto Parko",
+      "url": "https://open.spotify.com/track/2DljQ8BEHN6fiXOYu4W3Hu"
+    },
+    {
+      "album": {
         "name": "Filia Karfia (Timoros)",
         "url": "https://open.spotify.com/album/6rQKm1YicPvxITwgD1f0KK"
       },
@@ -3596,7 +3698,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 197095,
       "name": "Filia Karfia - Timoros",
       "url": "https://open.spotify.com/track/731kddKUOicXD4BnIb5fIw"
@@ -4116,6 +4218,28 @@
       "duration_ms": 217751,
       "name": "Gia Panta",
       "url": "https://open.spotify.com/track/1jk3TnVfqf4D1z6m4xIHvz"
+    },
+    {
+      "album": {
+        "name": "Gia Panta Kai Ligo Akoma",
+        "url": "https://open.spotify.com/album/2vnaLaDx3rpqyGs4l3411e"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        },
+        {
+          "name": "Solmeister",
+          "url": "https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254636,
+      "name": "Gia Panta Kai Ligo Akoma",
+      "url": "https://open.spotify.com/track/3aEHpJUXI2fs7qq6AV50UN"
     },
     {
       "album": {
@@ -4708,7 +4832,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 189384,
       "name": "I Kripsona",
       "url": "https://open.spotify.com/track/1bKtMulrOK0IFLsI2lVnV9"
@@ -5118,6 +5242,24 @@
       "duration_ms": 139200,
       "name": "KAI AMA TO EIPA",
       "url": "https://open.spotify.com/track/39kqwi8zm839CuUYP0Bjwp"
+    },
+    {
+      "album": {
+        "name": "Ta Aproopta (Kiklos B)",
+        "url": "https://open.spotify.com/album/3CReayQYPkYY5MeOZNE9LR"
+      },
+      "artists": [
+        {
+          "name": "Melina Aslanidou",
+          "url": "https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207609,
+      "name": "Kai Ti Egine Ti",
+      "url": "https://open.spotify.com/track/1bXf6PIYGsYvACqvBPqk3n"
     },
     {
       "album": {
@@ -5648,7 +5790,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 215454,
       "name": "Katse Thee Mou Na Sta Po",
       "url": "https://open.spotify.com/track/5ldQ3hHsAKxpTCcppyVaxW"
@@ -6958,7 +7100,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 250846,
       "name": "Matia Mou",
       "url": "https://open.spotify.com/track/00f7FPOe5nJtNIcRAP2suf"
@@ -7602,7 +7744,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 261562,
       "name": "Mia Paraligo Eftihia",
       "url": "https://open.spotify.com/track/67ZwhgqlsLtLhi6P5JkyPw"
@@ -7700,7 +7842,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 165893,
       "name": "Milia",
       "url": "https://open.spotify.com/track/48eNiB32KKFbB2XQSQUajJ"
@@ -8706,7 +8848,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 218136,
       "name": "Oh Aman Aman",
       "url": "https://open.spotify.com/track/1qHS2jVMluWdTebdbRrtVB"
@@ -9301,6 +9443,24 @@
     },
     {
       "album": {
+        "name": "Paidi Tis Nihtas",
+        "url": "https://open.spotify.com/album/3RdXZDeJ8ZuLIdJboEXg38"
+      },
+      "artists": [
+        {
+          "name": "Xryspa",
+          "url": "https://open.spotify.com/artist/6lJ3pYm8pC3rC7tfKE5PNU"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178612,
+      "name": "Paidi Tis Nihtas",
+      "url": "https://open.spotify.com/track/4rRYZpFSnqsQ2fCctTOj3K"
+    },
+    {
+      "album": {
         "name": "PALI",
         "url": "https://open.spotify.com/album/1BeEkHLgF6zAtIka1HXtX6"
       },
@@ -9795,6 +9955,24 @@
     },
     {
       "album": {
+        "name": "Endehomena",
+        "url": "https://open.spotify.com/album/5ztIFT4opW4PcoBkKdctcm"
+      },
+      "artists": [
+        {
+          "name": "Vasiliki Michalopoulou",
+          "url": "https://open.spotify.com/artist/28qIjyaGTBHirnT3PiQyPk"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "Perimeno",
+      "url": "https://open.spotify.com/track/3vARpkDr6SIPfebpeK2ddZ"
+    },
+    {
+      "album": {
         "name": "Pes",
         "url": "https://open.spotify.com/album/5IIG4SC1JM2g46NZXqHPkg"
       },
@@ -10140,6 +10318,32 @@
       "duration_ms": 156837,
       "name": "Plans",
       "url": "https://open.spotify.com/track/0jPho2LunkMsoHerGdK9wX"
+    },
+    {
+      "album": {
+        "name": "Plastelini",
+        "url": "https://open.spotify.com/album/5I2mi34EUVqVw2WESqy8X1"
+      },
+      "artists": [
+        {
+          "name": "Athina Spanou",
+          "url": "https://open.spotify.com/artist/09B4mNWIgVWHOYdK35q2Bo"
+        },
+        {
+          "name": "Polyxeni Karakoglou",
+          "url": "https://open.spotify.com/artist/6NYPX4KJWGxh4MeOJZeBGf"
+        },
+        {
+          "name": "Amerissa Ftouli",
+          "url": "https://open.spotify.com/artist/7CpRa8nrJ5tCLKI1PSCOez"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189289,
+      "name": "Plastelini",
+      "url": "https://open.spotify.com/track/7uTqvoCUFKsjXUpk4o561m"
     },
     {
       "album": {
@@ -10742,6 +10946,24 @@
       "duration_ms": 168000,
       "name": "Psychedelia",
       "url": "https://open.spotify.com/track/56rQIC1dP9tNPShFpGaz6p"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/0mStEk4Ei8I8UTZkaZ2VTD"
+      },
+      "artists": [
+        {
+          "name": "Athena Manoukian",
+          "url": "https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119166,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/6k7OqHTk7kFRt0UqknZgq7"
     },
     {
       "album": {
@@ -11614,7 +11836,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 252125,
       "name": "Sose Me - Live Stin Texnopoli",
       "url": "https://open.spotify.com/track/63ea3v3lup1OWkvfWJ1wHf"
@@ -11839,6 +12061,24 @@
     },
     {
       "album": {
+        "name": "Ston anemo",
+        "url": "https://open.spotify.com/album/608zZNedMrGy0QgRQqagHO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtidou",
+          "url": "https://open.spotify.com/artist/1B9W1Rx6pmnoHdWfshpAA6"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294599,
+      "name": "Ston anemo",
+      "url": "https://open.spotify.com/track/0cQFHUJMHOyw1Sf3gyYNtB"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/71jEPw5AUEKRmU15vvDLNJ"
       },
@@ -11974,6 +12214,24 @@
       "duration_ms": 166124,
       "name": "Ta Dilina",
       "url": "https://open.spotify.com/track/40RDFMgrlPvAnkx2JnmvNG"
+    },
+    {
+      "album": {
+        "name": "Itan Na Vrethoume",
+        "url": "https://open.spotify.com/album/4McNW9nL6Y58uXk8Xcu8Jd"
+      },
+      "artists": [
+        {
+          "name": "Natasa Theodoridou",
+          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Ta Hirotera",
+      "url": "https://open.spotify.com/track/4gqZRda0IW5gTn5Be8DlNO"
     },
     {
       "album": {
@@ -12641,6 +12899,32 @@
     },
     {
       "album": {
+        "name": "THUMISOU",
+        "url": "https://open.spotify.com/album/3KTkYzUv7p51TYxJfsw5gh"
+      },
+      "artists": [
+        {
+          "name": "Lydia",
+          "url": "https://open.spotify.com/artist/2YTGRExtfqji1DoyvkPBeT"
+        },
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "Lev",
+          "url": "https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "THUMISOU",
+      "url": "https://open.spotify.com/track/0NKMw5wj6CKfm0MmjGBwuJ"
+    },
+    {
+      "album": {
         "name": "Femmeland",
         "url": "https://open.spotify.com/album/2KZItta8p6zzNnDvqvVbhi"
       },
@@ -12754,6 +13038,46 @@
       "duration_ms": 192189,
       "name": "Ti Kapsoura",
       "url": "https://open.spotify.com/track/7LFPvN30mdvIZUwHBjNIZF"
+    },
+    {
+      "album": {
+        "name": "Ta Rempetika Tis Fotinis",
+        "url": "https://open.spotify.com/album/3CqZO7mKQv634mzyQooRHT"
+      },
+      "artists": [
+        {
+          "name": "Fotini Velesiotou",
+          "url": "https://open.spotify.com/artist/00kScu3zCXW7vSCZRAjAws"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200679,
+      "name": "Ti Parakseni Kopela",
+      "url": "https://open.spotify.com/track/4jshcy66EtMLPoRzaKoDjX"
+    },
+    {
+      "album": {
+        "name": "Ti Perimeneis Apo 'Mena",
+        "url": "https://open.spotify.com/album/4QBIHh9umK51T2EoBVEFSx"
+      },
+      "artists": [
+        {
+          "name": "Peggy Zina",
+          "url": "https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz"
+        },
+        {
+          "name": "George Theofanous",
+          "url": "https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225450,
+      "name": "Ti Perimeneis Apo 'Mena",
+      "url": "https://open.spotify.com/track/7hwhamjgTSPsVqSv7WmJvz"
     },
     {
       "album": {
@@ -12958,7 +13282,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 246602,
       "name": "To filima",
       "url": "https://open.spotify.com/track/5YSByBoYc09jL9t1DRgj45"
@@ -13038,7 +13362,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 291690,
       "name": "To Monopati",
       "url": "https://open.spotify.com/track/4ylx27Q5C8jPlWEKxCxdT1"
@@ -13236,6 +13560,24 @@
       "duration_ms": 137624,
       "name": "To tragoudi tou Vageli",
       "url": "https://open.spotify.com/track/7gXHDD6FqwUVsybycAbyJB"
+    },
+    {
+      "album": {
+        "name": "To Trauma",
+        "url": "https://open.spotify.com/album/5dCVFETBkjrWDb0mxzS8uu"
+      },
+      "artists": [
+        {
+          "name": "Billie Isak",
+          "url": "https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225205,
+      "name": "To Trauma",
+      "url": "https://open.spotify.com/track/71HdGobhRhylNzHytN6Nil"
     },
     {
       "album": {
@@ -13785,6 +14127,32 @@
     },
     {
       "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/11qVOypT0lhUKjICBXzODa"
+      },
+      "artists": [
+        {
+          "name": "Mira",
+          "url": "https://open.spotify.com/artist/7AjOzyumfIoBcur8rNjABg"
+        },
+        {
+          "name": "Sadomas",
+          "url": "https://open.spotify.com/artist/3eZXDyJChvCDzsAGtNeGLP"
+        },
+        {
+          "name": "Dimitris Koufoudakis",
+          "url": "https://open.spotify.com/artist/1Hj13p1TFwirPlIxOdEgZx"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163624,
+      "name": "VERSUS",
+      "url": "https://open.spotify.com/track/09nLa7Gk8auyVRpmkKPIxZ"
+    },
+    {
+      "album": {
         "name": "Growing out Of",
         "url": "https://open.spotify.com/album/50ivyueltzBugh1AqhRCzJ"
       },
@@ -13904,7 +14272,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 150000,
       "name": "Winter",
       "url": "https://open.spotify.com/track/0S7vdxauM4XzXVwdDCY8u6"
@@ -14140,7 +14508,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 225794,
       "name": "Yparxei Xronos Akoma",
       "url": "https://open.spotify.com/track/1gxQ65TG5RVCVMSNaJNjnx"

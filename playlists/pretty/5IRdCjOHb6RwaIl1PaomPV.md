@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from evilgiane &amp; Rojuu, plus the latest cuts from Major Lazer, MRD and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,918 likes - 100 songs - 5 hr 24 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,920 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

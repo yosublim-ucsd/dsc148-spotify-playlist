@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 148 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 148 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 46 | [Sonnet In Search of a Moor](https://open.spotify.com/track/4gnSAjbegG0GIlQTwyG6VI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:19 |
 | 47 | [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 |
 | 48 | [Half the Fun \(aka Lately\)](https://open.spotify.com/track/08TpH1FwIzbmEkR720Duye) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 4:16 |
-| 49 | [The Telecasters](https://open.spotify.com/track/2XWI60h3SScOAvP7XaUxkI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:01 |
-| 50 | [Strange Feeling](https://open.spotify.com/track/70shQlAT7pBE869zizxBs1) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:40 |
+| 49 | [Strange Feeling](https://open.spotify.com/track/70shQlAT7pBE869zizxBs1) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:40 |
+| 50 | [The Telecasters](https://open.spotify.com/track/2XWI60h3SScOAvP7XaUxkI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:01 |
 | 51 | [Sonnet for Sister Kate](https://open.spotify.com/track/6M6zmAS7lPdgRbNtfMDPTI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:18 |
 | 52 | [Pt\. I\-Festival Junction](https://open.spotify.com/track/7kw6RQgL8a7ksK5NCEWx59) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 8:46 |
 | 53 | [Madness In Great Ones \(Hamlet\)](https://open.spotify.com/track/7IFXoiY6BATGg2uzOwaSvP) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:19 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 90 | [Ready, Go](https://open.spotify.com/track/3mzYgFyifzbEQ1OPih2xw0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Duke Ellington And His Orchestra Featuring Paul Gonsalves](https://open.spotify.com/album/7as7qs0NL4DuXja9fLqKuI) | 5:01 |
 | 91 | [In A Blue Summer Garden](https://open.spotify.com/track/2SGN3ts85p2XV2NwpBY6qZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Piano Duets: Great Times!](https://open.spotify.com/album/73NLpriWcie3viIgpT8vwc) | 4:03 |
 | 92 | [Orson](https://open.spotify.com/track/2oKMb55RKeEfMqUnL7sMsZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:52 |
-| 93 | [Intimacy of the Blues](https://open.spotify.com/track/0c8OAoBwxIGEhcxebNYM3e) | [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX) | [If I Love Again](https://open.spotify.com/album/4FPT7vyacVF1qJnakuMT5K) | 6:06 |
-| 94 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
+| 93 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
+| 94 | [Intimacy of the Blues](https://open.spotify.com/track/0c8OAoBwxIGEhcxebNYM3e) | [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX) | [If I Love Again](https://open.spotify.com/album/4FPT7vyacVF1qJnakuMT5K) | 6:06 |
 | 95 | [Still in Love](https://open.spotify.com/track/755CRzLpzZjpMDPl5G1iE1) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT), [Russell Hall](https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT), [Kyle Poole](https://open.spotify.com/artist/5J4qaZ0wUvADmFAR3T4GIE) | [Lovesome Thing](https://open.spotify.com/album/2LwV0Qj6AlGJkEeCGxTh6K) | 2:41 |
 | 96 | [Valse](https://open.spotify.com/track/71BIOhurzguCa78klmstoH) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 |
 | 97 | [Toot Suite : Red Carpet \- From The Album Duke Ellington Jazz Party](https://open.spotify.com/track/1Y4d6mRYwvFixw0nZy5VuW) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 7:42 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 147 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 148 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `AboongAAAAAh1Bvai7CClPZw+Tij++Vi`
+Snapshot ID: `AbouFgAAAAA10+iPpLQ5NxvwM4+fEniw`

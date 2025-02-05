@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125480,
+  "num_followers": 125481,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATnpJj9QowzAJ0xg/jEQP5G2QU/U9s",
+  "snapshot_id": "AAATn8m1rZW7DuRd7nwzhD3rfbleTS67",
   "tracks": [
+    {
+      "added_at": "2025-02-04 15:33:36",
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/372JR44CZxw21zfaM9UeFa"
+      },
+      "artists": [
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/5BeE7O0DuaWZKo3TOly1qz"
+    },
     {
       "added_at": "2025-02-03 15:06:13",
       "album": {

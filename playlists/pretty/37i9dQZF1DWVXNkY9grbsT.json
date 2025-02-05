@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 104910,
+  "num_followers": 104973,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
-        "name": "Hafursey (Yfir)",
-        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 299441,
-      "name": "Hafursey (Yfir)",
-      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
-    },
-    {
-      "added_at": "2025-01-31 05:00:37",
-      "album": {
         "name": "Into Your Eyes",
         "url": "https://open.spotify.com/album/4DiQXdT74X9NyQNe8EwGqi"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 145738,
       "name": "Into Your Eyes",
       "url": "https://open.spotify.com/track/3WFxDYFnPurFWPLTyhBjiz"
+    },
+    {
+      "added_at": "2025-01-31 05:00:37",
+      "album": {
+        "name": "Hafursey (Yfir)",
+        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 299441,
+      "name": "Hafursey (Yfir)",
+      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
     },
     {
       "added_at": "2025-01-31 05:00:37",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
-        "name": "Avichrom",
-        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
-      },
-      "artists": [
-        {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
-        }
-      ],
-      "duration_ms": 309051,
-      "name": "Blaumeise",
-      "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
-    },
-    {
-      "added_at": "2025-01-31 05:00:37",
-      "album": {
         "name": "Lust 1",
         "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 118309,
       "name": "You",
       "url": "https://open.spotify.com/track/6gp76uTmBFc2aJ5eXft916"
+    },
+    {
+      "added_at": "2025-01-31 05:00:37",
+      "album": {
+        "name": "Avichrom",
+        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "duration_ms": 309051,
+      "name": "Blaumeise",
+      "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
     },
     {
       "added_at": "2025-01-31 05:00:37",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
+    },
+    {
+      "added_at": "2025-01-31 05:00:37",
+      "album": {
         "name": "Pause (Reimagined by Hinako Omori)",
         "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
-        "name": "Night Journeys",
-        "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Night Journeys I",
-      "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
-    },
-    {
-      "added_at": "2025-01-31 05:00:37",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
       },
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+        "name": "Night Journeys",
+        "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
       },
       "artists": [
         {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 218193,
-      "name": "Plants",
-      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
+      "duration_ms": 186600,
+      "name": "Night Journeys I",
+      "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
     },
     {
       "added_at": "2025-01-31 05:00:37",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
+        "name": "Burst / Glimmer",
+        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+      },
+      "artists": [
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+        }
+      ],
+      "duration_ms": 316293,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
+    },
+    {
+      "added_at": "2025-01-31 05:00:37",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/24Num3HZM1YIBWnyqU8myw"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 378291,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/0jFkXMZkTjM4ECnGKJBkIP"
-    },
-    {
-      "added_at": "2025-01-31 05:00:37",
-      "album": {
-        "name": "Burst / Glimmer",
-        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
-      },
-      "artists": [
-        {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
-        }
-      ],
-      "duration_ms": 316293,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
     },
     {
       "added_at": "2025-01-31 05:00:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ikata - 1",
-      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
-    },
-    {
-      "added_at": "2025-01-31 05:00:37",
-      "album": {
         "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
         "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
       },
@@ -1583,22 +1567,18 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
-        "name": "What Is Not Strange?",
-        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
       },
       "artists": [
         {
-          "name": "Tashi Wada",
-          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 125000,
-      "name": "What Is Not Strange?",
-      "url": "https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg"
+      "duration_ms": 304000,
+      "name": "Ikata - 1",
+      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
     },
     {
       "added_at": "2025-01-31 05:00:37",
@@ -1615,6 +1595,26 @@
       "duration_ms": 190983,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
+    },
+    {
+      "added_at": "2025-01-31 05:00:37",
+      "album": {
+        "name": "What Is Not Strange?",
+        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
+      },
+      "artists": [
+        {
+          "name": "Tashi Wada",
+          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "What Is Not Strange?",
+      "url": "https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg"
     },
     {
       "added_at": "2025-01-31 05:00:37",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-01-31 05:00:37",
       "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
-    },
-    {
-      "added_at": "2025-01-31 05:00:37",
-      "album": {
         "name": "Circle of Eyes",
         "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 424170,
       "name": "Psychic Geography",
       "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
+    },
+    {
+      "added_at": "2025-01-31 05:00:37",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 238029,
+      "name": "Belt & Carpet",
+      "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
     },
     {
       "added_at": "2025-01-31 05:00:37",

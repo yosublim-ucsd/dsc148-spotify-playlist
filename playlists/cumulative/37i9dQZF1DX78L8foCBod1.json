@@ -1551,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "Song Collection from The Rose of Versailles - MovieEDIT -",
+        "url": "https://open.spotify.com/album/5eZ2EtpDifkPsObzHwjqc5"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "\u30de\u30ea\u30fc\u30fb\u30a2\u30f3\u30c8\u30ef\u30cd\u30c3\u30c8(CV.\u5e73\u91ce \u7dbe)",
+          "url": "https://open.spotify.com/artist/3Uxkq58KaQpOT9EMeRczIY"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143885,
+      "name": "Ma Vie en Rose - MovieEdit",
+      "url": "https://open.spotify.com/track/4chSM0fI1ZK9RxqGCkEpcA"
+    },
+    {
+      "album": {
         "name": "R\u2203/MEMBER",
         "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
       },

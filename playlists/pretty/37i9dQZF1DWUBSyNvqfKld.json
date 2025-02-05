@@ -1,15 +1,567 @@
 {
   "description": "<a href=\"spotify:artist:3sgVVFFM7mom04OAR0eNCL\">DEAS</a>'s favorite tracks. Updated regularly. Curated by DEAS. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 5381,
+  "num_followers": 5396,
   "original_name": "DEAS' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23gCQAAAADF9aXmpiN8htQJETFhiQEi",
+  "snapshot_id": "Z6H/kgAAAAA/icLcjF24ztiB603xeV+L",
   "tracks": [
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Basics EP",
+        "url": "https://open.spotify.com/album/0mfYPL3HTAIRYZAqjB1eLw"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "duration_ms": 374468,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/6r1wW4fk2KowTkSgKZH7Vv"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Charger",
+        "url": "https://open.spotify.com/album/6IRMhteWlUrCQMzR5DVKHS"
+      },
+      "artists": [
+        {
+          "name": "Isaiah",
+          "url": "https://open.spotify.com/artist/3ahXO5tjZ4XDuQdHpKl174"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "Charger",
+      "url": "https://open.spotify.com/track/2zgFGmSIHVFpGezcaEKL6o"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Basics EP",
+        "url": "https://open.spotify.com/album/0mfYPL3HTAIRYZAqjB1eLw"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "duration_ms": 302978,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/5yGFeSS8JKVhJI8gENXUpb"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "I Know What You Want",
+        "url": "https://open.spotify.com/album/6ohWRhsN3vTrqGN31ftJZH"
+      },
+      "artists": [
+        {
+          "name": "Shlomi Aber",
+          "url": "https://open.spotify.com/artist/3A8XSMPreJlCBlpSZVHU5J"
+        }
+      ],
+      "duration_ms": 318548,
+      "name": "I Know What You Want",
+      "url": "https://open.spotify.com/track/1uKwy4Iol1YtvNL0aBApod"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Basics EP",
+        "url": "https://open.spotify.com/album/0mfYPL3HTAIRYZAqjB1eLw"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "duration_ms": 357446,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/2L8aXPK3Zt0UnYcH5QT3La"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "The Cult",
+        "url": "https://open.spotify.com/album/1j5NKmtTAgLNXppt68zqrw"
+      },
+      "artists": [
+        {
+          "name": "JKS",
+          "url": "https://open.spotify.com/artist/7CQ5jMPSOl75LWm04fshav"
+        }
+      ],
+      "duration_ms": 326066,
+      "name": "The Cult",
+      "url": "https://open.spotify.com/track/4aA2LngC4dXeycmJZjuOft"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Basics EP",
+        "url": "https://open.spotify.com/album/0mfYPL3HTAIRYZAqjB1eLw"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3XL0MgJkBQnkdVuXDLcwpd"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Symbiosis II",
+        "url": "https://open.spotify.com/album/4fdgujYGYIoxtyI3iGPEti"
+      },
+      "artists": [
+        {
+          "name": "Sera J",
+          "url": "https://open.spotify.com/artist/5jcERq66fAe2jraFESRyBE"
+        }
+      ],
+      "duration_ms": 292310,
+      "name": "Syncrosonix",
+      "url": "https://open.spotify.com/track/3DC5HQOHjKGmH7nDoChaFL"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "NECH028",
+        "url": "https://open.spotify.com/album/5u2wAz47wdSA1EMtQREdZU"
+      },
+      "artists": [
+        {
+          "name": "R.M.K",
+          "url": "https://open.spotify.com/artist/0cYovdJViR7B0SWYlVraVf"
+        }
+      ],
+      "duration_ms": 348665,
+      "name": "Edge Of Chaos",
+      "url": "https://open.spotify.com/track/7Gs9uhVREGhgDy15rmb385"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Turkish Bazar (Chris Liebing Remake)",
+        "url": "https://open.spotify.com/album/3C1cipNpGyYScn0IhKCo1Q"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Top",
+          "url": "https://open.spotify.com/artist/5y8522WHbYqJVt1jSwNSfA"
+        },
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        }
+      ],
+      "duration_ms": 480312,
+      "name": "Turkish Bazar - Chris Liebing Remake",
+      "url": "https://open.spotify.com/track/12pjGZHDyQxuROgK2gZ4My"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "LAYER ONE",
+        "url": "https://open.spotify.com/album/6BdjHHJCpf06fR727JzaQi"
+      },
+      "artists": [
+        {
+          "name": "Ben Klock",
+          "url": "https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo"
+        },
+        {
+          "name": "Fadi Mohem",
+          "url": "https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 231898,
+      "name": "Our Sector (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/4WRgUP2pkcqyFAg9KavWEH"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "LAYER ONE",
+        "url": "https://open.spotify.com/album/6BdjHHJCpf06fR727JzaQi"
+      },
+      "artists": [
+        {
+          "name": "Ben Klock",
+          "url": "https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo"
+        },
+        {
+          "name": "Fadi Mohem",
+          "url": "https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75"
+        },
+        {
+          "name": "Coby Sey",
+          "url": "https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX"
+        }
+      ],
+      "duration_ms": 261406,
+      "name": "Ultimately (feat. Coby Sey)",
+      "url": "https://open.spotify.com/track/6ZV6PSraJafiKr5Sf2AFvi"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Tau",
+        "url": "https://open.spotify.com/album/53WgUt2Ve7ZSmika6u5Idx"
+      },
+      "artists": [
+        {
+          "name": "IGLO",
+          "url": "https://open.spotify.com/artist/5B1SDNUxT6z72ln8ijzOxP"
+        }
+      ],
+      "duration_ms": 303500,
+      "name": "Neverplace",
+      "url": "https://open.spotify.com/track/6uM8GPgQr2dohMvszazsgt"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Maniac EP",
+        "url": "https://open.spotify.com/album/2rTLjAhVAS3vyfngZV2S81"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "duration_ms": 272805,
+      "name": "Bunker",
+      "url": "https://open.spotify.com/track/6uYmKoIdl42RvcbAQT1VeR"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Cheetah",
+        "url": "https://open.spotify.com/album/1bsaJHDOBxT1P5l0Dd9Bm7"
+      },
+      "artists": [
+        {
+          "name": "Klint",
+          "url": "https://open.spotify.com/artist/1lVUHe5p6lq8avkmID2XjX"
+        }
+      ],
+      "duration_ms": 322237,
+      "name": "Cheetah",
+      "url": "https://open.spotify.com/track/6bFPreT6wMhN9nOEIgw0eQ"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Southbound",
+        "url": "https://open.spotify.com/album/10P4v9YM2RR6pp4MIisodn"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Demarco",
+          "url": "https://open.spotify.com/artist/1LHXrqDbjQixcWDAIa6hOh"
+        }
+      ],
+      "duration_ms": 354851,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/41l9zktW3UP8zbHC6edtzf"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Breaking Rules",
+        "url": "https://open.spotify.com/album/50m1RI1ffBlM1UIe2jjlcF"
+      },
+      "artists": [
+        {
+          "name": "BLANKA (ES)",
+          "url": "https://open.spotify.com/artist/2Fx481hwDSLUeXHdnLD2pn"
+        }
+      ],
+      "duration_ms": 303714,
+      "name": "Breaking Rules",
+      "url": "https://open.spotify.com/track/0TqcidSYYAVMa8oeGJVzAS"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Maniac EP",
+        "url": "https://open.spotify.com/album/2rTLjAhVAS3vyfngZV2S81"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "duration_ms": 293913,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/7A2AtLnj4p2p55dis3chLs"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/5Oe3eUNFTFZotfPGUM99n0"
+      },
+      "artists": [
+        {
+          "name": "Moyua",
+          "url": "https://open.spotify.com/artist/2uUovbXjoeq0oDtalDn8KR"
+        }
+      ],
+      "duration_ms": 339718,
+      "name": "Bully - Original Mix",
+      "url": "https://open.spotify.com/track/3upVCVMrEadE5zjaD6SH9L"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Decima",
+        "url": "https://open.spotify.com/album/5rTj8KkQFwUuRG7TBYtdOa"
+      },
+      "artists": [
+        {
+          "name": "Stef Mendesidis",
+          "url": "https://open.spotify.com/artist/0V2TzRR7BczSNMxDyCIL1J"
+        }
+      ],
+      "duration_ms": 350719,
+      "name": "Axial Force",
+      "url": "https://open.spotify.com/track/2VlLDsndPY0vAwFVMTWMP1"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/1zgnW2XpgN6bPKbs63KlC5"
+      },
+      "artists": [
+        {
+          "name": "Quelza",
+          "url": "https://open.spotify.com/artist/6LL2tELgb3Y6TcQdsBmXqS"
+        }
+      ],
+      "duration_ms": 275918,
+      "name": "Funny, Not Really",
+      "url": "https://open.spotify.com/track/0ehwZyURFFvUImKF2imoES"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/36IK2uPWP2ChMCvKgUgQa2"
+      },
+      "artists": [
+        {
+          "name": "M.I.T.A.",
+          "url": "https://open.spotify.com/artist/21z6y3SBHItI8CjIJzPdlo"
+        }
+      ],
+      "duration_ms": 324796,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/3koO0YokiNPVlrMZWCVXyJ"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Unity (Mr. G's Time Jack Remix)",
+        "url": "https://open.spotify.com/album/4GMvFzEqngiMftAcEcZFSl"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        },
+        {
+          "name": "Mr. G",
+          "url": "https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN"
+        }
+      ],
+      "duration_ms": 395024,
+      "name": "Unity - Mr G's Time Jack Remix",
+      "url": "https://open.spotify.com/track/0cBTWB9gXVGgS2lAVRTZot"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Diverse Fields",
+        "url": "https://open.spotify.com/album/03jhhyDyHElHMwy56UVrvU"
+      },
+      "artists": [
+        {
+          "name": "Roll Dann",
+          "url": "https://open.spotify.com/artist/6pGi6xcoMSsa4xGhpUew4Y"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Diverse Fields",
+      "url": "https://open.spotify.com/track/4JpdTuDexmUbF7OKnql5J3"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Metamorphism EP",
+        "url": "https://open.spotify.com/album/1bvHVUZBrYO6rl6KsLehSZ"
+      },
+      "artists": [
+        {
+          "name": "Dold",
+          "url": "https://open.spotify.com/artist/6xnSq21U1oHoeFl1NsKTgp"
+        }
+      ],
+      "duration_ms": 341069,
+      "name": "Blueschist",
+      "url": "https://open.spotify.com/track/4oNaykrENCCJJet6bckiwM"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Fylogenetik",
+        "url": "https://open.spotify.com/album/5K3KYSQdvYjbyUGkGgYLYX"
+      },
+      "artists": [
+        {
+          "name": "Alexander Johansson",
+          "url": "https://open.spotify.com/artist/3boYwnYBHT4Ru1x7kfaZF2"
+        },
+        {
+          "name": "Mattias Fridell",
+          "url": "https://open.spotify.com/artist/5CsFzyjOvPOpSFzVtbJHrb"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Basal",
+      "url": "https://open.spotify.com/track/6Tlepotb1CKFmWA0AWHtBL"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Controcorrente",
+        "url": "https://open.spotify.com/album/5EFDdMyMcwL04vnuiwEsGa"
+      },
+      "artists": [
+        {
+          "name": "Kaiser (K S R)",
+          "url": "https://open.spotify.com/artist/5U3XDNsNoGPXsiXQzPg5LR"
+        },
+        {
+          "name": "Kr!z",
+          "url": "https://open.spotify.com/artist/4bVSJoHlXYbzdBrbgqbMxl"
+        }
+      ],
+      "duration_ms": 311550,
+      "name": "Ozono - Kr!z Remix",
+      "url": "https://open.spotify.com/track/132MGUdvJOeKazNGvowEMq"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Gtg Dgtl 004",
+        "url": "https://open.spotify.com/album/0ccczB6gWVaIVdqBBGBV8a"
+      },
+      "artists": [
+        {
+          "name": "Mython",
+          "url": "https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5"
+        }
+      ],
+      "duration_ms": 355804,
+      "name": "Mola",
+      "url": "https://open.spotify.com/track/4i5nMPK394hMUFfvYfbTjB"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Missile Re-Edits Vol.1",
+        "url": "https://open.spotify.com/album/0bonaAbgl49ScwakVCjC0V"
+      },
+      "artists": [
+        {
+          "name": "DJ One Finger",
+          "url": "https://open.spotify.com/artist/1SqpjddFgiZvk1281Z9NOh"
+        },
+        {
+          "name": "Tim Taylor (Missile Records)",
+          "url": "https://open.spotify.com/artist/3SDO9vtI8lg2xandf0TP30"
+        },
+        {
+          "name": "DJ Dextro",
+          "url": "https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO"
+        }
+      ],
+      "duration_ms": 315744,
+      "name": "One Finger - DJ Dextro Re Edit - 2024",
+      "url": "https://open.spotify.com/track/20WOJnDMIX0l97nMCZtqAV"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Moon Drift EP",
+        "url": "https://open.spotify.com/album/5YavmEIoSoHtA5AZuhsbOx"
+      },
+      "artists": [
+        {
+          "name": "Mark Porter",
+          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
+        }
+      ],
+      "duration_ms": 308811,
+      "name": "Moon Drift",
+      "url": "https://open.spotify.com/track/2zGt8EjjxBQB04xQBXICBx"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Call & Response EP",
+        "url": "https://open.spotify.com/album/2YnYLtmPB3DkTwldxUsOSh"
+      },
+      "artists": [
+        {
+          "name": "PAB165",
+          "url": "https://open.spotify.com/artist/5JIxAX8qcY0PVBFI4hyW6G"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Domination",
+      "url": "https://open.spotify.com/track/6eiy7euW17wEZNsU6btwuv"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
+      "album": {
+        "name": "Binary Fate EP",
+        "url": "https://open.spotify.com/album/4ioZ8nSNYxjLiRpIVSyEdQ"
+      },
+      "artists": [
+        {
+          "name": "Bjoern Torwellen",
+          "url": "https://open.spotify.com/artist/1a90XhyJtf2REInKqsoAhq"
+        }
+      ],
+      "duration_ms": 397381,
+      "name": "Fear Of The Unknown",
+      "url": "https://open.spotify.com/track/1D9vdGaiMvAF0nz9k9QAVf"
+    },
+    {
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Fear EP",
         "url": "https://open.spotify.com/album/24ayHJCfRxBxFKSLftKzdY"
@@ -25,7 +577,7 @@
       "url": "https://open.spotify.com/track/0K7cVv5gYPDBNeAFjzxLBK"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Club Cult Vol. 2",
         "url": "https://open.spotify.com/album/0sVDAbCohLRPMkQp65wMlF"
@@ -41,7 +593,7 @@
       "url": "https://open.spotify.com/track/5rvuGXmbeVKav2eIV040cY"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "The World Of Monnom Black III",
         "url": "https://open.spotify.com/album/5CbmmabjJincUjswnceLjN"
@@ -57,7 +609,7 @@
       "url": "https://open.spotify.com/track/7oPQTxMZVEL8QjLbik980W"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Grateful EP",
         "url": "https://open.spotify.com/album/1BuRiLjD71t8DmkiNIDdpL"
@@ -73,7 +625,7 @@
       "url": "https://open.spotify.com/track/6mmdcYvd4xdP6t8XGBp127"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Heatwave EP",
         "url": "https://open.spotify.com/album/64qPABdspTNPQ8hOnvayeA"
@@ -89,7 +641,7 @@
       "url": "https://open.spotify.com/track/7fzT3Z7292Seh18B2oota6"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Marbles EP",
         "url": "https://open.spotify.com/album/72IiAvC7LnbF3rLxLq6gVI"
@@ -105,7 +657,7 @@
       "url": "https://open.spotify.com/track/67BrlDEz5uyrXRe5IqiHwW"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Reshape",
         "url": "https://open.spotify.com/album/34niMakKNw6Zt7kpi1oL9U"
@@ -121,7 +673,7 @@
       "url": "https://open.spotify.com/track/3sSSNjVfGlhwPufKHXq4e5"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Obedience",
         "url": "https://open.spotify.com/album/26iUGRb4LRXHExjxvi5NZe"
@@ -137,7 +689,7 @@
       "url": "https://open.spotify.com/track/2rL2T31oRBV9eMyRtyP0YP"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "SPANDAU20 009",
         "url": "https://open.spotify.com/album/6B37B3rXERfBI97E2iWHxh"
@@ -153,7 +705,7 @@
       "url": "https://open.spotify.com/track/59ASKRj9iL41lsDpwtbGEW"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Kliniek 1",
         "url": "https://open.spotify.com/album/5di0L6fNz9Lq5o3FuIOONA"
@@ -169,7 +721,7 @@
       "url": "https://open.spotify.com/track/6NnBjnd7Uap9QRXDXGlcyy"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Il Significato Delle Parole EP",
         "url": "https://open.spotify.com/album/6ncDCSM61xae5ipQoJA68S"
@@ -185,7 +737,7 @@
       "url": "https://open.spotify.com/track/5fz1GU87BX6LartLZk2stu"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "By Myself",
         "url": "https://open.spotify.com/album/5yFzlgi72bbRvZdcVd0qi1"
@@ -205,7 +757,7 @@
       "url": "https://open.spotify.com/track/005b2t5FQmOIMixp3WBj63"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "KALLAIT",
         "url": "https://open.spotify.com/album/1ZfjiLinDG7QHSTIYtsdFW"
@@ -225,7 +777,7 @@
       "url": "https://open.spotify.com/track/5eoupEARpaCGxIZ52yWRcf"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Krekc (Remastered 2021)",
         "url": "https://open.spotify.com/album/111alzRaTt5puA1hycMi3S"
@@ -241,7 +793,7 @@
       "url": "https://open.spotify.com/track/6LJ8RhrSvburc2SWEFfcyE"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/1X0P5oO0HO1oA4fDlSwGQd"
@@ -261,7 +813,7 @@
       "url": "https://open.spotify.com/track/2xLcGips75I64brWqi5hj5"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "The World Of Monnom Black III",
         "url": "https://open.spotify.com/album/5CbmmabjJincUjswnceLjN"
@@ -277,7 +829,7 @@
       "url": "https://open.spotify.com/track/2tTm2mApuGj3uudKXkTKD6"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Red 1 (2023 Remaster)",
         "url": "https://open.spotify.com/album/5mHtLgtB8ZrcPaJuLP9nLR"
@@ -293,7 +845,7 @@
       "url": "https://open.spotify.com/track/48GsYVVD36fqW4fCTBZqBx"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Paranoid Cuts",
         "url": "https://open.spotify.com/album/0WeULzMIpbG5f4eBazA6uV"
@@ -309,7 +861,7 @@
       "url": "https://open.spotify.com/track/6qR2Rdn8jqBctUabT1vy25"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "The Dissent EP",
         "url": "https://open.spotify.com/album/64XP1VKgJLHc1Z4dp9BSek"
@@ -329,7 +881,7 @@
       "url": "https://open.spotify.com/track/6DXzANFAvqz74ZjEFPfd4r"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Raid",
         "url": "https://open.spotify.com/album/5p5sVSL3tah0EvazwllBEp"
@@ -345,7 +897,7 @@
       "url": "https://open.spotify.com/track/7cAWv4wuQHVo8XnvNRneNX"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Working Ways EP",
         "url": "https://open.spotify.com/album/6g468I5sMas0fj2bcjkQjl"
@@ -361,7 +913,7 @@
       "url": "https://open.spotify.com/track/45nS6iWP4wKHluwqwsTaGW"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Slam Presents Exhibit 1",
         "url": "https://open.spotify.com/album/51pADQWA0GSvf3nJQvR9Y1"
@@ -377,7 +929,7 @@
       "url": "https://open.spotify.com/track/7KJGovfuzFsXQ6GfyqMJKd"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "The Girl with the Red Hair",
         "url": "https://open.spotify.com/album/1bENUWXdsH0PYcYUaLwVpC"
@@ -393,7 +945,7 @@
       "url": "https://open.spotify.com/track/44OVIUxNaAbppP1kLaII3l"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Function 88",
         "url": "https://open.spotify.com/album/2QbE89pYkrACtGyYaYN97Y"
@@ -409,7 +961,7 @@
       "url": "https://open.spotify.com/track/6SkD3wXWrEnX9g1yzL3vAk"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Hardspace, Vol. 1",
         "url": "https://open.spotify.com/album/1BwicBcXkbBL1BSkZaSX2e"
@@ -433,7 +985,7 @@
       "url": "https://open.spotify.com/track/35c3ZpY3Z2rPsuZcbSm8At"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/6fp8mAN5ElaVB8e4BPsWCK"
@@ -449,7 +1001,7 @@
       "url": "https://open.spotify.com/track/5UqSSOTe2a5yDN2PucVvkZ"
     },
     {
-      "added_at": "2024-12-26 23:00:25",
+      "added_at": "2025-02-04 11:52:50",
       "album": {
         "name": "AF 97",
         "url": "https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM"

@@ -2,9 +2,9 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the south: NLE Choppa
+> The hottest out the south: Latto
 
-1,771 songs - 3 day 11 hr 18 min
+1,772 songs - 3 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Get Jiggy](https://open.spotify.com/track/3ShDW3FYg06Cc5BJV94sEj) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [Lil Slixk](https://open.spotify.com/artist/30r98xL28PIfjUG4JwyWaM), [Lil Reaper](https://open.spotify.com/artist/0pXg9udRX8G5ra0m4xllGv) | [Get Jiggy](https://open.spotify.com/album/5Wu2Yq8gvAUn7wozWctQxN) | 2:24 | 2024-03-04 | 2024-05-25 |
 | [Get Right](https://open.spotify.com/track/0aEX95JWUga3M8DzNsfiAa) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Get Right](https://open.spotify.com/album/5zCLvl2nq5TYhZkf8S1Tfo) | 2:08 | 2022-10-07 | 2022-10-29 |
 | [Ghetto \(feat\. Young Thug & Lil Durk\)](https://open.spotify.com/track/1uU143K4dObFyeykORAD0m) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:57 | 2024-07-27 | 2024-08-03 |
+| [Ghetto \- feat\. Young Thug & Lil Durk](https://open.spotify.com/track/0lekHt9d2xmXxFASI5ivEv) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2) | 3:57 | 2025-02-04 |  |
 | [Ghetto Cinderella](https://open.spotify.com/track/5WkYdoquKFmWaQengD72RC) | [TEC](https://open.spotify.com/artist/0Y1fWbJgcZk0R2SbZbxo4R) | [Ghetto Cinderella](https://open.spotify.com/album/61MXhNTtr5R474qNT9cA2R) | 2:36 | 2022-12-09 | 2022-12-24 |
 | [Ghetto Gods Freestyle \(with EARTHGANG feat\. 2 Chainz\)](https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:53 | 2022-04-01 | 2022-05-28 |
 | [GHETTO SUPERSTAR FREESTYLE](https://open.spotify.com/track/5lGLa8cnBb9okenznIbqqy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GHETTO SUPERSTAR: \(THE INTRO\)](https://open.spotify.com/album/1EAlURUEewGlp9AvY6I767) | 2:15 | 2024-05-17 | 2024-07-06 |
@@ -1227,7 +1228,7 @@
 | [Potato Loaded \(feat\. Destroy Lonely\)](https://open.spotify.com/track/79GhK8ZAUQxGFfr6rEpdms) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Potato Loaded \(feat\. Destroy Lonely\)](https://open.spotify.com/album/0bHndITXf6STlJZ2rrk8UK) | 2:18 | 2024-04-05 | 2024-04-27 |
 | [POTHEAD & STONER](https://open.spotify.com/track/7rh1Rw4Xm2cqBaHBcEkT5q) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Da Real Oso](https://open.spotify.com/album/5lGbFVxiM28gqCOdhpGBQ1) | 2:12 | 2024-08-30 | 2024-09-07 |
 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 | 2023-03-27 | 2023-04-15 |
-| [prada](https://open.spotify.com/track/63LQlYHoH3NcwwmX69EobP) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H), [Pablo Skywalkin](https://open.spotify.com/artist/612OhNltlGBZCgJjF8edTo) | [VAYTRIX RELOADED](https://open.spotify.com/album/6rzQ2UIpcizzS0h1CWSsaY) | 2:17 | 2025-01-31 |  |
+| [prada](https://open.spotify.com/track/63LQlYHoH3NcwwmX69EobP) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H), [Pablo Skywalkin](https://open.spotify.com/artist/612OhNltlGBZCgJjF8edTo) | [VAYTRIX RELOADED](https://open.spotify.com/album/6rzQ2UIpcizzS0h1CWSsaY) | 2:17 | 2025-01-31 | 2025-02-05 |
 | [prada dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [prada dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 | 2024-03-15 |  |
 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 | 2024-07-12 | 2024-08-17 |
 | [Presha \(with Lil Wayne\)](https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Presha](https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP) | 3:05 | 2023-10-20 | 2024-02-03 |

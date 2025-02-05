@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Noisecontrollers
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,330 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,416 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Think About It](https://open.spotify.com/track/13ZlFYb8OfkbdlY3zlKSET) | [Noisecontrollers](https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z), [Static Motion](https://open.spotify.com/artist/657db5BkYygq0LI0fpIvfb) | [Think About It](https://open.spotify.com/album/5m97fHytpc1dAOSaXmNTaq) | 3:46 |
 | 2 | [No Angel](https://open.spotify.com/track/3JkPVnpvClPIif61EP4IrX) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [No Angel](https://open.spotify.com/album/1B1cP7J5EkwQIi8JO9So15) | 3:05 |
-| 3 | [Mingle Game Song \(Round And Round\)](https://open.spotify.com/track/0KEMht9CB7EexAoGBuDZbh) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Mingle Game Song \(Round And Round\)](https://open.spotify.com/album/5J8MxbuBqKXyyM4Qdql6Dk) | 1:24 |
-| 4 | [Fall Of The Celestials](https://open.spotify.com/track/5MW9s0fr6BUgQnf3p4uXVm) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Fall Of The Celestials](https://open.spotify.com/album/2TYsZMFqcENa8toCUKenFw) | 4:00 |
-| 5 | [Seasons](https://open.spotify.com/track/4QD8zw2fPYTufIbNV1f7UL) | [VENNIC](https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS) | [Seasons](https://open.spotify.com/album/2URfrBctWJPR4dxuaGrE80) | 3:27 |
-| 6 | [Hey DJ \(Refuzion Remix\)](https://open.spotify.com/track/29QZimw0fohQRHvCD7ZYFT) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br), [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Hey DJ \(Remixes\)](https://open.spotify.com/album/3KMIgKp5t4I7F3d3U60mdD) | 3:04 |
-| 7 | [HELP\_LESS](https://open.spotify.com/track/6ABSVbnjexJNj5CEFAuVeG) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [HELP\_LESS](https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7) | 3:07 |
+| 3 | [HELP\_LESS](https://open.spotify.com/track/6ABSVbnjexJNj5CEFAuVeG) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [HELP\_LESS](https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7) | 3:07 |
+| 4 | [Mingle Game Song \(Round And Round\)](https://open.spotify.com/track/0KEMht9CB7EexAoGBuDZbh) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Mingle Game Song \(Round And Round\)](https://open.spotify.com/album/5J8MxbuBqKXyyM4Qdql6Dk) | 1:24 |
+| 5 | [Fall Of The Celestials](https://open.spotify.com/track/5MW9s0fr6BUgQnf3p4uXVm) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Fall Of The Celestials](https://open.spotify.com/album/2TYsZMFqcENa8toCUKenFw) | 4:00 |
+| 6 | [Seasons](https://open.spotify.com/track/4QD8zw2fPYTufIbNV1f7UL) | [VENNIC](https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS) | [Seasons](https://open.spotify.com/album/2URfrBctWJPR4dxuaGrE80) | 3:27 |
+| 7 | [Hey DJ \(Refuzion Remix\)](https://open.spotify.com/track/29QZimw0fohQRHvCD7ZYFT) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br), [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Hey DJ \(Remixes\)](https://open.spotify.com/album/3KMIgKp5t4I7F3d3U60mdD) | 3:04 |
 | 8 | [My Own Path](https://open.spotify.com/track/75zCFjRh2CQb5nAT2moiwn) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [My Own Path](https://open.spotify.com/album/4QSywz3AiCNiwnXgelrk9x) | 3:33 |
 | 9 | [Take You There](https://open.spotify.com/track/3HfrSRXzKEbChOAdQbC3I4) | [Nightcraft](https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV) | [Take You There](https://open.spotify.com/album/5WE8CHXY9q3zYu23MQMfly) | 2:52 |
 | 10 | [HEAR THIZ MF](https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [HEAR THIZ MF](https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Have You Ever](https://open.spotify.com/track/7uCLGyrNkiIFl49lpcNDqQ) | [Envine](https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi) | [Have You Ever](https://open.spotify.com/album/0WzqWs9zBmEqGZ6f54xAhy) | 3:09 |
 | 100 | [Dark Magic](https://open.spotify.com/track/6Y6VlGhnDPpCkQQ1rQSAww) | [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL), [MC Flo](https://open.spotify.com/artist/6kn1zMFsqWQgdLSUN69j9R) | [Dark Magic](https://open.spotify.com/album/0z86DPyb7j4NNE9yuypOUo) | 2:37 |
 
-Snapshot ID: `Z6DTSQAAAABdLVrV0m1MO9ZwX2gG5eTR`
+Snapshot ID: `Z6IumwAAAABMVfkGuV4Lq5uAirLBJCF5`

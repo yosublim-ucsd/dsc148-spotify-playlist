@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 219266,
       "name": "Body as a Meadow",
       "url": "https://open.spotify.com/track/0X1WV3X8xEf1Tt8nLBIWPi"
@@ -1476,6 +1476,24 @@
       "duration_ms": 164812,
       "name": "No Kissing on a Sunday",
       "url": "https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD"
+    },
+    {
+      "album": {
+        "name": "Not Like Yesterday",
+        "url": "https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz"
+      },
+      "artists": [
+        {
+          "name": "the.king.lost",
+          "url": "https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220719,
+      "name": "Not Like Yesterday",
+      "url": "https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2"
     },
     {
       "album": {

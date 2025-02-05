@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşifler\. Kapak: üçkuruş Çizim: Isu Kim
+> Bağımsız yerli sahneden keşifler\. Kapak: dilan filiz  Çizim: Isu Kim
 
-915 songs - 2 day 2 hr 46 min
+916 songs - 2 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Bize Biz Gibi Lazım](https://open.spotify.com/track/1w1qg9zh3Vj42AIecD92Z3) | [Ahmet Üstüner](https://open.spotify.com/artist/10ZegKkfsyPh6HGvgVc6fl) | [Bize Biz Gibi Lazım](https://open.spotify.com/album/1NHVsSHMLMDzPgF5GhKjih) | 2:42 | 2024-05-22 | 2024-06-19 |
 | [bizi biri bile bile üzüyor](https://open.spotify.com/track/76RoCaQfKxHzYu9SzWGl8c) | [Turuncu Gökyüzü](https://open.spotify.com/artist/16d4nPQ35sMW1Y8s9NjjlG) | [bizi biri bile bile üzüyor](https://open.spotify.com/album/0T8z5PRxeJWvsDgNVzX2Ys) | 2:08 | 2023-08-22 | 2023-11-30 |
 | [Bizim Aramızda](https://open.spotify.com/track/6Yw9mV8646ynf3pSfNlxSy) | [Kalabalıklar](https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw) | [Bizim Aramızda](https://open.spotify.com/album/4dXFunf6bfZ1tnULKAjgPy) | 2:34 | 2024-06-18 | 2025-01-09 |
-| [BİR SONRAKİ YAZA](https://open.spotify.com/track/2AH4wA6A27W023FgrsKofY) | [Robin](https://open.spotify.com/artist/0pGPEVS5RjTs0jE4egqtVW), [UZUM3](https://open.spotify.com/artist/0MxwyKmWLNSPtWbaAnfFr1) | [BİR SONRAKİ YAZA](https://open.spotify.com/album/2asAMKcCf38y76fh2rSjBD) | 1:54 | 2024-10-01 |  |
+| [BİR SONRAKİ YAZA](https://open.spotify.com/track/2AH4wA6A27W023FgrsKofY) | [Robin](https://open.spotify.com/artist/0pGPEVS5RjTs0jE4egqtVW), [UZUM3](https://open.spotify.com/artist/0MxwyKmWLNSPtWbaAnfFr1) | [BİR SONRAKİ YAZA](https://open.spotify.com/album/2asAMKcCf38y76fh2rSjBD) | 1:54 | 2024-10-01 | 2025-02-05 |
 | [BİZİM NEYİMİZ VAR](https://open.spotify.com/track/4c6e5iTCnYoaP5CbEV20kR) | [Koza](https://open.spotify.com/artist/583r15fLR295RYefGrqkTx) | [BİZİM NEYİMİZ VAR](https://open.spotify.com/album/1ioTyYXZ1igattQuH8fK3U) | 2:29 | 2023-03-07 | 2023-05-10 |
 | [bomboş](https://open.spotify.com/track/4DFEzwojXD5Zr92a3bIy3g) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [bomboş](https://open.spotify.com/album/71nnWaKljCnfVJkcl03vS9) | 2:44 | 2024-03-19 | 2024-05-01 |
 | [Bozdum Ezberlerini](https://open.spotify.com/track/0FUmRZ5KKItPIxJffyod4n) | [Özgür Pamukçu](https://open.spotify.com/artist/62oDXciheKbV7XXzaG3QvA) | [Bozdum Ezberlerini](https://open.spotify.com/album/7IzT9wTkWPKhX5L1dMe2Av) | 3:58 | 2023-11-29 | 2024-01-10 |
@@ -686,6 +686,7 @@
 | [Seni Görmem Lazım](https://open.spotify.com/track/5RdkTUkhyfMebw8Wgc58eM) | [Aybüke Poçan](https://open.spotify.com/artist/57rQZpIPdlavJHPyiIckCy) | [Seni Görmem Lazım](https://open.spotify.com/album/7CdQKtWdT9rsMQJGnvPtO4) | 3:43 | 2023-11-21 | 2023-11-30 |
 | [seni kaybettim](https://open.spotify.com/track/1Isdw4AyUIlDbwV7qehxqX) | [Gece Üç Gibi](https://open.spotify.com/artist/2jO4VEwrbReJEEmQ7gViGP) | [seni kaybettim](https://open.spotify.com/album/0NUDYNHiuPnXopSOIGsPro) | 3:35 | 2024-01-16 | 2024-03-20 |
 | [Seni Seviyorum Kovboy](https://open.spotify.com/track/1IEFqIcHZSMrybUlRijFm7) | [nazire](https://open.spotify.com/artist/5yq1O1yuIoimW9QFYk4Pop) | [Seni Seviyorum Kovboy](https://open.spotify.com/album/0tAxnTks5XPUWfAfwPtnUR) | 3:21 | 2024-01-09 | 2024-03-13 |
+| [Senin Kadar](https://open.spotify.com/track/6z8Z1i2Tnhmcu8J1l3EgQS) | [Begüm Yiğit](https://open.spotify.com/artist/74jfszyHYEkbgAnlyl9HCa) | [Senin Kadar](https://open.spotify.com/album/6QCxi24NzznpChjrw6HL3g) | 2:47 | 2025-02-04 |  |
 | [Senin Olabilirim](https://open.spotify.com/track/2f9HAuMRDB110jtAxU8q2q) | [Oralet](https://open.spotify.com/artist/41w6nWEv2v3Eeewejk6Ydc) | [Senin Olabilirim](https://open.spotify.com/album/5QVkz1QoNdThsWC7AM1hea) | 4:36 | 2022-02-10 | 2023-01-11 |
 | [Senin Rüyalarında](https://open.spotify.com/track/1znnrKzdSCDpDMItrBAK8N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Senin Rüyalarında](https://open.spotify.com/album/0uW578c1ccfjWaoJXmUf48) | 3:18 | 2022-01-19 | 2022-04-16 |
 | [Seninle Kayboldum](https://open.spotify.com/track/4w5okMv5ozc1RjUFNn9au5) | [Ugy](https://open.spotify.com/artist/0pwt8RVSkO9AzrIk652cuJ) | [Seninle Kayboldum](https://open.spotify.com/album/76TGBEgOxFZ6HbSsU1as2N) | 2:33 | 2024-04-09 | 2024-05-08 |

@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Özkan Uğur
 
-226 songs - 13 hr 21 min
+227 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2024-10-03 |  |
 | [Bir Fısıltı](https://open.spotify.com/track/4s44Ju8PGjXFe7Zmy0sUvW) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Bir Fısıltı](https://open.spotify.com/album/7hBmMC7VAKshgGRJKoiych) | 2:38 | 2025-01-23 |  |
 | [Bir Kahraman Aranıyor \- Radio Edit](https://open.spotify.com/track/7e0Ax89NAHxAp4NsjgsF3k) | [The Madcap](https://open.spotify.com/artist/7J5ZIZ1zSAjC2tky6bTysX), [Fuat](https://open.spotify.com/artist/6tRmpYzDIjWoRHzbJO7Cpx) | [Bir Kahraman Aranıyor](https://open.spotify.com/album/0Br2rvDLvbm6waOrdhTbYt) | 2:59 | 2025-01-02 | 2025-01-17 |
+| [Bir Çocuk Sevdim](https://open.spotify.com/track/6brOznfthS8yv8ESJrZBvB) | [Mengene](https://open.spotify.com/artist/6HSKmWihHIj3P9bmpO8hKD), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Bir Çocuk Sevdim](https://open.spotify.com/album/0QFZdyTIn7UVcoxSU98KRM) | 5:07 | 2025-02-04 |  |
 | [Bir Şişe Kırmızı](https://open.spotify.com/track/0Rv26GOG4Cei74eyja41op) | [emre aydın](https://open.spotify.com/artist/66vIaZFb8okZH0npc4eQ5q) | [Bir Şişe Kırmızı](https://open.spotify.com/album/0abuywqJsEQyapoZIHdffs) | 3:00 | 2025-01-09 |  |
 | [Bitti Yalnızlığın](https://open.spotify.com/track/1Oxdp07eb3M6KSs85FRIZX) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Bitti Yalnızlığın](https://open.spotify.com/album/3eAmq9yyOEuVKxFVVX9ZbJ) | 3:41 | 2025-01-09 |  |
 | [Bu Son](https://open.spotify.com/track/5FaT4zkop2j5k70nRrbiJy) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Bu Son](https://open.spotify.com/album/62l21Tz6BW9wolZ2ehy8kD) | 4:44 | 2024-11-28 | 2024-12-20 |
@@ -78,7 +79,7 @@
 | [Geldik Sonuna Kadar](https://open.spotify.com/track/77Du8sUBRgjR83eothYqYI) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Geldik Sonuna Kadar](https://open.spotify.com/album/2gHEO73NdamYaN8gPLYhTE) | 3:52 | 2024-09-12 | 2024-10-23 |
 | [Gelir Üstüne](https://open.spotify.com/track/7MAcuxNWQtDbBzL2x5ErSz) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gelir Üstüne](https://open.spotify.com/album/091gjsc4g4C1d7Um7FsHWD) | 2:09 | 2024-11-14 | 2024-12-13 |
 | [Gelme](https://open.spotify.com/track/4nmI7AuuHCSRfKKQMwrSVI) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Gelme](https://open.spotify.com/album/113Rdhd0TJoywaB0QeEvLd) | 4:13 | 2024-07-11 | 2024-11-15 |
-| [Gelme Aklıma](https://open.spotify.com/track/0bv7obkjI5mkQVM3tisQIj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Ölüm Dansı](https://open.spotify.com/album/3BIiOsLIJBsH9UJYFRqfxs) | 3:38 | 2024-06-28 |  |
+| [Gelme Aklıma](https://open.spotify.com/track/0bv7obkjI5mkQVM3tisQIj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Ölüm Dansı](https://open.spotify.com/album/3BIiOsLIJBsH9UJYFRqfxs) | 3:38 | 2024-06-28 | 2025-02-05 |
 | [gidemem](https://open.spotify.com/track/2SAFpooqwQ05ZMoCiml7X6) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [gidemem](https://open.spotify.com/album/5PcVtwRYURommNl9jdb4Et) | 3:32 | 2024-11-28 |  |
 | [Gidenler Var \- Kalanlardan](https://open.spotify.com/track/4xU78DeivpIeQrvdiIdHOH) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [Yahya Babuz](https://open.spotify.com/artist/3wCsTznzEonkjTGANeKW98) | [Gidenler Var \(Kalanlardan\)](https://open.spotify.com/album/1K2TklmCO47H9vt46amBDw) | 3:49 | 2025-01-02 |  |
 | [Gidin](https://open.spotify.com/track/4RNuCCsvfGF03sfmboHwlT) | [Peyk](https://open.spotify.com/artist/6gPaETmwMTVwGdrd5eIiog) | [Suluşaka](https://open.spotify.com/album/1w0yVuxBLrepX4dhR3ArpP) | 3:15 | 2024-11-07 |  |

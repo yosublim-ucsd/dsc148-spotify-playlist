@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Can't Fake It",
+        "url": "https://open.spotify.com/album/73CFBKvVMctTN6BkQhTPsl"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169640,
+      "name": "Can't Fake It",
+      "url": "https://open.spotify.com/track/0ocTT0J237xFSe33Pd7GO7"
+    },
+    {
+      "album": {
         "name": "Change Me (From \"The Proud Family: Louder and Prouder\")",
         "url": "https://open.spotify.com/album/7E6QCxngI7Lvstdc79qfoV"
       },
@@ -2014,6 +2032,24 @@
       "duration_ms": 88800,
       "name": "Kiff Theme Song - From \"Kiff\"",
       "url": "https://open.spotify.com/track/1p3fHZ19mvskuzVviTzdmV"
+    },
+    {
+      "album": {
+        "name": "King of Everything",
+        "url": "https://open.spotify.com/album/7D7UOOXWySjWezBDuaqa4p"
+      },
+      "artists": [
+        {
+          "name": "Adrian Lyles",
+          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "King of Everything",
+      "url": "https://open.spotify.com/track/3MBMDJbcQoUl5WKHgD5cp8"
     },
     {
       "album": {

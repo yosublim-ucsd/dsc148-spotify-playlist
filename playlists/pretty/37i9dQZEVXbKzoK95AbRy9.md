@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,638 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,678 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Universo](https://open.spotify.com/track/0kdLrg7jLzNcfTgL0cdwoN) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Universo](https://open.spotify.com/album/5GDXm353fnLjCzi2dl4rgZ) | 3:10 |
 | 50 | [Paredões](https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Paredões](https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld) | 2:55 |
 
-Snapshot ID: `LzQuyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`

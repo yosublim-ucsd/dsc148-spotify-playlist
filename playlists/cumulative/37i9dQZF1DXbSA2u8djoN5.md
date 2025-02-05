@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: NOUA UNSPE, Oscar
 
-116 songs - 5 hr 31 min
+117 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,12 +69,13 @@
 | [Infinitul](https://open.spotify.com/track/44FNHXuXP7FdC3hjVOaml6) | [Tranda](https://open.spotify.com/artist/46lPxU4nZnI2tTGtu1edGF), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Infinitul](https://open.spotify.com/album/2ZEN9yVXLJqEOK0UPOQmSC) | 2:27 | 2025-01-09 |  |
 | [iNGER](https://open.spotify.com/track/4lKDvhNzcRhHYfNOWqTPgx) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [iNGER](https://open.spotify.com/album/6NWyRBmyZAWLE76D3DhJSw) | 3:21 | 2024-06-27 | 2024-11-01 |
 | [Joacă](https://open.spotify.com/track/2P4d947MikKNSQw5I3lHSv) | [DOC](https://open.spotify.com/artist/6pWa7vRheyK4dmNJ2cg0gA), [Hardplay](https://open.spotify.com/artist/5oNOqzbZ0wPu4tn0mM5vmH) | [Aproape TOT](https://open.spotify.com/album/1Qb2fUJIgv2xKKYGo1WWl7) | 1:51 | 2024-10-03 | 2024-10-21 |
+| [Lacrimi](https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Lacrimi](https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F) | 2:47 | 2025-01-23 |  |
 | [Legenda](https://open.spotify.com/track/6dqC4isK1jxuzhjxsSBo5S) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Legenda](https://open.spotify.com/album/15IKtAuzpuD5JeBr35X7uP) | 2:39 | 2024-06-27 | 2024-10-04 |
 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 | 2024-10-31 |  |
 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 | 2024-06-27 |  |
 | [Lupta Continua](https://open.spotify.com/track/2WsUkvcfIp2CJQV84nOcSO) | [La Familia](https://open.spotify.com/artist/0MBEd6qd0GmDdDW8Pyftuv), [Phunk B](https://open.spotify.com/artist/2uY1K2tEdWUdDiK6tzBwwo), [Cedry2k](https://open.spotify.com/artist/7FDJIY6t5G8guWfwx4lXRd) | [FOARTE](https://open.spotify.com/album/2PCNCVJEjTH7mLrKSjsM2X) | 3:36 | 2024-06-27 | 2024-08-02 |
 | [Meditez](https://open.spotify.com/track/4oIlgjCDVa54Xi5YinqNyw) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Double Edd](https://open.spotify.com/artist/1JybKX6kJizwltWhwwuoOG) | [Meditez](https://open.spotify.com/album/1NiNEqg5QMusfJEzTlyhFv) | 2:10 | 2024-06-27 | 2024-08-16 |
-| [Meditez](https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Cruz](https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f) | [Meditez](https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm) | 2:29 | 2024-06-27 |  |
+| [Meditez](https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Cruz](https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f) | [Meditez](https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm) | 2:29 | 2024-06-27 | 2025-02-05 |
 | [Merit mai mult](https://open.spotify.com/track/6er5fC7StXq4wJa8QwKYxB) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [ELARI](https://open.spotify.com/artist/5YxFxREvsZEDVxBen9pdHp) | [Merit mai mult](https://open.spotify.com/album/50tjRI9lDL4U5GDKO7hRkS) | 2:29 | 2024-06-27 | 2024-07-27 |
 | [MUZEU](https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [MUZEU](https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy) | 2:36 | 2024-10-31 |  |
 | [Nimic Nou](https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Nimic Nou](https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R) | 2:35 | 2024-11-21 |  |

@@ -4,7 +4,7 @@
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 24 min
+98 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Volibear, the Relentless Storm](https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Volibear, the Relentless Storm](https://open.spotify.com/album/76VWvyYXtwPv3gX2gVOR8z) | 3:18 | 2024-01-29 | 2024-09-18 |
 | [Warriors](https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Warriors](https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn) | 3:24 | 2024-01-29 |  |
 | [Wasteland \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3rF6JPHGnDf5fIQPqHW7U3) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Wasteland \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3Q5TWpLZTd3b4Zmmu6KF1i) | 2:41 | 2024-11-26 |  |
+| [What Have They Done To Us \(ft\. Sasha Alex Sloan\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5O0xMAdhVfPrPf5FMieyiV) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/6L0Ddqho2KlutenNvRCOYc) | 3:20 | 2025-02-05 |  |
 | [When Everything Went Wrong \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5fW9gRfANuXLNgopaNTrHi) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [When Everything Went Wrong \(from the series Arcane League of Legends\)](https://open.spotify.com/album/2mwGEdmUVr7RjkDlxzjRzJ) | 3:13 | 2024-09-20 |  |
 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 | 2024-01-29 |  |
 | [You & Me Makes Us](https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [You & Me Makes Us](https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg) | 2:56 | 2024-01-29 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-685 songs - 1 day 16 hr 46 min
+686 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 | 2021-12-17 | 2023-11-04 |
 | [Boy From Anderson County](https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 4:04 | 2023-11-10 | 2024-04-19 |
 | [Boy Like Me](https://open.spotify.com/track/0L3hzWLPVgBCfg19H0dcIR) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Boy Like Me](https://open.spotify.com/album/183gKXKQgy0tncVwiK7kJi) | 3:52 | 2022-07-15 | 2022-07-18 |
+| [Boys Growing Up](https://open.spotify.com/track/359avoGK4rssamzUomqcLU) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Boys Growing Up](https://open.spotify.com/album/4PV7QhsKFblKMyMQCFXBct) | 3:40 | 2025-01-31 |  |
 | [Break Up In A Bar](https://open.spotify.com/track/1UcWlY9PXa0GjqEOksJ1Gk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Break Up In A Bar](https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5) | 3:36 | 2022-03-11 | 2022-09-10 |
 | [Breaking Every Heart In Texas](https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Breaking Every Heart In Texas](https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz) | 3:26 | 2021-12-17 | 2022-11-13 |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 | 2023-11-05 |
@@ -489,7 +490,7 @@
 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 | 2021-12-17 |  |
 | [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/3y2zTwvJpEJ0pYi6JdbkQU) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [9 To 5](https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v) | 3:21 | 2023-09-01 | 2023-10-21 |
 | [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/63Z6AAHPSbNm0S6f5XuXe5) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:21 | 2023-11-24 | 2024-01-24 |
-| [She Always Takes Me Back](https://open.spotify.com/track/6hNrQDeyGlEA32LorsV8nS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [She Always Takes Me Back](https://open.spotify.com/album/4KnI45gKt007RNirnZsafg) | 3:34 | 2025-01-31 |  |
+| [She Always Takes Me Back](https://open.spotify.com/track/6hNrQDeyGlEA32LorsV8nS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [She Always Takes Me Back](https://open.spotify.com/album/4KnI45gKt007RNirnZsafg) | 3:34 | 2025-01-31 | 2025-02-05 |
 | [She Can't Be Found](https://open.spotify.com/track/0S7JGv7sbJlrr6BBMfRKye) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 4:27 | 2023-08-11 | 2023-09-11 |
 | [She Can't Be Found](https://open.spotify.com/track/6T02bf5qIAVf8AndP9x2Ud) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [She Can't Be Found](https://open.spotify.com/album/6Ldm3L4Aa6YD5IiJfTc79l) | 4:27 | 2023-07-07 | 2023-08-14 |
 | [She Don't](https://open.spotify.com/track/1fgNH6vN7i4Ofp6uxuVHzH) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [She Don't](https://open.spotify.com/album/4zQKvIO2kVpQFZhFBuXc7k) | 3:11 | 2023-02-24 | 2023-05-27 |

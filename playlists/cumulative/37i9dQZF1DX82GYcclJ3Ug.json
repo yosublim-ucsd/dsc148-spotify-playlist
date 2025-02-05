@@ -42027,6 +42027,24 @@
     },
     {
       "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk"
+      },
+      "artists": [
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic"
+    },
+    {
+      "album": {
         "name": "Unchained Memory",
         "url": "https://open.spotify.com/album/09ymAZAZiJUyauud1ADp3T"
       },

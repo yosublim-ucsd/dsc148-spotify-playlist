@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-248 songs - 16 hr 2 min
+249 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bruciasse Il Cielo](https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Bruciasse Il Cielo](https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk) | 3:57 | 2024-01-17 | 2024-06-26 |
 | [Casa](https://open.spotify.com/track/65sEIdBT16fziZvjhckFpq) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Casa](https://open.spotify.com/album/0FO2xwcfokmFAuEUuMCEel) | 2:45 | 2021-09-26 | 2022-06-22 |
 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 | 2021-09-26 |  |
-| [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 | 2021-09-26 |  |
+| [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 | 2021-09-26 | 2025-02-05 |
 | [Chiaro Di Luna](https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Oh, Vita!](https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK) | 3:59 | 2021-09-26 |  |
 | [Chissà se lo sai](https://open.spotify.com/track/3zfu6purzESVP3pVQ7RyRP) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Bugie](https://open.spotify.com/album/3ntCfoW9VBhGf9Gm3aCCsl) | 4:02 | 2021-09-26 | 2022-07-29 |
 | [Ci Sarai](https://open.spotify.com/track/6iLvjH0HEU71q31DAfKt10) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Fermoimmagine](https://open.spotify.com/album/3usPcrTGNDxXe3ciW0hfnA) | 4:14 | 2021-09-26 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [La Fine](https://open.spotify.com/track/7eEthuNKSBZ6ipfmG5mjuJ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [L'amore è una cosa semplice \(Special Edition\)](https://open.spotify.com/album/4VqOwLPLbdl3GTNoygOLW1) | 3:46 | 2021-09-26 | 2022-07-28 |
 | [LA MIA ULTIMA STORIA](https://open.spotify.com/track/5JYMRX7TnPrEYkmwKOMmVD) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [EX VOTO](https://open.spotify.com/album/4n4BEIXre48tozRUR354jP) | 3:18 | 2021-09-26 | 2022-07-28 |
 | [La musica non c'è](https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:42 | 2021-09-26 | 2025-01-29 |
+| [La musica non c'è](https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4) | 3:42 | 2025-01-28 |  |
 | [La nostra relazione](https://open.spotify.com/track/3aG9QxO3O3w1qYVJAxdw5R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Ma Cosa Vuoi Che Sia Una Canzone](https://open.spotify.com/album/3qlZxpHULNTMuNtSgSMYiK) | 3:02 | 2021-09-26 | 2022-07-27 |
 | [La notte](https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Amami](https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ) | 3:55 | 2025-01-23 |  |
 | [La prima cosa bella](https://open.spotify.com/track/4VbK4kLSKzJ5sgsdZWmAJ9) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Grovigli](https://open.spotify.com/album/2n64YwFYEsVx4cmKmFFDZW) | 3:37 | 2021-09-26 | 2022-07-29 |

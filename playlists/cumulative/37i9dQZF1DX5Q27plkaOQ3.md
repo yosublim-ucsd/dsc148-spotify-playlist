@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with LEVEL UP
 
-899 songs - 2 day 1 hr 51 min
+900 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Feel It](https://open.spotify.com/track/2Zin7IOCSXxhQtdoFU4zdk) | [Hostage Situation](https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON), [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz) | [Feel It](https://open.spotify.com/album/3aEwKTDudMUykXpjH1tjU8) | 2:04 | 2024-07-26 | 2025-01-11 |
 | [Feel Nothing](https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI) | [Kozmoz](https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh) | [Feel Nothing](https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2) | 2:27 | 2023-10-13 | 2024-05-25 |
 | [Feel The Vibe](https://open.spotify.com/track/5uubpHWcBAXoPSoBXY45vW) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Feel The Vibe](https://open.spotify.com/album/4hBRcZ9fXJULxdOSvpOkuD) | 3:22 | 2024-04-12 |  |
-| [FEEL THIS](https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [FEEL THIS](https://open.spotify.com/album/4XmAELT7o9pCbK0L5I4TzQ) | 3:01 | 2024-10-04 |  |
+| [FEEL THIS](https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [FEEL THIS](https://open.spotify.com/album/4XmAELT7o9pCbK0L5I4TzQ) | 3:01 | 2024-10-04 | 2025-02-05 |
 | [Feral](https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Feral](https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK) | 3:20 | 2024-04-26 |  |
 | [Fight Milk](https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Fight Milk](https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS) | 3:12 | 2021-12-17 | 2023-04-01 |
 | [FINAL BOSS](https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [FINAL BOSS](https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl) | 2:52 | 2023-02-17 | 2024-10-05 |
@@ -889,6 +889,7 @@
 | [WATERBENDA](https://open.spotify.com/track/6qCRbfpjxaG1rViaA0p7t2) | [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M), [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [WATERBENDA](https://open.spotify.com/album/1c8nmtodmkE411L7jH7iLw) | 2:57 | 2024-04-26 |  |
 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 | 2024-04-05 | 2024-12-07 |
 | [Way Up](https://open.spotify.com/track/5Dmk7WSDEIywhhXKq7lP3j) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Way Up](https://open.spotify.com/album/3GGE7ZpfgZwHSXsoxV5oKL) | 3:34 | 2022-10-21 | 2024-08-20 |
+| [Weird & ODD](https://open.spotify.com/track/5N30OmjoSrdGRd7U7xkEmn) | [Wodd](https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG) | [Weird & ODD](https://open.spotify.com/album/25uLQgfbFL6njUMLNRSoaL) | 3:42 | 2025-01-31 |  |
 | [Welcome to the Party](https://open.spotify.com/track/0LRwDYp3DGJBCEPLvOog40) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Sam Nelson](https://open.spotify.com/artist/3PjJuYoEAZcozJezfxdvPK) | [Welcome to the Party](https://open.spotify.com/album/5vLSvzvpAyKDilhEeqAuRu) | 2:44 | 2022-02-11 | 2022-11-18 |
 | [West End Wobbler](https://open.spotify.com/track/7hmv0wbnoi8n7Mbe8fHwQM) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [West End Wobbler](https://open.spotify.com/album/2ysqBWfWSJj9tyYn4yJsuf) | 3:17 | 2025-01-31 |  |
 | [What You Know](https://open.spotify.com/track/4DgRIcXzeaunKVtGxiF4RN) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H), [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI) | [What You Know](https://open.spotify.com/album/5GejEbQzHBTl4FMXgFb31M) | 2:51 | 2024-09-06 |  |

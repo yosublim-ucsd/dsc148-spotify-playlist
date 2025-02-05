@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Pari Pandher
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,788 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,812 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 6 | [Behja](https://open.spotify.com/track/5ipjxMaTd2m0g7fv283MWn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [Behja](https://open.spotify.com/album/2HpDwsJz1j15HXXo08OdhF) | 2:01 |
 | 7 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 |
 | 8 | [Sheesha](https://open.spotify.com/track/72KGgCY0BIPupLNvnYDNIR) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Geet](https://open.spotify.com/artist/611iMDwmj2x1wHVq0896Zi) | [Sheesha](https://open.spotify.com/album/0R6gtv0SzfiNv8pumliPmr) | 2:46 |
-| 9 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
+| 9 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
 | 10 | [Tera Mera Viah](https://open.spotify.com/track/0J8pFQmRY3T5Fo1eRMgZ49) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX) | [Tera Mera Viah](https://open.spotify.com/album/5U4oL6plxYADp3AH321W4u) | 3:04 |
 | 11 | [Nagri Nagri \("From Bibi Rajni"\)](https://open.spotify.com/track/1vuC6Y0R7WI9uOUm4h6zYJ) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Nagri Nagri \("From Bibi Rajni"\)](https://open.spotify.com/album/0fH91dN0Sr2Dwj382FM5DI) | 4:22 |
 | 12 | [Sukoon](https://open.spotify.com/track/2Z9d3935U8kg8cExrI33jd) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA), [Babbu Brar](https://open.spotify.com/artist/5iVo4PE7XoDT1eDEh65gKj), [Navdeesh Arora](https://open.spotify.com/artist/7kU8gQOzNhp7JsuEFBic7R) | [Sukoon](https://open.spotify.com/album/305KJcXEeB9RCZuYxZess4) | 3:43 |

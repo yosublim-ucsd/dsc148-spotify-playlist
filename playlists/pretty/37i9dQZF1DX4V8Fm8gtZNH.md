@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,963 likes - 319 songs - 18 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,985 likes - 319 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 137 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/7IIJjOumKTM77xTICDqglh) | [Jeanne Lee](https://open.spotify.com/artist/7ezPWk4DFf9Fb9tdwg0Ych), [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o) | [The Newest Sound Around](https://open.spotify.com/album/2XqR70gpvaargPRJr5M6NZ) | 2:06 |
 | 138 | [Karma](https://open.spotify.com/track/0xB7i2AhQZT7nnor7rb15L) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:04 |
 | 139 | [I'm Good](https://open.spotify.com/track/51qTGQ8Q78yPUeLpMjzTlt) | [Remey Williams](https://open.spotify.com/artist/5PjEH2MNklNpDLPVtUvH0i) | [I'm Good](https://open.spotify.com/album/5tGXcEWPhiNyBEBwIyUOsv) | 3:18 |
-| 140 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 |
+| 140 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 |
 | 141 | [Lemon Pepper Wings](https://open.spotify.com/track/3hD8O27M5vmBkTAAS5RIvY) | [Rae](https://open.spotify.com/artist/0utsXXc4i5jfRRiZf5lsm3) | [Lemon Pepper Wings](https://open.spotify.com/album/2DCzyOJ9AU6Eaca5LZ0x5B) | 3:21 |
 | 142 | [Lonely Girls](https://open.spotify.com/track/3U7rZTrsC37nxWccOs53a0) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [Fantasy](https://open.spotify.com/album/4lBRxkADy8ER4b54cQZCYw) | 3:48 |
 | 143 | [Make Love](https://open.spotify.com/track/1ijcAhdBvAx2iTh8vrUZi8) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [With Pleasure](https://open.spotify.com/album/5e68IXpPhwiqxRaAToST3s) | 4:31 |

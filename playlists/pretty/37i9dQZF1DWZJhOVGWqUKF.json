@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Nevertel",
-  "num_followers": 342013,
+  "num_followers": 342069,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-01-30 23:00:21",
       "album": {
-        "name": "Mother Teresa",
-        "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Mother Teresa",
-      "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
-    },
-    {
-      "added_at": "2025-01-30 23:00:21",
-      "album": {
         "name": "+Matter",
         "url": "https://open.spotify.com/album/4nLDWr5orZvPtYwF0yrstO"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 232964,
       "name": "+Matter",
       "url": "https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Mother Teresa",
+        "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Mother Teresa",
+      "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
     },
     {
       "added_at": "2025-01-30 23:00:21",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2025-01-30 23:00:21",
       "album": {
-        "name": "Rock N Roller",
-        "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 223694,
-      "name": "Rock N Roller",
-      "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
+      "duration_ms": 165733,
+      "name": "Showbiz",
+      "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
     },
     {
       "added_at": "2025-01-30 23:00:21",
@@ -1323,34 +1323,18 @@
     {
       "added_at": "2025-01-30 23:00:21",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
+        "name": "Rock N Roller",
+        "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 165733,
-      "name": "Showbiz",
-      "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
-    },
-    {
-      "added_at": "2025-01-30 23:00:21",
-      "album": {
-        "name": "Taking Inventory Of A Frozen Lake",
-        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 257084,
-      "name": "Taking Inventory Of A Frozen Lake",
-      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
+      "duration_ms": 223694,
+      "name": "Rock N Roller",
+      "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
     },
     {
       "added_at": "2025-01-30 23:00:21",
@@ -1367,6 +1351,22 @@
       "duration_ms": 218000,
       "name": "Glass Half Empty",
       "url": "https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "added_at": "2025-01-30 23:00:21",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-01-30 23:00:21",
       "album": {
-        "name": "My Blood",
-        "url": "https://open.spotify.com/album/2ftETEDJ4GWM9a3z5rewTf"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 245225,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/02VuP7Wo8HVo2nSnpd6qrl"
-    },
-    {
-      "added_at": "2025-01-30 23:00:21",
-      "album": {
         "name": "Blood Red Heart",
         "url": "https://open.spotify.com/album/6rY89ErMOwDPPqTsGiAiSm"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 144533,
       "name": "Blood Red Heart",
       "url": "https://open.spotify.com/track/33AVQadDICfdLSxmv6rsr6"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "My Blood",
+        "url": "https://open.spotify.com/album/2ftETEDJ4GWM9a3z5rewTf"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 245225,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/02VuP7Wo8HVo2nSnpd6qrl"
     },
     {
       "added_at": "2025-01-30 23:00:21",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-01-30 23:00:21",
       "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 244233,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
         "name": "Out Of Style",
         "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 205897,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
-    },
-    {
-      "added_at": "2025-01-30 23:00:21",
-      "album": {
-        "name": "PIECES",
-        "url": "https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 244233,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
     },
     {
       "added_at": "2025-01-30 23:00:21",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-01-30 23:00:21",
       "album": {
-        "name": "Wake Up The Wicked (Deluxe Version)",
-        "url": "https://open.spotify.com/album/41XrkRQLSBThNGddZTKxiN"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 195655,
-      "name": "We Don't Wanna Be No Saints",
-      "url": "https://open.spotify.com/track/3B8gzxlo7uZUFMl3tO5HOo"
-    },
-    {
-      "added_at": "2025-01-30 23:00:21",
-      "album": {
         "name": "MY GOD HAS GOT A GUN",
         "url": "https://open.spotify.com/album/3NuG2Ua7jKgshFKhXC2Mxk"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 257799,
       "name": "MY GOD HAS GOT A GUN",
       "url": "https://open.spotify.com/track/7ERQTqX4DWDF3onsWpxu4T"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Wake Up The Wicked (Deluxe Version)",
+        "url": "https://open.spotify.com/album/41XrkRQLSBThNGddZTKxiN"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 195655,
+      "name": "We Don't Wanna Be No Saints",
+      "url": "https://open.spotify.com/track/3B8gzxlo7uZUFMl3tO5HOo"
     },
     {
       "added_at": "2025-01-30 23:00:21",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-01-30 23:00:21",
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 227064,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
-    },
-    {
-      "added_at": "2025-01-30 23:00:21",
-      "album": {
         "name": "Wreckage",
         "url": "https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "duration_ms": 227064,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
     },
     {
       "added_at": "2025-01-30 23:00:21",

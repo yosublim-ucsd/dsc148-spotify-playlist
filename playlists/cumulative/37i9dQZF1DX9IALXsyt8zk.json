@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 152889,
       "name": "Boom Boom Bass",
       "url": "https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 179200,
       "name": "Done",
       "url": "https://open.spotify.com/track/1ISSgsyLmSguaJSM3pnPGk"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 240906,
       "name": "Falling into you",
       "url": "https://open.spotify.com/track/5d4NqOk45ZHdztS7BJQ8fY"
@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Smoke Point",
+        "url": "https://open.spotify.com/album/77YEnm5uEUWW3SL8KiO2Jk"
+      },
+      "artists": [
+        {
+          "name": "ALL(H)OURS",
+          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171386,
+      "name": "GIMME GIMME",
+      "url": "https://open.spotify.com/track/4QTDaL72TntzXCeoHrl6Cx"
+    },
+    {
+      "album": {
         "name": "the collective soul and unconscious: chapter one",
         "url": "https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw"
       },
@@ -3661,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "hellbound",
+        "url": "https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "hellbound",
+      "url": "https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o"
+    },
+    {
+      "album": {
         "name": "BOYS PLANET - Here I Am",
         "url": "https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc"
       },
@@ -3726,7 +3762,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 205360,
       "name": "High",
       "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
@@ -5091,6 +5127,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/51q780I3cFQH2gTwp3bm8Q"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240133,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/17IUvxErsnc8RmhkggoMwG"
+    },
+    {
+      "album": {
         "name": "Miss Night and Day (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3kHpmhoOVHOPE8m3AKlIJ9"
       },
@@ -5262,6 +5316,24 @@
       "duration_ms": 157253,
       "name": "MAKE U DANCE (feat. EUNHA)",
       "url": "https://open.spotify.com/track/1ncwp4dnCgJ51kBXk3FeZu"
+    },
+    {
+      "album": {
+        "name": "Flip it, Kick it!",
+        "url": "https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176880,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI"
     },
     {
       "album": {
@@ -5944,7 +6016,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 164920,
       "name": "Nice Guy",
       "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
@@ -6586,7 +6658,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 160517,
       "name": "PEAK (Feat. CAMO)",
       "url": "https://open.spotify.com/track/57EIGm8jQt9K0ACLOwW7Fv"
@@ -10269,6 +10341,32 @@
     },
     {
       "album": {
+        "name": "OTL",
+        "url": "https://open.spotify.com/album/1MN1yMya6brnvDopCX2f5y"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174160,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/7M1gpGs02cJj7JFfmySamc"
+    },
+    {
+      "album": {
         "name": "Winter Blossom",
         "url": "https://open.spotify.com/album/0BfnFb5Q5FduZgF4qcJur0"
       },
@@ -10506,6 +10604,24 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "album": {
+        "name": "94-24 +1",
+        "url": "https://open.spotify.com/album/3UjYTwZtOSekvKHgjM7ByQ"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89277,
+      "name": "ZNTZL",
+      "url": "https://open.spotify.com/track/3uKpX4ZtaQ0ZslTPpc4kRL"
     },
     {
       "album": {

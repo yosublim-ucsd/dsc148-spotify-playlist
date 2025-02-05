@@ -95,6 +95,32 @@
     },
     {
       "album": {
+        "name": "A Healing Song",
+        "url": "https://open.spotify.com/album/2YVbnl6fzKwIBN9q4562ar"
+      },
+      "artists": [
+        {
+          "name": "Christopher Koehn Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7wGFFvXLrtufmUy5WUEER1"
+        },
+        {
+          "name": "Chris Koehn",
+          "url": "https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn"
+        },
+        {
+          "name": "Barbara Mori",
+          "url": "https://open.spotify.com/artist/1255FEAystP6lFDp9sClBL"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301403,
+      "name": "A Healing Song",
+      "url": "https://open.spotify.com/track/4nWzykTaCgZIOfEruzrCLv"
+    },
+    {
+      "album": {
         "name": "a softer focus",
         "url": "https://open.spotify.com/album/0UnY8jxUamnb3hYkUVN8pK"
       },
@@ -4698,7 +4724,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 193640,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/6rimsvUM83uEm0S7QEsS9J"

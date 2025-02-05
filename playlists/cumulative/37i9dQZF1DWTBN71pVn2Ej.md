@@ -2,14 +2,14 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Split Chain \(pictured\), Superheaven, quannnic, Glixen, and more.
+> The shape of noise to come with Glixen \(pictured\), Superheaven, Glare, and more.
 
-776 songs - 1 day 20 hr 20 min
+780 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til Forever](https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | ['Til Forever](https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q) | 2:48 | 2023-09-15 | 2023-11-11 |
-| [\(Re\)\-Extract](https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [\(Re\)\-Extract](https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI) | 3:02 | 2024-09-20 |  |
+| [\(Re\)\-Extract](https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [\(Re\)\-Extract](https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI) | 3:02 | 2024-09-20 | 2025-02-05 |
 | [1% Milk](https://open.spotify.com/track/6eQvhUB3F3TzmFjmL00PPx) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [1% Milk](https://open.spotify.com/album/6aP8d9w80CWYhWH66TCvS8) | 2:42 | 2021-12-16 | 2022-01-14 |
 | [20 Signs](https://open.spotify.com/track/6wASObGcDb27c5dvv2wu5F) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [20 Signs](https://open.spotify.com/album/2A8fYB1Ma4Nih3N0lr8SPu) | 2:32 | 2022-03-24 | 2022-09-07 |
 | [2023](https://open.spotify.com/track/10S8d3jVFTCNyfb8iWuhxN) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [2023](https://open.spotify.com/album/3liTrUIbXk9QpngZCHwLet) | 3:42 | 2023-05-12 | 2023-06-03 |
@@ -142,6 +142,7 @@
 | [Chasms](https://open.spotify.com/track/1icQihnClFMeGQgKrSGehY) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [Chasms](https://open.spotify.com/album/6pAvsIwYWDB7iVTVGT4SYA) | 4:48 | 2021-12-16 | 2022-02-18 |
 | [Cherish](https://open.spotify.com/track/4QXzHCSKAtUM7CBiovu7UR) | [New Age Thief](https://open.spotify.com/artist/5wPi7eY4GvQnUzrkvkgVpM) | [Stars Align](https://open.spotify.com/album/3ee6yi3qicJajlY6SGU8fl) | 3:38 | 2024-10-25 |  |
 | [Cherish](https://open.spotify.com/track/4HCoPFHS2fRgXMRB2ilJkt) | [Splitview](https://open.spotify.com/artist/3ZjcTj1vxM9i0f7QDfRPuZ) | [Cherish](https://open.spotify.com/album/6sD03P0EzC6P8lwChGZJEr) | 2:53 | 2024-05-31 | 2024-07-27 |
+| [Cherry](https://open.spotify.com/track/4TPeK1K6tgwrnI3HjPSdUX) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Cherry](https://open.spotify.com/album/1ESDjhJCni1Q9HmjMw1KEd) | 4:46 | 2025-02-04 |  |
 | [Cherry Red Rage](https://open.spotify.com/track/51ftpjRx4Kw7FLgnAl3X0R) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Cherry Red Rage](https://open.spotify.com/album/2F314L6DLTaWt1BlO9JTdi) | 2:51 | 2023-04-07 | 2023-05-04 |
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-09-06 | 2022-11-05 |
 | [Chloë](https://open.spotify.com/track/3cRITSR5BxSq3UPGES4v7e) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Chloë](https://open.spotify.com/album/5P5FUOElHJe4ek3tiv67Os) | 2:45 | 2023-09-08 | 2023-11-11 |
@@ -222,7 +223,7 @@
 | [Dive](https://open.spotify.com/track/0ToSPOjmd4sl1ABWa3nEvl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Dive](https://open.spotify.com/album/7F0bAW23xFNyiFeC3OKJd8) | 3:35 | 2022-01-20 | 2022-02-25 |
 | [Diver](https://open.spotify.com/track/2QpDWokW6TyVYsFk3ziUee) | [Ritual](https://open.spotify.com/artist/6gZppTVRTVJ4UA8jrA3qo4) | [Closing In](https://open.spotify.com/album/1qC4Fzan3iSEoBMjbg3oSe) | 2:15 | 2024-02-09 | 2024-03-28 |
 | [Dog Days](https://open.spotify.com/track/1DSAidjqyrbWnncVJFHHI9) | [Hippie Trim](https://open.spotify.com/artist/4NoLhg2lDgMdSvmD7GUJet) | [Dog Days](https://open.spotify.com/album/0L2sIV6iq4FXfV8EWDt1XM) | 2:51 | 2024-04-26 | 2024-06-01 |
-| [Doll](https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Doll](https://open.spotify.com/album/0SgIgo8uCcI4GSsAbgQ82q) | 1:54 | 2024-12-20 |  |
+| [Doll](https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Doll](https://open.spotify.com/album/0SgIgo8uCcI4GSsAbgQ82q) | 1:54 | 2024-12-20 | 2025-02-05 |
 | [Don't Blink](https://open.spotify.com/track/0ruduTbBWx4IJibMyiMsdg) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Don't Blink](https://open.spotify.com/album/164xhM4RrTkcPYefR75Iy1) | 4:05 | 2024-08-23 | 2024-11-30 |
 | [Done](https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 2:47 | 2023-04-07 | 2024-02-17 |
 | [Done](https://open.spotify.com/track/6Wc4I7yrNbhW7DYL7WD8AY) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 2:47 | 2023-03-24 | 2023-04-09 |
@@ -315,6 +316,7 @@
 | [Grow](https://open.spotify.com/track/7yIyNzFkLxacTrgR3yimJY) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Grow](https://open.spotify.com/album/6V6DhgsedKip2k52hdbf3S) | 3:47 | 2023-03-10 | 2023-06-17 |
 | [Growing Pains](https://open.spotify.com/track/5HDaL1bE43pm8yP2xI1Sj8) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7) | [Growing Pains](https://open.spotify.com/album/0uYuSX7psMG97KxCZuytZW) | 2:42 | 2024-12-03 |  |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-03 | 2022-05-20 |
+| [Guts](https://open.spotify.com/track/2whjziw7ZEzkXTUhuQ6tAF) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Guts](https://open.spotify.com/album/362mjExaEaTHsrGK5tdBOU) | 3:39 | 2025-02-04 |  |
 | [Habit](https://open.spotify.com/track/2PZmaMJ0FuK6OkMPwvHNCD) | [AIRTIGHT](https://open.spotify.com/artist/72BcBzR0gYf9yhxaBHmAph) | [Habit](https://open.spotify.com/album/5dzgzO0jjIEkEYznHgXolo) | 3:55 | 2024-12-03 |  |
 | [Hal Ashby](https://open.spotify.com/track/3KutrW5yHciWy8G7d250BP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Hal Ashby](https://open.spotify.com/album/1POPLkadaqRnEJQLkQnXVq) | 2:55 | 2024-09-13 | 2024-10-22 |
 | [Half Nelson](https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Half Nelson](https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb) | 3:11 | 2023-10-13 | 2023-11-11 |
@@ -407,6 +409,7 @@
 | [Know Better](https://open.spotify.com/track/1rRsax7AcjgWoVIFF4hlWQ) | [Prize Horse](https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD) | [Know Better](https://open.spotify.com/album/3RLD7ptyKfXdKsXFpkzelD) | 3:25 | 2024-02-09 | 2024-02-17 |
 | [Know That I'm Alive](https://open.spotify.com/track/0RZrNkCEGOYWqm1pWlmpCd) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Know That I'm Alive](https://open.spotify.com/album/0c1zW7kqZ6IZv4NRK6KlQ1) | 2:46 | 2023-12-14 | 2024-05-25 |
 | [Last Amour](https://open.spotify.com/track/2eHn2iYwPwXCAVVmGep6Hu) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [I Feel It All At Once](https://open.spotify.com/album/4qAF52zLREmgy3D2IrCzlG) | 3:55 | 2024-09-30 |  |
+| [LAST DANCE](https://open.spotify.com/track/5huaN0RbN1CEnSEmIlr2n1) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [ODDWORLD](https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF) | 3:33 | 2025-02-04 |  |
 | [Laugh](https://open.spotify.com/track/2adbCG7wkQRHHvVZIe5bLN) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi), [MightyMacFluff](https://open.spotify.com/artist/7eI9L2dsuHooxUOcp6ATMf) | [Laugh](https://open.spotify.com/album/0OIDcAIHVAaxGc7ngpwN91) | 3:30 | 2022-09-08 | 2022-10-01 |
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2021-12-16 | 2022-02-04 |
 | [Lean Into It](https://open.spotify.com/track/6jXiMMb5Hvz1NwITFVblZV) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Lean Into It](https://open.spotify.com/album/5fduGd0WmVCmD3O9w2EcbS) | 4:09 | 2023-11-10 | 2024-03-02 |
@@ -470,7 +473,7 @@
 | [Mother Falcon](https://open.spotify.com/track/5uy6YqrObrNLQTETcFllYT) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Free Help](https://open.spotify.com/album/6bV0iUlFpQBsCK9LJvOAe3) | 3:47 | 2024-11-15 |  |
 | [Motorbike](https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw) | 3:21 | 2022-06-30 | 2022-07-29 |
 | [Motorbike](https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:21 | 2022-06-30 | 2022-10-29 |
-| [Mourning Haze](https://open.spotify.com/track/6siemd7q5UtGQHMoFDz9l0) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Mourning Haze](https://open.spotify.com/album/2S3Wt1x9GTq9POIuyMJTQR) | 3:27 | 2024-11-12 |  |
+| [Mourning Haze](https://open.spotify.com/track/6siemd7q5UtGQHMoFDz9l0) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Mourning Haze](https://open.spotify.com/album/2S3Wt1x9GTq9POIuyMJTQR) | 3:27 | 2024-11-12 | 2025-02-05 |
 | [MURDER ME](https://open.spotify.com/track/7bHnDPNl7KQTtupTppd3oR) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [MURDER ME](https://open.spotify.com/album/6u2wZGyeP9BHs1wYThOCfn) | 3:34 | 2022-01-06 | 2022-09-07 |
 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 | 2023-04-14 | 2023-05-20 |
 | [My Front Door](https://open.spotify.com/track/6tBzEPbhZO9AzTTzRRlBjC) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [My Front Door](https://open.spotify.com/album/1hxKu3AkWaNPUbMzZUU3RH) | 3:43 | 2024-05-24 | 2024-07-09 |
@@ -671,7 +674,7 @@
 | [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 | 2022-06-23 | 2022-10-08 |
 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-09-06 | 2023-01-14 |
 | [Take the Wheel](https://open.spotify.com/track/3skgT62fQ0MZ2LL3pb59nu) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Take the Wheel](https://open.spotify.com/album/5UnohJ1su4dg8awfeHuKHy) | 3:15 | 2022-06-02 | 2022-09-07 |
-| [take.one.minute](https://open.spotify.com/track/1kz5vwtYp3oYfzlIAQfGwU) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [take.one.minute](https://open.spotify.com/album/6Nbi0BEwTszFajTAEruiEg) | 4:15 | 2024-09-13 |  |
+| [take.one.minute](https://open.spotify.com/track/1kz5vwtYp3oYfzlIAQfGwU) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [take.one.minute](https://open.spotify.com/album/6Nbi0BEwTszFajTAEruiEg) | 4:15 | 2024-09-13 | 2025-02-05 |
 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-03 |  |
 | [talking to the drugs](https://open.spotify.com/track/3Lz6teL5yOL4pp30hKj9LT) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [talking to the drugs](https://open.spotify.com/album/2XwXXhDUuX7SDqsQpgEwHU) | 2:56 | 2022-04-21 | 2022-09-23 |
 | [Tangerine](https://open.spotify.com/track/0EnhQ7imjcQu06rNVQuXdX) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Pyrophonics](https://open.spotify.com/album/1gJ0OUh09ZHCCN8u9DSvkB) | 3:50 | 2023-06-16 | 2024-01-13 |
@@ -712,6 +715,7 @@
 | [Tired Eyes](https://open.spotify.com/track/4mDfcifrz9yvE4qwWl5onA) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Tired Eyes](https://open.spotify.com/album/5Eiy3yNtWvmWH0WFwYPYeq) | 3:04 | 2024-11-08 | 2024-12-14 |
 | [Title Track](https://open.spotify.com/track/6IOm2HdES3uec7DIdy3oBJ) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Title Track](https://open.spotify.com/album/1yP0qGCiMHxTX8eo3LqVO4) | 3:47 | 2022-10-21 | 2022-11-05 |
 | [TNT](https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [TNT](https://open.spotify.com/album/1roHtRGrqUxxo2XJXZRgcI) | 2:55 | 2024-08-02 | 2024-11-02 |
+| [To live in a different way](https://open.spotify.com/track/65Dlo5TaWyYwDlAQjbb7ws) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [To Live in a Different Way](https://open.spotify.com/album/6K3FQUoE7CVh1eZ8BlRHk6) | 4:23 | 2025-02-04 |  |
 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 | 2023-04-14 | 2024-03-09 |
 | [Together in Pieces](https://open.spotify.com/track/46HbKy8kOawanjz1Ofh5Bp) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Together in Pieces](https://open.spotify.com/album/6fvX8DbXDo5alyS4yoE98o) | 3:55 | 2023-02-17 | 2023-06-10 |
 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 | 2024-12-29 |  |

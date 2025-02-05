@@ -4,7 +4,7 @@
 
 > Creators you need to have on your RADAR: Big Small Talk, Relatables, Far East Confessions and I'm Wigging Out.
 
-85 songs - 3 day 0 hr 35 min
+85 songs - 3 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,10 +70,10 @@
 | [Never Tell Your Mum Your Baby Name](https://open.spotify.com/episode/18Kq37y2Kn66ewrGblLyJG) | [We Don't Have Time For This](https://open.spotify.com/show/1kGC1I1xEJiom7tqRLUKnJ) | [We Don't Have Time For This](https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ) | 1:02:19 | 2023-10-04 | 2024-05-01 |
 | [NOT speaking the language!! \| EP 16 \| Far East Confessions](https://open.spotify.com/episode/0a2Szr1sToUEhvco7MmKbU) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 1:02:28 | 2024-07-31 | 2024-09-01 |
 | [Olivia Rodrigo, Andrew Tate & US Tik Tok Ban](https://open.spotify.com/episode/7Gc851IQbbDvVX4bxCgSbw) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 41:53 | 2024-04-30 | 2024-06-05 |
-| [P.Diddy, The Murdoch Family Empire & Hezbollah](https://open.spotify.com/episode/08o1RzzOAws6F7jTkfM5bC) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 52:50 | 2024-10-10 |  |
+| [P.Diddy, The Murdoch Family Empire & Hezbollah ](https://open.spotify.com/episode/08o1RzzOAws6F7jTkfM5bC) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 52:11 | 2024-10-10 |  |
 | [People Pleasers And The Art of Saying No](https://open.spotify.com/episode/4V1rqNkG5XclDqKHdj8wIv) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 29:17 | 2024-08-31 | 2024-10-11 |
 | [pov you get the ick…](https://open.spotify.com/episode/4GdU3VkPGnYgI5PVbCvp63) | [Out Of Character with Millie](https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ) | [Out Of Character with Millie](https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ) | 44:12 | 2022-06-27 | 2023-01-20 |
-| [Presidential Debate, The VMA's & Barry Keoghan](https://open.spotify.com/episode/6DVeoc9AOH73UckV1TnaTX) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 52:51 | 2024-10-10 |  |
+| [Presidential Debate, The VMA's & Barry Keoghan ](https://open.spotify.com/episode/6DVeoc9AOH73UckV1TnaTX) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 52:11 | 2024-10-10 |  |
 | [Seeing Red](https://open.spotify.com/episode/181XSHpJNnwIvOqesGZBKr) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | 43:01 | 2022-06-27 | 2023-01-20 |
 | [SOS! I Haven't Had Sex Since My Ex](https://open.spotify.com/episode/10AcCyIQR45uh2zwhI3U6g) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 25:34 | 2024-08-31 |  |
 | [STIMULATED: REDFLAG GREENFLAG](https://open.spotify.com/episode/37oga6sbpZ0d9EGhxV2p9r) | [Relatables ](https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk) | [Relatables ](https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk) | 22:37 | 2024-10-11 |  |

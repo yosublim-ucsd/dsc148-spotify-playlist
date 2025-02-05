@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 11417,
+  "num_followers": 11441,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z561gAAAAACAbG1CfcVy/55jeOSEaUtY",
+  "snapshot_id": "Z6AHAAAAAAAeVZhjDO3W/FLXSGZUM9BJ",
   "tracks": [
     {
       "added_at": null,
@@ -524,13 +524,13 @@
           "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 164941,
-      "name": "P\u00f3dio",
-      "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
+      "duration_ms": 194338,
+      "name": "Camarim",
+      "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
     },
     {
       "added_at": null,
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
         },
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         }
       ],
-      "duration_ms": 194338,
-      "name": "Camarim",
-      "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
+      "duration_ms": 164941,
+      "name": "P\u00f3dio",
+      "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
     },
     {
       "added_at": null,

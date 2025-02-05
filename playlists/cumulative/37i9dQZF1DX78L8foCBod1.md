@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-180 songs - 12 hr 27 min
+181 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [KINGDOM \- DUE](https://open.spotify.com/track/5qjXGfAvkOag8kJ6dVdofc) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「キングダム」 \-合従軍編\- Original Sound Track](https://open.spotify.com/album/4pikDrig4sbyY3av3PNGmY) | 4:20 | 2022-06-07 |  |
 | [LEMONADE](https://open.spotify.com/track/5q6dJYjSfbG3hWjB2r5bTa) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [LEMONADE](https://open.spotify.com/album/0pNEUlmHs3A3xvBY99kStQ) | 2:48 | 2022-12-20 |  |
 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-06 |  |
+| [Ma Vie en Rose \- MovieEdit](https://open.spotify.com/track/4chSM0fI1ZK9RxqGCkEpcA) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [マリー・アントワネット\(CV.平野 綾\)](https://open.spotify.com/artist/3Uxkq58KaQpOT9EMeRczIY) | [Song Collection from The Rose of Versailles \- MovieEDIT \-](https://open.spotify.com/album/5eZ2EtpDifkPsObzHwjqc5) | 2:23 | 2025-02-04 |  |
 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 | 2022-06-21 | 2024-01-31 |
 | [ME & CREED <nZkv>](https://open.spotify.com/track/6MXCJwgxBt991xQt2kC9Dw) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 3:26 | 2022-06-07 | 2022-07-29 |
 | [Möbius](https://open.spotify.com/track/3FgvBg0X20xbF0Dfq0N01E) | [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K), [Laco](https://open.spotify.com/artist/32e1e0DV0A1t0puvN1KXsj), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack](https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5) | 3:53 | 2022-06-21 | 2024-04-19 |

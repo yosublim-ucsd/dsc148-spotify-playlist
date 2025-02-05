@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 292760,
       "name": "525600min. \u301cSeasons of Love\u301c",
       "url": "https://open.spotify.com/track/2VlVh4H6ExtXlIOlSdtcyK"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 284324,
       "name": "6 PACK PARADISE ~\u5e8f\u7ae0~",
       "url": "https://open.spotify.com/track/1q6XN7vHKWJ3SvGlIi4Dfc"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 211865,
       "name": "FiX YOUR TEETH",
       "url": "https://open.spotify.com/track/6nT1NXb2i6lu5wCjWTaK8C"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 278546,
       "name": "I'm a Voice Actor",
       "url": "https://open.spotify.com/track/6pJydKTV4bvypoYEDBESXp"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 252040,
       "name": "Life's The Party Time!!",
       "url": "https://open.spotify.com/track/1krMMx1aJoMEU6Sh0d9HA0"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 244813,
       "name": "\u3042\u3044\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/6ut1zsOUJTRxrf2248QeRl"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 225693,
       "name": "\u3046\u3069\u3093",
       "url": "https://open.spotify.com/track/2JHaLhD9twCy1LYzHKRla5"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 246280,
       "name": "\u304a\u9858\u3044\u30b8\u30e5\u30ea\u30fc\u2606 -\u30d2\u30e3\u30c0\u30a4\u30f3\u306e\u30ea\u30ea\u30ea\u30ea\u2606\u30ea\u30df\u30c3\u30af\u30b9-",
       "url": "https://open.spotify.com/track/3RI72GGL6WgrAKyjn8eAil"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 263800,
       "name": "\u307c\u304f\u3089\u306efrai awei",
       "url": "https://open.spotify.com/track/3tRsqyKXjvdJxFNLOB0D3t"
@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 257866,
       "name": "\u30a8\u30dc\u30ec\u30dc\uff01",
       "url": "https://open.spotify.com/track/6HswcaRzGTe6gpKuVSon6e"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 269693,
       "name": "\u5c90\u961c\u30df\u30fc\u30c1\u30e3\u30f3\u30b9",
       "url": "https://open.spotify.com/track/4EnC0yfdFpUR3mEuZ6YeUH"
@@ -2690,6 +2690,24 @@
       "duration_ms": 217306,
       "name": "\u611b\u306e\u30d0\u30c3\u30c6\u30ea\u30fc - Japanese ver.",
       "url": "https://open.spotify.com/track/0I0aPdJIh6t16PI63XQRLz"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u30d0\u30c3\u30c6\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/24hpAB3jyU2QtgfUzu2Ocw"
+      },
+      "artists": [
+        {
+          "name": "sis",
+          "url": "https://open.spotify.com/artist/1DZPhs7ud0i40tO12dveuo"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217360,
+      "name": "\u611b\u306e\u30d0\u30c3\u30c6\u30ea\u30fc - Japanese ver.",
+      "url": "https://open.spotify.com/track/4bEK9h0c5PdpxPvFoRRdej"
     },
     {
       "album": {

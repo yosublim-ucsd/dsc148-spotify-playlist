@@ -2,7 +2,7 @@
 
 ### [LOVE SONGS & CHILL \| HAPPY VALENTINES DAY](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
 
-> From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️
+> From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️ Featuring music from: Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, H.E.R, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more\. Chill vibes \| Romantic dinner 2025
 
 242 songs - 15 hr 10 min
 

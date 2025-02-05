@@ -4,7 +4,7 @@
 
 > Best of Hindi Hip\-Hop! Cover: Aanchal Tyagi & Raga
 
-223 songs - 11 hr 28 min
+224 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [BAD GUY \(DG\)](https://open.spotify.com/track/0dTZ4voGuikJX6kI0a9v7g) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [BAD GUY \(DG\)](https://open.spotify.com/album/5oFzkhlE24nHE0Ld54UTdL) | 1:51 | 2023-03-10 | 2024-07-19 |
 | [BADA](https://open.spotify.com/track/1wXboYx3lvl38SHBj532Es) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [BADA](https://open.spotify.com/album/1lKabEz08F0w7UOmMsu8Wm) | 2:34 | 2024-09-05 | 2024-10-24 |
 | [BADA](https://open.spotify.com/track/57JgnvdInhr9wO4tvjDq2K) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 2:34 | 2024-09-30 | 2025-01-20 |
+| [Badshah](https://open.spotify.com/track/1hfRfTfumpDvDtMtXMRY81) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Badshah](https://open.spotify.com/album/3n3QUJtIq37gy0Lfa5D1lb) | 2:43 | 2025-02-04 |  |
 | [Balawala Bad Bois](https://open.spotify.com/track/2v692a5boFb35NymerzqRH) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri Aur Main](https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6) | 3:16 | 2023-10-11 | 2024-06-08 |
 | [Bambaiyya](https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Bambaiyya](https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8) | 2:15 | 2025-01-21 |  |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-10 |  |
@@ -192,7 +193,7 @@
 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 | 2024-06-07 |  |
 | [Sukoon](https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:30 | 2023-03-10 | 2023-12-16 |
 | [SuppaMario](https://open.spotify.com/track/29qsHiYIUmkFU5cifL56o5) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [SuppaMario](https://open.spotify.com/album/23L6roAS9IqxMwbt7x1rCB) | 3:03 | 2025-01-06 |  |
-| [Surma](https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J) | [SNIPER](https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK), [Aashmeen](https://open.spotify.com/artist/3F9peZNbNLHGTXY4PqbD5D) | [On Air](https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp) | 2:25 | 2024-08-29 |  |
+| [Surma](https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J) | [SNIPER](https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK), [Aashmeen](https://open.spotify.com/artist/3F9peZNbNLHGTXY4PqbD5D) | [On Air](https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp) | 2:25 | 2024-08-29 | 2025-02-05 |
 | [Taakat](https://open.spotify.com/track/3RGalL1QdsfG6b8mzATGKx) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:36 | 2023-08-28 | 2025-01-07 |
 | [Tantrums](https://open.spotify.com/track/5eXDRkSaTVIAhKplQUmYJf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Tantrums](https://open.spotify.com/album/379jp5oYITtA8JhdSouHQN) | 2:22 | 2024-12-20 |  |
 | [Tarakkiyan \- From "Multani Mitti"](https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Tarakkiyan \(From "Multani Mitti"\)](https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW) | 2:12 | 2023-10-06 | 2023-11-17 |

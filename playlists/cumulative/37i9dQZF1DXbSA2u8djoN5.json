@@ -1291,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "Lacrimi",
+        "url": "https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        },
+        {
+          "name": "OG Eastbull",
+          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167302,
+      "name": "Lacrimi",
+      "url": "https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn"
+    },
+    {
+      "album": {
         "name": "Legenda",
         "url": "https://open.spotify.com/album/15IKtAuzpuD5JeBr35X7uP"
       },
@@ -1436,7 +1458,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 149100,
       "name": "Meditez",
       "url": "https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7"

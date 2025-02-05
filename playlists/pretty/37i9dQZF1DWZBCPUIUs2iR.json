@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 736720,
+  "num_followers": 736832,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "When I Call Your Name",
         "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 255133,
       "name": "When I Call Your Name",
       "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Just Who I Am: Poets & Pirates",
-        "url": "https://open.spotify.com/album/7E1BiscM3O6aifwtcLdUG7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 285280,
-      "name": "Don't Blink",
-      "url": "https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 200466,
       "name": "19 Somethin' - Greatest Hits Version",
       "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Just Who I Am: Poets & Pirates",
+        "url": "https://open.spotify.com/album/7E1BiscM3O6aifwtcLdUG7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 285280,
+      "name": "Don't Blink",
+      "url": "https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Behind Closed Doors (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "No Holdin' Back",
         "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 235920,
       "name": "It's Just a Matter of Time",
       "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Behind Closed Doors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "The Essential Johnny Duncan",
-        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/45ycuMAXnDtGXsyFnb6wUJ"
       },
       "artists": [
         {
-          "name": "Johnny Duncan",
-          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
         }
       ],
-      "duration_ms": 202786,
-      "name": "Thinkin' of a Rendezvous - Single Version",
-      "url": "https://open.spotify.com/track/4bZkWUNAkyQuB5WS7XdGMj"
+      "duration_ms": 220874,
+      "name": "Cry Myself To Sleep",
+      "url": "https://open.spotify.com/track/1CKNO5Wge4h8ua5hLH4FGj"
     }
   ],
   "unique_name": "Country's Greatest Hits",

@@ -1,12 +1,12 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: JENNIE",
-  "num_followers": 438870,
+  "num_followers": 438883,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6CFsgAAAAASEfzviUdKnYbqj/8Dn4CE",
+  "snapshot_id": "Z6HEIwAAAAALMWiO6y2AcR6S3lyVG+rh",
   "tracks": [
     {
       "added_at": "2025-02-03 09:00:34",
@@ -47,8 +47,8 @@
     {
       "added_at": "2025-02-03 09:00:34",
       "album": {
-        "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU (Japanese Ver.)",
-        "url": "https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN"
+        "name": "IF I SAY, I LOVE YOU",
+        "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
       },
       "artists": [
         {
@@ -57,28 +57,8 @@
         }
       ],
       "duration_ms": 161693,
-      "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU - Japanese Ver.",
-      "url": "https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S"
-    },
-    {
-      "added_at": "2025-02-03 09:00:34",
-      "album": {
-        "name": "Better Half (feat. Omoinotake)",
-        "url": "https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9"
-      },
-      "artists": [
-        {
-          "name": "JEONGHAN",
-          "url": "https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF"
-        },
-        {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "Better Half (feat. Omoinotake)",
-      "url": "https://open.spotify.com/track/1beUALLSloBEvYre65QiW6"
+      "name": "IF I SAY, I LOVE YOU",
+      "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
     },
     {
       "added_at": "2025-02-03 09:00:34",
@@ -147,66 +127,22 @@
     {
       "added_at": "2025-02-03 09:00:34",
       "album": {
-        "name": "Extraordinary day",
-        "url": "https://open.spotify.com/album/25nQUx8eJNhjD4SCFo3jtW"
+        "name": "Better Half (feat. Omoinotake)",
+        "url": "https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9"
       },
       "artists": [
         {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 200098,
-      "name": "Extraordinary day",
-      "url": "https://open.spotify.com/track/4yKvdFbKn2W1lKKMwHQswp"
-    },
-    {
-      "added_at": "2025-02-03 09:00:34",
-      "album": {
-        "name": "Flip it, Kick it!",
-        "url": "https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG"
-      },
-      "artists": [
+          "name": "JEONGHAN",
+          "url": "https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF"
+        },
         {
-          "name": "KickFlip",
-          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
         }
       ],
-      "duration_ms": 176880,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI"
-    },
-    {
-      "added_at": "2025-02-03 09:00:34",
-      "album": {
-        "name": "When the Stars Gossip OST Part.3",
-        "url": "https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Close to You",
-      "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
-    },
-    {
-      "added_at": "2025-02-03 09:00:34",
-      "album": {
-        "name": "HER",
-        "url": "https://open.spotify.com/album/5o5Qyfl84QAAnWNUHuuiCV"
-      },
-      "artists": [
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 159797,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/0b4xSLnMV2w0RXugY4w9Dg"
+      "duration_ms": 234626,
+      "name": "Better Half (feat. Omoinotake)",
+      "url": "https://open.spotify.com/track/1beUALLSloBEvYre65QiW6"
     },
     {
       "added_at": "2025-02-03 09:00:34",
@@ -227,8 +163,40 @@
     {
       "added_at": "2025-02-03 09:00:34",
       "album": {
-        "name": "IF I SAY, I LOVE YOU",
-        "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
+        "name": "When the Stars Gossip OST Part.3",
+        "url": "https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
+    },
+    {
+      "added_at": "2025-02-03 09:00:34",
+      "album": {
+        "name": "Extraordinary day",
+        "url": "https://open.spotify.com/album/25nQUx8eJNhjD4SCFo3jtW"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 200098,
+      "name": "Extraordinary day",
+      "url": "https://open.spotify.com/track/4yKvdFbKn2W1lKKMwHQswp"
+    },
+    {
+      "added_at": "2025-02-03 09:00:34",
+      "album": {
+        "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN"
       },
       "artists": [
         {
@@ -237,8 +205,40 @@
         }
       ],
       "duration_ms": 161693,
-      "name": "IF I SAY, I LOVE YOU",
-      "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
+      "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU - Japanese Ver.",
+      "url": "https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S"
+    },
+    {
+      "added_at": "2025-02-03 09:00:34",
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/5o5Qyfl84QAAnWNUHuuiCV"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 159797,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/0b4xSLnMV2w0RXugY4w9Dg"
+    },
+    {
+      "added_at": "2025-02-03 09:00:34",
+      "album": {
+        "name": "Flip it, Kick it!",
+        "url": "https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI"
     },
     {
       "added_at": "2025-02-03 09:00:34",

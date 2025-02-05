@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">G3 Gelo</a>
 
-2,148 songs - 3 day 23 hr 44 min
+2,149 songs - 3 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1317,6 +1317,7 @@
 | [No Way](https://open.spotify.com/track/3B5YN7UlcKAsDUN0q1xQ10) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [No Way](https://open.spotify.com/album/72pvhpXx4o1DZhjB2zTZzB) | 1:46 | 2024-12-13 | 2024-12-21 |
 | [No Weight](https://open.spotify.com/track/7zq95OMooc0rB3Di5WgG0t) | [Rublow](https://open.spotify.com/artist/4ldyGaB3s6qWtuhlNfwVZs) | [No Weight](https://open.spotify.com/album/6xJr2dgZGEXcUn8PjOQ6l6) | 2:00 | 2024-02-02 | 2024-03-23 |
 | [Nobody \(feat\. Dreezy\)](https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Time is Muney](https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt) | 3:15 | 2022-02-11 | 2022-04-09 |
+| [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-02-04 |  |
 | [Nostalgia \(feat\. Gray Hawken\)](https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Gray Hawken](https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1) | [Nostalgia \(feat\. Gray Hawken\)](https://open.spotify.com/album/7Mj5Jdqk2l15XkJqloDpsS) | 2:09 | 2024-08-30 | 2024-09-07 |
 | [NOSTYLIST](https://open.spotify.com/track/2L6snXmirafxCJY3sBzuKD) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 3:00 | 2023-01-10 | 2023-02-18 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-08-19 | 2022-10-29 |
@@ -1838,7 +1839,7 @@
 | [Teach Her The Game](https://open.spotify.com/track/4dcnMjjjEKpMXMg70EUjeT) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Teach Her The Game](https://open.spotify.com/album/4e6FwvLip0QgE6ix2fQjG6) | 2:18 | 2022-09-02 | 2022-10-22 |
 | [Teacher](https://open.spotify.com/track/0PZYcvesIgVsiOSQEUVgUA) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Teacher](https://open.spotify.com/album/2FPmhFzGjnZUKXfLjLljAZ) | 2:30 | 2021-10-29 | 2022-01-22 |
 | [Team Player \(feat\. Lil Poppa & Morray\)](https://open.spotify.com/track/5O5BKCnAoF5Djt90t2wpma) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Team Player \(feat\. Lil Poppa & Morray\)](https://open.spotify.com/album/3E1E6Qlhvo9uS3hwx3J0Hz) | 3:01 | 2022-09-09 | 2022-10-29 |
-| [TEKTIME](https://open.spotify.com/track/6YkhFMoq5oAFFkShLhkuOx) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 3:00 | 2025-01-31 |  |
+| [TEKTIME](https://open.spotify.com/track/6YkhFMoq5oAFFkShLhkuOx) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 3:00 | 2025-01-31 | 2025-02-05 |
 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 | 2022-10-28 | 2023-02-04 |
 | [Tell Me \(feat\. ATL Jacob\)](https://open.spotify.com/track/0v4se3cJ1ol7zihw1sOXEB) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Blinded By Death \(Deluxe\)](https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl) | 2:17 | 2022-12-23 | 2023-02-25 |
 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-22 | 2022-07-31 |

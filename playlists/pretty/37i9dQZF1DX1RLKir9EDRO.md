@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşifler\. Kapak: üçkuruş Çizim: Isu Kim
+> Bağımsız yerli sahneden keşifler\. Kapak: dilan filiz  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,724 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,723 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 6 | [Herkes Yok](https://open.spotify.com/track/5DJlAQ9deIMhti19ZGrKyF) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Herkes Yok](https://open.spotify.com/album/0dranJBaRRmthOEp8UjvEc) | 3:17 |
 | 7 | [Benim Suçum](https://open.spotify.com/track/2h1PBiMHtfgMzggidAoScV) | [Denzi](https://open.spotify.com/artist/5T7VH2lohtSg5rYnCd11OB) | [Benim Suçum](https://open.spotify.com/album/2luZISMPE3hdMc7RUbiq0R) | 3:14 |
 | 8 | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/track/3ZZsKbnh6852emkvhi9u7v) | [Elif Kozan](https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee) | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/album/5m1wVcdcORtkXdDMHjZGqO) | 3:09 |
-| 9 | [BİR SONRAKİ YAZA](https://open.spotify.com/track/2AH4wA6A27W023FgrsKofY) | [Robin](https://open.spotify.com/artist/0pGPEVS5RjTs0jE4egqtVW), [UZUM3](https://open.spotify.com/artist/0MxwyKmWLNSPtWbaAnfFr1) | [BİR SONRAKİ YAZA](https://open.spotify.com/album/2asAMKcCf38y76fh2rSjBD) | 1:54 |
-| 10 | [Oyuncak](https://open.spotify.com/track/1e8ftbyvIZMSljc3PDtsVs) | [Yeşim Farah](https://open.spotify.com/artist/1e0Dfiy3bhhrleJTYBvSmV) | [Oyuncak](https://open.spotify.com/album/4dDLUMR80OfiwjBs5QB0kt) | 3:10 |
-| 11 | [Işığın Kendisi](https://open.spotify.com/track/7HyH3W2vcx9A4i5BG0EZd7) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Işığın Kendisi](https://open.spotify.com/album/2F9LlyUGEDDFvu4busTwHX) | 3:05 |
-| 12 | [kurtulmak istemiyorum, beni bırakın burda](https://open.spotify.com/track/7Crvakt1E7qZJ5Fy8db4m9) | [Hipersona](https://open.spotify.com/artist/0EuRqSYhFq1g4cXSZzOofB) | [kurtulmak istemiyorum, beni bırakın burda](https://open.spotify.com/album/43eYlnTZ41soALHfGwQELa) | 2:28 |
+| 9 | [Oyuncak](https://open.spotify.com/track/1e8ftbyvIZMSljc3PDtsVs) | [Yeşim Farah](https://open.spotify.com/artist/1e0Dfiy3bhhrleJTYBvSmV) | [Oyuncak](https://open.spotify.com/album/4dDLUMR80OfiwjBs5QB0kt) | 3:10 |
+| 10 | [Işığın Kendisi](https://open.spotify.com/track/7HyH3W2vcx9A4i5BG0EZd7) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Işığın Kendisi](https://open.spotify.com/album/2F9LlyUGEDDFvu4busTwHX) | 3:05 |
+| 11 | [kurtulmak istemiyorum, beni bırakın burda](https://open.spotify.com/track/7Crvakt1E7qZJ5Fy8db4m9) | [Hipersona](https://open.spotify.com/artist/0EuRqSYhFq1g4cXSZzOofB) | [kurtulmak istemiyorum, beni bırakın burda](https://open.spotify.com/album/43eYlnTZ41soALHfGwQELa) | 2:28 |
+| 12 | [Senin Kadar](https://open.spotify.com/track/6z8Z1i2Tnhmcu8J1l3EgQS) | [Begüm Yiğit](https://open.spotify.com/artist/74jfszyHYEkbgAnlyl9HCa) | [Senin Kadar](https://open.spotify.com/album/6QCxi24NzznpChjrw6HL3g) | 2:47 |
 | 13 | [Zalim](https://open.spotify.com/track/5cEJjXCIb3yYKcGfsyLVLC) | [Hakan Kılınç](https://open.spotify.com/artist/5iq9EHglioaz4pVoNTZBey) | [Zalim](https://open.spotify.com/album/2vqPBqsrmzMX6WYZZLJSJP) | 2:43 |
 | 14 | [Kumar](https://open.spotify.com/track/6OuQAZ4Ul2A9t8ZqQWirxh) | [bilgeteker](https://open.spotify.com/artist/4rD6EbWSKCTd59j1B7U7MI) | [Kumar](https://open.spotify.com/album/5R1ezHG5HXZasQ85Vl3nNq) | 3:11 |
 | 15 | [Darkinsola](https://open.spotify.com/track/4vFV6dHMKac9D7hzq2jzVF) | [Umut Tunc](https://open.spotify.com/artist/7CoVod7XF4kfIsDxhd2DKm) | [Darkinsola](https://open.spotify.com/album/0EX48I4qdSTCkrX85mS3t5) | 2:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 59 | [İsmet](https://open.spotify.com/track/2AR2bijc8fdsT69kAXZbeJ) | [Yasak Helva](https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw) | [İsmet](https://open.spotify.com/album/2QQMV2IDwETIKrW786waTn) | 5:07 |
 | 60 | [Kumdan Kale](https://open.spotify.com/track/3VPltfpSoEr4mRCdfQWwLS) | [Uçaksavar](https://open.spotify.com/artist/2qNb7jITPdb2TlMYNgEqF3), [Candaş Öztürk](https://open.spotify.com/artist/3h6Ajn47XzpHygEV31dhrn) | [Kumdan Kale](https://open.spotify.com/album/76nNZ7oKpSxDXVf9XsCTx2) | 4:02 |
 
-Snapshot ID: `Z5zRhAAAAABuySCLfP4GtrD1j2A4Ks5m`
+Snapshot ID: `Z6J/3QAAAADtHWDm3kP4F45cOngDmqpL`

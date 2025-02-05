@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z561gAAAAACIdpvdprWfXqJblsQzmYL9",
+  "snapshot_id": "Z6AHAAAAAAAU/n9pBeGG94dxCyztHP/O",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nurtured EP - B-Sides and Bonus Tracks from Nature Nurture",
-        "url": "https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 196573,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/4VoocBHWXw2LgjbDG5eTJs"
+      "duration_ms": 240280,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix"
+        "name": "Nurtured EP - B-Sides and Bonus Tracks from Nature Nurture",
+        "url": "https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ"
+      "duration_ms": 196573,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/4VoocBHWXw2LgjbDG5eTJs"
     },
     {
       "added_at": null,

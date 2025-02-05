@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 243466,
       "name": "A Morte Saiu \u00c0 Rua",
       "url": "https://open.spotify.com/track/3DokWF4QpDu4h3BgyuFej9"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 171786,
       "name": "Caminhante",
       "url": "https://open.spotify.com/track/2wDSknhrEPFltHbbC12EQq"
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 158733,
       "name": "Capicuas",
       "url": "https://open.spotify.com/track/5TsxV8O9Xgg8OFceg4aQqu"
@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 200500,
       "name": "Chelas",
       "url": "https://open.spotify.com/track/1F5fQlcfAXZelz5Y47MQbJ"
@@ -3486,7 +3486,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 188976,
       "name": "Contratempo",
       "url": "https://open.spotify.com/track/1QiUcomB2NULRveIHa8T1P"
@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 170200,
       "name": "Deixem O Morto Morrer - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2Id68FINCkfJLAt5S7v3eJ"
@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 176870,
       "name": "Ego Teimoso",
       "url": "https://open.spotify.com/track/6qD3lP7sS4ZLiTcBAvl3BD"
@@ -5648,7 +5648,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 208615,
       "name": "Eu Deixei",
       "url": "https://open.spotify.com/track/4HccSOoWxrXU5Ysor3yD9k"
@@ -6023,6 +6023,24 @@
     },
     {
       "album": {
+        "name": "festa bem louca",
+        "url": "https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "festa bem louca",
+      "url": "https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS"
+    },
+    {
+      "album": {
         "name": "Festa da boa",
         "url": "https://open.spotify.com/album/4vKs7i5QQgfutJhPYIz41P"
       },
@@ -6380,7 +6398,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 152594,
       "name": "Flora",
       "url": "https://open.spotify.com/track/0mMdItsV71BlohR5wy61UZ"
@@ -6554,6 +6572,28 @@
       "duration_ms": 233840,
       "name": "Fones nos ouvidos - Ao vivo no Grovewood Est\u00fadio",
       "url": "https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF"
+    },
+    {
+      "album": {
+        "name": "LIFELINE",
+        "url": "https://open.spotify.com/album/3kBuRWAR5eqO29Yr0tzkJi"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "FOREVER & EVER",
+      "url": "https://open.spotify.com/track/5r0uQNO1RVkwZOFt1gHcTs"
     },
     {
       "album": {
@@ -7273,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "Hora de Ponta",
+        "url": "https://open.spotify.com/album/6H1BsQ3YAMvA3LQ0EHk8Y5"
+      },
+      "artists": [
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196030,
+      "name": "Hora de Ponta",
+      "url": "https://open.spotify.com/track/0b0loQ8uNkOCF9VBWXIuI6"
+    },
+    {
+      "album": {
         "name": "Horse Girl",
         "url": "https://open.spotify.com/album/3rkPyVBtMAuwIiRbnv1kYE"
       },
@@ -7486,7 +7544,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 231626,
       "name": "I DON'T WANNA FEEL THAT WAY",
       "url": "https://open.spotify.com/track/24dWmtD9a5XoCWBrjVhi7H"
@@ -7508,6 +7566,24 @@
       "duration_ms": 236913,
       "name": "I Love You, Crystal",
       "url": "https://open.spotify.com/track/3Jn6qKjyG6hB0zZaQFNVgx"
+    },
+    {
+      "album": {
+        "name": "I WANNA LIVE NEXT TO THE SEA",
+        "url": "https://open.spotify.com/album/6rR3X3cCtVcaVtuoKUzaTN"
+      },
+      "artists": [
+        {
+          "name": "Raquel Martins",
+          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220350,
+      "name": "I WANNA LIVE NEXT TO THE SEA",
+      "url": "https://open.spotify.com/track/08eCWqE4a753m5AC88Jb8B"
     },
     {
       "album": {
@@ -7544,6 +7620,24 @@
       "duration_ms": 209500,
       "name": "if that's what you want",
       "url": "https://open.spotify.com/track/3Ppboz022LJKYAfcmbDH6o"
+    },
+    {
+      "album": {
+        "name": "ifeelsodumb",
+        "url": "https://open.spotify.com/album/3VaoekXt1lRSEuuTVJh1Nk"
+      },
+      "artists": [
+        {
+          "name": "Mariana Tereso",
+          "url": "https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171869,
+      "name": "ifeelsodumb",
+      "url": "https://open.spotify.com/track/3ml1GUPvdZt6yXdzjAjuOU"
     },
     {
       "album": {
@@ -7674,6 +7768,24 @@
       "duration_ms": 195536,
       "name": "Inevit\u00e1vel",
       "url": "https://open.spotify.com/track/3NDtWqLY4JvlUWPpB63HP6"
+    },
+    {
+      "album": {
+        "name": "Infeliz",
+        "url": "https://open.spotify.com/album/4jxSgI8XLqfvYXf4798AUK"
+      },
+      "artists": [
+        {
+          "name": "Tixa",
+          "url": "https://open.spotify.com/artist/1iF4itLUs7fOyHFRfXFAiu"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118208,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1QrqmVtMcaGoGr9MXYqTM5"
     },
     {
       "album": {
@@ -7926,6 +8038,24 @@
       "duration_ms": 168264,
       "name": "Jump",
       "url": "https://open.spotify.com/track/4RM6bRhpdmxu3o2qYR2JNc"
+    },
+    {
+      "album": {
+        "name": "Juras",
+        "url": "https://open.spotify.com/album/7FOLSM4KO0yF63KEN3ZZMZ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Juras",
+      "url": "https://open.spotify.com/track/0bMU79dbvAax22hvi3u7ot"
     },
     {
       "album": {
@@ -8577,6 +8707,24 @@
     },
     {
       "album": {
+        "name": "Live Again (raw)",
+        "url": "https://open.spotify.com/album/5nwcapYoOqoEunXytu5cjd"
+      },
+      "artists": [
+        {
+          "name": "Serena Kaos",
+          "url": "https://open.spotify.com/artist/6qBV0Z9ID7baaJM0873gwR"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234690,
+      "name": "Live Again (raw)",
+      "url": "https://open.spotify.com/track/0nE4EcZphJ54iQtWJP4nUG"
+    },
+    {
+      "album": {
         "name": "Benef\u00edcio da D\u00favida",
         "url": "https://open.spotify.com/album/1yhNNdKPvfXDXrJvKoZBB3"
       },
@@ -8671,6 +8819,24 @@
     },
     {
       "album": {
+        "name": "Louca",
+        "url": "https://open.spotify.com/album/5uuKtKDYrUUx01ubFK2wP9"
+      },
+      "artists": [
+        {
+          "name": "Nufla",
+          "url": "https://open.spotify.com/artist/37SPyh8BlC0Et7cxzPFZme"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Louca",
+      "url": "https://open.spotify.com/track/1A3Hop0iRxVwi3ivDPsF1w"
+    },
+    {
+      "album": {
         "name": "Louca Amizade",
         "url": "https://open.spotify.com/album/2QgiYglIFFLLZYAp00Bivk"
       },
@@ -8736,7 +8902,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 178802,
       "name": "Loving in My Life",
       "url": "https://open.spotify.com/track/0ffzV8o4vxjwUywOgP1zoC"
@@ -8934,7 +9100,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 201290,
       "name": "L\u00f3tus",
       "url": "https://open.spotify.com/track/0ASiHbGKpTRotEMNExZG7J"
@@ -8952,7 +9118,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 177773,
       "name": "Madalena",
       "url": "https://open.spotify.com/track/13ej7jt51KNbMwH2yBerPA"
@@ -9103,6 +9269,24 @@
     },
     {
       "album": {
+        "name": "mariana reis (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/40Q48G2GOuUiXoGY1ctibt"
+      },
+      "artists": [
+        {
+          "name": "Mariana Reis",
+          "url": "https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168805,
+      "name": "mais uma sobre ti - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7sbxErXckU0RcioUhTqhoV"
+    },
+    {
+      "album": {
         "name": "Mais Uma Vez",
         "url": "https://open.spotify.com/album/6XwhLnbx0ixfuoJJZvXB8S"
       },
@@ -9136,6 +9320,42 @@
       "duration_ms": 174295,
       "name": "Majestade [25 Abril]",
       "url": "https://open.spotify.com/track/5A0gdJckUCEg4tPdsn12TX"
+    },
+    {
+      "album": {
+        "name": "Making Teenage Ana Proud",
+        "url": "https://open.spotify.com/album/3tSuV8iy7X0DgZqDKvhUCp"
+      },
+      "artists": [
+        {
+          "name": "Capicua",
+          "url": "https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219686,
+      "name": "Making Teenage Ana Proud",
+      "url": "https://open.spotify.com/track/6APamWCI17P6DCvRbsdsNp"
+    },
+    {
+      "album": {
+        "name": "Mal Que Me Fazes",
+        "url": "https://open.spotify.com/album/1JdkxZie806ngOGPOjRuwp"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Duarte",
+          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155100,
+      "name": "Mal Que Me Fazes",
+      "url": "https://open.spotify.com/track/10zkJ2K4FfbqVMJi88SKXb"
     },
     {
       "album": {
@@ -9247,6 +9467,24 @@
     },
     {
       "album": {
+        "name": "manada",
+        "url": "https://open.spotify.com/album/5ikOtujBmdgT30UM6JUVJd"
+      },
+      "artists": [
+        {
+          "name": "MALVA",
+          "url": "https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210833,
+      "name": "manada",
+      "url": "https://open.spotify.com/track/3agvhaqnzUrVt2wNmbQxJe"
+    },
+    {
+      "album": {
         "name": "Manda Lixar",
         "url": "https://open.spotify.com/album/41W7HnXNNE6YZvyJRspXKo"
       },
@@ -9276,7 +9514,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 187185,
       "name": "Manh\u00e3 Bela",
       "url": "https://open.spotify.com/track/1nXT6WW176dq3i2jyxQSAR"
@@ -9316,7 +9554,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 227711,
       "name": "manto azul",
       "url": "https://open.spotify.com/track/00erCrDIXKydkxP2rUqRK7"
@@ -9472,7 +9710,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 216939,
       "name": "Marcha de Almada",
       "url": "https://open.spotify.com/track/54XbrCEMdqsKXIqXE9y2FG"
@@ -9588,6 +9826,32 @@
       "duration_ms": 131653,
       "name": "Mar\u00e9 de Sorte",
       "url": "https://open.spotify.com/track/3tCz9QxCndasaQi2Z1PthA"
+    },
+    {
+      "album": {
+        "name": "Mawa",
+        "url": "https://open.spotify.com/album/19CtRy9IijP7sPMIhlW2ul"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        },
+        {
+          "name": "Was Lost Studios",
+          "url": "https://open.spotify.com/artist/10jKTGVTtMr5StHwIZq3YQ"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Mawa",
+      "url": "https://open.spotify.com/track/5bXvjd7qb3DTgEiHgxPMZH"
     },
     {
       "album": {
@@ -10024,6 +10288,24 @@
       "duration_ms": 221553,
       "name": "Moves",
       "url": "https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy"
+    },
+    {
+      "album": {
+        "name": "Mudar o Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kcCJfxISbY6g26OYAxWcT"
+      },
+      "artists": [
+        {
+          "name": "Ana Margarida Prado",
+          "url": "https://open.spotify.com/artist/0mqtl1Oug5QGNNgTgeNSh5"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416200,
+      "name": "Mudar o Mundo - Ao Vivo",
+      "url": "https://open.spotify.com/track/74dtEEKYb3TbQcdDq1fy5y"
     },
     {
       "album": {
@@ -10778,7 +11060,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 198106,
       "name": "No Teu Lugar",
       "url": "https://open.spotify.com/track/3KTYDS1L8tB2AuQOP6Wj9h"
@@ -11604,7 +11886,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 161750,
       "name": "O Drama",
       "url": "https://open.spotify.com/track/2aOMG9wT4iccKUJY3pD8g8"
@@ -11629,6 +11911,24 @@
     },
     {
       "album": {
+        "name": "22 Anos",
+        "url": "https://open.spotify.com/album/2ehsOZf2sQ8RagqSffyIRO"
+      },
+      "artists": [
+        {
+          "name": "Sons da Terra",
+          "url": "https://open.spotify.com/artist/6NRj7ACsep9sfuwMssVa5c"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222236,
+      "name": "O Nosso Portugal",
+      "url": "https://open.spotify.com/track/6UntwW8wxrG16Wps62oR2E"
+    },
+    {
+      "album": {
         "name": "O pre\u00e7o",
         "url": "https://open.spotify.com/album/3fBEtb9ESmUmM18iOrBhtu"
       },
@@ -11644,6 +11944,24 @@
       "duration_ms": 233960,
       "name": "O pre\u00e7o",
       "url": "https://open.spotify.com/track/7uxlqmQUerSs3GzD5pKJGE"
+    },
+    {
+      "album": {
+        "name": "O Primeiro Passo",
+        "url": "https://open.spotify.com/album/7MeBlSMhQQTEacw8rny1ML"
+      },
+      "artists": [
+        {
+          "name": "Marisa Liz",
+          "url": "https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133160,
+      "name": "O Primeiro Passo",
+      "url": "https://open.spotify.com/track/7u4tr8k7HFiip4CbWviLiZ"
     },
     {
       "album": {
@@ -11806,6 +12124,24 @@
       "duration_ms": 195777,
       "name": "O Que \u00e9 Feito de Ti",
       "url": "https://open.spotify.com/track/51LIIb7BXmGyNUAusXDocw"
+    },
+    {
+      "album": {
+        "name": "O Resto das Nossas Vidas",
+        "url": "https://open.spotify.com/album/7dnyQhr1aLsx6AufFGCRjU"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sobral",
+          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178981,
+      "name": "O resto das nossas vidas",
+      "url": "https://open.spotify.com/track/1LCmPKWODpYHUA35CT0MDa"
     },
     {
       "album": {
@@ -12686,6 +13022,24 @@
       "duration_ms": 164875,
       "name": "Peneir-ar",
       "url": "https://open.spotify.com/track/3iiRLgJcZBiqVWh4vf2T6G"
+    },
+    {
+      "album": {
+        "name": "Pensar Em Mim",
+        "url": "https://open.spotify.com/album/4jOWofeLIJPF45XM3EwHqP"
+      },
+      "artists": [
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164816,
+      "name": "Pensar Em Mim",
+      "url": "https://open.spotify.com/track/6HZIbKTqiac2EqFAVvcxNc"
     },
     {
       "album": {
@@ -14702,7 +15056,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 146531,
       "name": "Sanguessugas",
       "url": "https://open.spotify.com/track/0sQJvUSFimqzL5eF2eUCww"
@@ -14742,6 +15096,24 @@
       "duration_ms": 181226,
       "name": "saudade, saudade",
       "url": "https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73"
+    },
+    {
+      "album": {
+        "name": "saudades tuas.",
+        "url": "https://open.spotify.com/album/0MK4K1a0naVxAeUgMIAL5E"
+      },
+      "artists": [
+        {
+          "name": "Rita Rocha",
+          "url": "https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190886,
+      "name": "saudades tuas.",
+      "url": "https://open.spotify.com/track/32DNY9XRdDPwL6jWufOGcj"
     },
     {
       "album": {
@@ -15009,6 +15381,24 @@
     },
     {
       "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/34WZRUrpLbEfGSoOlntHiv"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia",
+          "url": "https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231373,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/54mA1qMU0eoBWFfX7Yjuiw"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3npfz6XGj8He89YocbBIGS"
       },
@@ -15060,7 +15450,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 241866,
       "name": "Sem Pressa",
       "url": "https://open.spotify.com/track/3kCNTC9MufYJhbIH6ZAaYz"
@@ -15774,7 +16164,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 146666,
       "name": "Sorte A Nossa",
       "url": "https://open.spotify.com/track/5N25pJmDbR4TRX20PC8bIG"
@@ -16062,7 +16452,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 159130,
       "name": "Supera\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0WYwgdwCr4fdNADvinbWBX"
@@ -16726,7 +17116,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 173628,
       "name": "This Time (raw)",
       "url": "https://open.spotify.com/track/5nzSXC4FASwAl9ozsDSM0I"
@@ -17145,6 +17535,24 @@
     },
     {
       "album": {
+        "name": "Tudo Bem",
+        "url": "https://open.spotify.com/album/2cvYW2LoY5Zx7FNvvboMQ1"
+      },
+      "artists": [
+        {
+          "name": "Barbie Africana",
+          "url": "https://open.spotify.com/artist/6Y98odeUz2ubIvj01pO2iF"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/3VEAP3lAzIPj2GmVCE1Iz0"
+    },
+    {
+      "album": {
         "name": "Tudo o Que Eu Quero \u00c9 Viver",
         "url": "https://open.spotify.com/album/6iVvjoF88xROLDPQiqiKiI"
       },
@@ -17531,6 +17939,24 @@
     },
     {
       "album": {
+        "name": "Vejam Bem",
+        "url": "https://open.spotify.com/album/2aPcJ1Vs4jUhqrnjTf9zOP"
+      },
+      "artists": [
+        {
+          "name": "Gisela Jo\u00e3o",
+          "url": "https://open.spotify.com/artist/6PHEevniO76JNRqHLVXWX5"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249253,
+      "name": "Vejam Bem",
+      "url": "https://open.spotify.com/track/4M00foKCrXGLhyLd2PqXhd"
+    },
+    {
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/1OoCCcETPlWoy5d30icbcL"
       },
@@ -17766,6 +18192,28 @@
       "duration_ms": 173943,
       "name": "Violeta",
       "url": "https://open.spotify.com/track/3IAiscIVQVDT84XDIb04sz"
+    },
+    {
+      "album": {
+        "name": "Visita Inesperada (feat. Jota.p\u00ea)",
+        "url": "https://open.spotify.com/album/4HMWWUL9QbXJrApuSWf2ZP"
+      },
+      "artists": [
+        {
+          "name": "Teresinha Landeiro",
+          "url": "https://open.spotify.com/artist/2Lof3Mf5rHMLCKlQImYvKA"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194891,
+      "name": "Visita Inesperada (feat. Jota.p\u00ea)",
+      "url": "https://open.spotify.com/track/2MAhBL5K022hWTzAmvXNST"
     },
     {
       "album": {
@@ -18036,7 +18484,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 169851,
       "name": "we can be our own ruin",
       "url": "https://open.spotify.com/track/7nb0gyY7EpbLg9cXEFWqm1"

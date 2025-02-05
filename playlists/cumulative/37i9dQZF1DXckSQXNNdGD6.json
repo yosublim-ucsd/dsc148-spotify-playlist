@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La banda sonora de tu orgullo. Foto: Luna Zuazu.",
+  "description": "La banda sonora de tu orgullo. Foto: SIMONA.",
   "name": "Glow Espa\u00f1a",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 134030,
       "name": "aguacero 2",
       "url": "https://open.spotify.com/track/2dotHiPGpnsxDZzJ8nfLDe"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 218177,
       "name": "Arboleda Bien Plantada",
       "url": "https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 162086,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2"
@@ -440,6 +440,28 @@
       "duration_ms": 140330,
       "name": "BOMBEROS",
       "url": "https://open.spotify.com/track/2KON1eH3Qh32FpuSm901K2"
+    },
+    {
+      "album": {
+        "name": "Bossa triste",
+        "url": "https://open.spotify.com/album/4JBX1zUYcGj7Ho1th1KOa4"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        },
+        {
+          "name": "Sofi Mayen",
+          "url": "https://open.spotify.com/artist/17fzKflH2VygyK3LCCN6Cn"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210709,
+      "name": "Bossa triste",
+      "url": "https://open.spotify.com/track/2vzVL693jQA83ZBNYfgpM2"
     },
     {
       "album": {
@@ -497,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Chicos malos",
+        "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230477,
+      "name": "Chicos malos",
+      "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
+    },
+    {
+      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/3prYMzhMUEE3LGGAPRI6Sk"
       },
@@ -512,6 +552,24 @@
       "duration_ms": 193875,
       "name": "Chula",
       "url": "https://open.spotify.com/track/3hr6gcpXYhtny2aIbKfEIY"
+    },
+    {
+      "album": {
+        "name": "COCON",
+        "url": "https://open.spotify.com/album/4dr9J75N8U3dlTEeSTgELu"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119964,
+      "name": "COCON",
+      "url": "https://open.spotify.com/track/2lUMPqOVHE8sfw1k7MmFWa"
     },
     {
       "album": {
@@ -544,7 +602,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 165635,
       "name": "compartir",
       "url": "https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw"
@@ -1014,7 +1072,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 163200,
       "name": "FOTOMAT\u00d3N",
       "url": "https://open.spotify.com/track/4nOYt1P3xyq9LhC8DYCC8T"
@@ -1188,7 +1246,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 158750,
       "name": "HETERO",
       "url": "https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu"
@@ -1378,7 +1436,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 156120,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/6ufzMfhC2pI6Bu1Z7O9ntP"
@@ -1418,7 +1476,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 186500,
       "name": "La Magia de Tu Melena",
       "url": "https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv"
@@ -1635,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "MARIKONA",
+        "url": "https://open.spotify.com/album/7bZKRCw0hTKfVtNlnmKc2e"
+      },
+      "artists": [
+        {
+          "name": "MIGUELITA",
+          "url": "https://open.spotify.com/artist/5ft3Lm4NT2TwfPbzEmudjN"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126521,
+      "name": "MARIKONA",
+      "url": "https://open.spotify.com/track/1Xe8qsL1U0EGZj1f7IZpCx"
+    },
+    {
+      "album": {
         "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
         "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
       },
@@ -1762,7 +1838,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 179946,
       "name": "Nada Importa Tanto",
       "url": "https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd"
@@ -1867,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168235,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
+    },
+    {
+      "album": {
         "name": "Nunca Llega 05",
         "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
       },
@@ -1885,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Objetos Perdidos",
+        "url": "https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ"
+      },
+      "artists": [
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207616,
+      "name": "Objetos Perdidos",
+      "url": "https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG"
+    },
+    {
+      "album": {
         "name": "El Grimorio",
         "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
       },
@@ -1900,7 +2012,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 161454,
       "name": "Olor a perfume caro y tabaco",
       "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
@@ -1958,7 +2070,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 215516,
       "name": "Paris Hilton",
       "url": "https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS"
@@ -2208,7 +2320,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 200437,
       "name": "Quiero Hacer M\u00fasica",
       "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
@@ -2404,7 +2516,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Soy Lesbiana",
       "url": "https://open.spotify.com/track/341va7dx1zrzUKhjXDylWX"
@@ -2495,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "La Trilog\u00eda del Amor",
+        "url": "https://open.spotify.com/album/1jFnjred9ckwxU998u5Cm3"
+      },
+      "artists": [
+        {
+          "name": "porfa",
+          "url": "https://open.spotify.com/artist/0KPfeqaroFvGNnBWs5W7xk"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196152,
+      "name": "Tienes novio",
+      "url": "https://open.spotify.com/track/4EEpP1tS6ugKXV49wotp9y"
+    },
+    {
+      "album": {
         "name": "TODOS LOS D\u00cdAS",
         "url": "https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf"
       },
@@ -2532,6 +2662,24 @@
       "duration_ms": 147222,
       "name": "Todos Miran",
       "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
+    },
+    {
+      "album": {
+        "name": "tormenta",
+        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256423,
+      "name": "tormenta",
+      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
     },
     {
       "album": {
@@ -2636,7 +2784,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 177575,
       "name": "Yo soy libre",
       "url": "https://open.spotify.com/track/6z1Vx0MseGkN7iygli7fIo"

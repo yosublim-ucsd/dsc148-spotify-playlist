@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd, Cameron Whitcomb, Jessie Reyez, Charlie Houston and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,758 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,790 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 51 | [HOLD MY LIQUOR.](https://open.spotify.com/track/1kYxjlioDwZCwqlsYOURjn) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [HOLD MY LIQUOR](https://open.spotify.com/album/5b4CWb6hbrZ3Zsz5i850hG) | 1:42 |
 | 52 | [Ven Ven \(feat\. Jeon\)](https://open.spotify.com/track/4tkdZwjXfKKjymklHIFiPQ) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Ven Ven \(feat\. Jeon\)](https://open.spotify.com/album/571762gTuuMnrQZU8SWycm) | 3:47 |
 | 53 | [Feeling Alright](https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:39 |
-| 54 | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/3cp5AXmGxhU3tgNO6TgD4H) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 |
+| 54 | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 |
 | 55 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
 | 56 | [Top G](https://open.spotify.com/track/0lZkllHCEw17P8ZHKIRXk1) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Top G](https://open.spotify.com/album/4cgtmGUyBfMNKLGJkPpK9J) | 3:04 |
 | 57 | [Kill A Prayer](https://open.spotify.com/track/6mFrsOwzg8ieFWqOZzLmgA) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Kill A Prayer](https://open.spotify.com/album/03Tbg7HutFg1bM557zjCj3) | 3:06 |

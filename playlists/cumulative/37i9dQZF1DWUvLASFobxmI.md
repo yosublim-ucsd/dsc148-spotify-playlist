@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-643 songs - 1 day 10 hr 3 min
+644 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Llegaste](https://open.spotify.com/track/6Eitnpo4RYqJP30YBDqcJ0) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Llegaste](https://open.spotify.com/album/51RQf5R0xgXXATJVhf6Dib) | 3:27 | 2024-02-09 | 2024-03-02 |
 | [LLEGASTE TARDE](https://open.spotify.com/track/1vKtJwUH1OWqIP5DeyCpnf) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE AMARÉ](https://open.spotify.com/album/5OdUMe822QLsNbHjULZB8Y) | 3:42 | 2024-04-26 |  |
 | [Llegó El Desmadre](https://open.spotify.com/track/2HaW3DigtcJOAde5ZjozRF) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [Llegó El Desmadre](https://open.spotify.com/album/6MEIgpqfhLXnIIGFPrCEWk) | 2:31 | 2023-01-20 | 2023-01-28 |
-| [Lo Bueno Y Lo Malo](https://open.spotify.com/track/3max574PT1q80JWMAGkdUY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Lo Bueno Y Lo Malo](https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4) | 2:42 | 2024-11-22 |  |
+| [Lo Bueno Y Lo Malo](https://open.spotify.com/track/3max574PT1q80JWMAGkdUY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Lo Bueno Y Lo Malo](https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4) | 2:42 | 2024-11-22 | 2025-02-05 |
 | [Lo Logre](https://open.spotify.com/track/0SB1bitMAMk9EqdmW5WNuJ) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Lo Logre](https://open.spotify.com/album/6eF91TB3ksW7FTbOsA2qqT) | 3:01 | 2024-06-21 |  |
 | [Lo Que Aprendí](https://open.spotify.com/track/2KVLgxXdnrGHwGDVLWxauQ) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Lo Que Aprendí](https://open.spotify.com/album/2xxj4SskoPZneewIM68h8X) | 2:45 | 2024-04-26 | 2024-06-24 |
 | [Lo Que Deveras Vale \- Norteño](https://open.spotify.com/track/3kfjutiW4v5tmfR6O2nnod) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Lo Que Deveras Vale](https://open.spotify.com/album/55P03DD6EMIHTE2m3wehH0) | 2:49 | 2023-06-30 | 2023-07-15 |
@@ -518,6 +518,7 @@
 | [Que Te Valga Verga](https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Que Te Valga Verga](https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH) | 2:06 | 2022-07-01 | 2022-07-06 |
 | [Que Te Vaya Bien](https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1) | 3:58 | 2022-07-01 | 2024-10-19 |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2022-12-09 |  |
+| [Quiero Darte \(Version Norteña\)](https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Julio LV](https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:29 | 2025-01-31 |  |
 | [Quisiera Ser Como Tú](https://open.spotify.com/track/1LSnUN28VYk1KarPBYWtI3) | [Kikin y Los Astros](https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx) | [Quisiera Ser Como Tú](https://open.spotify.com/album/1gpbUi5wVztP1c7ZyLM1ri) | 2:57 | 2022-07-15 | 2022-07-28 |
 | [Qué Bonito Me Quieres](https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Qué Bonito Me Quieres](https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4) | 2:54 | 2023-06-30 | 2023-10-22 |
 | [Qué Guapo Estoy](https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Qué Guapo Estoy](https://open.spotify.com/album/74bZsilu1tQq5V5VaoyqVl) | 2:41 | 2023-06-30 | 2024-03-02 |

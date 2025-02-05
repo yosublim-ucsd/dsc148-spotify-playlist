@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-385 songs - 18 hr 34 min
+386 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Be Kind, Rewind](https://open.spotify.com/track/3zJjy40rYBjYqhame6q11B) | [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Be Kind, Rewind](https://open.spotify.com/album/3SDZ2cK7n2CW8CTm831Zia) | 2:46 | 2024-10-06 |  |
 | [Be Water](https://open.spotify.com/track/1FaBri7R5R5g3yIvjuMKXa) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Be Water / You Can Fly](https://open.spotify.com/album/68TYTxBLueBYiXeV5XNQur) | 1:20 | 2023-10-13 | 2024-08-24 |
 | [Beat Brunch](https://open.spotify.com/track/2Xy4Cl8PGYRRzIBniRrVra) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Beat Brunch](https://open.spotify.com/album/2HnId5ukRSiZ4AoKlgPfWX) | 2:13 | 2024-08-23 | 2024-11-27 |
-| [Beaujolais](https://open.spotify.com/track/7Gkd6kMDczipeBRu795NhH) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Beaujolais](https://open.spotify.com/album/7Lwsyj1DmE5JYuuzNjX3fZ) | 2:18 | 2024-11-29 |  |
+| [Beaujolais](https://open.spotify.com/track/7Gkd6kMDczipeBRu795NhH) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Beaujolais](https://open.spotify.com/album/7Lwsyj1DmE5JYuuzNjX3fZ) | 2:18 | 2024-11-29 | 2025-02-05 |
 | [Behind The Moon](https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Behind The Moon](https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk) | 2:05 | 2025-01-10 |  |
 | [Bella Vista](https://open.spotify.com/track/2UrJHvGEOXDMY8jHgzGkwU) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Bella Vista](https://open.spotify.com/album/3CTkvlYkHej43Ha301QEQ5) | 2:30 | 2024-09-13 |  |
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 |  |
@@ -297,6 +297,7 @@
 | [Slipping Slowly](https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [CHAERIN](https://open.spotify.com/artist/5VhgcFVd77oNJ2eZ2OynMc) | [Slipping Slowly](https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4) | 2:18 | 2024-08-23 |  |
 | [Slumber](https://open.spotify.com/track/45dCxZ1b32IMjK5FVNI38a) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Slumber](https://open.spotify.com/album/6EKg89pPDJnHjrqdygWrOi) | 2:23 | 2024-10-18 |  |
 | [Smooth Rush](https://open.spotify.com/track/5Jw8bFyOFGSHc76SufSoZd) | [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Victor Staal](https://open.spotify.com/artist/2bgAoii05IWMcjX8TBPWMp) | [Smooth Rush](https://open.spotify.com/album/71xU082Io0evYU0s9ICVBA) | 2:00 | 2024-10-25 |  |
+| [Snowed in](https://open.spotify.com/track/7fNAf2BTmp6FWqo7Hy24Wr) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Snowed in](https://open.spotify.com/album/47QDodM19uTNibPuA37GKP) | 2:09 | 2025-02-03 |  |
 | [Snowflake](https://open.spotify.com/track/47CForrmui4MDT15lORFl5) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Snowflake](https://open.spotify.com/album/19tMTHqbWrZpS4UMx2wxam) | 2:04 | 2025-01-24 | 2025-02-04 |
 | [Soft Moments](https://open.spotify.com/track/3fkJhN1UvLO1yy6gpoxmC2) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [Soft Moments](https://open.spotify.com/album/1laFeTsAZGskVBQxGrRdIm) | 2:24 | 2024-10-06 |  |
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |

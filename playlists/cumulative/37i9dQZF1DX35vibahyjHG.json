@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=AJMXdhclRHC3Gv3wB9LkiA\"> Qing Madi</a>",
+  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=5R5WrXP1SQ2eFd27RuNVUg\"> Sunmisola Agbebi</a>",
   "name": "EQUAL Africa",
   "tracks": [
     {
@@ -144,6 +144,28 @@
       "duration_ms": 173493,
       "name": "Adua (Remix)",
       "url": "https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp"
+    },
+    {
+      "album": {
+        "name": "Adun",
+        "url": "https://open.spotify.com/album/1A0iJHMARYTUaJZEEMhaOj"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Adun",
+      "url": "https://open.spotify.com/track/5BPiE76HkJOvlCha3LCeCD"
     },
     {
       "album": {
@@ -2012,6 +2034,24 @@
       "duration_ms": 281479,
       "name": "Feel",
       "url": "https://open.spotify.com/track/76mz34JYWi4qm4WuTulHWP"
+    },
+    {
+      "album": {
+        "name": "I am the Blueprint",
+        "url": "https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159432,
+      "name": "Feeling Alright",
+      "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
     },
     {
       "album": {
@@ -4952,7 +4992,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 170000,
       "name": "Ole (feat. BNXN)",
       "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
@@ -5014,6 +5054,24 @@
       "duration_ms": 162000,
       "name": "OMG",
       "url": "https://open.spotify.com/track/1rykDqcJdmTcr8xqpkbEnc"
+    },
+    {
+      "album": {
+        "name": "Omo To Sexy",
+        "url": "https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL"
+      },
+      "artists": [
+        {
+          "name": "BLNDE",
+          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167447,
+      "name": "Omo To Sexy",
+      "url": "https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ"
     },
     {
       "album": {
@@ -7560,7 +7618,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 146000,
       "name": "Vision",
       "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
@@ -8198,7 +8256,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-05",
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 ### [HALFTIME SHOW HITS](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Soundtrack the big game with all the hits from past and present halftime shows!
+> Soundtrack the Super Bowl with a ready made playlist with all the hits from past and present halftime shows!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 114,974 likes - 60 songs - 4 hr 8 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 114,973 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 59 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 60 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 |
 
-Snapshot ID: `AAAUemMH7SUrz8lbiAK3RdevX31EHCiK`
+Snapshot ID: `AAAUfhjvFdEtVOUGat1z5BIWMys3HHDp`

@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Bad Suns
 
-2,479 songs - 5 day 14 hr 33 min
+2,480 songs - 5 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2267,6 +2267,7 @@
 | [U&ME](https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK) | 3:18 | 2021-11-26 | 2022-04-23 |
 | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN) | 2:13 | 2022-04-29 | 2022-07-02 |
 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 | 2023-09-01 | 2023-10-14 |
+| [Ultraviolet](https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Ultraviolet](https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk) | 3:17 | 2025-02-04 |  |
 | [Unchained Memory](https://open.spotify.com/track/3osgvrk04VzVILmvH9tUan) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Unchained Memory](https://open.spotify.com/album/09ymAZAZiJUyauud1ADp3T) | 2:32 | 2023-09-15 | 2023-10-14 |
 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/6xcrYjTKuONMfC1Qoc6Bdy) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 4:33 | 2022-05-20 | 2022-07-16 |
 | [Under The Rug](https://open.spotify.com/track/28ADMB8lDaq3ixjwNQOejC) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Under The Rug](https://open.spotify.com/album/3pO5KqxkUOLPVAEgk5KWKH) | 2:44 | 2024-11-01 |  |

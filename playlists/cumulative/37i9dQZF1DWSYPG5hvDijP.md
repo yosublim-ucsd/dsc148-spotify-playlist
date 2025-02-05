@@ -2,9 +2,9 @@
 
 ### [New Rap Hindi](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> Naya Hip\-Hop Hindi! Cover: Kidshot & Bella
+> Naya Hip\-Hop Hindi! Cover: Emiway Bantai
 
-711 songs - 1 day 11 hr 50 min
+712 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Badmash Munda](https://open.spotify.com/track/5BIphb5EZinzyZtpbDIE6M) | [Ghaint Jxtt](https://open.spotify.com/artist/4SqdNKmklP2by2TdUEzEZ3), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4](https://open.spotify.com/album/2DGTc8yczBepw1NDMsaX3V) | 3:02 | 2024-10-23 | 2024-11-21 |
 | [Badnaam](https://open.spotify.com/track/5M2A8a9A4eg3XGeM3VG72p) | [Orpid](https://open.spotify.com/artist/5sWClnM6tRlAcUNbb2qgRD) | [Badnaam](https://open.spotify.com/album/3ey0jK99hkEw309scrBn9L) | 1:42 | 2024-08-02 | 2024-08-17 |
 | [BADNAAM](https://open.spotify.com/track/3KDD0ynijMr5VaJGxxUk92) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:52 | 2023-03-29 | 2024-03-29 |
+| [Badshah](https://open.spotify.com/track/1hfRfTfumpDvDtMtXMRY81) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Badshah](https://open.spotify.com/album/3n3QUJtIq37gy0Lfa5D1lb) | 2:43 | 2025-02-04 |  |
 | [Bail Pe](https://open.spotify.com/track/2zJfPQxcKXcYLx1AEaeGIO) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Loka Yaha Hai](https://open.spotify.com/album/0SOdtFMbmVADfBZZY8cqTc) | 3:40 | 2024-05-15 | 2024-07-13 |
 | [Balls of Steel](https://open.spotify.com/track/3bSJKf8DHy9yoZpmrCMr2e) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [XTACY](https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP) | [Balls of Steel](https://open.spotify.com/album/3PL1vqRb450JDAvGLQw3mO) | 3:22 | 2024-10-01 | 2024-10-19 |
 | [Bambaiyya](https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Bambaiyya](https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8) | 2:15 | 2024-07-29 | 2024-08-30 |
@@ -506,7 +507,7 @@
 | [No Breaks](https://open.spotify.com/track/5HlSPZrglzpcbrrB09lQYd) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Graveyard Shift](https://open.spotify.com/album/4JANSUDMyIlEcMuM1QeFAe) | 3:00 | 2023-11-17 | 2024-01-03 |
 | [No Bro](https://open.spotify.com/track/2jOZLz9hP4XMQM0nROnP71) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [No Bro](https://open.spotify.com/album/1KnXWqS6TEpknwfmum0g9h) | 2:55 | 2023-03-29 | 2023-04-25 |
 | [No Cocaine](https://open.spotify.com/track/77JL2t93dydTm9WS2iPU7P) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:56 | 2023-10-12 | 2024-07-13 |
-| [No Competition](https://open.spotify.com/track/0LP0Jj8V9StAqGD2dOmOBs) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Lekhak's Chaos](https://open.spotify.com/album/1Vakcnz5yQwN0Rg5muicpR) | 2:38 | 2024-12-13 |  |
+| [No Competition](https://open.spotify.com/track/0LP0Jj8V9StAqGD2dOmOBs) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Lekhak's Chaos](https://open.spotify.com/album/1Vakcnz5yQwN0Rg5muicpR) | 2:38 | 2024-12-13 | 2025-02-05 |
 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 | 2024-12-13 | 2025-01-07 |
 | [No Hard Feelings](https://open.spotify.com/track/1njcubTXVVeyLJCPgLG6yS) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [SAN](https://open.spotify.com/artist/5ED5PuhCwpFLkiV6jjYh7Q), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr) | [No Hard Feelings](https://open.spotify.com/album/526M196ikEDy7MLPcttPjc) | 2:41 | 2024-07-12 | 2024-08-27 |
 | [No Hooks](https://open.spotify.com/track/6MCHNefwcn1Iw0JtKBczU5) | [Akki On The Mic](https://open.spotify.com/artist/4AQBP2wx7hAGBomsebicPQ), [RDissside](https://open.spotify.com/artist/1CZ8yNXsAcmVtPkTuTKlC2), [HOD Beats](https://open.spotify.com/artist/5aA1B1IBpeei59T3DlA7WG) | [No Hooks](https://open.spotify.com/album/40OnSn6B6cLCB5RWnZZVNi) | 2:21 | 2025-01-31 |  |
