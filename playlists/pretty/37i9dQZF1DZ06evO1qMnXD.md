@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,901 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,949 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

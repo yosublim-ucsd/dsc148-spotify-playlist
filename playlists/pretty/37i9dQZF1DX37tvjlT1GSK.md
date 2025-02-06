@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Marca MP en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,919 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,979 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

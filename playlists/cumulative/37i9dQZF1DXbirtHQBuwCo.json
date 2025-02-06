@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 151106,
       "name": "4 Seasons",
       "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
@@ -8276,7 +8276,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
@@ -11509,6 +11509,24 @@
     },
     {
       "album": {
+        "name": "Rainy Day Reverie",
+        "url": "https://open.spotify.com/album/46Btr5TOgiwPMD22DKtddU"
+      },
+      "artists": [
+        {
+          "name": "SIWOO",
+          "url": "https://open.spotify.com/artist/5y9D9PvN3LtLo7huOAKeRO"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229999,
+      "name": "Rainy Day Reverie",
+      "url": "https://open.spotify.com/track/7hfrzdSIC2a5hV7J4RqiMa"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -11793,6 +11811,24 @@
     },
     {
       "album": {
+        "name": "'Caligo Pt.1'",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -12008,7 +12044,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
@@ -12418,7 +12454,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 175160,
       "name": "Simple Joys",
       "url": "https://open.spotify.com/track/5PE5szcHT0tkEROctJKnmu"

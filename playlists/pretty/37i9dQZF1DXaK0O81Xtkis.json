@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop.  Cover: Tom Grennan",
-  "num_followers": 216947,
+  "num_followers": 216963,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY8gAAAAAR5Wozn8Q4tJhmEHW2Tsw0",
+  "snapshot_id": "Z6O1YgAAAAC866ZJrpa7GMlM5qSJPfwx",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:34",
@@ -795,22 +795,6 @@
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "jupiter",
-      "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
     },
     {
       "added_at": "2024-12-13 05:00:37",

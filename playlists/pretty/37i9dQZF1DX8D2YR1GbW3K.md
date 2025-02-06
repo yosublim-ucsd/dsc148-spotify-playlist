@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,560 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,605 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 75 | [LRAD](https://open.spotify.com/track/4ce29VAx1D8f3HULOHHA3K) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Haunted House](https://open.spotify.com/album/1YhwGzFBdDAR1OA9644LK9) | 5:15 |
 | 76 | [No Beef \(feat\. Miss Palmer\) \- Vocal Mix](https://open.spotify.com/track/1CZyEpQeKPWp9Eeq4ppzyR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/5YON5Ykgl5BEZBdWsIJeOJ) | 6:01 |
 | 77 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
-| 78 | [Years](https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x) | 3:15 |
+| 78 | [Years \- Radio Edit](https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x) | 3:15 |
 | 79 | [Off The Hook](https://open.spotify.com/track/6jmTQwFzejCurofZDz7x9k) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Off The Hook](https://open.spotify.com/album/4xFL1dccvsB3Hc5OqB7LmW) | 2:57 |
 | 80 | [You're Gonna Love Again](https://open.spotify.com/track/214tNSr4epshNjQ6W2PTLg) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Collateral](https://open.spotify.com/album/1CZnMTWdD8cApDRm2wLCZp) | 3:21 |
 | 81 | [U](https://open.spotify.com/track/7ej6hXuIvbHAz5tKRikMi1) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Drive](https://open.spotify.com/album/0xt7caaIpRnFVyCHcl4zsW) | 4:20 |

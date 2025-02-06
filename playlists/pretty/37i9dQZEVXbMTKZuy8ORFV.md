@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,672 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,673 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 | 49 | [BLUE HORIZON FUNK \- SLOWED](https://open.spotify.com/track/6ISgjQNYq70ahUOL9rOrcz) | [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [DJ ANXVAR](https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ), [DJ ZAP](https://open.spotify.com/artist/1HJglK87YzctjxETSJqh64) | [BLUE HORIZON FUNK](https://open.spotify.com/album/5jXbkZ8fgtvq5OufR9LJz4) | 1:25 |
 | 50 | [Un día a la vez](https://open.spotify.com/track/2WyMUbRbYvNWXg83ugIgzi) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Un día a la vez](https://open.spotify.com/album/3m3NIzLzVyUyriwMNN81hp) | 2:58 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

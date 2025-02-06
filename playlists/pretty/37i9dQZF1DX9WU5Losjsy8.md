@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Von Ischgl bis Obertauern\. Après\-Ski ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,531 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,762 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

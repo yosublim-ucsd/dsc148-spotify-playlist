@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > bobeia pra vc vê se não é nois cantando essa em Copa comendo um espetinho /Foto: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,218 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,257 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

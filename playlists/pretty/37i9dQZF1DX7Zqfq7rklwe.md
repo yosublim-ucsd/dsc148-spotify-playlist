@@ -2,34 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. Kannessa Metallica.
+> Suomen suurin ja paras rock\-soittolista\. 🦇 Kannessa Ozzy Osbourne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,282 likes - 85 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,290 likes - 85 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 |
 | 2 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
-| 3 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
-| 4 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
-| 5 | [WONDERWaLL \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 |
-| 6 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
-| 7 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
-| 8 | [Call of the Night](https://open.spotify.com/track/57QjQeKO0GqG004JoqZyTZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Call of the Night](https://open.spotify.com/album/7e7XJxVyMLTYPjQlnLOLMM) | 3:34 |
-| 9 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
-| 10 | [If I Die Tomorrow](https://open.spotify.com/track/04NEtP8O4nY7Yo7dMsCKqV) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/09FfLWLJiHt0dbVCxzmARW) | 3:42 |
-| 11 | [Lola Montez](https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies \(Deluxe Version\)](https://open.spotify.com/album/6bM5H5CIEsTtIoHcScwJWX) | 4:27 |
-| 12 | [Little Lies](https://open.spotify.com/track/4NDVw6qwhHOQYcP8pEeMZU) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Little Lies](https://open.spotify.com/album/7drCN98XWUvoSY6PtIBf3O) | 3:36 |
-| 13 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 |
-| 14 | [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 |
-| 15 | [Taivas](https://open.spotify.com/track/4zBuget6g86I99WgsuFYwe) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [X](https://open.spotify.com/album/3PXcjRSf1M1xyf2410HJn8) | 4:38 |
-| 16 | [Middle of a Breakdown](https://open.spotify.com/track/7pWUbvNkMapD0ZIeIvX0SA) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Middle of a Breakdown](https://open.spotify.com/album/520bhURjFQSJbwwXVtNpcs) | 3:14 |
-| 17 | [Like The Phoenix I Will Rise](https://open.spotify.com/track/2Yqstc9lDyjfB77XM4uUSC) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Like The Phoenix I Will Rise](https://open.spotify.com/album/5RA8SJWi2dIIfj1ro21f8z) | 4:16 |
-| 18 | [Mary On A Cross](https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S) | 4:04 |
-| 19 | [When Silence Speaks](https://open.spotify.com/track/2sywQzYGL6DLiechoyU5M3) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nordic Gothic](https://open.spotify.com/album/0aaQ7FvuCcAumX3w8PXCQN) | 5:19 |
-| 20 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 |
-| 21 | [Broken Bones](https://open.spotify.com/track/00uprylngMBwUkN4VujpuV) | [Moon Shot](https://open.spotify.com/artist/7q6MMOgRRdkw9Xw5xAfQa9) | [Broken Bones](https://open.spotify.com/album/4fZkBEbDEvVWwjW1wKpUjv) | 2:58 |
-| 22 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 |
+| 3 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 |
+| 4 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
+| 5 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
+| 6 | [WONDERWaLL \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 |
+| 7 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
+| 8 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
+| 9 | [Call of the Night](https://open.spotify.com/track/57QjQeKO0GqG004JoqZyTZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Call of the Night](https://open.spotify.com/album/7e7XJxVyMLTYPjQlnLOLMM) | 3:34 |
+| 10 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
+| 11 | [If I Die Tomorrow](https://open.spotify.com/track/04NEtP8O4nY7Yo7dMsCKqV) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/09FfLWLJiHt0dbVCxzmARW) | 3:42 |
+| 12 | [Lola Montez](https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies \(Deluxe Version\)](https://open.spotify.com/album/6bM5H5CIEsTtIoHcScwJWX) | 4:27 |
+| 13 | [Little Lies](https://open.spotify.com/track/4NDVw6qwhHOQYcP8pEeMZU) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Little Lies](https://open.spotify.com/album/7drCN98XWUvoSY6PtIBf3O) | 3:36 |
+| 14 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 |
+| 15 | [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 |
+| 16 | [Taivas](https://open.spotify.com/track/4zBuget6g86I99WgsuFYwe) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [X](https://open.spotify.com/album/3PXcjRSf1M1xyf2410HJn8) | 4:38 |
+| 17 | [Middle of a Breakdown](https://open.spotify.com/track/7pWUbvNkMapD0ZIeIvX0SA) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Middle of a Breakdown](https://open.spotify.com/album/520bhURjFQSJbwwXVtNpcs) | 3:14 |
+| 18 | [Like The Phoenix I Will Rise](https://open.spotify.com/track/2Yqstc9lDyjfB77XM4uUSC) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Like The Phoenix I Will Rise](https://open.spotify.com/album/5RA8SJWi2dIIfj1ro21f8z) | 4:16 |
+| 19 | [Mary On A Cross](https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S) | 4:04 |
+| 20 | [When Silence Speaks](https://open.spotify.com/track/2sywQzYGL6DLiechoyU5M3) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nordic Gothic](https://open.spotify.com/album/0aaQ7FvuCcAumX3w8PXCQN) | 5:19 |
+| 21 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 |
+| 22 | [Broken Bones](https://open.spotify.com/track/00uprylngMBwUkN4VujpuV) | [Moon Shot](https://open.spotify.com/artist/7q6MMOgRRdkw9Xw5xAfQa9) | [Broken Bones](https://open.spotify.com/album/4fZkBEbDEvVWwjW1wKpUjv) | 2:58 |
 | 23 | [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 |
 | 24 | [Bless The Child](https://open.spotify.com/track/6Z2MwbeouGY1vsLiJfviti) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 6:12 |
 | 25 | [Kylie](https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Kylie](https://open.spotify.com/album/0B42NGSmFbRlxb6RCvtvsk) | 4:07 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 84 | [Dark Ocean Summoning](https://open.spotify.com/track/1jU7R8VlbsEaSK7i0BQwiz) | [Old Gods of Asgard](https://open.spotify.com/artist/4BMtxSIHPpG1WM2TbvNjiR) | [Rebirth \- Greatest Hits \(Music from the Games 'Alan Wake' 1 & 2 and 'Control'\)](https://open.spotify.com/album/0LZhC50aIf7O233yj7IH4Z) | 6:43 |
 | 85 | [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 |
 
-Snapshot ID: `Z6IB1gAAAAAhVh6/fRLjCrXtd1RCMIMz`
+Snapshot ID: `Z6PCBgAAAADS2ClzgGV14z8UoyrhnG36`

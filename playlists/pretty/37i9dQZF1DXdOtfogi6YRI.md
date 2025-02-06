@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOtfogi6YRI.md) - [plain]
 
 > Nieoczywiste aktualne brzmienia polskiego rapu\. Cover: VBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,353 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,352 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

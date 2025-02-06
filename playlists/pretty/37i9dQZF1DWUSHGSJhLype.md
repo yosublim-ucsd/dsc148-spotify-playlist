@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: J.Eskine
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,659 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,105 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > We're celebrating 25 years of Faith Hill's timeless album "Breathe" on 90s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962,333 likes - 150 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,962,717 likes - 150 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

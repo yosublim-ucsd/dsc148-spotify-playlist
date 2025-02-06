@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,360 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,377 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/track/5PEoCLYUefE52UMOCVQI8j) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Vicky Sakleshpur](https://open.spotify.com/artist/2yMbXfTch6OjYV8U5KWOZ4) | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/album/3UxggTNHDvkfMM3jCDEM9z) | 4:21 |
 | 2 | [Sakkathagiddini](https://open.spotify.com/track/5iZhK1bnpCzb2gqEbl8u93) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Sakkathagiddini](https://open.spotify.com/album/6HbSyd9OQBydmp4mdhQ4kR) | 2:38 |
 | 3 | [For Those to fall in Love](https://open.spotify.com/track/6DXSOpsDZljIwPBLpSmYEU) | [Venugopal](https://open.spotify.com/artist/0V0ufIK3fWHgWIftcg6zVA) | [For Those to fall in Love](https://open.spotify.com/album/3zQtTnau9we6vwRyLTyjmK) | 3:08 |
-| 4 | [Beautiful Vibe](https://open.spotify.com/track/37F4JHQqAubJYe33EJ1Snf) | [Abhi Multi](https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4), [Hugo Mallet](https://open.spotify.com/artist/5K2NVSCComwcdrZG6EiLgU) | [Beautiful Vibe](https://open.spotify.com/album/3gC3KRMrXytFSlmiPX5hgT) | 3:11 |
+| 4 | [Beautiful Vibe](https://open.spotify.com/track/37F4JHQqAubJYe33EJ1Snf) | [Abhi Multi](https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4), [Hugo Mallet](https://open.spotify.com/artist/5ys5lKRR5zOOrhE0XlwO2J) | [Beautiful Vibe](https://open.spotify.com/album/3gC3KRMrXytFSlmiPX5hgT) | 3:11 |
 | 5 | [Bhavanegalu](https://open.spotify.com/track/4I2VkfH3rFx6amyICzBmP2) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Bhavanegalu](https://open.spotify.com/album/1qk0d5mYA3z9QIRzDvxlug) | 2:32 |
 | 6 | [New Year Party](https://open.spotify.com/track/0CLeumt8dQq1FA7oZjnwet) | [Lokesh](https://open.spotify.com/artist/1pt6sORY72y0gAnBQTCU67), [Sagar](https://open.spotify.com/artist/4uABnNRBR5deOEFP4L9pbV) | [New Year Party](https://open.spotify.com/album/5lPHdXPoERuYwERbxwg7YV) | 3:22 |
 | 7 | [Beauty](https://open.spotify.com/track/34TonGz5g4F0ZQ2fWPGNG6) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Meghana Kulkarni](https://open.spotify.com/artist/7yvdb56qFhuF26Wnkqe6Vs) | [Beauty](https://open.spotify.com/album/6S9gwDfmsjMrZRApoQvwTQ) | 5:02 |

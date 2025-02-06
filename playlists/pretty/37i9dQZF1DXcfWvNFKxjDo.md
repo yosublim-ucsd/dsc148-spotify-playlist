@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Ely Oaks, LAVINIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,187 likes - 79 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,220 likes - 79 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 20 | [Love & Drugs](https://open.spotify.com/track/1uqKY33FUeEfRXBqE1SwJc) | [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Love & Drugs](https://open.spotify.com/album/4lHG5gWmN5hZjlC4UKoYfY) | 2:11 |
 | 21 | [Married Life](https://open.spotify.com/track/4542bqblZXL2e3HozOU5WH) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Married Life](https://open.spotify.com/album/29DwKBXgued2glho29U4Lx) | 2:00 |
 | 22 | [L'Italiano](https://open.spotify.com/track/0wO9l8YepZra7cbmoPlevh) | [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Toto Cutugno](https://open.spotify.com/artist/6elIiwc8OyeqKxXe2rmPXZ) | [L'Italiano](https://open.spotify.com/album/4Et1q7i9BrPEIndMPzrrZW) | 2:17 |
-| 23 | [Endless ft Ed Graves](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless ft Ed Graves](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
+| 23 | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
 | 24 | [My Angel](https://open.spotify.com/track/0417nkSXjcoPvIVP7txmYy) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [My Angel](https://open.spotify.com/album/0gTtqjprYTCfbkBTZP8NEk) | 2:48 |
 | 25 | [Avalanche](https://open.spotify.com/track/3BnkAfMywDoW7C12B4xpYw) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Avalanche](https://open.spotify.com/album/0L15QG9PmT6mdxAxdjeT9o) | 2:36 |
 | 26 | [Crockett's Theme \(Invincible\)](https://open.spotify.com/track/4GkJ6RvWnHc0m3yLwm4Dj1) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Crockett's Theme \(Invincible\)](https://open.spotify.com/album/2R9Umrylm3Rfg1jAn78Lw2) | 2:11 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-664 songs - 1 day 9 hr 40 min
+665 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [LA VIBE](https://open.spotify.com/track/4pgmtdYruqcV7gcT1uky56) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [LA VIBE](https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7) | 2:12 | 2023-02-03 | 2023-08-10 |
 | [Lachrymose](https://open.spotify.com/track/6NIoYuKRXmbklQdh6uPryZ) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 3:29 | 2023-06-23 | 2023-08-10 |
 | [Late At Night](https://open.spotify.com/track/0JB5SP9rDrbk2dsZD2781h) | [CiDE](https://open.spotify.com/artist/5LaVL7OUazcgstNz0MmnUb), [Vide](https://open.spotify.com/artist/6NvLDPalJ0Xdf58b6JABvn), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Late At Night](https://open.spotify.com/album/1lLaZy31zYDLJ7B7GrJdE8) | 2:34 | 2024-01-31 | 2024-08-28 |
+| [Lay Low](https://open.spotify.com/track/38mVIN91Aj49QHLU7uTWNQ) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Lay Low](https://open.spotify.com/album/40YfdgbzqhYALCcepymqTB) | 3:07 | 2025-02-05 |  |
 | [Left With Nothing](https://open.spotify.com/track/4w4IaAo9OtgKHzo44pQn2x) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Left With Nothing](https://open.spotify.com/album/48OUE1YH9xxIhtmb1eyfEa) | 2:38 | 2024-02-23 | 2024-08-28 |
 | [LET THEM HAVE IT](https://open.spotify.com/track/2ElkJB3Ce9shEo0qKTHsGF) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [LET THEM HAVE IT](https://open.spotify.com/album/5AH2mN0UBrSGrTqZz48r5P) | 2:19 | 2023-02-07 | 2023-08-10 |
 | [Let's Play](https://open.spotify.com/track/4XoTO4jKYPdvGyfj0cUqVP) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Let's Play](https://open.spotify.com/album/364GIgp0PFkrFr7FaqGP6K) | 2:32 | 2023-03-03 | 2024-07-19 |

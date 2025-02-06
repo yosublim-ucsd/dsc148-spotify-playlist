@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,666 songs - 3 day 19 hr 49 min
+1,668 songs - 3 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-02 | 2024-06-30 |
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-08 | 2022-03-10 |
 | [Attention \(250 Remix\)](https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:01 | 2023-12-21 | 2023-12-23 |
+| [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-02-05 |  |
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-05-28 | 2022-06-01 |
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-01-31 | 2023-02-21 |
 | [Baby I need you](https://open.spotify.com/track/4KU23Zay3Q1W0c0yJCNczH) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Pole Dance](https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7) | 3:21 | 2022-05-19 | 2022-06-08 |
@@ -340,6 +341,7 @@
 | [Darl+ing](https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 2:56 | 2022-05-28 | 2022-07-23 |
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-10-29 | 2024-11-01 |
 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-16 | 2024-03-13 |
+| [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | ['Caligo Pt.1'](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-05 |  |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-09 | 2022-01-13 |
 | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU) | 3:35 | 2021-11-02 | 2021-11-12 |
@@ -372,7 +374,7 @@
 | [Dis\-ease](https://open.spotify.com/track/54DmTIv86D3sYdiawjULQ0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:59 | 2021-05-23 | 2021-06-20 |
 | [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-12-09 | 2023-12-18 |
 | [Dissonance \(Feat\. AKMU\) \(Prod\. GRAY\)](https://open.spotify.com/track/0AF50NdDzZ3cze2O0SyjXf) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:33 | 2021-11-28 | 2022-01-27 |
-| [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 |  |
+| [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2025-02-06 |
 | [Ditto \(250 Remix\)](https://open.spotify.com/track/6JVXVLqCPaodBSEwRFUN8w) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:21 | 2023-12-20 | 2023-12-23 |
 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 | 2021-05-12 | 2021-05-29 |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 | 2022-04-10 |
@@ -846,7 +848,7 @@
 | [LOCKDOWN](https://open.spotify.com/track/6f0DlyudChM3b2olFTsr7d) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [LOCKDOWN](https://open.spotify.com/album/4TiTZCRYTcbxbPvKCa43hJ) | 3:21 | 2023-06-24 | 2023-06-29 |
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-27 | 2021-11-28 |
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-26 | 2021-09-27 |
-| [London Boy](https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Polaroid](https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E) | 4:04 | 2022-11-19 |  |
+| [London Boy](https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Polaroid](https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E) | 4:04 | 2022-11-19 | 2025-02-06 |
 | [LONE RANGER](https://open.spotify.com/track/0R4axRx5Y4rwYY22UZhx2e) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:23 | 2023-01-11 | 2023-01-13 |
 | [Lonely](https://open.spotify.com/track/50y0OQgar3BnwTt1pXdYsM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:46 | 2022-12-03 | 2022-12-11 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 | 2021-03-27\* | 2021-04-07 |

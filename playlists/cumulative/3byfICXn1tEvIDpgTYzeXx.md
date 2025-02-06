@@ -4,7 +4,7 @@
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-163 songs - 7 hr 51 min
+163 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,6 @@
 | [Night Power](https://open.spotify.com/track/3v8aQbcZKTtJh0XbjIYHzz) | [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [Night Power](https://open.spotify.com/album/3vaFAudCxeTiw10b2t9dCQ) | 1:44 | 2022-09-23 |  |
 | [No More](https://open.spotify.com/track/374TbI8XdnPeD2KTzz9lvC) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [No More](https://open.spotify.com/album/3VsrHUHM8Gh9h9jsgxdWD0) | 3:13 | 2022-09-23 |  |
 | [No Way](https://open.spotify.com/track/4WMj3vEasbyjidxPWlDg5f) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [HZVRV](https://open.spotify.com/artist/4X7aIOTlWRxckdpqRk2KpF) | [No Way](https://open.spotify.com/album/11VENR8ZMpN3nezwaewwtX) | 2:42 | 2022-09-23 |  |
-| [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 | 2022-09-23 |  |
 | [On Your Mind](https://open.spotify.com/track/18hKMuVXpgDQtNBvOjva0v) | [OTASH](https://open.spotify.com/artist/3lWH59JER2slR937o2bnvK), [Cammy](https://open.spotify.com/artist/2xDRGwHlHoOz2ilHqRsPC3), [Bahti](https://open.spotify.com/artist/5b7xNFMAoi598oJclqoR7G) | [On Your Mind](https://open.spotify.com/album/2w90dJoZqoD6XwsbzoReQM) | 2:21 | 2022-11-11 |  |
 | [On Your Own](https://open.spotify.com/track/0hWGhPPzzPwAwi0G5a94Om) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ), [Zhanelya](https://open.spotify.com/artist/5nemrL2vL312LySJWx8b59) | [On Your Own](https://open.spotify.com/album/2UE4aBlJJMIkGCQEtBuZyH) | 2:48 | 2022-09-23 |  |
 | [Outside](https://open.spotify.com/track/3FaV03Bu4vdZecyIvd8aJL) | [ORIPV](https://open.spotify.com/artist/237HNl9pU5Qh95DctFoi4d), [Beenur](https://open.spotify.com/artist/5q1YpRvJzKzjqiSJSVYZAV) | [Outside](https://open.spotify.com/album/1FVxgabmd2ivR4OnY6b3SJ) | 3:47 | 2022-09-23 |  |
@@ -153,6 +152,7 @@
 | [Totem](https://open.spotify.com/track/41vFszqYT3WZlcK126EKgU) | [Almaz](https://open.spotify.com/artist/05QVOukVMpiTTI8ftFYxhl) | [Totem](https://open.spotify.com/album/7ikc9RiYtBmYpiLGDk5wFA) | 4:49 | 2022-09-23 |  |
 | [Tweakin \- Crop Kid Remix](https://open.spotify.com/track/185AqhZxzgpzlrnGujsMlD) | [Kai Lovane](https://open.spotify.com/artist/1d4YpEYsABZ4KP2LtqbvjX), [Crop Kid](https://open.spotify.com/artist/1mcMySNSlaYKSovyp82egC) | [Tweakin \(Crop Kid Remix\)](https://open.spotify.com/album/425BPWAsEKZF25rg8UZ9Wl) | 3:44 | 2022-09-23 |  |
 | [Underground](https://open.spotify.com/track/1YVjFip2JIeDm8ghjuU5r2) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [Underground](https://open.spotify.com/album/2GS1fuASYzMDCfuSWaRtKP) | 2:48 | 2022-09-23 |  |
+| [Versace](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [J&K](https://open.spotify.com/artist/6dE7gniQuPD7nsIhI4UYsN), [AINI](https://open.spotify.com/artist/14IWRqA1PTpEeGcrIW8WTg) | [Versace](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 1:51 | 2022-09-23 |  |
 | [Versace](https://open.spotify.com/track/4yhU5ZLFIcOGGLMQUhYHbQ) | [Jvstin](https://open.spotify.com/artist/7yx9U0pCgGRvOPLjT75Rgd) | [Paris \- Deep Tunes, Vol\. 01](https://open.spotify.com/album/3LLIXZargdPnbuv9cPlHub) | 2:52 | 2022-09-23 |  |
 | [Vibe Time](https://open.spotify.com/track/22zw0vkeGNTYdgFCINbdXL) | [FRHAD](https://open.spotify.com/artist/0418xhpb0MLi9OfTGiTRas) | [Vibe Time](https://open.spotify.com/album/7CVS4uiwU9EOvvT0uyhg8i) | 2:55 | 2022-09-23 |  |
 | [Warrior](https://open.spotify.com/track/4VTDgZKSq37SmC8bB2Kfuh) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [Warrior](https://open.spotify.com/album/4dWaxe5joQGjKXp2OvyaNa) | 2:35 | 2022-09-23 |  |

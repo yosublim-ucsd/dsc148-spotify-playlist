@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring EST Gee, Latto & Playboi Carti,  Nardo Wick and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,451 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,573 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [BBLLCDI](https://open.spotify.com/track/6etNPa8krT7Imudk5s9LuM) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [BBLLCDI](https://open.spotify.com/album/7yy9ywTFI3oSuWHlDE0Fqs) | 2:27 |
 | 4 | [I Wonder](https://open.spotify.com/track/6zLCCx1nhPUcLZCQJuk7fU) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [I Wonder](https://open.spotify.com/album/1SCRm57zXJBjVGO9IK1RQs) | 2:08 |
 | 5 | [Florida Boy](https://open.spotify.com/track/60pLVKlxlxcE1nkbccLavt) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Florida Boy](https://open.spotify.com/album/2EffsPrxXhoDznoRMUd5NF) | 2:04 |
-| 6 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 6 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 7 | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx) | 2:30 |
 | 8 | [Just for Kicks \(“Meat Grinder” demo\)](https://open.spotify.com/track/0xSGp6VPeckr3Inxz3IrA9) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy Demos](https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ) | 2:46 |
 | 9 | [Friends To Miami \(feat\. Meek Mill\)](https://open.spotify.com/track/4c0KvrQOCf05c4ED2MWmHC) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Friends To Miami \(feat\. Meek Mill\)](https://open.spotify.com/album/5Udw8gmbrtoUo6H3E0l0MA) | 3:36 |

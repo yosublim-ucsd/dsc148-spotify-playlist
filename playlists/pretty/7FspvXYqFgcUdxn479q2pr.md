@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Argüello, Naty Botero
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,511 likes - 29 songs - 1 hr 23 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,513 likes - 29 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 28 | [Lowkey \(with Liquid Silva\)](https://open.spotify.com/track/5bXWpj4RxYxMtichvf4Rwe) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Adnan Veron](https://open.spotify.com/artist/0YpOe2SiYZVcWvrHiCV17W), [Erga](https://open.spotify.com/artist/3aJ68Ih0UWLFSwyPxWKRMa), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Lowkey \(with Liquid Silva\)](https://open.spotify.com/album/6VN8CODkyWNadiJ6okvaOj) | 3:01 |
 | 29 | [Free Your Mind](https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Free Your Mind](https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J) | 2:35 |
 
-Snapshot ID: `AAAr5IBWC6Oq3ZI6KFtDj8Ze1p7BO7iO`
+Snapshot ID: `AAAr5scWttmXzUjxrV171pKPi41lHjID`

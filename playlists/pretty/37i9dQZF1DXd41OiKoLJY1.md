@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Frisbee  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,826 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,847 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 81 | [burn for you](https://open.spotify.com/track/7oydQ62zY3d8alCLxFlUGD) | [polaroid police](https://open.spotify.com/artist/18AaPbifDMnc2J9hNKR43D) | [burn for you](https://open.spotify.com/album/4C1g8RkRQMxZ49zveIpXsN) | 2:53 |
 | 82 | [Hangin](https://open.spotify.com/track/0r6TEvVIRJzlo6tIcksv3r) | [JADY](https://open.spotify.com/artist/15Pk63GWnQxEruNAWi76JC) | [Hangin](https://open.spotify.com/album/5ByBKvilQO3SyPr1hfE1LM) | 3:55 |
 | 83 | [passenger princess](https://open.spotify.com/track/37e1H9L3clcpfGL9cb2wXE) | [Kyrus](https://open.spotify.com/artist/2WN13ZeABzdwbyqbyXK6az) | [passenger princess](https://open.spotify.com/album/3LbepXD2jr39suvJFTNI95) | 2:49 |
-| 84 | [bakit pa ?](https://open.spotify.com/track/6yKjcEAolPHxTvKTUIAixl) | [izy](https://open.spotify.com/artist/1cjwH3tfNQUYvYUfYWPzAx) | [bakit pa ?](https://open.spotify.com/album/3IUsGGRroWDC1xoqHzwdhL) | 5:24 |
+| 84 | [bakit pa ?](https://open.spotify.com/track/6yKjcEAolPHxTvKTUIAixl) | [izy](https://open.spotify.com/artist/4kjQwZVRDcCSDoexfK4paT) | [bakit pa ?](https://open.spotify.com/album/3IUsGGRroWDC1xoqHzwdhL) | 5:24 |
 | 85 | [NOT ENOUGH \(NEED A BREAK\)](https://open.spotify.com/track/4DQlw6xF6KXFqtBAlHRCSL) | [L•Y](https://open.spotify.com/artist/6TX5wo8K752OtN0iDcTPs3) | [NOT ENOUGH \(NEED A BREAK\)](https://open.spotify.com/album/1yJgR4q2sqdjVMAatLDCU8) | 2:12 |
 | 86 | [saveurself](https://open.spotify.com/track/1Dq8zHeCXhOz1jmPhWC6TO) | [plutostxcks](https://open.spotify.com/artist/6Kw18vajbnr4bUH6pGPB5L) | [saveurself](https://open.spotify.com/album/0rfBm01luRSJNSncwXoqfq) | 2:58 |
 | 87 | [Sa Iyo Talaga](https://open.spotify.com/track/2fItJ3yfyIkkxrB4JvKcW4) | [Odri](https://open.spotify.com/artist/3dkiiS5m6L2FQWXJGLNpUh) | [Sa Iyo Talaga](https://open.spotify.com/album/51wwC87K58deYBvKb6ArVb) | 3:12 |

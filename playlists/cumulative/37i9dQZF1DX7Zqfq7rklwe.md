@@ -2,7 +2,7 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. Kannessa Metallica.
+> Suomen suurin ja paras rock\-soittolista\. 🦇 Kannessa Ozzy Osbourne.
 
 168 songs - 11 hr 1 min
 

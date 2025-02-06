@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Ný tónlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,183 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,182 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 37 | [Feeling Alright](https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:39 |
 | 38 | [Miss It \(At All\)](https://open.spotify.com/track/2nzuxOVjKggQgQG23AlwBu) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Miss It \(At All\)](https://open.spotify.com/album/1PpIp6eVoghdTRyTD20gdu) | 2:07 |
 | 39 | [Revelation](https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY) | 4:13 |
-| 40 | [Endless ft Ed Graves](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless ft Ed Graves](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
+| 40 | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
 | 41 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 |
 | 42 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
 | 43 | [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,264 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,277 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

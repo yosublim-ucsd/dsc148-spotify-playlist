@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,226 songs - 3 day 2 hr 24 min
+1,227 songs - 3 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,6 +947,7 @@
 | [Skyline \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4HfArox98OAJ9BdSVBjOWq) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 4:16 | 2022-01-19 |  |
 | [Slip Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2QX2OeVkckAavMTJtbV7GX) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4vucVTj5GjNV0MllVjsxo5) | 2:48 | 2022-01-19 |  |
 | [Slip Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4LtOPAPRHxFCRqC0gp4i7N) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi) | 2:48 | 2022-07-05 | 2024-04-19 |
+| [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-05 |  |
 | [Släpper allt \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0oPWMoJa3yxty4vvyFNz5u) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Spotify Singles](https://open.spotify.com/album/0smYhS2gKT2HFZDXGcK9LX) | 4:06 | 2022-01-19 |  |
 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 | 2022-01-19 |  |
 | [Småtjejer Remix \- Recorded at Spotify Studios Stockholm \(feat\. GRANT\)](https://open.spotify.com/track/5kaTtlsJuQI6KUbIYYQRYJ) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Beri](https://open.spotify.com/artist/4FbR0e9PKcsRBw6G86QwLn), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Spotify Singles](https://open.spotify.com/album/0smYhS2gKT2HFZDXGcK9LX) | 3:36 | 2022-01-19 |  |

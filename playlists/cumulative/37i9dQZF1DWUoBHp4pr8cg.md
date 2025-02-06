@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Espiquet, Central Cee, Blue Pappi, Travis Scott, and more...
 
-355 songs - 19 hr 6 min
+355 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Houstatlantaville \(feat\. Lil Baby & Travis Scott\)](https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 3:25 | 2025-01-31 |  |
 | [How I feel](https://open.spotify.com/track/14XWobfiEPsQnVgTNsdMC0) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [Teen Revolution](https://open.spotify.com/album/2GMA0txzGTDB2MZiKTPx6H) | 3:03 | 2024-11-15 |  |
 | [I Aint Got The Answers](https://open.spotify.com/track/4JrBckJi6ntTg2883PLOFD) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Ginger Trill](https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI) | [I Ain't Got The Answers](https://open.spotify.com/album/7FvIp2G42YVskYHRbvoWBy) | 4:20 | 2023-11-23 | 2024-02-09 |
-| [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 | 2025-01-31 |  |
+| [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 | 2025-01-31 |  |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-09-22 | 2024-03-16 |
 | [I'll Always Have Me](https://open.spotify.com/track/21IPXg9zJBfJRPzwMuVjpN) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Veena](https://open.spotify.com/artist/4hSFcNs4ESZUO7f4LDYqOn) | [S.O.O.N 2 \(A Better Year\) \[Deluxe Edition\]](https://open.spotify.com/album/6Xp9Tw8YX3689PRvd23Rl6) | 5:00 | 2023-01-23 | 2023-02-24 |
 | [IDGAF](https://open.spotify.com/track/5w7NisdsB4ixAUNfC0eCPf) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [IDGAF](https://open.spotify.com/album/2UQnTNhYkgv8JGzT8hc5Ss) | 2:39 | 2023-12-08 | 2024-06-28 |

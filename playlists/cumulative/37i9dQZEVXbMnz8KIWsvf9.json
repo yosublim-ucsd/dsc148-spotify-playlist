@@ -7914,7 +7914,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
@@ -9176,7 +9176,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
@@ -9696,7 +9696,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -15814,7 +15814,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 234000,
       "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
@@ -16661,7 +16661,7 @@
       "artists": [
         {
           "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/6mbV5s0aTlVUKkmlF47AGJ"
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
         },
         {
           "name": "Polycat",
@@ -19338,7 +19338,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 240410,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/3qT2Jn6s5k5dluHNqThi1X"
@@ -19364,6 +19364,24 @@
       "duration_ms": 168857,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
       "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e23\u0e49\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/0qi73HSuqoHTk5BMoPoBWZ"
+      },
+      "artists": [
+        {
+          "name": "Highhot",
+          "url": "https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "\u0e44\u0e23\u0e49\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/2l8WRaQeDx9aYdgGe4c3PE"
     },
     {
       "album": {

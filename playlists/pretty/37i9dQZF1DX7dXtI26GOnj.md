@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,816 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,020 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

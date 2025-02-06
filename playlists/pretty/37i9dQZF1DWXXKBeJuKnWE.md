@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Split Chain
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,310 likes - 215 songs - 12 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,306 likes - 215 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Central Cee, Latto, Playboi Carti, Smiley and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,847 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,875 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 18 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
 | 19 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 |
 | 20 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |
-| 21 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 21 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 22 | [HITSCAN](https://open.spotify.com/track/3oP2Q4QYLb0krybHshZ2CM) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [HITSCAN](https://open.spotify.com/album/0wIbOInUJpzoozjaZBIYp6) | 2:27 |
 | 23 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 |
 | 24 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |

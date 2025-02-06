@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Skepsis, Doktor
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461,935 likes - 98 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461,980 likes - 98 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "pinoy alternative music . Cover: Wiji Kun",
+  "description": "pinoy alternative music . Cover: Kremesoda",
   "name": "alt.ph",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 215332,
       "name": "_enero (feat. Rreyo Obero)",
       "url": "https://open.spotify.com/track/2XeqHpVslF6YNPWy5pQRk7"
@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "For Years",
+        "url": "https://open.spotify.com/album/4wyGeGizmF1609QAefbTBa"
+      },
+      "artists": [
+        {
+          "name": "Kremesoda",
+          "url": "https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234732,
+      "name": "For Years",
+      "url": "https://open.spotify.com/track/7n5keaHfBmfT0kz56EIIr4"
+    },
+    {
+      "album": {
         "name": "Sad Songs and Bullshit Part 1",
         "url": "https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 253500,
       "name": "Gunita",
       "url": "https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 210584,
       "name": "I'll Be Mine",
       "url": "https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO"
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 202641,
       "name": "Mas Gusto Kita",
       "url": "https://open.spotify.com/track/0Fz4n1CHMWRoJOViHFKCXV"
@@ -2211,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "sementeryo",
+        "url": "https://open.spotify.com/album/4UbSOWtgTWW7z9Qw6Ykplv"
+      },
+      "artists": [
+        {
+          "name": "JERGE",
+          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "sementeryo",
+      "url": "https://open.spotify.com/track/7CGUHkmCRap32eFjXFaV1s"
+    },
+    {
+      "album": {
         "name": "SIGA",
         "url": "https://open.spotify.com/album/0K22wqjAcKBoQXMa8LtV6H"
       },
@@ -2508,6 +2544,24 @@
       "duration_ms": 255389,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/1HeGR9Pi3TCVDl4jrHZv2j"
+    },
+    {
+      "album": {
+        "name": "Suya-suyo",
+        "url": "https://open.spotify.com/album/7zr5HjJ3uH9Gkx5qiKzaSC"
+      },
+      "artists": [
+        {
+          "name": "Frisbee",
+          "url": "https://open.spotify.com/artist/1VBkwOEyc2ccSel29Pcimq"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186141,
+      "name": "Suya-suyo",
+      "url": "https://open.spotify.com/track/7fa1TUj6YM3qLrEIQAVONY"
     },
     {
       "album": {
@@ -2836,7 +2890,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 268085,
       "name": "Yakap",
       "url": "https://open.spotify.com/track/6dlW7m78wKau9ZRqPLAUJA"

@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-355 songs - 20 hr 24 min
+355 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 | 2021-12-24 | 2023-02-04 |
 | [Camina \(Suave y Elegante\)](https://open.spotify.com/track/1fi9cZSvHWP7z6N8HihILu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Camina \(Suave y Elegante\)](https://open.spotify.com/album/3io8feqVIqEiEXlvxXaGM6) | 3:29 | 2021-12-24 | 2022-08-06 |
 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 | 2021-12-24 |  |
-| [Casi Siempre Estoy Pensando en Ti \- Session \# 1](https://open.spotify.com/track/6etAudZOHHoS1zsjyMFoZL) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Casi Siempre Estoy Pensando en Ti \(Session \# 1\)](https://open.spotify.com/album/7DUUJ8b8YBdCzYfzZsknPx) | 3:05 | 2025-01-31 |  |
+| [Casi Siempre Estoy Pensando en Ti \- Session \# 1](https://open.spotify.com/track/6etAudZOHHoS1zsjyMFoZL) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Casi Siempre Estoy Pensando en Ti \(Session \# 1\)](https://open.spotify.com/album/7DUUJ8b8YBdCzYfzZsknPx) | 2:37 | 2025-01-31 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/17oWRjloW6mAX2O4cGqZO1) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Cha Cha Cha](https://open.spotify.com/album/550Yk0OnVOn7idgi0KC11Z) | 2:53 | 2023-08-18 | 2023-10-07 |
 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 | 2021-12-24 | 2023-04-20 |
 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 | 2021-12-24 |  |

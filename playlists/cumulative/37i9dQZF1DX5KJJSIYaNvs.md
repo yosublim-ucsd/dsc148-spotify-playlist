@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Sunidhi Chauhan
+> Listen to women at full volume\. Cover \- Jonita Gandhi
 
-431 songs - 1 day 1 hr 11 min
+432 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Kashmir](https://open.spotify.com/track/0FDlo7Rz1GQXjYz3y0UxPb) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:36 | 2023-11-25 | 2023-11-30 |
 | [Kashmiri Apple](https://open.spotify.com/track/3BOCJTidTQjcF1Wtx23FEG) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kashmiri Apple](https://open.spotify.com/album/4uv4ayUNwsS959kshlPpxi) | 3:24 | 2022-03-07 | 2022-04-06 |
 | [Keh Bhi Do Na](https://open.spotify.com/track/3rBLnjB91z4KDGqIFIG3lB) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Dil Se](https://open.spotify.com/album/241jm308Fldzh7BFcNJWzS) | 3:07 | 2024-08-30 | 2024-09-15 |
+| [Keh Do Na](https://open.spotify.com/track/7IXNpE2PpfN2TfukYArl1B) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jitendra Kumar](https://open.spotify.com/artist/4CekhuSSP8lNnqDomhbJ7r), [Manpreet Kaur](https://open.spotify.com/artist/3iXL8Y9QFYRXFmvtSc9nyl) | [Keh Do Na](https://open.spotify.com/album/5YjWFVg6j4rUHj3vBaB0oO) | 3:59 | 2025-02-05 |  |
 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 | 2024-10-01 |  |
 | [Kehndi Haan Kehndi Naa](https://open.spotify.com/track/7jl8FKIm4v4RfaGXLEV0s6) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Kehndi Haan Kehndi Naa](https://open.spotify.com/album/5KBhZPdX6L8iWK8E6azUde) | 3:21 | 2022-02-01 | 2022-03-08 |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 | 2023-12-09 |
@@ -241,7 +242,7 @@
 | [Mast Aankhein](https://open.spotify.com/track/6VxqgfU14y82Jsc3qvkcPS) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Mast Aankhein](https://open.spotify.com/album/6j5ZcktK7LVx39OvfbJ2Gi) | 3:27 | 2023-03-02 | 2023-08-04 |
 | [Mat Aana](https://open.spotify.com/track/4om363nTolMlyBtUox4OHI) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Khufiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b) | 4:46 | 2023-09-26 | 2023-11-18 |
 | [Mat Aana](https://open.spotify.com/track/0fCEr5YBWpJaKpyXdahmWg) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Niladri Kumar \(Sitar\)](https://open.spotify.com/artist/0wH4V47V8qwYBnjouWKjjs) | [Khufiya](https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF) | 4:46 | 2023-09-26 | 2023-09-27 |
-| [Matak Matak](https://open.spotify.com/track/6OJFI21TFUEsqCtyIRTmVG) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [TimiBOI](https://open.spotify.com/artist/7JOx03sIOirdg2PFnna2U2) | [Matak Matak](https://open.spotify.com/album/7e6zLnFAsvGVF7YHH6Gnqs) | 2:46 | 2024-10-25 |  |
+| [Matak Matak](https://open.spotify.com/track/6OJFI21TFUEsqCtyIRTmVG) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [TimiBOI](https://open.spotify.com/artist/7JOx03sIOirdg2PFnna2U2) | [Matak Matak](https://open.spotify.com/album/7e6zLnFAsvGVF7YHH6Gnqs) | 2:46 | 2024-10-25 | 2025-02-06 |
 | [Mawaan Te Dhiyaan](https://open.spotify.com/track/2YjCorBTZCnYPZX7CgnRl4) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Nirmal Kakar](https://open.spotify.com/artist/4GtTnGMesEd9XHF6DtBce9), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Big Band Theory Season2](https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb) | 3:53 | 2023-04-05 | 2023-07-08 |
 | [Mehabooba](https://open.spotify.com/track/3P3mOcFeu7OYcsZEZSUiLl) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2](https://open.spotify.com/album/2NgI9PKY8KxRp5az0NxlQU) | 3:33 | 2022-05-04 | 2022-08-02 |
 | [Mehabooba](https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1) | 3:33 | 2022-07-06 | 2024-03-28 |

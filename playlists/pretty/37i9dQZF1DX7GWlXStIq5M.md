@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Juliette
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,170 likes - 89 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,156 likes - 89 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

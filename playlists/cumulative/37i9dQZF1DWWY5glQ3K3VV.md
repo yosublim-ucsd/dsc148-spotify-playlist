@@ -2,9 +2,9 @@
 
 ### [Club Rap ](https://open.spotify.com/playlist/37i9dQZF1DWWY5glQ3K3VV)
 
-> 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Capo Plaza
+> SPINGERE!!!
 
-291 songs - 14 hr 28 min
+292 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Mattone \(feat\. Kuremino, Nerissima Serpe\)](https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Trap Fatta Bene](https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143) | 2:22 | 2025-01-02 |  |
 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 | 2022-07-07 | 2022-08-27 |
 | [Medellin \(feat\. Lazza\)](https://open.spotify.com/track/1hqV0kb6c8Rp9jvJRPcDy7) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:15 | 2022-05-01 |  |
+| [Mercedes Nero](https://open.spotify.com/track/7kck8Amf3NpSGASoFuKIcl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [XDVR Reloaded](https://open.spotify.com/album/45rG8pfk8nga2wfRcAqC9l) | 3:52 | 2025-02-05 |  |
 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 | 2022-05-01 | 2025-01-03 |
 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 | 2022-12-30 | 2023-01-11 |
 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 | 2022-05-26 |  |
@@ -283,7 +284,7 @@
 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 | 2023-11-01 | 2024-06-21 |
 | [Vaniglia \(feat\. VillaBanks, Boro & Andry The Hitmaker\)](https://open.spotify.com/track/3ceeE7trGex4ioSAYMcuOr) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Vaniglia \(feat\. VillaBanks, Boro & Andry The Hitmaker\)](https://open.spotify.com/album/5umTTXnLDMrhAqrnBUyb1U) | 3:12 | 2024-06-20 | 2024-08-09 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-12-30 | 2023-01-11 |
-| [Vestiti da Rapper \(feat\. Guè\)](https://open.spotify.com/track/4JZ0yTdBeWP4RGQKv0JDCN) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:44 | 2024-03-29 |  |
+| [Vestiti da Rapper \(feat\. Guè\)](https://open.spotify.com/track/4JZ0yTdBeWP4RGQKv0JDCN) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:44 | 2024-03-29 | 2025-02-06 |
 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 | 2023-09-27 |  |
 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 | 2023-07-06 |  |
 | [VRP](https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:28 | 2025-01-02 |  |

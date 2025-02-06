@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,858 likes - 128 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,866 likes - 128 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 24 | [VILL BARA PRATA UT](https://open.spotify.com/track/6Bd7XicVmCoEUxG7z3Zso7) | [Mick C](https://open.spotify.com/artist/2uzFPVGIqlTH5AnD0CKPtL), [Mowgly](https://open.spotify.com/artist/0vbhWRKaeWqeVNr6rXOo92) | [VILL BARA PRATA UT](https://open.spotify.com/album/1fCpPWN84cHojCzh5ptoLw) | 3:38 |
 | 25 | [En av En](https://open.spotify.com/track/25gpMBmBl7NirmrPNCCejo) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [En av En](https://open.spotify.com/album/2gwH6ZL3Y1eJtOABL5Lely) | 1:58 |
 | 26 | [Reminisce](https://open.spotify.com/track/0BaiqHgXbozPmF7ivYfgYb) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [Lost Tapes](https://open.spotify.com/album/0jpkN3FgA9PVKagrcKOpos) | 2:03 |
-| 27 | [Tack mitt \(X\)](https://open.spotify.com/track/122f2GTwtButQFALowd18H) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Tack mitt \(X\)](https://open.spotify.com/album/5o3QsdYt30N7vEC2O31kUE) | 2:08 |
+| 27 | [Tack Mitt \(X\)](https://open.spotify.com/track/122f2GTwtButQFALowd18H) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Tack Mitt \(X\)](https://open.spotify.com/album/5o3QsdYt30N7vEC2O31kUE) | 2:08 |
 | 28 | [Baby](https://open.spotify.com/track/3Cw3cbweBOafJuvsATiU5x) | [PALUZ](https://open.spotify.com/artist/36lWmZhYl2t0MLEPfQeiot), [Tior](https://open.spotify.com/artist/6KaTv7Raj8MjHxOkVrO6d5) | [Baby](https://open.spotify.com/album/1E0VuMZ62J4ga44UZ559HD) | 2:06 |
 | 29 | [Euro](https://open.spotify.com/track/4ryCepwC2gA7Tbhq2LRmvI) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Vägen in](https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh) | 2:24 |
 | 30 | [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 |

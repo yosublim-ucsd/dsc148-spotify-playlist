@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Damiano David
 
-439 songs - 1 day 3 hr 10 min
+440 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [lovely \- Spotify Singles](https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:18 | 2022-10-12 | 2025-01-30 |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2021-09-24 |  |
 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 | 2021-09-24 | 2022-07-25 |
-| [Lucid Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 2:45 | 2022-03-24 |  |
+| [Lucid Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 2:45 | 2022-03-24 | 2025-02-06 |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-09-24 |  |
 | [Made to Fall in Love](https://open.spotify.com/track/44MHQm2WIvsAXg14WKpCQp) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/6b9yL2FJ7aKRchfINnM0I4) | 4:53 | 2022-06-07 | 2024-04-19 |
 | [Made to Fall in Love](https://open.spotify.com/track/67PfKFPREimYeu8UPAUVAK) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/2AxOupTQ54kHBQkqTLT03M) | 4:53 | 2021-09-24 | 2022-07-17 |
@@ -327,6 +327,7 @@
 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 | 2021-09-24 |  |
 | [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 | 2021-09-24 | 2022-07-28 |
 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 | 2022-06-07 | 2023-01-19 |
+| [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-05 |  |
 | [Släpper allt \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0oPWMoJa3yxty4vvyFNz5u) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Spotify Singles](https://open.spotify.com/album/0smYhS2gKT2HFZDXGcK9LX) | 4:06 | 2021-09-24 | 2022-07-19 |
 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 | 2021-09-24 |  |
 | [Snake Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1U2dV8zPema3dhF24NfIrO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Spotify Singles](https://open.spotify.com/album/2HY1zxQvBup7go6hEWYl31) | 2:46 | 2022-03-24 | 2022-04-17 |

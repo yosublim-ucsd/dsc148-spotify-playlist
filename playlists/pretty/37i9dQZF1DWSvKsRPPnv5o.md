@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 03 Greedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,022 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,073 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 15 | [Ghetto](https://open.spotify.com/track/2F28o4Yl4RH6FvCdSOe0qN) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Tru Carr](https://open.spotify.com/artist/70LeECrcNFIOvGZqe8byzQ) | [Ghetto](https://open.spotify.com/album/4Z8QeomU8aaUTATnF8STy3) | 2:10 |
 | 16 | [Life Of A Hot Nigga](https://open.spotify.com/track/3sj9ebwU57QjJpvpu0DGiK) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Can't Stop Won't Stop 2](https://open.spotify.com/album/3CIhzIIWwWPPHpxSy9sQjl) | 2:23 |
 | 17 | [Gunz N Smoke \(feat\. 50 Cent & Eminem\)](https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:33 |
-| 18 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 18 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 19 | [Judge Judy](https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 |
 | 20 | [Said And Done](https://open.spotify.com/track/5Y1GBrE0OjLNSY74rtUbPI) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You \(Deluxe\)](https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU) | 2:33 |
 | 21 | [Not What You Think](https://open.spotify.com/track/3EPWQOyuyCBi23OpIL6NDt) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Not What You Think](https://open.spotify.com/album/2XBOWKsjWM9TF3d19mzGzq) | 3:30 |

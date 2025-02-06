@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-692 songs - 1 day 14 hr 39 min
+696 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Godzilla](https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Godzilla](https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al) | 4:49 | 2023-01-16 | 2023-04-11 |
 | [Gone](https://open.spotify.com/track/5y3x7FvPWvwqBVZh2y0cnt) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [When You're Feeling Blue](https://open.spotify.com/album/6DjofmCIg60gyGPJe3lWVk) | 2:44 | 2023-05-15 | 2023-05-23 |
 | [good cry](https://open.spotify.com/track/3tuuvlzu72PRKCb9IxFXst) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 2:39 | 2023-09-25 | 2023-10-03 |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2025-02-05 |  |
 | [Good, but not together](https://open.spotify.com/track/6YiR17DGpJa5r4X7RjwCwW) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/5CG9626TPlTSDlOlsVXafP) | 3:03 | 2023-03-06 | 2023-06-26 |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-08-19 | 2023-01-01 |
 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-12-01 | 2023-02-23 |
@@ -447,6 +448,7 @@
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2024-07-02 |  |
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-05 | 2023-03-07 |
 | [one night](https://open.spotify.com/track/1aWXdwrRg1LahBt4Wn7yWZ) | [csurf](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [one night](https://open.spotify.com/album/6nyLLsYqQPX68hNag7N6tY) | 2:46 | 2023-01-09 | 2023-01-19 |
+| [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2025-02-05 |  |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-13 | 2023-08-22 |
 | [Orange Juice \- Spotify Singles](https://open.spotify.com/track/0MYm41WIh9hIRNDc20LPpb) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 4:52 | 2023-05-15 | 2023-06-13 |
 | [Orlando](https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Orlando](https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl) | 4:35 | 2022-11-14 | 2023-03-21 |
@@ -524,6 +526,7 @@
 | [see u](https://open.spotify.com/track/5BiIlyxCaxD6wfwJYCxcZv) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [see u](https://open.spotify.com/album/4wVugNew9PUtRxS7bliTYF) | 3:04 | 2022-06-13 | 2022-06-27 |
 | [see you soon](https://open.spotify.com/track/4WNgNFce9OOslDBQWKNKDa) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [before we say goodbye](https://open.spotify.com/album/0TBFC1vfrdOWijUL1wNygO) | 2:52 | 2023-10-09 | 2023-10-31 |
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-06-06 | 2022-08-02 |
+| [Shakes](https://open.spotify.com/track/3O7CKRzUtXwdsYCjv8lOoj) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 3:14 | 2025-02-05 |  |
 | [she\-rex](https://open.spotify.com/track/3f2BR1qNYODnMq3ncGQ1SV) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 1:51 | 2023-09-06 | 2023-09-11 |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-14 | 2023-06-26 |
 | [Silent Dream](https://open.spotify.com/track/7iXvlrUHFsLAH3neUpxIfM) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Charm of Pleasure](https://open.spotify.com/album/6YrdjgvM2rx0BQ3yQFAJuH) | 3:33 | 2022-09-18 | 2022-10-11 |
@@ -546,6 +549,7 @@
 | [South Dakota](https://open.spotify.com/track/1KQzmzPvKuqQmOobUq1bDy) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 2:35 | 2023-04-24 | 2023-05-16 |
 | [Sparrows](https://open.spotify.com/track/5aacBMBoY2rFQQQBnnXYLT) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [Sparrows](https://open.spotify.com/album/6RngpIkJkMnhiuACZzrzoG) | 3:07 | 2023-08-13 | 2023-08-22 |
 | [St\. Beater Camry](https://open.spotify.com/track/3u7s57agRpvdm0JSkG3pny) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [ILYSM](https://open.spotify.com/album/34tf3KVea0r8Ee5jUE6HH9) | 5:14 | 2022-10-17 | 2022-10-25 |
+| [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2025-02-05 |  |
 | [Starting Over](https://open.spotify.com/track/4VWVtPsN2r56U1rkYelNpp) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Starting Over](https://open.spotify.com/album/69f4TVwg3u4nHsXp1CHHba) | 3:37 | 2023-10-09 | 2023-10-18 |
 | [Stay Anything](https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Anything](https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA) | 3:28 | 2023-03-14 | 2023-07-17 |
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-17 | 2022-12-13 |

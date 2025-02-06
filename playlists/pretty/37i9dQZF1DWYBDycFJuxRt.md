@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/335193">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/335384">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,035 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,067 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 74 | [Pray](https://open.spotify.com/track/29OH6Yv2aDsTZIj3zGpcPQ) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [yuzuha](https://open.spotify.com/artist/1E1ZQGewEUYhLSd3hvreon), [Emma Aibara](https://open.spotify.com/artist/1Wo7lRX3AtN9AD3hUiwjW7) | [Pray](https://open.spotify.com/album/0M85AB9PFppW9IktMVYawQ) | 3:55 |
 | 75 | [fortuna \- illequal remix](https://open.spotify.com/track/4MvSWRO3E7EZvBUhdsLnJJ) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6), [DC Mizey](https://open.spotify.com/artist/1HNN3FOrHLzQSRJLOKmmta), [白迦](https://open.spotify.com/artist/3KjADB16nxNieETV9T2RMr), [illequal](https://open.spotify.com/artist/070lv855QuMgSxolesmZnc) | [fortuna \(illequal Remix\)](https://open.spotify.com/album/0TCqnGXVIJVzWEKL3gOcFN) | 3:22 |
 
-Snapshot ID: `Z6LHSQAAAACflJHq8FYqx6sNptPu3s6N`
+Snapshot ID: `Z6Ng4QAAAADP9mNqs/YskOjpwIqbyupx`

@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-296 songs - 18 hr 59 min
+297 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Army Dreamers](https://open.spotify.com/track/2LTCVKCcbKQBoqofOkI0fB) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/0dDwwJPIffSq1ByqBdm9ut) | 2:58 | 2024-07-26 |  |
 | [Baby Boy](https://open.spotify.com/track/2qbw3lSGERDdUawZ736wmN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:22 | 2021-05-06 |  |
 | [Bad News](https://open.spotify.com/track/1nNPoG2hygEvrFGlHdhvJ9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:58 | 2024-11-29 |  |
-| [Baptized In Fear](https://open.spotify.com/track/5rzI6Jnlhx8DgVgsOLorfW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:52 | 2025-02-01 |  |
+| [Baptized In Fear](https://open.spotify.com/track/5rzI6Jnlhx8DgVgsOLorfW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:52 | 2025-02-01 | 2025-02-06 |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-03-29 |  |
 | [Blame It On Me](https://open.spotify.com/track/1ZemPoaj7LBj1RAQrb89EC) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 4:21 | 2022-10-17 |  |
 | [Blessed](https://open.spotify.com/track/0KyzXQhY2yzcb1FYCHkZc2) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:01 | 2021-03-23 |  |
@@ -215,6 +215,7 @@
 | [PROTECTOR](https://open.spotify.com/track/4dsdSwSdBWjlsVzU6iJs3b) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Rumi Carter](https://open.spotify.com/artist/3wagsd3wjqjNVlMLPudipm) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:04 | 2024-03-29 |  |
 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 4:55 | 2020-05-20 |  |
 | [Put On A Smile](https://open.spotify.com/track/4bbJw6usZSqkcmnqjSIOWx) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1) | 4:15 | 2021-11-12 |  |
+| [Red Terror](https://open.spotify.com/track/717s9KFmHhyy5t3xkStS56) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:51 | 2025-02-05 |  |
 | [Reputation](https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:08 | 2022-06-03 |  |
 | [Reunion](https://open.spotify.com/track/7bI7AZYY9xJgo3K2iAOThL) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [アニメ『BNA ビー・エヌ・エー』Complete album](https://open.spotify.com/album/5ZCo1wqpAvjgHieipwTXzZ) | 1:37 | 2020-07-28 |  |
 | [Rey's Theme](https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 3:11 | 2023-12-27 |  |

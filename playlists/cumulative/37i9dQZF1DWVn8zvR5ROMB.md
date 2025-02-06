@@ -4,7 +4,7 @@
 
 > All of the newest country songs in one playlist! Featuring Cole Swindell, Morgan Wallen, Rascal Flatts and more.
 
-8,851 songs - 20 day 4 hr 25 min
+8,852 songs - 20 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6676,6 +6676,7 @@
 | [Slow Dance Around It](https://open.spotify.com/track/5VlRzMyIkzPKrkg858qDHh) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Slow Dance Around It](https://open.spotify.com/album/4nBapt7litc4yXx6z5moNv) | 3:16 | 2024-04-12 | 2024-04-19 |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/5lc6hhwOvfNJjZy5EyrbxG) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/0lxxrZlnRP8K7gIqspSDjU) | 3:54 | 2023-09-29 | 2023-10-07 |
 | [Slow Dancing In A Burning Room \(Studio Version\)](https://open.spotify.com/track/5d2bhtiyylGcaPf70SWA3e) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/25Kg2AqcqSY4FtrUtXc1s7) | 4:14 | 2023-10-13 | 2023-10-21 |
+| [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-05 |  |
 | [Slow Dancing in Jackson, Mississippi](https://open.spotify.com/track/2ORL1dZdTI2MvXpKMCHJza) | [Cyndi Thomson](https://open.spotify.com/artist/1SlB319k1toEaGunEFn6yq) | [Slow Dancing in Jackson, Mississippi](https://open.spotify.com/album/41XVgq5xaIAkOW9IR49piw) | 3:33 | 2024-04-12 | 2024-04-19 |
 | [Slow Down](https://open.spotify.com/track/37cgzhQTxeh0qWnuE5y3iu) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Every Girl](https://open.spotify.com/album/6ojOP2oEJnDwTt7hpelt3Q) | 3:52 | 2022-06-03 | 2022-06-11 |
 | [Slow Down](https://open.spotify.com/track/56EhacvQF6dOcyjenle4tq) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Slow Down](https://open.spotify.com/album/3hZCtdmRCee5ceFggxahJJ) | 2:45 | 2025-01-10 | 2025-01-18 |

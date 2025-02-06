@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,942 likes - 125 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,981 likes - 125 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

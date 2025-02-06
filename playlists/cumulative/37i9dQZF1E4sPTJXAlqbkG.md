@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Frank Ocean, Miguel and more
+> With Brent Faiyaz, Sonder, Frank Ocean and more
 
 629 songs - 1 day 11 hr 46 min
 

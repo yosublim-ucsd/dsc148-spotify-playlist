@@ -13207,6 +13207,28 @@
     },
     {
       "album": {
+        "name": "oxy",
+        "url": "https://open.spotify.com/album/0KkQnHvamwSpZK65JqSljZ"
+      },
+      "artists": [
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "oxy",
+      "url": "https://open.spotify.com/track/3CVeFiaVT1J8aSzjpFoeIj"
+    },
+    {
+      "album": {
         "name": "Pa Darte Fuego",
         "url": "https://open.spotify.com/album/1QbNZEMJn89WdFEi0oAXHt"
       },

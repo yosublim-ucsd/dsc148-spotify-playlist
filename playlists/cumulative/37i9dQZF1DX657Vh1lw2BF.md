@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف:حمزة المحمداوي
 
-144 songs - 8 hr 53 min
+145 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Shaf Rohha](https://open.spotify.com/track/2OAqzCBCLO0o77MvN3rqV5) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [Shaf Rohha](https://open.spotify.com/album/1bR9CBVAdpcjYP1JsW2oLB) | 3:26 | 2022-05-06 | 2022-07-26 |
 | [Shftk](https://open.spotify.com/track/344n9BZhttkQXHYPQiqscc) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Shftk](https://open.spotify.com/album/2OKBBHxc16UgYpMp7dJniH) | 2:47 | 2022-05-06 | 2022-05-26 |
 | [Shkad Helw](https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Shkad Helw](https://open.spotify.com/album/1gY8BkJKLoAOa3CLMCcUcB) | 3:28 | 2022-05-06 | 2022-10-26 |
+| [Shkolateh](https://open.spotify.com/track/7JUEv4UV5hai4XcMLukdQ3) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Shkolateh](https://open.spotify.com/album/54KPf024xUDQpcU1pTSVwD) | 2:42 | 2025-02-05 |  |
 | [Shoufou Mino Eja](https://open.spotify.com/track/15Dp9MVbqZ29MsvWv5aBpx) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Shoufou Mino Eja](https://open.spotify.com/album/1k6xcHaOEmjBt3qovQWDgQ) | 4:31 | 2022-12-02 | 2023-12-30 |
 | [Sit Wojooh](https://open.spotify.com/track/1yjah9rjkjHM9zorRJ7oEi) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Sit Wojooh](https://open.spotify.com/album/5lapnHKZ01fTIP2doKGWUM) | 3:07 | 2022-05-06 | 2023-04-27 |
 | [Taab Sneen](https://open.spotify.com/track/2EB1gv4fSO6bykTkLOweFG) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Taab Sneen](https://open.spotify.com/album/5iBj6QDIsnPEIZMUYJnCVT) | 4:37 | 2022-05-06 | 2022-12-03 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: e4444e
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,615 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,636 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Leaving Home](https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Leaving Home](https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB) | 5:32 |
 | 2 | [Liberation](https://open.spotify.com/track/05FkeiXi5eALIY8lcys7Nm) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Liberation](https://open.spotify.com/album/6ZPxrtGP3OcbfAo0hbvC0L) | 2:22 |
-| 3 | [Girls On The Internet](https://open.spotify.com/track/0WDxvH1bVNcBufkEcv5eb8) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Girls On The Internet](https://open.spotify.com/album/3DR5jShLK80E3NXJGUKxnp) | 2:55 |
+| 3 | [Girls on the Internet](https://open.spotify.com/track/0WDxvH1bVNcBufkEcv5eb8) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Girls on the Internet](https://open.spotify.com/album/3DR5jShLK80E3NXJGUKxnp) | 2:55 |
 | 4 | [I Would](https://open.spotify.com/track/7jfAJrVOhojsiWsr2fxpQ0) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Rush](https://open.spotify.com/album/6pSCibqEHlM0iunF7PufNU) | 3:47 |
 | 5 | [S.N.C](https://open.spotify.com/track/335vJ5AwekBqjaj1XjmRnd) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [S.N.C](https://open.spotify.com/album/0oaI0qO5yCMuaQ7hcczrmj) | 5:55 |
 | 6 | [Verrans Corner](https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms), [Leith Sye Towers](https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq) | [Verrans Corner](https://open.spotify.com/album/61B0gyR89D3jQd75TfQ5wj) | 3:22 |

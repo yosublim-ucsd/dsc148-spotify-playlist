@@ -2,7 +2,7 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: The Game
+> Taking it way back! Cover: 2Pac
 
 316 songs - 22 hr 48 min
 

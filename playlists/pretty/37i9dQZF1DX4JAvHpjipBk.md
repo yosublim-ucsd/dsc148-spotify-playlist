@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from JENNIE, The Weeknd, Morgan Wallen, SASAMI & Clairo, Jamie xx, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,281,698 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,281,812 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 42 | [Champagne Taste](https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Champagne Taste](https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2) | 3:12 |
 | 43 | [Me Pasa \(Piscis\)](https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [Me Pasa \(Piscis\)](https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs) | 3:21 |
 | 44 | [Drop](https://open.spotify.com/track/63JgXc0KFuJ0L56E0gjqX8) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Drop](https://open.spotify.com/album/5hMekWTlnb8UKJohroZLQy) | 4:16 |
-| 45 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 45 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 46 | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx) | 2:30 |
 | 47 | [Favorite One](https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Favorite One](https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL) | 2:56 |
 | 48 | [A Solas con la Botella](https://open.spotify.com/track/4eOCDe8x4K4bFIhpbtIbfZ) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [PA'L CORA EP\. 02](https://open.spotify.com/album/21oGI6V204SgNkl2iXmtjQ) | 4:13 |

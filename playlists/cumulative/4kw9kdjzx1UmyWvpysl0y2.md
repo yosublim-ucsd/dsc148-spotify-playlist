@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-909 songs - 2 day 3 hr 36 min
+910 songs - 2 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 | 2023-03-08 | 2023-05-30 |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 | 2022-07-21 |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 | 2022-06-10 |
+| [Foul](https://open.spotify.com/track/678Xgl1L3zy2RR1QQO44zm) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Foul \(RAIZHELL Remix\)](https://open.spotify.com/album/3n1dpx6mzHp6UA5uw8F7VU) | 2:59 | 2025-02-05 |  |
 | [Foul](https://open.spotify.com/track/6mtSPyT95BNKiUQ4SyijQ3) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Foul](https://open.spotify.com/album/2Ih0SUroIXP1GRigQxuc8B) | 2:59 | 2024-10-04 | 2025-01-11 |
 | [Frequency Fusion](https://open.spotify.com/track/5VeCxkNBNIp5wwHk6XkQY2) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Frequency Fusion](https://open.spotify.com/album/4gKmRkOzbynrohmMZQOkwl) | 2:47 | 2023-09-01 | 2023-12-14 |
 | [FULL ASSAULT](https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8), [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [FULL ASSAULT / ALL THAT U WANT](https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS) | 2:44 | 2022-09-29 | 2022-12-02 |

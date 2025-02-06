@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Moa Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,187 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,190 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 7 | [QNPLC](https://open.spotify.com/track/7Jgxih7d1sSv5FQHp23vqV) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Tropikal Forever](https://open.spotify.com/artist/1dZ8JzGzmLl5KwEX3rOTc4) | [Intro \- QNPLC](https://open.spotify.com/album/6GCqjkL9Qqdc0Y5RT8v1ze) | 3:52 |
 | 8 | [El Reclamo \- Bachata](https://open.spotify.com/track/0jlwNYmvAK5xBYUDGj7Qd4) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [El Reclamo \(Bachata\)](https://open.spotify.com/album/5Ho9NrNxyyTzi8J6fZ53Kv) | 3:01 |
 | 9 | [Yo Me Lo Busqué](https://open.spotify.com/track/1pDQSuzM9i7dgi5GKD5qJI) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Yo Me Lo Busqué](https://open.spotify.com/album/4Mca9dy70yjLL1p79ItASf) | 2:40 |
-| 10 | [Y Si Se Quiere Ir](https://open.spotify.com/track/54G1IvYJQLPNlKEMxF3Kwn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Sandronyc](https://open.spotify.com/artist/5kmkNsW1vHzkOiG5nB3jsp) | [Y Si Se Quiere Ir](https://open.spotify.com/album/4sSGKyUasnz00ys394IZeR) | 2:48 |
+| 10 | [Y Si Se Quiere Ir](https://open.spotify.com/track/54G1IvYJQLPNlKEMxF3Kwn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Y Si Se Quiere Ir](https://open.spotify.com/album/4sSGKyUasnz00ys394IZeR) | 2:48 |
 | 11 | [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 |
 | 12 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 |
 | 13 | [Clásicos 1.0: Entrega](https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0: Entrega](https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq) | 4:57 |

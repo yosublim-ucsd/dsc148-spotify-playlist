@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Norman Hutchins, Dorothy Norwood and more
+> With Sunday Service Choir, Norman Hutchins, Commissioned and more
 
 1,658 songs - 5 day 4 hr 28 min
 

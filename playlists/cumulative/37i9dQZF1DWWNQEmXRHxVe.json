@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Music from the most memorable halftime shows. Cover: Beyonc\u00e9",
+  "description": "Music from the most memorable halftime shows. Cover: Kendrick Lamar",
   "name": "Halftime Hits",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 227250,
       "name": "16 CARRIAGES",
       "url": "https://open.spotify.com/track/6XXxKsu3RJeN3ZvbMYrgQW"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
@@ -692,9 +692,9 @@
       ],
       "date_added": "2018-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
+      "name": "Crazy In Love (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
@@ -848,7 +848,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 206080,
       "name": "Formation",
       "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 189638,
       "name": "JOLENE",
       "url": "https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 257699,
       "name": "LEVII'S JEANS",
       "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
@@ -1603,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -1618,7 +1640,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 350120,
       "name": "m.A.A.d city",
       "url": "https://open.spotify.com/track/439TlnnznSiBbQbgXiBqAd"
@@ -1804,7 +1826,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 262941,
       "name": "MY HOUSE",
       "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
@@ -1848,10 +1870,28 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 326240,
       "name": "No More Drama",
       "url": "https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U"
+    },
+    {
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "album": {
@@ -2076,7 +2116,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 216333,
       "name": "Reflection - Pop Version",
       "url": "https://open.spotify.com/track/1haQRuZnoggW6U6l5jFIj9"
@@ -2112,7 +2152,7 @@
       ],
       "date_added": "2018-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 330933,
       "name": "Rhythm Nation",
       "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
@@ -2130,7 +2170,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 251986,
       "name": "RIIVERDANCE",
       "url": "https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4"
@@ -2184,7 +2224,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 236093,
       "name": "Run the World (Girls)",
       "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
@@ -2340,7 +2380,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 193213,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
@@ -2402,10 +2442,28 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 158477,
       "name": "SPAGHETTII",
       "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
       "album": {
@@ -2562,7 +2620,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 296185,
       "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
       "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
@@ -2616,7 +2674,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
@@ -2634,7 +2692,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 200737,
       "name": "TEXAS HOLD 'EM (PONY UP) REMIX",
       "url": "https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7"
@@ -3168,7 +3226,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 274766,
       "name": "YA YA",
       "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"

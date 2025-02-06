@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > ¡Este 2025 ponte cursi con las canciones más románticas! La Arrolladora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,035 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,084 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

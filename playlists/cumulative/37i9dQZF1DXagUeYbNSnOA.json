@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Maria Nastenka. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Macario Mart\u00ednez. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -828,7 +828,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 146560,
       "name": "6:00 P.M.",
       "url": "https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer"
@@ -5462,7 +5462,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 183696,
       "name": "Beso de Luna",
       "url": "https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz"
@@ -5704,7 +5704,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 163928,
       "name": "biensinm\u00ed",
       "url": "https://open.spotify.com/track/7vfFxwfgVZF2zGwETvMLn8"
@@ -6038,7 +6038,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 169365,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
@@ -6414,6 +6414,28 @@
       "duration_ms": 242602,
       "name": "Buen Augurio",
       "url": "https://open.spotify.com/track/7FWeN4YU7zAmvhMpoDBvyO"
+    },
+    {
+      "album": {
+        "name": "Buen D\u00eda",
+        "url": "https://open.spotify.com/album/4zSeBdLe73A6nyRk4yKUCq"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Living",
+          "url": "https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR"
+        },
+        {
+          "name": "EL TRILL",
+          "url": "https://open.spotify.com/artist/6g8VaWNQvTp7cWXGhlbUqQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163298,
+      "name": "Buen D\u00eda",
+      "url": "https://open.spotify.com/track/7GbpQQflmd40nbQgVihaPS"
     },
     {
       "album": {
@@ -14589,6 +14611,24 @@
     },
     {
       "album": {
+        "name": "Ema",
+        "url": "https://open.spotify.com/album/2tQLsBeW3xVSbVpkQlqmlP"
+      },
+      "artists": [
+        {
+          "name": "Romaric",
+          "url": "https://open.spotify.com/artist/3e6u95VEoeFpZKbDISofWC"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226346,
+      "name": "Ema",
+      "url": "https://open.spotify.com/track/3VNbCbYSI85XPE0nE5bNei"
+    },
+    {
+      "album": {
         "name": "EME",
         "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
       },
@@ -14806,6 +14846,32 @@
       "duration_ms": 182049,
       "name": "en el sill\u00f3n",
       "url": "https://open.spotify.com/track/5I9Dmz78zQanON1oipeJ8Y"
+    },
+    {
+      "album": {
+        "name": "En la mia <3",
+        "url": "https://open.spotify.com/album/7pJLTICKOF54c0ocnwGsGG"
+      },
+      "artists": [
+        {
+          "name": "GYO",
+          "url": "https://open.spotify.com/artist/3EAJ2SzsYLRaO7OJVVt3Qi"
+        },
+        {
+          "name": "Raiser Suena Nitido",
+          "url": "https://open.spotify.com/artist/1DVjct7OqhhWYF9DN9dc70"
+        },
+        {
+          "name": "Ese Manuel",
+          "url": "https://open.spotify.com/artist/5XEPPmN9Do2SZn222IF6BE"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211952,
+      "name": "En la mia <3",
+      "url": "https://open.spotify.com/track/2VTvp8pytd7ZHkSwfXWWmV"
     },
     {
       "album": {
@@ -17908,7 +17974,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 158360,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U"
@@ -21266,7 +21332,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 191190,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/3WM2fgJdDH9U8iJwD5geEO"
@@ -30909,6 +30975,24 @@
     },
     {
       "album": {
+        "name": "Nunca Volver",
+        "url": "https://open.spotify.com/album/7oxCDeuBBWAHeSIdjieXI8"
+      },
+      "artists": [
+        {
+          "name": "Hugo Segovia",
+          "url": "https://open.spotify.com/artist/4L2dbEdRStg78NCuG4haDB"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Nunca Volver",
+      "url": "https://open.spotify.com/track/10m1107fk0OZGlRtLO7Q57"
+    },
+    {
+      "album": {
         "name": "N\u00e1ufrago",
         "url": "https://open.spotify.com/album/01SK39ZUEWvWxlRG4ye45e"
       },
@@ -31192,6 +31276,24 @@
       "duration_ms": 242814,
       "name": "Ojos Miel",
       "url": "https://open.spotify.com/track/7fiL3yQDzshxG3uC0druW8"
+    },
+    {
+      "album": {
+        "name": "Ojos Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4eXtepNDgm6s0iYDN55v29"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Cayetano",
+          "url": "https://open.spotify.com/artist/0ZzqP0GsvuDLo3NMvk4RrY"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Ojos Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/5gqeCxOhS7HTeggrUzsTTw"
     },
     {
       "album": {
@@ -37669,6 +37771,24 @@
     },
     {
       "album": {
+        "name": "III. Si Mi Fuerte Fuera Hablar",
+        "url": "https://open.spotify.com/album/0srXs6RjbzcltynEcn3Htt"
+      },
+      "artists": [
+        {
+          "name": "Espejos Rotos",
+          "url": "https://open.spotify.com/artist/35FUex2L1BXcdl9RlalI9m"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "Si Mi Fuerte Fuera Hablar",
+      "url": "https://open.spotify.com/track/0cWH1sdoTDBohLkhPeUCHl"
+    },
+    {
+      "album": {
         "name": "Si No Est\u00e1s T\u00fa",
         "url": "https://open.spotify.com/album/2ySzndTOChAIkdU0PKKaMJ"
       },
@@ -38764,6 +38884,24 @@
       "duration_ms": 237000,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/2ToNm8u1Ad7GoSHoz7Cst0"
+    },
+    {
+      "album": {
+        "name": "SOLITO EN A\u00d1O NUEVO",
+        "url": "https://open.spotify.com/album/1MNjhhMIiKyHhpzvI29X7y"
+      },
+      "artists": [
+        {
+          "name": "boscan",
+          "url": "https://open.spotify.com/artist/6mmiHWEbxugrSAcnNMxqyx"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "SOLITO EN A\u00d1O NUEVO",
+      "url": "https://open.spotify.com/track/3NcnuXSY1f9BURgHm1RCDh"
     },
     {
       "album": {
@@ -40346,7 +40484,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 209587,
       "name": "Te conoc\u00ed",
       "url": "https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a"
@@ -46788,6 +46926,24 @@
       "duration_ms": 158571,
       "name": "\u00bfQui\u00e9n Fue?",
       "url": "https://open.spotify.com/track/7BSxbFNHZr4Zl5GXb2d8dy"
+    },
+    {
+      "album": {
+        "name": "Lagunas Brillantes de la Memoria",
+        "url": "https://open.spotify.com/album/731GTPDMW00SzyRrxsylLu"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103220,
+      "name": "\u00bfqu\u00e9 somos hoy?",
+      "url": "https://open.spotify.com/track/7wd6gLSR8rELRaa9eGaPYN"
     },
     {
       "album": {

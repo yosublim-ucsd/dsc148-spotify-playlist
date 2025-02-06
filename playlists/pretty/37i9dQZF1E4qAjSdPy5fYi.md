@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With glitterpop!, Joshua Lanuarii, UrvTek and more
+> With Joshua Lanuarii, glitterpop!, UrvTek and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 563 likes - 50 songs - 2 hr 3 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [2007](https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [2007](https://open.spotify.com/album/18IiJChC01Sa8fwXvTnsKC) | 2:37 |
 | 50 | [don't forget \(to not be a jerk\)](https://open.spotify.com/track/2aU43VxROsnRdmD4jDwic5) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [don't forget \(to not be a jerk\)](https://open.spotify.com/album/3B4h9y3ROMY0axpDKYSljv) | 1:17 |
 
-Snapshot ID: `Z6LQLgAAAAAHE3A3WYEaSaH74fk2i13y`
+Snapshot ID: `Z6Qb2wAAAAAAEMOGBOx9YmvRiFpQF2PS`

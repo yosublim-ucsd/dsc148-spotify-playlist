@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=SJQ223U4QNqhwtvGvFVzbg">Francois van Coke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,069 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,106 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -676,7 +676,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 176053,
       "name": "Dan\u00e7a do Pinguim",
       "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
@@ -1620,6 +1620,24 @@
       "duration_ms": 197731,
       "name": "Todo Olho o Ver\u00e1",
       "url": "https://open.spotify.com/track/5ObzGyGLgiOhAv0etKoboF"
+    },
+    {
+      "album": {
+        "name": "Trem da Alegria",
+        "url": "https://open.spotify.com/album/711osQB33Ck7jmY9hj1eAD"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167592,
+      "name": "Trem da Alegria",
+      "url": "https://open.spotify.com/track/3BviBTZ0kgvpCJkIx2C3Yw"
     },
     {
       "album": {

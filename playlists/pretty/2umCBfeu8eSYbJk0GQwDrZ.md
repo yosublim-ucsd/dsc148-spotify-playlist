@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,649 likes - 60 songs - 3 hr 13 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,647 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 13 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 |
 | 14 | [PLEASE](https://open.spotify.com/track/7ahz5K9xcP6wc8qiqw432P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [PLEASE](https://open.spotify.com/album/0ono1xEy622e3WdiaUO8xe) | 3:27 |
 | 15 | [Greenish Yellow](https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Greenish Yellow](https://open.spotify.com/album/74tvNoiKo4npSAeLsIoCIE) | 3:23 |
-| 16 | [Girls On The Internet](https://open.spotify.com/track/0WDxvH1bVNcBufkEcv5eb8) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Girls On The Internet](https://open.spotify.com/album/3DR5jShLK80E3NXJGUKxnp) | 2:55 |
+| 16 | [Girls on the Internet](https://open.spotify.com/track/0WDxvH1bVNcBufkEcv5eb8) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Girls on the Internet](https://open.spotify.com/album/3DR5jShLK80E3NXJGUKxnp) | 2:55 |
 | 17 | [Need Me Now](https://open.spotify.com/track/3EE39Y16Y6WX0LFQtCfpCl) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Need Me Now](https://open.spotify.com/album/4RKT0dao3wzOE4ONfrOT6q) | 3:14 |
 | 18 | [Oliver](https://open.spotify.com/track/4SetYrqq8Uac7KrXik9Jow) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Oliver](https://open.spotify.com/album/2CN0hgmf8YvQK5lDej3NOq) | 3:11 |
 | 19 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 |

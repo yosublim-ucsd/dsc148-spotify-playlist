@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,757 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,788 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 19 | [Happy Ending](https://open.spotify.com/track/3jlENhhEfTrOkKC204YXg5) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [YUM](https://open.spotify.com/album/4rCwoAHh3to9CHlM1T5d0y) | 3:06 |
 | 20 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 |
 | 21 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
-| 22 | [Embrace](https://open.spotify.com/track/5WERPcQPyitRnEziy31Bbf) | [The Ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7), [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Embrace](https://open.spotify.com/album/75mwki2wQl9naMDHhs5F30) | 2:39 |
+| 22 | [Embrace](https://open.spotify.com/track/5WERPcQPyitRnEziy31Bbf) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7), [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Embrace](https://open.spotify.com/album/75mwki2wQl9naMDHhs5F30) | 2:39 |
 | 23 | [Tell The Truth \(with H33RA & S.A.M\)](https://open.spotify.com/track/4jInFiDPGaOunKU7yuDReg) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM), [S.A.M](https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb) | [Tell The Truth \(with H33RA & S.A.M\)](https://open.spotify.com/album/2LEjL03Am1uieiBLNT6oqd) | 2:46 |
 | 24 | [twin flames](https://open.spotify.com/track/1XUpTTmp71kdYqsQQComQ6) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:53 |
 | 25 | [No Crime](https://open.spotify.com/track/5zVlLHJyzMuOgMLFiTXLRE) | [Kinar](https://open.spotify.com/artist/6Y5TRa3H8RYrbdUuNfVbdb) | [No Crime](https://open.spotify.com/album/2GMxRYiW4spH31Ag2X98sO) | 3:49 |

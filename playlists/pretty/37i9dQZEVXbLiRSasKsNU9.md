@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775,800 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,775,869 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 19 | [Ishq Hai](https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6) | 5:12 |
 | 20 | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/4YnC3EgoRzP14QXVDBuTfF) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/album/6tz75fOe1tirQPA9UPdu8p) | 2:35 |
 | 21 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 |
-| 22 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 |
+| 22 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 |
 | 23 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
 | 24 | [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 |
 | 25 | [Una Noche Más](https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Una Noche Más](https://open.spotify.com/album/5pmu24zVnh7HyBh1TGsaep) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 49 | [Raving In The Studio](https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Raving In The Studio](https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO) | 3:03 |
 | 50 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

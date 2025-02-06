@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,250,716 likes - 200 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,251,138 likes - 200 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 151 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
 | 152 | [Inner Circle](https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Inner Circle](https://open.spotify.com/album/2M1BIG6uhYyndZdG7tEsNz) | 3:57 |
 | 153 | [All Inclusive](https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ) | 6:27 |
-| 154 | [On My Way](https://open.spotify.com/track/1oUQXAmLFtTNRIwgRfWOTf) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Frankie Polari](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9) | [By The River](https://open.spotify.com/album/6mFZIdcPLbzEHmauKA4iKA) | 2:51 |
+| 154 | [On My Way](https://open.spotify.com/track/1oUQXAmLFtTNRIwgRfWOTf) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Artonal](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9) | [By The River](https://open.spotify.com/album/6mFZIdcPLbzEHmauKA4iKA) | 2:51 |
 | 155 | [I Am Human](https://open.spotify.com/track/1AUmprQhFQT2iEijMQOxIX) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [I Am Human](https://open.spotify.com/album/4EBT8zKxfovEcG7J85jSgF) | 5:00 |
 | 156 | [Partyman 3000](https://open.spotify.com/track/4QKAkux3PgARFLf2OjZQeu) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Partyman 3000](https://open.spotify.com/album/1Q8CtTaYYcfpNWXK1U7arG) | 3:15 |
 | 157 | [Vajkoczy \- Edit](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 2:52 |

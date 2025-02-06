@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,592 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,635 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 28 | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/track/3PyfzEyTIgqKdsXRyFTKOj) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 4:26 |
 | 29 | [Bananaphone](https://open.spotify.com/track/2Uu4AnnMTJpevC0IrwAuOW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Bananaphone](https://open.spotify.com/album/1y772v6xDzzRWlaYWcNWHq) | 3:14 |
 | 30 | [This Old Man](https://open.spotify.com/track/0mXkCgqq5Vv86c4lW8Ec1H) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 2:15 |
-| 31 | [John Jingleheimer Schmidt \- 2012 Version](https://open.spotify.com/track/3WjmjGKIerosWGLGsrFHKU) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Silly Sing\-Along Songs](https://open.spotify.com/album/13b54xTbPBMlcf9v3F9eZL) | 1:36 |
+| 31 | [John Jingleheimer Schmidt](https://open.spotify.com/track/3WjmjGKIerosWGLGsrFHKU) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Silly Sing\-Along Songs](https://open.spotify.com/album/13b54xTbPBMlcf9v3F9eZL) | 1:36 |
 | 32 | [Kiss the Girl \- From "The Little Mermaid"/ Soundtrack Version](https://open.spotify.com/track/4F1fdteEm8Oe2GNUA7ON5S) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Greatest Hits](https://open.spotify.com/album/3fEvkXjnmWNotOWFrhnVjP) | 2:42 |
 | 33 | [BINGO](https://open.spotify.com/track/7l4EYTzxQM4Z3e4VYPRTwI) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 1 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/51624I5t3Uc6N89pHQw6CF) | 1:56 |
 | 34 | [Itsy Bitsy Spider](https://open.spotify.com/track/4l9Rzfhif755mKMZi0D7SN) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 1](https://open.spotify.com/album/2a2nYyaG1motO7PVwMA0wE) | 2:09 |

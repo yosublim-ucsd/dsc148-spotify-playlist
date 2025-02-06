@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 183757,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/3IbMLc7Ku6lYicyycgPkyP"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 212914,
       "name": "Death Oath",
       "url": "https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz"
@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Depraved Idol",
+        "url": "https://open.spotify.com/album/6TqWBOgLzqNVZBZ3neOBWK"
+      },
+      "artists": [
+        {
+          "name": "God Complex",
+          "url": "https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152437,
+      "name": "Depraved Idol",
+      "url": "https://open.spotify.com/track/5kt6KuCw6Zve6JhI4xRV4a"
+    },
+    {
+      "album": {
         "name": "Killing of a Sacred Deer",
         "url": "https://open.spotify.com/album/0GmcJfefLMz7y1juV1jXCB"
       },
@@ -904,6 +922,24 @@
       "duration_ms": 160202,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/4Ov0kwPSOJdxvkjvIGrBKI"
+    },
+    {
+      "album": {
+        "name": "devotion",
+        "url": "https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209757,
+      "name": "devotion",
+      "url": "https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3"
     },
     {
       "album": {
@@ -976,6 +1012,24 @@
       "duration_ms": 223750,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/7a957bW9KUpPX1mSS8d0gX"
+    },
+    {
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/1qHPriX7LHRbmHGipxiejc"
+      },
+      "artists": [
+        {
+          "name": "Paradise Slaves",
+          "url": "https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220768,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/4oWEx37CIWFR77DOWNBRIs"
     },
     {
       "album": {
@@ -1084,7 +1138,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 194142,
       "name": "Expect the Worst",
       "url": "https://open.spotify.com/track/1XCIVwQjW72e9yHd1azcqB"
@@ -1272,7 +1326,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 193553,
       "name": "FUHAI",
       "url": "https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL"
@@ -1344,7 +1398,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 247916,
       "name": "God of Oblivion",
       "url": "https://open.spotify.com/track/05k5d65mfc78PpwmiUwwf4"
@@ -1656,6 +1710,42 @@
       "duration_ms": 219130,
       "name": "I'll Give You Hell",
       "url": "https://open.spotify.com/track/5AFm4hEnZAdCpGWwcvVOKz"
+    },
+    {
+      "album": {
+        "name": "In His Blood",
+        "url": "https://open.spotify.com/album/27lfaxifmBhhFlykviq4P7"
+      },
+      "artists": [
+        {
+          "name": "Vacuous",
+          "url": "https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "In His Blood",
+      "url": "https://open.spotify.com/track/3BC09ERwBh9rf2x7GGKjKY"
+    },
+    {
+      "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/4Srahb17IcadwNRxb8GIaA"
+      },
+      "artists": [
+        {
+          "name": "LUMENS",
+          "url": "https://open.spotify.com/artist/60DI1CV1J1duDsDo54A59m"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/7Mk6jjIIZoHAjm9H5satgo"
     },
     {
       "album": {
@@ -2431,6 +2521,42 @@
     },
     {
       "album": {
+        "name": "Seer",
+        "url": "https://open.spotify.com/album/30Z5b4NvhlmUvsZSmae7kA"
+      },
+      "artists": [
+        {
+          "name": "The Man-Eating Tree",
+          "url": "https://open.spotify.com/artist/6WXlGSfgUApP9UCG8npAM8"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280509,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/4rTksefJUmU45NGod7W4sd"
+    },
+    {
+      "album": {
+        "name": "Self Inflicted",
+        "url": "https://open.spotify.com/album/1lcpXIUNNeeQHM6WGNuIuY"
+      },
+      "artists": [
+        {
+          "name": "Bisa",
+          "url": "https://open.spotify.com/artist/18xZoRR45wHJgMhjP94BRt"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263736,
+      "name": "Self Inflicted",
+      "url": "https://open.spotify.com/track/0Of94IedXNlKfIVegEKUFp"
+    },
+    {
+      "album": {
         "name": "Self Sabotage",
         "url": "https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K"
       },
@@ -2530,6 +2656,24 @@
       "duration_ms": 264466,
       "name": "Shadow Dancer",
       "url": "https://open.spotify.com/track/1JGV8Iy09eMNAYls0fYx8h"
+    },
+    {
+      "album": {
+        "name": "Silence and Anger",
+        "url": "https://open.spotify.com/album/3BzB9IGBO5DLqDMfbTJhA7"
+      },
+      "artists": [
+        {
+          "name": "Basterds",
+          "url": "https://open.spotify.com/artist/6xVKy3vtmK37fIthk9ic3o"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133344,
+      "name": "Silence and Anger",
+      "url": "https://open.spotify.com/track/58cTBYVkGQOV7Hu6xMPPXO"
     },
     {
       "album": {
@@ -3016,10 +3160,28 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 223162,
       "name": "The Riddle",
       "url": "https://open.spotify.com/track/4tv15LLpV5i4DSJdbrkY7o"
+    },
+    {
+      "album": {
+        "name": "The Second Stage: Denial",
+        "url": "https://open.spotify.com/album/2gW68OSut7Nh8yGpBI1dhf"
+      },
+      "artists": [
+        {
+          "name": "Mares of Thrace",
+          "url": "https://open.spotify.com/artist/0qeQtOu0Sd9qCkqFl4OEd8"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341853,
+      "name": "The Second Stage: Denial",
+      "url": "https://open.spotify.com/track/3HLYAJnmYIlEksYB2SENNR"
     },
     {
       "album": {
@@ -3316,6 +3478,24 @@
       "duration_ms": 197124,
       "name": "vain conceit",
       "url": "https://open.spotify.com/track/5deTZlsApQuqK6U7zkGdb9"
+    },
+    {
+      "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/2fS2HfXoGQKLuY22KOFr9p"
+      },
+      "artists": [
+        {
+          "name": "Abbie Falls",
+          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261487,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/2MmJg1AUWL9hFrpIEYfl8T"
     },
     {
       "album": {

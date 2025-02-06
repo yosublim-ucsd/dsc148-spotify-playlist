@@ -4,7 +4,7 @@
 
 > the new spice girls? 👩🏻👩🏼👩🏻‍🦰
 
-1,574 songs - 3 day 10 hr 59 min
+1,576 songs - 3 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [A\-O\-K \- with 24kGoldn](https://open.spotify.com/track/7GZXPa81LzAgzmVg9G6BUM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [A\-O\-K \(with 24kGoldn\)](https://open.spotify.com/album/4z9gPo4RNhMWiZvBv0JZTA) | 3:01 | 2022-05-19 | 2022-07-29 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-05-19 | 2025-01-08 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-19 | 2023-08-04 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-05 |  |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-24 | 2025-01-08 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-07-01 | 2025-01-08 |
 | [Aimed to Kill](https://open.spotify.com/track/1LwN1vneEoonBcf1FcZPyJ) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill \(Piano & Chill Versions\)](https://open.spotify.com/album/6mMs1FruSyW2MEAhtMXvtc) | 3:22 | 2022-11-10 | 2022-11-13 |
@@ -208,6 +209,7 @@
 | [break my heart](https://open.spotify.com/track/5nlKcuzD8Pd79njhGXt1vT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [break my heart](https://open.spotify.com/album/3Bx72slNcFS4gRjmtiBl7b) | 2:58 | 2022-09-01 | 2025-01-08 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2025-01-08 |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-23 | 2025-01-08 |
+| [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2025-02-05 |  |
 | [Breathe](https://open.spotify.com/track/267nfLfaSSDa9ivHncHynh) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Take Shelter](https://open.spotify.com/album/2dzxJbiJKhQo2aqUrtjZP0) | 3:53 | 2024-11-07 |  |
 | [Broken](https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq) | 3:36 | 2023-09-28 | 2024-04-19 |
 | [Broken](https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA) | 3:36 | 2022-10-12 | 2025-01-08 |

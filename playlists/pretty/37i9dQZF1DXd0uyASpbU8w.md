@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=JSjNy0j\-ThaXPGg4PoiSYQ">Sjava</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,091 likes - 64 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,149 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 23 | [Black Cards](https://open.spotify.com/track/4R5ejh83SsZhAMg0TUJ908) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Black Cards](https://open.spotify.com/album/0hRBMww44Y0qThpyWU1fWJ) | 2:24 |
 | 24 | [Sauce God](https://open.spotify.com/track/3XT8RVeFNUL0gP1z5m8Pv6) | [Espiquet](https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz) | [Attitude Era](https://open.spotify.com/album/0tBqgbZJvzFTDn8CGQXyax) | 1:40 |
 | 25 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
-| 26 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 26 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 27 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
 | 28 | [Okuncinci](https://open.spotify.com/track/5rGBLBw1lPhSKIKpFlDfue) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Okuncinci](https://open.spotify.com/album/21sPwILtyDfT41KVxEuXh0) | 4:18 |
 | 29 | [LOVE \(feat\. Sbu Keys & Reed\)](https://open.spotify.com/track/1F5pXqNIpPvhW3FcONfkfu) | [Vic\_typhoon](https://open.spotify.com/artist/5xvUUSVggxeBeWGBEmCRh6), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Sbu Keys](https://open.spotify.com/artist/1YlfkPHEElYptLRQzLEKg4), [Reed](https://open.spotify.com/artist/4tCGRoI7zhPtJvKoyZEJES) | [LOVE \(feat\. Sbu Keys & Reed\)](https://open.spotify.com/album/1mNQgidSWudzvdB3mOsLkT) | 4:09 |

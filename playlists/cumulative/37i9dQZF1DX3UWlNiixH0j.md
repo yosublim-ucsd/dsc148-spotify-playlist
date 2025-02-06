@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: brkfstblend
 
-2,141 songs - 5 day 13 hr 45 min
+2,142 songs - 5 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [For a long time](https://open.spotify.com/track/6uqW7cx1XBOjae9FQHyp8c) | [TRIPPYHOUSING](https://open.spotify.com/artist/4pdZ66BsPUNzMSqlC1r9YN) | [For a long time](https://open.spotify.com/album/28u1U5MLT0EYfmRYiowJS7) | 3:42 | 2024-11-13 | 2024-11-20 |
 | [for never end](https://open.spotify.com/track/08Ms1LvE6haWBO6vFety2l) | [dip](https://open.spotify.com/artist/4r6WtScg6432ThqBWqA4wD) | [HOLLOWGALLOW](https://open.spotify.com/album/0NERpROreFPwF4zpxDYGhL) | 4:00 | 2023-12-12 | 2023-12-20 |
 | [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 | 2024-07-23 | 2024-09-18 |
-| [Forest \- feat\. ACE COOL](https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Forest \(feat\. ACE COOL\)](https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5) | 3:03 | 2024-10-22 |  |
+| [Forest \- feat\. ACE COOL](https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Forest \(feat\. ACE COOL\)](https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5) | 3:03 | 2024-10-22 | 2025-02-06 |
 | [foundyou](https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [foundyou](https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz) | 4:51 | 2025-02-04 |  |
 | [Four](https://open.spotify.com/track/5kYn9qvedVqJ7pef7uxGgH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 3:38 | 2023-03-07 | 2023-03-29 |
 | [Four](https://open.spotify.com/track/6rt0WIYwItxD9ddLxQRnUr) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/2Vfx2YrAPjkZ7i2I0wUcYK) | 3:38 | 2023-03-07 | 2023-03-09 |
@@ -931,6 +931,7 @@
 | [PUMP](https://open.spotify.com/track/5SUxFWrEAE6FVzxCntey2B) | [からくりごっこ](https://open.spotify.com/artist/07cSxamWHryr28hmS0SYbo) | [ASHITA RESORT](https://open.spotify.com/album/3FWZBAGbYqf9MQKceWv9Ao) | 3:34 | 2024-04-16 | 2024-04-24 |
 | [Pure Green](https://open.spotify.com/track/5BTPjsqZlFKsvXaSaNEnTc) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Pure Green](https://open.spotify.com/album/145Ga4i1lUhkXAFLBFBco1) | 4:02 | 2024-04-30 | 2024-06-22 |
 | [Purple gray](https://open.spotify.com/track/6CXRxR8iaXSxIKdHTzRkHP) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [Purple gray](https://open.spotify.com/album/0VGlPzdL9whcWEqlgxaF0d) | 3:35 | 2023-08-29 | 2023-09-20 |
+| [Pussy Girl](https://open.spotify.com/track/7DvvTO4QyFKFDZ1zaVwvxi) | [TRIPPYHOUSING](https://open.spotify.com/artist/4pdZ66BsPUNzMSqlC1r9YN) | [Pussy Girl](https://open.spotify.com/album/2eufNqkV07nvjCnsE9iVzC) | 2:37 | 2025-02-05 |  |
 | [PYG](https://open.spotify.com/track/13IMFBAxT8hngUC79TTcXR) | [DOGADOGA](https://open.spotify.com/artist/5rGVSXTLvetVl0pjdCrDM6) | [PYG](https://open.spotify.com/album/1azSY0WroNiGGqLapyhbeK) | 4:00 | 2023-10-24 | 2023-11-18 |
 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 | 2023-03-30 | 2023-09-06 |
 | [qp](https://open.spotify.com/track/4PBUu8pkrTmA5wYdprLA60) | [°pbdb](https://open.spotify.com/artist/0rTdBiyLYzvx5JZKH3ZoR0), [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [qpqd](https://open.spotify.com/album/36jFRsOgfu9axfNyKFyYHV) | 3:42 | 2024-12-17 | 2025-01-15 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: The Game
+> Taking it way back! Cover: 2Pac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,829,680 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,830,865 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 | 2 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
 | 3 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 |
 | 4 | [Still Tippin' \(feat\. Slim Thug and Paul Wall\)](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:31 |
-| 5 | [How We Do](https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:55 |
-| 6 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 |
+| 5 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 |
+| 6 | [How We Do](https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:55 |
 | 7 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 3:57 |
 | 8 | [Big Poppa \- 2005 Remaster](https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 4:12 |
 | 9 | [Regulate](https://open.spotify.com/track/1mFxMJ2UZGFow4sx75vJ6Z) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 | 49 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 50 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 |
 
-Snapshot ID: `Z5xEdwAAAABwJZPZvfDPrmXQJ77HyU6d`
+Snapshot ID: `Z6LP3AAAAADcLqIs0DChsIvlPBl+UpmF`

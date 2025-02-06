@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Zanai Bhosle, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Ananya Sharma, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 165128,
       "name": "Baarish Ke Baad",
       "url": "https://open.spotify.com/track/6UzDyYcdGBOZF48hbwaRyb"
@@ -3370,7 +3370,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 237897,
       "name": "Bikhre",
       "url": "https://open.spotify.com/track/5yFDWWi3ANY6FLUnXm0WU5"
@@ -6965,6 +6965,32 @@
     },
     {
       "album": {
+        "name": "Ek Martaba Phir",
+        "url": "https://open.spotify.com/album/6NUuU4Euu64fPd9nK7MJig"
+      },
+      "artists": [
+        {
+          "name": "Ananya Sharma",
+          "url": "https://open.spotify.com/artist/1IsobZFDttKe4y2jQXDyvd"
+        },
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Ek Martaba Phir",
+      "url": "https://open.spotify.com/track/17xdCJ7oawMWo84d9oxztl"
+    },
+    {
+      "album": {
         "name": "Ek Sham Ho",
         "url": "https://open.spotify.com/album/15tFBYIsmBJqrbUrHuc5VQ"
       },
@@ -8120,6 +8146,24 @@
       "duration_ms": 197786,
       "name": "Gehraiyaan",
       "url": "https://open.spotify.com/track/3tIL20s2B1Bu1ciJSGVyuU"
+    },
+    {
+      "album": {
+        "name": "Ghar Jaa",
+        "url": "https://open.spotify.com/album/1Id4vgmklaI4AGoneAhirZ"
+      },
+      "artists": [
+        {
+          "name": "Psyhil",
+          "url": "https://open.spotify.com/artist/5kDPgnLYVK4qaJkM05wCsC"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212837,
+      "name": "Ghar Jaa",
+      "url": "https://open.spotify.com/track/4ubAlAMlsria8GqhNwtSAJ"
     },
     {
       "album": {
@@ -9654,7 +9698,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 203162,
       "name": "Humare Tumhare Darmiyaan",
       "url": "https://open.spotify.com/track/5IFSPmj2EYZGQsffU4PZas"
@@ -11635,6 +11679,24 @@
     },
     {
       "album": {
+        "name": "Jee Raha Hoon",
+        "url": "https://open.spotify.com/album/1lLJrSVnEfcgLRVFHUmtgQ"
+      },
+      "artists": [
+        {
+          "name": "Ashiatrix",
+          "url": "https://open.spotify.com/artist/0Nz5pb6cc6adhqySRYq7mA"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239799,
+      "name": "Jee Raha Hoon",
+      "url": "https://open.spotify.com/track/75cyr0SjSuxT32Msjpcuje"
+    },
+    {
+      "album": {
         "name": "Jeeya Jaaye Naa",
         "url": "https://open.spotify.com/album/7iUkttSpAY0rf3IhMq3zbk"
       },
@@ -11834,7 +11896,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 217285,
       "name": "Jogan Piya",
       "url": "https://open.spotify.com/track/53LfFBsVz6cMtfbDYSsY8S"
@@ -14097,6 +14159,24 @@
     },
     {
       "album": {
+        "name": "Khwaabon Ki Subah",
+        "url": "https://open.spotify.com/album/4dGhzP7sTpC3fzvWRt4xN4"
+      },
+      "artists": [
+        {
+          "name": "Apoorv Srivastava",
+          "url": "https://open.spotify.com/artist/31zLIR2zBzdZybKY9vMEOf"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182322,
+      "name": "Khwaabon Ki Subah",
+      "url": "https://open.spotify.com/track/2wi8rW4elJHwBXklK9Nx6k"
+    },
+    {
+      "album": {
         "name": "Khwabeeda",
         "url": "https://open.spotify.com/album/6Ij85YqSQryryQyWZ94DID"
       },
@@ -14442,7 +14522,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 126285,
       "name": "Koi Aane Wala Hai",
       "url": "https://open.spotify.com/track/1X9ZlhymX9jI5rB6Zilvoz"
@@ -20342,7 +20422,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 167428,
       "name": "Prem Patra",
       "url": "https://open.spotify.com/track/2cbaBsXBKY59I96mZVn3Np"
@@ -22489,6 +22569,24 @@
     },
     {
       "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/7k0ucCggKZjYaiySMwa7pT"
+      },
+      "artists": [
+        {
+          "name": "Ashish Kulkarni",
+          "url": "https://open.spotify.com/artist/7BMPTaeySeMLpzMq60vgYE"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191256,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/2YWtCOX1u7VtuCUMWDZv8A"
+    },
+    {
+      "album": {
         "name": "Sajna Ji",
         "url": "https://open.spotify.com/album/7zCXz5Kq5saXk1kzg6Vfn2"
       },
@@ -22530,6 +22628,28 @@
       "duration_ms": 292437,
       "name": "Samaa",
       "url": "https://open.spotify.com/track/25SeLnCtAaIB3Vjwg4jc0F"
+    },
+    {
+      "album": {
+        "name": "Samandar",
+        "url": "https://open.spotify.com/album/2T0hBSqaF6JdwkP8RYsJm8"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "Nilanjan Samadder",
+          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229131,
+      "name": "Samandar",
+      "url": "https://open.spotify.com/track/21LueiAOEeMwrXBQaLOGi8"
     },
     {
       "album": {

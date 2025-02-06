@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 95 songs - 6 hr 13 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 96 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 93 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
 | 94 | [Cerca De Ti](https://open.spotify.com/track/1dmJWX0nWAx5gjDzAohSbO) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/12x0ISxr7b5JssrNJWNDPZ) | 1:48 |
 | 95 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 |
+| 96 | [What Was I Made For? \(Epilogue\) \- Instrumental Version](https://open.spotify.com/track/5n6l4Q0qiVOQ55B0OvOfVr) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 1:32 |
 
-Snapshot ID: `AAAA1P0t1RtzPD985wVyXHSD0RSJ1i1H`
+Snapshot ID: `AAAA1eremmmbOAd5rO0/SEUmjnVuc4lV`

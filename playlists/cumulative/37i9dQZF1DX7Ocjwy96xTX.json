@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 204223,
       "name": "abandoned evil",
       "url": "https://open.spotify.com/track/3nWLzDOSxeiZ7dtb44VZZj"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 294065,
       "name": "Black Sheep - Brie Larson Vocal Version",
       "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 117840,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/34mIasINn8fmO54la1cDaM"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 199125,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 194240,
       "name": "catalogue",
       "url": "https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 262222,
       "name": "Darksign",
       "url": "https://open.spotify.com/track/6P19etqkPYzjO9VwGbb18a"
@@ -1200,6 +1200,24 @@
       "duration_ms": 264854,
       "name": "dazies",
       "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
+    },
+    {
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "De-Luxe",
+      "url": "https://open.spotify.com/track/5m2ylParCpWyYRRinlDUiX"
     },
     {
       "album": {
@@ -1401,6 +1419,42 @@
     },
     {
       "album": {
+        "name": "el prado freestyle",
+        "url": "https://open.spotify.com/album/7vGhSZQpXZT933HIrvaZhB"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148845,
+      "name": "el prado freestyle",
+      "url": "https://open.spotify.com/track/2SM2dnkNkwcXXPgprjpxW4"
+    },
+    {
+      "album": {
+        "name": "headbanger",
+        "url": "https://open.spotify.com/album/2NRjwUmXWZgUCJf84fPulM"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "emo is good",
+      "url": "https://open.spotify.com/track/7DO020rZXOyCue7HCmY3kF"
+    },
+    {
+      "album": {
         "name": "empty",
         "url": "https://open.spotify.com/album/4DqyPkbIaL3uQU5D0S55rv"
       },
@@ -1430,7 +1484,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 149170,
       "name": "EPHEMERAL",
       "url": "https://open.spotify.com/track/7x3dssNFWZtubSlXqRYGxl"
@@ -1546,7 +1600,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 244459,
       "name": "Face of Fear",
       "url": "https://open.spotify.com/track/5TUnjQIjR79TZTjzEAFviu"
@@ -1744,7 +1798,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 238840,
       "name": "Gemini - Edit",
       "url": "https://open.spotify.com/track/5TLez0HNjgJw4s9JiLG3Fc"
@@ -1983,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Montalvo",
+        "url": "https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr"
+      },
+      "artists": [
+        {
+          "name": "Colle",
+          "url": "https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212134,
+      "name": "Green Edge",
+      "url": "https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9"
+    },
+    {
+      "album": {
         "name": "Half Nelson",
         "url": "https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb"
       },
@@ -2048,7 +2120,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 113454,
       "name": "Hard Candy",
       "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
@@ -2340,7 +2412,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 163891,
       "name": "i see pain",
       "url": "https://open.spotify.com/track/7kAkl44rGhMqNpJU66qoKT"
@@ -2430,7 +2502,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 176988,
       "name": "If I Die",
       "url": "https://open.spotify.com/track/2mTffb4JPUXq31NWaqQgIN"
@@ -2990,7 +3062,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 156000,
       "name": "Lonely Day - Spotify Singles",
       "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
@@ -3462,7 +3534,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 174770,
       "name": "nap",
       "url": "https://open.spotify.com/track/3WrCcZoZqKuuAxsGbiNlLx"
@@ -3768,7 +3840,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 203893,
       "name": "Once then we'll be free",
       "url": "https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ"
@@ -4057,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "After the Magic",
+        "url": "https://open.spotify.com/album/0vlJYAD6IpbwmZE9vbhErT"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/6t90Kwo22FeYIgM1C6wD61"
+    },
+    {
+      "album": {
         "name": "Prism of Feeling",
         "url": "https://open.spotify.com/album/50C6PlqgTU8iZpbzowiCCc"
       },
@@ -4126,6 +4216,24 @@
       "duration_ms": 207178,
       "name": "Punching Down",
       "url": "https://open.spotify.com/track/7EUgUNXbhgsPXaCr51uYta"
+    },
+    {
+      "album": {
+        "name": "Punish",
+        "url": "https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407710,
+      "name": "Punish",
+      "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
     },
     {
       "album": {
@@ -4324,7 +4432,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 230020,
       "name": "Rummage (feat. Orbiting Human Circus)",
       "url": "https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t"
@@ -4992,7 +5100,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 159000,
       "name": "supernAtural",
       "url": "https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l"
@@ -5140,7 +5248,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 357253,
       "name": "The Clouds Will Drop Ladders",
       "url": "https://open.spotify.com/track/6Ky0MGU5rsXTUCXf7wrLcW"
@@ -5237,6 +5345,42 @@
     },
     {
       "album": {
+        "name": "Toxoplasma",
+        "url": "https://open.spotify.com/album/27orn2kKrM2nNd7JYjUnty"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Toxoplasma",
+      "url": "https://open.spotify.com/track/1Z525RBZrBwIqGBHKjxawa"
+    },
+    {
+      "album": {
+        "name": "Debunker",
+        "url": "https://open.spotify.com/album/7CV16uMpp4OJrur72BruwV"
+      },
+      "artists": [
+        {
+          "name": "Eterna",
+          "url": "https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221121,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490"
+    },
+    {
+      "album": {
         "name": "Feels Like You",
         "url": "https://open.spotify.com/album/1fyZK4ivI8xZCOdOuOgPa7"
       },
@@ -5302,7 +5446,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 182778,
       "name": "Valley Ghoul",
       "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
@@ -5648,7 +5792,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 133249,
       "name": "Wondrous Place",
       "url": "https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa"

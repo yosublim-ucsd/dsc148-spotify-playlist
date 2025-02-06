@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop\.  Cover: Tom Grennan
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,947 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,963 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 45 | [Jealous](https://open.spotify.com/track/4bYTWJm6jDyVA68YAyI6JX) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Jealous](https://open.spotify.com/album/0qLz8pQ964IpX7iCgJULnL) | 2:25 |
 | 46 | [Fall Into Forever](https://open.spotify.com/track/5oCaywXYB8wG0Vq6m0RViS) | [PARKWILD](https://open.spotify.com/artist/37pbVQWclfUKj4ZKb049zA) | [Fall Into Forever](https://open.spotify.com/album/1rdlcAWpa4UaubKLGDVm6j) | 2:59 |
 | 47 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
-| 48 | [jupiter](https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [DIVE](https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP) | 3:02 |
-| 49 | [caught in the middle](https://open.spotify.com/track/2E3lTYTdrC38kF4z11tnaH) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [the nostalgia tapes 1](https://open.spotify.com/album/0OvGSbaiPDVpC6d01KO2pI) | 2:36 |
-| 50 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
-| 51 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
-| 52 | [Start Over](https://open.spotify.com/track/0Z3fxefevRBjYJLLmAhdaR) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Start Over](https://open.spotify.com/album/6MdkJBAsFZJOyfyN18Dd1S) | 2:35 |
-| 53 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 |
-| 54 | [worst case scenario](https://open.spotify.com/track/3WrqBnovxXQCnFdeQ4buqY) | [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [worst case scenario](https://open.spotify.com/album/5a3aE0vTeCDSogMWpTFvJQ) | 2:15 |
-| 55 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 |
-| 56 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 |
-| 57 | [Little Acts Of Violence](https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX) | 2:50 |
-| 58 | [Lose My Lines](https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN) | [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41), [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [i don't want you to miss this](https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p) | 2:38 |
-| 59 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 |
-| 60 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 48 | [caught in the middle](https://open.spotify.com/track/2E3lTYTdrC38kF4z11tnaH) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [the nostalgia tapes 1](https://open.spotify.com/album/0OvGSbaiPDVpC6d01KO2pI) | 2:36 |
+| 49 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
+| 50 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
+| 51 | [Start Over](https://open.spotify.com/track/0Z3fxefevRBjYJLLmAhdaR) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Start Over](https://open.spotify.com/album/6MdkJBAsFZJOyfyN18Dd1S) | 2:35 |
+| 52 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 |
+| 53 | [worst case scenario](https://open.spotify.com/track/3WrqBnovxXQCnFdeQ4buqY) | [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [worst case scenario](https://open.spotify.com/album/5a3aE0vTeCDSogMWpTFvJQ) | 2:15 |
+| 54 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 |
+| 55 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 |
+| 56 | [Little Acts Of Violence](https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX) | 2:50 |
+| 57 | [Lose My Lines](https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN) | [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41), [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [i don't want you to miss this](https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p) | 2:38 |
+| 58 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 |
+| 59 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
 
-Snapshot ID: `Z5xY8gAAAAAR5Wozn8Q4tJhmEHW2Tsw0`
+Snapshot ID: `Z6O1YgAAAAC866ZJrpa7GMlM5qSJPfwx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,407 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,410 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 |
 | 50 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Solo Leveling\(LiSA, Felix of Stray Kids\)\) 지금 인기 있는 웹툰 OST들을 만나보세요! \(커버: 나 혼자만 레벨업\(LiSA, Felix of Stray Kids\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,305 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,311 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

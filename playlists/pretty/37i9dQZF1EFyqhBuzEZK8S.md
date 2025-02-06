@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 329 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,064 likes - 329 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 328 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 | 329 | [Me and the Boys in the Band \(Originally Performed by Carly Rae Jaspen\)](https://open.spotify.com/track/2u8fV31YrLXFjolYYCnNPv) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 22](https://open.spotify.com/album/0xPEoB3ayYQG4c7TnWuQ1k) | 3:24 |
 
-Snapshot ID: `AbouFgAAAAD30Msoc+0AEBK4++kNtqEb`
+Snapshot ID: `AbozrAAAAADnlJwVzeMoo2jYByQ7snbo`

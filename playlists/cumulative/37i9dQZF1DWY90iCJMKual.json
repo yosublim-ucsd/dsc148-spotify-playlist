@@ -6205,6 +6205,24 @@
     },
     {
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3M38KwnfVpCSVNayx9Evou"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242417,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3pgtS9BeUre18KRaFDa5BM"
+    },
+    {
+      "album": {
         "name": "Yessir",
         "url": "https://open.spotify.com/album/6W2TMEWPp4SHc3nTMR3YdC"
       },

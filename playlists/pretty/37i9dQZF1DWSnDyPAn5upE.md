@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,142 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,221 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

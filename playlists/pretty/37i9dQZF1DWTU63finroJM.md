@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Yoa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,010 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,043 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

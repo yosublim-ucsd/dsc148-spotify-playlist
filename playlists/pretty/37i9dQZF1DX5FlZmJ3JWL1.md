@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,354 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,432 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
 | 50 | [All This Time](https://open.spotify.com/track/4xq59PbzJOMSqrdGQMxpB8) | [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj), [Anna Hafner](https://open.spotify.com/artist/2HXmqfQYsehY98S9JqX1n3), [Deso Latee](https://open.spotify.com/artist/0klyxA0TLyUMXyeIsbe5eN) | [All This Time](https://open.spotify.com/album/5rMLNdoZI2J9Fa6xtBiDRL) | 1:48 |
 
-Snapshot ID: `Z5eXNAAAAACfADTyWJMdKTkkHokj7cmx`
+Snapshot ID: `Z6Ow8wAAAADE86pZchPHhQZY06mFuTKV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Joy Orbison
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,303 likes - 105 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,308 likes - 105 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

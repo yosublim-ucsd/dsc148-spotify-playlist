@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Nettspend\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380,553 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,380,453 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All In Motion](https://open.spotify.com/track/5wIOSozaIoSKwzmeIBsmfF) | [Yung Fazo](https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4) | [All In Motion](https://open.spotify.com/album/1UwtlXn6NSciTtyuSNDOj9) | 1:59 |
+| 1 | [ALL IN MOTION](https://open.spotify.com/track/5wIOSozaIoSKwzmeIBsmfF) | [Yung Fazo](https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4) | [ALL IN MOTION](https://open.spotify.com/album/1UwtlXn6NSciTtyuSNDOj9) | 1:59 |
 | 2 | [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 |
 | 3 | [3.5](https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:36 |
 | 4 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 |

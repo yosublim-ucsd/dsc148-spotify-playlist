@@ -4,7 +4,7 @@
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-339 songs - 19 hr 48 min
+340 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-12-12 | 2024-04-03 |
 | [I I I](https://open.spotify.com/track/0p5JKxO0pVynWVcWm3lMiP) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [I I I](https://open.spotify.com/album/6khDJU0RLPOsxLWNk8HJQs) | 3:05 | 2024-06-13 | 2024-07-05 |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-05-08 |  |
-| [IN\_MY\_HEAD](https://open.spotify.com/track/0goYIHlWef73ZG6lNlrJ15) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [IN\_MY\_HEAD](https://open.spotify.com/album/2mtOtzHRY35jKmmfK3AU9i) | 3:27 | 2024-12-17 |  |
+| [IN\_MY\_HEAD](https://open.spotify.com/track/0goYIHlWef73ZG6lNlrJ15) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [IN\_MY\_HEAD](https://open.spotify.com/album/2mtOtzHRY35jKmmfK3AU9i) | 3:27 | 2024-12-17 | 2025-02-06 |
 | [INZM](https://open.spotify.com/track/5PTL6Kn0n4rEmhWQP3NqEb) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [INZM](https://open.spotify.com/album/57GML4mcquryzg30iaajtx) | 3:30 | 2024-09-06 | 2025-01-12 |
 | [it’s okay](https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [it’s okay](https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai) | 2:26 | 2024-09-06 | 2024-12-04 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 | 2025-01-31 |
@@ -166,6 +166,7 @@
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-12 | 2024-02-10 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-28 | 2025-02-03 |
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-12 | 2024-02-28 |
+| [Spacecraft](https://open.spotify.com/track/5pg2M78HkonLV5EMddMEYy) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft / Sailing](https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY) | 3:13 | 2025-02-06 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-12-12 | 2024-01-05 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2023-12-12 | 2024-03-27 |
 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 | 2024-04-16 | 2024-08-26 |

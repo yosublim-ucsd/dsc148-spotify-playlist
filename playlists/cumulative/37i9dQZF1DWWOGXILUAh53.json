@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "album": {
         "name": "Acapulco (MOTi Remix)",
         "url": "https://open.spotify.com/album/4Qs4pO5ktrpgabWJyPL9eX"
       },
@@ -8758,7 +8776,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"

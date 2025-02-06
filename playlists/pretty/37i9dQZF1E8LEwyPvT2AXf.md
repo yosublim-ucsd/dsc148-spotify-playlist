@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Lewis Capaldi, Harry Styles and more
+> With Adele, Olivia Rodrigo, Harry Styles and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,896 likes - 50 songs - 3 hr 17 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 | 49 | [You & I](https://open.spotify.com/track/2afCBiru10AFckfOa49wIa) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:57 |
 | 50 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 
-Snapshot ID: `Z6LaYAAAAACVJOZe/yw92xwT4JSm2ikW`
+Snapshot ID: `Z6QpfwAAAAAT4RxF5xvbzSGtZFhA/jQK`

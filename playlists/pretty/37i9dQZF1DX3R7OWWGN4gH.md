@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,358,505 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358,684 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 15 | [Prom Queen](https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Prom Queen](https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc) | 3:46 |
 | 16 | [Cry Evil!](https://open.spotify.com/track/5CXtNr0l1ItHoclXPpa8aR) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Cry Evil!](https://open.spotify.com/album/31KEFVsVuCEHjVzVU8YE9i) | 2:28 |
 | 17 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 |
-| 18 | [Bloodsucker](https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Bloodsucker](https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y) | 2:37 |
+| 18 | [Bloodsucker](https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Bloodsucker](https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y) | 2:37 |
 | 19 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 |
 | 20 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 |
 | 21 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |

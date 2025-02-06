@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 |
 | 50 | [Не лечи меня](https://open.spotify.com/track/4a3iWuyzghSUF65tFgfb5B) | [Vostochny Okrug](https://open.spotify.com/artist/4tS0YU2IuEm03xyKxsxeOm), [Vitya AK](https://open.spotify.com/artist/0ZOwmYD7AAgJd3b6jcyik8), [Кендра](https://open.spotify.com/artist/2kag7zrnMcaJ6JuGAcsDZF) | [Лови мой стиль](https://open.spotify.com/album/1Ll2d747YYwq1sAbMDreMv) | 3:56 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

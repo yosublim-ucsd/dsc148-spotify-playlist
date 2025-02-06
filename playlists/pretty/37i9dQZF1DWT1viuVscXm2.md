@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > y de la buena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,216 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,420 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 3 | [Es Tan Grande Este Amor](https://open.spotify.com/track/2jV2BWkFNLbqOb8wqVR9iC) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/0cWsxDLP7WMqbs6Yiui0yH) | 3:14 |
 | 4 | [Llamadas Extrañas](https://open.spotify.com/track/6bHoFFcQEzEjhOHZ9Dzfhw) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [15 Años](https://open.spotify.com/album/7ednM399J2qf4ZzpQqTq6n) | 3:14 |
 | 5 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
-| 6 | [Casi Siempre Estoy Pensando en Ti \- Session \# 1](https://open.spotify.com/track/6etAudZOHHoS1zsjyMFoZL) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Casi Siempre Estoy Pensando en Ti \(Session \# 1\)](https://open.spotify.com/album/7DUUJ8b8YBdCzYfzZsknPx) | 3:05 |
+| 6 | [Casi Siempre Estoy Pensando en Ti \- Session \# 1](https://open.spotify.com/track/6etAudZOHHoS1zsjyMFoZL) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Casi Siempre Estoy Pensando en Ti \(Session \# 1\)](https://open.spotify.com/album/7DUUJ8b8YBdCzYfzZsknPx) | 2:37 |
 | 7 | [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 |
 | 8 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
 | 9 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 |

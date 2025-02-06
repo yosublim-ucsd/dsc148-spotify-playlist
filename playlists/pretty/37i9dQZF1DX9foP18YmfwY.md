@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,048 likes - 70 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,114 likes - 70 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

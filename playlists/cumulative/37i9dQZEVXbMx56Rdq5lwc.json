@@ -6803,6 +6803,24 @@
     },
     {
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "album": {
         "name": "Deseydin Anlard\u0131m",
         "url": "https://open.spotify.com/album/5sj53KwqstRLO9M02A09xM"
       },
@@ -8742,7 +8760,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -8904,7 +8922,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -10500,7 +10518,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Gegu\u017eis",
       "url": "https://open.spotify.com/track/46GIpYTmWhr5MEiwE02pYL"
@@ -22040,7 +22058,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -25502,7 +25520,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 187997,
       "name": "Prisimink",
       "url": "https://open.spotify.com/track/0nDJPe1kG1xVrtgatH7Xj2"
@@ -26250,7 +26268,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 291192,
       "name": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)",
       "url": "https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6"
@@ -31760,7 +31778,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 282873,
       "name": "The Abyss (feat. Lana Del Ray)",
       "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
@@ -33576,7 +33594,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -35012,7 +35030,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 308575,
       "name": "Wake Me Up (feat. Justice)",
       "url": "https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul"

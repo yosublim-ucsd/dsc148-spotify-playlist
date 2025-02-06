@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,789 likes - 250 songs - 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,913 likes - 250 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

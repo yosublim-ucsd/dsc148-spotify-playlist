@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with Glixen \(pictured\), Superheaven, Glare, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,921 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,881 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 20 | [Growing Pains](https://open.spotify.com/track/5HDaL1bE43pm8yP2xI1Sj8) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7) | [Growing Pains](https://open.spotify.com/album/0uYuSX7psMG97KxCZuytZW) | 2:42 |
 | 21 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
 | 22 | [Collect Sadness](https://open.spotify.com/track/1515TA6wXAx8C8eYdJUvTt) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Raw Blue](https://open.spotify.com/album/7sjPkabCV2TmmnlitookOK) | 5:20 |
-| 23 | [Realize Remix \(feat\. Softcult & whatsaheart\)](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0), [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [Realize Remix \(feat\. Softcult & whatsaheart\)](https://open.spotify.com/album/19yn6cgE8t2Ri4oHSk7eP4) | 2:55 |
+| 23 | [Realize Remix](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0), [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [Realize Remix](https://open.spotify.com/album/19yn6cgE8t2Ri4oHSk7eP4) | 2:55 |
 | 24 | [Cherry](https://open.spotify.com/track/4TPeK1K6tgwrnI3HjPSdUX) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Cherry](https://open.spotify.com/album/1ESDjhJCni1Q9HmjMw1KEd) | 4:46 |
 | 25 | [Gradient](https://open.spotify.com/track/5YShlRQKMKKBvkhAFKi1SA) | [MERCURY](https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2) | [This Place I'm Forgetting, Replaced with an Ending.](https://open.spotify.com/album/2ggl0S6JP5xAnwPe8TGvi0) | 4:05 |
 | 26 | [Dare I Say](https://open.spotify.com/track/3x4GmIoBoi6AKOcnTihKMe) | [Head Cloud](https://open.spotify.com/artist/1zjQss5oxe4XMJ2mH2ZPP6) | [Hard To Exist](https://open.spotify.com/album/4uQLlofCSNpWRfinInFzVJ) | 3:10 |

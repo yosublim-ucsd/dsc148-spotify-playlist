@@ -4,7 +4,7 @@
 
 > 20 years of <a href="https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7?si=Up0hqVCISie7spJeiLtmXQ">I'm Wide Awake, It's Morning</a> Cover: Bright Eyes
 
-185 songs - 11 hr 56 min
+186 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Australia](https://open.spotify.com/track/6OwwTVRndoy9aoDxsmrteR) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Zl638FA70c4Oxh4AimZLh) | 3:56 | 2021-01-12 | 2022-07-29 |
 | [Bandages](https://open.spotify.com/track/3D4NfLvG99xCEZnL6MHZ84) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Make Up The Breakdown](https://open.spotify.com/album/6MN4QYFWo1cLuZRiv2sedC) | 3:32 | 2021-01-12 | 2022-07-21 |
 | [Black & Blue](https://open.spotify.com/track/2cOCunrzyHVpTrTwSIKRbt) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow \(Deluxe Edition\)](https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5) | 3:39 | 2021-01-12 |  |
+| [Black Out Days](https://open.spotify.com/track/2IWtloZYQDcP8Ashwx8QEF) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:47 | 2025-02-05 |  |
 | [Blood Bank](https://open.spotify.com/track/273F79qftb3uo3IlIXmo44) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/04MsTCBM8AneW8jxZVHKcA) | 4:44 | 2021-01-12 | 2022-07-29 |
 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 | 2022-07-28 | 2024-04-19 |
 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 | 2022-10-11 |  |
@@ -118,7 +119,7 @@
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2022-07-28 | 2024-04-19 |
 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 | 2021-01-12 |  |
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2021-01-12 | 2022-07-29 |
-| [My Moon My Man](https://open.spotify.com/track/4AHsOf7UnQr3AXNA75cJBs) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/1hh6ceWwZngjflnionrmOt) | 3:48 | 2021-01-12 |  |
+| [My Moon My Man](https://open.spotify.com/track/4AHsOf7UnQr3AXNA75cJBs) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/1hh6ceWwZngjflnionrmOt) | 3:48 | 2021-01-12 | 2025-02-06 |
 | [Naive](https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 3:23 | 2021-01-12 |  |
 | [New Slang](https://open.spotify.com/track/2cP37n7TZEe0oBxCbZu0KA) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/6tMeipxbqiKnp7F368cwsi) | 3:51 | 2021-01-12 | 2022-07-29 |
 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 | 2022-07-28 | 2024-04-19 |

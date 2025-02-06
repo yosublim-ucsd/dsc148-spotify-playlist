@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Delusyonal",
+        "url": "https://open.spotify.com/album/7iRBfupC3gJnKbmZL5xXgM"
+      },
+      "artists": [
+        {
+          "name": "Liel",
+          "url": "https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Delusyonal",
+      "url": "https://open.spotify.com/track/09CvWD60BVdN1IcXhAV1X2"
+    },
+    {
+      "album": {
         "name": "jgh",
         "url": "https://open.spotify.com/album/5qbKa6ArxbSTX3qJZpg1ss"
       },
@@ -1418,6 +1436,24 @@
       "duration_ms": 252666,
       "name": "Hiraya",
       "url": "https://open.spotify.com/track/7hKefTBNDE5VuVruNmvu5N"
+    },
+    {
+      "album": {
+        "name": "Paham",
+        "url": "https://open.spotify.com/album/6ks3nxwwuSeJduxDSeZk3l"
+      },
+      "artists": [
+        {
+          "name": "Paham",
+          "url": "https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234152,
+      "name": "Hiraya (Haharanahin Kita)",
+      "url": "https://open.spotify.com/track/0Ef1eeZkMKKqcEvUrUrriq"
     },
     {
       "album": {
@@ -2610,7 +2646,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 311001,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/7BuPLOGkN1MQG7UYt9NlLe"
@@ -3894,7 +3930,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 216000,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/00IoywtcjMMMAHBl5t0thC"
@@ -4241,6 +4277,24 @@
     },
     {
       "album": {
+        "name": "Suya-suyo",
+        "url": "https://open.spotify.com/album/7zr5HjJ3uH9Gkx5qiKzaSC"
+      },
+      "artists": [
+        {
+          "name": "Frisbee",
+          "url": "https://open.spotify.com/artist/1VBkwOEyc2ccSel29Pcimq"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186141,
+      "name": "Suya-suyo",
+      "url": "https://open.spotify.com/track/7fa1TUj6YM3qLrEIQAVONY"
+    },
+    {
+      "album": {
         "name": "Suyo",
         "url": "https://open.spotify.com/album/62fwSalB8q4WHm7lgOLLco"
       },
@@ -4314,7 +4368,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 241315,
       "name": "tama na",
       "url": "https://open.spotify.com/track/7LRPZzicTkzOJ4OyFgajxT"

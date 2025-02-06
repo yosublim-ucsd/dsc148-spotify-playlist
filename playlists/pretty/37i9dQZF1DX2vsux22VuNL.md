@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Rael, Mano Brown, Dom Filó
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,093 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,086 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. \nCover: Kira Divine",
-  "num_followers": 25898,
+  "num_followers": 25974,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6IPZQAAAAAdqiJIMnsS9Qk3yEwyMBo6",
+  "snapshot_id": "Z6LcRQAAAAAlXwbbTqmE1TD48AcSDgRw",
   "tracks": [
     {
       "added_at": "2025-02-04 13:00:21",
@@ -159,6 +159,22 @@
       "duration_ms": 253951,
       "name": "Lead You On",
       "url": "https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L"
+    },
+    {
+      "added_at": "2025-02-05 03:34:29",
+      "album": {
+        "name": "Hang on to Your Kool",
+        "url": "https://open.spotify.com/album/6b8bKjNMqDukdq2WeLg6Sb"
+      },
+      "artists": [
+        {
+          "name": "Wrong Way Up",
+          "url": "https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe"
+        }
+      ],
+      "duration_ms": 223598,
+      "name": "Hang on to Your Kool",
+      "url": "https://open.spotify.com/track/67jWOXCM1RzeUZmdeeXzfZ"
     },
     {
       "added_at": "2025-01-28 13:00:18",
@@ -1639,22 +1655,6 @@
       "duration_ms": 191016,
       "name": "Luna",
       "url": "https://open.spotify.com/track/65dghAE5WbB4IZlSC6e6CF"
-    },
-    {
-      "added_at": "2025-01-07 13:00:23",
-      "album": {
-        "name": "parkinglot",
-        "url": "https://open.spotify.com/album/5IaoGPf4z2TLDz23gW6ITs"
-      },
-      "artists": [
-        {
-          "name": "OSWRLD",
-          "url": "https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl"
-        }
-      ],
-      "duration_ms": 205709,
-      "name": "parkinglot",
-      "url": "https://open.spotify.com/track/51FqcMgkf2OFli2di4Xw9o"
     }
   ],
   "unique_name": "Fresh Finds AU & NZ",

@@ -8871,6 +8871,24 @@
     },
     {
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "album": {
         "name": "Desde Vallarta Hasta Tulum",
         "url": "https://open.spotify.com/album/4Rwms9eLnONPENG0ErNAlg"
       },
@@ -10386,7 +10404,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -33344,7 +33362,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 192750,
       "name": "Sav\u0101 Josl\u0101",
       "url": "https://open.spotify.com/track/4mrSiHGCw7Dwt0gV8q6Zfm"
@@ -38274,7 +38292,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 282873,
       "name": "The Abyss (feat. Lana Del Ray)",
       "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"

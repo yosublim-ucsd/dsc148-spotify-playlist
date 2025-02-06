@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,338 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,363 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
-| 2 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 2 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 3 | [Just for Kicks \(“Meat Grinder” demo\)](https://open.spotify.com/track/0xSGp6VPeckr3Inxz3IrA9) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy Demos](https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ) | 2:46 |
 | 4 | [Creole](https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg) | [Creole](https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt) | 2:29 |
 | 5 | [Enjoy The Show \(feat\. Future\)](https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |

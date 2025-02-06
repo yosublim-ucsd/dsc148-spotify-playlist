@@ -3405,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Pra Ser Amor",
+        "url": "https://open.spotify.com/album/6pwu5eQtC1yWf99NHQbGGs"
+      },
+      "artists": [
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Defeito Meu",
+      "url": "https://open.spotify.com/track/2Ty9lmWbd1F48qbQ2leR5n"
+    },
+    {
+      "album": {
         "name": "Akatu e Belo: Degrauzinho por Degrauzinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VaSTSTXPIXkJFGGWhxLD0"
       },
@@ -13364,7 +13382,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 269508,
       "name": "Sigo Frio",
       "url": "https://open.spotify.com/track/6HLY75qUVX62UxxmQcZPul"

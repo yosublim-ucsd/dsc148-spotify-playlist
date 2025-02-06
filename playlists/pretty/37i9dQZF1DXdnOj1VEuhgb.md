@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Şam
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385,522 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,590 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |
-| 2 | [Basit Birer Tesadüf](https://open.spotify.com/track/2qlu98xjbsIRuoppQzIZOY) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Basit Birer Tesadüf](https://open.spotify.com/album/4xBhaSYKt9p4KCOekmogbG) | 2:54 |
-| 3 | [SOKAK KÖŞELERİNDE](https://open.spotify.com/track/56g8ZSGwZXq4tBG1xbsIAM) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [TÜRKÇE RAP MİXTAPE](https://open.spotify.com/album/6KT0esShZuc4ceUhgf18F2) | 3:49 |
-| 4 | [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 |
-| 5 | [PINGUI](https://open.spotify.com/track/07vrGaaEPkbGTz0TBXvNFN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [BAO](https://open.spotify.com/artist/2A8LFuPVMXU66LuCPtgOEo), [Bar B](https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A), [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [PINGUI](https://open.spotify.com/album/13pw6ciJ5osIvs38U0pKo7) | 5:12 |
-| 6 | [EXTENDO](https://open.spotify.com/track/3reGUYKxAJMkZGEzWM8c5d) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [EXTENDO](https://open.spotify.com/album/7yLc5gd9QLV7N4z5HoU3Ig) | 2:26 |
-| 7 | [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 |
-| 8 | [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 |
+| 2 | [SOKAK KÖŞELERİNDE](https://open.spotify.com/track/56g8ZSGwZXq4tBG1xbsIAM) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [TÜRKÇE RAP MİXTAPE](https://open.spotify.com/album/6KT0esShZuc4ceUhgf18F2) | 3:49 |
+| 3 | [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 |
+| 4 | [PINGUI](https://open.spotify.com/track/07vrGaaEPkbGTz0TBXvNFN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [BAO](https://open.spotify.com/artist/2A8LFuPVMXU66LuCPtgOEo), [Bar B](https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A), [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [PINGUI](https://open.spotify.com/album/13pw6ciJ5osIvs38U0pKo7) | 5:12 |
+| 5 | [EXTENDO](https://open.spotify.com/track/3reGUYKxAJMkZGEzWM8c5d) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [EXTENDO](https://open.spotify.com/album/7yLc5gd9QLV7N4z5HoU3Ig) | 2:26 |
+| 6 | [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 |
+| 7 | [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 |
+| 8 | [Basit Birer Tesadüf](https://open.spotify.com/track/2qlu98xjbsIRuoppQzIZOY) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Basit Birer Tesadüf](https://open.spotify.com/album/4xBhaSYKt9p4KCOekmogbG) | 2:54 |
 | 9 | [Hayattayız](https://open.spotify.com/track/5OveZkGPVBtRVBXKlRt8D1) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [Başkası](https://open.spotify.com/album/6NGyQ38ypLdgJUGkaAyHJx) | 3:00 |
 | 10 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 |
 | 11 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Kalbim Yanımda](https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kalbim Yanımda](https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o) | 2:46 |
 | 50 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
 
-Snapshot ID: `Z5vztAAAAABp1ZV5yrbuhUsHXOUSVQhN`
+Snapshot ID: `Z6M8rQAAAADv4iYa+71mPH8Pt7KHCXJy`

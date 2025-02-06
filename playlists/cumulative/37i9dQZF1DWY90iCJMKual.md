@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Yoki
 
-315 songs - 17 hr 36 min
+316 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [WHO AM I TO YOU](https://open.spotify.com/track/29g22zgl7BL9P7LJV0yqUp) | [Kenneth Amores](https://open.spotify.com/artist/2ZNeBokyn4VOYpbQa5rcuY) | [WHO AM I TO YOU](https://open.spotify.com/album/26stt1ByhnU4KsyBvlBzM5) | 3:34 | 2022-10-12 | 2023-07-29 |
 | [Wildfire](https://open.spotify.com/track/4v0gAyFjpWihZwbT8A48BR) | [Paul Mac](https://open.spotify.com/artist/0xUzRd8sfsuuDvgzYAUXlF) | [Wildfire](https://open.spotify.com/album/2Wu7hLFHalklYvHDIiTPoZ) | 3:51 | 2023-09-15 | 2024-01-27 |
 | [WYD](https://open.spotify.com/track/0fBoM0efE81rz4zcaL2i1s) | [gab](https://open.spotify.com/artist/4tLANANLwM1pBnb7csmCSc) | [WYD](https://open.spotify.com/album/3LoPcISWck4sQVsNJ8sVj9) | 1:25 | 2024-02-06 | 2024-04-13 |
+| [Yellow](https://open.spotify.com/track/3pgtS9BeUre18KRaFDa5BM) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Yellow](https://open.spotify.com/album/3M38KwnfVpCSVNayx9Evou) | 4:02 | 2025-02-05 |  |
 | [Yessir](https://open.spotify.com/track/6yeWtDU4R8atpM1bbK6iA0) | [Sober](https://open.spotify.com/artist/7HXyudv0V8hsPW3IvX5W9e) | [Yessir](https://open.spotify.com/album/6W2TMEWPp4SHc3nTMR3YdC) | 3:22 | 2022-10-12 | 2023-05-18 |
 | [Yesterday in Paris](https://open.spotify.com/track/2YGSBjhdNuBVOA7N8QGL8d) | [TIMONES](https://open.spotify.com/artist/7JMxpXekbHEKC2WKh5NbCy), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [Yesterday in Paris](https://open.spotify.com/album/0ovtMJCoyzxEkPzFdevEru) | 2:39 | 2022-10-12 | 2022-12-15 |
 | [Yoko Na](https://open.spotify.com/track/6SIaYQUPOJpO8XFWeTl5dC) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Yoko Na](https://open.spotify.com/album/3Gj12JsaJaFtbfBOroD8gN) | 3:32 | 2024-06-21 | 2025-01-17 |

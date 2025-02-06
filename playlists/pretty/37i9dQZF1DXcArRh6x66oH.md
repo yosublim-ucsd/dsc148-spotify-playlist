@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,702 likes - 141 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,518 likes - 141 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

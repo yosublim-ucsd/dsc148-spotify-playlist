@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,120 likes - 91 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,157 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 78 | [Second Wind](https://open.spotify.com/track/2gTneFmEt5ycP3sxYENcEj) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/6LCUa6ZtfjsP21VZRoCjTT) | 2:49 |
 | 79 | [MANIAC](https://open.spotify.com/track/3CptguqWjLoOwMoO2DCHWm) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [MANIAC](https://open.spotify.com/album/0EXlZmZDM7xx2lQf8hQjP9) | 2:52 |
 | 80 | [Slow Your Roll](https://open.spotify.com/track/5evv0npHCui3psMiXq1HX6) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Slow Your Roll](https://open.spotify.com/album/02odUwMoIxe1tJA62VW9bP) | 3:54 |
-| 81 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 81 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 82 | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx) | 2:30 |
 | 83 | [My Life \(ft\. Swae Lee & PnB Rock\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [My Life \(ft\. Swae Lee & PnB Rock\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
 | 84 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |

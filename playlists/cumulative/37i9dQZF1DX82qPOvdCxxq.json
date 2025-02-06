@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Ben Laine | Artwork: Laina Deene",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: JOSHUA LAZER | Artwork: Laina Deene",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 210857,
       "name": "All I Truly Know",
       "url": "https://open.spotify.com/track/6h0AC9XW1XI89240ONvx7D"
@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Blessing Me (Acoustic version)",
+        "url": "https://open.spotify.com/album/1J3b5ZJ51nzqVhqHjUedLC"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Blessing Me - Acoustic version",
+      "url": "https://open.spotify.com/track/1rBmwlXdV67N7Qqc2Ie4pJ"
+    },
+    {
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4nKseo8BsYGhRkI6dkYGrS"
       },
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 170578,
       "name": "catch my breath",
       "url": "https://open.spotify.com/track/3EUEnHW8ZmHG1mJL4DBAQz"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 199480,
       "name": "Chillin'",
       "url": "https://open.spotify.com/track/4biSifPwkcHb0TC5qKPby1"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 199932,
       "name": "Comforter Conqueror",
       "url": "https://open.spotify.com/track/2XBpTFIMwkRNKtkkOhF5nK"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 223157,
       "name": "dreams",
       "url": "https://open.spotify.com/track/6BYd51QOGm0O15QX6d37ml"
@@ -1764,6 +1782,24 @@
       "duration_ms": 524254,
       "name": "Everything to Me - Live",
       "url": "https://open.spotify.com/track/2jEvamwQKgwtFueAelfm3k"
+    },
+    {
+      "album": {
+        "name": "fall",
+        "url": "https://open.spotify.com/album/0R0t8EU7UOw8x5tRfA9yR5"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157351,
+      "name": "fall",
+      "url": "https://open.spotify.com/track/7JWyvUXtGjk6kHYRmZQDYL"
     },
     {
       "album": {
@@ -2430,10 +2466,28 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 245920,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/7pcMQgfGSI6QPMd09YkCP7"
+    },
+    {
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/4CnpfAL2P5gKv9myxRwH24"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285418,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/54CGIAeSJL9cO7Lu0DW0FY"
     },
     {
       "album": {
@@ -2911,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "hurricanes and harbor lights",
+        "url": "https://open.spotify.com/album/6QFQb6RLTNmzPlQcVSLSTf"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316146,
+      "name": "hurricanes and harbor lights",
+      "url": "https://open.spotify.com/track/19UnaG8f0mSNPzRyIokgFd"
+    },
+    {
+      "album": {
         "name": "I Adore",
         "url": "https://open.spotify.com/album/7naInr9VfJQOnaXdo8d5Jp"
       },
@@ -3190,7 +3262,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 198857,
       "name": "i'm still praying",
       "url": "https://open.spotify.com/track/7eeecVWtSRuVNLueUlOvGp"
@@ -3671,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Lead",
+        "url": "https://open.spotify.com/album/2L9HBmuxz7KqWbc3anlWRB"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Lead",
+      "url": "https://open.spotify.com/track/780L0S7eIT0KpPnKoqIe5k"
+    },
+    {
+      "album": {
         "name": "Let Me Find Thee",
         "url": "https://open.spotify.com/album/1GbrKGOpocbsdvzckBqHDe"
       },
@@ -3686,6 +3776,24 @@
       "duration_ms": 241840,
       "name": "Let Me Find Thee",
       "url": "https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd"
+    },
+    {
+      "album": {
+        "name": "Light Inside You",
+        "url": "https://open.spotify.com/album/2ZxWdxxkqPE8M7IzqLdm4F"
+      },
+      "artists": [
+        {
+          "name": "Allison Eide",
+          "url": "https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220608,
+      "name": "Light Inside You",
+      "url": "https://open.spotify.com/track/0fxM1E1J7TtWkIqCFKLhMS"
     },
     {
       "album": {
@@ -3926,7 +4034,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 207600,
       "name": "Magnolia Tree",
       "url": "https://open.spotify.com/track/3BqDhTKQoktzYdjLMvA9Jc"
@@ -4214,7 +4322,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 274500,
       "name": "My Heart Is Your Home",
       "url": "https://open.spotify.com/track/6GABVf6kLJklKKZBFcWc2O"
@@ -4316,6 +4424,24 @@
       "duration_ms": 149600,
       "name": "New Levels New Devils",
       "url": "https://open.spotify.com/track/4eJ5qLQhPtun7iGxavvQI7"
+    },
+    {
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/3fDirbLBsK7J7SwCX1S0Pw"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104347,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/4SkFhQHSLZyrXA0mItVd1t"
     },
     {
       "album": {
@@ -4754,7 +4880,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 467000,
       "name": "Preference - Live",
       "url": "https://open.spotify.com/track/4KZBNnHig4PN0cS5UkI6lq"
@@ -5610,7 +5736,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 167232,
       "name": "stay",
       "url": "https://open.spotify.com/track/47PlSslwMiEEI5L5WRAqG4"
@@ -5747,6 +5873,50 @@
     },
     {
       "album": {
+        "name": "take me up",
+        "url": "https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug"
+      },
+      "artists": [
+        {
+          "name": "zachy",
+          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "take me up",
+      "url": "https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K"
+    },
+    {
+      "album": {
+        "name": "new day",
+        "url": "https://open.spotify.com/album/6PzGGgvyYNm2MJ1noYRjZu"
+      },
+      "artists": [
+        {
+          "name": "Bianca Silver",
+          "url": "https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL"
+        },
+        {
+          "name": "KamiKwazi",
+          "url": "https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw"
+        },
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "take the reins",
+      "url": "https://open.spotify.com/track/2szuqnteaYamAD0QKedrNf"
+    },
+    {
+      "album": {
         "name": "Take This Slowly // Autumn Sessions",
         "url": "https://open.spotify.com/album/0En2HzqrFPmB4eVYFiPa7M"
       },
@@ -5816,6 +5986,32 @@
       "duration_ms": 140868,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/0oghQaMuW0hEs4H2B8lFvC"
+    },
+    {
+      "album": {
+        "name": "Thank The Lord",
+        "url": "https://open.spotify.com/album/0cMLla8wAfc7JGcic8E0u0"
+      },
+      "artists": [
+        {
+          "name": "Ron Moala",
+          "url": "https://open.spotify.com/artist/45ovGeOBtTWRc06DsBdnds"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+        },
+        {
+          "name": "Toki.Mo",
+          "url": "https://open.spotify.com/artist/7JZKXKXoqGRV04hZuMGXyF"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/4GEs3yie8TRXU1MvR73M3V"
     },
     {
       "album": {
@@ -6195,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/6t0IPhoaOgDUnYd4Bj2Cff"
+      },
+      "artists": [
+        {
+          "name": "Jubril",
+          "url": "https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/36RqGrDcd39Xaly6ax7Q9z"
+    },
+    {
+      "album": {
         "name": "VIBRATIONS",
         "url": "https://open.spotify.com/album/3C7oyoiqfsSL1gAFCI78YQ"
       },
@@ -6474,7 +6688,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 453103,
       "name": "when i lock eyes on you",
       "url": "https://open.spotify.com/track/5NReBFXlIeUvfijZNp1Fvz"
@@ -6868,7 +7082,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 207654,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/1TGiOGUsYIKJTkFzezu2tX"

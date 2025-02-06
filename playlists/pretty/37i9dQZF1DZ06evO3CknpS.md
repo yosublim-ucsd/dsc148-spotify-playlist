@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,610 likes - 31 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,612 likes - 31 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

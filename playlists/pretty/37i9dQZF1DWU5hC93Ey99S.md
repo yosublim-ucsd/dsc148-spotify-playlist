@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,430 likes - 425 songs - 22 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,710 likes - 425 songs - 22 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,7 +228,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 218 | [How I Feel](https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [How I Feel](https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H) | 5:23 |
 | 219 | [Care for You](https://open.spotify.com/track/120XzsPUKJz6eudGrQ82aT) | [PL80](https://open.spotify.com/artist/06c2gQW2jLAYkRjbaLbJJV) | [Care for You](https://open.spotify.com/album/2IMYNXYEhT1IhP2yfp2Elu) | 2:49 |
 | 220 | [ItsNotREEAALLLLLLLL](https://open.spotify.com/track/397GpgLAJnwQDBwIJ8ko1t) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duoteque](https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 5:27 |
-| 221 | [Love Letter \- okgiorgio Remix](https://open.spotify.com/track/28ns7nKVVgCTFr8XR2qA5o) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Spinback Remixes](https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu) | 3:44 |
+| 221 | [Love Letter \- okgiorgio Remix](https://open.spotify.com/track/28ns7nKVVgCTFr8XR2qA5o) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [Spinback Remixes](https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu) | 3:44 |
 | 222 | [On My Mind](https://open.spotify.com/track/0VxawdFFzxm7usnnOEKfpd) | [Jörgen](https://open.spotify.com/artist/73Wx53eXdgFpipAJJ5PJPo) | [On My Mind](https://open.spotify.com/album/1fxihx6FJNn3bnYdGmCTOi) | 3:13 |
 | 223 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
 | 224 | [For You](https://open.spotify.com/track/6Xn3ss3WhxXKS6W0Mi2RR1) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [For You](https://open.spotify.com/album/6kw5Yq72NQcvIqKYwsCnjV) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. TIMØ y Cardellino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,628 likes - 178 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,627 likes - 178 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 16 | [Conmigo Te Gustó / Llorarás Más De Diez Veces \- En Vivo](https://open.spotify.com/track/3fUrbF2NY2mCvGI7upLv2z) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Conmigo Te Gustó / Llorarás Más De Diez Veces \(En Vivo\)](https://open.spotify.com/album/51D4IHM0H0AAyuhNQCcGez) | 5:57 |
 | 17 | [Carita triste / Olvidarte / A 200 / ¿Qué pasaría? \- En Vivo](https://open.spotify.com/track/4HPFtTtCgguSzd8FY9yjYC) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Carita triste / Olvidarte / A 200 / ¿Qué pasaría? \(En Vivo\)](https://open.spotify.com/album/6Yc0fb4GhWcST79GtuGPoF) | 5:16 |
 | 18 | [EL POLACO \| DJ TAO Turreo Sessions \#27](https://open.spotify.com/track/4xY29SGoJwc10t78HZCZwd) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [EL POLACO \| DJ TAO Turreo Sessions \#27](https://open.spotify.com/album/1qUgVpYoje499dV98RsHWh) | 3:01 |
-| 19 | [Casi Siempre Estoy Pensando en Ti \- Session \# 1](https://open.spotify.com/track/6etAudZOHHoS1zsjyMFoZL) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Casi Siempre Estoy Pensando en Ti \(Session \# 1\)](https://open.spotify.com/album/7DUUJ8b8YBdCzYfzZsknPx) | 3:05 |
+| 19 | [Casi Siempre Estoy Pensando en Ti \- Session \# 1](https://open.spotify.com/track/6etAudZOHHoS1zsjyMFoZL) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Casi Siempre Estoy Pensando en Ti \(Session \# 1\)](https://open.spotify.com/album/7DUUJ8b8YBdCzYfzZsknPx) | 2:37 |
 | 20 | [Culpable](https://open.spotify.com/track/47MMJy4ZaE28ApRUipoddu) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Culpable](https://open.spotify.com/album/6T85XAZkuYE9NqkMzMfdF2) | 2:51 |
 | 21 | [Cumbia y Rock And Roll \- En Vivo Movistar Arena, Sesión 7](https://open.spotify.com/track/5d8yyHEJKgt1Xa5Ha0nku0) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Cumbia y Rock And Roll \(En Vivo Movistar Arena, Sesión 7\)](https://open.spotify.com/album/3kuw1hdz9Olc9NHpbezEXA) | 4:41 |
 | 22 | [Mundo Chiquito](https://open.spotify.com/track/1UluaT7T559BJUmXivjzPN) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Mundo Chiquito](https://open.spotify.com/album/5FjF2NkwHoCglXlJbUgqti) | 3:12 |
@@ -176,7 +176,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 166 | [Te Perdone](https://open.spotify.com/track/2DBCmR3FX2K3Jx7QeeZeXy) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Te Perdone](https://open.spotify.com/album/5uGWst0H0H9nwmHmWl4jnP) | 2:27 |
 | 167 | [Negro cumbiero donde voy](https://open.spotify.com/track/6XtiECNVkKdvsXKomx4I8g) | [Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM) | [Negro cumbiero donde voy](https://open.spotify.com/album/1ZHoz64NmH88YqLHl0jPZ3) | 2:20 |
 | 168 | [Me Enamore de Ti, y Que?](https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Me Enamore de Ti, y Que?](https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg) | 2:48 |
-| 169 | [Y Si Se Quiere Ir](https://open.spotify.com/track/54G1IvYJQLPNlKEMxF3Kwn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Sandronyc](https://open.spotify.com/artist/5kmkNsW1vHzkOiG5nB3jsp) | [Y Si Se Quiere Ir](https://open.spotify.com/album/4sSGKyUasnz00ys394IZeR) | 2:48 |
+| 169 | [Y Si Se Quiere Ir](https://open.spotify.com/track/54G1IvYJQLPNlKEMxF3Kwn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Y Si Se Quiere Ir](https://open.spotify.com/album/4sSGKyUasnz00ys394IZeR) | 2:48 |
 | 170 | [Layla](https://open.spotify.com/track/6hUW9gQWe3TAsJPmcQ2iz0) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Layla](https://open.spotify.com/album/34DW1qZSshzPFlHBVoDQbO) | 2:06 |
 | 171 | [La Felicidad Del Músico](https://open.spotify.com/track/2JTqe4iQQTJRYdqWEYmOBL) | [Wilfran Castillo](https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L) | [La Felicidad Del Músico](https://open.spotify.com/album/61DVDD0ENWqCXJSOihHncx) | 3:52 |
 | 172 | [Amor Eterno](https://open.spotify.com/track/6GyqvxvZu75HX0MjBvlguf) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Amor Eterno](https://open.spotify.com/album/48RIhDdPvRGUmTbQRXnar5) | 4:33 |

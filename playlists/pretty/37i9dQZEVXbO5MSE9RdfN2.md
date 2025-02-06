@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,899 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,900 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 | 12 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
 | 13 | [Who are you?](https://open.spotify.com/track/4Tf49OI6J2TK1LkdfqgUJt) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/5amrTNgcrqh8ZrCW681A9m) | 2:31 |
 | 14 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 |
-| 15 | [As Tears Go By](https://open.spotify.com/track/2EYXCRp63iQdmeKHXN8Rrg) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Come And Stay With Me: The UK 45s 1964\-1969](https://open.spotify.com/album/3poqeypm6c69muWwccyoz8) | 2:37 |
+| 15 | [As Tears Go By](https://open.spotify.com/track/5zyYjd6yeJsO37EHGDhv5M) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [As Tears Go By](https://open.spotify.com/album/3GfS6aHnPg7eoYJuMZm7HT) | 2:36 |
 | 16 | [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 |
 | 17 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 18 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 |
 | 19 | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/4YnC3EgoRzP14QXVDBuTfF) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/album/6tz75fOe1tirQPA9UPdu8p) | 2:35 |
 | 20 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 |
 | 21 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 22 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2) | 4:27 |
+| 22 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 |
 | 23 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
 | 24 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 | 25 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 | 44 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 |
 | 45 | [Would You Fall in Love with Me Again](https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 5:45 |
 | 46 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
-| 47 | [Jerkin'](https://open.spotify.com/track/3rZwj7e7m61R5e9Tn3YTFa) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 2:08 |
+| 47 | [Jerkin'](https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 2:08 |
 | 48 | [All I Need](https://open.spotify.com/track/3OQk21nMrEPnc5KXePcv6E) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:47 |
 | 49 | [Stoned](https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:03 |
 | 50 | [Gorgeous](https://open.spotify.com/track/1lpqJ8XnJS9tXbXmkN2CH8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:05 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

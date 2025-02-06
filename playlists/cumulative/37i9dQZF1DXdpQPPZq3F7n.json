@@ -4445,6 +4445,28 @@
     },
     {
       "album": {
+        "name": "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D"
+      },
+      "artists": [
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "Sanam Teri Kasam",
+      "url": "https://open.spotify.com/track/1PDREqVNvmphIoNac3Vz8c"
+    },
+    {
+      "album": {
         "name": "Raid",
         "url": "https://open.spotify.com/album/6t1dUvow3HRU7M87oHiX4Z"
       },
@@ -4482,7 +4504,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 341780,
       "name": "Sapna Jahan",
       "url": "https://open.spotify.com/track/5PM1dIibpTR57jlugvjNSM"

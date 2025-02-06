@@ -1,12 +1,12 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 881235,
+  "num_followers": 881212,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6DEAAAAAAA8oN9b+ns2ByCLghLrjZix",
+  "snapshot_id": "Z6Nc2QAAAAAwHdNQjqfSjvvf5MKOReTP",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:36",
@@ -153,6 +153,38 @@
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
     },
     {
+      "added_at": "2025-02-05 12:43:05",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "added_at": "2025-02-05 12:42:14",
+      "album": {
+        "name": "Hush Hush",
+        "url": "https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN"
+      },
+      "artists": [
+        {
+          "name": "Meira Omar",
+          "url": "https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Hush Hush",
+      "url": "https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob"
+    },
+    {
       "added_at": "2025-01-31 05:00:36",
       "album": {
         "name": "QURBANI (KOM TBX)",
@@ -211,18 +243,18 @@
     {
       "added_at": "2025-01-31 05:00:36",
       "album": {
-        "name": "Okej att d\u00f6",
-        "url": "https://open.spotify.com/album/6xeArYtgNeWryc5C0xOME3"
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
       "artists": [
         {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 171906,
-      "name": "Nothing 4-ever",
-      "url": "https://open.spotify.com/track/5wqq5bmr41MsWnoCx2FX4i"
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -279,18 +311,18 @@
     {
       "added_at": "2025-01-31 05:00:36",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+        "name": "Okej att d\u00f6",
+        "url": "https://open.spotify.com/album/6xeArYtgNeWryc5C0xOME3"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
         }
       ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+      "duration_ms": 171906,
+      "name": "Nothing 4-ever",
+      "url": "https://open.spotify.com/track/5wqq5bmr41MsWnoCx2FX4i"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -425,6 +457,26 @@
       "url": "https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1"
     },
     {
+      "added_at": "2025-02-05 12:42:14",
+      "album": {
+        "name": "Land Till Land",
+        "url": "https://open.spotify.com/album/5RNOw8MKgHH5lUwteCZQx8"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "duration_ms": 130709,
+      "name": "Land Till Land",
+      "url": "https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0"
+    },
+    {
       "added_at": "2025-01-31 05:00:36",
       "album": {
         "name": "Viva La Vida",
@@ -439,26 +491,6 @@
       "duration_ms": 147428,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
-    },
-    {
-      "added_at": "2025-01-31 05:00:36",
-      "album": {
-        "name": "The Days (NOTION Remix)",
-        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
-      },
-      "artists": [
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "The Days - NOTION Remix",
-      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -571,22 +603,22 @@
     {
       "added_at": "2025-01-31 05:00:36",
       "album": {
-        "name": "FIESTA",
-        "url": "https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog"
+        "name": "The Days (NOTION Remix)",
+        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
       "artists": [
         {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
         },
         {
-          "name": "Sweyway",
-          "url": "https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C"
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
         }
       ],
-      "duration_ms": 127429,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M"
+      "duration_ms": 233229,
+      "name": "The Days - NOTION Remix",
+      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -607,18 +639,18 @@
     {
       "added_at": "2025-01-31 05:00:36",
       "album": {
-        "name": "I'm The Problem",
-        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+        "name": "Pink Velvet Theatre",
+        "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 177811,
-      "name": "I'm The Problem",
-      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+      "duration_ms": 203960,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -655,22 +687,6 @@
     {
       "added_at": "2025-01-31 05:00:36",
       "album": {
-        "name": "Pink Velvet Theatre",
-        "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA"
-    },
-    {
-      "added_at": "2025-01-31 05:00:36",
-      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -683,6 +699,26 @@
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-01-31 05:00:36",
+      "album": {
+        "name": "FIESTA",
+        "url": "https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Sweyway",
+          "url": "https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C"
+        }
+      ],
+      "duration_ms": 127429,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -707,26 +743,18 @@
     {
       "added_at": "2025-01-31 05:00:36",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
       "artists": [
         {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
         }
       ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+      "duration_ms": 187537,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-01-31 05:00:36",
@@ -779,22 +807,6 @@
     {
       "added_at": "2025-01-31 05:00:36",
       "album": {
-        "name": "Sista G\u00e5ng",
-        "url": "https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Sista G\u00e5ng",
-      "url": "https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA"
-    },
-    {
-      "added_at": "2025-01-31 05:00:36",
-      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -823,38 +835,6 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2025-01-31 05:00:36",
-      "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
-    },
-    {
-      "added_at": "2025-01-31 05:00:36",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        }
-      ],
-      "duration_ms": 187537,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-01-31 05:00:36",

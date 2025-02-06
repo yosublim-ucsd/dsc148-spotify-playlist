@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Estratos. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Miki Ikhifa. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 162716,
       "name": "(being) around you",
       "url": "https://open.spotify.com/track/5P4I2e4mSyCdyKxMdLnyai"
@@ -8099,6 +8099,24 @@
     },
     {
       "album": {
+        "name": "Els",
+        "url": "https://open.spotify.com/album/3IIy8v8WJDnTMuNsGE5U9F"
+      },
+      "artists": [
+        {
+          "name": "Vega Trails",
+          "url": "https://open.spotify.com/artist/0gbsttCxz1wkYMjN64WCgR"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397240,
+      "name": "Els",
+      "url": "https://open.spotify.com/track/3upscNUjgVQKGjhyld1huo"
+    },
+    {
+      "album": {
         "name": "Elyne Road",
         "url": "https://open.spotify.com/album/0vd22mWrC3rcAnlY9Pvy9L"
       },
@@ -9892,7 +9910,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 228491,
       "name": "Four Flights to Fibs",
       "url": "https://open.spotify.com/track/339mditL5UwdFiPbUsBOa0"
@@ -20159,6 +20177,40 @@
     },
     {
       "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/5RGlA3BIEek2gVSowUjyjA"
+      },
+      "artists": [
+        {
+          "name": "Lophae",
+          "url": "https://open.spotify.com/artist/6s2kz3ZpzNxBhdIsyyNJrI"
+        },
+        {
+          "name": "Greg Sanders",
+          "url": "https://open.spotify.com/artist/0ZTaqg6WzuAyz1hu6vzVcW"
+        },
+        {
+          "name": "Tom Herbert",
+          "url": "https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo"
+        },
+        {
+          "name": "Ben Brown",
+          "url": "https://open.spotify.com/artist/3w0aN7bm97BBsJUxXuAWQe"
+        },
+        {
+          "name": "Sam Rapley",
+          "url": "https://open.spotify.com/artist/3MEYfpqCfIn9JD0PJVFybd"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240935,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/0yPMvhgfQvXMNsnrF7ScmX"
+    },
+    {
+      "album": {
         "name": "Perfectly Imperfect",
         "url": "https://open.spotify.com/album/187VzvvDCpVvlFWvlMOl2Q"
       },
@@ -23270,7 +23322,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 354352,
       "name": "Shifting Sands",
       "url": "https://open.spotify.com/track/1s2zS5rGcfMcEuoZee4tgd"
@@ -26784,6 +26836,24 @@
       "duration_ms": 192342,
       "name": "The MIA Way",
       "url": "https://open.spotify.com/track/5ZJZ68z3mrT9FNLOm20qmo"
+    },
+    {
+      "album": {
+        "name": "The Mind's Eye",
+        "url": "https://open.spotify.com/album/73MFyZykqRFLY6N8vNm8ii"
+      },
+      "artists": [
+        {
+          "name": "Alex Tremblay",
+          "url": "https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275480,
+      "name": "The Mind's Eye",
+      "url": "https://open.spotify.com/track/7gcsYUVLQjfvLkEtaLqC76"
     },
     {
       "album": {

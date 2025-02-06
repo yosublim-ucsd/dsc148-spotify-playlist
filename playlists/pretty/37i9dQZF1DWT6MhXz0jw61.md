@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Mac Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,818 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,176 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stoned](https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:03 |
-| 2 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 2 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 3 | [RUSSIAN ROULETTE\(I ADORE U\)](https://open.spotify.com/track/04YRSuoGZcAj9kj57c6utu) | [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR) | [EVER SINCE SHEFFIELD](https://open.spotify.com/album/4v0IxyTdW6n5yk3W37HpQw) | 3:21 |
 | 4 | [Isolation](https://open.spotify.com/track/2VlcIDXT55i4ZsKcSfzWBf) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Isolation](https://open.spotify.com/album/5ahe3YQdH4WGfEFwZ5jQtF) | 2:53 |
 | 5 | [pesticides](https://open.spotify.com/track/4ZUeoTIJLu74h6oUaO66ve) | [Kinrose](https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m), [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn) | [pesticides](https://open.spotify.com/album/5VvkWqMFEgQ5AwbG3PNBcz) | 2:42 |

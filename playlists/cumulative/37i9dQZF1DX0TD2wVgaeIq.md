@@ -4,11 +4,11 @@
 
 > Beautiful bansuri flute and sitar from India.
 
-107 songs - 8 hr 29 min
+109 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/4O7IzjHZqnIVvyWLzaIquB) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bhTW190ATzt01429I1aWe) | 0:00 | 2023-03-09 |  |
+| [](https://open.spotify.com/track/4O7IzjHZqnIVvyWLzaIquB) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bhTW190ATzt01429I1aWe) | 0:00 | 2023-03-09 | 2025-02-06 |
 | [Acceptance](https://open.spotify.com/track/2Qc1cWzUBOJgnXH1MSjV5h) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Calming Bansuri](https://open.spotify.com/album/3sVxXZRKlXWDdI1HZRKyk3) | 8:39 | 2023-03-09 | 2023-10-06 |
 | [Acceptance](https://open.spotify.com/track/1ZbZSSYeOULYN4ciTmw3tm) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Acceptance](https://open.spotify.com/album/1NfHAgXOY9Lk1eBdXix82J) | 8:33 | 2023-03-09 |  |
 | [Anarkali](https://open.spotify.com/track/6XjsTOdtCJqn50W7ouvXAq) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Temple Leaves](https://open.spotify.com/album/4FgFJmKNa2omZgJxpybnkP) | 5:00 | 2023-03-09 |  |
@@ -28,6 +28,7 @@
 | [Calm in Tintal](https://open.spotify.com/track/0oN3LQLRJMpBOThbR49wS8) | [Chandr Pushp](https://open.spotify.com/artist/0X91WNEF1zQ0MVBMDycjQ1) | [Calm in Tintal](https://open.spotify.com/album/0kCqbEBWHqWOj5EPvOn6D8) | 4:48 | 2025-01-15 |  |
 | [Calming Raga](https://open.spotify.com/track/2W8dObDUEuAgZTz3eRRnUw) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Calming Raga](https://open.spotify.com/album/3Ar0bUOfySyArKK2CA8muj) | 5:11 | 2023-03-09 | 2023-10-06 |
 | [Celestial](https://open.spotify.com/track/0zuW70H4BDayKr9bl5eIHa) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Celestial](https://open.spotify.com/album/3htC8VYLMehNJYtkMbRCUz) | 3:09 | 2023-03-09 |  |
+| [Chandni Calm](https://open.spotify.com/track/4O2wrcX6bNSLnAxZGf1TJ4) | [Nadiyon](https://open.spotify.com/artist/5qrL0zLxtiyX5IL2XvLUVQ) | [Chandni Calm](https://open.spotify.com/album/6bncdYTyzSm55jb6gk16pf) | 4:43 | 2025-02-05 |  |
 | [Compassion](https://open.spotify.com/track/5pxPqW9c8F010Cv3VfJIJJ) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Compassion](https://open.spotify.com/album/6aIorUJ01obK1eRU74UHdj) | 7:10 | 2023-03-09 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2023-03-09 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2023-03-09 | 2023-10-06 |
@@ -45,6 +46,7 @@
 | [Foreign Mists](https://open.spotify.com/track/020AoP6FK7YgDMMj3JFOtJ) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Foreign Mists](https://open.spotify.com/album/6EY0XdNwe6Br36lkhg7lKc) | 4:38 | 2023-03-09 | 2024-08-23 |
 | [Ganga Bliss](https://open.spotify.com/track/1sjQBblq55bICdWYxXWmSQ) | [Harshit Shankar](https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R) | [Ganga Bliss](https://open.spotify.com/album/2zfyDcGE7MzVVU7k0hlQwG) | 2:02 | 2023-03-09 |  |
 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 | 2023-03-09 | 2024-08-23 |
+| [Healing Energy](https://open.spotify.com/track/5BgmQUITJ3NuJAYCcHsdfA) | [Shaant Man](https://open.spotify.com/artist/3DlcfbEsCsjEkmTOAHBNwO) | [Healing Energy](https://open.spotify.com/album/2ClNJPtgaQ1P6c3QuMSSAI) | 3:50 | 2025-02-05 |  |
 | [Healing Garden](https://open.spotify.com/track/6x7xECuEr6vwoNf3j7wb1z) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Healing Garden](https://open.spotify.com/album/5SpMwisr4L8bZYSrlPD32X) | 4:32 | 2024-10-25 |  |
 | [Hope](https://open.spotify.com/track/65jM7hkw0Nm0fJMiVMYw5b) | [Inner Soundscape](https://open.spotify.com/artist/4kzC9vZGmg6KYDHlI7f3ce), [Jonas Sjöblom](https://open.spotify.com/artist/3jglZKe9rgIy3nielm7ORi) | [Hope](https://open.spotify.com/album/1szdQT7PlIeZaZQ06MkKP8) | 3:48 | 2024-07-18 | 2024-10-26 |
 | [Kirwani](https://open.spotify.com/track/4UEde1mdBJZhBkK36imngG) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x), [Abhishek Borkar](https://open.spotify.com/artist/0gasFSqcbjVLnwk4pAeaD8) | [Relaxing Ragas, Vol\. 2](https://open.spotify.com/album/6Z0jzXiQFhTwGAjd7IWVNe) | 3:07 | 2023-03-09 | 2023-10-06 |

@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\.  ☂️ Kannessa Isac Elliot.
 
-801 songs - 1 day 15 hr 49 min
+802 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Punch In The Face](https://open.spotify.com/track/29IoKl81fYbFa8QkVNADm3) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [A Punch In The Face](https://open.spotify.com/album/6eU7PDLnzbIFL6WnzKoHle) | 3:09 | 2025-01-30 |  |
 | [A.D.I](https://open.spotify.com/track/4dowlEKgOztCjm8eKmXKW7) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [A.D.I](https://open.spotify.com/album/5C10qYGb5tVa9LVkXKLok6) | 2:54 | 2025-01-23 | 2025-01-31 |
 | [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 | 2024-09-06 | 2024-09-13 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-05 |  |
 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 | 2024-11-21 | 2025-01-24 |
 | [Adiós \(feat\. Juuna Chill\)](https://open.spotify.com/track/4sPnPFF3ZWrrUBD6rA2Qpv) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Adiós \(feat\. Juuna Chill\)](https://open.spotify.com/album/2PAyYsAVyhllixYkVH1SUQ) | 2:53 | 2024-07-02 | 2024-07-05 |
 | [After The Opera](https://open.spotify.com/track/2yeTcMb9sYIYvZm7JZu770) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [After The Opera](https://open.spotify.com/album/0Fc51KziL9dQGphoiRYQaR) | 3:00 | 2025-01-23 | 2025-01-31 |
@@ -142,7 +143,7 @@
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-07-02 | 2024-08-03 |
 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-22 | 2024-08-30 |
 | [Delulu](https://open.spotify.com/track/23rEMK4z3yVPLI0cg3tNzi) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Delulu](https://open.spotify.com/album/0IYb2MAl3qPlRZxqKkRM8x) | 3:15 | 2024-07-02 | 2024-07-05 |
-| [DELUSIONAL](https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [DELUSIONAL](https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe) | 3:15 | 2024-11-28 |  |
+| [DELUSIONAL](https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [DELUSIONAL](https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe) | 3:15 | 2024-11-28 | 2025-02-06 |
 | [Deluxe Edition](https://open.spotify.com/track/5v3uF2ZOuaL1nrZ95PpC89) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Debórah Bond](https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [Deluxe Edition](https://open.spotify.com/album/1fzHswupm10NZ2KfmDnj3r) | 2:58 | 2024-09-19 | 2024-09-27 |
 | [Dementia](https://open.spotify.com/track/4l6yk9CYDBXmPZLngUdPUW) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Dementia](https://open.spotify.com/album/6ydNn48knmj2us7w0VE3Y2) | 3:07 | 2024-08-29 | 2024-09-06 |
 | [Demon in Disguise](https://open.spotify.com/track/4zDGVgxu7irQ6N3f2Gtjru) | [Damian Axel](https://open.spotify.com/artist/6iblShfnq8xFcOy00rnyvx), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Demon in Disguise](https://open.spotify.com/album/0diPZEwgTuyx5DmSJzDoat) | 2:30 | 2024-09-12 | 2024-09-27 |

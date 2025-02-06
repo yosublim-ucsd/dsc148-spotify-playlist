@@ -21231,6 +21231,24 @@
     },
     {
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/1atdTYWB10uj8g81U7au4d"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168264,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4kisbBB7d1dBopBfL44yRk"
+    },
+    {
+      "album": {
         "name": "Shut Up & Dance",
         "url": "https://open.spotify.com/album/4XEB0s8w1pu0LzftsN6Wyq"
       },

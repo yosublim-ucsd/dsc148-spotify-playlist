@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > ¡mueve ese booty! 🍑🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,210 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,257 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

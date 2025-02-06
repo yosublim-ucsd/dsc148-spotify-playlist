@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "WiND",
+        "url": "https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223903,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/40yE0gCybjI6ND0hCac2ft"
+    },
+    {
+      "album": {
         "name": "Candydrip (Deluxe)",
         "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
       },
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 238016,
       "name": "Best For Me",
       "url": "https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61"
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 165106,
       "name": "Check",
       "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 235684,
       "name": "Colourblind (feat. Loyle Carner)",
       "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
@@ -4509,6 +4527,24 @@
     },
     {
       "album": {
+        "name": "I am the Blueprint",
+        "url": "https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159432,
+      "name": "Feeling Alright",
+      "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
+    },
+    {
+      "album": {
         "name": "Feelin\u2019 Go(o)d",
         "url": "https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR"
       },
@@ -5253,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "GIRLS!",
+        "url": "https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142196,
+      "name": "GIRLS!",
+      "url": "https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH"
+    },
+    {
+      "album": {
         "name": "GIVE MINE",
         "url": "https://open.spotify.com/album/5bhUSxacVDGCApH4qcc3SH"
       },
@@ -5490,7 +5544,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
@@ -6682,7 +6736,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 139500,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/7aVlNa4f1VxG6D1gEEQ6CY"
@@ -7208,7 +7262,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 204000,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/4kSX2ZjD4zzZxiX5bLh6kj"
@@ -7478,6 +7532,28 @@
       "duration_ms": 221920,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/4Z27gYTMJnvrRpovGSDbbo"
+    },
+    {
+      "album": {
+        "name": "Kingfisher",
+        "url": "https://open.spotify.com/album/3DWINcvt3sVbjqiQI1nktw"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Asheber",
+          "url": "https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362146,
+      "name": "Kingfisher - feat. Asheber",
+      "url": "https://open.spotify.com/track/4EVaThDYJ5rOs5M7sCHvgn"
     },
     {
       "album": {
@@ -8237,6 +8313,28 @@
     },
     {
       "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "album": {
         "name": "Love In The Way",
         "url": "https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t"
       },
@@ -8692,6 +8790,32 @@
       "duration_ms": 263654,
       "name": "Madoromi",
       "url": "https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d"
+    },
+    {
+      "album": {
+        "name": "X-FACTOR 3",
+        "url": "https://open.spotify.com/album/5KnOyCLJHa2Tag5kZYUk1v"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        },
+        {
+          "name": "GooDee",
+          "url": "https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v"
+        },
+        {
+          "name": "Ryohu",
+          "url": "https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196270,
+      "name": "Magic Hour",
+      "url": "https://open.spotify.com/track/5nePUc9XXUmpwMqkt8oKyK"
     },
     {
       "album": {
@@ -10844,7 +10968,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 223395,
       "name": "Once Upon a Night",
       "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
@@ -11351,6 +11475,28 @@
     },
     {
       "album": {
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210994,
+      "name": "Peace Talk",
+      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
       },
@@ -11724,6 +11870,24 @@
       "duration_ms": 198901,
       "name": "Present Day Present Time v2 (feat. SUSHIBOYS)",
       "url": "https://open.spotify.com/track/6IAF73qP2HKXDOuJmcPZnO"
+    },
+    {
+      "album": {
+        "name": "Private",
+        "url": "https://open.spotify.com/album/6HoymW6UA6u77eJcmDPYkQ"
+      },
+      "artists": [
+        {
+          "name": "MALIYA",
+          "url": "https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178752,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/7cHHIwZfGVue2yLk1QKljw"
     },
     {
       "album": {
@@ -18598,7 +18762,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 174082,
       "name": "\u660e\u308b\u3044\u90e8\u5c4b",
       "url": "https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1"

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Norman Hutchins, Dorothy Norwood and more
+> With Sunday Service Choir, Norman Hutchins, Commissioned and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 237 likes - 50 songs - 4 hr 12 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Now Are We](https://open.spotify.com/track/2Raelp57GEKfCeQVr2RpP6) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:27 |
 | 50 | [How Excellent Is Your Name](https://open.spotify.com/track/3BoPTbkh566ILyfcYktukU) | [The Florida Mass Choir](https://open.spotify.com/artist/276XJGytn0WM29N4J0N7DI) | [...Higher Hope…](https://open.spotify.com/album/2QzrzBurLiL9JtyWA9oZCe) | 7:52 |
 
-Snapshot ID: `Z6LaWwAAAACzy7hPvqgczvYWb8FbzZ2F`
+Snapshot ID: `Z6QB+AAAAACmVPKOdxYpucRZT/dGVLyf`

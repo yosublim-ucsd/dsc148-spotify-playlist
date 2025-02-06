@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125481,
+  "num_followers": 125493,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATn8m1rZW7DuRd7nwzhD3rfbleTS67",
+  "snapshot_id": "AAAToLuxTedNqEnDi/nxUxSBF51UJxKn",
   "tracks": [
+    {
+      "added_at": "2025-02-05 15:20:16",
+      "album": {
+        "name": "Foul (RAIZHELL Remix)",
+        "url": "https://open.spotify.com/album/3n1dpx6mzHp6UA5uw8F7VU"
+      },
+      "artists": [
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 179262,
+      "name": "Foul",
+      "url": "https://open.spotify.com/track/678Xgl1L3zy2RR1QQO44zm"
+    },
     {
       "added_at": "2025-02-04 15:33:36",
       "album": {

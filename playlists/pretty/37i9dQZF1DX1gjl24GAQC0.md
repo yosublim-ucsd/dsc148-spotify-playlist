@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? \(Cover: <br/>ALL\(H\)OURS\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,051 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,010 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 49 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 |
 | 50 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 |
 
-Snapshot ID: `Z6Hb+AAAAAC7cLnkVEu3d+DbtnMJdGv9`
+Snapshot ID: `Z6MqcAAAAAC4rpyZKPdYz60mC32CEv84`

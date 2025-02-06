@@ -6051,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "blade bird",
+        "url": "https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198587,
+      "name": "blade bird",
+      "url": "https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ"
+    },
+    {
+      "album": {
         "name": "Blades",
         "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
       },
@@ -21340,7 +21358,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 212927,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
@@ -26418,7 +26436,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 213231,
       "name": "IN FEAR, ETC.",
       "url": "https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO"
@@ -28474,6 +28492,24 @@
       "duration_ms": 134117,
       "name": "Kinky",
       "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
+    },
+    {
+      "album": {
+        "name": "Flesh Balloon",
+        "url": "https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244240,
+      "name": "Kinky Love",
+      "url": "https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM"
     },
     {
       "album": {
@@ -50952,7 +50988,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 180289,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6"
@@ -53562,6 +53598,24 @@
       "duration_ms": 160165,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50"
+    },
+    {
+      "album": {
+        "name": "Debunker",
+        "url": "https://open.spotify.com/album/7CV16uMpp4OJrur72BruwV"
+      },
+      "artists": [
+        {
+          "name": "Eterna",
+          "url": "https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221121,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490"
     },
     {
       "album": {

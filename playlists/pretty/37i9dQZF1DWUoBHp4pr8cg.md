@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Espiquet, Central Cee, Blue Pappi, Travis Scott, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,963 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,969 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 3 | [Eish Chief \- Remix](https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Eish Chief \(Remix\)](https://open.spotify.com/album/5jzBw5vh59rdN2HQMzehK7) | 3:40 |
 | 4 | [Took Me For A Nai \- Remix](https://open.spotify.com/track/5aQlgRVY1d5hL0OJJk8wcU) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Ma\-E](https://open.spotify.com/artist/5gGn0EkjlWgn2iVhUccOVC) | [Took Me For A Nai \(Remix\)](https://open.spotify.com/album/00r5MWCv41RcODMWRGF3kd) | 3:59 |
 | 5 | [O'krrr](https://open.spotify.com/track/2YGFoJloaCrfpMr5wjF7lV) | [Lowkey\_rsa](https://open.spotify.com/artist/5a2IsaiUzAMsRqGMUWL46e), [LOOKATUPS](https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER) | [O'krrr](https://open.spotify.com/album/7b6IrSqUlDWnrYbM1MVZYj) | 3:00 |
-| 6 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 6 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 7 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
 | 8 | [Speak Love \(feat\. WNDRSZN & Marcus Harvey\)](https://open.spotify.com/track/0OSFXMr8KKhkzKJJ0kH9Cv) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [ONDELIVE](https://open.spotify.com/artist/4TvfKR50RpAHjQdMKTqL8t), [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [MAGLERA TAPES](https://open.spotify.com/album/7HWGDAaDmVM4WhSNcb0Atp) | 3:26 |
 | 9 | [Emzini Wezinsizwa \(Remix\) \(feat\. Dando, Bravo Le Roux, Lowfeye & Anzo\)](https://open.spotify.com/track/1iQyCQGhe88wHQYrrwvkeV) | [Skhindi](https://open.spotify.com/artist/6i1STIcRhB9q92QmFJi4IP), [Dando](https://open.spotify.com/artist/1P7tprHkMye1bWh3j58GPk), [Bravo le Roux](https://open.spotify.com/artist/3gtWs43EBGSIbnqwuUJopY), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Emzini Wezinsizwa \(Remix\) \(feat\. Dando, Bravo Le Roux, Lowfeye & Anzo\)](https://open.spotify.com/album/2ygCrZuPl3ogLuRO7XHjEF) | 4:13 |

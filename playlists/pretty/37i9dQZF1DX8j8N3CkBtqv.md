@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover \- Kushagra
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,705 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,716 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

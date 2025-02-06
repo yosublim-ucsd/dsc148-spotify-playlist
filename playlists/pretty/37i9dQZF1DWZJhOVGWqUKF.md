@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: Nevertel
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,069 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,125 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

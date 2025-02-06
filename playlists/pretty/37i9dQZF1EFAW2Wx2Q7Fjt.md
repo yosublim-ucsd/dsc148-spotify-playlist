@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,931 likes - 168 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,968 likes - 168 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 167 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 168 | [Heartbroken](https://open.spotify.com/track/6Cw8aqDK5rDH7iL12ROlVP) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS) | [Heartbroken](https://open.spotify.com/album/265wK1CaRM8AHpZXxVkzad) | 2:57 |
 
-Snapshot ID: `AbouFgAAAAC7DWEQZB33dZJpED7E1EDo`
+Snapshot ID: `AbozrAAAAABB2jqzWWIBKvXtYxSymYZ3`

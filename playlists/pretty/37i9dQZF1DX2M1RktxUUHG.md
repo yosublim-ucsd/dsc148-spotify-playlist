@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M1RktxUUHG.md) - [plain]
 
 > The biggest songs of the 2020s\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,577 likes - 150 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,018 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

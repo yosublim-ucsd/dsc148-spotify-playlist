@@ -17539,6 +17539,24 @@
     },
     {
       "album": {
+        "name": "Slow Dancing In A Burning Room (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222998,
+      "name": "Slow Dancing In A Burning Room - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0smYhS2gKT2HFZDXGcK9LX"
       },

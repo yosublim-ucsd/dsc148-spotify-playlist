@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Rihanna, Miley Cyrus, Ariana Grande and more
+> With Rihanna, Ariana Grande, Bruno Mars and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,293 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,567 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 | 49 | [I'm Not The Only One](https://open.spotify.com/track/5QM0SsyzmBM0pbFY52Xj1X) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR) | 3:59 |
 | 50 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 
-Snapshot ID: `Z6LJ5QAAAAAzPsa9mTxzv6ZzDdHsjfhS`
+Snapshot ID: `Z6QVlAAAAABQRWR5SrZvDtdDoY/dtHYR`

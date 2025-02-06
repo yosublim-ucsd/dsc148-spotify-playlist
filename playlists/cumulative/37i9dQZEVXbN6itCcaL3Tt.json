@@ -5738,7 +5738,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -5756,7 +5756,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -14602,7 +14602,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
@@ -19422,10 +19422,48 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 179030,
       "name": "Kiedy\u015b Ci\u0119 Znajd\u0119",
       "url": "https://open.spotify.com/track/39PDJqBMIsXLdwh0Wr9eDy"
+    },
+    {
+      "album": {
+        "name": "TTHE GRIND (DELUXE)",
+        "url": "https://open.spotify.com/album/6kWghktaGeQtwLswCTSacE"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Reni Jusis",
+          "url": "https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "KIEDY\u015a CI\u0118 ZNAJD\u0118 (REMIX)",
+      "url": "https://open.spotify.com/track/6PwwtsjQCW9oK9tkxou4UO"
     },
     {
       "album": {
@@ -25192,7 +25230,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 146813,
       "name": "MVP",
       "url": "https://open.spotify.com/track/0tvy0ZLlvPXKTJMvDK0wjx"
@@ -27842,7 +27880,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -37798,7 +37836,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -38788,7 +38826,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 201829,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/6jGFzqqW8VBBf4oLhnP4A6"
@@ -39730,7 +39768,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -39748,7 +39786,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -42940,7 +42978,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 245200,
       "name": "Wiecznie",
       "url": "https://open.spotify.com/track/1YcEiW6wsJlxnePEkkUI2M"

@@ -4,7 +4,7 @@
 
 > This is Ludovico Einaudi\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 41 min
+84 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,10 +60,12 @@
 | [Pathos \- Theme](https://open.spotify.com/track/1dsJhk09Q9nqu1vhQvAEzq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Pathos \(Theme\)](https://open.spotify.com/album/2w1GSTM5Yr61X7PpeDWl6h) | 4:18 | 2025-01-10 |  |
 | [Petricor](https://open.spotify.com/track/4XWqS8UGO5x4ClB2yH0nbW) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [Elements \(Deluxe\)](https://open.spotify.com/album/5jzohQ50TA36qTumAG1rEA) | 6:34 | 2025-01-10 |  |
 | [Primavera](https://open.spotify.com/track/4BMHp3DkI8VLsuB9Kr0pzu) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Divenire \(Deluxe Edition\)](https://open.spotify.com/album/2EhFeiWsTdfqzdFskVUxBg) | 7:22 | 2025-01-10 |  |
+| [Punta Bianca](https://open.spotify.com/track/6p6xZtQkYNaKT0sxtzqtc6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:12 | 2025-02-05 |  |
 | [Resta Con Me](https://open.spotify.com/track/0eZIx87EUrxkvV7X8fCbIv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Marco Decimo](https://open.spotify.com/artist/11IgISNFApjwaLP6Y64tEz) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 4:55 | 2025-01-10 |  |
 | [Rolling Like A Ball](https://open.spotify.com/track/264yEsvuPUzGcBO0nSCSkl) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:17 | 2025-01-10 |  |
 | [Rose Bay](https://open.spotify.com/track/3fXvaNpYYG1S1pla7P71oF) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rose Bay](https://open.spotify.com/album/6EgPZYM69ojeuJdZaHPOJQ) | 4:19 | 2025-01-10 |  |
 | [Run](https://open.spotify.com/track/7yUukIX492jvLR85xYQkvc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:32 | 2025-01-10 |  |
+| [Santiago](https://open.spotify.com/track/7iJrqJsVc180a9IavhP1Yk) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:29 | 2025-02-05 |  |
 | [Seven Days Walking / Day 1: Ascent](https://open.spotify.com/track/1Bdgn4nmMlADRQ6DPJh7UM) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 1\)](https://open.spotify.com/album/1m4GKm4lVNZdA4dHwcr8of) | 5:37 | 2025-01-10 |  |
 | [Seven Days Walking / Day 1: Cold Wind Var\. 1](https://open.spotify.com/track/6vSczg0UFMXkqpFJEE03Dr) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Federico Mecozzi](https://open.spotify.com/artist/1KGN2lEFFhc1rGJNcQPsfU), [Redi Hasa](https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f) | [Seven Days Walking / Day 1: Cold Wind Var\. 1](https://open.spotify.com/album/4I2JSkxxieSS3Rikx4eHaE) | 3:59 | 2025-01-10 |  |
 | [Seven Days Walking / Day 1: Gravity](https://open.spotify.com/track/6vCAsg5oGCn2EuLP2X8LOK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Federico Mecozzi](https://open.spotify.com/artist/1KGN2lEFFhc1rGJNcQPsfU), [Redi Hasa](https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f) | [Seven Days Walking \(Day 1\)](https://open.spotify.com/album/1m4GKm4lVNZdA4dHwcr8of) | 5:27 | 2025-01-10 |  |

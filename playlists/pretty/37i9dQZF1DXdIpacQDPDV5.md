@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Loud Luxury
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,763 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,752 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 6 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 |
 | 7 | [Higher](https://open.spotify.com/track/3xWOfgZzCg1jdEpEfM4oKi) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Higher](https://open.spotify.com/album/1TGiQpFGwQtuDcxNcKeFRb) | 2:40 |
 | 8 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 |
-| 9 | [Endless ft Ed Graves](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless ft Ed Graves](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
+| 9 | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
 | 10 | [In My Head](https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [In My Head](https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr) | 3:35 |
 | 11 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 12 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |

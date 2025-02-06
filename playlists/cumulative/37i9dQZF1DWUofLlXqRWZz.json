@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "The Summer Portraits",
+        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252120,
+      "name": "Punta Bianca",
+      "url": "https://open.spotify.com/track/6p6xZtQkYNaKT0sxtzqtc6"
+    },
+    {
+      "album": {
         "name": "Una Mattina",
         "url": "https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c"
       },
@@ -1106,6 +1124,24 @@
       "duration_ms": 332360,
       "name": "Run",
       "url": "https://open.spotify.com/track/7yUukIX492jvLR85xYQkvc"
+    },
+    {
+      "album": {
+        "name": "The Summer Portraits",
+        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269480,
+      "name": "Santiago",
+      "url": "https://open.spotify.com/track/7iJrqJsVc180a9IavhP1Yk"
     },
     {
       "album": {

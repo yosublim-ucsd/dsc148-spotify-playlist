@@ -301,8 +301,8 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 291 | [Another Life](https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:25 |
 | 292 | [Foot Forward](https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 2:33 |
 | 293 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:45 |
-| 294 | [Baptized In Fear](https://open.spotify.com/track/5rzI6Jnlhx8DgVgsOLorfW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:52 |
-| 295 | [The Abyss \(feat\. Lana Del Rey\)](https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:42 |
-| 296 | [Hurry Up Tomorrow](https://open.spotify.com/track/4TDPlp7OSOjuDU3l7PCM04) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:51 |
+| 294 | [The Abyss \(feat\. Lana Del Rey\)](https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:42 |
+| 295 | [Hurry Up Tomorrow](https://open.spotify.com/track/4TDPlp7OSOjuDU3l7PCM04) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:51 |
+| 296 | [Red Terror](https://open.spotify.com/track/717s9KFmHhyy5t3xkStS56) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:51 |
 
-Snapshot ID: `AAAD33DAQnzdFtgIH6i0AqOUB8aee1dj`
+Snapshot ID: `AAAD4VETL5QCpnd0H+0Pllu4FJLowqsm`

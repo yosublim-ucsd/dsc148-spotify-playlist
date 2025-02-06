@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Weeknd \(pictured\), Bring Me The Horizon, JENNIE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,236 likes - 114 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,238 likes - 114 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 28 | [Open Season](https://open.spotify.com/track/0ftvcxmgmafkBWUxvPpRDb) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Bastion](https://open.spotify.com/artist/52tJU1YfTeD1uCQjq8yooZ) | [Open Season](https://open.spotify.com/album/6FmD0ohMKxaDUsnnQYnZKe) | 2:51 |
 | 29 | [Let's Leave Together](https://open.spotify.com/track/7xv3o3szm1R3zQDc95Q0eA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Let's Leave Together](https://open.spotify.com/album/7J2HCZc3g9V0KAq2DhAo7b) | 3:20 |
 | 30 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
-| 31 | [Endless ft Ed Graves](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless ft Ed Graves](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
+| 31 | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
 | 32 | [lemons](https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [lemons](https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI) | 2:29 |
 | 33 | [Half Way](https://open.spotify.com/track/5qdfpE7QdCEdbyvZAjP9fk) | [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Half Way](https://open.spotify.com/album/05k9DvSzjUmAnnzglNa2iT) | 3:08 |
 | 34 | [There’s Always Gonna Be Something](https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [There's Always Gonna Be Something](https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl) | 4:02 |

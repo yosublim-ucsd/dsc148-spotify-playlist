@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Luciero, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Noah Parks, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -2725,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Blue Burden",
+        "url": "https://open.spotify.com/album/0RYBIqEnOIyCu5K0hSKQD3"
+      },
+      "artists": [
+        {
+          "name": "Noah Parks",
+          "url": "https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208823,
+      "name": "Blue Burden",
+      "url": "https://open.spotify.com/track/1AiQg6dRd99inBHXzeVLAl"
+    },
+    {
+      "album": {
         "name": "Blue Butterflies",
         "url": "https://open.spotify.com/album/18CDkoxhCoQ3dTcK12yy7T"
       },
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 199533,
       "name": "COLD",
       "url": "https://open.spotify.com/track/5se2V2FG9DPzmSF3F9LZlO"
@@ -6408,7 +6426,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 152000,
       "name": "emo",
       "url": "https://open.spotify.com/track/1CURgaoxdGd1fzDUcKCBLp"
@@ -7014,7 +7032,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 210579,
       "name": "Fallen Ist Wie Fliegen",
       "url": "https://open.spotify.com/track/6NOE7IcaIieJz5CSsg79Rz"
@@ -7892,7 +7910,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 142687,
       "name": "F\u00fchlst du das auch",
       "url": "https://open.spotify.com/track/56hNmXjjLdLPF4cKSTSM4I"
@@ -8076,7 +8094,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 249750,
       "name": "Geister",
       "url": "https://open.spotify.com/track/6qJLkiWbMJw7XMSBQuGv9C"
@@ -10729,6 +10747,24 @@
     },
     {
       "album": {
+        "name": "Ihr seid alle nicht so geil wie ihr denkt",
+        "url": "https://open.spotify.com/album/1ubQsOTazsDUmz4G3bc93L"
+      },
+      "artists": [
+        {
+          "name": "Portmonee",
+          "url": "https://open.spotify.com/artist/2NYd4efS7syu2WHOKACqa2"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Ihr seid alle nicht so geil wie ihr denkt",
+      "url": "https://open.spotify.com/track/0ZlrbphnAdEvyI4lBiuPO7"
+    },
+    {
+      "album": {
         "name": "Opening Night / Im Pelzmantel, Cretin",
         "url": "https://open.spotify.com/album/576cpjbkO1qEQIcUNEarDc"
       },
@@ -11508,7 +11544,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 226953,
       "name": "Karussell",
       "url": "https://open.spotify.com/track/10xhgj6YfqL2Q4zir3546A"
@@ -11706,7 +11742,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 144000,
       "name": "keine zeit",
       "url": "https://open.spotify.com/track/7vw280SWXk1JiFhosY3f3V"
@@ -13794,7 +13830,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 183182,
       "name": "Mondlicht",
       "url": "https://open.spotify.com/track/6Y8I0EChdGc7SOfL7yUy43"
@@ -14727,6 +14763,24 @@
     },
     {
       "album": {
+        "name": "Repeat, Repeat, Repeat.",
+        "url": "https://open.spotify.com/album/6097xR3mjdZdJwOyICuvYi"
+      },
+      "artists": [
+        {
+          "name": "The Great Leslie",
+          "url": "https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167123,
+      "name": "No Future",
+      "url": "https://open.spotify.com/track/1pRtLrcUL4ta7pN9V95p9d"
+    },
+    {
+      "album": {
         "name": "No Gravity",
         "url": "https://open.spotify.com/album/6xZ1A3mkKqiYzI2xKDaQRN"
       },
@@ -15280,6 +15334,24 @@
       "duration_ms": 299213,
       "name": "Ode To T",
       "url": "https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF"
+    },
+    {
+      "album": {
+        "name": "Odyssey EP",
+        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345286,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
     },
     {
       "album": {
@@ -16948,6 +17020,28 @@
       "duration_ms": 247839,
       "name": "Recent Dreams",
       "url": "https://open.spotify.com/track/3mysAJygmjPesmxLlXFEvn"
+    },
+    {
+      "album": {
+        "name": "record player",
+        "url": "https://open.spotify.com/album/4EfKkOzZiDlnEwkS4H5U1N"
+      },
+      "artists": [
+        {
+          "name": "cornelius",
+          "url": "https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6"
+        },
+        {
+          "name": "LYZA",
+          "url": "https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "record player",
+      "url": "https://open.spotify.com/track/6ywvC1LCLmUdIYiRJNynS8"
     },
     {
       "album": {
@@ -21739,6 +21833,28 @@
     },
     {
       "album": {
+        "name": "U Gotta Show Me Luv",
+        "url": "https://open.spotify.com/album/6vcSt496FtezrIHEwnOWse"
+      },
+      "artists": [
+        {
+          "name": "J\u00falio Cruz",
+          "url": "https://open.spotify.com/artist/3dog7TPflStX69O3A4juXk"
+        },
+        {
+          "name": "Cage",
+          "url": "https://open.spotify.com/artist/5AcetCgP402g9PqzkcSxNo"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290319,
+      "name": "U Gotta Show Me Luv",
+      "url": "https://open.spotify.com/track/75VSdRnqtNiJVXgb8MNOoN"
+    },
+    {
+      "album": {
         "name": "umgekippt",
         "url": "https://open.spotify.com/album/7iNsOWU2ILVBKNHfAZ6bsR"
       },
@@ -22711,6 +22827,24 @@
     },
     {
       "album": {
+        "name": "weg von dir",
+        "url": "https://open.spotify.com/album/6WKosrHSSZztBw1pJCp0Io"
+      },
+      "artists": [
+        {
+          "name": "JALN",
+          "url": "https://open.spotify.com/artist/6om7C5Mt7b0PtJPkTSbV3F"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171583,
+      "name": "weg von dir",
+      "url": "https://open.spotify.com/track/4VFxmehDknJ2DSBvPhEwHO"
+    },
+    {
+      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/3biQ3VIzH8p3HirpaSKdlZ"
       },
@@ -22824,6 +22958,24 @@
       "duration_ms": 219971,
       "name": "Wenn du da bist",
       "url": "https://open.spotify.com/track/0x13yawpacOhIdMytrL6Qy"
+    },
+    {
+      "album": {
+        "name": "Wenn man nicht mehr kann",
+        "url": "https://open.spotify.com/album/1ZNW7PSYdjjLVm70sXi2L2"
+      },
+      "artists": [
+        {
+          "name": "weesby",
+          "url": "https://open.spotify.com/artist/6hAJs8SawcTdOOgIa46EHd"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Wenn man nicht mehr kann",
+      "url": "https://open.spotify.com/track/3osE7BRpjLGPMLGkqV5RmH"
     },
     {
       "album": {

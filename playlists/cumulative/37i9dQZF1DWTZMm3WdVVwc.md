@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-170 songs - 11 hr 31 min
+172 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 | 2024-12-03 |  |
 | [Everything](https://open.spotify.com/track/1MlVQAK45PcFhl4yp1djKZ) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Everything](https://open.spotify.com/album/1ifijbnGiHkELLnZdiTvf5) | 7:00 | 2024-02-20 | 2024-12-04 |
 | [Everything](https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Super Best Records \-15th Celebration\-](https://open.spotify.com/album/6HDgwZwj73QuaWubxCFyE8) | 7:00 | 2023-12-12 | 2024-04-19 |
+| [Falling](https://open.spotify.com/track/2hSRSp9X350MtawoztPPvX) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Falling](https://open.spotify.com/album/5C35t1MloanCZoZQyqCEYn) | 5:01 | 2025-02-05 |  |
 | [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 | 2024-12-10 |  |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2023-12-12 |  |
 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 | 2024-12-10 |  |
@@ -141,7 +142,7 @@
 | [レモネード](https://open.spotify.com/track/0MP8MbYzl75hNXhbEJpkGy) | [神野メイ](https://open.spotify.com/artist/5UuC909MPCODt9jrTh2n0J) | [レモネード](https://open.spotify.com/album/6pU1Nv7lzePomzsTNkLi1E) | 3:26 | 2024-01-16 | 2024-01-31 |
 | [ロマンスの神様](https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [ロマンスの神様](https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa) | 4:29 | 2023-12-12 |  |
 | [与えられる夜](https://open.spotify.com/track/4Yx2NgXfkVKdFuUENxTHJq) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [WATASHIBOSHI](https://open.spotify.com/album/3umtn8uo1dxKM7hQPsDQyx) | 3:39 | 2023-12-12 | 2024-01-31 |
-| [二人の未来 \- Winter Ver.](https://open.spotify.com/track/0KQKj7tFk4KWnZELndNubE) | [EXILE ATSUSHI](https://open.spotify.com/artist/24r8fVuKK3xtC1L7iSiM4O) | [EXILE ATSUSHI \-Winter Best\-](https://open.spotify.com/album/5WrWzWa3ddWGn4SdRplgVP) | 4:17 | 2024-12-17 |  |
+| [二人の未来 \- Winter Ver.](https://open.spotify.com/track/0KQKj7tFk4KWnZELndNubE) | [EXILE ATSUSHI](https://open.spotify.com/artist/24r8fVuKK3xtC1L7iSiM4O) | [EXILE ATSUSHI \-Winter Best\-](https://open.spotify.com/album/5WrWzWa3ddWGn4SdRplgVP) | 4:17 | 2024-12-17 | 2025-02-06 |
 | [僕が暮らした街](https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG) | [小林柊矢](https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox) | [ドラマ / 僕が暮らした街](https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge) | 4:51 | 2024-12-17 | 2025-01-26 |
 | [冬がはじまるよ](https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物](https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda) | 3:50 | 2024-02-20 |  |
 | [冬がはじまるよ \- 2012 Remaster](https://open.spotify.com/track/7wNlAWoRPn53RC9w8e0sEA) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物 \(2012 Remaster\)](https://open.spotify.com/album/0xl7RrBF9tVKPUu5EHHcf3) | 3:52 | 2023-12-12 | 2024-04-19 |
@@ -155,9 +156,10 @@
 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 | 2023-12-12 |  |
 | [悪夢のような \- Acoustic](https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような \(NightTime Version\)](https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl) | 4:12 | 2025-01-15 |  |
 | [愛しい人](https://open.spotify.com/track/4gaxaW9fukBTGfGdY1BkjF) | [Kenichi Takemoto](https://open.spotify.com/artist/1WHpyunr1WmARWQKGPvE6X) | [Self Portrait](https://open.spotify.com/album/19evTcsCe0lvbjzLcRVOr6) | 4:49 | 2024-02-06 | 2024-12-04 |
-| [愛のうた](https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF) | 4:32 | 2024-02-20 |  |
+| [愛のうた](https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF) | 4:32 | 2024-02-20 | 2025-02-06 |
 | [愛をさわれたら](https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [愛をさわれたら](https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA) | 3:45 | 2024-12-10 |  |
 | [愛模様](https://open.spotify.com/track/0SGjAOOd55L6Swf74qynfa) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [愛模様](https://open.spotify.com/album/52ARhaxoG22r7PomX7ODTU) | 2:59 | 2024-01-23 | 2024-12-11 |
+| [枯葉のステーション](https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [枯葉のステーション](https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU) | 5:51 | 2025-02-05 |  |
 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 | 2024-01-23 | 2024-04-19 |
 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 | 2024-02-20 |  |
 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 | 2024-12-17 |  |

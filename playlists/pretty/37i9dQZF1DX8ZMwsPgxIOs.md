@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Bart Skils
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,055 likes - 119 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,080 likes - 119 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 7 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 |
 | 8 | [Fake ID](https://open.spotify.com/track/4TmgNsPFhxltnupodRfVCF) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF) | [Fake ID](https://open.spotify.com/album/0aza4Jq4P6LAd43qr0Olsy) | 2:02 |
 | 9 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 |
-| 10 | [Endless ft Ed Graves](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless ft Ed Graves](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
+| 10 | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
 | 11 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 |
 | 12 | [Circus Freaks](https://open.spotify.com/track/7Mt3W201jQ0yz2Ij1iBKXO) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Circus Freaks](https://open.spotify.com/album/43VoZruRBrh0IoOHn0DlES) | 3:28 |
 | 13 | [Go Hard](https://open.spotify.com/track/4obKzXuNqeIT3F4qF1HZcA) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack EP](https://open.spotify.com/album/58eDGocu22WsbCMwUkPAXW) | 3:55 |

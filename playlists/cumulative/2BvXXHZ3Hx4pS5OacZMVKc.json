@@ -3525,6 +3525,28 @@
     },
     {
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/40YfdgbzqhYALCcepymqTB"
+      },
+      "artists": [
+        {
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/38mVIN91Aj49QHLU7uTWNQ"
+    },
+    {
+      "album": {
         "name": "Left Me Blind",
         "url": "https://open.spotify.com/album/7kwOiP8O8sPf9J9YhZuQOa"
       },

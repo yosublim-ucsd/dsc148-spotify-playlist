@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: تامر حسني و رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,352 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,381 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baseet](https://open.spotify.com/track/6wxBewgwUy7sLGhmhLtmQw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 4:41 |
-| 2 | [Youm Ma Tensa](https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:54 |
-| 3 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 |
-| 4 | [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 |
-| 5 | [فيها رجوع](https://open.spotify.com/track/07In0ltXKnIgifYI1Vnu0E) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [فيها رجوع](https://open.spotify.com/album/2VHlNXTDinW5ok7tVMcWFX) | 3:19 |
-| 6 | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/track/4SJwiMWbTn3QMkJ7w5V7Zn) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Menna Shalaby](https://open.spotify.com/artist/5XhIGSVTyNhZAzla5j0JKY) | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/album/31nlWb5PMcd6OrOsgBFwWM) | 3:14 |
-| 7 | [مع السلامه](https://open.spotify.com/track/1v7cH9Sb3zsC4tUgMTo1hd) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [مع السلامه](https://open.spotify.com/album/34egkxkmaT2grMXkw7Kkkv) | 3:30 |
-| 8 | [ولا بفتكرك](https://open.spotify.com/track/6dex9ihJIiC7DtAdQTx29Y) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ولا بفتكرك](https://open.spotify.com/album/6w5uI5QrXLlUPE30QhRX30) | 3:48 |
-| 9 | [Mosalsalat](https://open.spotify.com/track/7rbl7UQRa8MLltMQW29edv) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mosalsalat](https://open.spotify.com/album/0qyEh9mvyiq8rLJ5fG5Z2g) | 3:11 |
-| 10 | [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 |
-| 11 | [Tigi Nehareb](https://open.spotify.com/track/3Gv3IxTlIuBmMQwuI9TygU) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 4:05 |
-| 12 | [ومتبعدنيش](https://open.spotify.com/track/0K3qRetrs7ZKQq2FFUiDbr) | [Zad](https://open.spotify.com/artist/2oiLaoEq9dJjrRhVuvAZMZ) | [ومتبعدنيش](https://open.spotify.com/album/4JZUx5zH6UvRfbTsnwJ2DQ) | 3:52 |
-| 13 | [Awla beya \- أولي بيا](https://open.spotify.com/track/4PmUvKfUxjoWxXLkrusgbY) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Awla beya \- أولي بيا](https://open.spotify.com/album/1fupgv37d7K6vUmtYTfQIo) | 3:17 |
-| 14 | [غايب](https://open.spotify.com/track/6wKPp7L7Z3oT9F0yMkSPEF) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [غايب](https://open.spotify.com/album/0jw2tIICpbcCZJagN0pEm8) | 3:16 |
-| 15 | [خلصتني](https://open.spotify.com/track/1VGlVXbXpM1YeUu5OAkRKk) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [خلصتني](https://open.spotify.com/album/0ayGHIODJCmkZ2shzEChwt) | 4:28 |
-| 16 | [Habibi El Adem](https://open.spotify.com/track/4ZBeKfRaClbgxPVM1CU3MP) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 4:00 |
-| 17 | [نومي مخاصمني](https://open.spotify.com/track/0wM19U1JQFNWtSORtIvphd) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [نومي مخاصمني](https://open.spotify.com/album/23jooNVAjQJ5cgWgNgXNUO) | 3:00 |
+| 1 | [Sa3ada Bas](https://open.spotify.com/track/6FXDazcZlxNdcx8q1lMltR) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Sa3ada Bas](https://open.spotify.com/album/4saMOO0D4cdeVsHpRUZEVF) | 4:08 |
+| 2 | [Baseet](https://open.spotify.com/track/6wxBewgwUy7sLGhmhLtmQw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 4:41 |
+| 3 | [Youm Ma Tensa](https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:54 |
+| 4 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 |
+| 5 | [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 |
+| 6 | [فيها رجوع](https://open.spotify.com/track/07In0ltXKnIgifYI1Vnu0E) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [فيها رجوع](https://open.spotify.com/album/2VHlNXTDinW5ok7tVMcWFX) | 3:19 |
+| 7 | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/track/4SJwiMWbTn3QMkJ7w5V7Zn) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Menna Shalaby](https://open.spotify.com/artist/5XhIGSVTyNhZAzla5j0JKY) | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/album/31nlWb5PMcd6OrOsgBFwWM) | 3:14 |
+| 8 | [مع السلامه](https://open.spotify.com/track/1v7cH9Sb3zsC4tUgMTo1hd) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [مع السلامه](https://open.spotify.com/album/34egkxkmaT2grMXkw7Kkkv) | 3:30 |
+| 9 | [ولا بفتكرك](https://open.spotify.com/track/6dex9ihJIiC7DtAdQTx29Y) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ولا بفتكرك](https://open.spotify.com/album/6w5uI5QrXLlUPE30QhRX30) | 3:48 |
+| 10 | [Mosalsalat](https://open.spotify.com/track/7rbl7UQRa8MLltMQW29edv) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mosalsalat](https://open.spotify.com/album/0qyEh9mvyiq8rLJ5fG5Z2g) | 3:11 |
+| 11 | [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 |
+| 12 | [Tigi Nehareb](https://open.spotify.com/track/3Gv3IxTlIuBmMQwuI9TygU) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 4:05 |
+| 13 | [ومتبعدنيش](https://open.spotify.com/track/0K3qRetrs7ZKQq2FFUiDbr) | [Zad](https://open.spotify.com/artist/2oiLaoEq9dJjrRhVuvAZMZ) | [ومتبعدنيش](https://open.spotify.com/album/4JZUx5zH6UvRfbTsnwJ2DQ) | 3:52 |
+| 14 | [Awla beya \- أولي بيا](https://open.spotify.com/track/4PmUvKfUxjoWxXLkrusgbY) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Awla beya \- أولي بيا](https://open.spotify.com/album/1fupgv37d7K6vUmtYTfQIo) | 3:17 |
+| 15 | [غايب](https://open.spotify.com/track/6wKPp7L7Z3oT9F0yMkSPEF) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [غايب](https://open.spotify.com/album/0jw2tIICpbcCZJagN0pEm8) | 3:16 |
+| 16 | [خلصتني](https://open.spotify.com/track/1VGlVXbXpM1YeUu5OAkRKk) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [خلصتني](https://open.spotify.com/album/0ayGHIODJCmkZ2shzEChwt) | 4:28 |
+| 17 | [Habibi El Adem](https://open.spotify.com/track/4ZBeKfRaClbgxPVM1CU3MP) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 4:00 |
 | 18 | [Waga3 Met3ad](https://open.spotify.com/track/26TS0nPRtHZd8f3AR3BMIw) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Waga3 Met3ad](https://open.spotify.com/album/4O3xCQuicI0BN1oSAkRdfS) | 3:07 |
 | 19 | [Aseblak Rohy](https://open.spotify.com/track/3baoeifxx1faQNpk5lzosv) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Aseblak Rohy](https://open.spotify.com/album/4bXYJcShNLa3oifePIGewn) | 3:55 |
 | 20 | [Elmzag 3enab](https://open.spotify.com/track/3CiTsvT60s9YoLX3LYSPF8) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Elmzag 3enab](https://open.spotify.com/album/5tjq8DYX6y73aIlP8x4MKM) | 3:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 39 | [تيجي نسيب](https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 3:45 |
 | 40 | [3ada Kol El Kalam](https://open.spotify.com/track/3gRsVmA8pN1ZYUUaHw6fR7) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [3ada Kol El Kalam](https://open.spotify.com/album/3U0f2e9rvMojOb8JaR6KAn) | 2:52 |
 
-Snapshot ID: `Z5dGOAAAAADzGQ443HTw369NlfMK3hZa`
+Snapshot ID: `Z6Mw7wAAAADc5vwoBRiHq+J7J5O4UMSZ`

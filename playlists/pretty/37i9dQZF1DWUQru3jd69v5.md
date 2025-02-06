@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Marte in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,317 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,326 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 7 | [Man Down 3!](https://open.spotify.com/track/4rSfjYpGAac0MwfQ1RXUvf) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Man Down 3!](https://open.spotify.com/album/2eBm5IPjsjOk6viusZcWkT) | 2:55 |
 | 8 | [6AM](https://open.spotify.com/track/1N39icVWCfSPdTaR61FAXY) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [6AM](https://open.spotify.com/album/6A7JClonPdmTqkirOvd4fR) | 2:10 |
 | 9 | [Addiction](https://open.spotify.com/track/3n2kduzwv8dinVTmgtOPFP) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Addiction](https://open.spotify.com/album/63Bdjhfsihkzz6w7S7R0ED) | 2:10 |
-| 10 | [Soldi nelle buste feat\. Enzo Benz](https://open.spotify.com/track/6A8yy2cBhv4mswJlpBGtUg) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Occhio Vivo](https://open.spotify.com/album/11jaBU9hA4PthDo6nRi74w) | 2:34 |
+| 10 | [Soldi nelle buste \(feat\. Enzo Benz\)](https://open.spotify.com/track/6A8yy2cBhv4mswJlpBGtUg) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Occhio Vivo](https://open.spotify.com/album/11jaBU9hA4PthDo6nRi74w) | 2:34 |
 | 11 | [Roccia Music \(feat\. Glocky\)](https://open.spotify.com/track/7G1ZJ10tNun4aXjZYjaOBp) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [MOON\-X](https://open.spotify.com/album/2rFVJtrPo5cqTtb45y8qJV) | 2:03 |
 | 12 | [CHUCKY \(feat\. 167 Gang\)](https://open.spotify.com/track/60AFqmnCrJe5YO0DZtRPuJ) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [CHUCKY \(feat\. 167 Gang\)](https://open.spotify.com/album/0lqijB0gCsZNAcaWra8eEr) | 3:02 |
 | 13 | [STO FACENDO TRAP](https://open.spotify.com/track/6P3p6x8uW9W8fm6A62n2AK) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [STO FACENDO TRAP](https://open.spotify.com/album/6X4u2aAlZiOBpFEs4ozned) | 2:45 |

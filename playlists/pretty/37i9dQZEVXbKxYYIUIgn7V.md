@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,458 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,461 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 49 | [MONTAGEM BRAVO \- Slowed](https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [MONTAGEM BRAVO](https://open.spotify.com/album/2RhX80u97LacDUbFoSLT5W) | 1:31 |
 | 50 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

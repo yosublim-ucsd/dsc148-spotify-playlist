@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,161 likes - 162 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,370 likes - 162 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 36 | [Vampire \- Scary String Quartet Version](https://open.spotify.com/track/2KpLqvnKKlmw0tatXBBcsX) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Vampire \(Scary String Quartet Version\)](https://open.spotify.com/album/3HEO526E82jR3GyMGf5Mzz) | 3:40 |
 | 37 | [Right Here Waiting \- Symphony Orchestra Version](https://open.spotify.com/track/2vgmMMj6mJfseiBYtNPl9s) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC), [Johan Landqvist](https://open.spotify.com/artist/1O3w0XFadsTjVje8TZZZCA) | [Right Here Waiting \(Symphony Orchestra Version\)](https://open.spotify.com/album/4dTCxc2Y7544yexIFfF28w) | 3:16 |
 | 38 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
-| 39 | [Dark Horse \- Radio Mix, Symphony Orchestra Version](https://open.spotify.com/track/7dv1RFOqF6tmJX05KPur9q) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Dark Horse \(Symphony Orchestra Version\)](https://open.spotify.com/album/3pChpEcXDjI1WWQ5XaeLu1) | 3:12 |
+| 39 | [Dark Horse \(Radio Mix\) \- Symphony Orchestra Version](https://open.spotify.com/track/7dv1RFOqF6tmJX05KPur9q) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Dark Horse \(Radio Mix\) \[Symphony Orchestra Version\]](https://open.spotify.com/album/3pChpEcXDjI1WWQ5XaeLu1) | 3:12 |
 | 40 | [Eyes Closed](https://open.spotify.com/track/3rKLkTn7GgLEVaIJjoDH8G) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Eyes Closed](https://open.spotify.com/album/2cwhtJvpJXig9amktNpiMr) | 3:14 |
 | 41 | [Typa Girl \- String Quartet Version](https://open.spotify.com/track/0PvPB4YkMAvqdPu27xpqHm) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Typa Girl \(String Quartet Version\)](https://open.spotify.com/album/0k65v7B6jV6ugzU5NBaUka) | 3:20 |
 | 42 | [Veridis quo](https://open.spotify.com/track/0GLR6oEa3L4AUft3XBk0L4) | [Guy\-Manuel de Homem\-Christo](https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Pulse](https://open.spotify.com/album/3V4SxOn6qK58LEA3c5afo8) | 2:47 |

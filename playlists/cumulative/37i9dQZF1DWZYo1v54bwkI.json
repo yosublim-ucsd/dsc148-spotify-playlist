@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 145808,
       "name": "Aurora Borealis",
       "url": "https://open.spotify.com/track/0YTKlaMszVp6rja34CzUDs"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 147717,
       "name": "Celestial Visions",
       "url": "https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 132427,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh"
@@ -1802,6 +1802,24 @@
       "duration_ms": 170500,
       "name": "Embodiment of Peace",
       "url": "https://open.spotify.com/track/3XWPR04ddjPkhNi2Z0znsg"
+    },
+    {
+      "album": {
+        "name": "Empty Space",
+        "url": "https://open.spotify.com/album/4xYGBrDWz0L3WgcbCDM3JY"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166266,
+      "name": "Empty Space",
+      "url": "https://open.spotify.com/track/6FWyu7DyruBwgJ1vqTMEzc"
     },
     {
       "album": {
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 144125,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/3fSl7Ewn8oJsmkphHBoMON"
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 226833,
       "name": "Gleam",
       "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
@@ -2616,6 +2634,24 @@
       "duration_ms": 183000,
       "name": "Huzurlu",
       "url": "https://open.spotify.com/track/5AE2Q5ecdUUPxjNbIknTNW"
+    },
+    {
+      "album": {
+        "name": "Illume",
+        "url": "https://open.spotify.com/album/0mnB6uG0ZUbqZjIEx4FLSw"
+      },
+      "artists": [
+        {
+          "name": "Zyair Price",
+          "url": "https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164508,
+      "name": "Illume",
+      "url": "https://open.spotify.com/track/2oL8gjS6EIbhtlWAC2nDDr"
     },
     {
       "album": {
@@ -2990,7 +3026,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 231529,
       "name": "Kaleidoscopes",
       "url": "https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou"
@@ -3462,6 +3498,24 @@
       "duration_ms": 185395,
       "name": "Mind State",
       "url": "https://open.spotify.com/track/6cE8PA0ZWHSGSuRNgWYfIB"
+    },
+    {
+      "album": {
+        "name": "minimal",
+        "url": "https://open.spotify.com/album/0sodVyhRqIByMeIi81ry2H"
+      },
+      "artists": [
+        {
+          "name": "AstroAether",
+          "url": "https://open.spotify.com/artist/1Sy04vJvcc5VSae7QTvFUn"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185172,
+      "name": "minimal",
+      "url": "https://open.spotify.com/track/0oxwvgg3rFvxkZsZdcABNA"
     },
     {
       "album": {
@@ -4563,6 +4617,24 @@
     },
     {
       "album": {
+        "name": "Red Canna",
+        "url": "https://open.spotify.com/album/2Mk2UiBSQdxACryD5P2Wyj"
+      },
+      "artists": [
+        {
+          "name": "Kal Koren",
+          "url": "https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140374,
+      "name": "Red Canna",
+      "url": "https://open.spotify.com/track/0jlYI0YbQxvlNwjtJQKnws"
+    },
+    {
+      "album": {
         "name": "Reflect",
         "url": "https://open.spotify.com/album/4lBD9dWLYfzmdAA3rkltQn"
       },
@@ -5158,6 +5230,42 @@
       "duration_ms": 192750,
       "name": "Soft Corals",
       "url": "https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs"
+    },
+    {
+      "album": {
+        "name": "Soft Orange",
+        "url": "https://open.spotify.com/album/7pKK1FMRuAkgUkIO6zsGDt"
+      },
+      "artists": [
+        {
+          "name": "Astral Lighthouse",
+          "url": "https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164175,
+      "name": "Soft Orange",
+      "url": "https://open.spotify.com/track/4ppEHoUyU8H9NH7tf1941Y"
+    },
+    {
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/56fpGJxpkY38AuKW4VAb55"
+      },
+      "artists": [
+        {
+          "name": "Ljusnan",
+          "url": "https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137837,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/4ATJwgo3RGDfGB3lH6cSHt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Let these songs be the background score to your love story\. Cover \- Stree 2
 
-253 songs - 17 hr 41 min
+254 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,8 +196,9 @@
 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 | 2022-05-19 | 2024-05-17 |
 | [Sajni \(From "Laapataa Ladies"\)](https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w) | [Sajni \(From "Laapataa Ladies"\)](https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6) | 2:50 | 2024-05-07 |  |
 | [Sanam Re](https://open.spotify.com/track/0CVfovmUv7BnemOyTtOcbL) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Re](https://open.spotify.com/album/5xP2I1UDXhE7D4GpMOoZY9) | 5:08 | 2023-01-30 | 2023-10-11 |
+| [Sanam Teri Kasam](https://open.spotify.com/track/1PDREqVNvmphIoNac3Vz8c) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D) | 5:14 | 2025-02-05 |  |
 | [Sanu Ek Pal Chain](https://open.spotify.com/track/0qilTtN718ldWzIFc37zAl) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Raid](https://open.spotify.com/album/6t1dUvow3HRU7M87oHiX4Z) | 3:30 | 2022-05-19 |  |
-| [Sapna Jahan](https://open.spotify.com/track/5PM1dIibpTR57jlugvjNSM) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/383e45grHa4YKHGRojMqYy) | 5:41 | 2023-05-08 |  |
+| [Sapna Jahan](https://open.spotify.com/track/5PM1dIibpTR57jlugvjNSM) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/383e45grHa4YKHGRojMqYy) | 5:41 | 2023-05-08 | 2025-02-06 |
 | [Satranga \(From "ANIMAL"\)](https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Satranga \(From "ANIMAL"\)](https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn) | 4:31 | 2023-11-06 |  |
 | [Sawan Aaya Hai](https://open.spotify.com/track/2znIV62IxtbY9gSEPdIAho) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Creature 3D](https://open.spotify.com/album/2ySTppSfuVBNq2nNN6lEqg) | 4:48 | 2023-05-08 | 2023-10-11 |
 | [Shaamat \(Ankit Tiwari Version\) \[From "Ek Villain Returns"\]](https://open.spotify.com/track/5BpRF0R7OS0NWrEccF8d26) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Shaamat \(Ankit Tiwari Version\) \[From "Ek Villain Returns"\]](https://open.spotify.com/album/76an5oNu9SRxEP2V62CHhn) | 5:34 | 2022-08-09 | 2022-12-28 |

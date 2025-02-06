@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs?si=PeP0s4OOQR2MGIF8I2mVKw>Jimmy D Psalmist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,073 likes - 80 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,084 likes - 80 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

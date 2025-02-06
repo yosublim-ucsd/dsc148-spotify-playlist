@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 시우\(SIWOO\)\)
 
-472 songs - 1 day 1 hr 39 min
+474 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [ANIYA](https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [ANIYA](https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY) | 2:56 | 2024-07-02 | 2024-09-14 |
 | [Another Love Song](https://open.spotify.com/track/0WngZO7T6yvffgXskWNjmX) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8) | [Another Love Song](https://open.spotify.com/album/0oiqhfE7NdRffK915DHbMh) | 2:41 | 2024-07-25 | 2024-09-14 |
 | [Anxious \(Feat\. The Deep\)](https://open.spotify.com/track/5bpXlLyRHhUhd2UiGyr752) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Anxious \(Feat\. The Deep\)](https://open.spotify.com/album/7IycamfugtbcUeDk3Tqu8v) | 3:07 | 2024-09-02 | 2025-01-25 |
+| [anyhow \(Feat\. ZENE THE ZILLA\)](https://open.spotify.com/track/2BjHiBRAuwi4cCPYx2rUDc) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [anyhow \(Feat\. ZENE THE ZILLA\)](https://open.spotify.com/album/5IPbo9QUPPTWKj52yXqmn5) | 3:31 | 2025-02-05 |  |
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 | 2023-01-11 |
 | [Arcade](https://open.spotify.com/track/69zoAcTmHBiBlum588OmzB) | [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo) | [Arcade](https://open.spotify.com/album/6EcuIThgkeOxxtjmf4lHSf) | 3:19 | 2024-08-30 | 2024-12-06 |
 | [Arms Around Me](https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Arms Around Me](https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm) | 3:18 | 2024-02-22 | 2024-06-18 |
@@ -271,7 +272,7 @@
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-09-06 |
 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 | 2022-07-04 | 2022-11-15 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2023-11-07 |
-| [Love Play](https://open.spotify.com/track/4HNcU9jElAR8YM7yMyEI3H) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Me, Stranger](https://open.spotify.com/album/6mwMDz7oz9yFxybYAszv4n) | 2:40 | 2024-09-27 |  |
+| [Love Play](https://open.spotify.com/track/4HNcU9jElAR8YM7yMyEI3H) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Me, Stranger](https://open.spotify.com/album/6mwMDz7oz9yFxybYAszv4n) | 2:40 | 2024-09-27 | 2025-02-06 |
 | [LOVE SONG](https://open.spotify.com/track/3c7lasFy0dwQCGsx0Bd3wp) | [HENSHE](https://open.spotify.com/artist/2ZpgYd3xJrQDio2L4doyFY) | [LOVE SONG](https://open.spotify.com/album/4XUwu4Mka4jhAKHCCD2pKT) | 2:50 | 2024-03-28 | 2024-07-10 |
 | [Love Tree](https://open.spotify.com/track/4NBC72liv5nVfBAq8icUK6) | [JUNJE](https://open.spotify.com/artist/6cJKMYIKYbO8MSNEYLg0PB) | [Love Tree](https://open.spotify.com/album/0kvZ99xBCsYUGZqMCNTiD1) | 3:44 | 2023-04-27 | 2023-10-06 |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-05-28 | 2022-07-28 |
@@ -285,7 +286,7 @@
 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 | 2024-09-06 | 2025-01-25 |
 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 | 2024-09-05 | 2025-01-25 |
 | [Moebius](https://open.spotify.com/track/10QujSiWVb2ew8r1aqlbyS) | [En](https://open.spotify.com/artist/4sxk8eantzoB7SUyDlzydF) | [Moebius](https://open.spotify.com/album/712elbFWoQIhTAYEfKnCYZ) | 3:40 | 2023-01-13 | 2023-07-08 |
-| [Moon Walk](https://open.spotify.com/track/3Ophwf6lYZIL9d5VkX9D5x) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Moon Walk](https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7) | 2:30 | 2024-09-18 |  |
+| [Moon Walk](https://open.spotify.com/track/3Ophwf6lYZIL9d5VkX9D5x) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Moon Walk](https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7) | 2:30 | 2024-09-18 | 2025-02-06 |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2023-01-21 |
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-06-01 | 2023-10-21 |
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-05-28 | 2022-07-05 |
@@ -318,6 +319,7 @@
 | [Orange Clouds \(feat\. JUNNY\)](https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Orange Clouds](https://open.spotify.com/album/5aU6IDEb4SFEokay09FxXD) | 2:26 | 2024-08-21 | 2024-12-03 |
 | [Ordinary](https://open.spotify.com/track/7eNqw8m9YmTgcKLeJU8WQr) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL) | [Ordinary](https://open.spotify.com/album/1TexFuMSAaTiaxUqKxZBo6) | 3:27 | 2023-10-20 | 2024-01-09 |
 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 | 2022-09-17 | 2023-02-15 |
+| [Our Way \(Feat\. Jeong Dayeong\)](https://open.spotify.com/track/4vUnEJStIJUKiSJ2XU8hkZ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Jeong Dayeong](https://open.spotify.com/artist/20mVTB1N9ZvNj8MtxLx7cx) | [New Edition 67](https://open.spotify.com/album/3McZamGgg3KYV2Q3GJgxCH) | 2:53 | 2025-02-05 |  |
 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 | 2022-07-27 | 2022-12-14 |
 | [Over \(feat\. Minna Seo\)](https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [Over \(feat\. Minna Seo\)](https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh) | 3:49 | 2023-12-18 | 2024-05-24 |
 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 | 2022-07-04 | 2022-11-15 |

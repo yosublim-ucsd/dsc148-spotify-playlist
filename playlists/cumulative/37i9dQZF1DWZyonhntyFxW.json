@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "BGD",
+        "url": "https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "16 SAA3A",
+      "url": "https://open.spotify.com/track/1nIzoUTVrBoce7JhcQfXlz"
+    },
+    {
+      "album": {
         "name": "Ebn El Mansoura V1",
         "url": "https://open.spotify.com/album/4tzDnNVLxC2GnJaYhUBhDf"
       },
@@ -468,7 +486,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 195297,
       "name": "99",
       "url": "https://open.spotify.com/track/6bozqRXCia64pVDU7FfZMM"
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 195692,
       "name": "MESH MESTAHMEL HAD",
       "url": "https://open.spotify.com/track/6cL8L9Swntbfpis7jAL0iO"
@@ -5772,6 +5790,24 @@
       "duration_ms": 173468,
       "name": "Sutra",
       "url": "https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD"
+    },
+    {
+      "album": {
+        "name": "BGD",
+        "url": "https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133619,
+      "name": "SWISSRA",
+      "url": "https://open.spotify.com/track/0lGBH3NhfXHdOM1GswMqh3"
     },
     {
       "album": {

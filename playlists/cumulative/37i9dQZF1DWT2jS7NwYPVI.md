@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Vienna Vienna
 
-3,039 songs - 6 day 17 hr 35 min
+3,040 songs - 6 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2303,6 +2303,7 @@
 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 | 2022-04-08 | 2022-06-18 |
 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 | 2024-02-02 | 2024-03-30 |
 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 | 2022-03-25 | 2022-05-20 |
+| [Shotgun](https://open.spotify.com/track/4fW6kK0t8Pv7gkbNjUWH9I) | [Theo Moss](https://open.spotify.com/artist/0ETuekbiB4yJVpe2fAMiNP) | [Shotgun](https://open.spotify.com/album/7BCaDRAXBVRUwhcVsuJ5Pu) | 2:48 | 2025-02-05 |  |
 | [shotgun carousel](https://open.spotify.com/track/0jlsrXyQoYDDld294oiu0E) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [shotgun carousel](https://open.spotify.com/album/07G5GcmF7G7IOhIEQ4LBPU) | 2:41 | 2024-03-29 | 2024-04-27 |
 | [Should I](https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Should I](https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc) | 2:28 | 2023-05-19 | 2023-06-24 |
 | [Should’ve Been Me](https://open.spotify.com/track/6SzyT5365B5XAuDHrTwLlB) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Should’ve Been Me](https://open.spotify.com/album/6A6xRfiOYgZkeLWCovSIJv) | 1:02 | 2024-07-19 | 2024-08-10 |

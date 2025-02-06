@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring GREG \(BR\) 🤖 50% techno, 50% house
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,000 likes - 125 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,077 likes - 125 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 6 | [Let Em' Know](https://open.spotify.com/track/3bf3tNE3IjOtBsUzUVc9gs) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Don't Stop EP](https://open.spotify.com/album/75CLnzlKbUiiiNdkiX8F0Z) | 3:21 |
 | 7 | [Serotonine](https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Serotonine EP](https://open.spotify.com/album/2IJ0OyFYDdHyoWZ4ZRNx8s) | 3:20 |
 | 8 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 |
-| 9 | [Go Back \(feat\. Julia Church\) \- Kyle Watson Remix](https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\) \[Kyle Watson Remix\]](https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1) | 3:46 |
+| 9 | [Go Back \(feat\. Julia Church\) \- Kyle Watson Remix](https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Go Back \(feat\. Julia Church\) \[Kyle Watson Remix\]](https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1) | 3:46 |
 | 10 | [Love Spell](https://open.spotify.com/track/0fjN6JXHE5CS03lUp6DHlk) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Love Spell](https://open.spotify.com/album/7CF7PF1YvnPkuziTrWvfQW) | 3:02 |
 | 11 | [Supersonic](https://open.spotify.com/track/7qzNN86nlI4YaslP5lZVb0) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Supersonic](https://open.spotify.com/album/0EeLq0QPw6ogMvv4HZZGkB) | 2:17 |
 | 12 | [Gimme](https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Gimme](https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRx4AFLjzB2.md) - [plain]
 
 > Perreo del bueno to ring in the new year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,779 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,795 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

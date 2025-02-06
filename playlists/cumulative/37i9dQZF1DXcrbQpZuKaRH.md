@@ -4,10 +4,11 @@
 
 > Calming music with the sound of waves for a blissful meditation.
 
-131 songs - 6 hr 16 min
+138 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Little Blue](https://open.spotify.com/track/2amxnls3sy5GChJp52wOQE) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [A Little Blue](https://open.spotify.com/album/0mE29gC0shDYMixT7ouFS1) | 2:37 | 2025-02-05 |  |
 | [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 | 2023-05-22 |  |
 | [Adrift](https://open.spotify.com/track/57hiSUzsN2wvEkVoNLItUf) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Adrift](https://open.spotify.com/album/7JLMbBSZYkNpc5Z3IWoVB8) | 3:04 | 2023-04-28 | 2024-08-24 |
 | [Against the Dock](https://open.spotify.com/track/4Y5OktrhdPbF6gX5sVZrH7) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [Against the Dock](https://open.spotify.com/album/3ZcAaMiY50lZ4aIjijMwma) | 2:29 | 2024-06-03 |  |
@@ -36,6 +37,7 @@
 | [Coastal Summer](https://open.spotify.com/track/1Tmn43ZO5XvrdOtaRVhJCP) | [Aries Suan](https://open.spotify.com/artist/5mYqynrlNOgK6tXogOCtSW) | [Coastal Summer](https://open.spotify.com/album/5g3JwtUvH4HnIrMSEFmpTq) | 2:16 | 2024-06-03 |  |
 | [Cove Girl](https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Cove Girl](https://open.spotify.com/album/7nHuEfaI9MaiOLK2Ysrvkh) | 2:52 | 2024-12-20 |  |
 | [Crystal Bay](https://open.spotify.com/track/6AusfuCpsjySUaQFHhMxOc) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Crystal Bay](https://open.spotify.com/album/7KppdZlfQYdf9Key43fas5) | 2:18 | 2024-08-23 |  |
+| [Deductive Theory](https://open.spotify.com/track/6g6O1Sq1BJESerMP1y6Kg5) | [Amfora](https://open.spotify.com/artist/3H2cJb9BM31dAoETDvzosL) | [Deductive Theory](https://open.spotify.com/album/3jMaWH7mvmB8Yeq0MLoYBH) | 2:36 | 2025-02-05 |  |
 | [Deep Cove](https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 2:41 | 2023-09-08 |  |
 | [Deeper Blue](https://open.spotify.com/track/5fAcAkxJY7s1MOdGhtlgKI) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Deeper Blue](https://open.spotify.com/album/4vvA8x5Toi05sywB2VbJsh) | 2:23 | 2024-03-20 |  |
 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-04-28 |  |
@@ -74,6 +76,7 @@
 | [Mente Complacida](https://open.spotify.com/track/26g7RAfsaR6kdU6Y4RJ615) | [Mawina](https://open.spotify.com/artist/4hFQD0ZEl15cbGogNKjUur) | [Mente Complacida](https://open.spotify.com/album/6FBMx95vwGvwOmkiZpeW0Q) | 3:03 | 2023-04-28 |  |
 | [Midnight Shoreline](https://open.spotify.com/track/5efJPDxGLNB0h6niF1AXNP) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Midnight Shoreline](https://open.spotify.com/album/1E0JXRIEt2SeGocrN2ZIpL) | 2:40 | 2023-07-13 |  |
 | [Molecular Vibrations](https://open.spotify.com/track/09flvILs00hWOFboghP5H7) | [Earth Tone](https://open.spotify.com/artist/05MiTtnA2sTCrvI9TsTBhj) | [Molecular Vibrations](https://open.spotify.com/album/2xeinigzbjt1sSsVG5Yl99) | 2:37 | 2024-05-01 |  |
+| [Night Waves](https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Night Waves](https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV) | 3:44 | 2025-02-05 |  |
 | [Oasis](https://open.spotify.com/track/11GUBwfT5EAPUa8IYUr8Oi) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Oasis](https://open.spotify.com/album/29yf9xTxHGjiYEM6LHowLk) | 2:19 | 2024-11-11 |  |
 | [Ocean Air](https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Ocean Air](https://open.spotify.com/album/47JNKaAOWcUKr7FeiJtM1y) | 2:35 | 2024-12-20 |  |
 | [Ocean Dive](https://open.spotify.com/track/2r4NivF3SETTKXKvhp1mYm) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Ocean Dive](https://open.spotify.com/album/5Ck9ina89LcfFVMej8G4ti) | 3:33 | 2024-12-20 |  |
@@ -84,6 +87,7 @@
 | [Ocean Unwind](https://open.spotify.com/track/2HLgn2iuSkMPlMCdV3BNdH) | [Haf](https://open.spotify.com/artist/4ZN3pGwIN6s1NNiKAivvuM) | [Ocean Unwind](https://open.spotify.com/album/6hAXiuDrYUvmhYjEZdfXkq) | 3:06 | 2023-04-28 |  |
 | [Oceanic Adagio](https://open.spotify.com/track/1GniADRRmWcbMxIvoFG5yq) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Oceanic Adagio](https://open.spotify.com/album/7JjdS43xvxl5gaoG3PcHIr) | 3:23 | 2023-04-28 | 2024-06-04 |
 | [On the Shores of Sleep](https://open.spotify.com/track/2lu5HYbm9FmSDegJchgDxf) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [On the Shores of Sleep](https://open.spotify.com/album/4K048QJZG3OvfH5kwnJyHx) | 2:33 | 2024-05-01 | 2024-06-04 |
+| [Orchids](https://open.spotify.com/track/3BauJaNnmk79bsjD1Py8H9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Orchids](https://open.spotify.com/album/0PhiG5bnqYMwVklGDoY6Ya) | 2:16 | 2025-02-05 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2023-04-28 | 2024-05-02 |
 | [Over the Horizon](https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Over the Horizon](https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq) | 3:11 | 2023-04-28 | 2024-05-02 |
 | [Pacifiquement](https://open.spotify.com/track/3ODp59g4fuL0KsTvKB1atC) | [Maiken Jokum](https://open.spotify.com/artist/3k6qLcyKmWGoOQfK8Uskvy) | [Pacifiquement](https://open.spotify.com/album/430ttSN75LpAVHMszOujl6) | 3:24 | 2023-04-28 | 2024-05-02 |
@@ -92,6 +96,7 @@
 | [Profondeur cosmique \- River Flows Edit](https://open.spotify.com/track/7drKYfw7ah8aWLkU9mUGld) | [Amandine Lamaze](https://open.spotify.com/artist/4Oiu5PrQAUehjfybx5RWjl) | [Profondeur cosmique](https://open.spotify.com/album/5U4DihT1jifluvfXbFSew9) | 2:36 | 2023-04-28 | 2024-08-24 |
 | [Pure Nature](https://open.spotify.com/track/7hgJstsD2O1O0k0XoxbM8v) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Evening Breeze](https://open.spotify.com/album/4NPqqhAdTtCOr22FSNHeJr) | 2:41 | 2023-04-28 |  |
 | [Raft](https://open.spotify.com/track/3WJL0D6yTmRb7jXjm8E2Pc) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Raft](https://open.spotify.com/album/4bzzze2zjYx7eX95jc0y8X) | 2:46 | 2024-11-11 |  |
+| [Rainforest Bliss](https://open.spotify.com/track/3gNmRr9fH0FxDThHCqGLmN) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Rainforest Bliss](https://open.spotify.com/album/0uqojhyuqsK5SDtgXGCInO) | 2:28 | 2025-02-05 |  |
 | [Reemergence](https://open.spotify.com/track/1eN1gFy7OFkI9xEx53CTkc) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:41 | 2023-04-28 |  |
 | [Reflectives](https://open.spotify.com/track/3h6UND8XlDCpp4DrVQtZpz) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Reflectives](https://open.spotify.com/album/1yzbG5sqEXnHwbfX9tuZGS) | 3:36 | 2023-04-28 |  |
 | [Relaxing Sines](https://open.spotify.com/track/37IhtbzEutZBpgMsbh3nMA) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Relaxing Sines](https://open.spotify.com/album/1L2SFgJ1zSztWxjp9zzKm3) | 2:12 | 2023-04-28 | 2024-06-04 |
@@ -129,15 +134,17 @@
 | [Walk Along The Ocean](https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Walk Along The Ocean](https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp) | 2:52 | 2023-04-28 |  |
 | [Walk Together](https://open.spotify.com/track/1V6ltUYwBd2UWfpNIDmsSr) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Walk Together](https://open.spotify.com/album/3T3ZgFryD5O4f4lis8rXjl) | 3:50 | 2023-04-28 | 2024-05-02 |
 | [Warfare](https://open.spotify.com/track/2YkYAS2pYVQXXOxFS19UpM) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Warfare](https://open.spotify.com/album/1EXrJP5OoGD7J3CpebFFqs) | 1:43 | 2023-04-28 | 2023-05-27 |
+| [Warm Wind](https://open.spotify.com/track/2vVWDG7IxZPmInVMbEr9Su) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Warm Wind](https://open.spotify.com/album/5Rx7auDEDHNCEGVdNB5Hi4) | 2:58 | 2025-02-05 |  |
 | [Waves](https://open.spotify.com/track/3krSmuVk00tFuJiTuNSZoO) | [IPHTA](https://open.spotify.com/artist/4VTQyY0a941xnmyoZT2GsH) | [Waves](https://open.spotify.com/album/3xjngxMowsTDMJD4WOaMLv) | 3:06 | 2023-04-28 | 2024-07-19 |
 | [Waves](https://open.spotify.com/track/2x6Bz7vl9mfxJZgJfuLTZl) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Waves](https://open.spotify.com/album/2p8HuD7GHVVhat5LX7xcJE) | 3:11 | 2023-08-18 | 2024-06-04 |
 | [Waves and Sunrise](https://open.spotify.com/track/5ljOAxRKEHlR9iDH9oM9Da) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [Waves and Sunrise](https://open.spotify.com/album/2ZEaSThqcJKhfy0GoUM15E) | 1:08 | 2023-04-28 | 2023-07-29 |
 | [Waves of Daelbata](https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH) | [Eryone](https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv) | [Waves of Daelbata](https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb) | 2:48 | 2023-04-28 |  |
-| [Waves of Serenity](https://open.spotify.com/track/04wDZI7XuCjGicazG046t9) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Waves of Serenity](https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf) | 2:21 | 2024-12-20 |  |
+| [Waves of Serenity](https://open.spotify.com/track/04wDZI7XuCjGicazG046t9) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Waves of Serenity](https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf) | 2:21 | 2024-12-20 | 2025-02-06 |
 | [We Are An Island \- Sound Bath](https://open.spotify.com/track/09mA3MUzL5NTM5qjXKwuu1) | [Isolde Mayer](https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY) | [We Are An Island \- Sound Bath](https://open.spotify.com/album/4UG8mI1ePRLWEZ29BeU089) | 2:03 | 2023-04-28 |  |
 | [Wellness](https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Wellness](https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f) | 2:45 | 2023-08-31 |  |
 | [When in the sky](https://open.spotify.com/track/075XyuSjC4KXbRDnb1VpjN) | [R1B2](https://open.spotify.com/artist/4z2f4iyte0pQ71mCsjgyE2) | [When in the sky](https://open.spotify.com/album/3HellzeguCKT5pgngkMw59) | 3:30 | 2023-04-28 |  |
 | [Whispering Fog](https://open.spotify.com/track/6gU7dNGfircSeDLivN19cJ) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Whispering Fog](https://open.spotify.com/album/62GfzRZBhEGX05mFDbsKa3) | 3:10 | 2024-12-20 |  |
+| [Woven in Light](https://open.spotify.com/track/20NPH0V0yoI99qPEfPld1q) | [Somnolentia](https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1) | [Woven in Light](https://open.spotify.com/album/3UqYMWt8v638thduzAF3nA) | 3:07 | 2025-02-05 |  |
 | [Yesterday's Memories \(Sound Bath\)](https://open.spotify.com/track/4DwrFTkjYNfugzBVZo95Ya) | [Anezka Béla](https://open.spotify.com/artist/1ZPZamQCDWwpx2u9hBfu0W) | [Yesterday's Memories \(Sound Bath\)](https://open.spotify.com/album/4aLlnLwOjV1qtXHyTvQe7H) | 2:20 | 2023-04-28 |  |
 
 \*This playlist was first scraped on 2023-05-02. Prior content cannot be recovered.

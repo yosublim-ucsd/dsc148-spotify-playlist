@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 26,786 likes - 144 songs - 7 hr 52 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 26,818 likes - 144 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 32 | [Paganini Variation \(Arr\. for Violin & Piano after Rhapsodie on a Theme of Paganini, Op\. 43 by Jarkko Riihimäki\)](https://open.spotify.com/track/4cQvCpVLDFWHgeajftPMHu) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Iyad Sughayer](https://open.spotify.com/artist/3a56daV566X5srjmKNdj98) | [Esther Abrami](https://open.spotify.com/album/4oSQnlpoerknSzTcrgvlHw) | 2:38 |
 | 33 | [A Hidden Life](https://open.spotify.com/track/47DntXSOPNd1r8z3gergEP) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Arctic Philharmonic](https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f) | [A Hidden Life](https://open.spotify.com/album/6CiMatDAzdpJXM3Ad7NIaL) | 2:48 |
 | 34 | [Rêverie](https://open.spotify.com/track/2VYwaSyVVTLcRZV5Mwof8m) | [Angela Morley](https://open.spotify.com/artist/0Un8r6XTh2sxszAJ7ZqbLv), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z) | [Rêverie](https://open.spotify.com/album/2dLAe3m29unn27UZORySkH) | 3:13 |
-| 35 | [Belle de Nuit](https://open.spotify.com/track/1kz9kj5yn4fIfzAjtxDhp3) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Belle de Nuit](https://open.spotify.com/album/6uvEZdsKn7Rqa7W24y5O5X) | 5:12 |
+| 35 | [Good Night You Kings \(from "The Cider House Rules", Arr\. for Piano\) \- a calm version](https://open.spotify.com/track/4V8rNzx65UUpNhzWjmLCZE) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Beyond the Screen \- Film Works on Piano](https://open.spotify.com/album/63mhNGE2RR3GATpOgQvHKi) | 1:03 |
 | 36 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano\)](https://open.spotify.com/track/0dfAHJmRg7JtCbitsageQG) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Handel Variations](https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q) | 4:28 |
 | 37 | [Morning Mood Variation \(From Peer Gynt Suite No\. 1, Op\. 46, Arr\. for Piano by Svetoslav Karparov\)](https://open.spotify.com/track/1nou8zLZqerQL95VlAB11x) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Morning Mood Variation \(From Peer Gynt Suite No\. 1, Op\. 46, Arr\. for Piano by Svetoslav Karparov\)](https://open.spotify.com/album/5GxoVEOhVnaUrcA4kZ9EzE) | 2:07 |
 | 38 | [Schumann Variation \(on a Theme from Piano Concerto in A Minor, Op\. 54: I\)](https://open.spotify.com/track/7taVu4UwW6hDezqTWQSXr4) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV), [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ) | [Schumann Variation \(on a Theme from Piano Concerto in A Minor, Op\. 54: I\)](https://open.spotify.com/album/2OaqPHMDcGemoHAnzpKebC) | 2:30 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 143 | [Nessun Dorma](https://open.spotify.com/track/6NsZucPvDbyARfXLgTpY9u) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 2:57 |
 | 144 | [Le clair de lune](https://open.spotify.com/track/4RPNnsMlvnXuh5oSMAvC1m) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Le clair de lune](https://open.spotify.com/album/71nv1eqwlnGmb5GIaNrfPD) | 4:08 |
 
-Snapshot ID: `AAAB173Fj5hTydIAf3cn28lbXdp5Bdo4`
+Snapshot ID: `AAAB2gaeZ1k98OVYEaT0OHbZksHx1l+0`

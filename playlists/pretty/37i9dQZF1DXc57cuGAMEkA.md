@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  The Weeknd, JENNIE, James Bay, Latto, HANA and more! cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,995 likes - 91 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,996 likes - 91 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 59 | [Step In To The Pure Life](https://open.spotify.com/track/4kv4cjJMaFO6dsFagTlvup) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Step In To The Pure Life](https://open.spotify.com/album/0AuBKTk1ut0UQ8OgPCDXeE) | 3:06 |
 | 60 | [Mechakucha Iiyo \(feat\. Candee & MIKADO\)](https://open.spotify.com/track/7jOnzJmFBpE5Dr2kPp9ues) | [Merry Delo](https://open.spotify.com/artist/1Q1IHJA1chZCn2P0ppiOfW), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Mechakucha Iiyo \(feat\. Candee & MIKADO\)](https://open.spotify.com/album/52oGpPOeM7uDl0O0CUs7uv) | 3:04 |
 | 61 | [man in the mirror](https://open.spotify.com/track/4KmNLSvaKU0zoJhIptn961) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 1:51 |
-| 62 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 62 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 63 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 |
 | 64 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
 | 65 | [BAD ENOUGH](https://open.spotify.com/track/1oeZ1eTnkh4KwCvLHlN7w1) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BAD ENOUGH](https://open.spotify.com/album/1vq1AQE3xWU0Bp568uIvim) | 2:58 |

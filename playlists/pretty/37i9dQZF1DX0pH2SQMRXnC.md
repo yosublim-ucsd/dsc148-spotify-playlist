@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pH2SQMRXnC.md) - [plain]
 
 > Only the biggest Hardstyle tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,816 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389,362 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

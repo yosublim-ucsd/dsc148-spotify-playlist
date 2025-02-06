@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,233 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,236 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 | 49 | [Hermanas de leche](https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Hermanas de leche](https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp) | 2:45 |
 | 50 | [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

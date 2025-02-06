@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,313 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,360 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

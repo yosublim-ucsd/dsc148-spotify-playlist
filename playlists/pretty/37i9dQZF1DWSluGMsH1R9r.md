@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439,415 likes - 288 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,439,528 likes - 288 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

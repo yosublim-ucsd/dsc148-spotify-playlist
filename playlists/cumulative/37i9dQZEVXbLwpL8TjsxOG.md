@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,071 songs - 2 day 14 hr 18 min
+1,072 songs - 2 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [ASAP](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:14 | 2023-07-22 | 2023-08-13 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-24 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-03 | 2023-03-13 |
+| [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-02-05 |  |
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-05-28 | 2022-06-01 |
 | [Back To December \(Taylor's Version\)](https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:54 | 2023-07-08 | 2023-07-11 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-08-19 |
@@ -770,7 +771,7 @@
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2023-02-28 | 2023-03-02 |
 | [你不會一輩子的愛上我](https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [你不會一輩子的愛上我](https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif) | 3:17 | 2023-11-04 | 2023-12-02 |
 | [你把我的](https://open.spotify.com/track/6bJ4x48rEaF6brX20Ho3pY) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [你把我的](https://open.spotify.com/album/4a5X6NxbbpqbtbUnke0KxR) | 2:25 | 2022-07-07 | 2022-10-20 |
-| [你是我的回憶殺](https://open.spotify.com/track/5mcbg5lIyu9Ht9Eo0RNoxW) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [EMO](https://open.spotify.com/album/78sxO8qhn7UpQ9m9ACO3Lb) | 3:45 | 2025-01-03 |  |
+| [你是我的回憶殺](https://open.spotify.com/track/5mcbg5lIyu9Ht9Eo0RNoxW) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [EMO](https://open.spotify.com/album/78sxO8qhn7UpQ9m9ACO3Lb) | 3:45 | 2025-01-03 | 2025-02-06 |
 | [你最紅](https://open.spotify.com/track/258rzvqYIdoukZjRmgY1Ra) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [最愛笑迎鼠 \(賀年新曲加精選\)](https://open.spotify.com/album/2srAavtinJCSpxv5Q4rla1) | 3:34 | 2024-02-11 | 2025-02-01 |
 | [你的世界](https://open.spotify.com/track/0bC5zT5eItHOF8Oz6RdD12) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [你的世界](https://open.spotify.com/album/5w5A7OCKqIrw6bmAJ8uK4Z) | 4:23 | 2023-11-24 | 2023-12-03 |
 | [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* | 2023-03-31 |

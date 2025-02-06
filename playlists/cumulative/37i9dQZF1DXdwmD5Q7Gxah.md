@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Chappell Roan
 
-3,165 songs - 7 day 4 hr 1 min
+3,168 songs - 7 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [black & mild](https://open.spotify.com/track/2Act8nsW8aQI46PsLNgJJj) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [black & mild](https://open.spotify.com/album/0y5DaPOSdKruHy7iYUud12) | 2:16 | 2021-10-26 | 2022-01-08 |
 | [Black Out Days \(Slowed & Reverb\)](https://open.spotify.com/track/5LtWRMwawTdOiARIY3VBP4) | [toastool](https://open.spotify.com/artist/5nABWe1FXsU9JYESQWznSm) | [Black Out Days \(Slowed & Reverb\)](https://open.spotify.com/album/3s2f5GkgGRPzANMZXriRNz) | 4:21 | 2021-08-05 | 2021-10-06 |
 | [Black Train](https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Black Train](https://open.spotify.com/album/6KYBsUfmFBa45f0wUiXxd6) | 3:47 | 2024-12-18 |  |
+| [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-05 |  |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-07-29 |
 | [Blake 2](https://open.spotify.com/track/5EZI0rPfDLltxUeimJZhu6) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Blake 2](https://open.spotify.com/album/0KiiNd7Y4pFAnTnva7NrnK) | 2:57 | 2022-11-16 | 2022-12-15 |
 | [blame](https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 2:40 | 2023-02-03 | 2023-04-15 |
@@ -1152,7 +1153,7 @@
 | [Hacker](https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Hacker](https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8) | 2:59 | 2024-11-01 | 2024-11-09 |
 | [Haircut](https://open.spotify.com/track/7KbXhJSDA7gl7a3KICExdf) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Haircut](https://open.spotify.com/album/5Dd6j2AVBkCyfZGHiix7e0) | 2:02 | 2023-07-28 | 2023-08-26 |
 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 | 2019-07-30\* | 2020-09-17 |
-| [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 | 2024-10-11 |  |
+| [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 | 2024-10-11 | 2025-02-06 |
 | [Halloween](https://open.spotify.com/track/6EPOKdXGMGI0Clx2P7afnC) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Halloween](https://open.spotify.com/album/5bP6MnAwsyaMh0bz1jNR3O) | 2:19 | 2020-08-21 | 2021-03-19 |
 | [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 | 2024-04-26 | 2024-09-05 |
 | [Hangar](https://open.spotify.com/track/1fkVOIKnMeR1NkBPnIfUQ8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Hangar](https://open.spotify.com/album/0vGLRqaVUnflzJS7yvXs0g) | 2:55 | 2022-01-27 | 2022-02-26 |
@@ -1423,7 +1424,7 @@
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-17 | 2023-04-20 |
 | [In & Out of Time](https://open.spotify.com/track/04HUqn66kaoDpNHmgCTUEm) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [In & Out of Time](https://open.spotify.com/album/6L3Gfeq2jaRbWrzjSiR2MQ) | 5:20 | 2024-08-05 | 2024-09-21 |
 | [In Between Plans](https://open.spotify.com/track/4T59PtRxilhsLFWxWabCEm) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [In Between Plans](https://open.spotify.com/album/0YdjMWhmusn8W2QrDYYuAz) | 3:46 | 2019-07-30\* | 2019-10-11 |
-| [IN FEAR, ETC.](https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 3:33 | 2024-11-08 |  |
+| [IN FEAR, ETC.](https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 3:33 | 2024-11-08 | 2025-02-06 |
 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-01-29 |  |
 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 | 2023-03-24 | 2023-07-12 |
 | [In My Head](https://open.spotify.com/track/1tT55K6VEyO6XFDxK4lDQe) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/1Ww9Yz5WDGdxBhS5FlVy6Y) | 3:34 | 2019-07-30\* | 2019-10-03 |
@@ -1534,6 +1535,7 @@
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 | 2021-07-31 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-08-02 | 2022-09-24 |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-19 | 2025-01-18 |
+| [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 | 2025-02-05 |  |
 | [kiss me outro \(st0pid b0y\)](https://open.spotify.com/track/18OQipa6OHeGjHLkKBCVdy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [kiss me outro \(st0pid b0y\)](https://open.spotify.com/album/6aS49Qv8Y7coDHvmDi1CC6) | 2:21 | 2024-12-13 | 2025-01-17 |
 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 | 2020-05-29 | 2021-01-12 |
 | [Kitchen](https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:52 | 2024-12-20 |  |
@@ -2736,7 +2738,7 @@
 | [TEMPTRESS](https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/0OGPnuAwWyhqxjhAvs4RSr) | 3:07 | 2023-02-24 | 2023-04-22 |
 | [Tenant](https://open.spotify.com/track/1PFIHtyj9US4ZIRkH34hxU) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Tenant](https://open.spotify.com/album/0Yhnyh1KDspkwYXjZKKxP4) | 3:54 | 2020-04-08 | 2021-01-15 |
 | [Tennessee](https://open.spotify.com/track/7iXZAgKNXrBmzcaNvM2Xkq) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [Tennessee](https://open.spotify.com/album/1sAbkkkEZAQAySsYVn1I7a) | 2:43 | 2020-05-07 | 2020-06-09 |
-| [Terrapin](https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:00 | 2024-10-09 |  |
+| [Terrapin](https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:00 | 2024-10-09 | 2025-02-06 |
 | [Texas](https://open.spotify.com/track/08qq38gqUu5e6jZSPT69GM) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Texas](https://open.spotify.com/album/4MxwYytep1ODnRn3g2qg0m) | 2:51 | 2022-11-10 | 2023-01-19 |
 | [TEXAS BLUE](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 | 2024-02-16 | 2024-10-05 |
 | [Thank You](https://open.spotify.com/track/0mMlo76aVZHpuvoR6fjBSK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-25 | 2024-09-07 |
@@ -2876,6 +2878,7 @@
 | [Trap Doors](https://open.spotify.com/track/4WvfcU7QCkI49HjUQckTqA) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 0:29 | 2022-06-21 | 2022-07-02 |
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-24 | 2021-04-10 |
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2020-08-21 | 2020-09-04 |
+| [Trickster](https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Debunker](https://open.spotify.com/album/7CV16uMpp4OJrur72BruwV) | 3:41 | 2025-02-05 |  |
 | [triflin'](https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw) | 2:49 | 2022-12-16 | 2023-01-19 |
 | [Trigger Of Love](https://open.spotify.com/track/0CtfBQl582RRut2ccLtjBr) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Trigger Of Love](https://open.spotify.com/album/7klv1gjxbcnRZI9TVSbXEo) | 2:50 | 2020-10-16 | 2021-11-13 |
 | [Triple Seven](https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/7IiqMfyjfLXFS0ngnzgvV5) | 3:26 | 2024-06-17 | 2024-08-18 |

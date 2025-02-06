@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKuaTI1Z1Afx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,326 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,345 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKuaTI1Z1Afx.md) - [plain]
 | 49 | [Drums of Death](https://open.spotify.com/track/13QINbzgh3yta5OGvB77Pl) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:11 |
 | 50 | [Rushmere](https://open.spotify.com/track/0rPHsDRiWwPfR6HG7JLj1K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/1ozQDYIyCeM7YKhHotVdny) | 3:12 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

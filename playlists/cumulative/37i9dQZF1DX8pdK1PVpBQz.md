@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. <br/>Cover: Kira Divine
 
-3,778 songs - 8 day 15 hr 24 min
+3,779 songs - 8 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1395,6 +1395,7 @@
 | [Handmedowns](https://open.spotify.com/track/4Wz8Yhp9R3WutSXZI0xsxE) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [Handmedowns](https://open.spotify.com/album/4VtqYmtncUuXirCtshBlxr) | 3:14 | 2023-09-21 | 2023-10-20 |
 | [Hands In the Air](https://open.spotify.com/track/3165kUEhkl26eDUbkjqDCs) | [Glen S](https://open.spotify.com/artist/72J41bLRJAVBkvW56cy1KR) | [Elation Station](https://open.spotify.com/album/2DEBK27TfQNx9U2Qs2MbRJ) | 6:48 | 2023-11-15 | 2023-11-30 |
 | [Handyman](https://open.spotify.com/track/2EIFXJ7JciSywPgWvbFuOk) | [Dick Dudley](https://open.spotify.com/artist/3PoaxBXkmqOeveBpI3rND3) | [Handyman](https://open.spotify.com/album/1MgUt280TberEEvQGUmLc7) | 2:58 | 2022-03-30 | 2022-04-14 |
+| [Hang on to Your Kool](https://open.spotify.com/track/67jWOXCM1RzeUZmdeeXzfZ) | [Wrong Way Up](https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe) | [Hang on to Your Kool](https://open.spotify.com/album/6b8bKjNMqDukdq2WeLg6Sb) | 3:43 | 2025-02-05 |  |
 | [Hanging Out The Window](https://open.spotify.com/track/3Q4x6AF5XFeBzzsiDRr2o2) | [Platonic Sex](https://open.spotify.com/artist/61hTjDPDLNpg6CPMtmLqHX) | [Hanging Out The Window](https://open.spotify.com/album/0aVvnATDq4RJAXofpwxuGJ) | 4:41 | 2024-05-21 | 2024-06-26 |
 | [Hannah](https://open.spotify.com/track/2xPC3ORH1X2bWZqa2rewJe) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Hannah](https://open.spotify.com/album/1Yn4AIEEgUQcKTG20EJziF) | 3:09 | 2024-11-05 |  |
 | [Happens All The Time](https://open.spotify.com/track/1HezVdieJrvo38VkRJGw3n) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Happens All The Time](https://open.spotify.com/album/4I5XTcRXTDNmE6NT0oMn2X) | 2:43 | 2022-03-16 | 2022-03-31 |
@@ -2510,7 +2511,7 @@
 | [Parasite](https://open.spotify.com/track/2TK3KLQtaWT04VlTpWJq7B) | [Idle Eyes](https://open.spotify.com/artist/3iyIlWTdLIcrzeufVi4edu) | [Parasite](https://open.spotify.com/album/0JSPRwLMxEW58qQJWh5X5B) | 3:00 | 2022-09-07 | 2022-09-22 |
 | [Paris](https://open.spotify.com/track/5IojjhKzCcTZqMvFtBhGQx) | [LUPO.THEBOY](https://open.spotify.com/artist/1syxKeEMdMzXsF2Cq6v62w) | [Paris](https://open.spotify.com/album/1Hh53ScBMkteL4oKBRnbGy) | 3:40 | 2025-02-04 |  |
 | [Paris](https://open.spotify.com/track/4F0uzJhRWsNDLZBYmeHOhh) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Paris](https://open.spotify.com/album/62Jv7Xdv2IlHMtyr3AvNSH) | 2:10 | 2023-08-30 | 2023-09-14 |
-| [parkinglot](https://open.spotify.com/track/51FqcMgkf2OFli2di4Xw9o) | [OSWRLD](https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl) | [parkinglot](https://open.spotify.com/album/5IaoGPf4z2TLDz23gW6ITs) | 3:25 | 2025-01-07 |  |
+| [parkinglot](https://open.spotify.com/track/51FqcMgkf2OFli2di4Xw9o) | [OSWRLD](https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl) | [parkinglot](https://open.spotify.com/album/5IaoGPf4z2TLDz23gW6ITs) | 3:25 | 2025-01-07 | 2025-02-06 |
 | [PARRIS](https://open.spotify.com/track/4wPn4wMPCYx7eCU0D5HkJK) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [PARRIS](https://open.spotify.com/album/0eJnewVyT5KoCCkubOGkbH) | 3:59 | 2024-11-26 |  |
 | [Party Boy](https://open.spotify.com/track/51miOuPRpcixpAMvEPfqHe) | [Eaglemont](https://open.spotify.com/artist/29lNdWVT8FA54OsgO0TUca) | [Party Boy](https://open.spotify.com/album/5rDfCNRou1diPQdMyp7cht) | 3:47 | 2024-04-16 | 2024-05-22 |
 | [party girl](https://open.spotify.com/track/3q42AfqZP6dvTQBmTZWg1G) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [popstyle](https://open.spotify.com/album/1BmbeoQLkG0FCFyjS9MeU5) | 2:30 | 2022-04-06 | 2022-04-21 |

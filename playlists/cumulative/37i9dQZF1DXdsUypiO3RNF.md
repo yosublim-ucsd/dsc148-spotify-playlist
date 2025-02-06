@@ -4,10 +4,11 @@
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-96 songs - 4 hr 18 min
+99 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [396 Hz Spirit of Serenity](https://open.spotify.com/track/1R1OhQeL3Xp4mR4nnzxoWQ) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [396 Hz Spirit of Serenity](https://open.spotify.com/album/2q0ANqIDwXIU0Zo0f4hkFl) | 2:54 | 2025-02-05 |  |
 | [639 \- Hz \- Sedang Tidur Part II](https://open.spotify.com/track/2X1VYmHKkfMS5fISMypw69) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur Part II](https://open.spotify.com/album/14g28ydElevtgofcH7Br51) | 2:25 | 2023-03-10 |  |
 | [639 Hertz \- Heart Chakra](https://open.spotify.com/track/2YNvaiJnAuMLNt6P4f6k2X) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Solfeggio \#2](https://open.spotify.com/album/0hFVXILa2hJgT8aVZIlhya) | 4:02 | 2023-03-10 | 2024-07-24 |
 | [639 Hz \- Astral Distance](https://open.spotify.com/track/3Zm4QDZIkrb1xGPMlYdbbA) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Solfeggio Frequencies \- Astral Distance](https://open.spotify.com/album/7AO6LwT9dJ8mJBl45IOQUv) | 1:45 | 2023-03-10 | 2023-08-08 |
@@ -31,6 +32,7 @@
 | [639 Hz Affinity Waves](https://open.spotify.com/track/2Cmo0UQlFlYL5DZblNs01Z) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [639 Hz Affinity Waves](https://open.spotify.com/album/5NXqSwS3MnLQdVcp0Za0CQ) | 2:28 | 2024-07-23 |  |
 | [639 Hz Beginning](https://open.spotify.com/track/5O3OpZk3AwQ3GVVXXLf5HT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [639 Hz Sound Bath for Yoga and Meditation](https://open.spotify.com/album/1zDA8KKrzmG5Z5gop4YzpG) | 2:36 | 2023-08-07 |  |
 | [639 Hz Connectivity](https://open.spotify.com/track/1r2SpKKPyueqs8Pl1FDoNa) | [Free Floaticity](https://open.spotify.com/artist/3E6TFl4kLJ3KG3oQJ4OdKh) | [639 Hz Connectivity](https://open.spotify.com/album/7iyC6R4UlbrFSEye8PyknH) | 2:45 | 2023-03-10 |  |
+| [639 Hz Constraint Object](https://open.spotify.com/track/3f8QpARoDmP1YG8l5F0iPz) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [639 Hz Constraint Object](https://open.spotify.com/album/50kS0Uu1IkQ46gti8smGLW) | 3:37 | 2025-02-05 |  |
 | [639 Hz Dream Sequence](https://open.spotify.com/track/4rdBbXpduqE14WnYfUQP6r) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [639 Hz Sound Bath for Yoga and Meditation](https://open.spotify.com/album/1zDA8KKrzmG5Z5gop4YzpG) | 3:16 | 2023-08-07 |  |
 | [639 Hz Empathic Soundscape](https://open.spotify.com/track/6xOL5TQziZNGFrkeBnWoj4) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [639 Hz Empathic Soundscape](https://open.spotify.com/album/0Uunjmq01Xrln9ptmMi6dW) | 2:27 | 2024-04-07 |  |
 | [639 Hz Environment Communication](https://open.spotify.com/track/5eHHAilXCHepFuUldE2UEg) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Reconnection](https://open.spotify.com/album/4d7nXul9yQTDRhXFGry3EL) | 2:55 | 2023-03-10 |  |
@@ -47,6 +49,7 @@
 | [639 Hz Rhythm of Kin](https://open.spotify.com/track/2dB2RfoX4Lb3DrK0aJF4NG) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz Rhythm of Kin](https://open.spotify.com/album/5VpIVjuu07WdJarvN8A5Lp) | 2:34 | 2024-03-13 |  |
 | [639 Hz Spiritual Discipline](https://open.spotify.com/track/0uF57Bd4CqhDefLhygLIfD) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [639 Hz Spiritual Discipline](https://open.spotify.com/album/7Isvf7Lu3bUQgTRznATyHC) | 3:28 | 2024-12-09 |  |
 | [639 Hz The Anthem of Connection](https://open.spotify.com/track/6oCLYmIoXXgaSUVD1s37y6) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz The Anthem of Connection](https://open.spotify.com/album/1cLyjr7T2DNLKl8ikluGgc) | 2:30 | 2024-06-11 |  |
+| [639 Hz Threads of Kinship](https://open.spotify.com/track/1lKTVsB1BA7WOLNXhrPc8i) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [639 Hz Threads of Kinship](https://open.spotify.com/album/5DGUqgdEhVnUpCUEM6SLII) | 2:52 | 2025-02-05 |  |
 | [639 Hz Tolerance and Love](https://open.spotify.com/track/0feSxi0NaNlAYOGiC1RW2I) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Tolerance](https://open.spotify.com/album/1Bxqf6Q41Gte8MJGXBgJqr) | 2:45 | 2023-03-10 |  |
 | [639 Hz Transitions](https://open.spotify.com/track/4DJ9VfdyefZeSwaIkYkaex) | [Sjoberga](https://open.spotify.com/artist/02hZdM7vbVOrG4Pm8tLsIc) | [639 Hz Transitions](https://open.spotify.com/album/2FU1FoPfeLeXkBfqoD4wK3) | 2:18 | 2023-03-10 |  |
 | [639 Hz Unity Strains](https://open.spotify.com/track/6T9LQ3Bp9rHJureI7XpRMC) | [Gerald Kenneth Turner](https://open.spotify.com/artist/4n05fm8bjGyVAFjq9luq4L) | [639 Hz Unity Strains](https://open.spotify.com/album/3MKQ95Z5IMp6cEv5UIeugY) | 2:18 | 2024-03-13 |  |

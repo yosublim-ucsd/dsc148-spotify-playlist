@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat! 🔁 Tananai in cover
 
-173 songs - 8 hr 58 min
+174 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,13 +33,14 @@
 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-13 | 2024-12-20 |
 | [Ciao](https://open.spotify.com/track/0jSRhH4iYZSQcL8a46Bvir) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Ciao](https://open.spotify.com/album/04Ym8yzWO8fJmP1emtBuKV) | 3:32 | 2024-09-26 | 2024-10-11 |
 | [Clamo](https://open.spotify.com/track/4hjPMRNdO051CH4vbvm2Ty) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Clamo](https://open.spotify.com/album/0teZmkbw8UI1Bp6olhIuln) | 2:30 | 2025-01-09 |  |
-| [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 | 2024-11-28 |  |
+| [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 | 2024-11-28 | 2025-02-06 |
 | [COME UN TUONO \(feat\. Guè\)](https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:55 | 2024-07-01 | 2024-11-08 |
 | [COMPLICI](https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [COMPLICI](https://open.spotify.com/album/3jiO40zvusWtEZeDHn4j1e) | 3:08 | 2025-01-16 |  |
 | [croci \(feat\. Sally Cruz\)](https://open.spotify.com/track/2jtoS2ttdOSeoLkweOhhkY) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [tutti i colori del buio](https://open.spotify.com/album/278YwMUlBJkd2Pj1YmCsQY) | 3:04 | 2024-07-11 | 2024-08-20 |
 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 | 2024-12-05 |  |
 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 | 2024-07-01 | 2024-07-12 |
 | [Dea Saffica](https://open.spotify.com/track/6Fm3dU9ZwAliTadrs8HBzL) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Dea Saffica](https://open.spotify.com/album/682OwV08MCYCXR6sYR8xnt) | 2:33 | 2024-07-01 | 2024-07-19 |
+| [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 | 2025-02-05 |  |
 | [Devastante](https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Devastante](https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n) | 3:10 | 2024-07-01 | 2024-10-25 |
 | [Dillo Solo Al Buio](https://open.spotify.com/track/2Om8fOpJjFtSn7MGdj3aen) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dillo Solo Al Buio](https://open.spotify.com/album/5DaUWuCz3CUye1DFBaD25T) | 3:45 | 2024-11-14 |  |
 | [DIRE FARE BACIARE](https://open.spotify.com/track/5OPS3Mqk9yzYB6hAmv1M2W) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [DIRE FARE BACIARE](https://open.spotify.com/album/6r0iHqnfn9FvrIIhlu3CjE) | 3:12 | 2024-07-01 | 2024-09-06 |

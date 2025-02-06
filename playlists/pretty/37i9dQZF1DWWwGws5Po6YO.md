@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: LI YILEI
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,506 likes - 100 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,574 likes - 100 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

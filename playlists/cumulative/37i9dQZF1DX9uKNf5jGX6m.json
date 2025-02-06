@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 141133,
       "name": "Eleni",
       "url": "https://open.spotify.com/track/62FsGEI77Ot7VXNcA2ReHz"
@@ -4218,6 +4218,24 @@
       "duration_ms": 164250,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/3njM9rpLOm07HHfVpIFb7K"
+    },
+    {
+      "album": {
+        "name": "Energy Flow",
+        "url": "https://open.spotify.com/album/7lUZbR3ktavR7OQOktECGO"
+      },
+      "artists": [
+        {
+          "name": "Celestros",
+          "url": "https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154166,
+      "name": "Energy Flow",
+      "url": "https://open.spotify.com/track/40h00jcXu8OP6xdoyh2ocf"
     },
     {
       "album": {
@@ -5316,6 +5334,24 @@
       "duration_ms": 179750,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/7ssVuuKwOMXDMiLB734NSn"
+    },
+    {
+      "album": {
+        "name": "Forgotten Memories",
+        "url": "https://open.spotify.com/album/51AuwMNupaeJ0guXR97oMG"
+      },
+      "artists": [
+        {
+          "name": "The Endity",
+          "url": "https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Forgotten Memories",
+      "url": "https://open.spotify.com/track/0ubTMbsYK5wnoSGhzMUD2w"
     },
     {
       "album": {
@@ -8232,7 +8268,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 175500,
       "name": "Meteor 5",
       "url": "https://open.spotify.com/track/4x6vhZrC3BNxMtYYb0xa7z"
@@ -8682,7 +8718,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 136962,
       "name": "Natural Beauty",
       "url": "https://open.spotify.com/track/0YqMuFuT9EWKMFQnZeDlYL"
@@ -9985,6 +10021,24 @@
     },
     {
       "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7D9oHv8kKSnR2KZ7ZxXKZK"
+      },
+      "artists": [
+        {
+          "name": "South To Somewhere",
+          "url": "https://open.spotify.com/artist/7KFsW7U7h7SSoMRdxFJmL2"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155851,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/6iP5Gok0mu3BExvKsVvZ46"
+    },
+    {
+      "album": {
         "name": "Placidus",
         "url": "https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra"
       },
@@ -10774,6 +10828,24 @@
       "duration_ms": 176441,
       "name": "Resolvation",
       "url": "https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ"
+    },
+    {
+      "album": {
+        "name": "Resonant Reverie",
+        "url": "https://open.spotify.com/album/1sahkPeGf5yQnkkwl5WiXo"
+      },
+      "artists": [
+        {
+          "name": "Santino Dunleaf",
+          "url": "https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181078,
+      "name": "Resonant Reverie",
+      "url": "https://open.spotify.com/track/5ZwK16F9WD9OQF5DZXAzqF"
     },
     {
       "album": {
@@ -12588,7 +12660,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 205070,
       "name": "Soundbed",
       "url": "https://open.spotify.com/track/5A0kxibkbR8Wzgv07eyGtu"
@@ -13384,6 +13456,24 @@
       "duration_ms": 196000,
       "name": "The Dreamer",
       "url": "https://open.spotify.com/track/7m1FO52k1xNJDUdiBvItiZ"
+    },
+    {
+      "album": {
+        "name": "The Edge of Twilight",
+        "url": "https://open.spotify.com/album/7wdCbXaCKqrszfjelscf00"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195902,
+      "name": "The Edge of Twilight",
+      "url": "https://open.spotify.com/track/0Rr4EimL1oCuMoo6cpajEi"
     },
     {
       "album": {
@@ -14298,7 +14388,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 187185,
       "name": "Undulating",
       "url": "https://open.spotify.com/track/77X5JEYLRwx9G3DCJ3PVsn"

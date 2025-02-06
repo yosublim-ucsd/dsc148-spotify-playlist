@@ -11767,6 +11767,24 @@
     },
     {
       "album": {
+        "name": "BRILLEREMO",
+        "url": "https://open.spotify.com/album/5hWOZRjtsxnjZ4AQPZZwKm"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167561,
+      "name": "VORREI",
+      "url": "https://open.spotify.com/track/3zloVfHZF9XgnP7njHqA5f"
+    },
+    {
+      "album": {
         "name": "Walzer",
         "url": "https://open.spotify.com/album/3inCtUyQAJXPL37INxLJVn"
       },

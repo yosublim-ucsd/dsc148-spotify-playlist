@@ -42523,6 +42523,24 @@
     },
     {
       "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/7BCaDRAXBVRUwhcVsuJ5Pu"
+      },
+      "artists": [
+        {
+          "name": "Theo Moss",
+          "url": "https://open.spotify.com/artist/0ETuekbiB4yJVpe2fAMiNP"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168452,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4fW6kK0t8Pv7gkbNjUWH9I"
+    },
+    {
+      "album": {
         "name": "shotgun carousel",
         "url": "https://open.spotify.com/album/07G5GcmF7G7IOhIEQ4LBPU"
       },

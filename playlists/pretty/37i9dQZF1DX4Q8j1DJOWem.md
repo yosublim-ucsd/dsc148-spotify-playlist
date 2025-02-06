@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: sarah salola
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,965 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,971 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 12 | [beginner](https://open.spotify.com/track/4bcfiaTv3id9jpqhyDv2uV) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [Love & Limerence](https://open.spotify.com/album/3QI3Yxmiebv6OWPw2wU2Nh) | 3:52 |
 | 13 | [ขอให้เรื่องของเราไม่มีตอนจบ \(I Wish\)](https://open.spotify.com/track/3BJEGjNxCELlKPLAhgudYy) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ขอให้เรื่องของเราไม่มีตอนจบ \(I Wish\)](https://open.spotify.com/album/4pBBHOfDPAH14MJOKgRfVr) | 3:09 |
 | 14 | [อีกสักครั้ง](https://open.spotify.com/track/1u8t3ijcMISRh2N87qZMS4) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [อีกสักครั้ง](https://open.spotify.com/album/4lZ4coRqcqMKvMrlG0ReGN) | 4:10 |
-| 15 | [Disposable](https://open.spotify.com/track/2NNvziKZJDKXieWoVZGPCu) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD), [The Ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [Disposable](https://open.spotify.com/album/6MLdAacv7cSFW15pod6p4N) | 4:21 |
+| 15 | [Disposable](https://open.spotify.com/track/2NNvziKZJDKXieWoVZGPCu) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD), [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [Disposable](https://open.spotify.com/album/6MLdAacv7cSFW15pod6p4N) | 4:21 |
 | 16 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 |
 | 17 | [Love & Secret](https://open.spotify.com/track/2Uj75SjWw9utBe64kYbUU8) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [Love & Secret](https://open.spotify.com/album/5Nf4Rf9Xankkmsb4737GM6) | 2:28 |
 | 18 | [ท้องฟ้ามหาสมุทร](https://open.spotify.com/track/6a55uCFZms2NM0SSNFRKE5) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [ท้องฟ้ามหาสมุทร \- Single](https://open.spotify.com/album/5TwcFbVn9ChH5ceFfSnzlC) | 4:12 |

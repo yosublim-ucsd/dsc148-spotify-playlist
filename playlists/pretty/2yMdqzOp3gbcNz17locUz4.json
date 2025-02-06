@@ -1,12 +1,12 @@
 {
   "description": "furry, \u0398\u0394, indie. Cover: <a href=\"https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH?si=xKEjvLs9Qz2sC0ciFa1-9Q\">GABUISLOST</a> || Visit our <a href=\"https://indieanthro.com\">website</a> for more \u2728",
-  "num_followers": 3343,
+  "num_followers": 3345,
   "original_name": "indieAnthro",
   "owner": {
     "name": "trickyStoop",
     "url": "https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid"
   },
-  "snapshot_id": "AAAPJ9pg6zudkkt7yfZh2wFVfVG2Ruxd",
+  "snapshot_id": "AAAPMM/yMWrTKgIKbw0NFb+dRVyetbOF",
   "tracks": [
     {
       "added_at": "2025-01-31 10:52:47",
@@ -43,6 +43,30 @@
       "duration_ms": 195204,
       "name": "HEART-Q",
       "url": "https://open.spotify.com/track/4KeJPooEdtKgS0whhhybaz"
+    },
+    {
+      "added_at": "2025-02-05 02:24:15",
+      "album": {
+        "name": "steam",
+        "url": "https://open.spotify.com/album/1tqaFT1gldC0IjQMyDfDHL"
+      },
+      "artists": [
+        {
+          "name": "friends&",
+          "url": "https://open.spotify.com/artist/4KOymwZptTkgXMSg0veycG"
+        },
+        {
+          "name": "clust.r",
+          "url": "https://open.spotify.com/artist/5bvjxbUrQY0ZiQrWEiHC11"
+        },
+        {
+          "name": "Christopher Rowin",
+          "url": "https://open.spotify.com/artist/3VKXRji3bRVJyqN0LLpbVA"
+        }
+      ],
+      "duration_ms": 175674,
+      "name": "steam",
+      "url": "https://open.spotify.com/track/5txPGRPxsnDpWnpwc5k1ix"
     },
     {
       "added_at": "2025-01-31 11:07:41",
@@ -93,22 +117,6 @@
       "url": "https://open.spotify.com/track/2XHym52UhEAbxSymPMUV64"
     },
     {
-      "added_at": "2024-06-05 00:57:03",
-      "album": {
-        "name": "im dead",
-        "url": "https://open.spotify.com/album/2VY86Jhs9WGhgJyADNAgJO"
-      },
-      "artists": [
-        {
-          "name": "_st1cks",
-          "url": "https://open.spotify.com/artist/21SFSBfUS5zFmOaSXsDmk0"
-        }
-      ],
-      "duration_ms": 139109,
-      "name": "i'm dead",
-      "url": "https://open.spotify.com/track/1yWadeiSTcldY6wDG50nKF"
-    },
-    {
       "added_at": "2024-03-07 01:35:02",
       "album": {
         "name": "BIG2K",
@@ -141,24 +149,36 @@
       "url": "https://open.spotify.com/track/10tHXodePBcZIN2St0cMlT"
     },
     {
-      "added_at": "2024-07-12 17:39:41",
+      "added_at": "2024-06-05 00:57:03",
       "album": {
-        "name": "opal",
-        "url": "https://open.spotify.com/album/34Zr3RTwjMsQcTAedwWwpg"
+        "name": "im dead",
+        "url": "https://open.spotify.com/album/2VY86Jhs9WGhgJyADNAgJO"
       },
       "artists": [
         {
-          "name": "lulamoon",
-          "url": "https://open.spotify.com/artist/0DAelTYQOImud40A6DFnYR"
-        },
-        {
-          "name": "robin's ghost",
-          "url": "https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G"
+          "name": "_st1cks",
+          "url": "https://open.spotify.com/artist/21SFSBfUS5zFmOaSXsDmk0"
         }
       ],
-      "duration_ms": 196928,
-      "name": "gen3mlp",
-      "url": "https://open.spotify.com/track/2pq1qNcFLdWKas7DLNsOMF"
+      "duration_ms": 139109,
+      "name": "i'm dead",
+      "url": "https://open.spotify.com/track/1yWadeiSTcldY6wDG50nKF"
+    },
+    {
+      "added_at": "2025-02-05 02:20:32",
+      "album": {
+        "name": "Brumal",
+        "url": "https://open.spotify.com/album/044HHaGRFOn1RhKR9q1ea8"
+      },
+      "artists": [
+        {
+          "name": "wisp",
+          "url": "https://open.spotify.com/artist/7scInd2tt8fsEC4LdYAASv"
+        }
+      ],
+      "duration_ms": 159795,
+      "name": "with you",
+      "url": "https://open.spotify.com/track/3RYHgICSwjphWmh8ZmRxC2"
     },
     {
       "added_at": "2024-12-10 13:19:44",
@@ -191,6 +211,26 @@
       "duration_ms": 193585,
       "name": "CHALLENGER",
       "url": "https://open.spotify.com/track/2YHJuaDbBXc48MAfPiw4Ph"
+    },
+    {
+      "added_at": "2024-07-12 17:39:41",
+      "album": {
+        "name": "opal",
+        "url": "https://open.spotify.com/album/34Zr3RTwjMsQcTAedwWwpg"
+      },
+      "artists": [
+        {
+          "name": "lulamoon",
+          "url": "https://open.spotify.com/artist/0DAelTYQOImud40A6DFnYR"
+        },
+        {
+          "name": "robin's ghost",
+          "url": "https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G"
+        }
+      ],
+      "duration_ms": 196928,
+      "name": "gen3mlp",
+      "url": "https://open.spotify.com/track/2pq1qNcFLdWKas7DLNsOMF"
     },
     {
       "added_at": "2024-12-22 14:49:45",
@@ -737,22 +777,6 @@
       "url": "https://open.spotify.com/track/3j98I7tc7XzE4nOeQwbYuB"
     },
     {
-      "added_at": "2024-09-26 00:22:47",
-      "album": {
-        "name": "rodeo",
-        "url": "https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7"
-      },
-      "artists": [
-        {
-          "name": "lucypawz",
-          "url": "https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7"
-        }
-      ],
-      "duration_ms": 188543,
-      "name": "if i could meet you there",
-      "url": "https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL"
-    },
-    {
       "added_at": "2024-11-14 12:15:25",
       "album": {
         "name": "867",
@@ -947,30 +971,6 @@
       "duration_ms": 126931,
       "name": "i don't wanna",
       "url": "https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv"
-    },
-    {
-      "added_at": "2024-10-11 12:47:25",
-      "album": {
-        "name": "how it feels to fly",
-        "url": "https://open.spotify.com/album/7cnO2Hyzr9Kt8z1oUtgtTD"
-      },
-      "artists": [
-        {
-          "name": "Sarajevo Noise Beat",
-          "url": "https://open.spotify.com/artist/5Cw1pwfT5W9pvGyO30ojCf"
-        },
-        {
-          "name": "What The PUP!",
-          "url": "https://open.spotify.com/artist/1Uti1MlTR0fRL0u0vI6zl9"
-        },
-        {
-          "name": "lillybug",
-          "url": "https://open.spotify.com/artist/4E2TcTjE4vNGZ8eNtMzQ7U"
-        }
-      ],
-      "duration_ms": 269126,
-      "name": "how it feels to fly",
-      "url": "https://open.spotify.com/track/7a4kJMczOlvculn80pLRrP"
     },
     {
       "added_at": "2024-11-14 12:17:29",

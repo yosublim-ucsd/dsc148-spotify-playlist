@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg"
+    },
+    {
+      "album": {
         "name": "<Queendom2> FINAL",
         "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
       },
@@ -6525,6 +6543,24 @@
     },
     {
       "album": {
+        "name": "'Caligo Pt.1'",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -7152,7 +7188,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -16268,7 +16304,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 244500,
       "name": "London Boy",
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"

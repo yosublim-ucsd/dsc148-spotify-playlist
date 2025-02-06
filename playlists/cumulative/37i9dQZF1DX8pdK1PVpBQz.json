@@ -26087,6 +26087,24 @@
     },
     {
       "album": {
+        "name": "Hang on to Your Kool",
+        "url": "https://open.spotify.com/album/6b8bKjNMqDukdq2WeLg6Sb"
+      },
+      "artists": [
+        {
+          "name": "Wrong Way Up",
+          "url": "https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223598,
+      "name": "Hang on to Your Kool",
+      "url": "https://open.spotify.com/track/67jWOXCM1RzeUZmdeeXzfZ"
+    },
+    {
+      "album": {
         "name": "Hanging Out The Window",
         "url": "https://open.spotify.com/album/0aVvnATDq4RJAXofpwxuGJ"
       },
@@ -47024,7 +47042,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 205709,
       "name": "parkinglot",
       "url": "https://open.spotify.com/track/51FqcMgkf2OFli2di4Xw9o"

@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-206 songs - 9 hr 31 min
+206 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,6 @@
 | [Nico And The Niners \- Slowed](https://open.spotify.com/track/4UZHUNh2RDSvisZyLBQUHd) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Nico And The Niners](https://open.spotify.com/album/3Srj2MLhrDDpibB3gwZmmb) | 3:24 | 2022-07-28 | 2022-09-03 |
 | [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 | 2023-01-05 |  |
 | [Numb](https://open.spotify.com/track/6yNvTSNpvHfIVDjlLNnVqF) | [VERVGE](https://open.spotify.com/artist/57MA3sAmDw91t1XqH6rJRk), [MGL](https://open.spotify.com/artist/55Rtgu6jVgw4Mv5NeGWUak) | [Numb](https://open.spotify.com/album/09V8HbdOk5BjmRlgY3e5a9) | 2:32 | 2022-06-10 | 2022-09-24 |
-| [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 | 2022-05-12 |  |
 | [Oley Oley](https://open.spotify.com/track/54lZaPBQceXNLv3wvYH69c) | [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Oley Oley](https://open.spotify.com/album/6rYvSUUkK6wRpgfih4kOEc) | 3:19 | 2022-05-12 | 2022-06-17 |
 | [One Two Step](https://open.spotify.com/track/5WRxhkFgIWRaq7KrvxhrM5) | [Met](https://open.spotify.com/artist/7qqUUjoy61NDEWK2JWGdNP) | [One Two Step](https://open.spotify.com/album/4cSljFsGh3caVPOSMf85KJ) | 2:49 | 2022-04-07 | 2022-04-29 |
 | [OneShot](https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM) | [msht](https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO) | [OneShot](https://open.spotify.com/album/5dfKkLx9NF3xgwKo3pfxrq) | 2:32 | 2023-10-27 | 2024-05-03 |
@@ -203,6 +202,7 @@
 | [ULETAY](https://open.spotify.com/track/6Pv2ssBWBcj2QFgmPl42gx) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [ORGAN](https://open.spotify.com/artist/1YKl8e8MJE5TK28LC4UyC6), [Titov](https://open.spotify.com/artist/3SuQprUc8N1kIOs2Hm2mAk), [FAVIA](https://open.spotify.com/artist/1FTXwgjHR8LAr13cnjWp7m) | [ULETAY](https://open.spotify.com/album/35VhiKDtvhfredQm0zWb2m) | 2:41 | 2022-11-04 | 2024-10-03 |
 | [V4](https://open.spotify.com/track/0cSCkxH7TkHpw4koHa5yIT) | [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz), [Şevket Öndaş](https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki) | [V4](https://open.spotify.com/album/6MSXlJQySfAZ22fxKDNeBC) | 2:40 | 2022-09-30 | 2022-10-07 |
 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 | 2022-09-30 |  |
+| [Versace](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [J&K](https://open.spotify.com/artist/6dE7gniQuPD7nsIhI4UYsN), [AINI](https://open.spotify.com/artist/14IWRqA1PTpEeGcrIW8WTg) | [Versace](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 1:51 | 2022-05-12 |  |
 | [Vibe](https://open.spotify.com/track/7ChxPWUiP5wVMkjzX0l4Hv) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0) | [Vibe](https://open.spotify.com/album/7GcBLauj50UqyZbBSN5vxz) | 2:30 | 2022-08-05 | 2022-10-07 |
 | [Want You Back](https://open.spotify.com/track/11Pl9OLQwA5nzKEPXxhz1E) | [WIB3X](https://open.spotify.com/artist/0ZWALBQXq4HZWbxgVmUcWQ) | [Want You Back](https://open.spotify.com/album/5RrtbkSB1ZBjUpZGD34cEb) | 3:55 | 2022-09-09 | 2022-11-05 |
 | [Wanted More](https://open.spotify.com/track/13PNaphT12bcpme9dX3nyT) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Wanted More](https://open.spotify.com/album/4Cqsrn6xAlfg0Nh9MbIrLO) | 3:17 | 2022-04-21 | 2022-05-13 |

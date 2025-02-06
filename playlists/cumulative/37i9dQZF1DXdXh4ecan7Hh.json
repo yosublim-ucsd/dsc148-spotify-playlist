@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "County's best like you've never heard before. Cover: Avery Anna at Spotify House",
+  "description": "County's best like you've never heard before. Cover: Riley Green",
   "name": "Spotify Singles: Country",
   "tracks": [
     {
@@ -1512,6 +1512,24 @@
       "duration_ms": 134615,
       "name": "Shitty Golfer (Recorded at Sound Stage Studios Nashville)",
       "url": "https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO"
+    },
+    {
+      "album": {
+        "name": "Slow Dancing In A Burning Room (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222998,
+      "name": "Slow Dancing In A Burning Room - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN"
     },
     {
       "album": {

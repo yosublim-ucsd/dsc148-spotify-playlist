@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Appalachia Borealis",
+        "url": "https://open.spotify.com/album/6CGLtIg3MR7NfDINHlZCm8"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214570,
+      "name": "Appalachia Borealis",
+      "url": "https://open.spotify.com/track/7t9CBs8UgSpUOuKmst0UTe"
+    },
+    {
+      "album": {
         "name": "Arpegio D",
         "url": "https://open.spotify.com/album/18uoUXsDi5Pmr2I4iDXJEa"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 158430,
       "name": "Bord de L\u2019eau",
       "url": "https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF"
@@ -546,6 +564,24 @@
       "duration_ms": 108024,
       "name": "Chuva",
       "url": "https://open.spotify.com/track/7knFmwt8bh2YmMNd4noQtd"
+    },
+    {
+      "album": {
+        "name": "circadian",
+        "url": "https://open.spotify.com/album/44vHP61cXoOWq54VyodlKg"
+      },
+      "artists": [
+        {
+          "name": "in my daydreams",
+          "url": "https://open.spotify.com/artist/5Twl9Txd7gP1DmkE89hpz3"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156858,
+      "name": "circadian",
+      "url": "https://open.spotify.com/track/7IlHnSB4isGeRn3ftEWkVA"
     },
     {
       "album": {
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 176000,
       "name": "Equipoise",
       "url": "https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF"
@@ -1305,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Songs From My Living Room",
+        "url": "https://open.spotify.com/album/0xBoVGNmu8XthLXhMNV6T2"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114506,
+      "name": "Field of Shapes",
+      "url": "https://open.spotify.com/track/2xGmbB7YztxrQPwSzU4HBV"
+    },
+    {
+      "album": {
         "name": "Fika",
         "url": "https://open.spotify.com/album/5ARj8zWYh41yPClznCIu19"
       },
@@ -1449,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/141aYM5oB1j4Ch75e1qiIF"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/2mcNmyIwa0n0dTsaHclEZd"
+    },
+    {
+      "album": {
         "name": "hidden in the heather",
         "url": "https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ"
       },
@@ -1482,6 +1554,24 @@
       "duration_ms": 207122,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/1S0iPYR5mUbNcm7SwlNWTL"
+    },
+    {
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/4s98ZZEUEgQ2xOK4O63kHH"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156349,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/1FuXj0Pb8eOW7PQTzzsJ3z"
     },
     {
       "album": {
@@ -3146,7 +3236,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 146250,
       "name": "Sublime Worlds",
       "url": "https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA"
@@ -3896,7 +3986,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 170000,
       "name": "Watching Traffic",
       "url": "https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo"
@@ -3980,6 +4070,24 @@
       "duration_ms": 264052,
       "name": "We Contain Multitudes \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
+    },
+    {
+      "album": {
+        "name": "Web of Stars",
+        "url": "https://open.spotify.com/album/5UGtgC5RF3R3HrZ2ybLCFn"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204699,
+      "name": "Web of Stars",
+      "url": "https://open.spotify.com/track/2HMMxzjvnkgFYYKXDSQGRt"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/335193">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/335384">SPICE連動記事</a>をSPICEでチェック!
 
 9,425 songs - 24 day 10 hr 12 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,174 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,323 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

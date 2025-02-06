@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jan Roberts
 
-260 songs - 16 hr 33 min
+263 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [damdamin!](https://open.spotify.com/track/6nrGNaUnAtLTbXMW4k9kKE) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [damdamin!](https://open.spotify.com/album/6XY5qKaYLnZjE5boyV3vZS) | 3:47 | 2024-11-29 |  |
 | [Darating Din](https://open.spotify.com/track/0X3gTjlVns6kM9cJLjGdwY) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Darating Din](https://open.spotify.com/album/0XuqGNQFVjtXPrldqlgfHT) | 4:03 | 2024-10-18 |  |
 | [Delikado, Baby](https://open.spotify.com/track/6q3NuCI1HTpMtSKbNbshne) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Delikado, Baby](https://open.spotify.com/album/314uI5ZQOrE5VpiWdFjRlY) | 3:25 | 2024-07-02 | 2024-07-13 |
+| [Delusyonal](https://open.spotify.com/track/09CvWD60BVdN1IcXhAV1X2) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [Delusyonal](https://open.spotify.com/album/7iRBfupC3gJnKbmZL5xXgM) | 3:05 | 2025-02-05 |  |
 | [Di Bale](https://open.spotify.com/track/2zo7R0v0YrmVfb3VPkrAFX) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [jgh](https://open.spotify.com/album/5qbKa6ArxbSTX3qJZpg1ss) | 3:53 | 2024-11-29 |  |
 | [Di Mapakali](https://open.spotify.com/track/1AqyT79FxsN0PhqSty5BS2) | [Pattia](https://open.spotify.com/artist/5lsGsDuEgkJJVIupE3kupJ) | [Di Mapakali](https://open.spotify.com/album/6sJYwdvd3qvopepHz1111k) | 3:48 | 2024-11-22 |  |
 | [Dilaw](https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Dilaw](https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp) | 3:12 | 2024-07-02 | 2024-08-31 |
@@ -84,6 +85,7 @@
 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 | 2024-10-18 |  |
 | [Hiraya](https://open.spotify.com/track/4byYvg0R2equLR0TMRvcB5) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Hiraya](https://open.spotify.com/album/7tEI48ifzaMHKjdBrHux6t) | 3:18 | 2024-11-22 |  |
 | [Hiraya](https://open.spotify.com/track/7hKefTBNDE5VuVruNmvu5N) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Hiraya](https://open.spotify.com/album/7nb9CSpOvsRJbrCXPLIJtt) | 4:12 | 2024-07-02 | 2024-07-09 |
+| [Hiraya \(Haharanahin Kita\)](https://open.spotify.com/track/0Ef1eeZkMKKqcEvUrUrriq) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Paham](https://open.spotify.com/album/6ks3nxwwuSeJduxDSeZk3l) | 3:54 | 2025-02-05 |  |
 | [Hiwaga](https://open.spotify.com/track/1dWZwFAgsCwu0WmjtdEtno) | [Tatin DC](https://open.spotify.com/artist/4yFub2mOdJ4oHxbxrs4HuY) | [Hiwaga](https://open.spotify.com/album/76OJy2zIxbNCDMKivaLNpd) | 3:53 | 2024-09-19 | 2025-01-02 |
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-07-02 | 2024-07-19 |
 | [Hopia](https://open.spotify.com/track/4nu366glQKT2HbdDhov3lE) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [afteryou.](https://open.spotify.com/album/4qPIKvJ3xiO7AyqPEFTlqc) | 4:42 | 2024-11-29 |  |
@@ -147,7 +149,7 @@
 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2024-11-08 |  |
 | [Mas Gusto Kita](https://open.spotify.com/track/0Fz4n1CHMWRoJOViHFKCXV) | [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Mas Gusto Kita](https://open.spotify.com/album/1Tqdtyo89IGVfIQA5fCMDB) | 3:22 | 2024-07-02 | 2024-08-10 |
 | [Medyo Ako \(feat\. Moira Dela Torre\)](https://open.spotify.com/track/2iVloJhXpLh5eMat9VDMLG) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Sad Songs and Bullshit Part 2](https://open.spotify.com/album/6KnDwm1lo2DMu8PkpvnvAp) | 4:13 | 2024-07-02 | 2024-11-09 |
-| [Miles Away](https://open.spotify.com/track/7BuPLOGkN1MQG7UYt9NlLe) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Miles Away](https://open.spotify.com/album/7GSyL3dTzMhGtCSus3Z45W) | 5:11 | 2024-11-20 |  |
+| [Miles Away](https://open.spotify.com/track/7BuPLOGkN1MQG7UYt9NlLe) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Miles Away](https://open.spotify.com/album/7GSyL3dTzMhGtCSus3Z45W) | 5:11 | 2024-11-20 | 2025-02-06 |
 | [minsan](https://open.spotify.com/track/7sdJVKQdidTOIXHxjY9KqK) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [minsan](https://open.spotify.com/album/0UEnA632PuAMWkvPkwYqrP) | 3:21 | 2024-08-23 | 2024-11-21 |
 | [Mirasol](https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Mirasol](https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft) | 3:27 | 2024-10-18 | 2025-02-01 |
 | [Miss](https://open.spotify.com/track/42Ca18hBHZyFIdw0JCL51j) | [Darren Espanto](https://open.spotify.com/artist/0u4G1K1CSzcp5PZ6G6FIGu) | [Miss](https://open.spotify.com/album/40bq8R3mU0a5b1tjFI2OLC) | 3:37 | 2024-07-26 | 2024-11-09 |
@@ -215,7 +217,7 @@
 | [Sandstorm](https://open.spotify.com/track/7i03IwGihweGrBw9IdSd5h) | [Mona Gonzales](https://open.spotify.com/artist/4WfDxyfUCSNCJtorm2eOOT) | [Love, Mona](https://open.spotify.com/album/2TtyretwUDsRHZPCkGFFT7) | 3:14 | 2024-12-16 |  |
 | [Sargo](https://open.spotify.com/track/0HM3uWoejsV1P6JfmAnFh3) | [Daph](https://open.spotify.com/artist/6Msb8E2b9GXLJZst4EB0Cs) | [Sargo](https://open.spotify.com/album/0YGqRqCSE9MHKtJ4qaKjvh) | 3:08 | 2024-11-20 |  |
 | [Sariling Mundo](https://open.spotify.com/track/3QWCnRuQW5P602ZzHXLv7Z) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Sariling Mundo](https://open.spotify.com/album/2rfBUsHWqodvzhMDNDAeJW) | 3:12 | 2024-07-02 | 2024-07-27 |
-| [Save Me](https://open.spotify.com/track/00IoywtcjMMMAHBl5t0thC) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Free Love](https://open.spotify.com/album/55NZX6AkVkxVck5NWisa2q) | 3:36 | 2024-11-20 |  |
+| [Save Me](https://open.spotify.com/track/00IoywtcjMMMAHBl5t0thC) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Free Love](https://open.spotify.com/album/55NZX6AkVkxVck5NWisa2q) | 3:36 | 2024-11-20 | 2025-02-06 |
 | [Saya](https://open.spotify.com/track/7gK9OWLcIJVBhW8sFvc4MW) | [Bianca Lipana](https://open.spotify.com/artist/24ljCwx5Bi8C5HOJxzDXOv) | [Saya](https://open.spotify.com/album/4BmEh0mRGd63PKxPd16eSZ) | 3:39 | 2024-12-04 |  |
 | [Segundo](https://open.spotify.com/track/5AzpxgMNopyCH4JU9FxOIE) | [7th](https://open.spotify.com/artist/1jFSGmSAx0UgJ5AeHS5xAN) | [Segundo](https://open.spotify.com/album/1OhAOWaVJCuItMgClMJSGD) | 5:06 | 2024-09-24 | 2024-12-05 |
 | [Segundo, Siguro](https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Segundo, Siguro](https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0) | 4:44 | 2024-07-02 | 2024-07-19 |
@@ -234,10 +236,11 @@
 | [Sumugal](https://open.spotify.com/track/5fbSD2COzb6064kqXuxyls) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Sumugal](https://open.spotify.com/album/0aJdULDCIVnQ1yldINTiaI) | 3:39 | 2024-07-02 | 2024-08-17 |
 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 | 2024-07-02 | 2024-07-09 |
 | [surreal](https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [surreal](https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY) | 4:00 | 2024-07-02 | 2024-07-19 |
+| [Suya\-suyo](https://open.spotify.com/track/7fa1TUj6YM3qLrEIQAVONY) | [Frisbee](https://open.spotify.com/artist/1VBkwOEyc2ccSel29Pcimq) | [Suya\-suyo](https://open.spotify.com/album/7zr5HjJ3uH9Gkx5qiKzaSC) | 3:06 | 2025-02-05 |  |
 | [Suyo](https://open.spotify.com/track/1luVrWeeMFsZIfAln55hg8) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Suyo](https://open.spotify.com/album/62fwSalB8q4WHm7lgOLLco) | 3:20 | 2024-09-24 | 2024-12-05 |
 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 |  |
 | [Tagpi\-Tagping Piraso](https://open.spotify.com/track/2Wo8XWGAdfVKY0cArDMo8L) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Tagpi\-Tagping Piraso](https://open.spotify.com/album/1sZHJjzmRCPByEp5LvqOqq) | 4:46 | 2024-10-18 | 2025-02-01 |
-| [tama na](https://open.spotify.com/track/7LRPZzicTkzOJ4OyFgajxT) | [Cuatro](https://open.spotify.com/artist/4dg2z4ZmSNpkBGRSSBs3Q0) | [tama na](https://open.spotify.com/album/0Q30UaqNvSu4F2zeBm1pHF) | 4:01 | 2024-11-20 |  |
+| [tama na](https://open.spotify.com/track/7LRPZzicTkzOJ4OyFgajxT) | [Cuatro](https://open.spotify.com/artist/4dg2z4ZmSNpkBGRSSBs3Q0) | [tama na](https://open.spotify.com/album/0Q30UaqNvSu4F2zeBm1pHF) | 4:01 | 2024-11-20 | 2025-02-06 |
 | [Tanga Mo Juan](https://open.spotify.com/track/13lwYFYmDDXeIBXW9IJaP9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Tanga Mo Juan](https://open.spotify.com/album/1qS34W4EiMKNuZzIa85bn5) | 4:06 | 2024-07-02 | 2024-08-22 |
 | [Tangi](https://open.spotify.com/track/6gZiPX4GZd3wm2Ko4f3LX3) | [Carl Beley](https://open.spotify.com/artist/50JLRPX2SAUwAfMglz3LiJ) | [Tangi](https://open.spotify.com/album/6icZ498dwWlfGWCGVGoobH) | 4:01 | 2024-12-04 |  |
 | [Tanging Ikaw](https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Tanging Ikaw](https://open.spotify.com/album/5Vo9ijLxjWDZfl11vJhc4a) | 2:56 | 2025-01-31 |  |

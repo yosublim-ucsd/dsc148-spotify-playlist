@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: SIMONA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,542 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,545 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [COCON](https://open.spotify.com/track/2lUMPqOVHE8sfw1k7MmFWa) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [COCON](https://open.spotify.com/album/4dr9J75N8U3dlTEeSTgELu) | 1:59 |
 | 2 | [Esa Diva](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 |
-| 3 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin Urrutia](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
+| 3 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [MARTIN](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
 | 4 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 5 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
 | 6 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 49 | [De Resaca](https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [De Resaca](https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO) | 2:38 |
 | 50 | [Mar Menor](https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Mar Menor](https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW) | 3:13 |
 
-Snapshot ID: `Z6KcFQAAAACAJdxZ2YvOU4kP5DQWsd9I`
+Snapshot ID: `Z6MhkgAAAABC7buGEkXa83n4w6fEASEG`

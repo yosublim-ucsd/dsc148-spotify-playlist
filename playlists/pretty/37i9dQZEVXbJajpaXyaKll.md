@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,889 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,884 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 25 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K) | 2:37 |
 | 26 | [Cobro](https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Cobro](https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq) | 2:44 |
 | 27 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
-| 28 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 |
+| 28 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 |
 | 29 | [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 |
 | 30 | [Ultra Complicado](https://open.spotify.com/track/1kcn16i5Tmp8udmHcahvi7) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Ultra Complicado](https://open.spotify.com/album/1ioUP0MO23iAvJGlY3qLhw) | 2:56 |
 | 31 | [ETA \- RMX](https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Private Suite \(Vol\. 2\)](https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9) | 7:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 49 | [Cuidado Que Te Supero](https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Cuidado Que Te Supero](https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY) | 3:45 |
 | 50 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

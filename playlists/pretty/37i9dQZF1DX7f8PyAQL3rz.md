@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > os menino da nova
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,093 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,090 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

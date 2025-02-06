@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีน่าลองฟัง\. ศิลปิน: Qmuu, KiRANA\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,926 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,930 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 9 | [ช่วยรู้สึกผิด](https://open.spotify.com/track/4apJB6gF4GAD78PFafKkuk) | [NOAH](https://open.spotify.com/artist/37OIwVZLcl3oxv09XB6yV5) | [ช่วยรู้สึกผิด](https://open.spotify.com/album/60XHIA34wPetHbOYJpBId7) | 3:49 |
 | 10 | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/track/0MQpFb7vmL6pweZ0cfJzXp) | [MAN IN PHARMACY](https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU) | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/album/4KxG5Miv9zHKxEPGBg12Uq) | 4:03 |
 | 11 | [ซ่อนเธอไว้](https://open.spotify.com/track/4fUW8CKB9p8FcbySwrLqBN) | [GAIKAI](https://open.spotify.com/artist/2tjF5O9fXbcqYq8O1lIVti) | [ซ่อนเธอไว้ \- Single](https://open.spotify.com/album/61duPsCmWoFMPg5NW1kKQh) | 4:07 |
-| 12 | [Hi](https://open.spotify.com/track/3mmAIhPN43nHdROv409yRB) | [The Ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [Hi](https://open.spotify.com/album/2QTwhpz0QW3YAxG1cSyY6e) | 2:56 |
+| 12 | [Hi](https://open.spotify.com/track/3mmAIhPN43nHdROv409yRB) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [Hi](https://open.spotify.com/album/2QTwhpz0QW3YAxG1cSyY6e) | 2:56 |
 | 13 | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL) | 3:31 |
 | 14 | [ไม่เศร้าดิ \(No Tears Allowed\)](https://open.spotify.com/track/1ssYZ8d5qGfZ4PlU1hB8dS) | [Earthernative](https://open.spotify.com/artist/7GFv9FNx00e4BepFvSbbrK), [faygo](https://open.spotify.com/artist/6oqq8RFO3J0GXk3SMYgkS3) | [ไม่เศร้าดิ \(No Tears Allowed\)](https://open.spotify.com/album/6336B5i8HB3ptGijoKwaFC) | 4:13 |
 | 15 | [นิทรา](https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10) | [Chameen](https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv) | [นิทรา](https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee) | 3:47 |

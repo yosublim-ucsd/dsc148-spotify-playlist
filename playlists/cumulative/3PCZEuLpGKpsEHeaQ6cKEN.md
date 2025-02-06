@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Loud Luxury
 
-1,278 songs - 2 day 20 hr 17 min
+1,279 songs - 2 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -971,6 +971,7 @@
 | [Shine Like You](https://open.spotify.com/track/4CY0DfaWQjuiCqHxkRzXm2) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Shine Like You](https://open.spotify.com/album/4sAggsLN6Sx0oPGNSEptYQ) | 3:18 | 2023-01-19 | 2023-02-17 |
 | [Shorty \- Novak Remix](https://open.spotify.com/track/4BT6p7fSxyvx40iLM0b4BV) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [Shorty \(Novak Remix\)](https://open.spotify.com/album/3vuVS9x4d7DCwjBTwDH69x) | 3:08 | 2023-12-07 | 2024-04-12 |
 | [Shot At Love](https://open.spotify.com/track/6tDtuaCX0sIea6o8Qmpyae) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 3:22 | 2022-10-20 | 2022-11-11 |
+| [Show Me Love](https://open.spotify.com/track/4kisbBB7d1dBopBfL44yRk) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Show Me Love](https://open.spotify.com/album/1atdTYWB10uj8g81U7au4d) | 2:48 | 2025-02-05 |  |
 | [Shut Up & Dance](https://open.spotify.com/track/3FfCBsTguyzfy9SRVp9sZ2) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Shut Up & Dance](https://open.spotify.com/album/4XEB0s8w1pu0LzftsN6Wyq) | 2:25 | 2024-08-29 |  |
 | [Silence](https://open.spotify.com/track/4zsqHhDIC8xgP0L9bPMQrL) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Silence](https://open.spotify.com/album/2RpAGLWCRu8R78tDj0JXa6) | 3:59 | 2024-12-20 |  |
 | [Silence \- Andrew Rayel & Achilles Remix](https://open.spotify.com/track/4d5tAMeWSY0kHNREsP1LiF) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka) | [Silence \(Andrew Rayel & Achilles Remix\)](https://open.spotify.com/album/7McfeMftwnFtwLtAgLHOhK) | 2:53 | 2023-03-16 | 2023-06-09 |

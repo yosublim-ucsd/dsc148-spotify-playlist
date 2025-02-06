@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,235 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,282 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 14 | [mr\. mellow](https://open.spotify.com/track/3waGvCLsGSHUxCOLIfArZ1) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Once In A Blue Moon](https://open.spotify.com/album/3SXOskfMS4s97wcmyirHmF) | 2:47 |
 | 15 | [Entry\#149](https://open.spotify.com/track/3jlIKHFVJTPqjaUGgAt0Rk) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/6Hg7S5WSBU3yiochCMaXLk) | 2:40 |
 | 16 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
-| 17 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 17 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 18 | [CA$HMERE TEAR$](https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [CA$HMERE TEAR$](https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs) | 4:02 |
 | 19 | [Do You Have A Destination?](https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:24 |
 | 20 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:22 |

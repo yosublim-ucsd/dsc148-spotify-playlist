@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,915 likes - 50 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,968 likes - 50 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

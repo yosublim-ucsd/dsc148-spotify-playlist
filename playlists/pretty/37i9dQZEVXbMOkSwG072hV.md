@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,562 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,557 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [Praia do Futuro](https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [O Mundo Dá Voltas](https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp) | 5:21 |
 | 50 | [Escape / Nunca Pare de Lutar](https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Escape / Nunca Pare de Lutar](https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q) | 9:25 |
 
-Snapshot ID: `LzWASAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzbRyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

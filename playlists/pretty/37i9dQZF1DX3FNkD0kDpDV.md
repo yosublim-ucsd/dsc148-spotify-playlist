@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Unlock the Beats of ADE 2024! Prepare for an unforgettable experience as we spotlight the electrifying tracks from 2,500+ artists who will define this year's 1,000+ ADE events\. This is your exclusive sneak peek into this years’ line\-up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,482 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,459 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

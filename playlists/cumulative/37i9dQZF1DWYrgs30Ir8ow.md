@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Tate McRae
 
-825 songs - 1 day 16 hr 12 min
+826 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-01-16 | 2025-01-24 |
 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 | 2024-01-15 | 2024-02-16 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-25 | 2024-06-14 |
-| [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-16 |  |
+| [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-16 | 2025-02-06 |
 | [Geen Reden](https://open.spotify.com/track/654lS8GBJbj3suBin5ndVi) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Geen Reden](https://open.spotify.com/album/75GRNlffSzpbCMnVppY0dM) | 2:56 | 2024-11-21 | 2025-01-17 |
 | [Gek Op Jou \(feat\. Koen\)](https://open.spotify.com/track/0SznGXywmezP2t8hI9NDkw) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Gek Op Jou \(feat\. Koen\)](https://open.spotify.com/album/3U0ck9Ps7JzuRPN6eNFeNC) | 2:41 | 2023-07-31 | 2023-08-25 |
 | [Geld Maakt Niet Gelukkig](https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Geld Maakt Niet Gelukkig](https://open.spotify.com/album/50Aag4UQT0FrhXDk4H1fps) | 2:37 | 2024-10-10 | 2024-11-15 |
@@ -742,6 +742,7 @@
 | [Trots Op Haar](https://open.spotify.com/track/5Ak0hJNb5chvknl5OY7xnB) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Trots Op Haar](https://open.spotify.com/album/3H6QGkLIgvx71MlLgPQizY) | 2:49 | 2023-12-11 | 2024-01-05 |
 | [Trust](https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Trust](https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7) | 2:52 | 2023-04-27 | 2023-05-26 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-23 | 2023-03-28 |
+| [Truth In The Lies \(feat\. Lil Durk\)](https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:22 | 2025-02-05 |  |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-08 | 2024-01-30 |
 | [Tuesday](https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tuesday](https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn) | 2:54 | 2024-02-02 | 2024-03-01 |
 | [Tyar’ En Waka](https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tyar’ En Waka](https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb) | 2:41 | 2024-08-01 | 2024-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,355 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,362 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 55 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
 | 56 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
 | 57 | [Cookies N' Cream \(feat\. ANNA & Sfera Ebbasta\)](https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:21 |
-| 58 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/3tbY54jr132x0kuin1jL70) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 |
+| 58 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 |
 | 59 | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq) | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi) | 3:01 |
 | 60 | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA) | 3:25 |
 | 61 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 |

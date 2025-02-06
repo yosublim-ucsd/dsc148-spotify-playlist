@@ -1,13 +1,93 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Renny Conti",
-  "num_followers": 86227,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Uwade",
+  "num_followers": 86271,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5p7pgAAAADgxFOYCKdKycMqWoKI6t5r",
+  "snapshot_id": "Z6OwfQAAAADl8bq8b2XhNVqJcQjm9QqM",
   "tracks": [
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Call It A Draw",
+        "url": "https://open.spotify.com/album/73WJqjpUrtXfw9L7MC14F1"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 203146,
+      "name": "Call It A Draw",
+      "url": "https://open.spotify.com/track/7d0KMWY4UmWM3k4owiFPcJ"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Dim Binge",
+        "url": "https://open.spotify.com/album/4ENin5XoyhjiUUXJLFY2aC"
+      },
+      "artists": [
+        {
+          "name": "Canty",
+          "url": "https://open.spotify.com/artist/513JvMrHUhvAIq8xMntFcw"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "Pipps Hill",
+      "url": "https://open.spotify.com/track/1VDaJ1DvabCELKIVyTrZ5w"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Untitled Love Song",
+        "url": "https://open.spotify.com/album/0VHTPcwxDe4nCeJXCLpuRt"
+      },
+      "artists": [
+        {
+          "name": "kendall lujan",
+          "url": "https://open.spotify.com/artist/5JvY8N4icJjp1ND34IJAqQ"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Untitled Love Song",
+      "url": "https://open.spotify.com/track/4zcLNqQudp0948BWCbtdd8"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "hounds",
+        "url": "https://open.spotify.com/album/6SMQskKFnyKB6m3B2RGvF0"
+      },
+      "artists": [
+        {
+          "name": "chrysalis",
+          "url": "https://open.spotify.com/artist/26lpJv38Pa4crAQGNsTTsS"
+        }
+      ],
+      "duration_ms": 136048,
+      "name": "hounds",
+      "url": "https://open.spotify.com/track/0NJjHuCPaDsbcQXSbzuTbd"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "eavesdropper ;; death stories",
+        "url": "https://open.spotify.com/album/4uDtb3o4vK4B2rpqUsDjmE"
+      },
+      "artists": [
+        {
+          "name": "MEGGO",
+          "url": "https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "sylvia's place ;; tricks",
+      "url": "https://open.spotify.com/track/76TgZwOyAgCPC9U8sYVhXH"
+    },
     {
       "added_at": "2025-01-22 17:00:14",
       "album": {
@@ -25,6 +105,54 @@
       "url": "https://open.spotify.com/track/5AtZtXNA2loJEzAIJb39fX"
     },
     {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "TSA",
+        "url": "https://open.spotify.com/album/5sLlCWcwMUqffv2CoS0It2"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "duration_ms": 150559,
+      "name": "TSA",
+      "url": "https://open.spotify.com/track/1FpiBzJfjpS3yyx597trPX"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/5DgdTn8PkuVCuoHp1XdDap"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "duration_ms": 195690,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/6qNC7GRaDTrfZya3k4DLfV"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Go The Distance",
+        "url": "https://open.spotify.com/album/1KOogc95RkBFKPwjkWpJ1N"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "duration_ms": 180530,
+      "name": "Go The Distance",
+      "url": "https://open.spotify.com/track/2TiJzM6TjcDLovRQZUIEpS"
+    },
+    {
       "added_at": "2025-01-29 19:04:05",
       "album": {
         "name": "Prettiest Girl of Heaven",
@@ -39,6 +167,22 @@
       "duration_ms": 191599,
       "name": "Prettiest Girl of Heaven",
       "url": "https://open.spotify.com/track/1JvrWviOlbTJpLUwSlgvE8"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Trash Mountain (1pm)",
+        "url": "https://open.spotify.com/album/3BtBd8wgntEfxokEedRHOP"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "duration_ms": 278505,
+      "name": "Trash Mountain (1pm)",
+      "url": "https://open.spotify.com/track/7nIIDiCtvQeTevmIHz4MwC"
     },
     {
       "added_at": "2025-01-29 19:04:05",
@@ -73,6 +217,22 @@
       "url": "https://open.spotify.com/track/1D4wP2P16amoaTKWLh5y5H"
     },
     {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Beyond Alaska",
+        "url": "https://open.spotify.com/album/5x21WwXri3ZvpA2pk81oyL"
+      },
+      "artists": [
+        {
+          "name": "Maya Lane",
+          "url": "https://open.spotify.com/artist/0lJErEVo2bXW4P2nsOmf25"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Beyond Alaska",
+      "url": "https://open.spotify.com/track/1YFyB4ofOFJ5PPLKknEuiM"
+    },
+    {
       "added_at": "2025-01-15 17:00:22",
       "album": {
         "name": "Looking at the Geese",
@@ -87,6 +247,38 @@
       "duration_ms": 265360,
       "name": "Looking at the Geese",
       "url": "https://open.spotify.com/track/7oXq6Rt7YcYGSDSv3ZlzNX"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/7yRh4khi7ilnH9iTmpf1pA"
+      },
+      "artists": [
+        {
+          "name": "Gus Tiramani",
+          "url": "https://open.spotify.com/artist/7G3haClSQ1H0Trmb7kc7kg"
+        }
+      ],
+      "duration_ms": 255322,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/1UzuwO5KAs49kZ7b9GCVoi"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Between",
+        "url": "https://open.spotify.com/album/5fJIQVswE7pVSrykCitE2u"
+      },
+      "artists": [
+        {
+          "name": "Chris Wallace",
+          "url": "https://open.spotify.com/artist/4uvONBnmpTsvWRG0eEh87r"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Between",
+      "url": "https://open.spotify.com/track/3wgNqpygG95a21nUKWDd3Y"
     },
     {
       "added_at": "2025-01-29 19:04:05",
@@ -121,6 +313,22 @@
       "url": "https://open.spotify.com/track/7mqR25EmpUU23nzsS0jP9J"
     },
     {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Mama, I Already Know",
+        "url": "https://open.spotify.com/album/0ZaIK6Dld0NYT2WgiZFjHs"
+      },
+      "artists": [
+        {
+          "name": "Drumming Bird",
+          "url": "https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K"
+        }
+      ],
+      "duration_ms": 280500,
+      "name": "Mama, I Already Know",
+      "url": "https://open.spotify.com/track/4m0mC7dv6U0NtjazduII4N"
+    },
+    {
       "added_at": "2025-01-29 19:04:05",
       "album": {
         "name": "ocean",
@@ -135,6 +343,22 @@
       "duration_ms": 223625,
       "name": "ocean",
       "url": "https://open.spotify.com/track/0438JvChCToYHZer7mdAZ9"
+    },
+    {
+      "added_at": "2025-02-05 18:39:57",
+      "album": {
+        "name": "Dreamt of You",
+        "url": "https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1"
+      },
+      "artists": [
+        {
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+        }
+      ],
+      "duration_ms": 198544,
+      "name": "Dreamt of You",
+      "url": "https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW"
     },
     {
       "added_at": "2025-01-29 19:04:05",

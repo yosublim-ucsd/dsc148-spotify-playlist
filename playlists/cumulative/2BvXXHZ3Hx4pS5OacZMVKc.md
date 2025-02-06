@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-372 songs - 19 hr 28 min
+373 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Kadak](https://open.spotify.com/track/0BGLi3AIUN1Kk9D0EQo1H2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm), [Blxk Trey](https://open.spotify.com/artist/5Hntq1muZRx5fSiqTRdSjd) | [Kadak](https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8) | 3:00 | 2023-01-24 | 2023-08-11 |
 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 | 2023-02-02 | 2023-04-05 |
 | [LA VIBE](https://open.spotify.com/track/4pgmtdYruqcV7gcT1uky56) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [LA VIBE](https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7) | 2:12 | 2023-02-05 | 2023-08-11 |
+| [Lay Low](https://open.spotify.com/track/38mVIN91Aj49QHLU7uTWNQ) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Lay Low](https://open.spotify.com/album/40YfdgbzqhYALCcepymqTB) | 3:07 | 2025-02-05 |  |
 | [Left Me Blind](https://open.spotify.com/track/0ZXez5k07IUuihbR6xfFOp) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [VØNH](https://open.spotify.com/artist/3nhrNgCYhDD8CBBXMMfOmX), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Left Me Blind](https://open.spotify.com/album/7kwOiP8O8sPf9J9YhZuQOa) | 3:32 | 2022-02-03 | 2023-08-11 |
 | [Left My Heart In Pain](https://open.spotify.com/track/5KRUbXmtHonDgN19ScJP8f) | [Mike Vallas](https://open.spotify.com/artist/3bBb1wCpTPxl3KRfb2UbJb), [Jagsy](https://open.spotify.com/artist/7wu8XR5hwRbOweUONPzNvL), [quaggin](https://open.spotify.com/artist/3AXJeDxC23fvkNuq8EoFtn) | [Left My Heart In Pain](https://open.spotify.com/album/20S33NxeR5mzAbMaBcETdI) | 2:37 | 2023-08-10 |  |
 | [Legacy](https://open.spotify.com/track/5DQGSJOG1JUchaZBd4zaie) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Benix](https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr) | [Legacy](https://open.spotify.com/album/5210iXJgapheYbxuz2pGxk) | 2:39 | 2022-02-03 | 2023-08-11 |

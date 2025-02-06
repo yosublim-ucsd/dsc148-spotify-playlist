@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 
 > Walk the threshold into the netherworld...
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,325 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,376 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

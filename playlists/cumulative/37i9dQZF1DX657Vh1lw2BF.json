@@ -2031,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Shkolateh",
+        "url": "https://open.spotify.com/album/54KPf024xUDQpcU1pTSVwD"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162939,
+      "name": "Shkolateh",
+      "url": "https://open.spotify.com/track/7JUEv4UV5hai4XcMLukdQ3"
+    },
+    {
+      "album": {
         "name": "Shoufou Mino Eja",
         "url": "https://open.spotify.com/album/1k6xcHaOEmjBt3qovQWDgQ"
       },

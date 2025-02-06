@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > The Weeknd au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,105 likes - 106 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,117 likes - 106 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 65 | [Domino](https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Domino](https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv) | 2:20 |
 | 66 | [Tout ira mieux](https://open.spotify.com/track/7Iv8bX5ooI4vQAvw6JWd17) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Tout ira mieux](https://open.spotify.com/album/62P34yhvZUL6tUufhJW2cy) | 2:50 |
 | 67 | [If The Moon Could Talk](https://open.spotify.com/track/4iEGTkv4J9zdF8N3GKDNbU) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [If The Moon Could Talk](https://open.spotify.com/album/3dk3V7erqX9ayeIFFsM2VU) | 2:51 |
-| 68 | [Endless ft Ed Graves](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless ft Ed Graves](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
+| 68 | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/track/5KnAP0D4wcOBPC6aKw3kDA) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Endless \(feat\. Ed Graves\)](https://open.spotify.com/album/611zK1RvfYx0JI8AeoI1Gz) | 3:58 |
 | 69 | [Épilogue](https://open.spotify.com/track/5tU599kdSBhMkm4Xej5xdf) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Épilogue](https://open.spotify.com/album/2tFid70rsNuOVfZEl1ACBY) | 2:53 |
 | 70 | [SAMEDI SOIR À PARIS](https://open.spotify.com/track/1w3UFhLPgeF10llyhN4BMV) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9), [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K) | [POUR 2 VRAI \(Version finale\)](https://open.spotify.com/album/39L0S9DSDs82oYm2e5tDhM) | 1:56 |
 | 71 | [Denim](https://open.spotify.com/track/36LHLhjTdDJcwYUT1tnZ7H) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [Denim](https://open.spotify.com/album/0dmwgJiUO3ob46WseHYy82) | 3:05 |

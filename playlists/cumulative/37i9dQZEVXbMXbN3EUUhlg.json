@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 198678,
       "name": "Apaguei Pra Todos - Ao Vivo",
       "url": "https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8"
@@ -4712,10 +4712,36 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 130026,
       "name": "Cachorro",
       "url": "https://open.spotify.com/track/2f6GG12VL2rGMS9BGjD7rM"
+    },
+    {
+      "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Kolo",
+          "url": "https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG"
+        },
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Cacos De Vidro",
+      "url": "https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX"
     },
     {
       "album": {
@@ -24481,6 +24507,36 @@
     },
     {
       "album": {
+        "name": "SEQU\u00caNCIA STRIPTEASE",
+        "url": "https://open.spotify.com/album/1bS7v3HQh9l3cfALnsa7c3"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Debby",
+          "url": "https://open.spotify.com/artist/1hMpRPX4OZEaJgBi6BsjHh"
+        },
+        {
+          "name": "Mc Talib\u00e3",
+          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144179,
+      "name": "SEQU\u00caNCIA STRIPTEASE",
+      "url": "https://open.spotify.com/track/7xeqjq45imp3qonWKqfyip"
+    },
+    {
+      "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
@@ -27970,7 +28026,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 164466,
       "name": "Uma e Quinze da Manh\u00e3",
       "url": "https://open.spotify.com/track/39O9PGzlZnVTOhAYQjyBRG"
@@ -28110,7 +28166,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 190367,
       "name": "Universo",
       "url": "https://open.spotify.com/track/2liuyTvddJPSrLEPq96hpA"

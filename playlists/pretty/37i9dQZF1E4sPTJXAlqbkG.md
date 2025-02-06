@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Frank Ocean, Miguel and more
+> With Brent Faiyaz, Sonder, Frank Ocean and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,624 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,704 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 | 49 | [She](https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:13 |
 | 50 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
 
-Snapshot ID: `Z6LMmQAAAADpaXwg7bWBx8UfpxYVInSL`
+Snapshot ID: `Z6QIIQAAAADJilLxSUcDufr/qxUL419l`

@@ -1627,6 +1627,28 @@
     },
     {
       "album": {
+        "name": "2Joints & Harmony",
+        "url": "https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L"
+      },
+      "artists": [
+        {
+          "name": "Bugoy Na Koykoy",
+          "url": "https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E"
+        },
+        {
+          "name": "JP Bacallan",
+          "url": "https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Girl U Gotta Go",
+      "url": "https://open.spotify.com/track/54xW6CkZ9slyKusgzgV0Xe"
+    },
+    {
+      "album": {
         "name": "Girls Need Love (Remix)",
         "url": "https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL"
       },
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 163964,
       "name": "Lil Kasalanan Shortie",
       "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
@@ -3308,7 +3330,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 256000,
       "name": "PAREHAS TAYO",
       "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
@@ -4782,6 +4804,24 @@
       "duration_ms": 165666,
       "name": "WholeLotta$$$",
       "url": "https://open.spotify.com/track/62RvyiPNzwqUfUlaalPRf3"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3M38KwnfVpCSVNayx9Evou"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242417,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3pgtS9BeUre18KRaFDa5BM"
     },
     {
       "album": {

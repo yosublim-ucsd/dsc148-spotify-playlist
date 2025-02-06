@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1?si=CN7PAyeXQ66WLw4\-XH8JbQ>Tondi Rams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,348 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,357 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

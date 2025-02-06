@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,532,244 likes - 150 songs - 7 hr 53 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,533,745 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 85 | [Wild](https://open.spotify.com/track/7z8grMV3fvfgDgEFrCdaAU) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [TAPE ANGEL](https://open.spotify.com/artist/1rH3SUHdkjjouhmAQGC1Ot) | [Wild](https://open.spotify.com/album/2H5dBkkhMViquQiltcUzZt) | 2:13 |
 | 86 | [Haunted](https://open.spotify.com/track/7qX8Vl5H5IxQiXGWXHa0kD) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Haunted](https://open.spotify.com/album/1OQQ2G0sQQd3pJa5cubSxz) | 3:25 |
 | 87 | [About U](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP) | [Reel Mood](https://open.spotify.com/artist/1O3qb3qngNizhIxjy9hFxO), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [About U](https://open.spotify.com/album/2r3VXU9V3fKvRysjsVy766) | 3:13 |
-| 88 | [What You Say](https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt) | [Frankie Polari](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [What You Say](https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE) | 2:38 |
+| 88 | [What You Say](https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt) | [Artonal](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [What You Say](https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE) | 2:38 |
 | 89 | [Hold You Back](https://open.spotify.com/track/4d2aMvOMJPy0KCfslxNq9q) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Hold You Back](https://open.spotify.com/album/1HBCbOUgsLJ7qrRRWThdLe) | 2:47 |
 | 90 | [Fade](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 |
 | 91 | [Come Down](https://open.spotify.com/track/11smJO5UiLwBpzPakBZNpK) | [VLLN](https://open.spotify.com/artist/69tUOHpGh5PNsmZlvw4AOx), [DOGMA](https://open.spotify.com/artist/7JLm1GmY8hYbrtJT0O2gUn), [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN) | [Come Down](https://open.spotify.com/album/0JZlyivWtLub23BG9UISix) | 2:29 |

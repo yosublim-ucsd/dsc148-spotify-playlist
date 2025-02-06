@@ -4,7 +4,7 @@
 
 > 2021
 
-97 songs - 6 hr 18 min
+98 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Transformation](https://open.spotify.com/track/6zGAgfm8fbkUq51sBg194z) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery Of The Flamingos](https://open.spotify.com/album/48zPKXSCFOdMlgTaeVQn5u) | 5:16 | 2024-04-24 |  |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2023-07-24 |  |
 | [Wandering Nomad](https://open.spotify.com/track/03l0rO4IIIuGWqOujIJXOK) | [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Good Days](https://open.spotify.com/album/7zZWkvMoTkylBihC81VqDd) | 2:53 | 2022-07-01 |  |
+| [What Was I Made For? \(Epilogue\) \- Instrumental Version](https://open.spotify.com/track/5n6l4Q0qiVOQ55B0OvOfVr) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 1:32 | 2025-02-05 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2023-09-02 |  |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2023-08-11 | 2024-01-26 |
 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 | 2025-01-13 |  |

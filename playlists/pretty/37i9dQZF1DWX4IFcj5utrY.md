@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG?si=SsP1g9olTnyhN64rI5xQPA"> Drega</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,821 likes - 63 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,847 likes - 63 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

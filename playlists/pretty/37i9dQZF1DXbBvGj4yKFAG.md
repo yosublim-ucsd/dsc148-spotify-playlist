@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,757 likes - 130 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,812 likes - 130 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

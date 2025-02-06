@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Topi Saha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,226 likes - 90 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,232 likes - 90 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

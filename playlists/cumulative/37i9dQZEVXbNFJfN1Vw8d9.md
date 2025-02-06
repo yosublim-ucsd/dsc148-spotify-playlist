@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,317 songs - 2 day 23 hr 40 min
+1,318 songs - 2 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [4 PREZ](https://open.spotify.com/track/6m8DnCqkHlUfcjXcjOmOu2) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 2:29 | 2023-05-27 | 2023-05-30 |
 | [4 PREZ](https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [4 PREZ](https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll) | 2:30 | 2023-05-13 | 2023-05-15 |
 | [44](https://open.spotify.com/track/0NipDzamAtvro0HMcZD5DK) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Warm Up](https://open.spotify.com/album/7IJ4Cok2sQKI7JgpPyDIWr) | 3:05 | 2021-03-27\* | 2021-05-08 |
+| [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 | 2025-02-05 |  |
 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 | 2024-07-06 | 2024-07-17 |
 | [50 PALOS](https://open.spotify.com/track/2FhmPPAersOD9YcQ9v8upy) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 2:47 | 2023-12-02 | 2023-12-04 |
 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2021-03-27\* | 2021-08-01 |
@@ -883,7 +884,7 @@
 | [OA](https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [OA](https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet) | 3:55 | 2023-10-15 | 2024-04-28 |
 | [OBVIO](https://open.spotify.com/track/5el1yANyqhFWsjLWGYpcTZ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:42 | 2023-11-25 | 2023-11-27 |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-06 | 2024-06-16 |
-| [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-07-03 |  |
+| [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-07-03 | 2025-02-06 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 | 2023-01-22 |
 | [Olvidar](https://open.spotify.com/track/4cIADL8ZSxyz78stzb4F6X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Olvidar](https://open.spotify.com/album/74EUdXqT952F9FpGvqD59x) | 2:57 | 2025-01-04 | 2025-01-06 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-26 | 2024-10-11 |

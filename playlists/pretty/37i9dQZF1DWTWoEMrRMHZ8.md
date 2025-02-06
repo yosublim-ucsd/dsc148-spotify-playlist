@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Tó Brandileone, ANAVITÓRIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,136 likes - 84 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,175 likes - 84 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

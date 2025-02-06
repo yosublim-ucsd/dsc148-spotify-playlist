@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 224804,
       "name": "Kaiju no Hanauta",
       "url": "https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 224804,
       "name": "Kaiju no Hanauta",
       "url": "https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 196680,
       "name": "NEW LOOK",
       "url": "https://open.spotify.com/track/2dcUJfnd2BAKS7jUSdlmmO"
@@ -3963,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2"
+    },
+    {
+      "album": {
         "name": "Same Blue",
         "url": "https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT"
       },
@@ -4444,6 +4462,24 @@
       "duration_ms": 264126,
       "name": "SOUVENIR",
       "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
+    },
+    {
+      "album": {
+        "name": "Spacecraft / Sailing",
+        "url": "https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Spacecraft",
+      "url": "https://open.spotify.com/track/5pg2M78HkonLV5EMddMEYy"
     },
     {
       "album": {
@@ -5668,7 +5704,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-02-06",
       "duration_ms": 198971,
       "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
       "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"

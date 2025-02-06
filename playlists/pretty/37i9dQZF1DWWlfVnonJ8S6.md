@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,745 likes - 129 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,798 likes - 129 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 122 | [Naina \(Lofi Mix\)](https://open.spotify.com/track/43tdshy577acKp34bdhafy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(Lofi Mix\)](https://open.spotify.com/album/2Y5S4oA3ouvskvPwvVox4U) | 2:47 |
 | 123 | [Habibi \- Lofi Flip](https://open.spotify.com/track/5oTSTfXwfD25cDJZIFUDG4) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Deepanshu Ruhela](https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Habibi \(Lofi Flip\)](https://open.spotify.com/album/2vg6KLBlk8D9cUO1B4etmt) | 2:57 |
 | 124 | [Bulleya \- Lofi Flip](https://open.spotify.com/track/4F26LTirAGihs1JHE9eq3U) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Bulleya \(Lofi Flip\)](https://open.spotify.com/album/2M40B1pCJuUtvaZjZwpwjh) | 2:38 |
-| 125 | [Tu Jaane Naa \(Lofi Mix\)](https://open.spotify.com/track/0ThEdqK8ZBi4nKNs1fOpJD) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tu Jaane Naa \(Lofi Mix\)](https://open.spotify.com/album/5GJLKREVmWlrLd3hQUBYjU) | 5:38 |
+| 125 | [Tu Jaane Naa \(Lofi Mix\)](https://open.spotify.com/track/0ThEdqK8ZBi4nKNs1fOpJD) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [DJ Rink](https://open.spotify.com/artist/5JUiZnShJRksnClrI3elTd) | [Tu Jaane Naa \(Lofi Mix\)](https://open.spotify.com/album/5GJLKREVmWlrLd3hQUBYjU) | 5:38 |
 | 126 | [2AM \- Trosk Lofi Remix](https://open.spotify.com/track/1lxk9w58nl359Py0Ruf2XZ) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [2AM \(Trosk Lofi Remix\)](https://open.spotify.com/album/37PCxypXYM7R6LNruAX3Cz) | 5:42 |
 | 127 | [Meray Pass Tum Ho \(Lo\-Fi\)](https://open.spotify.com/track/10bXyJ06sbXS3syL3MZptN) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Meray Pass Tum Ho \(Lo\-Fi\)](https://open.spotify.com/album/5shiy6wBUPjTwFhPAf6kIN) | 5:33 |
 | 128 | [Jeeta Tha Jiske Liye \- Lo\-Fi Remix](https://open.spotify.com/track/69K3PXMRmZjHNWIR7YpC10) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ajay Devgan](https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Jeeta Tha Jiske Liye \(Lo\-Fi Remix\)](https://open.spotify.com/album/5dA0Tiz8hxaYB0plLmmIoc) | 4:42 |

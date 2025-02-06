@@ -4,7 +4,7 @@
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: تامر حسني و رامي صبري
 
-379 songs - 22 hr 38 min
+380 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Rouge](https://open.spotify.com/track/1Xr21ZKogSRHDBFDSyp2YP) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Rouge](https://open.spotify.com/album/1UmSw648elPoRIGpCFv55T) | 2:33 | 2023-10-06 | 2024-02-18 |
 | [Rouh](https://open.spotify.com/track/5sIBV8CrFL1NzVEZWu7B6T) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Rouh](https://open.spotify.com/album/08Rw6H6OHaOcCeAMBKFDlD) | 2:54 | 2024-08-01 |  |
 | [Sa'af](https://open.spotify.com/track/2KBVedkyvdFdbm2AQOBTYM) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Sa'af](https://open.spotify.com/album/1R2gySJizByGXC2rLdVE7X) | 3:36 | 2022-05-04 | 2022-07-13 |
+| [Sa3ada Bas](https://open.spotify.com/track/6FXDazcZlxNdcx8q1lMltR) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Sa3ada Bas](https://open.spotify.com/album/4saMOO0D4cdeVsHpRUZEVF) | 4:08 | 2025-02-05 |  |
 | [Saaba](https://open.spotify.com/track/3SZ3zSiJynzOAXYqwQqXeG) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Saaba](https://open.spotify.com/album/2ZSFVfGQxDQvUvha7Vze6j) | 3:01 | 2022-05-04 | 2022-09-27 |
 | [Saahabit Saif](https://open.spotify.com/track/6ftsJkHUh93b1VEFDKVmSy) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Saahabit Saif](https://open.spotify.com/album/1X2ySoDIHfDk2pVBoR8cTc) | 2:57 | 2023-10-06 | 2024-02-10 |
 | [Sabb Farhety](https://open.spotify.com/track/4e7lA8xFXF1Fw7v2nZqtro) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sabb Farhety](https://open.spotify.com/album/5u9MUiMx6rkuCrGgwzfGuq) | 5:02 | 2024-02-17 | 2025-01-16 |
@@ -368,7 +369,7 @@
 | [ملك الفرفشة](https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [ملك الفرفشة](https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S) | 3:16 | 2023-07-10 | 2023-08-19 |
 | [موضوع رجوعنا](https://open.spotify.com/track/3n3qHIdb2dpQwaBpPEYKI2) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [موضوع رجوعنا](https://open.spotify.com/album/15k72PP3lUVocnlPRNjVZQ) | 4:26 | 2024-02-09 |  |
 | [نهارنا وردي](https://open.spotify.com/track/1AZELIVj9dbzculbZXocRS) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [نهارنا وردي](https://open.spotify.com/album/02l1jHBJrh68fU2kaiM8V7) | 3:09 | 2022-05-04 | 2022-07-10 |
-| [نومي مخاصمني](https://open.spotify.com/track/0wM19U1JQFNWtSORtIvphd) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [نومي مخاصمني](https://open.spotify.com/album/23jooNVAjQJ5cgWgNgXNUO) | 3:00 | 2024-11-18 |  |
+| [نومي مخاصمني](https://open.spotify.com/track/0wM19U1JQFNWtSORtIvphd) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [نومي مخاصمني](https://open.spotify.com/album/23jooNVAjQJ5cgWgNgXNUO) | 3:00 | 2024-11-18 | 2025-02-06 |
 | [هذا حالي من بعدك](https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [هذا حالي من بعدك](https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo) | 3:10 | 2023-05-30 | 2023-09-09 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 | 2023-06-23 | 2023-08-19 |
 | [هنيالو](https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX) | [أروى](https://open.spotify.com/artist/6Rl7uv3qQrsZOhgu7Xj9Zj) | [هنيالو](https://open.spotify.com/album/24San4mNpcyhkYH4oiu0iO) | 3:40 | 2023-01-10 | 2023-05-18 |

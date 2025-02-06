@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Cover: Dani Faiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,023 likes - 155 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,032 likes - 155 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

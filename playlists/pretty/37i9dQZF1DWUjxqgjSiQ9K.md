@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Rubinsky RBK y Josh Gamez
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,789 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,946 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > It’s pop punk, it’s the best \. Your ultimate v\-day / anti v\-day playlist.
 
-325 songs - 17 hr 56 min
+327 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2023-10-19 | 2023-12-02 |
 | [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 | 2023-10-17 | 2023-12-02 |
 | [Be Ok \- RMX](https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf) | [Petti Hendrix](https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Be Ok \(RMX\)](https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV) | 3:32 | 2024-05-07 | 2024-06-29 |
-| [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 | 2024-09-13 |  |
+| [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 | 2024-09-13 | 2025-02-06 |
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-19 | 2023-12-02 |
 | [Blue Eyed Boy](https://open.spotify.com/track/3SRcU6n6IQCwvl1mKOvaaR) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Suicide and Sunshine](https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH) | 2:57 | 2023-06-30 |  |
 | [Blurry](https://open.spotify.com/track/4LCUSqUApVvY2my2UmnfLS) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Blurry](https://open.spotify.com/album/5WOGUqHDzVSJSghJRAVKl0) | 2:50 | 2024-08-15 |  |
@@ -89,6 +89,7 @@
 | [December's Here](https://open.spotify.com/track/6RJ3WV4MVXkoK4wE0CCmpI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/4NzdzadUC2QiDojUKnZHXk) | 2:59 | 2023-12-01 | 2024-01-10 |
 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 | 2023-12-01 | 2024-01-10 |
 | [Devotion And Desire](https://open.spotify.com/track/27O9FuS1UIm6ZyLplgLQAH) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bayside](https://open.spotify.com/album/2QtIreQj0XrhypG6U5H4o5) | 3:29 | 2024-01-09 |  |
+| [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 | 2025-02-05 |  |
 | [Dizzy](https://open.spotify.com/track/2xETUGwxMo4bDcRwASJcKv) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:44 | 2023-05-15 | 2023-12-02 |
 | [Down](https://open.spotify.com/track/1e1krgHCTUGDhhIgsRVHJ0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:03 | 2024-01-09 |  |
 | [Drop the Girl](https://open.spotify.com/track/4ZDMUxVNA7UPc6lJyzxwSF) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Skip School, Start Fights](https://open.spotify.com/album/2vc6pkfOslzBtNd0PW405m) | 3:20 | 2023-02-12 | 2023-12-02 |
@@ -102,7 +103,7 @@
 | [Eye Contact](https://open.spotify.com/track/6uMKirWXFJYZIYDjXwLwbn) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Eye Contact](https://open.spotify.com/album/5ILzLXOOptC2YRhsurHYh9) | 3:00 | 2024-03-22 |  |
 | [Face Or Kneecaps](https://open.spotify.com/track/4kskOtKSfORia1FufN81et) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [Forty Hour Train Back To Penn](https://open.spotify.com/album/0Bf461s3m85RZzZBTHtTgD) | 3:10 | 2023-10-17 | 2023-12-02 |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-23 | 2023-12-02 |
-| [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 | 2023-10-19 |  |
+| [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 | 2023-10-19 | 2025-02-06 |
 | [Featuring Mark Hoppus](https://open.spotify.com/track/41hMYBgv6teOnu64kn4Ylb) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Won’t Reach Out to You](https://open.spotify.com/album/5xSwJaRKEx137KQmidxkw6) | 2:53 | 2023-10-19 | 2023-12-02 |
 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 | 2023-10-17 |  |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-16 | 2023-12-02 |
@@ -224,6 +225,7 @@
 | [pity party \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:41 | 2022-11-13 | 2023-12-02 |
 | [Plane Vs\. Tank Vs\. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 2:02 | 2023-10-17 | 2023-12-02 |
 | [Pretense](https://open.spotify.com/track/4ycBEc4S3zcAap4NJd3UMR) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Copacetic](https://open.spotify.com/album/48vX6Xd66d8mgJxhnrCPzN) | 3:05 | 2023-10-17 | 2023-12-02 |
+| [pull me under](https://open.spotify.com/track/4Piqo1vWTIupDr7GIQ4sNz) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [pull me under](https://open.spotify.com/album/0aMbI90N0BoZZcV1V6c2qU) | 3:07 | 2025-02-05 |  |
 | [Punk Rawk Christmas](https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:20 | 2023-12-01 | 2025-02-04 |
 | [Punk Rawk Show](https://open.spotify.com/track/4cbXRMGdKMjeWei1rOZz8M) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Teenage Politics](https://open.spotify.com/album/5VyGtU4ME2PvVyryEEquB8) | 2:32 | 2023-10-17 | 2023-12-02 |
 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 | 2023-10-19 |  |

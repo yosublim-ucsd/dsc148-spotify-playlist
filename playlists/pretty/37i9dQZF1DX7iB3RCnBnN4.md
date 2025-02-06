@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 Billion streams on Spotify\. Cover: Charli xcx, Icona Pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,420 likes - 875 songs - 2 day 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,733 likes - 875 songs - 2 day 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

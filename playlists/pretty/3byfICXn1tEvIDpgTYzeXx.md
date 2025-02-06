@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3byfICXn1tEvIDpgTYzeXx.md) - [plain]
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,829 likes - 160 songs - 7 hr 42 min
+[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,828 likes - 160 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/3byfICXn1tEvIDpgTYzeXx.md) - [plain]
 | 78 | [Vibe Time](https://open.spotify.com/track/22zw0vkeGNTYdgFCINbdXL) | [FRHAD](https://open.spotify.com/artist/0418xhpb0MLi9OfTGiTRas) | [Vibe Time](https://open.spotify.com/album/7CVS4uiwU9EOvvT0uyhg8i) | 2:55 |
 | 79 | [Bugatti Ridin'](https://open.spotify.com/track/7lphImwZpCLh0uagrDEOGF) | [GROOTT](https://open.spotify.com/artist/6IhOkU0ycJcuKE9Q5vXW5C) | [Bugatti Ridin'](https://open.spotify.com/album/1j68kANLXdGsY86rPtqhQj) | 2:53 |
 | 80 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 |
-| 81 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 |
+| 81 | [Versace](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [J&K](https://open.spotify.com/artist/6dE7gniQuPD7nsIhI4UYsN), [AINI](https://open.spotify.com/artist/14IWRqA1PTpEeGcrIW8WTg) | [Versace](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 1:51 |
 | 82 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 83 | [Leila](https://open.spotify.com/track/3QhCPBM34Pdrrm9tCnyY4T) | [Cammy](https://open.spotify.com/artist/2xDRGwHlHoOz2ilHqRsPC3), [Rodle](https://open.spotify.com/artist/269odj7fBvXsPaE7kEhXGd), [Zhanelya](https://open.spotify.com/artist/5nemrL2vL312LySJWx8b59) | [Leila](https://open.spotify.com/album/47s3U6tNUs7ksTZyn6xvBa) | 2:42 |
 | 84 | [Symphony](https://open.spotify.com/track/6WW01KvJaDbRRm9rqUwWyQ) | [ORIPV](https://open.spotify.com/artist/237HNl9pU5Qh95DctFoi4d), [Beenur](https://open.spotify.com/artist/5q1YpRvJzKzjqiSJSVYZAV) | [Symphony](https://open.spotify.com/album/2WRz7cXZ1pq50OmnsHdXsj) | 2:49 |

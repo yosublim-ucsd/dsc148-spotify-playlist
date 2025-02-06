@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa The Weeknd.
 
-496 songs - 1 day 0 hr 39 min
+498 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [7 minuuttii](https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [7 minuuttii](https://open.spotify.com/album/4bNB7WdqZ5fOJXN8NO12Ln) | 3:52 | 2024-07-04 | 2024-08-16 |
 | [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 | 2024-09-05 | 2024-09-20 |
 | [Aavan meren tuolla puolen \(Pride Anthem\)](https://open.spotify.com/track/3XbkFw2V8tdA34EQJ0Ncnu) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN), [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Aavan meren tuolla puolen \(Pride Anthem\)](https://open.spotify.com/album/1lRIhGS3ipWijhv3A2n1wH) | 3:42 | 2024-07-02 | 2024-08-30 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-05 |  |
 | [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-09-26 | 2024-10-11 |
 | [Aina](https://open.spotify.com/track/2FIRyQLaMWaatb3ASfldXC) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Aina](https://open.spotify.com/album/5KZrAcRWwTAZ4BGTpiYQJS) | 2:54 | 2024-10-24 | 2024-12-03 |
 | [Aina](https://open.spotify.com/track/0uBQFamFpphOS27wIXPeiT) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Aina](https://open.spotify.com/album/1nMxRHOzJL8bUz0oB52RVT) | 3:02 | 2025-01-13 |  |
@@ -474,6 +475,7 @@
 | [Viimeinen kuulutus](https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Viimeinen kuulutus](https://open.spotify.com/album/1PoLEGcjRHGA3hcNBpJEQz) | 3:11 | 2024-12-05 | 2025-01-10 |
 | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96) | 2:44 | 2024-07-04 | 2024-10-18 |
 | [Viimeinen tekoni](https://open.spotify.com/track/06G9w3cEqRAHaNhIgnefP3) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Sanon sen nyt ääneen](https://open.spotify.com/album/3Xd7lz68EkuMkm7uSDjYeb) | 2:39 | 2024-11-07 | 2024-11-29 |
+| [Viimeiset häät](https://open.spotify.com/track/1l4Nc7WQjivhZtehTVImWz) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Viimeiset häät](https://open.spotify.com/album/7gQckz8H2R6MUdYENUsa2v) | 2:58 | 2025-02-05 |  |
 | [Viinii](https://open.spotify.com/track/3n3hf9PWHruPQp6HsnbvfR) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Viinii](https://open.spotify.com/album/0h1Z6C99Bf9up3RNxy9FSD) | 3:32 | 2024-07-02 | 2024-08-16 |
 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 | 2024-08-15 | 2024-10-18 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-07-26 | 2024-08-10 |

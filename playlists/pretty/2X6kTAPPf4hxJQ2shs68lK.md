@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 36,411 likes - 25 songs - 1 hr 33 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 36,430 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 13 | [Enjoy The Show \(feat\. Future\)](https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
 | 14 | [Hey Mama](https://open.spotify.com/track/46OFHBw45fNi7QNjSetITR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 5:05 |
 | 15 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 |
-| 16 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:39 |
+| 16 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 17 | [LAST ONE ALIVE'!](https://open.spotify.com/track/3A263C6177xoTmIcYiRisE) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [BLACK’!ANTIQUE](https://open.spotify.com/album/5DysldnqrOvaDbYyNHA2WZ) | 3:56 |
 | 18 | [Boy You Should Know!](https://open.spotify.com/track/4afDEFPQRzZWHFdAyiDCpb) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/2J9JB2YUWO8o6AljnHVSop) | 3:45 |
 | 19 | [Here We Go \(Uh Oh\) \[Remix\] \(feat\. Leon Thomas\)](https://open.spotify.com/track/46O9cBukCSQbkSFvEKVNjC) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Here We Go \(Uh Oh\) \[Remix\] \(feat\. Leon Thomas\)](https://open.spotify.com/album/0dhDvGC00Wudcf46Auf466) | 3:36 |

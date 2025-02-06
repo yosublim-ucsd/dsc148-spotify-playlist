@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,385 likes - 29 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,415 likes - 29 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

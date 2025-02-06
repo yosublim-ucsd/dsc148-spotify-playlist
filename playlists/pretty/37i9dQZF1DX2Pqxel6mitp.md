@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,038 likes - 120 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,099 likes - 120 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

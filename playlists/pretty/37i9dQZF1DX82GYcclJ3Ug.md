@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Bad Suns
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,004 likes - 126 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,105 likes - 126 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

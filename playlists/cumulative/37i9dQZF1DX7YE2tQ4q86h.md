@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: MØ & Biig Piig
 
-1,190 songs - 2 day 11 hr 39 min
+1,191 songs - 2 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [99% ANGEL](https://open.spotify.com/track/5fZlbHpe7bOU0MG2DHM0tB) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [99% ANGEL](https://open.spotify.com/album/2zWbHOqxYYHBZLcujr9fGY) | 2:51 | 2024-08-09 | 2024-11-09 |
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-06 | 2022-08-06 |
 | [A Hundred Years of Winter \- F9 Remix \- Edit](https://open.spotify.com/track/4DC2gOWfeLMAErZnXNWhLJ) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7), [F9](https://open.spotify.com/artist/06YCghSIoWClH6feWUOzkY) | [Platinum Collection](https://open.spotify.com/album/6RsefRivaKdO1XgeRfIUHv) | 3:40 | 2022-12-23 | 2022-12-31 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-05 |  |
 | [Abracadabra](https://open.spotify.com/track/6afv05TNOInabonuY1OkbU) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [Halloqveen](https://open.spotify.com/album/3g3P8dofBdBkEioDroTO2H) | 2:26 | 2022-02-15 | 2022-06-25 |
 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-03-29 | 2024-09-21 |
 | [AFFECTION](https://open.spotify.com/track/2i3IDtDlmYuDebOiY1QPG1) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [AFFECTION](https://open.spotify.com/album/0u0nt4E7qmeI8GhtO6sGGm) | 2:42 | 2023-10-27 | 2024-03-02 |

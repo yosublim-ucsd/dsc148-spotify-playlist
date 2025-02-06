@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: HNTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,873 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,956 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

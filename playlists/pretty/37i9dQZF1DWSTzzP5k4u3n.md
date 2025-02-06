@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,827 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,824 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 |
-| 2 | [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 |
-| 3 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 |
-| 4 | [Kaikki mitä on, on juuri niin kuin olin kuvitellutkin](https://open.spotify.com/track/258AhNE9rysgqoMQ0RoSx8) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Öitä](https://open.spotify.com/album/6LZYPt5izO0zcAGke00bPh) | 4:44 |
-| 5 | [Kaikesta puolet saat](https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kaikesta puolet saat](https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg) | 3:47 |
-| 6 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
-| 7 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
-| 8 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 |
-| 9 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
+| 2 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
+| 3 | [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 |
+| 4 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 |
+| 5 | [Kaikki mitä on, on juuri niin kuin olin kuvitellutkin](https://open.spotify.com/track/258AhNE9rysgqoMQ0RoSx8) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Öitä](https://open.spotify.com/album/6LZYPt5izO0zcAGke00bPh) | 4:44 |
+| 6 | [Kaikesta puolet saat](https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kaikesta puolet saat](https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg) | 3:47 |
+| 7 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
+| 8 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
+| 9 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 |
 | 10 | [Raunioita](https://open.spotify.com/track/59I9eYy2AArw6NuMi99Nox) | [Hauli Bros](https://open.spotify.com/artist/66Uq3qob8o3WVHKbRH6kiM) | [Raunioita](https://open.spotify.com/album/0vz5dNmUb9SGudyyvyhY59) | 3:40 |
 | 11 | [Presidentti](https://open.spotify.com/track/4LWkJJS5WWP9hNnmTLU5Kj) | [Tumppi Varonen & Problems](https://open.spotify.com/artist/74GIBky1lbXAwhQnzl8F02), [Tumppi Varonen](https://open.spotify.com/artist/5WfHMCf6YUNz9QwSeILxPl), [Problems](https://open.spotify.com/artist/3aCSB3QjK57P4PFaWK99Lv) | [Presidentti](https://open.spotify.com/album/09VFc2doroEyBx0e2odMYT) | 2:27 |
 | 12 | [Tulvaniityt](https://open.spotify.com/track/356KJMSfmHLgahPGpz5E9i) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Hiljainen](https://open.spotify.com/album/51QXiCOMZIwTJw9TUfAEG2) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Hienoo kun oot](https://open.spotify.com/track/37kKYv6HwD8cnmZtSDQSOf) | [Anton Äikäs](https://open.spotify.com/artist/3RgGEK7y9UZFB74SiOgjuk) | [Hienoo kun oot](https://open.spotify.com/album/7G15WeW6VcXg3MCl7Di0GR) | 3:43 |
 | 80 | [Bombay Train](https://open.spotify.com/track/4LBjxwrqepJlQ39S5EmxSa) | [Remu](https://open.spotify.com/artist/0v9qVRqk14X8dqcH8YhfqI) | [Bombay Train](https://open.spotify.com/album/3S3GKHcl605qQzR2Xd4s3V) | 3:21 |
 
-Snapshot ID: `Z6BuNgAAAACSyKUyl3SYCl3C/zTHFvy0`
+Snapshot ID: `Z6NfRQAAAADH162g3bbfjRYH5I7M5PcO`

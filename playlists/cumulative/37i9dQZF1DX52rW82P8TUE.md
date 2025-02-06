@@ -4,7 +4,7 @@
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-86 songs - 4 hr 41 min
+87 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cristo Fez os Peixes](https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Cristo Fez os Peixes](https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv) | 1:52 | 2023-10-06 |  |
 | [Daniel, o Profeta](https://open.spotify.com/track/5C0j4okqm1pd9CBVXmJBZ5) | [Projeto Vida Nova de Irajá](https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP), [Tati Teixeira Campos](https://open.spotify.com/artist/2TQJSBWhqZjuGRieOyBCAM), [Diego Campos](https://open.spotify.com/artist/0cvBXvjdFZSN9RfAOk0wTC) | [Daniel, o Profeta](https://open.spotify.com/album/6AfVvz0xDRmWlKMGF0McxK) | 3:52 | 2023-06-02 | 2023-10-14 |
 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 | 2022-09-02 |  |
-| [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 | 2022-09-02 |  |
+| [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 | 2022-09-02 | 2025-02-06 |
 | [De Carro Para Escola](https://open.spotify.com/track/4McTRoq3ESc7xYaxC8t1Xz) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [De Carro Para Escola](https://open.spotify.com/album/49EX9eFL6ObCK4v8buOnHj) | 2:03 | 2024-08-23 | 2024-11-30 |
 | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE) | 3:25 | 2023-03-11 | 2023-10-07 |
 | [Destino ao Céu](https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Destino ao Céu](https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm) | 3:46 | 2022-09-02 |  |
@@ -91,6 +91,7 @@
 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 | 2022-09-02 | 2024-10-12 |
 | [Toc Toc Toc \- Baby Fun \- Remix](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun \(Remix\)](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 | 2023-05-12 |  |
 | [Todo Olho o Verá](https://open.spotify.com/track/5ObzGyGLgiOhAv0etKoboF) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Minha Vida É uma Viagem 4](https://open.spotify.com/album/0TOnCsiORdMr35eFNYYA6s) | 3:17 | 2022-09-02 | 2022-10-15 |
+| [Trem da Alegria](https://open.spotify.com/track/3BviBTZ0kgvpCJkIx2C3Yw) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Trem da Alegria](https://open.spotify.com/album/711osQB33Ck7jmY9hj1eAD) | 2:47 | 2025-02-05 |  |
 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 | 2022-09-02 |  |
 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 | 2023-10-06 |  |
 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 | 2022-09-02 |  |

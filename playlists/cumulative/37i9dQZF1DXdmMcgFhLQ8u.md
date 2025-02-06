@@ -2,9 +2,9 @@
 
 ### [Country Heartache](https://open.spotify.com/playlist/37i9dQZF1DXdmMcgFhLQ8u)
 
-> These country songs know exactly how you feel.
+> These country songs know exactly how you feel\. Cover: Riley Green
 
-186 songs - 10 hr 59 min
+187 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Just To See You Smile](https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:35 | 2021-12-03 | 2022-01-04 |
 | [Last Call](https://open.spotify.com/track/5DWmvAL8WPuncj8tSxFVNC) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Call Me Crazy](https://open.spotify.com/album/0KXK77Q3lYrmzqSnFvtBfW) | 3:15 | 2021-12-03 | 2022-06-10 |
 | [Last Cigarette](https://open.spotify.com/track/1B2NvOSBaQi5C2Lh1zLyVP) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 2:49 | 2022-01-28 | 2022-07-26 |
-| [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 | 2021-12-03 |  |
+| [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 | 2021-12-03 | 2025-02-06 |
 | [Lesson In Leavin'](https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:40 | 2022-04-01 | 2023-01-28 |
 | [Let Me Get Over Her](https://open.spotify.com/track/2YAEntcShBOrHi2wSKTOZA) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:02 | 2022-06-04 | 2022-07-26 |
 | [Let's Fall To Pieces Together](https://open.spotify.com/track/0Sr1buYAIXIHaYGIGKmfoN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Right Or Wrong](https://open.spotify.com/album/4tNMkO2t6XfbA9BC8ZcgT2) | 2:55 | 2022-04-01 | 2022-04-20 |
@@ -136,6 +136,7 @@
 | [She Don't Love You](https://open.spotify.com/track/1B17jo7XD3lJ9AtrdE9kUd) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:22 | 2021-12-03 | 2022-07-19 |
 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 | 2021-12-03 |  |
 | [Should’ve Known Better](https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:01 | 2021-12-03 | 2024-04-28 |
+| [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-05 |  |
 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2021-12-03 | 2022-11-13 |
 | [Some People Do](https://open.spotify.com/track/5xI2WO75cIHhGX55MlaIgU) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:16 | 2021-12-03 | 2022-07-29 |
 | [Somebody Should Leave](https://open.spotify.com/track/16PnvRZnezJqHiWpgPFzjg) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Reba McEntire's Greatest Hits](https://open.spotify.com/album/2MLqNKbNHiFxU2W25KkW3o) | 3:34 | 2022-04-01 | 2022-04-20 |
