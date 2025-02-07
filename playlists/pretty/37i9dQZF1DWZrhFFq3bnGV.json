@@ -1,13 +1,29 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: tjdika, Tommy Pratomo",
-  "num_followers": 108401,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Rahma Savitri",
+  "num_followers": 108417,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5J1lAAAAAAVV1wGgrCjQdDpjLOPLFgK",
+  "snapshot_id": "Z6T4oAAAAADAHc7T3qdCkm1C8H5IaKQV",
   "tracks": [
+    {
+      "added_at": "2025-02-06 18:00:00",
+      "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr"
+      },
+      "artists": [
+        {
+          "name": "Rahma Savitri",
+          "url": "https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz"
+    },
     {
       "added_at": "2025-01-23 17:00:04",
       "album": {
@@ -29,22 +45,6 @@
       "url": "https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU"
     },
     {
-      "added_at": "2025-01-16 17:00:15",
-      "album": {
-        "name": "Gagal Diet",
-        "url": "https://open.spotify.com/album/3mcLJfwHU5VR1N9pwSNCeO"
-      },
-      "artists": [
-        {
-          "name": "ArumtaLa",
-          "url": "https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev"
-        }
-      ],
-      "duration_ms": 188224,
-      "name": "Gagal Diet",
-      "url": "https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w"
-    },
-    {
       "added_at": "2024-12-06 04:19:28",
       "album": {
         "name": "Kita Ke Masa Depan",
@@ -59,6 +59,22 @@
       "duration_ms": 197100,
       "name": "Kita Ke Masa Depan",
       "url": "https://open.spotify.com/track/51ccM90FgfwOjTHX9hjd0x"
+    },
+    {
+      "added_at": "2025-01-16 17:00:15",
+      "album": {
+        "name": "Gagal Diet",
+        "url": "https://open.spotify.com/album/3mcLJfwHU5VR1N9pwSNCeO"
+      },
+      "artists": [
+        {
+          "name": "ArumtaLa",
+          "url": "https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev"
+        }
+      ],
+      "duration_ms": 188224,
+      "name": "Gagal Diet",
+      "url": "https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w"
     },
     {
       "added_at": "2024-12-06 04:19:28",
@@ -93,22 +109,6 @@
       "url": "https://open.spotify.com/track/4PMfPiUMzOTahCjnHDKIkA"
     },
     {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Four Flights to Fibs",
-        "url": "https://open.spotify.com/album/0EY2T0dzaS7NdBGY0qmAQ3"
-      },
-      "artists": [
-        {
-          "name": "Littlefingers",
-          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
-        }
-      ],
-      "duration_ms": 228491,
-      "name": "Four Flights to Fibs",
-      "url": "https://open.spotify.com/track/339mditL5UwdFiPbUsBOa0"
-    },
-    {
       "added_at": "2024-11-29 07:55:57",
       "album": {
         "name": "Nurlela",
@@ -129,6 +129,38 @@
       "url": "https://open.spotify.com/track/2FyIuOusvjzE5cAXH2iMPW"
     },
     {
+      "added_at": "2024-09-19 17:00:00",
+      "album": {
+        "name": "Four Flights to Fibs",
+        "url": "https://open.spotify.com/album/0EY2T0dzaS7NdBGY0qmAQ3"
+      },
+      "artists": [
+        {
+          "name": "Littlefingers",
+          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
+        }
+      ],
+      "duration_ms": 228491,
+      "name": "Four Flights to Fibs",
+      "url": "https://open.spotify.com/track/339mditL5UwdFiPbUsBOa0"
+    },
+    {
+      "added_at": "2024-11-07 17:00:00",
+      "album": {
+        "name": "Chroma",
+        "url": "https://open.spotify.com/album/0CMeBic02tygImc4JupoEl"
+      },
+      "artists": [
+        {
+          "name": "Andre Dinuth",
+          "url": "https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Chroma",
+      "url": "https://open.spotify.com/track/4zdmipUN8H3sTvS304HGLP"
+    },
+    {
       "added_at": "2024-10-24 16:59:00",
       "album": {
         "name": "Diantara Kata",
@@ -147,22 +179,6 @@
       "duration_ms": 253331,
       "name": "Diantara Kata",
       "url": "https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu"
-    },
-    {
-      "added_at": "2024-11-07 17:00:00",
-      "album": {
-        "name": "Chroma",
-        "url": "https://open.spotify.com/album/0CMeBic02tygImc4JupoEl"
-      },
-      "artists": [
-        {
-          "name": "Andre Dinuth",
-          "url": "https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Chroma",
-      "url": "https://open.spotify.com/track/4zdmipUN8H3sTvS304HGLP"
     },
     {
       "added_at": "2024-11-15 06:33:47",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2024-09-19 17:00:00",
       "album": {
-        "name": "Padmaskara",
-        "url": "https://open.spotify.com/album/7jwpaXb1Aze8GHnIpDHGfW"
-      },
-      "artists": [
-        {
-          "name": "Dewa Budjana",
-          "url": "https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB"
-        }
-      ],
-      "duration_ms": 245589,
-      "name": "Padmaskara",
-      "url": "https://open.spotify.com/track/5kQpYeaQvEMyCkCv3VUQod"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
         "name": "I Can\u2019t Make You Love Me",
         "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
       },
@@ -1023,42 +1023,6 @@
       "duration_ms": 303680,
       "name": "I Can\u2019t Make You Love Me",
       "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/26ds8Q5NFxGkwQP163fJSb"
-      },
-      "artists": [
-        {
-          "name": "Jordy Waelauruw",
-          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
-        },
-        {
-          "name": "Yance Manusama",
-          "url": "https://open.spotify.com/artist/0bRoeRfOv39qIM4UbGj7Kw"
-        },
-        {
-          "name": "Marthin Siahaan",
-          "url": "https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD"
-        },
-        {
-          "name": "Niel Larumunde",
-          "url": "https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O"
-        },
-        {
-          "name": "Nael Larumunde",
-          "url": "https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT"
-        },
-        {
-          "name": "Grady Boanerges",
-          "url": "https://open.spotify.com/artist/0bnPVgEHt7i6WBI3n5H1S7"
-        }
-      ],
-      "duration_ms": 344913,
-      "name": "Donuts",
-      "url": "https://open.spotify.com/track/1nZm5r1XiZlIng4uMVgQvu"
     },
     {
       "added_at": "2024-09-19 17:00:00",
@@ -1127,46 +1091,6 @@
       "duration_ms": 346397,
       "name": "Tarian Panen",
       "url": "https://open.spotify.com/track/3GhczFPojHhZ6XmxDTiDv2"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "32",
-        "url": "https://open.spotify.com/album/1VW732WmXOw1xSGZoI77Jr"
-      },
-      "artists": [
-        {
-          "name": "Aditya Ong Trio",
-          "url": "https://open.spotify.com/artist/4kkP9EmggHO2TIDcSOOZI4"
-        },
-        {
-          "name": "Alfado Jacob",
-          "url": "https://open.spotify.com/artist/5SYx8g5qg29QfBZHj455XT"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "Against The World",
-      "url": "https://open.spotify.com/track/6xdE66P9m2ybnbRqWduLVF"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/4cl4iGS3sCdPg2UrrT75Ho"
-      },
-      "artists": [
-        {
-          "name": "Jordy Waelauruw",
-          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
-        },
-        {
-          "name": "Nicky Manuputty",
-          "url": "https://open.spotify.com/artist/1O9pkJRFRbdwy1yKCOyh9k"
-        }
-      ],
-      "duration_ms": 202590,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/3oQq33GGhk7odIXW1j6Oe6"
     },
     {
       "added_at": "2024-09-19 17:00:00",
@@ -1315,22 +1239,6 @@
     {
       "added_at": "2024-09-19 17:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/2FFpls5cmtoeWBotbKWiBx"
-      },
-      "artists": [
-        {
-          "name": "Koko Wijanarko",
-          "url": "https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/0RwY80gFnRo9noKMipeFXi"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
         "name": "Like Someone In Love",
         "url": "https://open.spotify.com/album/6IUwLsSLyw4usMrtkg1noZ"
       },
@@ -1379,22 +1287,6 @@
     {
       "added_at": "2024-09-19 17:00:00",
       "album": {
-        "name": "Chaseiro Vol. 3",
-        "url": "https://open.spotify.com/album/5iPgWA8tAYp9VnF46FLGsd"
-      },
-      "artists": [
-        {
-          "name": "Chaseiro",
-          "url": "https://open.spotify.com/artist/3cWhTURNoVUEdmNFzmfgms"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Daffy",
-      "url": "https://open.spotify.com/track/3JNKp9XdviZsOadURpU88i"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
         "name": "Sisi Lain",
         "url": "https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R"
       },
@@ -1427,38 +1319,6 @@
       "duration_ms": 322543,
       "name": "Can Good Things Last Forever?",
       "url": "https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Jetlag",
-        "url": "https://open.spotify.com/album/0tX3LsUKM1LPAmpTcyYMHQ"
-      },
-      "artists": [
-        {
-          "name": "Tommy Pratomo",
-          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
-        }
-      ],
-      "duration_ms": 185089,
-      "name": "Jetlag",
-      "url": "https://open.spotify.com/track/3hBGxI7UqcR7luoO5mvlYl"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Kindergarten",
-        "url": "https://open.spotify.com/album/6TE6PVaMcvIWFPM97wQxIS"
-      },
-      "artists": [
-        {
-          "name": "Naufalbahir",
-          "url": "https://open.spotify.com/artist/0AWgaUdmTXrTcBiMjsqVDH"
-        }
-      ],
-      "duration_ms": 123637,
-      "name": "Cukup",
-      "url": "https://open.spotify.com/track/01iNsEL4mvh7L6Dn2NbUrs"
     },
     {
       "added_at": "2024-09-19 17:00:00",
@@ -1615,42 +1475,6 @@
     {
       "added_at": "2024-09-19 17:00:00",
       "album": {
-        "name": "Two of a Kind",
-        "url": "https://open.spotify.com/album/5Wv1AZE2RhdRLhKmrL1jtm"
-      },
-      "artists": [
-        {
-          "name": "Dua Empat",
-          "url": "https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L"
-        },
-        {
-          "name": "Marini Nainggolan",
-          "url": "https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp"
-        }
-      ],
-      "duration_ms": 276266,
-      "name": "Piccadilly",
-      "url": "https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/0ss6hyjblBNVw8Hmwrtt77"
-      },
-      "artists": [
-        {
-          "name": "Rubina",
-          "url": "https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN"
-        }
-      ],
-      "duration_ms": 263594,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/2WQI1voN9wyAqtpDwUxoIC"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
         "name": "Amelia Ong",
         "url": "https://open.spotify.com/album/7mFdCINJ34t6F6mzrhCDjy"
       },
@@ -1803,42 +1627,6 @@
       "duration_ms": 177658,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Makan Teman",
-        "url": "https://open.spotify.com/album/4F99lV3Ql04YNP8P3WV3mh"
-      },
-      "artists": [
-        {
-          "name": "Tompi",
-          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
-        }
-      ],
-      "duration_ms": 160088,
-      "name": "Makan Teman",
-      "url": "https://open.spotify.com/track/7MHKaG1rgfunhfW1bbsw1S"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Waktuku Hampa",
-        "url": "https://open.spotify.com/album/367KtX1YYymKFcjfN847nC"
-      },
-      "artists": [
-        {
-          "name": "Ardhito Pramono",
-          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
-        },
-        {
-          "name": "Detik Waktu Quartet",
-          "url": "https://open.spotify.com/artist/5G2dRrZGbA1aQIaY5ng4HK"
-        }
-      ],
-      "duration_ms": 197701,
-      "name": "Waktuku Hampa",
-      "url": "https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK"
     },
     {
       "added_at": "2024-09-19 17:00:00",

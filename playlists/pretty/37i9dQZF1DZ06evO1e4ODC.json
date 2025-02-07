@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 200575,
+  "num_followers": 200613,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAACzeX7F4YzFFZ6bLO2XJRLJ",
+  "snapshot_id": "Z6KqAAAAAADU9WIsh3vFDVScXtE5RPxh",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Que Ser\u00eda De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelve a Casa",
         "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 343746,
       "name": "Ven, Te Necesito",
       "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Que Ser\u00eda De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sencillos",
-        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Princesas M\u00e1gicas",
-      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cerca De Ti",
         "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 278906,
       "name": "Cerca De Ti - En Vivo",
       "url": "https://open.spotify.com/track/6waY2sAiBJzHdmXyKYmr1w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sencillos",
+        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Princesas M\u00e1gicas",
+      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
     },
     {
       "added_at": null,

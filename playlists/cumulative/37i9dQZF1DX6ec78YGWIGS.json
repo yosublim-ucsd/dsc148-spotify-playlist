@@ -4717,6 +4717,28 @@
     },
     {
       "album": {
+        "name": "MEJOR QUE VOS",
+        "url": "https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166794,
+      "name": "MEJOR QUE VOS",
+      "url": "https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt"
+    },
+    {
+      "album": {
         "name": "MELONI",
         "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
       },

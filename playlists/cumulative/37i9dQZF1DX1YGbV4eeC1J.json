@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Bruce Melodie",
+  "description": "What is your love language? Say it in Swahili.  Cover: Lava Lava",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 188181,
       "name": "Be My Rescue",
       "url": "https://open.spotify.com/track/5MUyb4L8hZ37XgaQG8uaXo"
@@ -1540,6 +1540,24 @@
       "duration_ms": 210107,
       "name": "In Case You Don't Know",
       "url": "https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg"
+    },
+    {
+      "album": {
+        "name": "Inamana",
+        "url": "https://open.spotify.com/album/1aDCSJhVHkQmbWbSQzRYiq"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Inamana",
+      "url": "https://open.spotify.com/track/6Ok2y1aYRb3CMwxVXKI6K3"
     },
     {
       "album": {
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 206604,
       "name": "Romeo (feat. Zuchu)",
       "url": "https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl"
@@ -4621,6 +4639,28 @@
     },
     {
       "album": {
+        "name": "Take Away The Pain",
+        "url": "https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo"
+      },
+      "artists": [
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Tulia Na Mimi (feat. Jay Melody)",
+      "url": "https://open.spotify.com/track/53rL8Pf3wxrrYHK3PzmFJZ"
+    },
+    {
+      "album": {
         "name": "Tunapendana",
         "url": "https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2"
       },
@@ -4886,7 +4926,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 214053,
       "name": "Utaniua",
       "url": "https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP"
@@ -5126,6 +5166,24 @@
       "duration_ms": 180694,
       "name": "WIVU",
       "url": "https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM"
+    },
+    {
+      "album": {
+        "name": "Love Season",
+        "url": "https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg"
+      },
+      "artists": [
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190212,
+      "name": "Wote",
+      "url": "https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4"
     },
     {
       "album": {

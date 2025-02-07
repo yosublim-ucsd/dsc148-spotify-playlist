@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Listen to the future. Cover: CO\u00cbX",
+  "description": "Listen to the future. Cover: Amir Hasan",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -458,6 +458,24 @@
       "duration_ms": 244113,
       "name": "Cuma Kamu",
       "url": "https://open.spotify.com/track/093ekP1E7iaXhRVPnP45lK"
+    },
+    {
+      "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/1DyCwG7jeFjHtCxqB2SD7c"
+      },
+      "artists": [
+        {
+          "name": "Amir Hasan",
+          "url": "https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164811,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/0MT52aAGzFijBZYnPM28QM"
     },
     {
       "album": {
@@ -1644,6 +1662,28 @@
       "duration_ms": 190169,
       "name": "SAH - LoFi Version",
       "url": "https://open.spotify.com/track/6I02gQUsWeOVng5r7s0B60"
+    },
+    {
+      "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/1DyCwG7jeFjHtCxqB2SD7c"
+      },
+      "artists": [
+        {
+          "name": "Amir Hasan",
+          "url": "https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL"
+        },
+        {
+          "name": "Benzooloo",
+          "url": "https://open.spotify.com/artist/1XoYv8r7rCgzBSgMWCsnzR"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191062,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/6y1sE7uY5b1Gce5eTBpBEk"
     },
     {
       "album": {

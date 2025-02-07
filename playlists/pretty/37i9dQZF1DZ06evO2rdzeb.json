@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 13112,
+  "num_followers": 13135,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADPGRoVxGiStLV6yRga89w6",
+  "snapshot_id": "Z6KqAAAAAAAZBcB0PjbLHUBZORIEijPq",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 229133,
-      "name": "symbol",
-      "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
+      "duration_ms": 135386,
+      "name": "womb",
+      "url": "https://open.spotify.com/track/5LrGZi2aSwJfUnP5eE1wBg"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 135386,
-      "name": "womb",
-      "url": "https://open.spotify.com/track/5LrGZi2aSwJfUnP5eE1wBg"
+      "duration_ms": 229133,
+      "name": "symbol",
+      "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
     },
     {
       "added_at": null,

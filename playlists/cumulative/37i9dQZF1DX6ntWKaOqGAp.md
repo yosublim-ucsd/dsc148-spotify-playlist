@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: ハルカミライ
 
-2,009 songs - 5 day 6 hr 10 min
+2,010 songs - 5 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 | 2025-01-14 |  |
 | [Catch The Miracle](https://open.spotify.com/track/0veerJcFJTSumChnxuLD0i) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Catch The Miracle](https://open.spotify.com/album/2jHtSMczXw6jiUfFL64Vjz) | 5:24 | 2023-08-31 | 2023-10-04 |
 | [chang\[e\]](https://open.spotify.com/track/3hbJjQi1g77z5KlqKAavSh) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [chang\[e\]](https://open.spotify.com/album/2nXObGMB8IDoWNzZF45PQD) | 3:14 | 2024-10-22 | 2025-01-15 |
+| [charon](https://open.spotify.com/track/69YwNmEyRLwT9b92Mzzoyi) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [charon](https://open.spotify.com/album/4Ek52lnfKg3amniAROTb5F) | 3:36 | 2025-02-06 |  |
 | [Chasing Angel](https://open.spotify.com/track/3tDu1JqgNP4ZzxIFJKxwwA) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Chasing Angel](https://open.spotify.com/album/1VoYAOMPUdiFji6Wfc2yHj) | 4:53 | 2025-01-21 | 2025-01-29 |
 | [chasing shadows](https://open.spotify.com/track/4WHz9iiduN9cJ3QysDrRSP) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [Nature and Computers](https://open.spotify.com/album/2wkyePDEqzYoOoro3TvThK) | 3:40 | 2024-09-17 | 2024-10-09 |
 | [Cheep Hero](https://open.spotify.com/track/6rQOoCmuWJqSUuvpPN2bpu) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [4EVER](https://open.spotify.com/album/5QQ45cQC6Ra4QvW4i5NVnS) | 2:51 | 2025-01-21 |  |
@@ -350,7 +351,7 @@
 | [harunosyura feat\. SHIOTSUKA MOEKA](https://open.spotify.com/track/6E67br9IJncxk8f5R3j3YI) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [Strange Reitaro](https://open.spotify.com/album/4LVfX3GdKzYWMWhXMHzou0) | 3:44 | 2023-06-22 | 2023-07-05 |
 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-04 | 2023-04-19 |
 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 | 2023-08-15 | 2023-10-25 |
-| [Heart Ni Hug Shiyou](https://open.spotify.com/track/2cdz2v8QblxRIDTIb6kWsu) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Heart Ni Hug Shiyou](https://open.spotify.com/album/7ieJFmH2zUOvoI3AlZAaXh) | 4:40 | 2024-10-02 |  |
+| [Heart Ni Hug Shiyou](https://open.spotify.com/track/2cdz2v8QblxRIDTIb6kWsu) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Heart Ni Hug Shiyou](https://open.spotify.com/album/7ieJFmH2zUOvoI3AlZAaXh) | 4:40 | 2024-10-02 | 2025-02-07 |
 | [Heartache](https://open.spotify.com/track/1pBeYVoKOTXOotNJ1MjHrk) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [vanitas](https://open.spotify.com/album/4SKmZ9UDkL4NrEgXzJw81z) | 2:28 | 2023-09-12 | 2023-12-20 |
 | [Heartbeat](https://open.spotify.com/track/26kGk6Ia807QHtzIftKY7s) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Heartbeat](https://open.spotify.com/album/4FbJx3hYgHNHrzfqzk9vRi) | 3:14 | 2024-03-12 | 2024-04-03 |
 | [Heartbeat](https://open.spotify.com/track/6QZGcazgsh6N9Z1soJgNdn) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Heartbeat](https://open.spotify.com/album/7MTFay3o99M6aGnPnByyew) | 3:14 | 2024-03-12 | 2024-03-14 |

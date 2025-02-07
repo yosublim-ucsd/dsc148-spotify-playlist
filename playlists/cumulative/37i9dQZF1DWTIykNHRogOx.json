@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Ben Mazu\u00e9",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Terrenoire",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 306535,
       "name": "Les ann\u00e9es lumi\u00e8re",
       "url": "https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 177261,
       "name": "Les derniers jours de pluies - Edit Version",
       "url": "https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ"
@@ -1520,6 +1520,28 @@
       "duration_ms": 168493,
       "name": "Les rois du d\u00e9sespoir",
       "url": "https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp"
+    },
+    {
+      "album": {
+        "name": "Les tours d'horloge",
+        "url": "https://open.spotify.com/album/6S455vueaUSjsktIQgovkK"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fersen",
+          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+        },
+        {
+          "name": "Trio SR9",
+          "url": "https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199887,
+      "name": "Les tours d'horloge",
+      "url": "https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME"
     },
     {
       "album": {
@@ -2260,6 +2282,24 @@
       "duration_ms": 204733,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4T35yNYrx1CKgy5xghD4aE"
+    },
+    {
+      "album": {
+        "name": "Toi l\u00e0-bas",
+        "url": "https://open.spotify.com/album/6aJpWeCK0o8oTonGKWpUOb"
+      },
+      "artists": [
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Toi l\u00e0-bas",
+      "url": "https://open.spotify.com/track/1M1Zd745JBEteL4kWvknkG"
     },
     {
       "album": {

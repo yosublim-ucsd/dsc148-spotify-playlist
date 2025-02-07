@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 269947,
       "name": "7Alo Ya 7Alo",
       "url": "https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 209844,
       "name": "Ahlan Ya Ramadhan",
       "url": "https://open.spotify.com/track/2yBtd8LXwYGYgiaURXCV2v"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 272144,
       "name": "Efrahou Ya Banat",
       "url": "https://open.spotify.com/track/0mE1z4WuQXZIwR1yRR4FqV"
@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Farhet Ramadan",
+        "url": "https://open.spotify.com/album/34abdF8ACHM1InwvAUjZ3T"
+      },
+      "artists": [
+        {
+          "name": "Fatma Eid",
+          "url": "https://open.spotify.com/artist/38EGMLWJ3SGC45d3q9QA26"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244297,
+      "name": "Farhet Ramadan",
+      "url": "https://open.spotify.com/track/0MnsgMZh7GDnWGegBGM4oS"
+    },
+    {
+      "album": {
         "name": "Ramadaniat",
         "url": "https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 232952,
       "name": "Hal We Hal",
       "url": "https://open.spotify.com/track/2CcB6H5atqWTY56s2TALWK"
@@ -670,7 +688,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 280596,
       "name": "Sebhet Ramadan",
       "url": "https://open.spotify.com/track/6jDdzsOWs4wreunHUnzGQe"

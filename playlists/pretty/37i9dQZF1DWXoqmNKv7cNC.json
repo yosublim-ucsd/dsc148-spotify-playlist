@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mujeres mexicanas a todo volumen! Yuridia en portada \ud83d\udc9a",
-  "num_followers": 107957,
+  "num_followers": 108016,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-02-05 06:14:36",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
-    },
-    {
-      "added_at": "2025-02-05 06:14:36",
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 201040,
       "name": "\u00a1Ay Amor!",
       "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
+    },
+    {
+      "added_at": "2025-02-05 06:14:36",
+      "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
     },
     {
       "added_at": "2025-01-08 15:03:23",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-02-05 06:14:36",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
-    },
-    {
-      "added_at": "2025-02-05 06:14:36",
-      "album": {
         "name": "Completamente Tuya",
         "url": "https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 207066,
       "name": "Enamorada y Herida",
       "url": "https://open.spotify.com/track/31BsrpQphP6KiRXjvJix5R"
+    },
+    {
+      "added_at": "2025-02-05 06:14:36",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2025-01-08 15:03:23",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/2viKn02L839kO9ka0FqCkm"
     },
     {
-      "added_at": "2025-01-08 15:03:23",
-      "album": {
-        "name": "Lejos De La Ciudad",
-        "url": "https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 188680,
-      "name": "Lejos De La Ciudad",
-      "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
-    },
-    {
       "added_at": "2025-02-05 06:14:36",
       "album": {
         "name": "Cinco Minutos M\u00e1s",
@@ -339,6 +323,22 @@
       "duration_ms": 180066,
       "name": "Cinco Minutos M\u00e1s",
       "url": "https://open.spotify.com/track/1U6gcdaWujPBqQ01c4Wt6S"
+    },
+    {
+      "added_at": "2025-01-08 15:03:23",
+      "album": {
+        "name": "Lejos De La Ciudad",
+        "url": "https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 188680,
+      "name": "Lejos De La Ciudad",
+      "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
     },
     {
       "added_at": "2025-02-05 06:14:36",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
     },
     {
-      "added_at": "2025-02-05 06:14:36",
-      "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
-    },
-    {
       "added_at": "2025-01-08 15:03:23",
       "album": {
         "name": "HAASHVILLE",
@@ -439,6 +423,22 @@
       "duration_ms": 170751,
       "name": "El Cielo Te Mand\u00f3 para M\u00ed",
       "url": "https://open.spotify.com/track/27KUxrnRPxGlCOhaLR3CBf"
+    },
+    {
+      "added_at": "2025-02-05 06:14:36",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2025-02-05 06:14:36",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-02-05 06:14:36",
       "album": {
-        "name": "lo que un d\u00eda fue",
-        "url": "https://open.spotify.com/album/3l8U4M2Ueky7Mlv7lcRBK0"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 174700,
-      "name": "lo que un d\u00eda fue",
-      "url": "https://open.spotify.com/track/1cuO9s59NdTpSnG5HGB8KD"
-    },
-    {
-      "added_at": "2025-02-05 06:14:36",
-      "album": {
         "name": "Solo Di S\u00ed",
         "url": "https://open.spotify.com/album/2aztqcna1MEXrKLQm62rc5"
       },
@@ -513,6 +497,22 @@
       "url": "https://open.spotify.com/track/5VA6dP1JfkfTqYkQwkVV8c"
     },
     {
+      "added_at": "2025-02-05 06:14:36",
+      "album": {
+        "name": "lo que un d\u00eda fue",
+        "url": "https://open.spotify.com/album/3l8U4M2Ueky7Mlv7lcRBK0"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 174700,
+      "name": "lo que un d\u00eda fue",
+      "url": "https://open.spotify.com/track/1cuO9s59NdTpSnG5HGB8KD"
+    },
+    {
       "added_at": "2025-01-08 15:03:23",
       "album": {
         "name": "Autopoi\u00e9tica",
@@ -527,6 +527,26 @@
       "duration_ms": 253840,
       "name": "Tenochtitl\u00e1n",
       "url": "https://open.spotify.com/track/1qL4NB9N5g20OiNcn5yAJc"
+    },
+    {
+      "added_at": "2025-02-05 06:14:36",
+      "album": {
+        "name": "A las 12 Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/1tVPNWvP77YByiytdvkXS8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "A las 12 Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7mDw8Pruj8W86T2pb55uX2"
     },
     {
       "added_at": "2025-01-08 15:03:23",
@@ -593,26 +613,6 @@
       "url": "https://open.spotify.com/track/0l49H3WEYgONsfd9gsr64B"
     },
     {
-      "added_at": "2025-02-05 06:14:36",
-      "album": {
-        "name": "A las 12 Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/1tVPNWvP77YByiytdvkXS8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "A las 12 Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7mDw8Pruj8W86T2pb55uX2"
-    },
-    {
       "added_at": "2025-01-08 15:03:23",
       "album": {
         "name": "A\u00fan As\u00ed Te Vas",
@@ -627,22 +627,6 @@
       "duration_ms": 196960,
       "name": "A\u00fan As\u00ed Te Vas",
       "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
-    },
-    {
-      "added_at": "2025-01-08 15:03:23",
-      "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
     },
     {
       "added_at": "2025-02-05 06:14:36",
@@ -663,6 +647,22 @@
       "duration_ms": 210181,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6tuUffUKTvUTP173f0bt9Q"
+    },
+    {
+      "added_at": "2025-01-08 15:03:23",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
     },
     {
       "added_at": "2025-02-05 06:14:36",

@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU!
 
-395 songs - 23 hr 4 min
+396 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [emeth](https://open.spotify.com/track/6UrhLDGjSuma4AEW5WrcuV) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [DC Mizey](https://open.spotify.com/artist/1HNN3FOrHLzQSRJLOKmmta) | [emeth](https://open.spotify.com/album/2s7X2UVMD6DwAJVtL3STJM) | 3:07 | 2024-04-18 |  |
 | [emeth](https://open.spotify.com/track/6cbOkryaoMax1aIgeR4MUG) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [DC Mizey](https://open.spotify.com/artist/1HNN3FOrHLzQSRJLOKmmta) | [emeth](https://open.spotify.com/album/4Ws5sJt6zxPLXPcijetsP7) | 3:07 | 2022-08-24 | 2024-04-19 |
 | [Emotional Dot Net](https://open.spotify.com/track/349B63zpDTupsiqll2i00c) | [分散型自律ゴーレム りむる](https://open.spotify.com/artist/3ihSB1uQyrAaIcd3qtN7NG), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [フロクロ](https://open.spotify.com/artist/0w4zoMJx8HIxoPaElFRNUk), [りむる \(CV: をとは\)](https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77) | [REMLtoSHINE](https://open.spotify.com/album/4jYQNAgrnT669iCjwlCQwS) | 3:42 | 2024-03-06 | 2024-04-19 |
+| [Falling Star](https://open.spotify.com/track/1CBbIMgaxcm4dE5Mrn51Ht) | [Bellemule](https://open.spotify.com/artist/3qHNZZTUee8CsSsCzcpTwP), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [Falling Star](https://open.spotify.com/album/6LtazTYEpL1Mb7GikZi1LL) | 3:30 | 2025-02-06 |  |
 | [Fantasia of Salvation](https://open.spotify.com/track/30BZO8w8Il1gQhJP6PhUAn) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [Fantasia of Salvation](https://open.spotify.com/album/7A2UrCNVVZMFXFQnITnz18) | 3:41 | 2022-10-13 | 2024-04-19 |
 | [Favorite Days](https://open.spotify.com/track/15rnfjeK8fMhYHfPfjYPyf) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [kz](https://open.spotify.com/artist/2Ijug7IYBh2r9Ysl9wi7Bm), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz) | [DENONBU BEST ALBUM \-season.0\-](https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast) | 3:36 | 2022-08-24 | 2024-04-19 |
 | [Favorite Days](https://open.spotify.com/track/2fXU48REM2ZMFIB5jSeDvq) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [kz](https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4), [日高零奈\(CV:蔀 祐佳\)](https://open.spotify.com/artist/2T5vYihahEyo8aNKP2JXOz) | [Favorite Days](https://open.spotify.com/album/3zUa4jiqzTUlDULF7ZkbiJ) | 3:36 | 2024-04-18 |  |

@@ -40595,6 +40595,28 @@
     },
     {
       "album": {
+        "name": "MQSTC",
+        "url": "https://open.spotify.com/album/3dsRJuUeblQN1PVexLlhch"
+      },
+      "artists": [
+        {
+          "name": "Gonzi Mathi",
+          "url": "https://open.spotify.com/artist/3qSxmP6xnzG8tuMATCdX0R"
+        },
+        {
+          "name": "Cristian JS",
+          "url": "https://open.spotify.com/artist/3vlE4er6k5ngHKWhEQa04u"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221931,
+      "name": "MQSTC",
+      "url": "https://open.spotify.com/track/1NhoEZEpxHn5bj7TmSWlV5"
+    },
+    {
+      "album": {
         "name": "Muchachita Consentida (Con Buenos Aires) [En Vivo]",
         "url": "https://open.spotify.com/album/3ywq676egfDqQwN1L0Iwzx"
       },

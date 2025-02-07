@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: pikika",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: ROCKY",
   "name": "Seda",
   "tracks": [
     {
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 160982,
       "name": "Alma do Neg\u00f3cio",
       "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
@@ -3037,6 +3037,28 @@
     },
     {
       "album": {
+        "name": "SOZINHA E MAL ACOMPANHADA",
+        "url": "https://open.spotify.com/album/6OmOFBmtboJKXXqTpXCZBi"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        },
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "culpada",
+      "url": "https://open.spotify.com/track/4GvM5yKmQJtKwW8TB2RXxp"
+    },
+    {
+      "album": {
         "name": "Cupid",
         "url": "https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6"
       },
@@ -4716,7 +4738,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 166523,
       "name": "Faya",
       "url": "https://open.spotify.com/track/1xJTPDSB8Q6g7kkYg70V0n"
@@ -5188,7 +5210,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195652,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/0ZFsv8pDmhrRgsWkb0Lb5L"
@@ -6721,6 +6743,28 @@
     },
     {
       "album": {
+        "name": "LEVELZ",
+        "url": "https://open.spotify.com/album/32RrH6Kb6pNxDxAwqGayxp"
+      },
+      "artists": [
+        {
+          "name": "ROCKY",
+          "url": "https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "LIT",
+      "url": "https://open.spotify.com/track/4w6xHix3sJfZAW3n1BJZfu"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0n765dBDjHREmRlNIzQ2uu"
       },
@@ -7204,7 +7248,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 128576,
       "name": "Mais Que Ouro",
       "url": "https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E"
@@ -8434,7 +8478,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 172453,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0zew2jGUrcp12u0wmaWtgQ"
@@ -8606,6 +8650,24 @@
       "duration_ms": 171467,
       "name": "Nuvem",
       "url": "https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ"
+    },
+    {
+      "album": {
+        "name": "Nuvens",
+        "url": "https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6"
+      },
+      "artists": [
+        {
+          "name": "$heka",
+          "url": "https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139556,
+      "name": "Nuvens",
+      "url": "https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1"
     },
     {
       "album": {
@@ -12773,6 +12835,24 @@
     },
     {
       "album": {
+        "name": "Alumiarte",
+        "url": "https://open.spotify.com/album/6GZlLVVD9MLF7QCKBJ1bjN"
+      },
+      "artists": [
+        {
+          "name": "Achero",
+          "url": "https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Turma do golpe",
+      "url": "https://open.spotify.com/track/5FWFHea6utB5l3E8afL6u7"
+    },
+    {
+      "album": {
         "name": "Txiga na Mim",
         "url": "https://open.spotify.com/album/6QWGU2NqO3U1sNDxSlb8xU"
       },
@@ -13392,6 +13472,24 @@
       "duration_ms": 164200,
       "name": "Voei",
       "url": "https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy"
+    },
+    {
+      "album": {
+        "name": "Voicemail",
+        "url": "https://open.spotify.com/album/0v0FA7rLcTQ2svVSbXsxr6"
+      },
+      "artists": [
+        {
+          "name": "Van Sophie",
+          "url": "https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201678,
+      "name": "Voicemail",
+      "url": "https://open.spotify.com/track/2szPKUHK4bXSCBTTKpUyCe"
     },
     {
       "album": {

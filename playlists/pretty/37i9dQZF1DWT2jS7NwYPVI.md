@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Vienna Vienna
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,358 likes - 127 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,424 likes - 127 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14967,
+  "num_followers": 14974,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Kim Cheolsu Story",
-        "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 248433,
-      "name": "Kim Cheolsu Story",
-      "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 265586,
       "name": "To You My Light (feat. LEE RAON)",
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "Kim Cheolsu Story",
+        "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 248433,
+      "name": "Kim Cheolsu Story",
+      "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/54Or2CfKCxw4UK1U0Sbgc8"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 247063,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/23F5idO5E81O3VatxedjQM"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
         "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
       },
@@ -563,22 +547,34 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Workaholic (feat. ASH ISLAND)",
-        "url": "https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu"
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/54Or2CfKCxw4UK1U0Sbgc8"
       },
       "artists": [
         {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
         }
       ],
-      "duration_ms": 193986,
-      "name": "Workaholic (feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
+      "duration_ms": 247063,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/23F5idO5E81O3VatxedjQM"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "Take-off",
+        "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "I'm happy",
+      "url": "https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -599,18 +595,22 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Take-off",
-        "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
+        "name": "Workaholic (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 221000,
-      "name": "I'm happy",
-      "url": "https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM"
+      "duration_ms": 193986,
+      "name": "Workaholic (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP"
-      },
-      "artists": [
-        {
-          "name": "Cho Yong Pil",
-          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "It\u2019ll Be Okay",
-      "url": "https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "H1-KEYnote #2 [Deeper]",
         "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 216160,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP"
+      },
+      "artists": [
+        {
+          "name": "Cho Yong Pil",
+          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
+        }
+      ],
+      "duration_ms": 267093,
+      "name": "It\u2019ll Be Okay",
+      "url": "https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY"
     },
     {
       "added_at": "2024-10-23 08:31:15",

@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 243271,
       "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
@@ -2316,6 +2316,24 @@
       "duration_ms": 215353,
       "name": "Ariyada Hareyada (From \"Sahara\")",
       "url": "https://open.spotify.com/track/18WtQPyJLOF3WDH3AnB6v5"
+    },
+    {
+      "album": {
+        "name": "Kirik",
+        "url": "https://open.spotify.com/album/580uyytYCatDCPBx7e9j0c"
+      },
+      "artists": [
+        {
+          "name": "Daksha Rao",
+          "url": "https://open.spotify.com/artist/20TGFn2xRrksq55yfUcbmA"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191996,
+      "name": "Ariyadha Hrudheya",
+      "url": "https://open.spotify.com/track/0lPWnp1tvgJuNFBF02XT9R"
     },
     {
       "album": {
@@ -12452,7 +12470,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 229833,
       "name": "Hey Kogile",
       "url": "https://open.spotify.com/track/3B5W2cDKCwWPufV1oIUBDl"
@@ -17524,7 +17542,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 248049,
       "name": "Kissik (From \"Pushpa 2 The Rule\") [KANNADA]",
       "url": "https://open.spotify.com/track/70RKnKOie3Rpp5IVtXHO6D"
@@ -24190,7 +24208,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 321272,
       "name": "Neenena Neenena",
       "url": "https://open.spotify.com/track/0MtJa9qX1vl0uNVQNhS58r"
@@ -24338,7 +24356,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 199072,
       "name": "Neeniru Saaku Nanna Jothe (From \"Ellige Payana Yavudo Daari\")",
       "url": "https://open.spotify.com/track/2MHEEKQUJn1TDPtslw31mS"
@@ -25161,6 +25179,28 @@
     },
     {
       "album": {
+        "name": "Kirik",
+        "url": "https://open.spotify.com/album/580uyytYCatDCPBx7e9j0c"
+      },
+      "artists": [
+        {
+          "name": "Manasa Holla",
+          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
+        },
+        {
+          "name": "Ajay Warriar",
+          "url": "https://open.spotify.com/artist/4IuEm3LP2saIOL3MtprHgn"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244832,
+      "name": "Ninna Nodalu",
+      "url": "https://open.spotify.com/track/0OSmrjMp53dgQcXlIcz19i"
+    },
+    {
+      "album": {
         "name": "Ninna Pala Pala Kangala (From \"Love Birds\") - Single",
         "url": "https://open.spotify.com/album/4WogwTnChOn33RGQ2mCjhs"
       },
@@ -25564,6 +25604,28 @@
       "duration_ms": 181104,
       "name": "Nodu Nodu (From \"Baby Missing\")",
       "url": "https://open.spotify.com/track/1q7AWiwBPhWOyYihmf7zCH"
+    },
+    {
+      "album": {
+        "name": "Nodu Nodu (From \"BEGURU Colony\")",
+        "url": "https://open.spotify.com/album/4cs7Z8BqmQiFTU90dR8Ria"
+      },
+      "artists": [
+        {
+          "name": "Abhinandan Kashyap",
+          "url": "https://open.spotify.com/artist/1V6A4aayMYPUr5tLVKmrQA"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181495,
+      "name": "Nodu Nodu (From \"BEGURU Colony\")",
+      "url": "https://open.spotify.com/track/3YEdsTyQyj38Q7kxTg2F0K"
     },
     {
       "album": {
@@ -27794,7 +27856,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 214077,
       "name": "Parichayavade (From \"Bagheera\")",
       "url": "https://open.spotify.com/track/5vjjIo4GyFAIMUChWcUaSl"
@@ -32243,6 +32305,28 @@
     },
     {
       "album": {
+        "name": "Kirik",
+        "url": "https://open.spotify.com/album/580uyytYCatDCPBx7e9j0c"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253788,
+      "name": "Sudu Kempina",
+      "url": "https://open.spotify.com/track/24UMIomnIGWm8jo3iuImlG"
+    },
+    {
+      "album": {
         "name": "Sukha Summane (Naalkane Aayama)",
         "url": "https://open.spotify.com/album/2kyIMwPY4299jeSj1ZzBMD"
       },
@@ -33448,6 +33532,36 @@
       "duration_ms": 212959,
       "name": "Thorede Yeke (From \"H/34 Pallavi Talkies\")",
       "url": "https://open.spotify.com/track/7hUy5x6C40CsTe7sNkl7N2"
+    },
+    {
+      "album": {
+        "name": "Thottilu Katdoulu (From \"Talvar\")",
+        "url": "https://open.spotify.com/album/6urYHUUiXuVf7xJ4ijHOO9"
+      },
+      "artists": [
+        {
+          "name": "K B Praveen",
+          "url": "https://open.spotify.com/artist/5l9ab0LqM6TZXAxqUXQgur"
+        },
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Raghava Murali",
+          "url": "https://open.spotify.com/artist/5adbsu3Mux0FPawt8LhXe1"
+        },
+        {
+          "name": "Deepak Hebbar",
+          "url": "https://open.spotify.com/artist/6f6xFxZnHunrPnlLgDDBXz"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195374,
+      "name": "Thottilu Katdoulu (From \"Talvar\")",
+      "url": "https://open.spotify.com/track/5CNGuQV7AZMXob2uV68g2T"
     },
     {
       "album": {

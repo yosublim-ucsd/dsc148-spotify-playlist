@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- UAE.
 
-1,723 songs - 4 day 1 hr 29 min
+1,724 songs - 4 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-25 | 2022-06-07 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-06 | 2022-07-17 |
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 | 2023-01-03 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 |  |
 | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Choir](https://open.spotify.com/artist/1EQLSftgrQ3WMEofBfhlIZ) | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/album/0n0KkxmGPAKTV8udObls8m) | 2:14 | 2023-12-09 | 2024-01-09 |
 | [Abyss](https://open.spotify.com/track/40BomFCBuJok3OjxM9oG7e) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Abyss](https://open.spotify.com/album/0vyG4FyBIHURVJjQT0RDvG) | 2:35 | 2023-06-27 | 2024-11-21 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-09 | 2024-03-20 |
@@ -1626,7 +1627,7 @@
 | [Wait 4 Me](https://open.spotify.com/track/6GwQLeCFwsVYcEO8PTWnPX) | [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR), [Gianni Blu](https://open.spotify.com/artist/7xpdGx95yjp1d4c6dViRSx), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Wait 4 Me](https://open.spotify.com/album/1FL5MbYuGUFDJi3svXLkV0) | 3:34 | 2024-06-19 | 2024-06-21 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-04-06 | 2022-06-19 |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-30 | 2022-09-18 |
-| [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 5:08 | 2025-02-01 |  |
+| [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 5:08 | 2025-02-01 | 2025-02-07 |
 | [Walk Em Down \(Don't Kill Civilians\) \[with 21 Savage & feat\. Mustafa\]](https://open.spotify.com/track/639ue9j47l2tnsXBdkKN0T) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 5:10 | 2022-12-04 | 2022-12-08 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/1cA4wEmLkKlttS6N89LbJh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:08 | 2021-12-12 | 2021-12-19 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/16ou1Elgll2ElsdnU4LNzn) | 3:09 | 2021-12-05 | 2021-12-12 |

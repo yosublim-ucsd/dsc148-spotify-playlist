@@ -2,9 +2,9 @@
 
 ### [RADAR: Podcasters 2025](https://open.spotify.com/playlist/37i9dQZF1DX7ioqEUKqxAm)
 
-> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 （Cover: 上坂あゆ美の「私より先に丁寧に暮らすな」）
+> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 （Cover: ラジオ知らねえ単語）
 
-31 songs - 23 hr 27 min
+32 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [日航機墜落事故。前編。1985年8月12日発生。乗客乗員524人を乗せた日航123便が群馬県御巣鷹山に墜落した日本航空史上最悪の事故。](https://open.spotify.com/episode/2pbhRRKzGyw8Gv05gSY8dE) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/show/1LClGyWoHM39AW1CEqeLHT) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/album/1LClGyWoHM39AW1CEqeLHT) | 28:51 | 2022-06-28 | 2025-01-10 |
 | [痛いおじさんズ誕生！](https://open.spotify.com/episode/5e9QAhlbweqhVRVLI89BOp) | [痛いおじさんズPodcast（with PDRさん & SHO）](https://open.spotify.com/show/24JOT4LUuffRJKqjrVBkim) | [痛いおじさんズPodcast（with PDRさん & SHO）](https://open.spotify.com/album/24JOT4LUuffRJKqjrVBkim) | 1:09:25 | 2022-06-28 | 2025-01-10 |
 | [第三十一回 坊主で花が好きな男の人](https://open.spotify.com/episode/4FKmdaZ7PcF1txpEgwbJs9) | [ラジオ知らねえ単語](https://open.spotify.com/show/4GtJrl7lNvIXAVXyANrpaK) | [ラジオ知らねえ単語](https://open.spotify.com/album/4GtJrl7lNvIXAVXyANrpaK) | 54:08 | 2025-01-09 |  |
-| [第二十七回 ラジオが世界を救うところ（公開収録）](https://open.spotify.com/episode/4zIvmOeWUgmfqGUutY9fSd) | [ラジオ知らねえ単語](https://open.spotify.com/show/4GtJrl7lNvIXAVXyANrpaK) | [ラジオ知らねえ単語](https://open.spotify.com/album/4GtJrl7lNvIXAVXyANrpaK) | 58:45 | 2025-01-17 |  |
+| [第三十五回 Documentary of 知らねえ単語](https://open.spotify.com/episode/7sXQ5D6NH9Y9oyAuzBRQa9) | [ラジオ知らねえ単語](https://open.spotify.com/show/4GtJrl7lNvIXAVXyANrpaK) | [ラジオ知らねえ単語](https://open.spotify.com/album/4GtJrl7lNvIXAVXyANrpaK) | 50:31 | 2025-02-06 |  |
+| [第二十七回 ラジオが世界を救うところ（公開収録）](https://open.spotify.com/episode/4zIvmOeWUgmfqGUutY9fSd) | [ラジオ知らねえ単語](https://open.spotify.com/show/4GtJrl7lNvIXAVXyANrpaK) | [ラジオ知らねえ単語](https://open.spotify.com/album/4GtJrl7lNvIXAVXyANrpaK) | 58:45 | 2025-01-17 | 2025-02-07 |
 | [第二十四回 汗だく地面師の詐欺抜き](https://open.spotify.com/episode/64ExbZN90dhlqZrRq9ZU17) | [ラジオ知らねえ単語](https://open.spotify.com/show/4GtJrl7lNvIXAVXyANrpaK) | [ラジオ知らねえ単語](https://open.spotify.com/album/4GtJrl7lNvIXAVXyANrpaK) | 43:22 | 2025-01-09 |  |
 | [第六回 終電の男女エロすぎる！](https://open.spotify.com/episode/3yYN9xqzW2ERi9fGgOhc9i) | [ラジオ知らねえ単語](https://open.spotify.com/show/4GtJrl7lNvIXAVXyANrpaK) | [ラジオ知らねえ単語](https://open.spotify.com/album/4GtJrl7lNvIXAVXyANrpaK) | 50:13 | 2025-01-09 |  |
 

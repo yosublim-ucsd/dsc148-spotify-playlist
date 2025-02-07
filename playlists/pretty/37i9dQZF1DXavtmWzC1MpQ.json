@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 145258,
+  "num_followers": 145313,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-12-03 10:33:37",
       "album": {
+        "name": "3D Audio Textures of Birds & Water",
+        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Close to the River, Birds Watching",
+      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
+    },
+    {
+      "added_at": "2024-12-03 10:33:37",
+      "album": {
         "name": "Rain Healing",
         "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 153488,
       "name": "Still the River Flows",
       "url": "https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P"
-    },
-    {
-      "added_at": "2024-12-03 10:33:37",
-      "album": {
-        "name": "3D Audio Textures of Birds & Water",
-        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Close to the River, Birds Watching",
-      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
     },
     {
       "added_at": "2024-12-03 10:33:37",

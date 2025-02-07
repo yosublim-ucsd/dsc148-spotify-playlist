@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62647,
+  "num_followers": 62655,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6DNJwAAAADIITwVGHYHVQhGF9nrIw17",
+  "snapshot_id": "Z6RSqgAAAADCNu1bzfk68/1WD3HoP3Yz",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -201,6 +201,54 @@
       "url": "https://open.spotify.com/track/4S16aV9MX96cCXIsxOqONt"
     },
     {
+      "added_at": "2025-02-06 06:11:54",
+      "album": {
+        "name": "Kirik",
+        "url": "https://open.spotify.com/album/580uyytYCatDCPBx7e9j0c"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        }
+      ],
+      "duration_ms": 253788,
+      "name": "Sudu Kempina",
+      "url": "https://open.spotify.com/track/24UMIomnIGWm8jo3iuImlG"
+    },
+    {
+      "added_at": "2025-02-06 06:11:54",
+      "album": {
+        "name": "Thottilu Katdoulu (From \"Talvar\")",
+        "url": "https://open.spotify.com/album/6urYHUUiXuVf7xJ4ijHOO9"
+      },
+      "artists": [
+        {
+          "name": "K B Praveen",
+          "url": "https://open.spotify.com/artist/5l9ab0LqM6TZXAxqUXQgur"
+        },
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Raghava Murali",
+          "url": "https://open.spotify.com/artist/5adbsu3Mux0FPawt8LhXe1"
+        },
+        {
+          "name": "Deepak Hebbar",
+          "url": "https://open.spotify.com/artist/6f6xFxZnHunrPnlLgDDBXz"
+        }
+      ],
+      "duration_ms": 195374,
+      "name": "Thottilu Katdoulu (From \"Talvar\")",
+      "url": "https://open.spotify.com/track/5CNGuQV7AZMXob2uV68g2T"
+    },
+    {
       "added_at": "2025-01-31 09:27:52",
       "album": {
         "name": "Yarayya Ninnoru (From \"Talvar\")",
@@ -225,24 +273,24 @@
       "url": "https://open.spotify.com/track/3qeigYemQavRmBGOWrEamo"
     },
     {
-      "added_at": "2024-11-07 07:34:58",
+      "added_at": "2025-02-06 06:11:54",
       "album": {
-        "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
-        "url": "https://open.spotify.com/album/3sey98HTUIXofvpCHuENqH"
+        "name": "Nodu Nodu (From \"BEGURU Colony\")",
+        "url": "https://open.spotify.com/album/4cs7Z8BqmQiFTU90dR8Ria"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Abhinandan Kashyap",
+          "url": "https://open.spotify.com/artist/1V6A4aayMYPUr5tLVKmrQA"
         },
         {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
         }
       ],
-      "duration_ms": 243271,
-      "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
-      "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
+      "duration_ms": 181495,
+      "name": "Nodu Nodu (From \"BEGURU Colony\")",
+      "url": "https://open.spotify.com/track/3YEdsTyQyj38Q7kxTg2F0K"
     },
     {
       "added_at": "2025-02-03 06:40:08",
@@ -279,6 +327,26 @@
       "duration_ms": 215011,
       "name": "Jai Bheem (From \"BEGURU Colony\")",
       "url": "https://open.spotify.com/track/2EEWcKTFITLF9cy8ugSwpK"
+    },
+    {
+      "added_at": "2025-02-06 06:11:54",
+      "album": {
+        "name": "Kirik",
+        "url": "https://open.spotify.com/album/580uyytYCatDCPBx7e9j0c"
+      },
+      "artists": [
+        {
+          "name": "Manasa Holla",
+          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
+        },
+        {
+          "name": "Ajay Warriar",
+          "url": "https://open.spotify.com/artist/4IuEm3LP2saIOL3MtprHgn"
+        }
+      ],
+      "duration_ms": 244832,
+      "name": "Ninna Nodalu",
+      "url": "https://open.spotify.com/track/0OSmrjMp53dgQcXlIcz19i"
     },
     {
       "added_at": "2025-01-24 10:00:22",
@@ -331,6 +399,22 @@
       "duration_ms": 229698,
       "name": "The Father Song (From \"Rudhra Garuda Purana\")",
       "url": "https://open.spotify.com/track/4yp1CW9O6lxtU05uDSDMY8"
+    },
+    {
+      "added_at": "2025-02-06 06:11:54",
+      "album": {
+        "name": "Kirik",
+        "url": "https://open.spotify.com/album/580uyytYCatDCPBx7e9j0c"
+      },
+      "artists": [
+        {
+          "name": "Daksha Rao",
+          "url": "https://open.spotify.com/artist/20TGFn2xRrksq55yfUcbmA"
+        }
+      ],
+      "duration_ms": 191996,
+      "name": "Ariyadha Hrudheya",
+      "url": "https://open.spotify.com/track/0lPWnp1tvgJuNFBF02XT9R"
     },
     {
       "added_at": "2025-01-27 12:11:02",
@@ -1489,30 +1573,6 @@
       "url": "https://open.spotify.com/track/12J3j4NPFFLrdug8tdzOMc"
     },
     {
-      "added_at": "2024-10-25 07:40:09",
-      "album": {
-        "name": "Parichayavade (From \"Bagheera\")",
-        "url": "https://open.spotify.com/album/2oJ5SZJRpYH5BlKbbeJGJ7"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Pramod Maravante",
-          "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
-        },
-        {
-          "name": "Ritesh G Rao",
-          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
-        }
-      ],
-      "duration_ms": 214077,
-      "name": "Parichayavade (From \"Bagheera\")",
-      "url": "https://open.spotify.com/track/5vjjIo4GyFAIMUChWcUaSl"
-    },
-    {
       "added_at": "2024-12-12 07:09:26",
       "album": {
         "name": "Rudhra Garuda Purana - Title Track (From \"Rudhra Garuda Purana\")",
@@ -1717,82 +1777,6 @@
       "url": "https://open.spotify.com/track/1KZSnDdPhkh1oXe5Vog74i"
     },
     {
-      "added_at": "2024-10-21 05:20:53",
-      "album": {
-        "name": "Neeniru Saaku Nanna Jothe (From \"Ellige Payana Yavudo Daari\")",
-        "url": "https://open.spotify.com/album/2rIfdiqpEHYWNrTwVo605o"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Srilakshmi Belmannu",
-          "url": "https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya"
-        },
-        {
-          "name": "Pranav Rao",
-          "url": "https://open.spotify.com/artist/0MNSM3C5suE6OAkv9cuylb"
-        }
-      ],
-      "duration_ms": 199072,
-      "name": "Neeniru Saaku Nanna Jothe (From \"Ellige Payana Yavudo Daari\")",
-      "url": "https://open.spotify.com/track/2MHEEKQUJn1TDPtslw31mS"
-    },
-    {
-      "added_at": "2024-11-26 15:46:48",
-      "album": {
-        "name": "Amaran (Kannada)",
-        "url": "https://open.spotify.com/album/4dGeBs5BWlkbjsv43eiSoY"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Bharath Sajikumar",
-          "url": "https://open.spotify.com/artist/1p8cN7ow4EE4F0vNE1gz6i"
-        },
-        {
-          "name": "Sruthy Sivadas",
-          "url": "https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 229833,
-      "name": "Hey Kogile",
-      "url": "https://open.spotify.com/track/3B5W2cDKCwWPufV1oIUBDl"
-    },
-    {
-      "added_at": "2024-11-25 06:03:01",
-      "album": {
-        "name": "Kissik (From \"Pushpa 2 The Rule\") [KANNADA]",
-        "url": "https://open.spotify.com/album/1vGvICJFYNstO6vH33qD1K"
-      },
-      "artists": [
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 248049,
-      "name": "Kissik (From \"Pushpa 2 The Rule\") [KANNADA]",
-      "url": "https://open.spotify.com/track/70RKnKOie3Rpp5IVtXHO6D"
-    },
-    {
       "added_at": "2024-12-16 07:40:47",
       "album": {
         "name": "Dasarahalli",
@@ -1811,30 +1795,6 @@
       "duration_ms": 301439,
       "name": "Maaya Jinke",
       "url": "https://open.spotify.com/track/04tijw4Lw9C1MynKmSPH6R"
-    },
-    {
-      "added_at": "2024-11-21 13:10:07",
-      "album": {
-        "name": "Prabhutva (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2D94wUyd5cpbnjGfHemzV3"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Hari Santhosh",
-          "url": "https://open.spotify.com/artist/69H4ADpf2lCByjWZVmkxLP"
-        },
-        {
-          "name": "Supriyaa Ram",
-          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
-        }
-      ],
-      "duration_ms": 321272,
-      "name": "Neenena Neenena",
-      "url": "https://open.spotify.com/track/0MtJa9qX1vl0uNVQNhS58r"
     }
   ],
   "unique_name": "Latest Kannada",

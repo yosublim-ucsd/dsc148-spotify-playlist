@@ -832,10 +832,28 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 226470,
       "name": "Hold Back",
       "url": "https://open.spotify.com/track/7vsyU7jX2M53yOJtCIYSKh"
+    },
+    {
+      "album": {
+        "name": "Run Where The Light Calls",
+        "url": "https://open.spotify.com/album/6RDBPh2kbTqWoGCKckNPHX"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "Hold Back",
+      "url": "https://open.spotify.com/track/1d0Uq6maOfblLvOZdrgrwT"
     },
     {
       "album": {

@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Joy, Joy!",
+        "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181503,
+      "name": "Joy, Joy!",
+      "url": "https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb"
+    },
+    {
+      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },

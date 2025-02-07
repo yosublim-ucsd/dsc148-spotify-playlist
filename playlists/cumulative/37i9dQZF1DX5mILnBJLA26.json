@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG?si=zZvVeVO1TGaayJmVsumNqA\">Costa Titch</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=sGOdPAGLR2azfTGUc7pHWg\">DJ Maphorisa</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -15286,7 +15286,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 445731,
       "name": "JD 27 (feat. Al Xapo)",
       "url": "https://open.spotify.com/track/66dMwdLR8TGxBTHMs8lDNL"
@@ -19110,6 +19110,40 @@
       "duration_ms": 285546,
       "name": "Mamazala",
       "url": "https://open.spotify.com/track/25X6CfWnRVGNsrWPm4FbB0"
+    },
+    {
+      "album": {
+        "name": "MAMAZALA",
+        "url": "https://open.spotify.com/album/50joHtnEYPDAo3ps6QghWi"
+      },
+      "artists": [
+        {
+          "name": "DJ Stoks",
+          "url": "https://open.spotify.com/artist/7bodPHNFw5XQ3UVfqP7cUP"
+        },
+        {
+          "name": "Mel Muziq",
+          "url": "https://open.spotify.com/artist/5cVrWzy6XZjy0IkfJ98cWA"
+        },
+        {
+          "name": "Happy Jazzman",
+          "url": "https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C"
+        },
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "Faith Strings",
+          "url": "https://open.spotify.com/artist/39ejxavrkdkHXj6yCGJugx"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490272,
+      "name": "MAMAZALA",
+      "url": "https://open.spotify.com/track/0SpQ1Gl4olXjCpnMgjlzfc"
     },
     {
       "album": {
@@ -35830,7 +35864,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 365597,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/4O2f1IRrp00wwgL7qOfdKG"
@@ -36628,6 +36662,44 @@
       "duration_ms": 310132,
       "name": "Yeyee 2.0 (feat. Mr JazziQ)",
       "url": "https://open.spotify.com/track/337QY4adNvUNlGuMAXnN5L"
+    },
+    {
+      "album": {
+        "name": "YINI NGATHI",
+        "url": "https://open.spotify.com/album/5bDaZEAuk8AbYrCzutqXEI"
+      },
+      "artists": [
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "Kabelo Sings",
+          "url": "https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn"
+        },
+        {
+          "name": "Mbuxx",
+          "url": "https://open.spotify.com/artist/3JQMhRMQlzHTD5RWpFROkk"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392154,
+      "name": "Yini Ngathi (feat. Scotts Maphuma, CowBoii, Kabelo Sings & Mbuxx)",
+      "url": "https://open.spotify.com/track/0hAY7nTb9jHvj4iXbCea9n"
     },
     {
       "album": {

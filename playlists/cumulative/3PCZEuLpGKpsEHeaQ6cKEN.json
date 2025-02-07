@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Loud Luxury",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Claptone, Chicane",
   "name": "Armada Today",
   "tracks": [
     {
@@ -4682,6 +4682,28 @@
       "duration_ms": 208124,
       "name": "Deepest Blue",
       "url": "https://open.spotify.com/track/53iLXQnxe3YxWPztZdUPx9"
+    },
+    {
+      "album": {
+        "name": "Deepest Blue",
+        "url": "https://open.spotify.com/album/1ZrvVVFctwgmxZLr4am9LM"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        },
+        {
+          "name": "Deepest Blue",
+          "url": "https://open.spotify.com/artist/4ncjEFfj7Zd2LPzd9LOVsY"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160031,
+      "name": "Deepest Blue",
+      "url": "https://open.spotify.com/track/6RjVYitSJ7k37rIICRQCL7"
     },
     {
       "album": {
@@ -14963,6 +14985,32 @@
     },
     {
       "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/5QXFNxxmBVJlHRbkBRh7B9"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Khenya",
+          "url": "https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8"
+        },
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/7kOiqab0tLQ9xYlFNAeP3n"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216589,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/2V77cJ2FlFluiW0ORaLpbk"
+    },
+    {
+      "album": {
         "name": "LUV",
         "url": "https://open.spotify.com/album/35EVYlPHG90tTTq4tWf18U"
       },
@@ -18507,6 +18555,28 @@
     },
     {
       "album": {
+        "name": "Positions (VIP Mix)",
+        "url": "https://open.spotify.com/album/2QUtRyW4EcHBoijGs4lEdy"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "whoismoli",
+          "url": "https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191724,
+      "name": "Positions - VIP Mix",
+      "url": "https://open.spotify.com/track/2wffIX2QITCYspargwD8ew"
+    },
+    {
+      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -21242,7 +21312,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 168264,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4kisbBB7d1dBopBfL44yRk"

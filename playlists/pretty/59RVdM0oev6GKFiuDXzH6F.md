@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,256 likes - 154 songs - 8 hr 18 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,256 likes - 155 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,5 +162,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 152 | [Parachute](https://open.spotify.com/track/5Wwh8AAnLV1IDTqzK4acm2) | [NATHAN.C](https://open.spotify.com/artist/3LrmSJZYs1azOa66PzwJco) | [Parachute](https://open.spotify.com/album/2B56AFu47qri8KBhgNbUpz) | 2:27 |
 | 153 | [Vibin'](https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Vibin’](https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7) | 2:47 |
 | 154 | [Sensation](https://open.spotify.com/track/7lyvmLVL8GFZHOkaCxMVI2) | [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol), [Snrs](https://open.spotify.com/artist/61mK2JbF5F6tqgZOJMWloW) | [Sensation](https://open.spotify.com/album/11gB9AGVS9AKsaQ5SMVSm2) | 2:21 |
+| 155 | [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 |
 
-Snapshot ID: `AAAP5kpHSEnIyjke6cvsJs9znXeV1ran`
+Snapshot ID: `AAAP5+AG4QKY7T+v1+lQmlXl92OeFxgH`

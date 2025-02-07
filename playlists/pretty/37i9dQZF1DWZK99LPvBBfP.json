@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 304816,
+  "num_followers": 304973,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -86,6 +86,10 @@
         {
           "name": "Tracey K",
           "url": "https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
         }
       ],
       "duration_ms": 157040,
@@ -563,22 +567,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Big Fun",
-      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Trance Classics, Vol. 01",
         "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
       },
@@ -595,6 +583,22 @@
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -815,22 +819,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Donna Summer",
-        "url": "https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 351493,
-      "name": "State of Independence",
-      "url": "https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Big Love (Eat Me Edit)",
         "url": "https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa"
       },
@@ -843,6 +831,22 @@
       "duration_ms": 241053,
       "name": "Big Love - Eat Me Edit",
       "url": "https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Donna Summer",
+        "url": "https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 351493,
+      "name": "State of Independence",
+      "url": "https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1019,22 +1023,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Higher Than the Sun - Higher Than the Orb Mix",
-      "url": "https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Navigator. 15th Anniversary Edition",
         "url": "https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp"
       },
@@ -1047,6 +1035,22 @@
       "duration_ms": 302506,
       "name": "Adi\u00f3s ayer",
       "url": "https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Higher Than the Sun - Higher Than the Orb Mix",
+      "url": "https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1139,18 +1143,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Defected Presents House Masters - Junior Jack",
-        "url": "https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw"
+        "name": "So Many Colours",
+        "url": "https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8"
       },
       "artists": [
         {
-          "name": "Junior Jack",
-          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+          "name": "Jos\u00e9 Padilla",
+          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
+        },
+        {
+          "name": "Lydmor",
+          "url": "https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR"
         }
       ],
-      "duration_ms": 433034,
-      "name": "E Samba - Club Mix",
-      "url": "https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV"
+      "duration_ms": 364225,
+      "name": "Maybe The Sunset",
+      "url": "https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1175,6 +1183,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Defected Presents House Masters - Junior Jack",
+        "url": "https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        }
+      ],
+      "duration_ms": 433034,
+      "name": "E Samba - Club Mix",
+      "url": "https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "The Apple",
         "url": "https://open.spotify.com/album/0lMQ3gr0vA1nMXwy7L6FUb"
       },
@@ -1187,26 +1211,6 @@
       "duration_ms": 432772,
       "name": "Barefoot in the Head",
       "url": "https://open.spotify.com/track/3jIt5p1qi6mGpmGbiXVc0K"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "So Many Colours",
-        "url": "https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Padilla",
-          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
-        },
-        {
-          "name": "Lydmor",
-          "url": "https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR"
-        }
-      ],
-      "duration_ms": 364225,
-      "name": "Maybe The Sunset",
-      "url": "https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1375,18 +1379,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Experience: Expanded (Remastered)",
-        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU"
       },
       "artists": [
         {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
         }
       ],
-      "duration_ms": 298533,
-      "name": "Out Of Space (Remastered)",
-      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB"
     }
   ],
   "unique_name": "Ibiza Classics",

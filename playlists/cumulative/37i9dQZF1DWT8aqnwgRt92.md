@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,799 songs - 4 day 16 hr 1 min
+1,800 songs - 4 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,8 @@
 | [I’ll Be There](https://open.spotify.com/track/10woBXtt6mnTQPv8BDebtz) | [LINKL PLANET](https://open.spotify.com/artist/6sCkG9HLpaMHNATMZhHseS) | [I’ll Be There](https://open.spotify.com/album/0cmaPrUZmvXC9VoARtNIB5) | 3:57 | 2023-08-24 | 2023-09-06 |
 | [I’m a Voice Actor \- Big Band version③](https://open.spotify.com/track/23iZwGBqHlO9ybMb4VD4jD) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [HATANO WATARU THE BEST](https://open.spotify.com/album/4lXNjJoVfpNhIjG2TDRK0W) | 4:42 | 2023-03-14 | 2023-04-09 |
 | [IとU](https://open.spotify.com/track/2IuFm6VisPRCcBWAf0YpQi) | [杉本琢弥](https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq) | [IとU](https://open.spotify.com/album/7GSiUjFGKfe4B1m8U6D6MP) | 3:05 | 2024-10-03 | 2024-10-23 |
-| [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Anime ver.\)](https://open.spotify.com/track/6RtBwg8n4d3a8HRQMibQ9b) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj) | [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Anime ver.\)](https://open.spotify.com/album/5uqmbPuWKENxyB9vL8VSRq) | 1:32 | 2024-12-03 |  |
+| [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Anime ver.\)](https://open.spotify.com/track/6RtBwg8n4d3a8HRQMibQ9b) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj) | [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Anime ver.\)](https://open.spotify.com/album/5uqmbPuWKENxyB9vL8VSRq) | 1:32 | 2024-12-03 | 2025-02-07 |
+| [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Full Length\)](https://open.spotify.com/track/1aC2oUiR4Ans2kQp84zvaO) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj) | [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Full Length\)](https://open.spotify.com/album/2Jkjeky9Wczh29B2ufDqFR) | 3:01 | 2025-02-06 |  |
 | [Jekyll & Hyde](https://open.spotify.com/track/1xqLx7C2oORUpuadeubRc0) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [Jekyll & Hyde](https://open.spotify.com/album/01lFH8SjZi0IFP7qwaanut) | 4:18 | 2023-10-03 | 2024-01-10 |
 | [JOY!!](https://open.spotify.com/track/5jc5lzeYJHXX9QEzh3IHza) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [JOY!!](https://open.spotify.com/album/3t79dOxTADtvd5le5TmuDq) | 3:21 | 2025-01-07 | 2025-01-17 |
 | [Joyful](https://open.spotify.com/track/2zRLLFvhcAlfqPTt5dzd2Y) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Joyful](https://open.spotify.com/album/1aB0YGK9wQktijd3N9W84d) | 3:36 | 2023-08-29 | 2023-10-04 |

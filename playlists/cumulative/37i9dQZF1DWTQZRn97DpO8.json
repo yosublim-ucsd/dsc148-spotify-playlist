@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "POLARO\u00cfD",
+        "url": "https://open.spotify.com/album/6pZrD7V7RKrJ8PajlORxd3"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "D\u00e9testable",
+      "url": "https://open.spotify.com/track/4TllmCuBr8JH9hJ2e8UCMI"
+    },
+    {
+      "album": {
         "name": "E.M.I",
         "url": "https://open.spotify.com/album/0Pq1bF9Gi48aSXrsrpp2fu"
       },
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195000,
       "name": "Keep me high",
       "url": "https://open.spotify.com/track/2l6UU4Z7INTsnwOHmfGroK"
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 171063,
       "name": "Pour nous",
       "url": "https://open.spotify.com/track/2n8kNkbHsrA0KnrN2lIPIF"
@@ -4062,7 +4080,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 178000,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/3ZQ2XyZDDcE8zyaQQTiw6t"
@@ -4323,6 +4341,28 @@
     },
     {
       "album": {
+        "name": "Si tu savais - Version piano voix",
+        "url": "https://open.spotify.com/album/2Ou5MtDhBXmxXEEnkdmOGV"
+      },
+      "artists": [
+        {
+          "name": "Priscillia",
+          "url": "https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK"
+        },
+        {
+          "name": "Dawatcha",
+          "url": "https://open.spotify.com/artist/5oMhDTLFrufyB6PWSaoSoy"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236668,
+      "name": "Si tu savais - Version piano voix",
+      "url": "https://open.spotify.com/track/26m32kQmTN4Tn8PNMnCuPK"
+    },
+    {
+      "album": {
         "name": "P\u0152\u0308SI",
         "url": "https://open.spotify.com/album/23JAJOxVVKc64Y3x4wHOJ0"
       },
@@ -4414,6 +4454,28 @@
       "duration_ms": 254827,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/48A49w7J6TefeUX69H737j"
+    },
+    {
+      "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/5Co4tohQEUR3RlEiH91p7l"
+      },
+      "artists": [
+        {
+          "name": "M.Kane",
+          "url": "https://open.spotify.com/artist/6weRJupV00rZsbcJYLuM8j"
+        },
+        {
+          "name": "Haristone",
+          "url": "https://open.spotify.com/artist/4A1BIRTQQ1yNPwcg57Ubq7"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/0133Yi3y05GTrufmdJnyWV"
     },
     {
       "album": {
@@ -4584,7 +4646,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 165333,
       "name": "TOI QUI VOULAIS PARTIR",
       "url": "https://open.spotify.com/track/43Q1Em5TgITjsqHuuhJq4v"

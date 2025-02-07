@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, punk e indie dall'Italia \ud83c\udfb8 Messa in cover",
+  "description": "Rock e punk dall'Italia \ud83c\udfb8 Gazebo Penguins in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -5987,6 +5987,24 @@
     },
     {
       "album": {
+        "name": "Dovresti ascoltare i Diaframma",
+        "url": "https://open.spotify.com/album/7zL2SO0OuqOfSVK4RT0wvz"
+      },
+      "artists": [
+        {
+          "name": "RISORSE UMANE",
+          "url": "https://open.spotify.com/artist/1JhJalt0DWUC0wmhjAjEP9"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209571,
+      "name": "Dovresti ascoltare i Diaframma",
+      "url": "https://open.spotify.com/track/7DKLs465Lf8JdvhNLbSbpL"
+    },
+    {
+      "album": {
         "name": "DPCM",
         "url": "https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX"
       },
@@ -7026,7 +7044,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 172731,
       "name": "Far tremare il corpo",
       "url": "https://open.spotify.com/track/6LKLQQWwZgUGEcfhm6qMZ9"
@@ -7412,7 +7430,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197843,
       "name": "Filistei",
       "url": "https://open.spotify.com/track/7Dm5Rw7I2UTqVpLVVsWQLa"
@@ -8972,6 +8990,24 @@
       "duration_ms": 323920,
       "name": "Guerra & Pace",
       "url": "https://open.spotify.com/track/3gROXroNiBnk0UNKt5VwpR"
+    },
+    {
+      "album": {
+        "name": "Guidance",
+        "url": "https://open.spotify.com/album/2R4jRdpAvWWU3lqY4FVYZF"
+      },
+      "artists": [
+        {
+          "name": "Orbitlane",
+          "url": "https://open.spotify.com/artist/2ELoWuX4ZDu5hTHr6TsGAo"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Guidance",
+      "url": "https://open.spotify.com/track/55YkZKBKvcUl7N5XuAfIJB"
     },
     {
       "album": {
@@ -11644,7 +11680,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 114619,
       "name": "La sindrome del coglione",
       "url": "https://open.spotify.com/track/5fBGmnIsKhMAIn9F2byAsj"
@@ -11728,6 +11764,24 @@
       "duration_ms": 219838,
       "name": "La Terra Santa (feat. Mauro Ermanno Giovanardi)",
       "url": "https://open.spotify.com/track/3I0Wpa13Dtcl434VFIA2Pb"
+    },
+    {
+      "album": {
+        "name": "La Timidezza Di Una Quercia",
+        "url": "https://open.spotify.com/album/0zIavjoRaTWhXUla6j3mPz"
+      },
+      "artists": [
+        {
+          "name": "Leita",
+          "url": "https://open.spotify.com/artist/5uZSi8TsRkUiPOcBZyPXZO"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "La Timidezza Di Una Quercia",
+      "url": "https://open.spotify.com/track/2RMZHXcs0oLUkj5z8YVwhW"
     },
     {
       "album": {
@@ -14420,7 +14474,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 221078,
       "name": "Nettuno",
       "url": "https://open.spotify.com/track/5jyUCB3P8Y1u2llTI08vf8"
@@ -15901,6 +15955,24 @@
     },
     {
       "album": {
+        "name": "K for Key",
+        "url": "https://open.spotify.com/album/0qXFTcccbDaYt52bSnlRMf"
+      },
+      "artists": [
+        {
+          "name": "Korobu",
+          "url": "https://open.spotify.com/artist/4HE8DeV0LzecMQthc6ZPRA"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Park",
+      "url": "https://open.spotify.com/track/0OhXb4TAocAWYio3TmKUt6"
+    },
+    {
+      "album": {
         "name": "Parlami",
         "url": "https://open.spotify.com/album/5yLLr1dLk439zVforZ4zZw"
       },
@@ -17336,7 +17408,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 192264,
       "name": "PRIMAVERA",
       "url": "https://open.spotify.com/track/43oTFvtvlDw4pLWkYEzXgO"
@@ -18910,7 +18982,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 226192,
       "name": "Sconosciuti",
       "url": "https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf"
@@ -20688,7 +20760,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 256165,
       "name": "Sudime",
       "url": "https://open.spotify.com/track/5nskNdrnU9wlZqJNdpsWMU"
@@ -22434,7 +22506,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 192500,
       "name": "Tutto quanto",
       "url": "https://open.spotify.com/track/2PR6eg0EDpMXtzb07M1NFu"

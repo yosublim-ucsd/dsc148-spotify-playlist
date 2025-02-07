@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die Playlist zur Wasserpfeife. Cover: Rina",
+  "description": "Die Playlist zur Wasserpfeife. Cover: Azet",
   "name": "Shisha Club",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 161250,
       "name": "AMA DOREN",
       "url": "https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY"
@@ -2507,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/7IkTeHqQeySfyHfTzhnl4H"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150868,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/7KQxnlQIdMNGMr9duDfge8"
+    },
+    {
+      "album": {
         "name": "Moja Draga",
         "url": "https://open.spotify.com/album/2znGjCKcvMmvIdMYTvYwvo"
       },
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 179146,
       "name": "OOPS (I did it again)",
       "url": "https://open.spotify.com/track/7sAUt67MZEhoJncmRDMY2S"
@@ -3211,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "So Wundersch\u00f6n",
+        "url": "https://open.spotify.com/album/3pskKADoAvTSBhOnJAi9E0"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159378,
+      "name": "So Wundersch\u00f6n",
+      "url": "https://open.spotify.com/track/56GwaChk9RMz5cLgErxr2f"
+    },
+    {
+      "album": {
         "name": "SOMMERNACHT",
         "url": "https://open.spotify.com/album/5Bljbe6wcNSaHlZnlPv70h"
       },
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 146465,
       "name": "TMAX",
       "url": "https://open.spotify.com/track/5TcDi7siTwegIfZYR4VekF"
@@ -3610,6 +3646,28 @@
       "duration_ms": 145560,
       "name": "VER KA\u00c7",
       "url": "https://open.spotify.com/track/4PrHQoEWfiqbwYfvpki3xf"
+    },
+    {
+      "album": {
+        "name": "viertel nach acht",
+        "url": "https://open.spotify.com/album/4X0iEzLkRkVcAa4oAehzdY"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        },
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121806,
+      "name": "viertel nach acht",
+      "url": "https://open.spotify.com/track/5Ho0aN8fPwv7OSRo7PQUO4"
     },
     {
       "album": {

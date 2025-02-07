@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3?si=mQs-z58nTlWY0PZ9Qo_L-w\">FATMAN</a> en <a href=\"https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX?si=BtZVq3UrRBSofp-y64tn1w\">BiBi</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=iHvUs2rtQNeis96HI9tHEw\">Rooksein</a> en <a href=\"https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb?si=bh-kNxW1QrCA53vsuDkC9A\">ONS</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 162810,
       "name": "#23",
       "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
+    },
+    {
+      "album": {
+        "name": "#GLO",
+        "url": "https://open.spotify.com/album/116qpMeKeLMW8nyghhDVwv"
+      },
+      "artists": [
+        {
+          "name": "Ronald Hart",
+          "url": "https://open.spotify.com/artist/1uOpOI5Sq3CcXeqitor4PQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "#GLO",
+      "url": "https://open.spotify.com/track/45a3klsCQaYyAHJjX0Sd9O"
     },
     {
       "album": {
@@ -4178,6 +4196,28 @@
       "duration_ms": 141826,
       "name": "Daantjie",
       "url": "https://open.spotify.com/track/75qgMhoCR0LfOeraIEL2xI"
+    },
+    {
+      "album": {
+        "name": "Daar Is Hoop (Live)",
+        "url": "https://open.spotify.com/album/6ao7y5JL4Dex8BMapVmMyD"
+      },
+      "artists": [
+        {
+          "name": "Nuwe Lof",
+          "url": "https://open.spotify.com/artist/6CDeMbGPacYljmQ1ry9RET"
+        },
+        {
+          "name": "Reinhardt Smit",
+          "url": "https://open.spotify.com/artist/36nDm3kkUgXNWCRH18Cj9Z"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Daar Is Hoop - Live",
+      "url": "https://open.spotify.com/track/3dWZ0mHqiN5LrfsjwR7yDQ"
     },
     {
       "album": {
@@ -9048,7 +9088,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 215428,
       "name": "Hartswoestyn",
       "url": "https://open.spotify.com/track/0qXi1TXgUv9CkJn09aTmfp"
@@ -10499,6 +10539,24 @@
     },
     {
       "album": {
+        "name": "In Hierdie Weer",
+        "url": "https://open.spotify.com/album/7fSLATV5ix93rr0NXniTaq"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209231,
+      "name": "In Hierdie Weer",
+      "url": "https://open.spotify.com/track/67K4SAL16elEo09zxfth9Z"
+    },
+    {
+      "album": {
         "name": "In Jou O\u00eb",
         "url": "https://open.spotify.com/album/5ezhn2Ca5gdSU5VX9WyJRk"
       },
@@ -10935,6 +10993,24 @@
     },
     {
       "album": {
+        "name": "Jet",
+        "url": "https://open.spotify.com/album/3gYr3p0usIeTXBDtFanH6A"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135024,
+      "name": "Jet",
+      "url": "https://open.spotify.com/track/5ozUUV9lWIK9LnoT5DOoza"
+    },
+    {
+      "album": {
         "name": "Jinne Maar Dis Lekker",
         "url": "https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ"
       },
@@ -11090,7 +11166,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 192000,
       "name": "jou hart",
       "url": "https://open.spotify.com/track/2rvcsRsDzlFehRaw6wdGJ0"
@@ -11426,7 +11502,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 177600,
       "name": "Jy is meer - Pop Remix Version",
       "url": "https://open.spotify.com/track/73R3OiJ4Nf5Ronzlrf3RWk"
@@ -13388,6 +13464,24 @@
       "duration_ms": 149781,
       "name": "Kwart Voor Agt",
       "url": "https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu"
+    },
+    {
+      "album": {
+        "name": "Kyk",
+        "url": "https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Kyk",
+      "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
     },
     {
       "album": {
@@ -17954,7 +18048,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 207657,
       "name": "Om Die Son",
       "url": "https://open.spotify.com/track/7Igc4T77XAZdQr0TXfQX93"
@@ -18088,6 +18182,24 @@
       "duration_ms": 129600,
       "name": "onder die son",
       "url": "https://open.spotify.com/track/3SWufutzJv0gBzbmrM0SjL"
+    },
+    {
+      "album": {
+        "name": "Onderbewussyn",
+        "url": "https://open.spotify.com/album/4UMxICuP0McFqbBRukEaRu"
+      },
+      "artists": [
+        {
+          "name": "Touch by Mirror",
+          "url": "https://open.spotify.com/artist/0wyKENJo86SfbhWYUiFOc8"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Onderbewussyn",
+      "url": "https://open.spotify.com/track/7CLPmHL5Y4QTbArpnOFslS"
     },
     {
       "album": {
@@ -19374,6 +19486,24 @@
       "duration_ms": 229230,
       "name": "Platvoet",
       "url": "https://open.spotify.com/track/7MlWU7hkcXPl8HOGVsuWU9"
+    },
+    {
+      "album": {
+        "name": "Plek In My Hart",
+        "url": "https://open.spotify.com/album/6t7pzvvWlZt1V0vwr4j2k8"
+      },
+      "artists": [
+        {
+          "name": "Deon Groot",
+          "url": "https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218135,
+      "name": "Plek In My Hart",
+      "url": "https://open.spotify.com/track/7xbe3khmCNIOQCj13zDTVq"
     },
     {
       "album": {
@@ -21602,7 +21732,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 209051,
       "name": "Soekers",
       "url": "https://open.spotify.com/track/284Xj7p6OnNnhu7Glz7QAo"
@@ -22063,6 +22193,24 @@
     },
     {
       "album": {
+        "name": "Soos 'n Engel",
+        "url": "https://open.spotify.com/album/7vZ5vzWA3cXM4fAX1TgWH5"
+      },
+      "artists": [
+        {
+          "name": "Len Muller",
+          "url": "https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183295,
+      "name": "Soos 'n Engel",
+      "url": "https://open.spotify.com/track/2AV7AYTvTvII2DZ7erNVhJ"
+    },
+    {
+      "album": {
         "name": "Soos 'n Kind",
         "url": "https://open.spotify.com/album/2ZQbQxhL8ddeVZtY0ShWMD"
       },
@@ -22443,6 +22591,24 @@
     },
     {
       "album": {
+        "name": "Staan by Jou",
+        "url": "https://open.spotify.com/album/0wfZNO0EaDcnkuKbryKY1z"
+      },
+      "artists": [
+        {
+          "name": "Laudo",
+          "url": "https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Staan by Jou",
+      "url": "https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw"
+    },
+    {
+      "album": {
         "name": "Stadig",
         "url": "https://open.spotify.com/album/2ndEeWY99a4o2lHtx61nGP"
       },
@@ -22646,6 +22812,28 @@
       "duration_ms": 188442,
       "name": "Stellenpotch",
       "url": "https://open.spotify.com/track/3cCrymy2s0f2cafWtY3O86"
+    },
+    {
+      "album": {
+        "name": "Stellies (feat. Rooksein)",
+        "url": "https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK"
+      },
+      "artists": [
+        {
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        },
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Stellies (feat. Rooksein)",
+      "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
     },
     {
       "album": {
@@ -27590,7 +27778,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 170134,
       "name": "Wyne",
       "url": "https://open.spotify.com/track/3A4RhFwSfK2qgM5P8fCJMW"

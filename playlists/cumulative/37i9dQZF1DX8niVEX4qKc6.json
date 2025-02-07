@@ -3067,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "TORMENTA",
+        "url": "https://open.spotify.com/album/0foNLXCfKnc7TBU4HO7fYr"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "TORMENTA",
+      "url": "https://open.spotify.com/track/1dYoXlC0FbzBfAZsv9xElo"
+    },
+    {
+      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 198000,
       "name": "ya no hay dudas - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1uJiKlVBweWo8Kd77eiRRH"

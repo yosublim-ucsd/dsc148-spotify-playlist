@@ -1,12 +1,12 @@
 {
-  "description": "get into your feels with some r&b magic",
-  "num_followers": 297271,
+  "description": "feel the magic with the gems in r&b right now",
+  "num_followers": 297272,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6NeOwAAAAB7wwpW0Sd+iDUzleQ1fps2",
+  "snapshot_id": "Z6R6WwAAAADmN82/7atMZ5KUtkMlhTsP",
   "tracks": [
     {
       "added_at": "2025-02-05 12:48:59",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-02-05 12:48:59",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
+    },
+    {
+      "added_at": "2025-02-05 12:48:59",
+      "album": {
         "name": "Silky Feels",
         "url": "https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 165423,
       "name": "Silky Feels",
       "url": "https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ"
-    },
-    {
-      "added_at": "2025-02-05 12:48:59",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
     },
     {
       "added_at": "2025-02-05 12:48:59",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-02-05 12:48:59",
       "album": {
-        "name": "Waiting On You",
-        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 163555,
-      "name": "Waiting On You",
-      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
-    },
-    {
-      "added_at": "2025-02-05 12:48:59",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 152195,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp"
-    },
-    {
-      "added_at": "2025-02-05 12:48:59",
-      "album": {
-        "name": "Double Tragedy",
-        "url": "https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "Double Tragedy",
-      "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
     },
     {
       "added_at": "2025-02-05 12:48:59",
@@ -959,6 +927,38 @@
       "duration_ms": 235732,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK"
+    },
+    {
+      "added_at": "2025-02-05 12:48:59",
+      "album": {
+        "name": "Double Tragedy",
+        "url": "https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "Double Tragedy",
+      "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
+    },
+    {
+      "added_at": "2025-02-05 12:48:59",
+      "album": {
+        "name": "Waiting On You",
+        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
     },
     {
       "added_at": "2025-02-05 12:48:59",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-02-05 12:48:59",
       "album": {
-        "name": "In My Heart In My Veins",
-        "url": "https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Time Ain't On Our Side",
-      "url": "https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6"
-    },
-    {
-      "added_at": "2025-02-05 12:48:59",
-      "album": {
         "name": "Relax your mind",
         "url": "https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 211200,
       "name": "Relax your mind",
       "url": "https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9"
+    },
+    {
+      "added_at": "2025-02-05 12:48:59",
+      "album": {
+        "name": "In My Heart In My Veins",
+        "url": "https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Time Ain't On Our Side",
+      "url": "https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6"
     },
     {
       "added_at": "2025-02-05 12:48:59",

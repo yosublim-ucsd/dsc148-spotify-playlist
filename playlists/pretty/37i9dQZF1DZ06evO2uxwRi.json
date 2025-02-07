@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 41089,
+  "num_followers": 41095,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADaCQTKCyGwhpr7k68idwom",
+  "snapshot_id": "Z6KqAAAAAABUGCxIWfqPbY02t2+CpWFU",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makes Me Sick",
-        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 180655,
-      "name": "Happy Being Miserable",
-      "url": "https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Without A Fight",
         "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 208266,
       "name": "Don't Let Her Pull You Down",
       "url": "https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Makes Me Sick",
+        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 180655,
+      "name": "Happy Being Miserable",
+      "url": "https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makes Me Sick",
-        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 203869,
-      "name": "Party On Apocalypse",
-      "url": "https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5"
+      "duration_ms": 134933,
+      "name": "Truck Stop Blues",
+      "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+        "name": "Makes Me Sick",
+        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 134933,
-      "name": "Truck Stop Blues",
-      "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
+      "duration_ms": 203869,
+      "name": "Party On Apocalypse",
+      "url": "https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radiosurgery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 192599,
-      "name": "Anthem for the Unwanted",
-      "url": "https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav"
+      "duration_ms": 171533,
+      "name": "47",
+      "url": "https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+        "name": "Radiosurgery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 171533,
-      "name": "47",
-      "url": "https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN"
+      "duration_ms": 192599,
+      "name": "Anthem for the Unwanted",
+      "url": "https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav"
     }
   ],
   "unique_name": "This Is New Found Glory",

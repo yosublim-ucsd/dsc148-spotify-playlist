@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-305 songs - 16 hr 0 min
+306 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [SAHARA](https://open.spotify.com/track/43hJsHAl3GsONuKrFyLLME) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [SAHARA](https://open.spotify.com/album/5KlNaIz7LcsvDzgX6UHtyM) | 7:47 | 2024-02-26 |  |
 | [SAME PLACE, DIFFERENT TIME](https://open.spotify.com/track/0r595UNykBB1OFqQabV7nS) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 | 2024-09-08 |  |
 | [Samoyed Song](https://open.spotify.com/track/43NZSHrCTxb1Tm9he7BAox) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [russelbuck](https://open.spotify.com/album/2bgUsX7DFr4VdUB35TMoUP) | 2:39 | 2023-06-14 |  |
+| [Saudade](https://open.spotify.com/track/5NWnwSzyinSP6q2eWgiCsd) | [Blushy Buttercup](https://open.spotify.com/artist/0uMP1ZUufTU7gi5tInsw4E), [Starmoon](https://open.spotify.com/artist/6LkHvIBzMUugKXmM853eqC) | [Saudade](https://open.spotify.com/album/2SeCRWXTI0zbla4KgOguW0) | 10:34 | 2025-02-06 |  |
 | [save the world](https://open.spotify.com/track/0M5GNhQ9zGj8B8DRQRFYDp) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal), [Ivy Hollivana](https://open.spotify.com/artist/3KfxN9H3BJ8cKj9qbjrO9X) | [all lizards go to heaven!!!](https://open.spotify.com/album/1CRlPPBbbvKRuyyam4ypvP) | 2:19 | 2024-08-15 |  |
 | [Screaming at the Top](https://open.spotify.com/track/3d2IuTn71tQpHEkXAO5VsY) | [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Schtewee](https://open.spotify.com/artist/052C9zO8Vd32kWv9fRwzi1) | [AURAL ALLIANCE STAGE 1](https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII) | 1:00 | 2024-02-09 |  |
 | [Seven Run](https://open.spotify.com/track/75snRWqGIsPV1bPwQl35bJ) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Seven Run](https://open.spotify.com/album/7I68LrOWt2J5w9h6Enn17c) | 1:37 | 2023-10-30 |  |

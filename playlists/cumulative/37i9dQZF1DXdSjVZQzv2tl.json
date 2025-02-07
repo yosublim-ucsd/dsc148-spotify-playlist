@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1 Minuto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0T9Q8CLDTY6wxQMnnO9DBQ"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158266,
+      "name": "1 Minuto - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Sa7wqUh5awzCd2lQPxboK"
+    },
+    {
+      "album": {
         "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
       },
@@ -252,7 +274,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 149025,
       "name": "Aham - Ao Vivo",
       "url": "https://open.spotify.com/track/3Bkw2nrO4vXwql6BBDH5pq"
@@ -2702,7 +2724,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 199848,
       "name": "Imagina - Ao Vivo",
       "url": "https://open.spotify.com/track/0BvzY9PCRufFPt51fvnhOI"
@@ -4296,6 +4318,24 @@
       "duration_ms": 196209,
       "name": "Presepada",
       "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
+    },
+    {
+      "album": {
+        "name": "Nossa Cara (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/5HIszENJrDZiPqko4CiMdb"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159046,
+      "name": "Problem\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ldOW0wsKwLIfW2BBUuLbe"
     },
     {
       "album": {

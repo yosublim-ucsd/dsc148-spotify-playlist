@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,910 likes - 187 songs - 17 hr 34 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,913 likes - 187 songs - 17 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 51 | [Made To Praise](https://open.spotify.com/track/0AXqPIUMx7wFZz0Esue59L) | [ZOE Worship](https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo) | [Made To Praise](https://open.spotify.com/album/174rHF4jdbx9pHfMTf6KZ5) | 2:37 |
 | 52 | [Approach, My Soul \- Live](https://open.spotify.com/track/2nu5HBCBD1CKFm1C1WfBWc) | [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [Approach, My Soul \(Live\)](https://open.spotify.com/album/0BVakc8Mop6j54yEX97OTF) | 3:52 |
 | 53 | [Interlude \(Mariah’s Song\) \- Live](https://open.spotify.com/track/35xkFr2oTAWn8dBQo4rJn5) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Out Of Our Minds \(Live at Mosaic Conference\)](https://open.spotify.com/album/6Ey16V1Exb9yjahNIRxxiA) | 3:06 |
-| 54 | [Trust in God](https://open.spotify.com/track/2tpufHSY8pS6Nd5ZHvrKMc) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe), [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Worship Solutions Volume One](https://open.spotify.com/album/3xc5XEtIclZI3KaAn2VbiS) | 6:03 |
+| 54 | [Trust in God](https://open.spotify.com/track/2tpufHSY8pS6Nd5ZHvrKMc) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Worship Solutions Volume One](https://open.spotify.com/album/3xc5XEtIclZI3KaAn2VbiS) | 6:03 |
 | 55 | [Who Is Like You](https://open.spotify.com/track/3Gr7zPy6KiLaa6vfK4SYOR) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw) | [Who Is Like You](https://open.spotify.com/album/42HN6Vo3MNDXUvFbIzvy5d) | 5:40 |
 | 56 | [Jesus King Forever](https://open.spotify.com/track/7xRAH7wQJulM3RoRuPZkJX) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Altars](https://open.spotify.com/album/0iRVWoC8nIbytgl04R5NvJ) | 7:00 |
 | 57 | [They Always Do \- Live](https://open.spotify.com/track/1Tjw8b9Nkv1pKHrohw0sgl) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc) | [They Always Do \(Live\)](https://open.spotify.com/album/0E92LMcaFJbJFM6XyIpBa9) | 6:08 |

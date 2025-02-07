@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Gazzelle in cover della playlist con il meglio dell’indie italiano 🐜
+> Emma Nolde in cover della playlist con il meglio dell’indie italiano ⌛
 
-199 songs - 10 hr 24 min
+200 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Ovvio](https://open.spotify.com/track/4hIUJZRIS0NRWUkyy0dZlJ) | [Asp126](https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G) | [Ovvio](https://open.spotify.com/album/1QsAEN4NfCjcacRT8cpqwW) | 2:47 | 2024-10-24 | 2024-11-29 |
 | [Palo Santo](https://open.spotify.com/track/5yOjKt8JhWfNKSIFIZAxB5) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Palo Santo](https://open.spotify.com/album/5VPlNVcBojccua6dSW2bes) | 2:55 | 2024-10-03 | 2024-11-22 |
 | [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt) | [GattoToro](https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg), [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX) | 2:23 | 2025-01-30 |  |
+| [Parole piccole](https://open.spotify.com/track/2c5qBiURh3mowQCXKW5lCG) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [Parole piccole](https://open.spotify.com/album/7flbF51b2TJ6YfD0A3rt5n) | 3:29 | 2025-02-06 |  |
 | [passanti](https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [passanti](https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU) | 2:37 | 2024-09-19 | 2024-10-11 |
 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 | 2024-09-26 |  |
 | [Pastafrolla](https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pastafrolla](https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ) | 2:39 | 2024-09-26 | 2024-10-18 |
@@ -180,7 +181,7 @@
 | [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-06-27 | 2024-08-02 |
 | [Terra bruciata](https://open.spotify.com/track/7rY0vHCtgNI37kMY9wIkCg) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 | 2024-06-27 |  |
 | [Tieni per me](https://open.spotify.com/track/0L9zUSvruMDHMRIqFg3ZEa) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Tieni per me](https://open.spotify.com/album/0Tfnqv4HXNgQa5oWsjAaKP) | 3:20 | 2024-11-28 | 2025-01-24 |
-| [TO / GA](https://open.spotify.com/track/2GHtpNPcXKSM0DOzuG2w6X) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [TO / GA](https://open.spotify.com/album/3BuUOsbmolzkhA7ZkYoM7g) | 2:39 | 2025-01-23 |  |
+| [TO / GA](https://open.spotify.com/track/2GHtpNPcXKSM0DOzuG2w6X) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [TO / GA](https://open.spotify.com/album/3BuUOsbmolzkhA7ZkYoM7g) | 2:39 | 2025-01-23 | 2025-02-07 |
 | [Tokyo 20](https://open.spotify.com/track/4psZkMjNV6bDrkvKFjGtFU) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Tokyo 20 / Spirito](https://open.spotify.com/album/3vSYheKa4APkJSC03A77Bo) | 3:21 | 2024-07-11 | 2024-08-09 |
 | [Tonight gospel \(feat\. Mecna\)](https://open.spotify.com/track/1vLaI6OG6I7DUunpuEy9ks) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:42 | 2024-10-17 | 2025-01-03 |
 | [Trasparente](https://open.spotify.com/track/7K51Wblkit2uioRGADynFB) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Trasparente](https://open.spotify.com/album/1do0123ojQgh5q61ie8qoT) | 3:17 | 2024-06-27 | 2024-07-19 |

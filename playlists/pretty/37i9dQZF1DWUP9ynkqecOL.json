@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23885,
+  "num_followers": 23888,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Los Pasos Labrados",
-        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
-      },
-      "artists": [
-        {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Zamba para Olvidar",
-      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Los Pasos Labrados",
+        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Zamba para Olvidar",
+      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "Madre de la Sierra",
+        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+      },
+      "artists": [
+        {
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+        }
+      ],
+      "duration_ms": 275256,
+      "name": "Madre de la Sierra",
+      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Litoraleza",
         "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 192495,
       "name": "Gurisito Cosmico",
       "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Madre de la Sierra",
-        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
-      },
-      "artists": [
-        {
-          "name": "Porangu\u00ed",
-          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
-        }
-      ],
-      "duration_ms": 275256,
-      "name": "Madre de la Sierra",
-      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -923,26 +923,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Luchin",
-        "url": "https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9"
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
       },
       "artists": [
         {
-          "name": "Manu Sija",
-          "url": "https://open.spotify.com/artist/0YJbC4MQ0KFv3bhFz8uUnx"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        },
-        {
-          "name": "Santiago Molina",
-          "url": "https://open.spotify.com/artist/4znLjgx0xuv4XZpUYalOXl"
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
         }
       ],
-      "duration_ms": 259551,
-      "name": "Luchin",
-      "url": "https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3"
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -971,18 +963,26 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
+        "name": "Luchin",
+        "url": "https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9"
       },
       "artists": [
         {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
+          "name": "Manu Sija",
+          "url": "https://open.spotify.com/artist/0YJbC4MQ0KFv3bhFz8uUnx"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        },
+        {
+          "name": "Santiago Molina",
+          "url": "https://open.spotify.com/artist/4znLjgx0xuv4XZpUYalOXl"
         }
       ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
+      "duration_ms": 259551,
+      "name": "Luchin",
+      "url": "https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "Terrapl\u00e9n",
+        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
+      },
+      "artists": [
+        {
+          "name": "Terrapl\u00e9n",
+          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
+        }
+      ],
+      "duration_ms": 236986,
+      "name": "Quita La Pena",
+      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 267353,
       "name": "La Fuerza",
       "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Terrapl\u00e9n",
-        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
-      },
-      "artists": [
-        {
-          "name": "Terrapl\u00e9n",
-          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
-        }
-      ],
-      "duration_ms": 236986,
-      "name": "Quita La Pena",
-      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2024-10-22 19:09:15",

@@ -2,9 +2,9 @@
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
-> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Najm
+> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Djmubarak
 
-136 songs - 7 hr 16 min
+137 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,9 +121,10 @@
 | [بالمختصر](https://open.spotify.com/track/6ScIVedrkp6Rc1WFwzQxSU) | [اية خفاجة](https://open.spotify.com/artist/5dp1VYIECbMmrUo13BnbDV) | [بالمختصر \- Single](https://open.spotify.com/album/4fEQSmOjq9oU6gtl8iMB26) | 2:57 | 2022-06-24 | 2022-11-09 |
 | [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 | 2022-11-23 | 2025-01-30 |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-14 | 2025-01-30 |
+| [تعانديني](https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [تعانديني](https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs) | 3:09 | 2025-02-06 |  |
 | [جايي لك](https://open.spotify.com/track/5O2M4jyybgemMnEycvY0d7) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [جايي لك](https://open.spotify.com/album/2QrMIPEdF4w9TBiaGBGio7) | 3:16 | 2022-06-24 | 2023-06-07 |
 | [ديدي](https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [ديدي](https://open.spotify.com/album/2dsQxG9oNb139KGSePZ4Gv) | 3:25 | 2022-11-08 | 2024-05-15 |
-| [سعودي فوق فوق](https://open.spotify.com/track/11w6W8XFjXXoj2GOotkfLx) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [سعودي فوق فوق](https://open.spotify.com/album/75DWpM9qf7dcdW89FsUjjF) | 2:53 | 2025-01-29 |  |
+| [سعودي فوق فوق](https://open.spotify.com/track/11w6W8XFjXXoj2GOotkfLx) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [سعودي فوق فوق](https://open.spotify.com/album/75DWpM9qf7dcdW89FsUjjF) | 2:53 | 2025-01-29 | 2025-02-07 |
 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/2hXeiHmVkR1DNL99tr7Rf2) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/51jxRscBO8Hy26XA2zWIvq) | 1:45 | 2023-03-01 | 2024-04-19 |
 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/7ypmlaEF73dkmyo6KKOgeL) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/6HIocR1nRFrIoK3lZn8YOV) | 1:45 | 2022-11-08 |  |
 | [عشانك](https://open.spotify.com/track/01wXy6jRJBni1IePERVd7K) | [Deleted songs \- اغاني محذوفة](https://open.spotify.com/artist/7DgoZYbE59JMvzhmtCG7Y5), [Siilawy](https://open.spotify.com/artist/3Vn8HsYVqbtuJ1tBOsdVAU) | [جميع اغاني سيلاوي المحذوفة \(Siilawy\)](https://open.spotify.com/album/4Xs77eNtwhVCsF3iTVqoLK) | 3:07 | 2023-08-03 | 2023-09-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 81391,
+  "num_followers": 81431,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 400840,
-      "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Caravan [Keepnews Collection]",
         "url": "https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 331600,
       "name": "Sweet 'n' Sour",
       "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 400840,
+      "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+      },
+      "artists": [
+        {
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Dippin' In The Bag",
+      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
         "name": "The Turnaround",
         "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Bluesnik (Remastered/ Expanded Edition)",
-        "url": "https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 439693,
-      "name": "Blues Function - Rudy Van Gelder Edition/2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Royal Flush",
         "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 565106,
       "name": "These Are Soulful Days",
       "url": "https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "Bluesnik (Remastered/ Expanded Edition)",
+        "url": "https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 439693,
+      "name": "Blues Function - Rudy Van Gelder Edition/2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -783,18 +799,18 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
       },
       "artists": [
         {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 239733,
-      "name": "Dippin' In The Bag",
-      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
+      "duration_ms": 446986,
+      "name": "Creepin' In - Remastered",
+      "url": "https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -811,22 +827,6 @@
       "duration_ms": 511853,
       "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 446986,
-      "name": "Creepin' In - Remastered",
-      "url": "https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -875,22 +875,6 @@
       "duration_ms": 439866,
       "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
-        "name": "The Turnaround",
-        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 404213,
-      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -955,6 +939,22 @@
       "duration_ms": 367826,
       "name": "The Rake",
       "url": "https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "The Turnaround",
+        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 404213,
+      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
     },
     {
       "added_at": "2024-09-03 09:38:03",

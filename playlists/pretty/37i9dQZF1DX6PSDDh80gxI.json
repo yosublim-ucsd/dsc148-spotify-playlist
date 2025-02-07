@@ -1,15 +1,15 @@
 {
-  "description": "Gazzelle in cover della playlist con il meglio dell\u2019indie italiano \ud83d\udc1c",
-  "num_followers": 447590,
+  "description": "Emma Nolde in cover della playlist con il meglio dell\u2019indie italiano \u231b",
+  "num_followers": 447606,
   "original_name": "Indie Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6M+XAAAAABclmxdHWeRBZ2rcHTB/+Y3",
+  "snapshot_id": "Z6U/RgAAAAAMxN+pEqS62x+L8ngtmCJt",
   "tracks": [
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "INDI",
         "url": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
@@ -41,55 +41,7 @@
       "url": "https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
-      "album": {
-        "name": "Mal di te",
-        "url": "https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 179366,
-      "name": "Mal di te",
-      "url": "https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz"
-    },
-    {
-      "added_at": "2025-02-05 10:33:00",
-      "album": {
-        "name": "my baby!",
-        "url": "https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD"
-      },
-      "artists": [
-        {
-          "name": "GINEVRA",
-          "url": "https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U"
-        }
-      ],
-      "duration_ms": 177641,
-      "name": "my baby!",
-      "url": "https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID"
-    },
-    {
-      "added_at": "2025-02-05 10:33:00",
-      "album": {
-        "name": "POSTI VUOTI",
-        "url": "https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC"
-      },
-      "artists": [
-        {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
-        }
-      ],
-      "duration_ms": 196125,
-      "name": "POSTI VUOTI",
-      "url": "https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz"
-    },
-    {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "NUOVOSPAZIOTEMPO",
         "url": "https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ"
@@ -113,39 +65,71 @@
       "url": "https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
-        "name": "Pezzi Della Sera",
-        "url": "https://open.spotify.com/album/4zRAT9VgY87szB4Gufc2t9"
+        "name": "Mal di te",
+        "url": "https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA"
       },
       "artists": [
         {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 227459,
-      "name": "Copricolori",
-      "url": "https://open.spotify.com/track/57oyHJP3okJUJHXB1eDcH3"
+      "duration_ms": 179366,
+      "name": "Mal di te",
+      "url": "https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
-        "name": "Il morso di Tyson",
-        "url": "https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ"
+        "name": "POSTI VUOTI",
+        "url": "https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC"
       },
       "artists": [
         {
-          "name": "Brunori Sas",
-          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Il morso di Tyson",
-      "url": "https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5"
+      "duration_ms": 196125,
+      "name": "POSTI VUOTI",
+      "url": "https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
+      "album": {
+        "name": "my baby!",
+        "url": "https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD"
+      },
+      "artists": [
+        {
+          "name": "GINEVRA",
+          "url": "https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "my baby!",
+      "url": "https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID"
+    },
+    {
+      "added_at": "2025-02-06 23:01:26",
+      "album": {
+        "name": "Tu sei il mattino",
+        "url": "https://open.spotify.com/album/0sbGgrjOyEt7maAqras9N3"
+      },
+      "artists": [
+        {
+          "name": "Lucio Corsi",
+          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
+        }
+      ],
+      "duration_ms": 188151,
+      "name": "Tu sei il mattino",
+      "url": "https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"
+    },
+    {
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Islanda",
         "url": "https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R"
@@ -161,7 +145,7 @@
       "url": "https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "RELAX",
         "url": "https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj"
@@ -177,7 +161,7 @@
       "url": "https://open.spotify.com/track/0HJd4ynGL3mn0p2o6WE9DI"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Bandiera",
         "url": "https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt"
@@ -193,7 +177,7 @@
       "url": "https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Noi no",
         "url": "https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je"
@@ -209,7 +193,7 @@
       "url": "https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Perch\u00e9?",
         "url": "https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf"
@@ -225,7 +209,23 @@
       "url": "https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
+      "album": {
+        "name": "Il morso di Tyson",
+        "url": "https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ"
+      },
+      "artists": [
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Il morso di Tyson",
+      "url": "https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5"
+    },
+    {
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Chiss\u00e0",
         "url": "https://open.spotify.com/album/1xywCoqMy6siRZbvThSeUA"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "La Nostra Malinconia",
         "url": "https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "RUGGINE \u26ae (con chiello & Coez)",
         "url": "https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Amato Male",
         "url": "https://open.spotify.com/album/6xZaDvJFCUVH5ZLRmM1jtQ"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/2KTC7ygAHND7VOnglyXdSh"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "HO SBAGLIATO ANCORA",
         "url": "https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
@@ -333,7 +333,23 @@
       "url": "https://open.spotify.com/track/0rDIjhe1IQJhh3oPDxZJMg"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
+      "album": {
+        "name": "Parole piccole",
+        "url": "https://open.spotify.com/album/7flbF51b2TJ6YfD0A3rt5n"
+      },
+      "artists": [
+        {
+          "name": "Bais",
+          "url": "https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm"
+        }
+      ],
+      "duration_ms": 209169,
+      "name": "Parole piccole",
+      "url": "https://open.spotify.com/track/2c5qBiURh3mowQCXKW5lCG"
+    },
+    {
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Carnevale",
         "url": "https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "BDSR",
         "url": "https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "INDI",
         "url": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/21F52gJo0mQifkLHQMS3Ir"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Fucina",
         "url": "https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA"
@@ -397,23 +413,23 @@
       "url": "https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
-        "name": "Tu sei il mattino",
-        "url": "https://open.spotify.com/album/0sbGgrjOyEt7maAqras9N3"
+        "name": "Pezzi Della Sera",
+        "url": "https://open.spotify.com/album/4zRAT9VgY87szB4Gufc2t9"
       },
       "artists": [
         {
-          "name": "Lucio Corsi",
-          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
         }
       ],
-      "duration_ms": 188151,
-      "name": "Tu sei il mattino",
-      "url": "https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"
+      "duration_ms": 227459,
+      "name": "Copricolori",
+      "url": "https://open.spotify.com/track/57oyHJP3okJUJHXB1eDcH3"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "O.M.G.",
         "url": "https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Romantico Ma Muori",
         "url": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq"
@@ -461,39 +477,7 @@
       "url": "https://open.spotify.com/track/3Shhi6otR1WYLtgwMCWjF8"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
-      "album": {
-        "name": "Il contrario",
-        "url": "https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq"
-      },
-      "artists": [
-        {
-          "name": "Anna Carol",
-          "url": "https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Il contrario",
-      "url": "https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh"
-    },
-    {
-      "added_at": "2025-02-05 10:33:00",
-      "album": {
-        "name": "Come il pane",
-        "url": "https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 232057,
-      "name": "Come il pane",
-      "url": "https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ"
-    },
-    {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Hotel esistenza",
         "url": "https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE"
@@ -509,7 +493,39 @@
       "url": "https://open.spotify.com/track/7KXiNcodDshozttV90Ensd"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
+      "album": {
+        "name": "Il contrario",
+        "url": "https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq"
+      },
+      "artists": [
+        {
+          "name": "Anna Carol",
+          "url": "https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Il contrario",
+      "url": "https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh"
+    },
+    {
+      "added_at": "2025-02-06 23:01:26",
+      "album": {
+        "name": "Come il pane",
+        "url": "https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 232057,
+      "name": "Come il pane",
+      "url": "https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ"
+    },
+    {
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Ghiaccio (feat. chiello)",
         "url": "https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "RELAX",
         "url": "https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "M\u0100Y\u0100",
         "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Spogliami",
         "url": "https://open.spotify.com/album/2Aq48XzFY1UZA1PAAJobcS"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/0yDCcAlCuvKLE34cxMRVDp"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Mezzo secondo",
         "url": "https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Panorama Olivia",
         "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Passo dopo Passo",
         "url": "https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Luna in acquario ascendente sagittario",
         "url": "https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/4HU6nNHVABOEey5MQjO2V9"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Piangono Anche Gli Uomini",
         "url": "https://open.spotify.com/album/2Hp6AtPf7V2jFTTUGnIlkr"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/7C1QXDHC4GYCC2AS2Lr52B"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Amore mio",
         "url": "https://open.spotify.com/album/6zGqsAq8vDt2t8wO12oF71"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/346nT9OEHKXyc0RA5JzVYT"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Lux Eterna Beach",
         "url": "https://open.spotify.com/album/6z4lt8x3kYu8W3vlOLVrGP"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/5nzQR6J5MGFe3eabdkZZL5"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Sammy, Cabiria, etc. etc.",
         "url": "https://open.spotify.com/album/3yqQhXmHd7SKnz4pBOjApa"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/4U468A5OhnjqYVXPow7xfy"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "MYROMANTICA",
         "url": "https://open.spotify.com/album/4ZmIavc2q57jOHPjlsjy3f"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Sconosciuti",
         "url": "https://open.spotify.com/album/7fW7qpPuLWgge3SpBUUTlm"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/7G5MGUEldnk7eixgIjaeaY"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Teatro",
         "url": "https://open.spotify.com/album/7cr7rD9YJ7b53kleNSGeyk"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/3HQVk0f6cZMChC82l3N66a"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "FEMINA",
         "url": "https://open.spotify.com/album/6yiJ9gh45SUgbkkoacZc93"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Infinito +1",
         "url": "https://open.spotify.com/album/0n7dd40ERs4ucG5KarwZxM"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/7woxXKezUmdjGuHtR75nCT"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Abbaiare",
         "url": "https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Sottobraccio",
         "url": "https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Aperitivo",
         "url": "https://open.spotify.com/album/5FG4uvGYqzCdh5LCpxkYfp"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/6j58CYPJ5mD58tNftnsA0O"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Quasi A Casa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Panino d'idiota (feat. Casadilego)",
         "url": "https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "fulmine a ciel sereno",
         "url": "https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Sul pi\u00f9 bello",
         "url": "https://open.spotify.com/album/3yo8OZxRy2L9CMyzCK8jmx"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/0LPXTnvvNYBa3sIjdCytcz"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "INTERNET",
         "url": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz"
@@ -961,7 +977,7 @@
       "url": "https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Farla Facile",
         "url": "https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8"
@@ -977,7 +993,7 @@
       "url": "https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Lovebars",
         "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7rY0vHCtgNI37kMY9wIkCg"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "LE LINGUE LA MATEMATICA",
         "url": "https://open.spotify.com/album/2IB6EoE075I3YaScTcaQgo"
@@ -1013,23 +1029,7 @@
       "url": "https://open.spotify.com/track/2Pt9WJBN1me4MD13R3Nu5t"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
-      "album": {
-        "name": "TO / GA",
-        "url": "https://open.spotify.com/album/3BuUOsbmolzkhA7ZkYoM7g"
-      },
-      "artists": [
-        {
-          "name": "Colla Zio",
-          "url": "https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59"
-        }
-      ],
-      "duration_ms": 159137,
-      "name": "TO / GA",
-      "url": "https://open.spotify.com/track/2GHtpNPcXKSM0DOzuG2w6X"
-    },
-    {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "TUTTO SBAGLIATO",
         "url": "https://open.spotify.com/album/5lIw3K8KT6gMkpcrm4yZez"
@@ -1045,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6pPkVfg3452NhPCMjc4XK0"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "OSSA ROTTE",
         "url": "https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Pista Nera",
         "url": "https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/4gBNS82Xo9KsCnnR2gOXRo"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Per La Nostra Et\u00e0",
         "url": "https://open.spotify.com/album/79HKgXWonC5s5EiFnwiWBw"
@@ -1093,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3dneDFInixJJlVsRDB96s8"
     },
     {
-      "added_at": "2025-02-05 10:33:00",
+      "added_at": "2025-02-06 23:01:26",
       "album": {
         "name": "Cielo Aperto",
         "url": "https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe"

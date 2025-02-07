@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 251840,
       "name": "Joel Roberts",
       "url": "https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa"
@@ -4546,6 +4546,24 @@
       "duration_ms": 174323,
       "name": "Show You Off",
       "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
+    },
+    {
+      "album": {
+        "name": "The Sweater Club",
+        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167271,
+      "name": "Shudder",
+      "url": "https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST"
     },
     {
       "album": {

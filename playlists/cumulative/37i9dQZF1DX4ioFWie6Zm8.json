@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "A pastoral, uplifting pan-African caf\u00e9 sound",
+  "description": "A pastoral, uplifting pan-African caf\u00e9 sound. Cover: Salif Keita",
   "name": "Caf\u00e9 Africa",
   "tracks": [
     {
@@ -3748,6 +3748,24 @@
       "duration_ms": 237133,
       "name": "Tara",
       "url": "https://open.spotify.com/track/3BjfQ2umqNOTCtjv8d4JQU"
+    },
+    {
+      "album": {
+        "name": "Tassi",
+        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283720,
+      "name": "Tassi",
+      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
     },
     {
       "album": {

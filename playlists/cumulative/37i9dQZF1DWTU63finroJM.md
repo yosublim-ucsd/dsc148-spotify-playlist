@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Yoa.
 
-1,841 songs - 4 day 3 hr 38 min
+1,842 songs - 4 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [FEEL IT](https://open.spotify.com/track/4k5IKgB1P1K1TR8jIlLJmJ) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [FEEL IT](https://open.spotify.com/album/4f8377OKEletMkhE7hyIZR) | 3:31 | 2024-03-01 | 2024-03-25 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2022-03-24 | 2022-12-15 |
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2022-02-03 | 2022-03-18 |
+| [Fever](https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Fever](https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4) | 2:35 | 2025-01-31 |  |
 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 | 2022-06-29 | 2023-05-09 |
 | [Filme moi](https://open.spotify.com/track/7f8ep7LmhUvhEIvlDfb9cj) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/064Xtihg61dRk2MPOXUU5P) | 3:29 | 2022-03-24 | 2022-07-29 |
 | [Filme moi](https://open.spotify.com/track/7w5xMDqwZKMZYmLgdrncte) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/1c0vf4zZCILOArfcM8jpUK) | 3:29 | 2022-06-29 | 2022-08-02 |
@@ -1029,7 +1030,7 @@
 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 | 2023-06-09 | 2024-01-27 |
 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 | 2024-03-15 | 2024-08-03 |
 | [napori](https://open.spotify.com/track/5Ym4egUmT9wHEvZM2anGG8) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:23 | 2022-02-03 | 2022-03-17 |
-| [NaRiNa](https://open.spotify.com/track/3q98BI899aXfVOZL10SAUX) | [APEXAPE](https://open.spotify.com/artist/5F9PcM3OP6dnHPGJ94t43L) | [NaRiNa](https://open.spotify.com/album/2N1e70bceAtOLHm6oENhgL) | 3:16 | 2024-08-16 |  |
+| [NaRiNa](https://open.spotify.com/track/3q98BI899aXfVOZL10SAUX) | [APEXAPE](https://open.spotify.com/artist/5F9PcM3OP6dnHPGJ94t43L) | [NaRiNa](https://open.spotify.com/album/2N1e70bceAtOLHm6oENhgL) | 3:16 | 2024-08-16 | 2025-02-07 |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2022-03-24 | 2022-12-15 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-04-17 | 2023-12-16 |
 | [Naz](https://open.spotify.com/track/4BQN5kE1xzJoBSoG75Sedr) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Naz](https://open.spotify.com/album/6uTzHHdZEfYVw26JY970QZ) | 2:17 | 2023-10-11 | 2024-03-16 |

@@ -4278,6 +4278,24 @@
     {
       "album": {
         "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
+        "url": "https://open.spotify.com/album/2OGQaWqKXsSco3cFhIgSXM"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255429,
+      "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
+      "url": "https://open.spotify.com/track/2e6uyFP80Vuaz7V7bDWD0e"
+    },
+    {
+      "album": {
+        "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
         "url": "https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ"
       },
       "artists": [
@@ -4292,7 +4310,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -10644,7 +10662,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 232647,
       "name": "Kh\u00f4ng Y\u00eau Em Th\u00ec Y\u00eau Ai?",
       "url": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t"
@@ -12464,6 +12482,24 @@
     {
       "album": {
         "name": "Mi\u00ean Man",
+        "url": "https://open.spotify.com/album/5fQl1G8OWZiPkTpFueWJu8"
+      },
+      "artists": [
+        {
+          "name": "Minh Huy",
+          "url": "https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197998,
+      "name": "Mi\u00ean Man",
+      "url": "https://open.spotify.com/track/6PJ4rafx2ufoaPaTewsRfh"
+    },
+    {
+      "album": {
+        "name": "Mi\u00ean Man",
         "url": "https://open.spotify.com/album/4z7HfTeYfrAUm4e84Y1oPw"
       },
       "artists": [
@@ -12474,7 +12510,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197998,
       "name": "Mi\u00ean Man",
       "url": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo"
@@ -16348,7 +16384,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 252307,
       "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
       "url": "https://open.spotify.com/track/3JIfmjJbanxJkwaPzYa2gN"

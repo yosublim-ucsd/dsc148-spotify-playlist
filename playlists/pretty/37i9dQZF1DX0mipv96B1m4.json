@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1418,
+  "num_followers": 1417,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Basheshe",
         "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 139188,
       "name": "Basheshe",
       "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
-      },
-      "artists": [
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "JUICY BODY",
         "url": "https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 150301,
       "name": "Juicy Body",
       "url": "https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
       },
       "artists": [
         {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
         }
       ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
       },
       "artists": [
         {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
         }
       ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahabwe",
-          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
-        },
-        {
-          "name": "Andy Muzic",
-          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Semi Final",
         "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 172721,
       "name": "Semi Final",
       "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahabwe",
+          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
+        },
+        {
+          "name": "Andy Muzic",
+          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
     },
     {
       "added_at": "2024-03-01 12:07:08",

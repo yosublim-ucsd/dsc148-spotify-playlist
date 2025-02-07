@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14973,
+  "num_followers": 14976,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAAAti3IsvxhTD6dWALkJf/pI",
+  "snapshot_id": "Z6KqAAAAAABzTTVOo2oXy4cTsAjsoL34",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma",
-        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202650,
-      "name": "Uma",
-      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smoking Bomb Bud",
         "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 216967,
       "name": "Smoking Bomb Bud",
       "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma",
+        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 202650,
+      "name": "Uma",
+      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OILEI",
         "url": "https://open.spotify.com/album/5QuXzMxfzTnbEjaSInFJGP"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 180173,
       "name": "OILEI",
       "url": "https://open.spotify.com/track/1Yy7BIwEgAN8sLoag73Wws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Independently Bizarre",
-        "url": "https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj"
-      },
-      "artists": [
-        {
-          "name": "Kiwini Vaitai",
-          "url": "https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Pina Colada",
-      "url": "https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wash House Ting",
         "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
@@ -919,30 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loose Shakas",
-        "url": "https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc"
+        "name": "Independently Bizarre",
+        "url": "https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj"
       },
       "artists": [
         {
-          "name": "8RO8",
-          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
-        },
-        {
-          "name": "Freddy Leone",
-          "url": "https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV"
+          "name": "Kiwini Vaitai",
+          "url": "https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi"
         },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Franskiiz",
-          "url": "https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Wana",
-      "url": "https://open.spotify.com/track/4y698JN8eOHznsbNK4m8tx"
+      "duration_ms": 250733,
+      "name": "Pina Colada",
+      "url": "https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD"
     },
     {
       "added_at": null,
@@ -967,18 +939,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W"
+        "name": "Wana",
+        "url": "https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc"
       },
       "artists": [
         {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "Freddy Leone",
+          "url": "https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV"
+        },
+        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Franskiiz",
+          "url": "https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih"
         }
       ],
-      "duration_ms": 163977,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW"
+      "duration_ms": 238666,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
     },
     {
       "added_at": null,
@@ -1003,6 +987,22 @@
       "duration_ms": 194731,
       "name": "Feelings (with J Boog & Gyptian)",
       "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 163977,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW"
     }
   ],
   "unique_name": "This Is J Boog",

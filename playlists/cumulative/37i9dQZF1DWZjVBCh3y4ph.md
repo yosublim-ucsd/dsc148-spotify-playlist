@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Meryl x Kalipsxau
+> Les hits zouk du moment\. Photo : MARVIN x LÉA CHURROS
 
-203 songs - 10 hr 52 min
+205 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Haut niveau](https://open.spotify.com/track/2nXOUhAUyZQ0btHePjTzni) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:02 | 2023-09-28 | 2023-12-15 |
 | [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-11-30 | 2023-12-30 |
 | [Honey](https://open.spotify.com/track/0qQmc7PbruJQ0zQN535nqL) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Hybride](https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK) | 2:56 | 2024-12-19 |  |
-| [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-02-08 |  |
+| [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-02-08 | 2025-02-07 |
 | [Inkonpatible \(feat\. Lycinaïs Jean\)](https://open.spotify.com/track/6e5pkeDJe4kfJgKuqP3xQH) | [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Inkonpatible \(feat\. Lycinaïs Jean\)](https://open.spotify.com/album/7gz1BW4xlM8NHMslH42IEv) | 3:10 | 2024-08-01 |  |
 | [Intouchable](https://open.spotify.com/track/6hHrXwuCgYzikW20akODMk) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Intouchable](https://open.spotify.com/album/11bD4bOSI8YKTKhfoOwxha) | 3:46 | 2024-01-04 | 2024-06-01 |
 | [J'me préfère](https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [J'me préfère](https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx) | 2:55 | 2024-09-05 | 2024-10-25 |
@@ -153,7 +153,7 @@
 | [Pozisyon \- Fem voyé 2](https://open.spotify.com/track/2P4qGmPuDFJb7zBiI5L4aK) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 4:19 | 2023-09-28 | 2024-06-21 |
 | [Projecteurs](https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Projecteurs](https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD) | 3:00 | 2024-05-09 | 2024-06-21 |
 | [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 | 2024-11-07 |  |
-| [RDMV](https://open.spotify.com/track/4QVsBN1976xZ9SKg87Y0g7) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [RDMV](https://open.spotify.com/album/2pJJ5RSEmFb7rl0Q9KzmA5) | 2:25 | 2024-09-26 |  |
+| [RDMV](https://open.spotify.com/track/4QVsBN1976xZ9SKg87Y0g7) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [RDMV](https://open.spotify.com/album/2pJJ5RSEmFb7rl0Q9KzmA5) | 2:25 | 2024-09-26 | 2025-02-07 |
 | [Reviens\-moi](https://open.spotify.com/track/4fRONCP1im6oryMMLXgVfl) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Reviens\-moi](https://open.spotify.com/album/2V32gRmGl9lrYANBh9F3U4) | 2:44 | 2023-09-28 | 2023-10-06 |
 | [Rosalie](https://open.spotify.com/track/17lQCngPjOFEgHwprsVYif) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [Dj Skyro](https://open.spotify.com/artist/6G97rMBD9PiOYqKgMrpRBo) | [On di Road](https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m) | 2:27 | 2024-06-27 | 2024-10-18 |
 | [Résignée](https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Résignée](https://open.spotify.com/album/1AW1TKdEei7KQRYmjsLcNs) | 3:15 | 2023-09-28 | 2023-12-08 |
@@ -164,6 +164,7 @@
 | [Si Seulement \- Radio Edit](https://open.spotify.com/track/5LDhw86tEleNLulijDdLRh) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Si Seulement \(Radio Edit\)](https://open.spotify.com/album/6Vpyyc4Q21LLX8ZVJ9ANYa) | 2:14 | 2024-03-28 |  |
 | [Si tu savais](https://open.spotify.com/track/1tWOUTMDkSLVGsoWbSrDAt) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Dawatcha](https://open.spotify.com/artist/5oMhDTLFrufyB6PWSaoSoy) | [Si tu savais](https://open.spotify.com/album/1A7j6Vx7yFNrQMDXVw7Tqm) | 3:41 | 2024-10-24 |  |
 | [Si tu t'en vas](https://open.spotify.com/track/26mX0WpDrqeTT1pjtxLnox) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Si tu t'en vas](https://open.spotify.com/album/1sAElG5MK6ieLEHZbYqoET) | 3:21 | 2025-01-30 |  |
+| [Sincère](https://open.spotify.com/track/54Zqj7bYgFYCUPLJw7bzBG) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U), [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh) | [Sincère](https://open.spotify.com/album/0mrxUNC3CCGWumGxueh8Jn) | 2:07 | 2025-02-06 |  |
 | [SIWO](https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [SIWO](https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr) | 3:49 | 2025-01-02 |  |
 | [Sonje Mwen](https://open.spotify.com/track/4moodqGELYeoH8KJuJAMJy) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd), [Tayoo](https://open.spotify.com/artist/5cuJlJjmnzoiLcqYJ9Z0gn), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Sonje Mwen](https://open.spotify.com/album/5oKlINDbr58NjRWqtVONzC) | 3:34 | 2023-09-28 | 2023-10-20 |
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-09-28 | 2024-04-05 |
@@ -188,6 +189,7 @@
 | [Ton amour](https://open.spotify.com/track/2iEdw5ymM0dVzaeZHEq4JI) | [Nk Divine](https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD), [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [DESTINÉE chapitre II in ut regium](https://open.spotify.com/album/1jnGuJq0cEPWYWsGPFaUCH) | 2:32 | 2024-07-25 | 2024-08-30 |
 | [TON PIED MON PIED](https://open.spotify.com/track/27Dsm5M4o01VCzFrTMHx7b) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TON PIED MON PIED](https://open.spotify.com/album/5vRxSbGuUdaGP4WR5uSlE1) | 2:55 | 2024-06-20 | 2024-07-19 |
 | [Tou Sa Ki Fo](https://open.spotify.com/track/3DZJQP0BrrpSWKPT8KXMQh) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Tou Sa Ki Fo](https://open.spotify.com/album/7cBHtC6kiiKJbmg4fFBco1) | 2:52 | 2023-09-28 | 2024-02-09 |
+| [Toujours moi \- Remix](https://open.spotify.com/track/7JTpRHELf9c93PBclCt3AB) | [cevin](https://open.spotify.com/artist/4DpPqoHHFd5CuH0t1NlgJI), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ) | [Toujours moi \(Remix\)](https://open.spotify.com/album/2SpcVuxzycXFMuCKB7GnCj) | 3:42 | 2025-02-06 |  |
 | [Tout](https://open.spotify.com/track/2S0CMcdX1jUeMDZFxMsSfM) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Tout](https://open.spotify.com/album/3GqR0RsV6fNF45NtLh7GDT) | 3:09 | 2024-03-07 | 2024-10-11 |
 | [Tout donner](https://open.spotify.com/track/1WL8DMNBEMOmeNw2VuQYAq) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Tout donner](https://open.spotify.com/album/2SOS58yEkmW75KNeialOPY) | 3:09 | 2023-11-09 | 2024-03-01 |
 | [Tout ça](https://open.spotify.com/track/3FpcnvaYqXB9QgvvoY76Ib) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 3:33 | 2024-04-04 | 2024-06-07 |

@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 356055,
+  "num_followers": 356223,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Different Story",
         "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
       },
@@ -879,26 +899,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Worth Mine",
         "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 280054,
       "name": "Worth Mine",
       "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Maybe Just Maybe",
-        "url": "https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8"
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
       },
       "artists": [
         {
-          "name": "Becky Higg",
-          "url": "https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv"
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
         }
       ],
-      "duration_ms": 319552,
-      "name": "Like the Dawn",
-      "url": "https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC"
+      "duration_ms": 274373,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+        "name": "Maybe Just Maybe",
+        "url": "https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8"
       },
       "artists": [
         {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
+          "name": "Becky Higg",
+          "url": "https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv"
         }
       ],
-      "duration_ms": 274373,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+      "duration_ms": 319552,
+      "name": "Like the Dawn",
+      "url": "https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
-      },
-      "artists": [
-        {
-          "name": "Michael Hughes Watson",
-          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
-        }
-      ],
-      "duration_ms": 289411,
-      "name": "Hanging onto Every Word That You Say",
-      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "\u2020 (just the cross)",
         "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 353478,
       "name": "God of the Breakthrough (Live)",
       "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
+      },
+      "artists": [
+        {
+          "name": "Michael Hughes Watson",
+          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
+        }
+      ],
+      "duration_ms": 289411,
+      "name": "Hanging onto Every Word That You Say",
+      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Foolish & Ruined",
-        "url": "https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        },
-        {
-          "name": "Kate Gurren",
-          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
-        }
-      ],
-      "duration_ms": 299368,
-      "name": "Foolish & Ruined",
-      "url": "https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 387536,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Foolish & Ruined",
+        "url": "https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        },
+        {
+          "name": "Kate Gurren",
+          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
+        }
+      ],
+      "duration_ms": 299368,
+      "name": "Foolish & Ruined",
+      "url": "https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg"
     },
     {
       "added_at": "2024-08-03 00:38:12",

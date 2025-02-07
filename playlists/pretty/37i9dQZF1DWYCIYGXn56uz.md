@@ -2,40 +2,40 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Luk3
+> ✨giovane✨pop✨z✨ Cover: Sinomine
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,339 likes - 91 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,355 likes - 91 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PIANGI](https://open.spotify.com/track/1w7ahwV1JYOsbTEyGlLn0y) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PIANGI](https://open.spotify.com/album/63Ah2ya6p54gOZqPda9ZO6) | 2:52 |
 | 2 | [TUTTO L’ODIO](https://open.spotify.com/track/510kRcg1GpYJUYaHlDG8yi) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [TUTTO L’ODIO](https://open.spotify.com/album/0l885K2W8kJ1fDXIBpxE8I) | 2:32 |
-| 3 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
-| 4 | [COMPLICI](https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [COMPLICI](https://open.spotify.com/album/3jiO40zvusWtEZeDHn4j1e) | 3:08 |
-| 5 | [datti tempo](https://open.spotify.com/track/57s4FJIjHtzrDy3amuxdl2) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [abbatteremo i motel e torneremo a far l’amore in mezzo ai campi](https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF) | 2:51 |
-| 6 | [Maledetta Milano](https://open.spotify.com/track/2ULpVjBQ6JiicPxgKNDFOW) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Maledetta Milano](https://open.spotify.com/album/0w491XgukKEcfYdK6ERhVi) | 2:34 |
+| 3 | [TI SENTI FRAGILE](https://open.spotify.com/track/6R5MyN9fYlIXU0YgpC351Z) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [TI SENTI FRAGILE](https://open.spotify.com/album/1A3ePSh47IMFqZwmpeVNI3) | 2:04 |
+| 4 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
+| 5 | [Maledetta Milano](https://open.spotify.com/track/2ULpVjBQ6JiicPxgKNDFOW) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Maledetta Milano](https://open.spotify.com/album/0w491XgukKEcfYdK6ERhVi) | 2:34 |
+| 6 | [COMPLICI](https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [COMPLICI](https://open.spotify.com/album/3jiO40zvusWtEZeDHn4j1e) | 3:08 |
 | 7 | [DOVE TI TROVI TU](https://open.spotify.com/track/7nmgB57lnBQ2cmk3TFXseY) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [DOVE TI TROVI TU](https://open.spotify.com/album/1iYQ3bXd1fj9LVPukNf9KE) | 3:57 |
-| 8 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 |
+| 8 | [datti tempo](https://open.spotify.com/track/57s4FJIjHtzrDy3amuxdl2) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [abbatteremo i motel e torneremo a far l’amore in mezzo ai campi](https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF) | 2:51 |
 | 9 | [MALE](https://open.spotify.com/track/7ChwsnLawCXDSV54rsu4a7) | [MOLLENBECK](https://open.spotify.com/artist/3rb7dklrYmQyEgRr74KdBO) | [MALE](https://open.spotify.com/album/5ge2lN9lz32vgkOAyCgEWD) | 2:43 |
-| 10 | [VALENTINE](https://open.spotify.com/track/19SU905ZSV18Uzw1V76jp5) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [VALENTINE](https://open.spotify.com/album/2P797s7JPzhhepZId6WySP) | 2:38 |
-| 11 | [TI SENTI FRAGILE](https://open.spotify.com/track/6R5MyN9fYlIXU0YgpC351Z) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [TI SENTI FRAGILE](https://open.spotify.com/album/1A3ePSh47IMFqZwmpeVNI3) | 2:04 |
-| 12 | [CEMENTO](https://open.spotify.com/track/3vB23v6nNjrnXWUgF9BoML) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [CEMENTO](https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C) | 2:30 |
-| 13 | [BOOSTER](https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 |
-| 14 | [GRANDINE \(feat\. mew\)](https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [GRANDINE \(feat\. mew\)](https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy) | 3:07 |
-| 15 | [7 VITE](https://open.spotify.com/track/6pDgrvVN6USSlstIcw7Quq) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [7 VITE](https://open.spotify.com/album/3gZuVdhfzgmklwURswCnOR) | 3:18 |
-| 16 | [PERIFERIA](https://open.spotify.com/track/2A2hnGyNL6XAPzQdfB7BBY) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PERIFERIA](https://open.spotify.com/album/47a1bfygUymRWWw3G7gdHF) | 2:44 |
-| 17 | [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 |
-| 18 | [VORREI](https://open.spotify.com/track/3zloVfHZF9XgnP7njHqA5f) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [BRILLEREMO](https://open.spotify.com/album/5hWOZRjtsxnjZ4AQPZZwKm) | 2:47 |
-| 19 | [GIGANTI](https://open.spotify.com/track/7BjIXg2QGwi2q9yPL6wiaI) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [GIGANTI](https://open.spotify.com/album/59Q4t9oZdSQkyGBZ7gSBU1) | 2:23 |
-| 20 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 |
-| 21 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 |
-| 22 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 |
-| 23 | [Morire x te](https://open.spotify.com/track/1EnlnBwni7gpQOLpqwGVki) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Morire x te](https://open.spotify.com/album/2MbK8XNBh27XNXeI8qNZUJ) | 2:53 |
-| 24 | [TONIGHT](https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:55 |
-| 25 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 |
+| 10 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 |
+| 11 | [VALENTINE](https://open.spotify.com/track/19SU905ZSV18Uzw1V76jp5) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [VALENTINE](https://open.spotify.com/album/2P797s7JPzhhepZId6WySP) | 2:38 |
+| 12 | [BOOSTER](https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 |
+| 13 | [GRANDINE \(feat\. mew\)](https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [GRANDINE \(feat\. mew\)](https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy) | 3:07 |
+| 14 | [7 VITE](https://open.spotify.com/track/6pDgrvVN6USSlstIcw7Quq) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [7 VITE](https://open.spotify.com/album/3gZuVdhfzgmklwURswCnOR) | 3:18 |
+| 15 | [PERIFERIA](https://open.spotify.com/track/2A2hnGyNL6XAPzQdfB7BBY) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PERIFERIA](https://open.spotify.com/album/47a1bfygUymRWWw3G7gdHF) | 2:44 |
+| 16 | [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 |
+| 17 | [VORREI](https://open.spotify.com/track/3zloVfHZF9XgnP7njHqA5f) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [BRILLEREMO](https://open.spotify.com/album/5hWOZRjtsxnjZ4AQPZZwKm) | 2:47 |
+| 18 | [GIGANTI](https://open.spotify.com/track/7BjIXg2QGwi2q9yPL6wiaI) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [GIGANTI](https://open.spotify.com/album/59Q4t9oZdSQkyGBZ7gSBU1) | 2:23 |
+| 19 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 |
+| 20 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 |
+| 21 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 |
+| 22 | [PARIGI IN MOTORINO](https://open.spotify.com/track/2LufZncOUh94FKHwkan3Yt) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PARIGI IN MOTORINO](https://open.spotify.com/album/41D6cZ7PJJWZ3X6mZU02c5) | 2:22 |
+| 23 | [CEMENTO](https://open.spotify.com/track/3vB23v6nNjrnXWUgF9BoML) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [CEMENTO](https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C) | 2:30 |
+| 24 | [Morire x te](https://open.spotify.com/track/1EnlnBwni7gpQOLpqwGVki) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Morire x te](https://open.spotify.com/album/2MbK8XNBh27XNXeI8qNZUJ) | 2:53 |
+| 25 | [TONIGHT](https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:55 |
 | 26 | [Yin e Yang](https://open.spotify.com/track/1u4litNjAxzmnVnmURGSJI) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Yin e Yang](https://open.spotify.com/album/2CJbTQ4bOoFN6cNaLpx6qg) | 3:16 |
-| 27 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
-| 28 | [PARIGI IN MOTORINO](https://open.spotify.com/track/2LufZncOUh94FKHwkan3Yt) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PARIGI IN MOTORINO](https://open.spotify.com/album/41D6cZ7PJJWZ3X6mZU02c5) | 2:22 |
+| 27 | [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 |
+| 28 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 29 | [BOGOTÀ](https://open.spotify.com/track/0pamvlplMuoJYYdWjx40F8) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa) | [BOGOTÀ](https://open.spotify.com/album/3iisQ3Y79XKrLu3Osh36g4) | 2:50 |
 | 30 | [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 |
 | 31 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 90 | [SORRIDI](https://open.spotify.com/track/2BJaqUsL1o6iTQ9hdE47Gt) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [SORRIDI](https://open.spotify.com/album/4Kp4ZIviktMIGIOK2eyfs8) | 2:38 |
 | 91 | [GOOD VIBES](https://open.spotify.com/track/0M8pMoPhKVVR8H2spqn6WR) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [GOOD VIBES](https://open.spotify.com/album/2PQxEamcHfVno3b9XqDTZ9) | 2:17 |
 
-Snapshot ID: `Z6Mk4QAAAACDrfhYH8XooXC9FurPezVn`
+Snapshot ID: `Z6U/RAAAAAAy/4W6clL7Wr7tF7SfkT6k`

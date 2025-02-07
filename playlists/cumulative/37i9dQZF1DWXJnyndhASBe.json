@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Otsochodzi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Oki, Sobel",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -3554,7 +3554,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 160786,
       "name": "FAKE LOVER KILLA",
       "url": "https://open.spotify.com/track/6niNseYshrNdiJSFSepucY"
@@ -3729,6 +3729,32 @@
     },
     {
       "album": {
+        "name": "TRAP OR DIE",
+        "url": "https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "Skibovicz",
+          "url": "https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172737,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/03AtxQQni31xmk0ypRbCy4"
+    },
+    {
+      "album": {
         "name": "FRED PERRY",
         "url": "https://open.spotify.com/album/0g2ZuXljh30fqV2U8sZwIb"
       },
@@ -3888,6 +3914,24 @@
       "duration_ms": 276240,
       "name": "Futurama 3 (fanserwis)",
       "url": "https://open.spotify.com/track/7ousJJ6DkKOeeXwfgWEMpN"
+    },
+    {
+      "album": {
+        "name": "FUTURE TRUNKS",
+        "url": "https://open.spotify.com/album/6HLD9YCmhg1u40ZTrZyssp"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133308,
+      "name": "FUTURE TRUNKS",
+      "url": "https://open.spotify.com/track/3OvXw2P2SdJQW7uVIvQEQb"
     },
     {
       "album": {
@@ -4082,7 +4126,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 198979,
       "name": "Gigachat",
       "url": "https://open.spotify.com/track/4wNZ9e2tM91kFZLAeB9Uy6"
@@ -4486,6 +4530,32 @@
       "duration_ms": 194471,
       "name": "HIPNOZA",
       "url": "https://open.spotify.com/track/4EHHB2Gfa9d4iPx8JsCd65"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0HqjLq0JODHvnFxNNZHBTS"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "MEFiU",
+          "url": "https://open.spotify.com/artist/3sAdSQuBVhURIT4pxsRjvE"
+        },
+        {
+          "name": "krvchy",
+          "url": "https://open.spotify.com/artist/6qcwTqb6gTXBCQ97Avu4Xt"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6QK3EJdsNTlG8MAyEoawdZ"
     },
     {
       "album": {
@@ -5401,6 +5471,28 @@
     },
     {
       "album": {
+        "name": "KIEROWNIK",
+        "url": "https://open.spotify.com/album/3VefAkpACw9xRiopjJ4w9F"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172549,
+      "name": "KIEROWNIK",
+      "url": "https://open.spotify.com/track/1pl6TiCoKfRGkQ2Miyvy9f"
+    },
+    {
+      "album": {
         "name": "King Size",
         "url": "https://open.spotify.com/album/3sXqTZQZCYJDFMZgJvAxTO"
       },
@@ -5766,7 +5858,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 194651,
       "name": "KSZTA\u0141T MI\u0141O\u015aCI",
       "url": "https://open.spotify.com/track/4QGnaYACkePKzWGbatWBeJ"
@@ -6358,7 +6450,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
@@ -6698,7 +6790,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 167666,
       "name": "Materac",
       "url": "https://open.spotify.com/track/4Vjo8A00Nh5PZu0V3ip1cz"
@@ -7236,7 +7328,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 189756,
       "name": "Mood",
       "url": "https://open.spotify.com/track/3gWEv74rPdF2L03M7GxGB6"
@@ -7406,7 +7498,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 157230,
       "name": "M\u0142ody gniewny",
       "url": "https://open.spotify.com/track/2s9kTX17JCxtXfKxIPJLRw"
@@ -8435,6 +8527,28 @@
     },
     {
       "album": {
+        "name": "TRAP OR DIE",
+        "url": "https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179851,
+      "name": "NUMBER ONE",
+      "url": "https://open.spotify.com/track/7aEwawzOPzsoZ98wiTmOSK"
+    },
+    {
+      "album": {
         "name": "N\u00d3\u017b",
         "url": "https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr"
       },
@@ -8546,6 +8660,36 @@
       "duration_ms": 147969,
       "name": "O W\u0141OS",
       "url": "https://open.spotify.com/track/4JdfdZZyqU24NRkPSZKm7t"
+    },
+    {
+      "album": {
+        "name": "Obieg s\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/5F5qOfm2j33uWLy6rmCNIn"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Obieg s\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/4rJTAmQHtgg7HDNehxtNxr"
     },
     {
       "album": {
@@ -9988,7 +10132,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 161142,
       "name": "Przestrze\u0144",
       "url": "https://open.spotify.com/track/1grOERE9gvD8HLbXqW55PU"
@@ -11266,6 +11410,10 @@
         {
           "name": "Sobel",
           "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
         }
       ],
       "date_added": "2025-02-03",
@@ -11594,6 +11742,36 @@
       "duration_ms": 141230,
       "name": "tired of love",
       "url": "https://open.spotify.com/track/1XwpWQUlkgArpGypJ8Cofn"
+    },
+    {
+      "album": {
+        "name": "TRAP OR DIE",
+        "url": "https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176813,
+      "name": "TO NIE MA ZNACZENIA",
+      "url": "https://open.spotify.com/track/5Z1HsKTp6rmCOYu54nfKji"
     },
     {
       "album": {

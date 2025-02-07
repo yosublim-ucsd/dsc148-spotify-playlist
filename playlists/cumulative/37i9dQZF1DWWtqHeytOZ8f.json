@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 416560,
       "name": "Ether",
       "url": "https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD"
@@ -5330,6 +5330,28 @@
       "duration_ms": 339348,
       "name": "Into The Blue",
       "url": "https://open.spotify.com/track/2Ou5fxpYTS1t0mNCDVzsKx"
+    },
+    {
+      "album": {
+        "name": "Into The Glare",
+        "url": "https://open.spotify.com/album/74MdV8jqEjlPbVqhcSepdG"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141936,
+      "name": "Into The Glare",
+      "url": "https://open.spotify.com/track/2IylguIokLMTagCSWe0Ym6"
     },
     {
       "album": {

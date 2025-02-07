@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "Let Me Go (feat. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/52CoE2Gs06mid6NMkGDzLY"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282200,
+      "name": "Let Me Go (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/7nGN1Wu9kCaKUUdqBcY9NZ"
+    },
+    {
+      "album": {
         "name": "Life According To Raechel",
         "url": "https://open.spotify.com/album/72oba0tTHatmqgkzdHCosS"
       },
@@ -1634,7 +1656,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 216493,
       "name": "The Moment - Acoustic",
       "url": "https://open.spotify.com/track/5TL9oxmDIsT0KIFEvAZo5n"
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 270746,
       "name": "When Love Loves Alone",
       "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"

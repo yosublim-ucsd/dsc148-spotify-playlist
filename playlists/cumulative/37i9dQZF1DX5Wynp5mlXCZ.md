@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: The Weeknd
+> Топові новинки української та світової поп\-музики\. Обкладинка: Damiano David
 
-256 songs - 12 hr 42 min
+258 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 разів](https://open.spotify.com/track/4dAuvPHdQazF5XfO4KRWuC) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [10 разів](https://open.spotify.com/album/1j6iDmoFGrP1GYt6z68dQM) | 2:08 | 2024-09-07 | 2024-10-26 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 | 2024-12-20 |
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-08-01 | 2024-11-29 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 |  |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-06-27 | 2024-09-14 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
 | [Amnesia](https://open.spotify.com/track/3giwe9vgaYqArFdbgVYhQp) | [МУАЯД](https://open.spotify.com/artist/7EjMNFcXJRxyuycVg8fIgk) | [Amnesia](https://open.spotify.com/album/7q592euhE7MEfSF9xh3mC2) | 2:52 | 2025-01-16 | 2025-01-24 |
@@ -22,6 +23,7 @@
 | [Bird of Pray](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 | 2025-01-23 |  |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-26 |  |
 | [Black Hearse](https://open.spotify.com/track/2mdESIb8uoO2BtRvdwCewZ) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [Black Hearse](https://open.spotify.com/album/3MG0j9lXqFe35cRwG0nncu) | 2:50 | 2024-10-25 | 2024-11-01 |
+| [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-06 |  |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-10-25 |  |
 | [Chasing Low Vibrations](https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Chasing Low Vibrations](https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt) | 3:24 | 2024-07-26 | 2024-08-20 |
 | [Chasing My Happiness](https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4) | [DEMCHUK](https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO) | [Chasing My Happiness](https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX) | 2:06 | 2024-08-23 | 2024-09-14 |
@@ -189,8 +191,8 @@
 | [Красівий](https://open.spotify.com/track/5nRpa0Ib7GHiWeHVCR7u1W) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Красівий](https://open.spotify.com/album/6a4Uch4h1D0M0d1CfwlZGi) | 4:02 | 2024-10-04 | 2024-11-09 |
 | [Кришталі](https://open.spotify.com/track/0UTmyNzYIARNjG9k9lN0lQ) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Кришталі](https://open.spotify.com/album/777DuOiFa5PewMJ9x4eeBV) | 2:15 | 2025-01-16 | 2025-01-24 |
 | [Кружить \- Repaired](https://open.spotify.com/track/3q2OthmSLD8RKiEny60H1d) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Repaired](https://open.spotify.com/album/5eIql5MFNYOXEc0ALHp8aM) | 3:18 | 2024-06-27 | 2024-07-13 |
-| [Культура](https://open.spotify.com/track/0qOzXCWeUPx84YfByQ00xt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Культура](https://open.spotify.com/album/52fvr5WiLVPz9ToXBtC2QV) | 2:57 | 2025-01-16 |  |
-| [Кінець Світу](https://open.spotify.com/track/33PwqeBkIeTuEBZlGBjnUU) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Кінець Світу](https://open.spotify.com/album/0RYgX5ufehbFe1Z4DherOL) | 3:30 | 2025-01-30 |  |
+| [Культура](https://open.spotify.com/track/0qOzXCWeUPx84YfByQ00xt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Культура](https://open.spotify.com/album/52fvr5WiLVPz9ToXBtC2QV) | 2:57 | 2025-01-16 | 2025-02-07 |
+| [Кінець Світу](https://open.spotify.com/track/33PwqeBkIeTuEBZlGBjnUU) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Кінець Світу](https://open.spotify.com/album/0RYgX5ufehbFe1Z4DherOL) | 3:30 | 2025-01-30 | 2025-02-07 |
 | [ЛИПЕНЬ](https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK) | [ЛИПЕНЬ](https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH) | 3:38 | 2024-07-12 | 2024-07-20 |
 | [лікую](https://open.spotify.com/track/5nm5ctbjUoTRQkztMaTckL) | [NANA](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [лікую](https://open.spotify.com/album/4r026BckhTLJBXMcCnl7e2) | 2:56 | 2024-08-30 | 2024-11-22 |
 | [Лілії](https://open.spotify.com/track/7u7rNKlamHbQtheoIWHaHx) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Лілії](https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW) | 2:41 | 2024-07-04 | 2025-01-19 |

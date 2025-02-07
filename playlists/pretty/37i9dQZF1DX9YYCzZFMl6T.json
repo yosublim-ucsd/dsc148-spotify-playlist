@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 3792,
+  "num_followers": 3801,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
+      "duration_ms": 154440,
+      "name": "I Heard The Bells On Christmas Day",
+      "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
         }
       ],
-      "duration_ms": 154440,
-      "name": "I Heard The Bells On Christmas Day",
-      "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
+      "duration_ms": 248066,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas Time's A-Comin'",
-        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
-      },
-      "artists": [
-        {
-          "name": "Jerry Garcia Acoustic Band",
-          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Christmas Time's A-Comin' - Live",
-      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "White Winter Hymnal",
         "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 150563,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Christmas Time's A-Comin'",
+        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Christmas Time's A-Comin' - Live",
+      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
     },
     {
       "added_at": "2024-12-20 18:31:17",

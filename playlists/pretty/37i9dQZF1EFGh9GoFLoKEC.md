@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs">Mark Ronson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,742 likes - 93 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,743 likes - 93 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 74 | [Freak Of Nature](https://open.spotify.com/track/2R5MNcivvBdMqV5rFnVH3L) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Mark Ronson Presents The Music Of "Spies In Disguise"](https://open.spotify.com/album/0EeETtjyIpQwsiqIQMHLtk) | 3:27 |
 | 75 | [Keep on Moving On](https://open.spotify.com/track/251AGu65HDV4oqbikOandE) | [Andy Burrows](https://open.spotify.com/artist/1gYp1OMI5TA9gdiwfdC57M) | [Company](https://open.spotify.com/album/6Vri3uhFkZTyFFT7SceFqC) | 2:37 |
 | 76 | [Glass Mountain Trust](https://open.spotify.com/track/1ozHpSkGN7mTzd9QPWhkZ9) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Business Intl](https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4) | [Record Collection](https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h) | 3:46 |
-| 77 | [Bird Calling](https://open.spotify.com/track/5Q6iSMVKnyreghtAjS2t7k) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bird Calling](https://open.spotify.com/album/4WmMR5EMxXuxojG65W1DDU) | 3:03 |
-| 78 | [Mama Told Me](https://open.spotify.com/track/1t52HllJZSahQ2b71IopOy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 3:37 |
+| 77 | [Mama Told Me](https://open.spotify.com/track/1t52HllJZSahQ2b71IopOy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 3:37 |
+| 78 | [Bird Calling](https://open.spotify.com/track/5Q6iSMVKnyreghtAjS2t7k) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bird Calling](https://open.spotify.com/album/4WmMR5EMxXuxojG65W1DDU) | 3:03 |
 | 79 | [WING](https://open.spotify.com/track/1ho6oMAuDoJ6r0mopG360r) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [FUTURE PAST](https://open.spotify.com/album/6110oJYz5yFM4RiMSLwe5A) | 5:19 |
 | 80 | [Only in Dreams](https://open.spotify.com/track/6njZoQz1itZlkLBvOECNMp) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Paper Gods](https://open.spotify.com/album/2Pvbc55bvFduWqHUUWR0oP) | 6:05 |
 | 81 | [Mother May I](https://open.spotify.com/track/1AVvIjs2gEtEupBATVWLtt) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Heart Blanche](https://open.spotify.com/album/7gUiG0bEsWsD5kEUHVIajS) | 4:59 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 92 | [Do You Do You Know \(feat\. Santigold & Kathleen Hanna\)](https://open.spotify.com/track/6jN57Tbx38RDQ7eEGoH1Fd) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Kathleen Hanna](https://open.spotify.com/artist/0NXQFDQVqS7ffqT8yLKUAM) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 2:31 |
 | 93 | [Hell To Be You Baby](https://open.spotify.com/track/1AJsGxc2WejmcdXbxX50uk) | [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Hell To Be You Baby](https://open.spotify.com/album/48BuHR7I9Nauw1WA60OhTy) | 3:55 |
 
-Snapshot ID: `AbozrAAAAACiS1+9U1U/JW3IRW4hGGDG`
+Snapshot ID: `Abo5TAAAAACR0cJ+Lu0nV6bv9XtO5S2s`

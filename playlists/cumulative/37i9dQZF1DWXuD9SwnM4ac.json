@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Serebii",
+  "description": "All the new indie tracks worth knowing about. Cover: Chloe Slater",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 158280,
       "name": "6 Foot",
       "url": "https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "9-5",
+      "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
     },
     {
       "album": {
@@ -286,7 +304,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 152914,
       "name": "adhd",
       "url": "https://open.spotify.com/track/7qdBQTqTUItP38sOZpYPbI"
@@ -398,6 +416,28 @@
       "duration_ms": 238600,
       "name": "All 4 U",
       "url": "https://open.spotify.com/track/2MZfC04V2AAKaNBukhJiUf"
+    },
+    {
+      "album": {
+        "name": "All I Ever Asked (with sombr)",
+        "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217578,
+      "name": "All I Ever Asked (with sombr)",
+      "url": "https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn"
     },
     {
       "album": {
@@ -614,7 +654,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 156924,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2"
@@ -632,7 +672,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 232745,
       "name": "Analogue Love",
       "url": "https://open.spotify.com/track/5kkFOCOfpKzEu4cKDBdIXk"
@@ -686,7 +726,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 191476,
       "name": "Ankles",
       "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
@@ -1225,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "blade bird",
+        "url": "https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198587,
+      "name": "blade bird",
+      "url": "https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ"
+    },
+    {
+      "album": {
         "name": "tell me if the world is gonna end",
         "url": "https://open.spotify.com/album/5M6DBibWNDlicJ1mAsnK9C"
       },
@@ -1362,7 +1420,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 238220,
       "name": "Bodys Chorus",
       "url": "https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY"
@@ -1687,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Calling Out Your Name",
+        "url": "https://open.spotify.com/album/7o8G8YqFdqefHY4RT3Al3U"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Calling Out Your Name",
+      "url": "https://open.spotify.com/track/67QwptDtovlQWguTfHSeR5"
+    },
+    {
+      "album": {
         "name": "can't slow down",
         "url": "https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK"
       },
@@ -1864,7 +1940,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 194296,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu"
@@ -2142,7 +2218,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 235684,
       "name": "Colourblind (feat. Loyle Carner)",
       "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
@@ -2987,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Electric Green Lambo",
+        "url": "https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155179,
+      "name": "Electric Green Lambo",
+      "url": "https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq"
+    },
+    {
+      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
       },
@@ -3135,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Everyone Will See It",
+        "url": "https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204620,
+      "name": "Everyone Will See It",
+      "url": "https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO"
+    },
+    {
+      "album": {
         "name": "Everything Shines",
         "url": "https://open.spotify.com/album/7namd4CP0MH6Vqte75FjVH"
       },
@@ -3154,7 +3266,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 230769,
       "name": "Everything Shines",
       "url": "https://open.spotify.com/track/28kM2tZgT3NYLG046gLUwS"
@@ -3374,7 +3486,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 282042,
       "name": "Ferry Lady",
       "url": "https://open.spotify.com/track/0d3jI3SmR8cFpp6fYOvyWa"
@@ -4817,6 +4929,24 @@
     },
     {
       "album": {
+        "name": "I Just Do!",
+        "url": "https://open.spotify.com/album/0NoxyeMZ6UNGNSDRG1UUFq"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "I Just Do!",
+      "url": "https://open.spotify.com/track/7AL5SFvQYZLbfmGzq1WFQ2"
+    },
+    {
+      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -4983,6 +5113,42 @@
     },
     {
       "album": {
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250409,
+      "name": "Idiot Box",
+      "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
+    },
+    {
+      "album": {
+        "name": "If Only With You",
+        "url": "https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194388,
+      "name": "If Only With You",
+      "url": "https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5"
+    },
+    {
+      "album": {
         "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
         "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
       },
@@ -5056,6 +5222,24 @@
       "duration_ms": 162405,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
+    },
+    {
+      "album": {
+        "name": "In My Heart",
+        "url": "https://open.spotify.com/album/4L9x5lgUhZJWgRrqlCHlN3"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230975,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo"
     },
     {
       "album": {
@@ -5554,7 +5738,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 220408,
       "name": "Leaveyourlove (with King Stingray)",
       "url": "https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo"
@@ -5648,7 +5832,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 178453,
       "name": "Lewps",
       "url": "https://open.spotify.com/track/2Nuv2gVkBhaCn9xW9J1QIk"
@@ -7161,6 +7345,24 @@
     },
     {
       "album": {
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
+    },
+    {
+      "album": {
         "name": "In Breech",
         "url": "https://open.spotify.com/album/0PsNN3eGsmrzfB1R2QRkfC"
       },
@@ -7172,7 +7374,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 237750,
       "name": "One Way or the Other",
       "url": "https://open.spotify.com/track/6bX80hmB6BJQgHGeCn41OU"
@@ -7338,7 +7540,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 145093,
       "name": "Orlando in Love",
       "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
@@ -7627,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "Please Don't Move To Melbourne",
+        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291153,
+      "name": "Please Don't Move To Melbourne",
+      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
+    },
+    {
+      "album": {
         "name": "Please!",
         "url": "https://open.spotify.com/album/706u9YXN3kA7ptrncIDRpE"
       },
@@ -7692,7 +7912,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 243000,
       "name": "Ponytail",
       "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
@@ -7852,6 +8072,24 @@
       "duration_ms": 147894,
       "name": "Rainy",
       "url": "https://open.spotify.com/track/3p8lRdtsdptq9Td8I7ewjk"
+    },
+    {
+      "album": {
+        "name": "Mentalized",
+        "url": "https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277499,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/4fhp9DF01CubZ3PapDjxX1"
     },
     {
       "album": {
@@ -9061,6 +9299,24 @@
     },
     {
       "album": {
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+    },
+    {
+      "album": {
         "name": "Summer 2000 Baby / Take a Trip",
         "url": "https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4"
       },
@@ -9667,6 +9923,28 @@
     },
     {
       "album": {
+        "name": "Throw A Fit",
+        "url": "https://open.spotify.com/album/4XvaLxTkk1jSJjzCWIPEOm"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        },
+        {
+          "name": "Chevy",
+          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223811,
+      "name": "Throw A Fit",
+      "url": "https://open.spotify.com/track/3tazpHY9P91agm3vmKyzeG"
+    },
+    {
+      "album": {
         "name": "tidal wave",
         "url": "https://open.spotify.com/album/6iF2RBE0lrba8zSOuQslW8"
       },
@@ -9880,7 +10158,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 300045,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ"
@@ -10112,6 +10390,24 @@
       "duration_ms": 171351,
       "name": "What You've Lost",
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
+    },
+    {
+      "album": {
+        "name": "What's It Like",
+        "url": "https://open.spotify.com/album/2IUoATElmdBv8jJgvNcYnx"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162927,
+      "name": "What's It Like",
+      "url": "https://open.spotify.com/track/0sbQakBa4DM2ITECNnDlhR"
     },
     {
       "album": {
@@ -10368,7 +10664,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 246613,
       "name": "Yesterday's World",
       "url": "https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn"

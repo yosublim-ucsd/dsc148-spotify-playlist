@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Brook",
+        "url": "https://open.spotify.com/album/7BmzxCXDaZXNkvkGJBnUvH"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188184,
+      "name": "Brook",
+      "url": "https://open.spotify.com/track/2RsoQkqUa60wRf5eT9tls4"
+    },
+    {
+      "album": {
         "name": "Cabin Rain, Crickets and Birds",
         "url": "https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6"
       },
@@ -3812,7 +3830,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 156000,
       "name": "Togetherness (Forest Sleep 528 Hz)",
       "url": "https://open.spotify.com/track/3tqIjFtPZ8EBzsXRngKW4s"

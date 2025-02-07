@@ -4,7 +4,7 @@
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-93 songs - 7 hr 40 min
+94 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Don't Play Games](https://open.spotify.com/track/2ufJWHzuyZQSLfPR3k1f5A) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 7:23 | 2021-04-08 | 2023-01-29 |
 | [Fragile – Handle with Care](https://open.spotify.com/track/14wvWs6otTKBimbT2cW0KZ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Somewhere in the Past](https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw) | 2:53 | 2024-01-13 | 2024-01-15 |
 | [Girl It's True, Yes I'll Always Love You](https://open.spotify.com/track/7gp5Y4PTwCGJURmaY7QhVj) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The 20th Century Records Albums \(1973\-1979\)](https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi) | 8:37 | 2020-10-20\* | 2021-01-02 |
+| [Girl It's True, Yes I'll Always Love You](https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Stone Gon'](https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR) | 8:40 | 2025-02-07 |  |
 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/6QtcHrzhtQD7b623E269Ni) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The 20th Century Records Albums \(1973\-1979\)](https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi) | 4:59 | 2020-10-20\* | 2022-10-29 |
 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 5:02 | 2024-07-13 |  |
 | [Honey Please, Can't Ya See](https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:14 | 2022-10-15 |  |
@@ -63,7 +64,7 @@
 | [Never, Never Gonna Give Ya Up](https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 4:50 | 2021-09-12 |  |
 | [Never, Never Gonna Give Ya Up \- Long Version](https://open.spotify.com/track/00FRRwuaJP9KimukvLQCOz) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 4:40 | 2020-10-20\* | 2021-09-10 |
 | [Never, Never Gonna Give Ya Up \- Long Version](https://open.spotify.com/track/6IJzcmcNDLpInP7nverunW) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White & Candlelight: A Love Collection Pt\. 2](https://open.spotify.com/album/3XotEmKQfEhV0wTebRzOD9) | 4:50 | 2022-04-05 | 2022-06-22 |
-| [No I'm Never Gonna Give Ya Up \- Instrumental](https://open.spotify.com/track/14AC4CVxgXOMvf558rQI3U) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 4:27 | 2020-10-20\* |  |
+| [No I'm Never Gonna Give Ya Up \- Instrumental](https://open.spotify.com/track/14AC4CVxgXOMvf558rQI3U) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 4:27 | 2020-10-20\* | 2025-02-07 |
 | [Oh Love, Well We Finally Made It](https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 3:54 | 2020-10-20\* |  |
 | [Oh What A Night For Dancing](https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 3:55 | 2020-10-20\* |  |
 | [Playing Your Game, Baby](https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:13 | 2021-01-03 |  |

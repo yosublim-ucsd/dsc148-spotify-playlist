@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Macario Mart\u00ednez en portada.",
-  "num_followers": 75103,
+  "num_followers": 75279,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-02-04 17:38:17",
       "album": {
-        "name": "El Cielo Te Mand\u00f3 para M\u00ed",
-        "url": "https://open.spotify.com/album/3Sbn5yRNAZzyPIo93H9JaQ"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 170751,
-      "name": "El Cielo Te Mand\u00f3 para M\u00ed",
-      "url": "https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj"
-    },
-    {
-      "added_at": "2025-02-04 17:38:17",
-      "album": {
         "name": "Te Perd\u00ed",
         "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 239377,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
+    },
+    {
+      "added_at": "2025-02-04 17:38:17",
+      "album": {
+        "name": "El Cielo Te Mand\u00f3 para M\u00ed",
+        "url": "https://open.spotify.com/album/3Sbn5yRNAZzyPIo93H9JaQ"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 170751,
+      "name": "El Cielo Te Mand\u00f3 para M\u00ed",
+      "url": "https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj"
     },
     {
       "added_at": "2025-02-04 17:38:17",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-02-04 17:38:17",
       "album": {
-        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
-        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
-      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
-    },
-    {
-      "added_at": "2025-02-04 17:38:17",
-      "album": {
         "name": "Tuvimos Futuro",
         "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 211030,
       "name": "Tuvimos Futuro",
       "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
+    },
+    {
+      "added_at": "2025-02-04 17:38:17",
+      "album": {
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
     },
     {
       "added_at": "2025-02-04 17:38:17",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-02-04 17:38:17",
       "album": {
-        "name": "Alguien Me Quiere",
-        "url": "https://open.spotify.com/album/3HuPpu6mTEucNfyBOxE6D6"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 216285,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/1qKy4BFRJ0zU95DzdOAlIT"
-    },
-    {
-      "added_at": "2025-02-04 17:38:17",
-      "album": {
         "name": "Quer\u00eda Volverte a Ver",
         "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 251760,
       "name": "Quer\u00eda Volverte a Ver",
       "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
+    },
+    {
+      "added_at": "2025-02-04 17:38:17",
+      "album": {
+        "name": "Alguien Me Quiere",
+        "url": "https://open.spotify.com/album/3HuPpu6mTEucNfyBOxE6D6"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 216285,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/1qKy4BFRJ0zU95DzdOAlIT"
     },
     {
       "added_at": "2025-02-04 17:38:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-02-04 17:38:17",
       "album": {
-        "name": "Hola, Me Llamo Mar\u00eda",
-        "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Hola, Me Llamo Mar\u00eda",
-      "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
-    },
-    {
-      "added_at": "2025-02-04 17:38:17",
-      "album": {
         "name": "LA FALTA QUE ME HACES",
         "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 180250,
       "name": "LA FALTA QUE ME HACES",
       "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
+    },
+    {
+      "added_at": "2025-02-04 17:38:17",
+      "album": {
+        "name": "Hola, Me Llamo Mar\u00eda",
+        "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Hola, Me Llamo Mar\u00eda",
+      "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
     },
     {
       "added_at": "2025-02-04 17:38:17",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-02-04 17:38:17",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 174288,
-      "name": "Ra\u00edces",
-      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
-    },
-    {
-      "added_at": "2025-02-04 17:38:17",
-      "album": {
         "name": "Cuanto antes (feat. Lali)",
         "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 226844,
       "name": "Cuanto antes (feat. Lali)",
       "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
+    },
+    {
+      "added_at": "2025-02-04 17:38:17",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 174288,
+      "name": "Ra\u00edces",
+      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
     },
     {
       "added_at": "2025-02-04 17:38:17",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-02-04 17:38:17",
       "album": {
-        "name": "Nunca Fuimos Al Mar",
-        "url": "https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 133411,
-      "name": "Nunca Fuimos Al Mar",
-      "url": "https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL"
-    },
-    {
-      "added_at": "2025-02-04 17:38:17",
-      "album": {
         "name": "Canci\u00f3n de Cuna Para mi Amor",
         "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 138000,
       "name": "Canci\u00f3n de Cuna Para mi Amor",
       "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
+    },
+    {
+      "added_at": "2025-02-04 17:38:17",
+      "album": {
+        "name": "Nunca Fuimos Al Mar",
+        "url": "https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 133411,
+      "name": "Nunca Fuimos Al Mar",
+      "url": "https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL"
     },
     {
       "added_at": "2025-02-04 17:38:17",

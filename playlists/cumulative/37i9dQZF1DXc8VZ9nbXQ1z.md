@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-665 songs - 2 day 16 hr 24 min
+666 songs - 2 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All Mine](https://open.spotify.com/track/66zDhENpxNMKLC6iWxDvTC) | [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Vinnie Mak](https://open.spotify.com/artist/1gOP3ZR52ZQpJiMFCGHfhC) | [All Mine](https://open.spotify.com/album/7IkTViZUfoEMqJfEcuIhOg) | 5:54 | 2022-12-14 | 2023-04-02 |
 | [Always](https://open.spotify.com/track/0RFsjZUGmD6dHy5KwhzM9K) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:34 | 2022-09-13 | 2022-12-15 |
 | [Ama Gear](https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [031 Studio Camp](https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX) | 7:05 | 2024-10-21 |  |
+| [AmaGroovist](https://open.spotify.com/track/5ZEQi72QOBquJLPCyvybxH) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Cuebur](https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7) | [AmaGroovist](https://open.spotify.com/album/1ta75fj12mmjEokJhCPtAY) | 6:24 | 2025-02-06 |  |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-05-13 |  |
 | [Amano](https://open.spotify.com/track/2XYARVe43eZzcAxx63FZYA) | [Meith](https://open.spotify.com/artist/2XTv5bUTw9Dm3H730vqdV9), [Kreative Nativez](https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT) | [Amano](https://open.spotify.com/album/2EkLDToyNB8KGvVKIIJPdU) | 6:05 | 2023-03-17 | 2023-10-13 |
 | [Amanxeba](https://open.spotify.com/track/0WGcw62a3tCniUTFP50lWt) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Indalo](https://open.spotify.com/album/7kx9yTATM8wc4c1u4fmwQc) | 7:32 | 2024-09-05 | 2025-01-17 |

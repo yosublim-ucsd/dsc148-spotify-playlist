@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-575 songs - 1 day 18 hr 18 min
+576 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Popcorn Andino](https://open.spotify.com/track/7kkijB89vc5uGbG1WhUFZu) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 5:19 | 2023-07-10 | 2024-04-19 |
 | [Povo M\`povo](https://open.spotify.com/track/41YENX4uiIqiuNzaczGvqw) | [Monoswezi](https://open.spotify.com/artist/5CiNsR3D1igH6Ant0jVNFW) | [Monoswezi Yanga](https://open.spotify.com/album/0QqxzQWrfgOFBJljmRBoRx) | 6:03 | 2024-03-08 |  |
 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 | 2023-07-10 | 2024-04-19 |
-| [Pà Pá Pà](https://open.spotify.com/track/4cc9XctJ4WrRxWWWBXIHm4) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Pà Pá Pà](https://open.spotify.com/album/7IwqmMHLyPbRfPG8788M4s) | 3:22 | 2024-03-08 |  |
+| [Pà Pá Pà](https://open.spotify.com/track/4cc9XctJ4WrRxWWWBXIHm4) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Pà Pá Pà](https://open.spotify.com/album/7IwqmMHLyPbRfPG8788M4s) | 3:22 | 2024-03-08 | 2025-02-07 |
 | [Qam Hina](https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Qam Hina](https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK) | 4:07 | 2024-03-08 |  |
 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 | 2023-07-10 |  |
 | [Que Sea para Mí \(Sabor a Mar\)](https://open.spotify.com/track/5z9W5BFUJmwkPGww6rfFUo) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:18 | 2023-07-10 |  |
@@ -494,6 +494,7 @@
 | [Take Me Coco](https://open.spotify.com/track/6yrkpPUltejtwROBdpkgJY) | [Zap Mama](https://open.spotify.com/artist/5UUHefXYUqgqmROQvDmJLL) | [Zap Mama](https://open.spotify.com/album/0DBeA9lvn15ogHsRGD8TPq) | 4:13 | 2024-03-08 |  |
 | [Tala Tannam](https://open.spotify.com/track/0jec5L4s39oa8nVwBr42aa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Tala Tannam](https://open.spotify.com/album/6klkdCZUiomcO2foSF5hTy) | 5:38 | 2024-03-08 |  |
 | [Taliat ta Silkhourout](https://open.spotify.com/track/1e7OggAnB5Cb3NOmc5c8BQ) | [Imarhan Timbuktu](https://open.spotify.com/artist/7MHXb26xz387DcZbdQ2AtP) | [Akal Warled](https://open.spotify.com/album/4opwYd89Cl6kbLprAAdPrg) | 6:43 | 2024-03-08 |  |
+| [Tassi](https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Tassi](https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS) | 4:43 | 2025-02-06 |  |
 | [Te Ao Mārama / Solar Power](https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Te Ao Mārama](https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE) | 3:10 | 2023-07-10 |  |
 | [Tehigren \(The Trees \)](https://open.spotify.com/track/1KgYMF5HpRGTD9oDt6h4di) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY) | 4:31 | 2023-11-13 | 2023-12-30 |
 | [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 | 2023-12-15 | 2024-04-19 |

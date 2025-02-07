@@ -2843,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "charon",
+        "url": "https://open.spotify.com/album/4Ek52lnfKg3amniAROTb5F"
+      },
+      "artists": [
+        {
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "charon",
+      "url": "https://open.spotify.com/track/69YwNmEyRLwT9b92Mzzoyi"
+    },
+    {
+      "album": {
         "name": "Chasing Angel",
         "url": "https://open.spotify.com/album/1VoYAOMPUdiFji6Wfc2yHj"
       },
@@ -6304,7 +6322,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 280758,
       "name": "Heart Ni Hug Shiyou",
       "url": "https://open.spotify.com/track/2cdz2v8QblxRIDTIb6kWsu"

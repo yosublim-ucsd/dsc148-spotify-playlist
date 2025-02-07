@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "@Trouxa (Ao vivo)",
+        "url": "https://open.spotify.com/album/2krO7svRp6lkHY8nzXvH3h"
+      },
+      "artists": [
+        {
+          "name": "Rick & Rangel",
+          "url": "https://open.spotify.com/artist/1yL5nPC7Rfwdj7o9QoObS4"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150858,
+      "name": "@Trouxa - Ao vivo",
+      "url": "https://open.spotify.com/track/0gciGoNhDpuJHlIEM8siNQ"
+    },
+    {
+      "album": {
         "name": "A Cerveja e a Ex (Ao Vivo)",
         "url": "https://open.spotify.com/album/5re4BIkgPeHfhMsKilwM9J"
       },
@@ -530,7 +548,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 167064,
       "name": "BRIGA DE L\u00cdNGUA - Live",
       "url": "https://open.spotify.com/track/7cHqirYyuwSpftLcdBldMD"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 184200,
       "name": "Estupidamente",
       "url": "https://open.spotify.com/track/6b3tJ8apcSvupFoynX6Roq"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 215064,
       "name": "Hoje \u00e0s 10",
       "url": "https://open.spotify.com/track/5Bee1YksnGTK0U1hieypcD"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 172149,
       "name": "Lado Ruim",
       "url": "https://open.spotify.com/track/2ruBOtBbF7SCMIRs0yJpXE"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 151546,
       "name": "Moreno Cheiroso",
       "url": "https://open.spotify.com/track/04eifAqj61TXF2GHYmnwFe"
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 135764,
       "name": "Sabe N\u00f3s Dois (Lenga Lenga) - Ao Vivo",
       "url": "https://open.spotify.com/track/3j4UahQ0WtjXXespZudIhj"
@@ -3330,7 +3348,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 169046,
       "name": "Saudade Atacada - Ao Vivo",
       "url": "https://open.spotify.com/track/7zPzD5AoT1xBnv5uGIU8oC"
@@ -3596,7 +3614,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 159596,
       "name": "Sombra - Ao Vivo",
       "url": "https://open.spotify.com/track/24JKKMLMakHdlegIba1jf7"
@@ -3738,6 +3756,28 @@
       "duration_ms": 173683,
       "name": "S\u00f3 Bebida Molha - Ao Vivo",
       "url": "https://open.spotify.com/track/3coLDO2BLp2EDM5qIHVzQs"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 prestasse um pouquinho",
+        "url": "https://open.spotify.com/album/2w1sfk9oaK4ADQ6I4fSgih"
+      },
+      "artists": [
+        {
+          "name": "Nauilan",
+          "url": "https://open.spotify.com/artist/4hW6zSUVV1GeYYuojk3uSj"
+        },
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157585,
+      "name": "S\u00f3 prestasse um pouquinho",
+      "url": "https://open.spotify.com/track/5eYqWbotORpF60ujhtpT6a"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Los Shishi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,290 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,329 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 47 | [Mi Trap](https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Mi Trap](https://open.spotify.com/album/4UM2Lb9e4MBrj0vPjZA4OQ) | 3:52 |
 | 48 | [Mafia Chilena: WHIPPING](https://open.spotify.com/track/30O2NJ4xRG91Y50dI8A6mT) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mafia Chilena: WHIPPING](https://open.spotify.com/album/2zbI7iT8G0YhWntW7bvFnN) | 3:00 |
 | 49 | [Las Con Chip](https://open.spotify.com/track/4WIwt6LW3tttk26O1ayrX6) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Las Con Chip](https://open.spotify.com/album/7y6bxf55COSRqkhWfSfjiK) | 2:10 |
-| 50 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
+| 50 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
 | 51 | [Mafia Chilena: GUCCI GREMLIN](https://open.spotify.com/track/00nkC3hghUJB2ILdTAn44T) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Mafia Chilena: GUCCI GREMLIN](https://open.spotify.com/album/4le82QUKPdaEI75sUfOrU8) | 2:56 |
 | 52 | [Pretty Face](https://open.spotify.com/track/4KjGQAOF88wve6WeVu5hhD) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:58 |
 | 53 | [Hipócritas](https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hipócritas](https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0) | 2:35 |

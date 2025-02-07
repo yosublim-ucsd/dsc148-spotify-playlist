@@ -1,13 +1,41 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125493,
+  "num_followers": 125489,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAToLuxTedNqEnDi/nxUxSBF51UJxKn",
+  "snapshot_id": "AAATosWnZaAg5HTxpnXRFkmd8jELq5WU",
   "tracks": [
+    {
+      "added_at": "2025-02-06 14:49:57",
+      "album": {
+        "name": "Love You for the Summer (Kohen Remix)",
+        "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Love You for the Summer - Kohen Remix",
+      "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
+    },
     {
       "added_at": "2025-02-05 15:20:16",
       "album": {
@@ -1163,118 +1191,6 @@
       "duration_ms": 226069,
       "name": "Open The Pit",
       "url": "https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB"
-    },
-    {
-      "added_at": "2024-10-31 14:41:31",
-      "album": {
-        "name": "If I Lost You",
-        "url": "https://open.spotify.com/album/4TTslMeoouMV3x6uDh0TT5"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        }
-      ],
-      "duration_ms": 211705,
-      "name": "If I Lost You",
-      "url": "https://open.spotify.com/track/6h0dzH10dHzzNglwUCldO5"
-    },
-    {
-      "added_at": "2024-10-30 14:48:09",
-      "album": {
-        "name": "Taste Like Hell",
-        "url": "https://open.spotify.com/album/5jxheKcwzt8oJtktWB6BTG"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Taste Like Hell",
-      "url": "https://open.spotify.com/track/3NL1q6qTLTvEHs74DL7XKT"
-    },
-    {
-      "added_at": "2024-10-29 14:50:30",
-      "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/4gLFhQ34tPaaJYcWVLuZEO"
-      },
-      "artists": [
-        {
-          "name": "bir\u00f8",
-          "url": "https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/5E8fFXrnuvjqW7FuWK7b7Q"
-    },
-    {
-      "added_at": "2024-10-28 14:55:34",
-      "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/31e7BFs4JJJtYsSc20tGnr"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Luxtides",
-          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
-        }
-      ],
-      "duration_ms": 235929,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/1omHvO3u6OmOUp7arSDuF2"
-    },
-    {
-      "added_at": "2024-10-25 13:57:45",
-      "album": {
-        "name": "Overstimulated",
-        "url": "https://open.spotify.com/album/22MEgqPCFqCMKng8B9nqOT"
-      },
-      "artists": [
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "KC",
-          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Overstimulated",
-      "url": "https://open.spotify.com/track/62QX5HiPYOvguLGyPs0Vdx"
-    },
-    {
-      "added_at": "2024-10-24 14:10:18",
-      "album": {
-        "name": "Use My Love",
-        "url": "https://open.spotify.com/album/6mUYOidMG0daxdNmMLVdVh"
-      },
-      "artists": [
-        {
-          "name": "Haywyre",
-          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
-        },
-        {
-          "name": "Molly Moore",
-          "url": "https://open.spotify.com/artist/0mEUqATSCsYZUTyL09kB8g"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Use My Love",
-      "url": "https://open.spotify.com/track/212tIxatoiyc4wYshhQswW"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

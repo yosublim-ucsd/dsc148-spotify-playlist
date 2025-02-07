@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 67742,
+  "num_followers": 67748,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADjTDglklFCfMozeixzAOFe",
+  "snapshot_id": "Z6KqAAAAAAD95KEVtSmaMb7HswB34nIk",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUKHA",
+        "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 172239,
+      "name": "MEDICINA NATURAL",
+      "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu No Eres un Angel",
         "url": "https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 191727,
       "name": "Tu No Eres un Angel",
       "url": "https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUKHA",
-        "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 172239,
-      "name": "MEDICINA NATURAL",
-      "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
     },
     {
       "added_at": null,
@@ -391,30 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Mi Ventana",
-        "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 215961,
-      "name": "Locos Dementes",
-      "url": "https://open.spotify.com/track/1sUMlYx18k1f9oIvuNO16B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIDOSA",
         "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
       },
@@ -455,6 +431,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde Mi Ventana",
+        "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 215961,
+      "name": "Locos Dementes",
+      "url": "https://open.spotify.com/track/1sUMlYx18k1f9oIvuNO16B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bolerito",
         "url": "https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL"
       },
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
+      "duration_ms": 192469,
+      "name": "La Rutina",
+      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 192469,
-      "name": "La Rutina",
-      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
+      "duration_ms": 182222,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame",
+        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 189679,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Enemiga",
         "url": "https://open.spotify.com/album/0uAiQ6Ul6cmEZp0py1AQpD"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 206237,
       "name": "Tu Enemiga",
       "url": "https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame",
-        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 189679,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
     },
     {
       "added_at": null,

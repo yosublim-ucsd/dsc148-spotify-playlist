@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 6842,
+  "num_followers": 6849,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAAD/z7GNwc+GW1xtI8rAn1U4",
+  "snapshot_id": "Z6KqAAAAAAAdBUsy6Dyqgh8ovk7R67c/",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/1fiHrYxjPq2p6zGoGpUyoT"
-      },
-      "artists": [
-        {
-          "name": "Yokinto",
-          "url": "https://open.spotify.com/artist/4WQV9I3NFrhSc8hjwxD4G4"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 167669,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/5242uXSOzpOxCeEwiUKuws"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gongo Aso",
         "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 210250,
       "name": "KUKU GOOGLE AM",
       "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/1fiHrYxjPq2p6zGoGpUyoT"
+      },
+      "artists": [
+        {
+          "name": "Yokinto",
+          "url": "https://open.spotify.com/artist/4WQV9I3NFrhSc8hjwxD4G4"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 167669,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/5242uXSOzpOxCeEwiUKuws"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 288920,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupid Stories",
         "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 242813,
       "name": "Remember (feat. 2face)",
       "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 288920,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Iworiwo",
-      "url": "https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face 10.0",
         "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 228571,
       "name": "Dance Go (Eau De Vie)",
       "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Iworiwo",
+      "url": "https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm"
     },
     {
       "added_at": null,
@@ -883,30 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Over Hills",
-        "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
+        "name": "The Chairman",
+        "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
       },
       "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "The Kabal",
-          "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "Sound Sultan",
+          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
         }
       ],
-      "duration_ms": 154529,
-      "name": "Mad Over Hills",
-      "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
+      "duration_ms": 347085,
+      "name": "Human Being (feat. 2Face & Sound Sultan)",
+      "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
     },
     {
       "added_at": null,
@@ -931,26 +927,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chairman",
-        "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
+        "name": "Mad Over Hills",
+        "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
       },
       "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Sound Sultan",
-          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "The Kabal",
+          "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 347085,
-      "name": "Human Being (feat. 2Face & Sound Sultan)",
-      "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
+      "duration_ms": 154529,
+      "name": "Mad Over Hills",
+      "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
     },
     {
       "added_at": null,

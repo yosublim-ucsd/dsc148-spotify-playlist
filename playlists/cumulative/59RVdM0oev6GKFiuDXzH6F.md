@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-934 songs - 1 day 23 hr 37 min
+935 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [Searching](https://open.spotify.com/track/0IbfAqVf2uUWa1DNPzkfJk) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Searching](https://open.spotify.com/album/3mtkLlzhDmOu2hhAe8ecPl) | 4:14 | 2024-12-05 |  |
 | [Secrets In The Dark](https://open.spotify.com/track/18bvVlnfkZ0ZoBaq9yJGeh) | [ELI YAZ](https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R) | [Secrets In The Dark](https://open.spotify.com/album/7AikqLQHF8ouF6i5YTTmCM) | 5:16 | 2023-12-15 | 2025-01-09 |
 | [Sensation](https://open.spotify.com/track/7lyvmLVL8GFZHOkaCxMVI2) | [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol), [Snrs](https://open.spotify.com/artist/61mK2JbF5F6tqgZOJMWloW) | [Sensation](https://open.spotify.com/album/11gB9AGVS9AKsaQ5SMVSm2) | 2:21 | 2025-01-24 |  |
+| [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 | 2025-02-06 |  |
 | [Sex Drugs Energie](https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Sex Drugs Energie](https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe) | 2:32 | 2023-11-10 | 2024-09-26 |
 | [Shake It](https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Shake It](https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO) | 2:11 | 2024-05-17 | 2024-10-11 |
 | [Shake That](https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB) | [Icarix](https://open.spotify.com/artist/0MxIuhSYO3ek7VTPsOcbcr) | [Shake That](https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9) | 2:41 | 2025-01-10 |  |

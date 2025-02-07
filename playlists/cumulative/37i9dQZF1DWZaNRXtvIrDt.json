@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: Joy Orbison ",
+  "description": "A new world of alternative electronic music. Cover: Hellcat Speedracer",
   "name": "Portal",
   "tracks": [
     {
@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "After Five",
+        "url": "https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216253,
+      "name": "After Five",
+      "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
+    },
+    {
+      "album": {
         "name": "Late Life Circ",
         "url": "https://open.spotify.com/album/0qa4JI2VxFjhS5nkVRigrU"
       },
@@ -806,6 +824,32 @@
       "duration_ms": 325846,
       "name": "All My People - Extended",
       "url": "https://open.spotify.com/track/3FvNYZ2GEV72vkmDq0gQV6"
+    },
+    {
+      "album": {
+        "name": "ALL NIGHT",
+        "url": "https://open.spotify.com/album/4TD105eaW04bTg6RatOv2O"
+      },
+      "artists": [
+        {
+          "name": "Gianni Blu",
+          "url": "https://open.spotify.com/artist/7xpdGx95yjp1d4c6dViRSx"
+        },
+        {
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
+        },
+        {
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "ALL NIGHT",
+      "url": "https://open.spotify.com/track/4OR33rN5aArbzyvouhyD4o"
     },
     {
       "album": {
@@ -1270,7 +1314,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 172033,
       "name": "B Somebody",
       "url": "https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW"
@@ -1354,6 +1398,28 @@
       "duration_ms": 508040,
       "name": "Back",
       "url": "https://open.spotify.com/track/2WjSqhjEJeNWOjLmq1Qt1F"
+    },
+    {
+      "album": {
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/2JCWy86paQijo7Pn1sz1Jw"
+      },
+      "artists": [
+        {
+          "name": "Brandn Shiraz",
+          "url": "https://open.spotify.com/artist/3HSTbxvwvHgaNpGBmV1pMP"
+        },
+        {
+          "name": "Caru",
+          "url": "https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226342,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/6rLUXCtJSYSuUqDFhoiNip"
     },
     {
       "album": {
@@ -2823,6 +2889,32 @@
     },
     {
       "album": {
+        "name": "Bus Stop Please (Sally C Remix)",
+        "url": "https://open.spotify.com/album/4BzOnN1nC9meiM6efZ7yfX"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        },
+        {
+          "name": "Sally C",
+          "url": "https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317409,
+      "name": "Bus Stop Please - Sally C Remix",
+      "url": "https://open.spotify.com/track/3uPjaXj3k08QUB2w3b38iH"
+    },
+    {
+      "album": {
         "name": "Calling Out",
         "url": "https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg"
       },
@@ -3478,7 +3570,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 236332,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY"
@@ -3970,7 +4062,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 241370,
       "name": "Dark - Edit",
       "url": "https://open.spotify.com/track/5GnYHYnUxpVPOh4o3ztf0I"
@@ -4339,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "DNA \u221e",
+        "url": "https://open.spotify.com/album/4LqWy1CjGmMs83GLG6qfMW"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203134,
+      "name": "DNA \u221e",
+      "url": "https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH"
+    },
+    {
+      "album": {
         "name": "dnd",
         "url": "https://open.spotify.com/album/1np0InCN8SL05HAFmECvYh"
       },
@@ -4636,7 +4746,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 330126,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/6jpMHF5tzxRdWExRDoDG87"
@@ -5490,7 +5600,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 229903,
       "name": "Feeling Alive",
       "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
@@ -5512,7 +5622,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 201652,
       "name": "Feeling Alive - Anna Lunoe Remix",
       "url": "https://open.spotify.com/track/6QY3TT6Y3Bt8IIWFj1yDYI"
@@ -5618,6 +5728,24 @@
       "duration_ms": 357120,
       "name": "Ferality",
       "url": "https://open.spotify.com/track/7CXNVRwglVVjPVC4Aiv2A5"
+    },
+    {
+      "album": {
+        "name": "Coexistence",
+        "url": "https://open.spotify.com/album/3qgP5WHQSV4yqWfq0zupcQ"
+      },
+      "artists": [
+        {
+          "name": "KLIMENT",
+          "url": "https://open.spotify.com/artist/2BRjVvEof1DxRMn9HlCdT5"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458666,
+      "name": "Feromon",
+      "url": "https://open.spotify.com/track/0VhNTbww9iAJqR6dyY6nXr"
     },
     {
       "album": {
@@ -6258,7 +6386,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 205714,
       "name": "FUN!",
       "url": "https://open.spotify.com/track/4KERVWEQpKPZu4HRGwc7pu"
@@ -7556,7 +7684,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195173,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/1nxNsIJ6tvThm68lXtL4db"
@@ -8340,7 +8468,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 158666,
       "name": "Junction 3",
       "url": "https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z"
@@ -8740,7 +8868,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 167213,
       "name": "Let Them Bells Ring",
       "url": "https://open.spotify.com/track/5Q8H1439FS6cHNHX7gbubB"
@@ -9412,7 +9540,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 222969,
       "name": "Love Enemy",
       "url": "https://open.spotify.com/track/3Z73duCokUklMs0JQBF83i"
@@ -9558,6 +9686,28 @@
       "duration_ms": 304420,
       "name": "Lovin U",
       "url": "https://open.spotify.com/track/09gf71zsdEFlkgrTWkiVWM"
+    },
+    {
+      "album": {
+        "name": "Lucky U",
+        "url": "https://open.spotify.com/album/34kDH9MUkQvu30RSSlWmCZ"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170567,
+      "name": "Lucky U",
+      "url": "https://open.spotify.com/track/69TklvtT4VDOJBfszvE7k2"
     },
     {
       "album": {
@@ -9818,7 +9968,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 480000,
       "name": "Me Gusta Is Dead (Period Pain Mix)",
       "url": "https://open.spotify.com/track/4LWxBPGNib9JvUpyTjPXCu"
@@ -10055,6 +10205,28 @@
     },
     {
       "album": {
+        "name": "MissU2",
+        "url": "https://open.spotify.com/album/6agd6cfsMIg7puACJnL7Xu"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        },
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220488,
+      "name": "MissU2",
+      "url": "https://open.spotify.com/track/5sQG8BxOpvjISf0FWOikzQ"
+    },
+    {
+      "album": {
         "name": "Soft Launch - EP",
         "url": "https://open.spotify.com/album/4GmT6hqsAsysPlT0rZ7bV5"
       },
@@ -10226,7 +10398,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 215409,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/5Xzbul8gOmnFaXOGkboLwW"
@@ -10316,7 +10488,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 219690,
       "name": "Mwah",
       "url": "https://open.spotify.com/track/1LtGmapXNx64VNyAY9qbc4"
@@ -10374,7 +10546,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 280347,
       "name": "My Selecta",
       "url": "https://open.spotify.com/track/16jQDWYUCyzqH2ZUxC44o5"
@@ -11298,7 +11470,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 261000,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/3zaBsTVx5VlZ7sO1gAuYIb"
@@ -12501,6 +12673,24 @@
     },
     {
       "album": {
+        "name": "Rhythm",
+        "url": "https://open.spotify.com/album/51QwhiwUQBi8W5xzLxYVVD"
+      },
+      "artists": [
+        {
+          "name": "Yuto.",
+          "url": "https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/2MO9WiFblhthHqQp0etUxO"
+    },
+    {
+      "album": {
         "name": "Ribs (Joe Hertz Remix)",
         "url": "https://open.spotify.com/album/6PWAVIpjHxVi1bz9Qvhh7p"
       },
@@ -13368,6 +13558,32 @@
       "duration_ms": 301229,
       "name": "Shotgun Baby",
       "url": "https://open.spotify.com/track/0q49donmfN5VivjT9utGcq"
+    },
+    {
+      "album": {
+        "name": "should sleep (DJ Tennis Remix)",
+        "url": "https://open.spotify.com/album/30T8Veh8UThh6hEjuUml1l"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "J.P. Bimeni",
+          "url": "https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300983,
+      "name": "should sleep - DJ Tennis Vocal Mix",
+      "url": "https://open.spotify.com/track/5WjnB3Q8KwYDXq5d8ARIWs"
     },
     {
       "album": {
@@ -15301,6 +15517,24 @@
     },
     {
       "album": {
+        "name": "The Cult",
+        "url": "https://open.spotify.com/album/1j5NKmtTAgLNXppt68zqrw"
+      },
+      "artists": [
+        {
+          "name": "JKS",
+          "url": "https://open.spotify.com/artist/7CQ5jMPSOl75LWm04fshav"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326066,
+      "name": "The Cult",
+      "url": "https://open.spotify.com/track/4aA2LngC4dXeycmJZjuOft"
+    },
+    {
+      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -16712,6 +16946,10 @@
         {
           "name": "Fever Ray",
           "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
         }
       ],
       "date_added": "2025-01-23",
@@ -17016,7 +17254,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 182869,
       "name": "Wrong Again",
       "url": "https://open.spotify.com/track/5kkh05lcZE7OIjPUUlKfUS"
@@ -17346,6 +17584,24 @@
       "duration_ms": 342463,
       "name": "Zwarte Pad",
       "url": "https://open.spotify.com/track/03YyIDJad7Pdk0IGczwzwJ"
+    },
+    {
+      "album": {
+        "name": "~O.V.O~",
+        "url": "https://open.spotify.com/album/3ULCMpZ7fnBHoHkIH3TNtn"
+      },
+      "artists": [
+        {
+          "name": "Cousin",
+          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "~O.V.O~",
+      "url": "https://open.spotify.com/track/1hpIlvnByp3N9H0mjtjC8w"
     },
     {
       "album": {

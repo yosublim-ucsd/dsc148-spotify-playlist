@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 
 > Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine, now playing in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,662 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,782 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 | 41 | [In Your Eyes \- 2012 Remaster](https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:30 |
 | 42 | [We Belong](https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Tropico](https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8) | 3:41 |
 | 43 | [Angel Of The Morning](https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice](https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc) | 4:10 |
-| 44 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/0rnHk0crOhG9ZUr3RfHw4j) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 |
+| 44 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 |
 | 45 | [Welcome to the Party \(feat\. Zhavia\)](https://open.spotify.com/track/0UBafqn0HVWRceDnOv2SZu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Deadpool 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NvfPngtKzNClIdFMuUAxl) | 3:01 |
 | 46 | [You Can't Stop This Motherf\*\*ker \- Choir Only Mix \(from "Deadpool 2"\)](https://open.spotify.com/track/0lpMr6rPWKnY8VCm0Ubysz) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Deadpool 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NvfPngtKzNClIdFMuUAxl) | 1:01 |
 | 47 | [Deadpool Rap \- X\-Force Remix \(from "Deadpool 2"\)](https://open.spotify.com/track/7pk9bvltdcy8oJLOxdBvVR) | [Teamheadkick](https://open.spotify.com/artist/3CBAfv5IxPSyPNilBTX4tP) | [Deadpool 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NvfPngtKzNClIdFMuUAxl) | 2:20 |

@@ -2,7 +2,7 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR?si=932vi4fbSXelQfAKqNvopg">Paul Clement</a>
+> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
 212 songs - 18 hr 46 min
 

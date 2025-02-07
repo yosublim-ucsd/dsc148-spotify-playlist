@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro est\u00e1 aqu\u00ed. Foto: shego.",
+  "description": "El futuro est\u00e1 aqu\u00ed. Foto: pablopablo.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 180986,
       "name": "D\u00e9jame t\u00fa",
       "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
@@ -1570,6 +1570,32 @@
       "duration_ms": 191020,
       "name": "Esa morena (feat Keen Levy)",
       "url": "https://open.spotify.com/track/7yx1eAtnhzTmug79lKq2O4"
+    },
+    {
+      "album": {
+        "name": "Eso Que T\u00fa Llamas Amor",
+        "url": "https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175336,
+      "name": "Eso Que T\u00fa Llamas Amor",
+      "url": "https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi"
     },
     {
       "album": {
@@ -2551,6 +2577,36 @@
     },
     {
       "album": {
+        "name": "Mamipuladora",
+        "url": "https://open.spotify.com/album/7o4MRkYTKC6UyDM1qv4pFK"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
+          "name": "aka luigi",
+          "url": "https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145360,
+      "name": "Mamipuladora",
+      "url": "https://open.spotify.com/track/5QghOReCdRE2nKdT9Mrqky"
+    },
+    {
+      "album": {
         "name": "pablopablo",
         "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
       },
@@ -2566,6 +2622,24 @@
       "duration_ms": 213563,
       "name": "Mandela Place",
       "url": "https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ"
+    },
+    {
+      "album": {
+        "name": "No lo volver\u00e9 a hacer",
+        "url": "https://open.spotify.com/album/51unLLaXe9KFEEiQ8gI3Ip"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Manifesting",
+      "url": "https://open.spotify.com/track/3Lqygn1Bx76OdUwcWABT7t"
     },
     {
       "album": {
@@ -4204,7 +4278,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 192443,
       "name": "Sin Ti, Sin M\u00ed",
       "url": "https://open.spotify.com/track/2GiY5fsQimLmInOH2QTOQg"
@@ -4882,7 +4956,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 154549,
       "name": "Xarnega",
       "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"

@@ -1,12 +1,12 @@
 {
   "description": "festival music 2025 - festival songs - festival mix - music festival - music mix - mainstage mix - mainstage music - tiesto - david guetta - swedish house maffia - avicii",
-  "num_followers": 84904,
+  "num_followers": 84896,
   "original_name": "Festival Music 2025 \ud83d\udca5 Tiesto, David Guetta, Avicii",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAALjM1lDqeK4rtNqNvl9EOoPwuJ5orU",
+  "snapshot_id": "AAALjcSsnR7k0cb/6NjLjidAIalSVY3v",
   "tracks": [
     {
       "added_at": "2025-01-31 15:15:29",
@@ -227,6 +227,30 @@
       "duration_ms": 167900,
       "name": "How We Feelin",
       "url": "https://open.spotify.com/track/4PkZNPD2waoSbn5ObPnwc9"
+    },
+    {
+      "added_at": "2025-02-06 12:17:59",
+      "album": {
+        "name": "Fire In The Sky",
+        "url": "https://open.spotify.com/album/0ndEENW3rwiqWgagqIsDd0"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clash",
+          "url": "https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "Kill The Buzz",
+          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
+        }
+      ],
+      "duration_ms": 153501,
+      "name": "Fire In The Sky",
+      "url": "https://open.spotify.com/track/1qTbKDhFTM4am7zAXk2jsp"
     },
     {
       "added_at": "2025-01-31 15:15:29",

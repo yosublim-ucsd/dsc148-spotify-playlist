@@ -2,9 +2,9 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Mabel, King Promise
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: WizTheMc
 
-268 songs - 18 hr 22 min
+269 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:51 | 2023-11-23 | 2024-07-12 |
 | [Shetani \(feat\. Costa Titch & Alfa Kat\)](https://open.spotify.com/track/4zCzPIdWmPDnvcyhSGvHqS) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 3:11 | 2022-10-31 | 2023-12-08 |
 | [Show Me](https://open.spotify.com/track/0HJh9qKJ1OnqNBf4AszBcf) | [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY), [Nina Nevra](https://open.spotify.com/artist/0LfTLvRKowL8aXYL8NSO7c) | [Show Me](https://open.spotify.com/album/1WbCN78350GdM7AH7eXF7N) | 3:51 | 2025-01-24 |  |
+| [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-06 |  |
 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 | 2023-03-02 | 2023-08-11 |
 | [SLOW WINE](https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [SLOW WINE](https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT) | 3:43 | 2022-09-09 | 2023-08-11 |
 | [Softly \- Cuppy Remix](https://open.spotify.com/track/2APuTWMAHD8Co32wiLciyL) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Softly \(Cuppy Remix\)](https://open.spotify.com/album/4QJjnkrmYwQ3YypwLENCUQ) | 2:31 | 2022-05-23 | 2022-08-12 |

@@ -4,11 +4,11 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-179 songs - 9 hr 12 min
+180 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2025](https://open.spotify.com/track/0jBaA3K2nuimwbFLxNel6V) | [808Bvng](https://open.spotify.com/artist/3qEz24N1wcZzZd1Juzo734), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [Creed oasis](https://open.spotify.com/artist/6ZoF6LKlVwaohaKiOlUNQF) | [2025](https://open.spotify.com/album/0RhJ6aqbstfv2rBHRZUxsX) | 2:56 | 2025-01-30 |  |
+| [2025](https://open.spotify.com/track/0jBaA3K2nuimwbFLxNel6V) | [808Bvng](https://open.spotify.com/artist/3qEz24N1wcZzZd1Juzo734), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [Creed oasis](https://open.spotify.com/artist/6ZoF6LKlVwaohaKiOlUNQF) | [2025](https://open.spotify.com/album/0RhJ6aqbstfv2rBHRZUxsX) | 2:56 | 2025-01-30 | 2025-02-07 |
 | [3 Eye](https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6) | [G.1 J03 71D4](https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6) | [3 Eye](https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf) | 3:36 | 2023-08-31 | 2024-07-13 |
 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 | 2023-10-27 | 2024-08-25 |
 | [7DeLaan](https://open.spotify.com/track/5k1dncVhfbWtifwXFGthh3) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [7DeLaan](https://open.spotify.com/album/0Uv1YoMhuM8kKIDlLfgnvJ) | 2:50 | 2023-06-08 | 2023-06-16 |
@@ -123,6 +123,7 @@
 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 | 2023-10-27 |  |
 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 | 2023-01-27 | 2024-11-18 |
 | [nog 'n bietjie](https://open.spotify.com/track/79PWs6HBChYuyQBZ6VF399) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [nog 'n bietjie](https://open.spotify.com/album/6ybeUMEKf4MNl6VPuafTRv) | 3:31 | 2023-03-02 | 2024-01-06 |
+| [Nomme$](https://open.spotify.com/track/5nygJwihfPEmWEnTkcNnfV) | [AdieOG](https://open.spotify.com/artist/35lToWKxIoARmGThv1SpBA), [Various TRF](https://open.spotify.com/artist/7ahGbBQetfSrwGd6vB8xx1) | [Nomme$](https://open.spotify.com/album/7zXvopLBMCyhKDeaYF4tWH) | 2:52 | 2025-02-06 |  |
 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 | 2024-04-28 |  |
 | [Nou Wat Nou](https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Bula B](https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw) | [Nou Wat Nou](https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI) | 3:42 | 2024-02-29 | 2024-12-12 |
 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 | 2024-02-15 | 2024-11-25 |

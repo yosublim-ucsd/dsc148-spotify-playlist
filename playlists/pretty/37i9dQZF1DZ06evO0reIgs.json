@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81756,
+  "num_followers": 81751,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAACh/a1Kg1ANuTwEnvNU60Dh",
+  "snapshot_id": "Z6KqAAAAAACsBHFdZ1hpJwRYFFBuxssR",
   "tracks": [
     {
       "added_at": null,
@@ -956,13 +956,17 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
         }
       ],
-      "duration_ms": 164949,
-      "name": "Cora\u00e7\u00e3o Bandido",
-      "url": "https://open.spotify.com/track/6968Cmc4iBwpkaS1bKfPkW"
+      "duration_ms": 149250,
+      "name": "Minha Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4LxgzNjETKuC1YlwVSUEIb"
     },
     {
       "added_at": null,
@@ -1036,17 +1040,13 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Minha Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4LxgzNjETKuC1YlwVSUEIb"
+      "duration_ms": 164949,
+      "name": "Cora\u00e7\u00e3o Bandido",
+      "url": "https://open.spotify.com/track/6968Cmc4iBwpkaS1bKfPkW"
     },
     {
       "added_at": null,
@@ -1212,17 +1212,13 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Te Adoro",
-      "url": "https://open.spotify.com/track/1QTGb30ZhoXhoWGbD2TpTE"
+      "duration_ms": 140307,
+      "name": "Dama da Noite",
+      "url": "https://open.spotify.com/track/7B0HOg6L2vpFooDAls4Wed"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

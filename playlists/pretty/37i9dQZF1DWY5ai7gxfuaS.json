@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 308451,
+  "num_followers": 308563,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Intoxicated",
-        "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
-      },
-      "artists": [
-        {
-          "name": "ALESTI",
-          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
-        },
-        {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
-        }
-      ],
-      "duration_ms": 183900,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
+      },
+      "artists": [
+        {
+          "name": "ALESTI",
+          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
+        },
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "duration_ms": 183900,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Blood Year",
+        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
+      },
+      "artists": [
+        {
+          "name": "Russian Circles",
+          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+        }
+      ],
+      "duration_ms": 393026,
+      "name": "Arluck",
+      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Welcome To Hell (feat. Emmure)",
         "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 161860,
       "name": "Welcome To Hell (feat. Emmure)",
       "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Blood Year",
-        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
-      },
-      "artists": [
-        {
-          "name": "Russian Circles",
-          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
-        }
-      ],
-      "duration_ms": 393026,
-      "name": "Arluck",
-      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fuck What You Heard",
-        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Fuck What You Heard",
-      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Black Brick",
         "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 447297,
       "name": "Black Brick",
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Fuck What You Heard",
+        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Fuck What You Heard",
+      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "An Investigation Into Perceived Heaviness",
-        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
-      },
-      "artists": [
-        {
-          "name": "LIONFIGHT",
-          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Whispers of Your Death",
         "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 174213,
       "name": "Whispers of Your Death",
       "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "An Investigation Into Perceived Heaviness",
+        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+      },
+      "artists": [
+        {
+          "name": "LIONFIGHT",
+          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
+      },
+      "artists": [
+        {
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+        }
+      ],
+      "duration_ms": 249979,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1187,38 +1203,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Telescope",
-        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
+        "name": "Touch the Corpse",
+        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
       },
       "artists": [
         {
-          "name": "Tallah",
-          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+          "name": "Irving Force",
+          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
         }
       ],
-      "duration_ms": 249979,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Don't Wait",
-        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
-      },
-      "artists": [
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        },
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Don't Wait",
-      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
+      "duration_ms": 166948,
+      "name": "Touch the Corpse",
+      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Touch the Corpse",
-        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
       },
       "artists": [
         {
-          "name": "Irving Force",
-          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
         }
       ],
-      "duration_ms": 166948,
-      "name": "Touch the Corpse",
-      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
+      "duration_ms": 128371,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Future Says Thank You",
-        "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "DIVINE DISINTEGRATION",
         "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
       },
@@ -1591,22 +1575,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "DODGE A BULLET",
-        "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
+        "name": "The Future Says Thank You",
+        "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
       },
       "artists": [
         {
-          "name": "Philip Solo",
-          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
-        },
-        {
-          "name": "ONI INC.",
-          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
         }
       ],
-      "duration_ms": 166504,
-      "name": "DODGE A BULLET",
-      "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1623,6 +1603,26 @@
       "duration_ms": 277024,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "DODGE A BULLET",
+        "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
+      },
+      "artists": [
+        {
+          "name": "Philip Solo",
+          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
+        },
+        {
+          "name": "ONI INC.",
+          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+        }
+      ],
+      "duration_ms": 166504,
+      "name": "DODGE A BULLET",
+      "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Animo",
-        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
-      },
-      "artists": [
-        {
-          "name": "Profiler",
-          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Animo",
-      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Spiritual Architecture",
         "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 562515,
       "name": "Spiritual Architecture",
       "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Animo",
+        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Animo",
+      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
     }
   ],
   "unique_name": "Alternative Metal",

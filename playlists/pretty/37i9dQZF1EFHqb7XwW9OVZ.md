@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 8 | [Relax and Run \(feat\. Erika de Casier & Eva Tolkin\)](https://open.spotify.com/track/5s3mhLIMAUxDeTELjS8gVT) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Eva Tolkin](https://open.spotify.com/artist/3Vo834c5EcKKZfy5ZvaP5I) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:04 |
 | 9 | [Deeper](https://open.spotify.com/track/7hfgzxvcd8mKImN7Goast8) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Deeper](https://open.spotify.com/album/2NBHJXmeASMfyf8jwKY5Y0) | 3:16 |
 | 10 | [Puppy Love](https://open.spotify.com/track/0uNo3E6rg68AFf18ZyeLgm) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:27 |
-| 11 | [Forget](https://open.spotify.com/track/7CgfLYNXmkKsOpI23Cjbkc) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Forget](https://open.spotify.com/album/7va1UjsOrCh9wEz0sscKFO) | 3:24 |
-| 12 | [Drama](https://open.spotify.com/track/2tlAmvmHat6nBY9pKd2Kkg) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:48 |
+| 11 | [Drama](https://open.spotify.com/track/2tlAmvmHat6nBY9pKd2Kkg) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:48 |
+| 12 | [Forget](https://open.spotify.com/track/7CgfLYNXmkKsOpI23Cjbkc) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Forget](https://open.spotify.com/album/7va1UjsOrCh9wEz0sscKFO) | 3:24 |
 | 13 | [Polite](https://open.spotify.com/track/6vBq30WUf7EJq0bQPEkBXr) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:24 |
 | 14 | [Diamond Cut](https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 6:10 |
 | 15 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 55 | [No One's God](https://open.spotify.com/track/3lI8GbBt2RTH2F2AJkJXgS) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [No One's God](https://open.spotify.com/album/0Sy6QHq7t9bxY3poE7E3Se) | 4:07 |
 | 56 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 |
 
-Snapshot ID: `AbozrAAAAAAI/4qcvzpIsDgR7mqmZ1zH`
+Snapshot ID: `Abo5dAAAAAB6J/nTHf3fWBR2C7A514OM`

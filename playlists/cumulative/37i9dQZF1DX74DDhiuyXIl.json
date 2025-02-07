@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u662f\u6211\u5728\u5fc3\u4e2d\u91cd\u8981\u7684\u90a3\u500b\u4eba",
+        "url": "https://open.spotify.com/album/46ZeHn5S8RBBUpGLWyKMuc"
+      },
+      "artists": [
+        {
+          "name": "\u4ed9\u675c\u8c9d\u62c9 Bella",
+          "url": "https://open.spotify.com/artist/3fxnJU0wOgkHIHTpPdgpcd"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227462,
+      "name": "\u4f60\u662f\u6211\u5728\u5fc3\u4e2d\u91cd\u8981\u7684\u90a3\u500b\u4eba",
+      "url": "https://open.spotify.com/track/0wMKfEWtVJUQMWmYlrUFGs"
+    },
+    {
+      "album": {
         "name": "\u4f60\u662f\u6211\u7684\u6b4c (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW"
       },
@@ -4858,7 +4876,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 224358,
       "name": "\u5fd8\u4e86\u4ed6",
       "url": "https://open.spotify.com/track/0ls4k8atwyeGfXlt55l695"
@@ -4894,7 +4912,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 279492,
       "name": "\u5ff5\u5ff5",
       "url": "https://open.spotify.com/track/43KDviRyWeraTNrRkLIQ1e"
@@ -8566,6 +8584,24 @@
       "duration_ms": 243040,
       "name": "\u81f4\u9060\u9053\u800c\u4f86\u7684\u6211\u5011 (feat.\u9673\u83ef)",
       "url": "https://open.spotify.com/track/6o95XPlKyjtDEmSowKncrt"
+    },
+    {
+      "album": {
+        "name": "\u820a\u8857",
+        "url": "https://open.spotify.com/album/530cMYCcs3igjeV3rCPHIk"
+      },
+      "artists": [
+        {
+          "name": "Bae \u6797\u91c7\u6b23",
+          "url": "https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "\u820a\u8857",
+      "url": "https://open.spotify.com/track/71UomceDKDdt93Tjpmyp1T"
     },
     {
       "album": {

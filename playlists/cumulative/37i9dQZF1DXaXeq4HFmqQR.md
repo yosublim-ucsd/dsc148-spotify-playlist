@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen: un homenaje a Violeta Parra.
 
-943 songs - 2 day 4 hr 26 min
+944 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [No Volvamos a Lo de Antes](https://open.spotify.com/track/08PkyTUzxNTBFG4dEuWdmy) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy) | [No Volvamos a Lo de Antes](https://open.spotify.com/album/5Go7a58oNrGOsdoT7hoqiE) | 3:44 | 2022-02-02 | 2022-03-09 |
 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2023-03-02 | 2023-04-06 |
 | [Noche](https://open.spotify.com/track/1UHI3IYKZB16ghHdFPppjy) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 2:29 | 2023-09-06 | 2023-10-05 |
+| [Noche no te vayas](https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Aunque Duela](https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C) | 3:41 | 2025-02-05 |  |
 | [Noche y Día](https://open.spotify.com/track/2FadPlaESFEYfx2zpfdVFh) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi) | [Noche y Día](https://open.spotify.com/album/1DJsKqINHySzfZDcHeFK2j) | 3:30 | 2022-06-01 | 2022-07-24 |
 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 | 2023-09-06 | 2024-03-07 |
 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 | 2022-09-07 | 2024-05-10 |
@@ -743,7 +744,7 @@
 | [Romper Platos](https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Romper Platos](https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m) | 3:13 | 2022-09-07 | 2022-12-01 |
 | [Rosas](https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Rosas](https://open.spotify.com/album/6QPTZhDk3GZnAR0Xwmrff2) | 4:37 | 2022-03-08 | 2022-04-07 |
 | [Ruka](https://open.spotify.com/track/7IauzA3Qhtf5nHEnuDDJG7) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6) | [Unita](https://open.spotify.com/album/3tM5y4SNzPZU2gnGMHSzY1) | 4:33 | 2022-08-03 | 2022-09-09 |
-| [Ruka](https://open.spotify.com/track/4xGH1TnAIRjplERSykBNBS) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6), [sgomez](https://open.spotify.com/artist/6HLvJhMwLNouctYrL6KiSN) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 4:33 | 2025-02-05 |  |
+| [Ruka](https://open.spotify.com/track/4xGH1TnAIRjplERSykBNBS) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6), [sgomez](https://open.spotify.com/artist/6HLvJhMwLNouctYrL6KiSN) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 4:33 | 2025-02-05 | 2025-02-07 |
 | [Ryp](https://open.spotify.com/track/6lXy11iC3w8LLzhkXYXdF9) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [La Niña de Oro](https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA) | 3:14 | 2024-09-04 | 2025-02-06 |
 | [RYP](https://open.spotify.com/track/7rYfQFCiF69laKNrS1ONMH) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [RYP](https://open.spotify.com/album/0xMFuXkp5YGSmXem72aTOS) | 3:14 | 2023-08-02 | 2023-09-07 |
 | [Saber Si Me Amas \(Quiero\)](https://open.spotify.com/track/5XqB8ZPPhGHkmoXOasTAKn) | [Catiusca](https://open.spotify.com/artist/2ZVR14iRL4B4bLq6CWVAPb) | [Saber Si Me Amas \(Quiero\)](https://open.spotify.com/album/77A4SicHUWwI96Kg9R6Cw7) | 2:30 | 2023-04-05 | 2023-06-06 |

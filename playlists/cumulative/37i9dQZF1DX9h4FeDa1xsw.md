@@ -2,9 +2,9 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Rilès
+> Photo : Pitt
 
-74 songs - 3 hr 29 min
+75 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Ma belle](https://open.spotify.com/track/73jDBKrSmL3IKAUAjGanPC) | [Eye's Berg](https://open.spotify.com/artist/7CayiktXZ1bRAkG9qGsctx) | [Ma belle](https://open.spotify.com/album/3mHYcrwTYCUjxULbTxN8Sw) | 2:21 | 2024-12-19 |  |
 | [Ma jolie](https://open.spotify.com/track/1KGD3DZxekZfD1CghVKbt8) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Ma jolie](https://open.spotify.com/album/29kr1BdsCiUBY2V1Cd9vlb) | 2:31 | 2024-11-21 |  |
 | [MAMIMAMI](https://open.spotify.com/track/0tGjmmFerDwJox0ZCPOUxw) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [MAMIMAMI](https://open.spotify.com/album/7j7XhCrbyJXkrE34jzspJC) | 1:55 | 2024-10-17 |  |
-| [MAUDIT](https://open.spotify.com/track/460uCEB54eEUyCtoApYO8b) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [MAUDIT](https://open.spotify.com/album/4WbHWg8qFWBN7m4wYbCVHt) | 3:29 | 2024-09-26 |  |
+| [MAUDIT](https://open.spotify.com/track/460uCEB54eEUyCtoApYO8b) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [MAUDIT](https://open.spotify.com/album/4WbHWg8qFWBN7m4wYbCVHt) | 3:29 | 2024-09-26 | 2025-02-07 |
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2024-06-20 | 2024-09-27 |
 | [Mazel](https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [KHEDMA 2](https://open.spotify.com/album/1S3jVlJByB4CzqwoVpaUAI) | 2:29 | 2024-06-20 | 2024-12-06 |
 | [MES RAISONS](https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOUT CE QUI BRILLE](https://open.spotify.com/album/1xLmdzwAhBEiWPkotbGcRZ) | 3:00 | 2024-06-20 | 2024-11-08 |
@@ -67,6 +67,7 @@
 | [POLAIRE](https://open.spotify.com/track/0eVC2hbCYF2JMXumjz8kBY) | [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit) | [POLAIRE](https://open.spotify.com/album/7yni4xIng9iVcPYAuuggU8) | 3:33 | 2024-06-20 | 2025-01-24 |
 | [Prends le bien](https://open.spotify.com/track/74bLCiY77MDrikVkjQ9avj) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Prends le bien](https://open.spotify.com/album/3JlsN1Zhe5AakJW4WdUaBN) | 2:07 | 2024-06-20 |  |
 | [Primate déprimé](https://open.spotify.com/track/4g3mp0Y5G3PQ75hDO5XjqI) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 3:13 | 2024-06-20 | 2024-07-19 |
+| [QUE LOVE](https://open.spotify.com/track/4oZNP8XaXk2wiRbnTme6gH) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [QUE LOVE](https://open.spotify.com/album/3RHLPdGVkaUAnJr0OXSV9D) | 3:16 | 2025-02-06 |  |
 | [Risque](https://open.spotify.com/track/0JAKM5NQrqcgSummZSHf7b) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Tout de suite](https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5) | 2:57 | 2024-06-20 | 2024-12-06 |
 | [S'en aller](https://open.spotify.com/track/36FqO4FQbE4rB7AKMIWjoq) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [S'en aller](https://open.spotify.com/album/0V5N9ypMeiQUoTz2yg5kQt) | 2:20 | 2024-09-26 | 2024-12-20 |
 | [S.O.S](https://open.spotify.com/track/5tXSuBrfIYLTJPLGa0pKhi) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [S.O.S](https://open.spotify.com/album/1oClw21WLAxwKEaYLa7XE7) | 3:51 | 2024-07-18 | 2024-09-27 |

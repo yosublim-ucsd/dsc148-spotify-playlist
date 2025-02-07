@@ -4690,10 +4690,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 149293,
       "name": "The Sheik",
       "url": "https://open.spotify.com/track/13RS52E25mjvFudrAA9zKR"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30f4\u30fb\u30dd\u30fc\u30b7\u30e7\u30f3\u30fb\u30ca\u30f3\u30d0\u30fc\u30fb\u30ca\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/73bmfm6XPyPGKJjg7GYVaB"
+      },
+      "artists": [
+        {
+          "name": "THE CLOVERS",
+          "url": "https://open.spotify.com/artist/3cG0rRF1ZLzhZWyRYvskUf"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "THE SHEIK",
+      "url": "https://open.spotify.com/track/7BDZIEXyJ5xIT0dGV3v9kr"
     },
     {
       "album": {

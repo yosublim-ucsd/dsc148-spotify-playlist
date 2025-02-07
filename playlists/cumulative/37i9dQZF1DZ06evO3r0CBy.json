@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "QMusic Top 500 van de 90's",
+        "url": "https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Ecuador (feat. Rodriguez) - Single Mix",
+      "url": "https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip"
+    },
+    {
+      "album": {
         "name": "Cold Fact",
         "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
       },

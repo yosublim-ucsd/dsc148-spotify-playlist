@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt?si=r\_g1xn5CQQqWlLHPTMc72Q">  حكيم </a>
 
-283 songs - 20 hr 35 min
+284 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Haty Bosa Ya Beet](https://open.spotify.com/track/6uGJrcFOMI6Z2PIh1i8F3x) | [Osama Ghaly](https://open.spotify.com/artist/3Qlvqpn3QapW1ZZwbvoAxz) | [Osama Ghaly Collection](https://open.spotify.com/album/4jBwuzCtVOJisHosxBu9oN) | 3:53 | 2021-12-30 | 2023-05-12 |
 | [Hayel](https://open.spotify.com/track/3M6afnLlWJX36aEWnQoRoj) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 5:55 | 2021-12-16 | 2022-07-29 |
 | [Hayfout Alek](https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hayfout Alek](https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u) | 4:12 | 2021-12-16 | 2023-11-24 |
+| [Hesa Fe Berlin](https://open.spotify.com/track/1jm49J32WuATKd1xwwih9V) | [Electro Falahi](https://open.spotify.com/artist/3Y8BvC4WQG5amPrEQBe9ZB), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Reem khairy](https://open.spotify.com/artist/0c55uUE1Mn9i8J1yoAloGS) | [Hesa Fe Berlin](https://open.spotify.com/album/5RJxEjOBt4ahRuDKMWd5Oa) | 3:13 | 2025-02-06 |  |
 | [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 | 2023-03-30 |
 | [Hob Meen](https://open.spotify.com/track/7gu14Vuorsw57sz5tHeG57) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/0p4kpGpxg5vjnvMX7ndZGp) | 3:41 | 2023-02-16 | 2023-09-02 |
 | [Ka3by 3aly](https://open.spotify.com/track/5tTt5pPpFdOpD5Gt7NoeXq) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ka3by 3aly](https://open.spotify.com/album/7CYpwnb7rCR0f7qFug771Y) | 3:25 | 2023-06-15 | 2024-04-12 |

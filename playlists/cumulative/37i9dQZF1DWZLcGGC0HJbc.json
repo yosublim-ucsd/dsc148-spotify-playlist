@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 229146,
       "name": "Changing",
       "url": "https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 196446,
       "name": "Convince Yourself",
       "url": "https://open.spotify.com/track/2z5az4Tl4e7bQzfX8Sr6r9"
@@ -518,6 +518,24 @@
       "duration_ms": 149130,
       "name": "Destruction",
       "url": "https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd"
+    },
+    {
+      "album": {
+        "name": "Dreamt of You",
+        "url": "https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1"
+      },
+      "artists": [
+        {
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198544,
+      "name": "Dreamt of You",
+      "url": "https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW"
     },
     {
       "album": {
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 238786,
       "name": "Too Fast",
       "url": "https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk"

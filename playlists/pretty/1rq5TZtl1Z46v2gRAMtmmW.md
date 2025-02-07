@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,860 likes - 40 songs - 2 hr 38 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,878 likes - 43 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,8 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 38 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
 | 39 | [Bon Bon \- Andrew VanWyngarden Remix](https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bon Bon \(Andrew VanWyngarden Remix\)](https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH) | 5:35 |
 | 40 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
+| 41 | [Make Me \- Sofia Kourtesis Remix](https://open.spotify.com/track/01nJMJaJ6N6FrVjnsGtz52) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Make Me \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/2B6r3sO1nYQ8jsy3knHo6W) | 4:03 |
+| 42 | [Girls \- Acid Version](https://open.spotify.com/track/1nOuBXHufQO1vTC8lNliCf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Azaleas \(Alan Dixon Remix\) / Girls \(Acid Version\)](https://open.spotify.com/album/55lkgxuJzMjRsUQ5cPjvLX) | 5:26 |
+| 43 | [In The Night \- Paul Sirrell Remix](https://open.spotify.com/track/3KmrUmrcc3L4OqqGQAEhxG) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:30 |
 
-Snapshot ID: `AAAP2hA4hiSFCtQcpCzh3fIlrsbN5Bjk`
+Snapshot ID: `AAAP3ZkfH2jIC1PC32ELmyih+n7W5cKx`

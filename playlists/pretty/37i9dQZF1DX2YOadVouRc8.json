@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 32380,
+  "num_followers": 32402,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 158833,
       "name": "Pier 46",
       "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
+    },
+    {
+      "added_at": "2025-01-31 00:01:07",
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2025-01-31 00:01:07",
@@ -795,30 +795,6 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
-        "name": "By Any Minz",
-        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 192031,
-      "name": "f.u.",
-      "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -843,38 +819,26 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
-        "name": "Temptress",
-        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+        "name": "By Any Minz",
+        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
       },
       "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 176121,
-      "name": "Temptress",
-      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
-        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
         {
           "name": "Minz",
           "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Sara Jay",
-      "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
+      "duration_ms": 192031,
+      "name": "f.u.",
+      "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
     },
     {
       "added_at": "2025-01-31 00:01:07",
@@ -899,22 +863,22 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
-        "name": "Shalaye",
-        "url": "https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR"
+        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
       },
       "artists": [
         {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 145017,
-      "name": "Shalaye",
-      "url": "https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu"
+      "duration_ms": 180000,
+      "name": "Sara Jay",
+      "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
     },
     {
       "added_at": "2025-01-31 00:01:07",
@@ -943,6 +907,42 @@
       "duration_ms": 131368,
       "name": "Finish Me",
       "url": "https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h"
+    },
+    {
+      "added_at": "2025-01-31 00:01:07",
+      "album": {
+        "name": "Shalaye",
+        "url": "https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR"
+      },
+      "artists": [
+        {
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 145017,
+      "name": "Shalaye",
+      "url": "https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu"
+    },
+    {
+      "added_at": "2025-01-31 00:01:07",
+      "album": {
+        "name": "Temptress",
+        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
     },
     {
       "added_at": "2025-01-31 00:01:07",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"
+    },
+    {
+      "added_at": "2025-01-31 00:01:07",
+      "album": {
         "name": "Save Your Tears",
         "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
       },
@@ -1047,38 +1063,6 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
         "name": "No Games",
         "url": "https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 169843,
       "name": "No Games",
       "url": "https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF"
+    },
+    {
+      "added_at": "2025-01-31 00:01:07",
+      "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2025-01-31 00:01:07",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 167052,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
+    },
+    {
+      "added_at": "2025-01-31 00:01:07",
+      "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
     },
     {
       "added_at": "2025-01-31 00:01:07",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
-        "name": "Painless Melody",
-        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Painless Melody",
-      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 129576,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
+    },
+    {
+      "added_at": "2025-01-31 00:01:07",
+      "album": {
+        "name": "Painless Melody",
+        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Painless Melody",
+      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
     },
     {
       "added_at": "2025-01-31 00:01:07",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-01-31 00:01:07",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/08HFDiYAAD9wgOYqpTgBr8"
-      },
-      "artists": [
-        {
-          "name": "Twelve XII",
-          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
-        }
-      ],
-      "duration_ms": 158495,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/4FNInDPeqluA6e7CefIsjK"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
         "name": "Finding Nimo Series: The Capsule",
         "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 156212,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
+    },
+    {
+      "added_at": "2025-01-31 00:01:07",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/08HFDiYAAD9wgOYqpTgBr8"
+      },
+      "artists": [
+        {
+          "name": "Twelve XII",
+          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
+        }
+      ],
+      "duration_ms": 158495,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/4FNInDPeqluA6e7CefIsjK"
     },
     {
       "added_at": "2025-01-31 00:01:07",

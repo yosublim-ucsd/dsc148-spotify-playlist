@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 188888,
       "name": "2004",
       "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 133406,
       "name": "BANG BANG POW!",
       "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
@@ -808,6 +808,24 @@
       "duration_ms": 168775,
       "name": "BANG!",
       "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
+    },
+    {
+      "album": {
+        "name": "Bass Boys",
+        "url": "https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179805,
+      "name": "Bass Boys",
+      "url": "https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm"
     },
     {
       "album": {
@@ -2116,6 +2134,24 @@
       "duration_ms": 138088,
       "name": "DJ Turn It Up - Ben Nicky Remix",
       "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
+    },
+    {
+      "album": {
+        "name": "Do It For The Bass",
+        "url": "https://open.spotify.com/album/1eQJLYDQnc2JjShc8DRZeF"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Do It For The Bass",
+      "url": "https://open.spotify.com/track/7vvicpDycMPhX4RJjgipB8"
     },
     {
       "album": {
@@ -3644,6 +3680,28 @@
       "duration_ms": 153600,
       "name": "House",
       "url": "https://open.spotify.com/track/0i88cSlMSo9G5PEYGdVMdc"
+    },
+    {
+      "album": {
+        "name": "How We Do",
+        "url": "https://open.spotify.com/album/2Rn9gVIw4YSMxIPxxZKQhG"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Swizznife",
+          "url": "https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118285,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/0sfQVWpGxa38WrkgZbPpSa"
     },
     {
       "album": {
@@ -7163,6 +7221,28 @@
     },
     {
       "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/76X3dmI5Vdn8y2zO0XiWgH"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Danzel",
+          "url": "https://open.spotify.com/artist/0o2RZsw6cgJAO7e4N3x7dJ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141535,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4Z13mrmcGnngLcAUeQryEu"
+    },
+    {
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
@@ -7502,7 +7582,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 127241,
       "name": "Renegade Master",
       "url": "https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg"
@@ -8789,6 +8869,36 @@
     },
     {
       "album": {
+        "name": "Stephanie (HNTR Remix)",
+        "url": "https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145467,
+      "name": "Stephanie - HNTR Remix",
+      "url": "https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx"
       },
@@ -9254,7 +9364,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 136335,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/30K3pF8sD5kzCUjNzehmlq"
@@ -10466,7 +10576,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 122848,
       "name": "Would I Lie To You",
       "url": "https://open.spotify.com/track/2TzmzknUmcesfodpvJ28KT"

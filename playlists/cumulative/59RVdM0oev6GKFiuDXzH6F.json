@@ -14747,6 +14747,28 @@
     },
     {
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192626,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh"
+    },
+    {
+      "album": {
         "name": "Sex Drugs Energie",
         "url": "https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \bPaul Kim(\ud3f4\ud0b4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Joon Il Jeong(\uc815\uc900\uc77c)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 246573,
       "name": "a sad invitation",
       "url": "https://open.spotify.com/track/5LvFaKs1QN2nR65h4tJN4R"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 242160,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0KkoFye9cvIeLRe3fQMeOK"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 225720,
       "name": "Answer (From \"Love Scout\" : Original Soundtrack)",
       "url": "https://open.spotify.com/track/3CSgBXi77r1Nv6Hu5fYX5G"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 228013,
       "name": "Ask Out",
       "url": "https://open.spotify.com/track/3EJx6NKYzEQaR2PL9DUZJQ"
@@ -3642,7 +3642,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 228146,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "Desire And Hope (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
       "url": "https://open.spotify.com/track/1Ag5qTEW7daPrRNgQESisT"
@@ -7754,7 +7754,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 225840,
       "name": "Hollo",
       "url": "https://open.spotify.com/track/2FzuLPNILEvqazVEoR5uWn"
@@ -8436,7 +8436,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 208235,
       "name": "I didn't know we would break up",
       "url": "https://open.spotify.com/track/72WA4a4iejJa2plTQwhez3"
@@ -10707,6 +10707,24 @@
     },
     {
       "album": {
+        "name": "Is it love",
+        "url": "https://open.spotify.com/album/7prORjPo6VtAYgB7GfI6bW"
+      },
+      "artists": [
+        {
+          "name": "JOONIL JUNG",
+          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248668,
+      "name": "Is it love",
+      "url": "https://open.spotify.com/track/0P6c3BNGvkoJhSQYuP0fB4"
+    },
+    {
+      "album": {
         "name": "Lovers of the Red Sky OST Part.1",
         "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
       },
@@ -10794,7 +10812,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 256120,
       "name": "Island",
       "url": "https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe"
@@ -13246,7 +13264,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 240133,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/17IUvxErsnc8RmhkggoMwG"
@@ -15108,7 +15126,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 189386,
       "name": "No Sad Song For My Broken Heart",
       "url": "https://open.spotify.com/track/68jFZoDvQrM4QUwZuC6oLa"
@@ -15530,7 +15548,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 258160,
       "name": "Old Song",
       "url": "https://open.spotify.com/track/1rxzTIwzyHtg5FufNtjzMG"
@@ -17434,7 +17452,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 211480,
       "name": "Say goodbye",
       "url": "https://open.spotify.com/track/5Iw7hWB6liwf9C0I40xbB4"
@@ -17636,7 +17654,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 257786,
       "name": "Second love",
       "url": "https://open.spotify.com/track/7rtiRvjNbd05I1KSUVblzK"
@@ -17976,7 +17994,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 215653,
       "name": "Smile for me",
       "url": "https://open.spotify.com/track/6xDaCAazC3QiKNj2hpr4yM"
@@ -18236,6 +18254,24 @@
       "duration_ms": 195120,
       "name": "softie inside",
       "url": "https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3PrVoXf0lbcHBeVYLyjkV6"
+      },
+      "artists": [
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/2PGi27GRNkWhPqyQn1068G"
     },
     {
       "album": {
@@ -18510,7 +18546,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 264013,
       "name": "Somewhere in This Universe",
       "url": "https://open.spotify.com/track/4oAp3etVXydrLaVBcXHvDZ"
@@ -18858,6 +18894,24 @@
       "duration_ms": 251517,
       "name": "Stardust love song",
       "url": "https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/3hUD4nTrarlSSxYsSqMJ6y"
+      },
+      "artists": [
+        {
+          "name": "Jang Deok Cheol",
+          "url": "https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248200,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/5kH47YANTpxd6fJbZecwJC"
     },
     {
       "album": {
@@ -19522,7 +19576,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 250656,
       "name": "Swallowing Tears",
       "url": "https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke"
@@ -21248,7 +21302,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 251800,
       "name": "Threshold",
       "url": "https://open.spotify.com/track/0KCCMxvjXlhxH0Ha37popR"
@@ -22186,7 +22240,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 242013,
       "name": "vain hope",
       "url": "https://open.spotify.com/track/0KTepZj73Gl6oJQwdSx5fi"
@@ -22348,7 +22402,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Wall",
       "url": "https://open.spotify.com/track/7wSb2eRkdEyRmyxFIduPPj"
@@ -22666,6 +22720,24 @@
       "duration_ms": 272026,
       "name": "What If",
       "url": "https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf"
+    },
+    {
+      "album": {
+        "name": "Dear Hyeri, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR"
     },
     {
       "album": {

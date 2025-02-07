@@ -2,9 +2,9 @@
 
 ### [Cantautoras](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Valeria Castro.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Rozalén.
 
-319 songs - 20 hr 16 min
+320 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alquitrán y Carmín](https://open.spotify.com/track/7bqnSrUqtjb2s6PTyu7F6v) | [El Niño de la Hipoteca](https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Operación Guitarra Sessions](https://open.spotify.com/album/4SGhIFvqCNK1mhvWKT7RcS) | 3:32 | 2022-08-11 | 2022-09-09 |
 | [Amelie](https://open.spotify.com/track/2KtWiCqg2tGyFfTAfHmPZo) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Amelie](https://open.spotify.com/album/3MkPfEHkVyRAsZ4NjpzWKc) | 3:19 | 2022-06-30 | 2022-09-23 |
 | [Amor a Tres](https://open.spotify.com/track/7xZgcL8Nty3F7VXJzLrXLV) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Amor a Tres](https://open.spotify.com/album/6NyQ4ogOWI3lxyU7HGfYGj) | 4:07 | 2023-06-29 | 2023-10-27 |
+| [Amor Clandestino \- Acústica](https://open.spotify.com/track/3QsAugA92ZAQxysKw2ebAz) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Israel Fernández](https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI), [Diego del Morao](https://open.spotify.com/artist/0SJeISsEAcENQ8JU6w9FPw) | [Amor Clandestino \(Acústica\)](https://open.spotify.com/album/7x2bjtxejjCzg64hRa5f5Y) | 4:50 | 2025-02-06 |  |
 | [Amor del Bo](https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Amor del Bo](https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA) | 2:19 | 2022-10-20 | 2023-01-12 |
 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 | 2022-06-09 |  |
 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2022-06-09 |  |
@@ -62,7 +63,7 @@
 | [Contamíname \- En Directo](https://open.spotify.com/track/41Ewbqzdnv82EV494sQRua) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Esencial Ana y Victor](https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn) | 3:22 | 2022-06-09 | 2022-07-29 |
 | [Contigo](https://open.spotify.com/track/2GzabawNQ8PUGHWaAnJfLx) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/1wMfxsd5wrabprLzgWcDdK) | 4:54 | 2022-06-09 | 2022-07-29 |
 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 | 2022-06-30 | 2024-04-09 |
-| [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 | 2022-06-09 | 2024-10-18 |
+| [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 | 2022-06-09 |  |
 | [Contigo](https://open.spotify.com/track/4pesB5Dew0MP6mwvyfj4sX) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j) | 3:20 | 2022-06-09 | 2022-07-27 |
 | [Contigo](https://open.spotify.com/track/7uoynvwsKMefF60kNjByC6) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 3:20 | 2022-06-30 | 2022-09-23 |
 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 | 2022-06-09 |  |
@@ -267,7 +268,7 @@
 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 | 2022-06-09 |  |
 | [Sin Tu Latido \- Remasterizado](https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 5:02 | 2022-06-09 |  |
 | [Sinmigo](https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw) | [Mr\. Kilombo](https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 3:37 | 2022-06-09 |  |
-| [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/track/4fe2YUvzu5oGWJz3FPyvDE) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/album/3bZgGd7L26rA44M7ppFSyi) | 4:04 | 2022-10-20 |  |
+| [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/track/4fe2YUvzu5oGWJz3FPyvDE) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/album/3bZgGd7L26rA44M7ppFSyi) | 4:04 | 2022-10-20 | 2025-02-07 |
 | [Sinvergüenza](https://open.spotify.com/track/62acVIul8sVkk5ljkcSmJ9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [Sinvergüenza](https://open.spotify.com/album/606x4RWcuBQAORbCgjjeFk) | 3:21 | 2024-09-23 | 2024-12-16 |
 | [Slowly](https://open.spotify.com/track/2ZZvtilGKmGDAdz9IU1EG2) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 5:39 | 2022-06-09 |  |
 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 | 2022-06-09 |  |
@@ -305,7 +306,7 @@
 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 | 2022-08-11 |  |
 | [Un Día De Estos](https://open.spotify.com/track/6ZmJgYJp4agUqbcPVPCTv9) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Un Día De Estos](https://open.spotify.com/album/2OIxW8I2nTppWY04ty45A3) | 3:21 | 2023-09-14 | 2023-10-27 |
 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 | 2022-06-09 |  |
-| [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 | 2022-06-09 |  |
+| [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 | 2022-06-09 | 2025-02-07 |
 | [Un último vals](https://open.spotify.com/track/4CiY69daQtmIl2RNqsYCtp) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Un último vals](https://open.spotify.com/album/5EIyVu9MNNnpn7nuaYHMRp) | 4:13 | 2024-10-17 |  |
 | [Una carta con tu nombre](https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Una carta con tu nombre](https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa) | 3:55 | 2024-05-30 | 2024-06-15 |
 | [Una cueva en el invierno](https://open.spotify.com/track/4ttTVZY3XxVFDdKtHsQXCS) | [Marilia](https://open.spotify.com/artist/0vpLum5X3NNpmdvLPMm5El) | [Una cueva en el invierno](https://open.spotify.com/album/1ZJuPuaPhSuHYLc9dgQAaR) | 3:06 | 2022-11-24 | 2022-12-24 |

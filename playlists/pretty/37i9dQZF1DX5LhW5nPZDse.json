@@ -1,13 +1,81 @@
 {
   "description": "Death is just the beginning. Listen to the music from School Spirits, new season now streaming on Paramount+. ",
-  "num_followers": 8394,
+  "num_followers": 8486,
   "original_name": "School Spirits Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z51aNAAAAABjSK6x+Qnooum9ihuwOYTZ",
+  "snapshot_id": "Z6RsGgAAAABhlpOk+0jlDnKQ2ch6K5Qk",
   "tracks": [
+    {
+      "added_at": "2025-02-06 08:00:26",
+      "album": {
+        "name": "Too Bright",
+        "url": "https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/4ThYidN9URLbpQUvOVxkRt"
+    },
+    {
+      "added_at": "2025-02-06 08:00:26",
+      "album": {
+        "name": "Verbathim",
+        "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "coloured concrete",
+      "url": "https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru"
+    },
+    {
+      "added_at": "2025-02-06 08:00:26",
+      "album": {
+        "name": "You Won't Go Before You're Supposed To",
+        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 164695,
+      "name": "Suffocate (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
+    },
+    {
+      "added_at": "2025-02-06 08:00:26",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side B)",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
     {
       "added_at": "2025-01-31 23:18:12",
       "album": {

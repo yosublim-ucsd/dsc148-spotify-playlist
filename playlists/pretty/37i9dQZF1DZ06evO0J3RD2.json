@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 8214,
+  "num_followers": 8220,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADgMq1pGYwEuYvuaEaYNux1",
+  "snapshot_id": "Z6KqAAAAAAC9E9Xobz+FHFz4grPCBQ7D",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 186052,
-      "name": "Fail You",
-      "url": "https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl"
+      "duration_ms": 230590,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE"
     },
     {
       "added_at": null,
@@ -411,38 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbed Wire Body",
-        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 208023,
-      "name": "Barbed Wire Body",
-      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUCKUS!",
-        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 230590,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
       },
@@ -459,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outgrown Things",
         "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 218160,
       "name": "Vacant Home",
       "url": "https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barbed Wire Body",
+        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "Barbed Wire Body",
+      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
     },
     {
       "added_at": null,

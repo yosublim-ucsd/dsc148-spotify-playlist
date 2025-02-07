@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>"
 
-339 songs - 1 day 11 hr 16 min
+341 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dodorima](https://open.spotify.com/track/53iJayjwb5dxP8NAKCdZAS) | [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Dodorima](https://open.spotify.com/album/702KVnfbnH1Zcm8TcQAD2D) | 5:21 | 2025-01-24 |  |
 | [Dumelang \(Tribute To Barorisi Ba Morena\)](https://open.spotify.com/track/2aYF7mVCVVRdYkLsPCkzyV) | [OKAY GOD](https://open.spotify.com/artist/2hFJOQgC6LBgvQKudZBXFH), [Zito Mowa](https://open.spotify.com/artist/3Dk9FD41zSgiSrJYgmhmRj) | [GAE](https://open.spotify.com/album/65D9hOUlBpFFfpqo6o3lbs) | 5:32 | 2022-09-15 | 2023-03-18 |
 | [Dwala \(Live\)](https://open.spotify.com/track/3lShukInQB3CKdTtLGM76x) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Your Kingdom on Earth \(Live\)](https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI) | 4:32 | 2024-03-29 | 2024-04-05 |
+| [Ebenezer](https://open.spotify.com/track/66cf5Aufw5GxRauvzVdli7) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ebenezer](https://open.spotify.com/album/0MQ00rMj7eBh6vsbNbqZFj) | 9:28 | 2025-02-07 |  |
 | [Ebenezer](https://open.spotify.com/track/6i4kz0kfnBYlA0HkU015tk) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/3h727k2IPGhHzsRtTsrC4i) | 8:51 | 2023-05-05 | 2024-04-19 |
 | [Ebenezer](https://open.spotify.com/track/7f9S6zqIN62gFphKylbd6F) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/0fTvvmaFCgpExHxRz4sAkt) | 8:51 | 2022-02-17 |  |
 | [Ekugcineni](https://open.spotify.com/track/22YCu4JlNER6GS8NvblvoC) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Spirit of Praise 7](https://open.spotify.com/album/43UYPX4SkCTGFwoJOUO3y6) | 5:31 | 2024-04-05 |  |
@@ -182,6 +183,7 @@
 | [Ngeke Ng'suke Kuwe](https://open.spotify.com/track/2qMpi2KOaaE95OVSuFA3OA) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ngeke Ng'suke Kuwe](https://open.spotify.com/album/6VSBeHUCkZslvEBS4tbZOO) | 10:43 | 2024-03-29 | 2024-04-05 |
 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 | 2023-06-16 |  |
 | [Ngena Noah](https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Ngena Noah](https://open.spotify.com/album/5SLa6KjE7yFBKUiBbNSgwH) | 4:31 | 2023-03-17 | 2023-08-04 |
+| [Nginobufakazi](https://open.spotify.com/track/3nwAv4rnjs29WbN80LnvaY) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Nginobufakazi](https://open.spotify.com/album/5T5Tzr9YcpmtUWZdahtXQT) | 8:25 | 2025-02-07 |  |
 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 | 2023-08-25 | 2024-02-02 |
 | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/track/1EtlmAlMg6V3Cb4gklkovA) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/album/061BwSXuzM3j9KU96O24tO) | 7:54 | 2023-09-01 | 2023-09-15 |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2023-09-15 | 2024-02-02 |

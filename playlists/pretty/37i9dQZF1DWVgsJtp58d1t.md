@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Our voices, our legacy\. Happy Black History Month! Cover: <a href="spotify:artist:7tYKF4w9nC0nq9CsPZTHyP">SZA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,439 likes - 151 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,663 likes - 151 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Macha Gharibian\n\n",
+  "description": "The best jazz new releases. Cover: Jeff Goldblum\n\n",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1700,6 +1700,24 @@
       "duration_ms": 208552,
       "name": "Brightlight",
       "url": "https://open.spotify.com/track/6bbrT0pWJJXgyDnQQN0064"
+    },
+    {
+      "album": {
+        "name": "Buono Time",
+        "url": "https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Buono Time",
+      "url": "https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY"
     },
     {
       "album": {
@@ -7075,6 +7093,24 @@
     },
     {
       "album": {
+        "name": "BelleJazzClub (Vol. 1)",
+        "url": "https://open.spotify.com/album/0pOsp9Xw18DuMNOcvgl8c4"
+      },
+      "artists": [
+        {
+          "name": "Adrien Soleiman",
+          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225109,
+      "name": "Les Enfants",
+      "url": "https://open.spotify.com/track/6i5jnIiTrQreU1WPH0IsJz"
+    },
+    {
+      "album": {
         "name": "Fables",
         "url": "https://open.spotify.com/album/4fDN799OnYLUrE3PB7wnib"
       },
@@ -10836,7 +10872,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 192906,
       "name": "Shaking Body",
       "url": "https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq"
@@ -13794,7 +13830,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 211888,
       "name": "Welcome to 8H",
       "url": "https://open.spotify.com/track/5PqYnQiBfum309NNoOTy3h"

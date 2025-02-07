@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 165420,
+  "num_followers": 165522,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
         "name": "The Miraculous Hump Returns From The Moon",
         "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Remix",
-        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 384986,
-      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
-      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
         "name": "Little Dragon",
         "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 273546,
       "name": "Constant Surprises",
       "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
+        "name": "Remix",
+        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 384986,
+      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
+      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Time Is Slipping Away",
-        "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
-      },
-      "artists": [
-        {
-          "name": "Dexter Wansel",
-          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
-        }
-      ],
-      "duration_ms": 345400,
-      "name": "The Sweetest Pain",
-      "url": "https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
+        "name": "Time Is Slipping Away",
+        "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
+      },
+      "artists": [
+        {
+          "name": "Dexter Wansel",
+          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
+        }
+      ],
+      "duration_ms": 345400,
+      "name": "The Sweetest Pain",
+      "url": "https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
+        "name": "La Perla",
+        "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 327096,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "La Perla",
-        "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
+        "name": "Akofa Akoussah",
+        "url": "https://open.spotify.com/album/76MYmID5q42L381YAFUaEq"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Akofa Akoussah",
+          "url": "https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh"
         }
       ],
-      "duration_ms": 327096,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
+      "duration_ms": 233892,
+      "name": "I Tcho Tchass",
+      "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -951,22 +967,6 @@
       "duration_ms": 265378,
       "name": "In the Hills",
       "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
-        "name": "Akofa Akoussah",
-        "url": "https://open.spotify.com/album/76MYmID5q42L381YAFUaEq"
-      },
-      "artists": [
-        {
-          "name": "Akofa Akoussah",
-          "url": "https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh"
-        }
-      ],
-      "duration_ms": 233892,
-      "name": "I Tcho Tchass",
-      "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ashong",
-          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
-        },
-        {
-          "name": "Theo Parrish",
-          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
-        }
-      ],
-      "duration_ms": 532313,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
         "name": "Fair Chance (Floating Points Remix)",
         "url": "https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB"
       },
@@ -1275,6 +1255,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Safe In My Arms",
+      "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
       },
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Andrew Ashong",
+          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
+        },
+        {
+          "name": "Theo Parrish",
+          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
         }
       ],
-      "duration_ms": 218226,
-      "name": "Safe In My Arms",
-      "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
+      "duration_ms": 532313,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
     }
   ],
   "unique_name": "Turntable",

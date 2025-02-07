@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 127037,
       "name": "Digge gutta",
       "url": "https://open.spotify.com/track/64LmSaPo5ZdoWRt711Akgi"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 212360,
       "name": "Flammer og Bensin",
       "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
@@ -2678,6 +2678,28 @@
       "duration_ms": 155820,
       "name": "F\u00f6rsta G\u00e5ngen I En EPA",
       "url": "https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz"
+    },
+    {
+      "album": {
+        "name": "F\u00f8dt i nord",
+        "url": "https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Han Helge & Han H\u00e5kon",
+          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156030,
+      "name": "F\u00f8dt i nord",
+      "url": "https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja"
     },
     {
       "album": {
@@ -3990,7 +4012,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 157937,
       "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
       "url": "https://open.spotify.com/track/2RXphY5aZVR5SSbkbwXrPh"

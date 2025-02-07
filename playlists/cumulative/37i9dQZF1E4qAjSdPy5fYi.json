@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With Joshua Lanuarii, glitterpop!, UrvTek and more",
+  "description": "With Joshua Lanuarii, UrvTek, STYXVII and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 157935,
       "name": "2007",
       "url": "https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 140400,
       "name": "all my frens r rainbowz, but i'm still DEAD INSIDE!!!",
       "url": "https://open.spotify.com/track/7seEwSO5nqdoCdLnKsqy4g"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "ANTONYMPH - N1GHTC0R3 M1X",
       "url": "https://open.spotify.com/track/6xzlfzYDEwkVznV9FPOkym"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 135335,
       "name": "Birds Be Like",
       "url": "https://open.spotify.com/track/4i81dqSMGtv3imzSC5hVLf"
@@ -379,6 +379,42 @@
     },
     {
       "album": {
+        "name": "JERMACORE: VOLUME 1",
+        "url": "https://open.spotify.com/album/4YN9tQ0J6Yda9AVLh8LMXS"
+      },
+      "artists": [
+        {
+          "name": "japanesecoffee",
+          "url": "https://open.spotify.com/artist/3Y6wMNWuISLxTuAAILWhpL"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121573,
+      "name": "CATBOY JERMA",
+      "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
+    },
+    {
+      "album": {
+        "name": "BURNOUT",
+        "url": "https://open.spotify.com/album/0i2YrxbwlJb3eUzvSVqSXI"
+      },
+      "artists": [
+        {
+          "name": "LuLuYam",
+          "url": "https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249150,
+      "name": "CENTIPEDE LEGS",
+      "url": "https://open.spotify.com/track/7DV9U5tZHOgkH0Ag2QxDir"
+    },
+    {
+      "album": {
         "name": "Digital Hell (KinitoPET Song)",
         "url": "https://open.spotify.com/album/4ef1yvEjWXHxyAcx0dbtTu"
       },
@@ -408,7 +444,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 127500,
       "name": "DOKTORSPIELE 4 SPARKLEFURS!!!",
       "url": "https://open.spotify.com/track/5wbUoMt6kW0E4l1VWotlA4"
@@ -452,10 +488,28 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 77216,
       "name": "don't forget (to not be a jerk)",
       "url": "https://open.spotify.com/track/2aU43VxROsnRdmD4jDwic5"
+    },
+    {
+      "album": {
+        "name": "Pent Up Pup",
+        "url": "https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ"
+      },
+      "artists": [
+        {
+          "name": "Pent Up Pup",
+          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84250,
+      "name": "EDGE PLAY",
+      "url": "https://open.spotify.com/track/2K7lTkeRtaFvPuLVQ6rKvR"
     },
     {
       "album": {
@@ -612,7 +666,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 133114,
       "name": "ICE CREAM PARTY",
       "url": "https://open.spotify.com/track/3SvmZCUGalhWSHFaNVOkhn"
@@ -648,7 +702,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 153124,
       "name": "IDOLiZER",
       "url": "https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6"
@@ -754,7 +808,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 128957,
       "name": "ITS NOT ME ITS YOU",
       "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
@@ -866,7 +920,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 150000,
       "name": "luv u FUREVR!!!",
       "url": "https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl"
@@ -942,7 +996,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 127058,
       "name": "MURDER EVERY 1 U KNOW! - SALVIA'S VERSION",
       "url": "https://open.spotify.com/track/6iCNGXd4dIkVj7oofcRomz"
@@ -982,7 +1036,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 78143,
       "name": "my skin is dry",
       "url": "https://open.spotify.com/track/7IBxObNV3PLW9PXHMOWKxb"
@@ -1000,7 +1054,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "my teeth will free you",
       "url": "https://open.spotify.com/track/5cCxIwMcjhYVWHGu5RLn5G"
@@ -1156,7 +1210,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 182624,
       "name": "outcast",
       "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
@@ -1174,7 +1228,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 97250,
       "name": "PEG ME",
       "url": "https://open.spotify.com/track/2gBwXk0yNuDfekC7YsILv7"
@@ -1192,7 +1246,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 101668,
       "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
       "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
@@ -1250,7 +1304,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 173333,
       "name": "pretty boys in pretty skirts",
       "url": "https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2"
@@ -1286,7 +1340,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 160733,
       "name": "rainbowz x3!!!",
       "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
@@ -1416,7 +1470,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 118299,
       "name": "TBH",
       "url": "https://open.spotify.com/track/63UApHP3z3JkF5uuG3A7U4"
@@ -1554,7 +1608,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 274186,
       "name": "WAG UR TAIL 2 THIS! (PAWS UP ON THE DANCEFLOOR!)",
       "url": "https://open.spotify.com/track/27Ia129EFB9zrcp2VgaEs0"
@@ -1590,7 +1644,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "Who are you pretending to be?",
       "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"
@@ -1662,10 +1716,32 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 186666,
       "name": "your boyfriend's corpse",
       "url": "https://open.spotify.com/track/5hHtzlcsFEWEjGcPO1KjmR"
+    },
+    {
+      "album": {
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+      },
+      "artists": [
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        },
+        {
+          "name": "Maruyama Yuki",
+          "url": "https://open.spotify.com/artist/0SBWl7IHTqw2Gwy895vov9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "\u4eba\u6c17\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b5\u30fc\u2606",
+      "url": "https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi"

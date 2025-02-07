@@ -4,7 +4,7 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Feli Colina
 
-186 songs - 11 hr 0 min
+187 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 | 2023-08-18 |  |
 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 | 2023-08-18 |  |
 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 | 2023-08-18 |  |
+| [TORMENTA](https://open.spotify.com/track/1dYoXlC0FbzBfAZsv9xElo) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [TORMENTA](https://open.spotify.com/album/0foNLXCfKnc7TBU4HO7fYr) | 2:09 | 2025-02-07 |  |
 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 | 2023-09-01 |  |
 | [Tu Falta De Querer](https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx) | [Jacinta](https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB), [Santiago Manrique](https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h) | [Cantamos en mi terraza? \#2](https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3) | 4:34 | 2024-09-27 |  |
 | [Tu Locura](https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Canciones Elegidas 93\-04](https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq) | 2:29 | 2023-08-18 |  |
@@ -190,7 +191,7 @@
 | [Vámonos](https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vámonos](https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h) | 2:45 | 2024-04-19 |  |
 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-18 | 2023-09-02 |
 | [Y no tanto este cielo](https://open.spotify.com/track/3HcAUYDmMUbBlMVzRuShAp) | [Tomás Aristimuño](https://open.spotify.com/artist/2YlZZZU4OkqcHk3dWeCRqc) | [Y no tanto este cielo](https://open.spotify.com/album/0Ji4cZLTALHFZsOxVeWVfY) | 3:13 | 2024-07-05 | 2024-10-21 |
-| [ya no hay dudas \- Versión Acústica](https://open.spotify.com/track/1uJiKlVBweWo8Kd77eiRRH) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [ya no hay dudas \(Versión Acústica\)](https://open.spotify.com/album/18AmPCw1XQaPWykdbBPhwg) | 3:18 | 2024-06-07 |  |
+| [ya no hay dudas \- Versión Acústica](https://open.spotify.com/track/1uJiKlVBweWo8Kd77eiRRH) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [ya no hay dudas \(Versión Acústica\)](https://open.spotify.com/album/18AmPCw1XQaPWykdbBPhwg) | 3:18 | 2024-06-07 | 2025-02-07 |
 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 | 2023-08-18 |  |
 | [Zapatillas con luces de color \- acústico](https://open.spotify.com/track/31eu3LrKlJgM3oyD86k3mQ) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Las Cosas Temporales](https://open.spotify.com/artist/04QFjhXUk1SasB1VwIZsrm) | [Fotonovela](https://open.spotify.com/album/1pBwQQJIszYaQIx7g7RzgO) | 4:18 | 2024-11-07 | 2024-11-25 |
 | [¿Qué Vas a Hacer Hoy? \- Versión Acústica](https://open.spotify.com/track/16eZCuxO1SKBBXIugrd9VQ) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [¿Qué Vas a Hacer Hoy? \(Versión Acústica\)](https://open.spotify.com/album/28HZNYEBcU3VODQght3szq) | 3:47 | 2024-07-19 | 2024-08-24 |

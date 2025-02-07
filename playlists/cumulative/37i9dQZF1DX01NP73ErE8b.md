@@ -2,7 +2,7 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Tananai in cover
+> I brani italiani che abbiamo on repeat! 🔁 Elisa in cover
 
 174 songs - 9 hr 1 min
 

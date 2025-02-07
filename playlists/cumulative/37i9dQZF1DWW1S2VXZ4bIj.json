@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Z9, 2K, Saran",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LITTLE JOHN",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -385,6 +385,32 @@
     },
     {
       "album": {
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
+      "album": {
         "name": "Boys Love Girls",
         "url": "https://open.spotify.com/album/275ajRljB3UHsoXVvT0BLr"
       },
@@ -486,7 +512,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
@@ -1326,7 +1352,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 180288,
       "name": "Oopsy Daisy",
       "url": "https://open.spotify.com/track/2vwjJOcZInBM9VibTxzwSQ"
@@ -1452,7 +1478,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 151773,
       "name": "PYTHON",
       "url": "https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv"
@@ -2352,7 +2378,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 188959,
       "name": "\u0e01\u0e31\u0e4a\u0e01 (No-status Status) - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/2P2qSPBjQfeyxBRDxFivHZ"
@@ -2847,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02\u0e01\u0e31\u0e1a\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e28\u0e23\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/6oiYQuAHFQN8zHawj2YAL1"
+      },
+      "artists": [
+        {
+          "name": "\u0e21\u0e19\u0e31\u0e2a\u0e27\u0e35\u0e23\u0e4c",
+          "url": "https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280201,
+      "name": "\u0e09\u0e31\u0e19\u0e22\u0e34\u0e19\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/2Re1DhVjGZSEnDPJVI6PcB"
+    },
+    {
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e41\u0e2d\u0e1a\u0e0b\u0e48\u0e2d\u0e19\u0e19\u0e49\u0e33\u0e15\u0e32\u0e43\u0e15\u0e49\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
         "url": "https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA"
       },
@@ -3156,6 +3200,24 @@
       "duration_ms": 267680,
       "name": "\u0e15\u0e31\u0e27\u0e23\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/2XK9vFFlRxSiDxq7Y4J4Oz"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e31\u0e27\u0e42\u0e14\u0e19",
+        "url": "https://open.spotify.com/album/4gLGowAWp62z0BaSgC59Qf"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "\u0e15\u0e31\u0e27\u0e42\u0e14\u0e19",
+      "url": "https://open.spotify.com/track/6PgrERReqbpJHFtOpSzdPj"
     },
     {
       "album": {
@@ -4304,6 +4366,24 @@
       "duration_ms": 221095,
       "name": "\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21\u0e40\u0e2a\u0e21\u0e2d (Ever-Forever) - Ost. \u0e2b\u0e25\u0e32\u0e19\u0e21\u0e48\u0e32",
       "url": "https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e09\u0e31\u0e19\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228648,
+      "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e09\u0e31\u0e19\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR"
     },
     {
       "album": {

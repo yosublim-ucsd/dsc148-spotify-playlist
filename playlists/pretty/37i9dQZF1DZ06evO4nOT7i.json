@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 377187,
+  "num_followers": 377222,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAAA0gPU+N1hub+2WjjJiseDt",
+  "snapshot_id": "Z6KqAAAAAACQixUsnuBTQwUVs5agGhuS",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 173952,
-      "name": "The Table",
-      "url": "https://open.spotify.com/track/5o3kn5HJIYAQ14GYmR6IAg"
+      "duration_ms": 127558,
+      "name": "4 In The Morning",
+      "url": "https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 127558,
-      "name": "4 In The Morning",
-      "url": "https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc"
+      "duration_ms": 173952,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/5o3kn5HJIYAQ14GYmR6IAg"
     },
     {
       "added_at": null,

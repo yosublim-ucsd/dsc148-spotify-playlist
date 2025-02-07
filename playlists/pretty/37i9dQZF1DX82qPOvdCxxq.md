@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: JOSHUA LAZER \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,413 likes - 98 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,449 likes - 98 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

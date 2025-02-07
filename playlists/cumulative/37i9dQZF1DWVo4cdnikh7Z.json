@@ -799,6 +799,32 @@
     },
     {
       "album": {
+        "name": "Aazaadi (From \"Thandel\")(Tamil)",
+        "url": "https://open.spotify.com/album/0pO4NcUdwLa4QvB2Rxhf5P"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235945,
+      "name": "Aazaadi (From \"Thandel\")(Tamil)",
+      "url": "https://open.spotify.com/track/0KpnNA4iQOdzUdN5Cqttmm"
+    },
+    {
+      "album": {
         "name": "Abarakko Dabarakko (From \"Vadakkupatti Ramasamy\")",
         "url": "https://open.spotify.com/album/6xrVDAkhBpyeay6vOzWcjB"
       },
@@ -17604,7 +17630,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 272908,
       "name": "Lyraanaa (From \"Game Changer\") (Tamil)",
       "url": "https://open.spotify.com/track/1z2yoQvc1hWETznlIGq3LE"
@@ -20470,7 +20496,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 354000,
       "name": "Mounam Pole",
       "url": "https://open.spotify.com/track/2AUMBf2OyuGZH0f88JPYGQ"
@@ -32842,6 +32868,24 @@
       "duration_ms": 266068,
       "name": "Thaniya Naan - From \"Romeo\"",
       "url": "https://open.spotify.com/track/5HjR4AV5vSFi9CMAnQLsUX"
+    },
+    {
+      "album": {
+        "name": "Thaniye (From \"Vidaamuyarchi\")",
+        "url": "https://open.spotify.com/album/0W2aAFhKeXarP1S0Gjo3A4"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199304,
+      "name": "Thaniye (From \"Vidaamuyarchi\")",
+      "url": "https://open.spotify.com/track/5r717AczhfyJhUkma89GN9"
     },
     {
       "album": {

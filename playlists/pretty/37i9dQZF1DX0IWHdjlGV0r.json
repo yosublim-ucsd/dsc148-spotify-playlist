@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Emis Killa",
-  "num_followers": 124325,
+  "num_followers": 124338,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "Non Abbiamo Et\u00e0",
+      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+    },
+    {
+      "added_at": "2025-01-31 00:01:09",
+      "album": {
         "name": "M' Manc (con Geolier & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
-    },
-    {
-      "added_at": "2025-01-31 00:01:09",
-      "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 181661,
-      "name": "Non Abbiamo Et\u00e0",
-      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 228454,
-      "name": "Non lo Sai",
-      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
-    },
-    {
-      "added_at": "2025-01-31 00:01:09",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 211840,
       "name": "2% (feat. Frah Quintale)",
       "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
+    },
+    {
+      "added_at": "2025-01-31 00:01:09",
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 164177,
-      "name": "Ancora Qua (feat. Tedua)",
-      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
-    },
-    {
-      "added_at": "2025-01-31 00:01:09",
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 207322,
       "name": "Forte",
       "url": "https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW"
+    },
+    {
+      "added_at": "2025-01-31 00:01:09",
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 164177,
+      "name": "Ancora Qua (feat. Tedua)",
+      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -867,22 +867,26 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
-        "name": "HOTEL MONTANA",
-        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
+        "name": "FAME",
+        "url": "https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P"
       },
       "artists": [
         {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
         },
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Kiss You (F**k You) [feat. Geolier]",
-      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
+      "duration_ms": 151333,
+      "name": "Con uno sguardo (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/1eXLKnYOKvM5WV3J6xvxFm"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -907,6 +911,22 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Non Fare Cos\u00ec",
+      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+    },
+    {
+      "added_at": "2025-01-31 00:01:09",
+      "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
       },
@@ -923,18 +943,22 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+        "name": "HOTEL MONTANA",
+        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Non Fare Cos\u00ec",
-      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+      "duration_ms": 207400,
+      "name": "Kiss You (F**k You) [feat. Geolier]",
+      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -995,30 +1019,6 @@
       "duration_ms": 202600,
       "name": "LEI (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
-    },
-    {
-      "added_at": "2025-01-31 00:01:09",
-      "album": {
-        "name": "FAME",
-        "url": "https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "Con uno sguardo (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/1eXLKnYOKvM5WV3J6xvxFm"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2025-01-31 00:01:09",
-      "album": {
         "name": "L'erba cattiva",
         "url": "https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 231655,
       "name": "Parole di ghiaccio",
       "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
+    },
+    {
+      "added_at": "2025-01-31 00:01:09",
+      "album": {
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
+        "name": "Mattoni",
+        "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 194861,
+      "name": "Prometto (feat. Rkomi & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
+    },
+    {
+      "added_at": "2025-01-31 00:01:09",
+      "album": {
         "name": "CON I MIEI OCCHI",
         "url": "https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 177545,
       "name": "HEETS (feat. Geolier)",
       "url": "https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo"
-    },
-    {
-      "added_at": "2025-01-31 00:01:09",
-      "album": {
-        "name": "Mattoni",
-        "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 194861,
-      "name": "Prometto (feat. Rkomi & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
-        "name": "CUORI SPEZZATI",
-        "url": "https://open.spotify.com/album/5GWvi5nrEzRBunptW3Yv6K"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "CUORI SPEZZATI",
-      "url": "https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1"
-    },
-    {
-      "added_at": "2025-01-31 00:01:09",
-      "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 171775,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+    },
+    {
+      "added_at": "2025-01-31 00:01:09",
+      "album": {
+        "name": "CUORI SPEZZATI",
+        "url": "https://open.spotify.com/album/5GWvi5nrEzRBunptW3Yv6K"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "CUORI SPEZZATI",
+      "url": "https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1"
     },
     {
       "added_at": "2025-01-31 00:01:09",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2025-01-31 00:01:09",
       "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 203100,
-      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
-    },
-    {
-      "added_at": "2025-01-31 00:01:09",
-      "album": {
         "name": "Umile (Deluxe)",
         "url": "https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 169787,
       "name": "Correre (feat. Frah Quintale)",
       "url": "https://open.spotify.com/track/5NYi4QOqyKT78JAJZAMKeN"
+    },
+    {
+      "added_at": "2025-01-31 00:01:09",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 203100,
+      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
     },
     {
       "added_at": "2025-01-31 00:01:09",

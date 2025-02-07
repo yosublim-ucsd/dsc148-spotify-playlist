@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9268,
+  "num_followers": 9271,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAACKLb258jBOgHPRYoZsu/hF",
+  "snapshot_id": "Z6KqAAAAAACHUVLjPvHwvMr+tffzq0Ln",
   "tracks": [
     {
       "added_at": null,
@@ -434,19 +434,11 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        },
-        {
-          "name": "G.L.A.M.",
-          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
         }
       ],
-      "duration_ms": 186873,
-      "name": "SPELL \uc8fc\ubb38",
-      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
+      "duration_ms": 229848,
+      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
     },
     {
       "added_at": null,
@@ -506,11 +498,19 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "G.L.A.M.",
+          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
         }
       ],
-      "duration_ms": 229848,
-      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
+      "duration_ms": 186873,
+      "name": "SPELL \uc8fc\ubb38",
+      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-668 songs - 2 day 4 hr 22 min
+670 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Brutalism](https://open.spotify.com/track/4szHVkwccA5hCKk3GA0Tle) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:27 | 2022-11-23 | 2023-02-04 |
 | [Burning](https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Burning](https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ) | 3:08 | 2023-08-04 | 2023-09-08 |
 | [C'mon](https://open.spotify.com/track/0Q1E0uHQHHlczjjbctXzmK) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [C’mon](https://open.spotify.com/album/5geoajQzkydKB0wfCkT4Hh) | 3:50 | 2024-02-16 | 2024-02-24 |
+| [Candela \- Radio Edit](https://open.spotify.com/track/2Z6iCb0qZKgTFKgmJCwvL1) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Candela \(Radio Edit\)](https://open.spotify.com/album/4oDCt3fIRg54AvdZ6RZXbl) | 3:42 | 2025-02-06 |  |
 | [Canicatti](https://open.spotify.com/track/3W935drMjxvJnw1fTaF4BH) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Canicatti](https://open.spotify.com/album/4fyVrIE5va2VOhyv25Oe49) | 6:05 | 2024-05-02 | 2024-05-09 |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 | 2025-01-17 |
 | [Change With Me](https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Change With Me](https://open.spotify.com/album/09xbN5iMMIuelffXYAKEbS) | 6:41 | 2022-12-02 | 2023-01-21 |
@@ -131,7 +132,7 @@
 | [Desire](https://open.spotify.com/track/4RK3K3tMjzyLbszKzqyAsi) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [Desire](https://open.spotify.com/album/1lZ0i3cnudsI42aT08F6fq) | 3:19 | 2023-06-30 | 2023-12-01 |
 | [Destiny](https://open.spotify.com/track/06ZvFjzwcaqJRZbMkfWuaf) | [Meyer](https://open.spotify.com/artist/58VEQXhuWnFPbxlWh79Sr2) | [Hive Mind](https://open.spotify.com/album/1Dm9ruv1lwZJC3tgJgoMVL) | 3:31 | 2022-12-28 | 2023-01-06 |
 | [Devon \- Oliver Huntemann Remix](https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Devon \(Oliver Huntemann Remix\)](https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU) | 6:38 | 2022-11-23 | 2024-11-01 |
-| [Devotion](https://open.spotify.com/track/1mMv198D0XM0bk2NSyXZkl) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Devotion](https://open.spotify.com/album/3TRLrWOCRA0ZpxTIK2EJxw) | 4:30 | 2025-01-16 |  |
+| [Devotion](https://open.spotify.com/track/1mMv198D0XM0bk2NSyXZkl) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Devotion](https://open.spotify.com/album/3TRLrWOCRA0ZpxTIK2EJxw) | 4:30 | 2025-01-16 | 2025-02-07 |
 | [Dialogue](https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Radiant](https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI) | 7:32 | 2023-10-20 | 2025-01-17 |
 | [Dig](https://open.spotify.com/track/6vZ3YlHYhu5ylbZb18LvGT) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Indifferent](https://open.spotify.com/album/1nkXDUfwWHb8MAHaxqJbVT) | 2:38 | 2024-10-17 | 2024-11-08 |
 | [Digital Dream](https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Digital Dream](https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr) | 3:14 | 2024-02-01 | 2024-07-17 |
@@ -510,6 +511,7 @@
 | [Seen](https://open.spotify.com/track/5KHWPcUO9Qo22uGc1ty7oj) | [Rouzbeh Delavari](https://open.spotify.com/artist/4s9CNrFcTo0pkIPgqZip63), [Özgür Can](https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi) | [Seen](https://open.spotify.com/album/3v7h7jJuXXdurYFcPEgpuL) | 6:17 | 2024-09-26 | 2024-10-04 |
 | [Seraph](https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Seraph](https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M) | 4:09 | 2024-03-22 | 2025-01-17 |
 | [Serenade](https://open.spotify.com/track/3Qci4QoZJOKqT7p3CatSd6) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Serenade](https://open.spotify.com/album/6phk4oiZpo977U2FvIMu1B) | 4:17 | 2023-05-31 | 2023-09-19 |
+| [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 | 2025-02-06 |  |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 | 2023-04-23 |
 | [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 | 2023-10-17 |
 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-03-24 | 2025-01-17 |
@@ -626,7 +628,7 @@
 | [Trust The Hours](https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Trust The Hours](https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV) | 6:11 | 2022-11-23 | 2024-08-13 |
 | [Try](https://open.spotify.com/track/2k5FAxgu8aIazgH66dYqbn) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [Try](https://open.spotify.com/album/5FkG72VCBcwRxBs5hMUvra) | 5:29 | 2024-10-03 | 2025-01-10 |
 | [Try](https://open.spotify.com/track/6dYp9gwmnHvLdjwHhhiJbV) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Try / I Need You Now](https://open.spotify.com/album/4bPpSY4RfqWXcPrlLP8v1G) | 3:39 | 2022-11-23 | 2022-12-17 |
-| [TTXTC](https://open.spotify.com/track/5r3EW4LmqB5XejDA5Sfkal) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [OBSESH](https://open.spotify.com/artist/5hpljfhFCdjLWHlUurdOJo) | [TTXTC](https://open.spotify.com/album/2H6KmOLrqr1agkyyWrusXl) | 3:27 | 2024-11-28 |  |
+| [TTXTC](https://open.spotify.com/track/5r3EW4LmqB5XejDA5Sfkal) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [OBSESH](https://open.spotify.com/artist/5hpljfhFCdjLWHlUurdOJo) | [TTXTC](https://open.spotify.com/album/2H6KmOLrqr1agkyyWrusXl) | 3:27 | 2024-11-28 | 2025-02-07 |
 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 | 2023-05-05 | 2023-10-30 |
 | [Tuning The Moon](https://open.spotify.com/track/0NyLbTmWdkKmLU8mU2GlZm) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Tuning The Moon](https://open.spotify.com/album/564oWzVrDjxDIZz1FqNE4T) | 5:34 | 2023-03-03 | 2023-05-13 |
 | [Tunnel Vision](https://open.spotify.com/track/5OiHKfBSVXR2R0wf166GO5) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Tunnel Vision](https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2) | 5:30 | 2023-10-13 | 2023-10-21 |

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-686 songs - 1 day 16 hr 50 min
+687 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Another Man](https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Another Man](https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv) | 3:16 | 2024-08-30 |  |
 | [Another You](https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96) | [Drew Fish Band](https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5) | [Another You](https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI) | 4:27 | 2022-03-18 | 2022-07-29 |
 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 | 2021-12-17 | 2022-05-28 |
-| [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 | 2022-03-25 |  |
+| [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 | 2022-03-25 | 2025-02-07 |
 | [Anywhere But Here](https://open.spotify.com/track/641AMRjvcagUyc04njDJOs) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [Anywhere But Here](https://open.spotify.com/album/1PUJWUBjUtz60hCuYpydmd) | 3:26 | 2024-03-22 | 2024-08-21 |
 | [Anywhere The Wind Blows](https://open.spotify.com/track/3EkzYs8jjEjQ2He4Pb8HOY) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Anywhere The Wind Blows](https://open.spotify.com/album/3P8m3DPo4k52m57HXwEKzf) | 2:57 | 2023-03-03 | 2023-04-12 |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 | 2023-09-02 |
@@ -566,6 +566,7 @@
 | [That's What You Get](https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [That's What You Get](https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT) | 2:39 | 2024-10-04 |  |
 | [The Bar Guy](https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Bar Guy](https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc) | 3:34 | 2023-03-24 | 2023-05-14 |
 | [The Bar Guy](https://open.spotify.com/track/73PETz82LOgrKAlxtpCPu7) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:34 | 2023-05-12 | 2023-07-01 |
+| [The Barn](https://open.spotify.com/track/6BDXxo7jytTFl9xNcT2OBs) | [Colby Lee Swift](https://open.spotify.com/artist/7h0IvtBCdPbcIBkSskcM49) | [The Barn](https://open.spotify.com/album/7rG5sX9pivGGmMow6FCgwC) | 3:48 | 2025-01-31 |  |
 | [The Biggest Life Worth Living Is the Small](https://open.spotify.com/track/45MoxFBIjAlirx31fIHn5m) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [The Biggest Life Worth Living Is the Small](https://open.spotify.com/album/79bCpLfoIWQe5PMsQSEpVf) | 3:23 | 2023-03-10 | 2023-06-17 |
 | [The Difference](https://open.spotify.com/track/3uNWpnSPJzkQ1lUHeYj30d) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Everything Is Different](https://open.spotify.com/album/2EnjX1v8kTq3Nq07xyngpb) | 3:35 | 2023-05-26 | 2023-09-09 |
 | [The Girl I Was](https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY) | 3:38 | 2023-04-01 | 2024-05-18 |

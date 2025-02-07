@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 225217,
+  "num_followers": 225239,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAAD5aigyT7WpyP/Dz5bmNWMI",
+  "snapshot_id": "Z6KqAAAAAACRe23rTsMk5lhw3Z6cHD0w",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 207746,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Ayo",
-      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slave",
-        "url": "https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 138450,
-      "name": "Slave",
-      "url": "https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desce Pro Play (PA PA PA)",
         "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 166626,
       "name": "Kream (feat. Tyga)",
       "url": "https://open.spotify.com/track/5mu1uv8RmzDkF8foePK5qa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slave",
+        "url": "https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 138450,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb"
     },
     {
       "added_at": null,
@@ -963,18 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bops Goin Brazy",
-        "url": "https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO"
       },
       "artists": [
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 128367,
-      "name": "Bops Goin Brazy",
-      "url": "https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q"
+      "duration_ms": 208620,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
     },
     {
       "added_at": null,
@@ -1019,22 +1023,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO"
+        "name": "Bops Goin Brazy",
+        "url": "https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S"
       },
       "artists": [
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 208620,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
+      "duration_ms": 128367,
+      "name": "Bops Goin Brazy",
+      "url": "https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q"
     },
     {
       "added_at": null,

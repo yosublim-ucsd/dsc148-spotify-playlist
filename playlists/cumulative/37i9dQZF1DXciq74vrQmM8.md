@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> anyway, here's Bring Me The Horizon ⛓️
+> welcome to our universe ft\. BUNNY ⛓️
 
-1,058 songs - 2 day 3 hr 27 min
+1,060 songs - 2 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,6 +904,7 @@
 | [Superstar \- Myspace Version](https://open.spotify.com/track/0bktNoQ2TiHAvjmRWOX1cI) | [Hadouken!](https://open.spotify.com/artist/1369EOxSlL69yV9Yp1nVaR) | [Superstar \(Myspace Version\)](https://open.spotify.com/album/1Lwgrd9TBKMTimajpy6hYv) | 3:07 | 2023-04-20 | 2023-05-19 |
 | [SuperVillain Origin Story](https://open.spotify.com/track/4BNU2dQZoERjlDiiMNeZhZ) | [whatyoudid.](https://open.spotify.com/artist/7ruKYQV7xvAw9vFNsSrbUr) | [SuperVillain Origin Story](https://open.spotify.com/album/0UNwMMe8WP9miakqN5LSJT) | 2:53 | 2022-10-27 | 2023-08-25 |
 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 | 2023-03-10 | 2023-03-31 |
+| [Suppressed](https://open.spotify.com/track/4e3G3PEG45LHucMQnuksN3) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Suppressed](https://open.spotify.com/album/4kfNrokr8BVLsheiqlKEPQ) | 3:19 | 2025-02-07 |  |
 | [Surrender](https://open.spotify.com/track/7FPqhm4DioOegiFpJS5lzH) | [VR SEX](https://open.spotify.com/artist/0L9DzGxpz3Pn5cOk3VzkMr) | [Human Traffic Jam](https://open.spotify.com/album/15AVDnJQc2gzARopL0fOC0) | 5:38 | 2022-08-04 | 2022-09-09 |
 | [SURRENDER LESSONS](https://open.spotify.com/track/37nRqs9biFfjE22mzNFXE6) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [LIFE AND DEATH IN THE WASTELAND](https://open.spotify.com/album/1pA88oIhDCz4wDtkxyNoZp) | 4:05 | 2024-09-12 | 2024-10-04 |
 | [survival of the littest](https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:12 | 2022-05-19 | 2022-08-05 |
@@ -996,6 +997,7 @@
 | [VOICES](https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOICES](https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh) | 2:43 | 2024-08-01 | 2024-08-09 |
 | [Volatile](https://open.spotify.com/track/4lm7Ddj64sIerQ9tTFhzjT) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Volatile](https://open.spotify.com/album/6yty6eXGcIvwtBEdO8ywP0) | 3:26 | 2024-08-08 | 2024-11-08 |
 | [VULTURES.](https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [VULTURES.](https://open.spotify.com/album/6sMu1eI4V6yEeYbtSNfXuT) | 3:23 | 2024-05-16 | 2024-09-27 |
+| [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 |  |
 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 | 2021-12-27 | 2022-02-04 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 | 2022-08-05 |
 | [War Zone Urchin](https://open.spotify.com/track/5A3uPfOAuxTIXU9QFFsKqp) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 4:04 | 2022-07-19 | 2022-10-14 |

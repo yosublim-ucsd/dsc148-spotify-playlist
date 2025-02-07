@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "25 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/63koB0uShckKeIy7T1Abs4"
+      },
+      "artists": [
+        {
+          "name": "Inimigos Da HP",
+          "url": "https://open.spotify.com/artist/5IEFDMhrxPABOkcu6Vx93O"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456218,
+      "name": "Amor Perfeito / Domingo / Cohab City / Vem Pr\u00e1 C\u00e1 / Beijo Geladinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7t4wn6GMjzddeSj8kt2beO"
+    },
+    {
+      "album": {
         "name": "20 anos da Roda de Samba no Largo da Prainha - Bloco 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6njvtcFrFaD1gp7BteB0mN"
       },
@@ -982,6 +1000,32 @@
       "duration_ms": 231283,
       "name": "Dorme com Deus / Fica - Ao Vivo",
       "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
+    },
+    {
+      "album": {
+        "name": "Encontrin 3 - Vol. 5",
+        "url": "https://open.spotify.com/album/6qir6Hq8EH3TMzHajjaW6f"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Pagode do Adame",
+          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
+        },
+        {
+          "name": "Gabrielzinho",
+          "url": "https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287178,
+      "name": "E Agora? / Calma / Com Voc\u00ea T\u00f4 Completo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5yhWVxayqMlUeRg5uiJGkC"
     },
     {
       "album": {
@@ -2618,7 +2662,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 301685,
       "name": "Ponto Fraco / Dividido / Sonhos e Planos - Sou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/1LvI5DyAya6gbgMKH3Ez3M"
@@ -3470,7 +3514,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 432426,
       "name": "Sonho de Amor / Papel de Homem - Ao Vivo",
       "url": "https://open.spotify.com/track/6EGNflSYdaRIDe8pyYlG5t"
@@ -3590,6 +3634,28 @@
       "duration_ms": 309029,
       "name": "S\u00f3 Depois / Bateu Levou / Tanta Coisa Pra Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/3XlwJPCzGNTHFgeXW0wJJt"
+    },
+    {
+      "album": {
+        "name": "Cole\u00e7\u00e3o de Pagodes #1: Thais Macedo",
+        "url": "https://open.spotify.com/album/6tZlc3KvCbU2ah3xNkNXCN"
+      },
+      "artists": [
+        {
+          "name": "Vitor Limma",
+          "url": "https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1"
+        },
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236919,
+      "name": "S\u00f3 Pro Meu Prazer / E Agora - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vk8j6aE01zh4CN1lZ8qQE"
     },
     {
       "album": {
@@ -3890,6 +3956,24 @@
       "duration_ms": 368587,
       "name": "Uma Estrela / Lugares / Eu Tenho Muito Mais / To Carente, Meu Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/4cA0pGypRLk8SiEEECbwQH"
+    },
+    {
+      "album": {
+        "name": "Mixturadin 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4uBtbtKEG21NIl1I6mx4UV"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404334,
+      "name": "Vacil\u00e3o / Deixa a Vida Me Levar / Cora\u00e7\u00e3o Em Desalinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZgQiCYAUJhlHnaMOPySn6"
     },
     {
       "album": {
@@ -4218,7 +4302,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 248511,
       "name": "\u00c9 Hoje Que Eu Chego Amanh\u00e3 / Perdeu Pra Cerveja - Ao Vivo",
       "url": "https://open.spotify.com/track/4X2wfAruXzE2Jp4O1DhyPn"
@@ -4302,7 +4386,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 467363,
       "name": "\u00c9 Sempre Assim / Alimenta Meu Sonho / S\u00fabita Paix\u00e3o / Caminhos / Teu Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/2o2Gm4ViIQQBIUPTzi2Vfo"

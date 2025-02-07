@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Central Cee",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Strandz, Giggs",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2168,6 +2168,24 @@
       "duration_ms": 109411,
       "name": "ALL THE GIRLS",
       "url": "https://open.spotify.com/track/43pMdjwekH6xVSwSO9MmJT"
+    },
+    {
+      "album": {
+        "name": "All The Smoke",
+        "url": "https://open.spotify.com/album/4pZJnb7lGPh8hc7swkVfLu"
+      },
+      "artists": [
+        {
+          "name": "Asco",
+          "url": "https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169239,
+      "name": "All The Smoke",
+      "url": "https://open.spotify.com/track/4fj6oKkgpFcWZtV7yUdRKW"
     },
     {
       "album": {
@@ -10547,6 +10565,24 @@
     },
     {
       "album": {
+        "name": "Different Kettle",
+        "url": "https://open.spotify.com/album/1yXBL2lnBAw0pS6Y7TIKjw"
+      },
+      "artists": [
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103521,
+      "name": "Different Kettle",
+      "url": "https://open.spotify.com/track/1vObJY9eIVytTyyvRSETGt"
+    },
+    {
+      "album": {
         "name": "Pain Built",
         "url": "https://open.spotify.com/album/0YODA76B8STqgyJdtlmuf7"
       },
@@ -11604,7 +11640,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 192000,
       "name": "DRAMA",
       "url": "https://open.spotify.com/track/0onShXGnisu2meDKLJtzix"
@@ -18772,6 +18808,24 @@
     {
       "album": {
         "name": "Introvert",
+        "url": "https://open.spotify.com/album/21PQEuG2z3sCoxHo4SIenI"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133115,
+      "name": "Introvert",
+      "url": "https://open.spotify.com/track/7s2fwl23lZE6FpdJ5yFp9c"
+    },
+    {
+      "album": {
+        "name": "Introvert",
         "url": "https://open.spotify.com/album/6yYwBmGqzEyCjQOzIbWPRh"
       },
       "artists": [
@@ -18898,6 +18952,32 @@
       "duration_ms": 170400,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/5YT8Rsm4cjSkKlAOaGRwop"
+    },
+    {
+      "album": {
+        "name": "It's Cool",
+        "url": "https://open.spotify.com/album/07hbAkKKtuoWmqo89R5ryq"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        },
+        {
+          "name": "TeeboFG",
+          "url": "https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI"
+        },
+        {
+          "name": "F1LTHY",
+          "url": "https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129002,
+      "name": "It's Cool",
+      "url": "https://open.spotify.com/track/5BLWZtcf4jNmU2AdxSyF3y"
     },
     {
       "album": {
@@ -20564,7 +20644,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 184626,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU"
@@ -26022,7 +26102,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 139034,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK"
@@ -34644,7 +34724,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 114428,
       "name": "Stack",
       "url": "https://open.spotify.com/track/6WYzRCJehnFlUqu2R41Og2"

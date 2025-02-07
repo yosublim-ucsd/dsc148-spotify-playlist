@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Smiley & Icewear Vezzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,552 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,568 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 18 | [Go Crazy](https://open.spotify.com/track/47HFATJeP2t6PH3ixzreEf) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv) | [Go Crazy](https://open.spotify.com/album/4oViOZmwRnFiAVHzJhgSMC) | 2:58 |
 | 19 | [Too Easy](https://open.spotify.com/track/0NL9Bfuishm9oqCrzyvLCM) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Too Easy](https://open.spotify.com/album/2ppvVNqEa4we1ZD0kWM4ju) | 2:13 |
 | 20 | [GREY SKIES](https://open.spotify.com/track/0DNdegnDivB7c0PfXlzTX3) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [IN LOVING MEMORY+](https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy) | 2:38 |
-| 21 | [Attention \- Remix](https://open.spotify.com/track/2Bb80g54wxViSz3vKF0WZW) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp), [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [Juda Load It Up](https://open.spotify.com/artist/3aScsJMdAaUyWWYUrMIvoL) | [Attention \(Remix\)](https://open.spotify.com/album/2ZziHRsyXW9UInt5rMg2y5) | 2:37 |
+| 21 | [Attention \- Remix](https://open.spotify.com/track/2Bb80g54wxViSz3vKF0WZW) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp), [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [Juda Load It Up](https://open.spotify.com/artist/1hR3tOvsNWEr7jgfp8SfVz) | [Attention \(Remix\)](https://open.spotify.com/album/2ZziHRsyXW9UInt5rMg2y5) | 2:37 |
 | 22 | [SICKÄ](https://open.spotify.com/track/2oEh5hk6PuM8sdffCvEefm) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [SICKÄ](https://open.spotify.com/album/5cBNgNA2vgNNjB1wF7Ko3p) | 2:15 |
 | 23 | [Know She Mad](https://open.spotify.com/track/1xzd5VdQmTfUjGV8ckVcJ0) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Know She Mad](https://open.spotify.com/album/5ZvJmn3KyjptvfUJ0Vo9Tm) | 2:44 |
 | 24 | [Farside](https://open.spotify.com/track/6V8GLup8M2XvJObKJ21ILG) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [HOTC](https://open.spotify.com/album/6zaX8v63TRXXWVjHULSGtg) | 1:24 |

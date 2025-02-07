@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 72056,
+  "num_followers": 72066,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAAB4cx8tNE+NnEAG+FQqUuos",
+  "snapshot_id": "Z6KqAAAAAADYC1JMyB2NWLXcTfQC3ncW",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Pillsbury Dlow (feat. Ice Spice)",
-      "url": "https://open.spotify.com/track/1Kcq6QqW8Ajx70fqbdOPa7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Girl (with Rema)",
         "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Pillsbury Dlow (feat. Ice Spice)",
+      "url": "https://open.spotify.com/track/1Kcq6QqW8Ajx70fqbdOPa7"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129636,
+      "name": "How High?",
+      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
         "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 160000,
       "name": "Popa (Remix)(with Anuel AA)",
       "url": "https://open.spotify.com/track/7hCOMCcmTYqHVF7nNAXMVn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129636,
-      "name": "How High?",
-      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
-        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 116923,
-      "name": "Like",
-      "url": "https://open.spotify.com/track/7EpDZpPycD5sTmA1NjoW8D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 111780,
       "name": "Butterfly Ku",
       "url": "https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 116923,
+      "name": "Like",
+      "url": "https://open.spotify.com/track/7EpDZpPycD5sTmA1NjoW8D"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 124965,
+      "name": "On The Radar - Bonus",
+      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
         "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 162077,
       "name": "Bitch I'm Packin' (with Gunna)",
       "url": "https://open.spotify.com/track/0E098PiY4JU5XDwnIPpYKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 124965,
-      "name": "On The Radar - Bonus",
-      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be a Lady",
-        "url": "https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 81860,
-      "name": "Be a Lady",
-      "url": "https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 133714,
       "name": "Actin A Smoochie",
       "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be a Lady",
+        "url": "https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 81860,
+      "name": "Be a Lady",
+      "url": "https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI"
     },
     {
       "added_at": null,

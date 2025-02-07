@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-724 songs - 2 day 8 hr 15 min
+725 songs - 2 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2022-03-31 | 2024-02-09 |
 | [Green Forest](https://open.spotify.com/track/7ESmedpTzQIkdiTx5Acb8M) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/0N6Hbp6NMr8rzg3PrhePRg) | 4:24 | 2022-06-07 | 2022-07-29 |
 | [Green Forest](https://open.spotify.com/track/7keZ9iOh6oLPOjUmIrRSgO) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/2hka3joHLRIvJOYQxdXD5O) | 4:24 | 2022-07-28 | 2022-11-18 |
+| [Green riot](https://open.spotify.com/track/3c5vxlA25e1magSRBgYsUw) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Green riot](https://open.spotify.com/album/72WcSyxGyq0XFmMZWYSQwV) | 3:00 | 2025-01-24 |  |
 | [Green Shower](https://open.spotify.com/track/4sQGU2u4EPAiwBwxfVWonj) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Soundscape 1: Surround](https://open.spotify.com/album/1ubL48Kh0m7GmGj1MbpyOV) | 6:04 | 2022-04-07 | 2022-06-01 |
 | [H2O FRM Faucet](https://open.spotify.com/track/7xug23Y2R1XliELQ5a8jv6) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/0redlBmPu1BWruATZuidTV) | 4:39 | 2022-04-07 | 2022-06-23 |
 | [Hair Air](https://open.spotify.com/track/62x6xXMy8stPbofzR9zQMb) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 8:23 | 2022-04-07 | 2022-07-22 |
@@ -340,7 +341,7 @@
 | [LLYN PERIS](https://open.spotify.com/track/2du14pOYyz03nIK8uSjOwC) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [LLYN PERIS](https://open.spotify.com/album/0F29HjHNNsZjSjlpBRHntj) | 4:07 | 2024-10-26 | 2025-01-19 |
 | [Lo\-Pencil](https://open.spotify.com/track/6tQcOrULPM0aXoN8fzAlxU) | [.tape.](https://open.spotify.com/artist/1iuxGT5PTiH3VpgZ3Lh0Wk) | [paintings](https://open.spotify.com/album/69ONFD6PX42tebjAurVsPY) | 3:53 | 2022-03-31 | 2022-04-21 |
 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2022-03-31 | 2022-11-04 |
-| [londonderry air](https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk) | [londonderry air](https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj) | 3:01 | 2024-08-09 |  |
+| [londonderry air](https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk) | [londonderry air](https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj) | 3:01 | 2024-08-09 | 2025-02-07 |
 | [long time](https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 1:07 | 2024-02-08 |  |
 | [looped labyrinth, decayed voice](https://open.spotify.com/track/0s7xkkUwTu77Hffwnxesky) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [bitter sweet](https://open.spotify.com/album/0Of3uyJzRu8UZV8l3iN3k2) | 9:36 | 2022-04-16 | 2022-04-18 |
 | [Loran](https://open.spotify.com/track/7sn2MBviZ595Rrf2pghrPt) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:44 | 2022-03-31 | 2022-04-13 |

@@ -6245,6 +6245,24 @@
     },
     {
       "album": {
+        "name": "El Ritmo",
+        "url": "https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308400,
+      "name": "El Ritmo",
+      "url": "https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw"
+    },
+    {
+      "album": {
         "name": "Hermano Hormiga",
         "url": "https://open.spotify.com/album/6aIdPjtFKCllGsb7Y00CkN"
       },
@@ -10923,6 +10941,28 @@
     },
     {
       "album": {
+        "name": "Magia Blanca",
+        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220927,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
+    },
+    {
+      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -11324,7 +11364,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 160097,
       "name": "Me Vuelvo Cada D\u00eda M\u00e1s Loca - Spotify Singles",
       "url": "https://open.spotify.com/track/1046sFKLPH5B9HefwK09FF"
@@ -11498,7 +11538,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 201773,
       "name": "Mi enfermedad",
       "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
@@ -19535,6 +19575,24 @@
     },
     {
       "album": {
+        "name": "Y ac\u00e1 me ves",
+        "url": "https://open.spotify.com/album/4LAoho44twTsTsFpd5BdPi"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271634,
+      "name": "Y ac\u00e1 me ves",
+      "url": "https://open.spotify.com/track/1rvVF9FdTaKTVx9qyfQxAx"
+    },
+    {
+      "album": {
         "name": "Florecer Entre Vidrios Rotos",
         "url": "https://open.spotify.com/album/3A0qmDLn9zlaep8sRpVmVW"
       },
@@ -19826,7 +19884,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 191469,
       "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy? - Spotify Singles",
       "url": "https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76"

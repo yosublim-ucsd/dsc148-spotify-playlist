@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 101444,
+  "num_followers": 101468,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 249680,
-      "name": "El universo sobre m\u00ed",
-      "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Furia Latina",
         "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 249680,
+      "name": "El universo sobre m\u00ed",
+      "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Que Salga El Sol Por Donde Quiera",
-        "url": "https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya"
-      },
-      "artists": [
-        {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "B\u00fascate un hombre que te quiera",
-      "url": "https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Personas",
         "url": "https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 259720,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Que Salga El Sol Por Donde Quiera",
+        "url": "https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "B\u00fascate un hombre que te quiera",
+      "url": "https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Una Peque\u00f1a Parte Del Mundo",
         "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 241266,
       "name": "C\u00f3mo hablar",
       "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Confidencial/New Booklet",
-        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "El Peor Grupo del Mundo",
         "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 266623,
       "name": "Carreteras Infinitas",
       "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Confidencial/New Booklet",
+        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "El talism\u00e1n",
-      "url": "https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
         "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 217093,
       "name": "Como un burro amarrado en la puerta del baile",
       "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "El talism\u00e1n",
+      "url": "https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Pasi\u00f3n Condal",
-        "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
-      },
-      "artists": [
-        {
-          "name": "Los Manolos",
-          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "El Efecto Guaran\u00e1",
         "url": "https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 241960,
       "name": "En la Casa de In\u00e9s",
       "url": "https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Pasi\u00f3n Condal",
+        "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
+      },
+      "artists": [
+        {
+          "name": "Los Manolos",
+          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Isla de Palma",
-      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "En La Boca Del Volcan",
-        "url": "https://open.spotify.com/album/0xzfHtl3jhxX1sDIKx7PSO"
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
       "artists": [
         {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Acuarela",
-      "url": "https://open.spotify.com/track/4jIThvkGu7fN4FDSW6LRSk"
+      "duration_ms": 217573,
+      "name": "Isla de Palma",
+      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1139,6 +1123,22 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/5lBospeeFzg0ZeFhQP0oJs"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "En La Boca Del Volcan",
+        "url": "https://open.spotify.com/album/0xzfHtl3jhxX1sDIKx7PSO"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Acuarela",
+      "url": "https://open.spotify.com/track/4jIThvkGu7fN4FDSW6LRSk"
     },
     {
       "added_at": "2022-01-25 22:47:02",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop hits, fresh for the UK. Cover: Victor Ray",
+  "description": "Your future favourite pop hits, fresh for the UK. Cover: Bea and her Business",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 222000,
       "name": "8 Hours Behind",
       "url": "https://open.spotify.com/track/1XatdQFGS96OCUSLkVmhDH"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "9-5",
+      "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
     },
     {
       "album": {
@@ -232,7 +250,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 202336,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H"
@@ -322,10 +340,28 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 169960,
       "name": "Back To Then",
       "url": "https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm"
+    },
+    {
+      "album": {
+        "name": "Bed of Lies",
+        "url": "https://open.spotify.com/album/4AyOQC6AMF6er13nsi3Zb4"
+      },
+      "artists": [
+        {
+          "name": "Alice Chater",
+          "url": "https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199946,
+      "name": "Bed of Lies",
+      "url": "https://open.spotify.com/track/3glCRKuy0fdQGqXbUj0tdp"
     },
     {
       "album": {
@@ -365,6 +401,24 @@
     },
     {
       "album": {
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/3gdyYWWdBC7gTW0fdghVfy"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205386,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/68FZuay5wpGLYyIqcBanXa"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/467sIKfJHoAaQPQ2rkWaWp"
       },
@@ -398,6 +452,24 @@
       "duration_ms": 215500,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/38AqcVgPDXEb0PtBltxCin"
+    },
+    {
+      "album": {
+        "name": "Boy Clothes",
+        "url": "https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Boy Clothes",
+      "url": "https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr"
     },
     {
       "album": {
@@ -538,7 +610,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 129848,
       "name": "Call Me Yours",
       "url": "https://open.spotify.com/track/4gYMxKrpuByButZYbjf03d"
@@ -772,7 +844,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 152880,
       "name": "DEAR DIARY, I WANNA DIE",
       "url": "https://open.spotify.com/track/0Q6V8TeNSSSj8uQ9Bjvex9"
@@ -1445,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Hard Feelings",
+        "url": "https://open.spotify.com/album/7vHn7YAj9bxKbmGem28uqW"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200808,
+      "name": "Hard Feelings",
+      "url": "https://open.spotify.com/track/5lZab7SvOn16cokErMXRsK"
+    },
+    {
+      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz"
       },
@@ -1672,7 +1762,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 223187,
       "name": "I just don't think I'll make it over you.",
       "url": "https://open.spotify.com/track/3GrePGRplvl9v5EFZs2xzj"
@@ -1780,7 +1870,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 147500,
       "name": "If U Leave Me",
       "url": "https://open.spotify.com/track/0bHmHNgoovJqwIeEQDQHr0"
@@ -1834,10 +1924,28 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 198680,
       "name": "in for the kill",
       "url": "https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx"
+    },
+    {
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165434,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv"
     },
     {
       "album": {
@@ -2147,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/3CQnwt4FX7agNEYhfTpll7"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167945,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/2bPwkeahjE6gpcgP3n3a0p"
+    },
+    {
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C"
       },
@@ -2256,6 +2382,24 @@
       "duration_ms": 193734,
       "name": "Need U",
       "url": "https://open.spotify.com/track/2vtsEWuho6vO6iZziJEpaV"
+    },
+    {
+      "album": {
+        "name": "Neon Lights",
+        "url": "https://open.spotify.com/album/2moo8Ex6hY71oxffc8TNOS"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172026,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/4tcpuInZK70Q6itqYPNWwB"
     },
     {
       "album": {
@@ -2486,7 +2630,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 221470,
       "name": "pretty world",
       "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
@@ -2767,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Silver Spoon",
+        "url": "https://open.spotify.com/album/3ziaoXrlwiwwJXwRtoeyPJ"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254181,
+      "name": "Silver Spoon",
+      "url": "https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND"
+    },
+    {
+      "album": {
         "name": "Snug as a Bug",
         "url": "https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn"
       },
@@ -2796,7 +2958,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 193489,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/5jGUkT2SlERLGacoy85kU1"
@@ -3030,7 +3192,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 132000,
       "name": "Touching Toes",
       "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
@@ -3114,6 +3276,42 @@
       "duration_ms": 185480,
       "name": "Vice",
       "url": "https://open.spotify.com/track/4ydj9EtjIYoNyYP9LTcWJd"
+    },
+    {
+      "album": {
+        "name": "Watch That Girl (She's Gonna Say It)",
+        "url": "https://open.spotify.com/album/1HTWITwdiIexRJhwWhuDiG"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133790,
+      "name": "Watch That Girl (She\u2019s Gonna Say It)",
+      "url": "https://open.spotify.com/track/7ziZEnL58TthPTvrsWMSwG"
+    },
+    {
+      "album": {
+        "name": "We're Not The Same",
+        "url": "https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196814,
+      "name": "We're Not The Same",
+      "url": "https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw"
     },
     {
       "album": {

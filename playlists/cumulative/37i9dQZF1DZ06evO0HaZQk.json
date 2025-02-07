@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "Amor Clandestino (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7x2bjtxejjCzg64hRa5f5Y"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Israel Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI"
+        },
+        {
+          "name": "Diego del Morao",
+          "url": "https://open.spotify.com/artist/0SJeISsEAcENQ8JU6w9FPw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290401,
+      "name": "Amor Clandestino - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3QsAugA92ZAQxysKw2ebAz"
+    },
+    {
+      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },

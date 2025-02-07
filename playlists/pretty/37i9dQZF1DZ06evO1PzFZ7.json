@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152354,
+  "num_followers": 152369,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADUnH7Fs4z4iubPIg6yT0wd",
+  "snapshot_id": "Z6KqAAAAAADMc+ISGz+cI4J7VUz8AM7m",
   "tracks": [
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 168504,
-      "name": "Si una Vez",
-      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
+      "duration_ms": 176365,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 176365,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
+      "duration_ms": 168504,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Troca",
-        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
+        "name": "Desde la Azotea - Fase II",
+        "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 147235,
-      "name": "Troca",
-      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
+      "duration_ms": 242429,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
     },
     {
       "added_at": null,
@@ -887,22 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde la Azotea - Fase II",
-        "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
+        "name": "Troca",
+        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 242429,
-      "name": "Tu Sangre en Mi Cuerpo",
-      "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
+      "duration_ms": 147235,
+      "name": "Troca",
+      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-43 songs - 2 hr 26 min
+47 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2025-01-30 |  |
 | [Been Lookin' Your Way](https://open.spotify.com/track/4utOGWhjvp6mq0a9qOG26a) | [Lena Calhoun](https://open.spotify.com/artist/72vbdhPWazBI63Eg4KdKwr), [Emotions](https://open.spotify.com/artist/1JsqOGT52IQtymEJ62fT3W) | [Flip Doo Wop, Vol\. 3](https://open.spotify.com/album/0usscnTROA3Z8VJ8qI7IQx) | 3:17 | 2025-01-30 |  |
 | [Bonita](https://open.spotify.com/track/10CN6oQfftUs8d4lwRJnTQ) | [Roicc](https://open.spotify.com/artist/4hO2ffI8Z8ZbGPzYWSxZtM) | [Bonita](https://open.spotify.com/album/1DVSVtXEnDpe5ztxuOuNax) | 2:58 | 2025-01-30 |  |
+| [coloured concrete](https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 3:10 | 2025-02-06 |  |
 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 | 2025-01-30 |  |
 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 | 2025-01-30 |  |
 | [Crying All the Time](https://open.spotify.com/track/2qLXPvrlhdPsR2NpO7CKSN) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/4Fc5K4rytNveeeaXSYzeel) | 3:30 | 2025-01-30 |  |
@@ -23,12 +24,14 @@
 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2025-01-30 |  |
 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2025-01-30 |  |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2025-01-30 |  |
+| [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2025-02-06 |  |
 | [I'm Ok](https://open.spotify.com/track/678upPseS5HwQMdgYylO3n) | [The Ton\-Ups](https://open.spotify.com/artist/1N20JxNpMzLujtxxh8OQfY) | [Ton\-Ups](https://open.spotify.com/album/2EdRbMlMlRBR7q4cV3Dpl4) | 2:34 | 2025-01-30 |  |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2025-01-30 |  |
 | [Let Em' Roll](https://open.spotify.com/track/29PXH2s2rlagVtzrLYAnjS) | [Jimmy Madden](https://open.spotify.com/artist/1KZbAbdn0kHp0LwplbCnvM), [Dick Taylor](https://open.spotify.com/artist/6CwEdKtDds54qTu43Q1Wk0), [Roger Fleming](https://open.spotify.com/artist/282Slm4aP59CAjKRFVXrWq) | [The Recordings of Bob Scherman: Singles from Skylark, Tampa & Other Labels](https://open.spotify.com/album/0uObn32S4YIMuQ1nVllPQJ) | 2:10 | 2025-01-30 |  |
 | [Long Gone \(School Spirits Main Title Theme\)](https://open.spotify.com/track/1oFdXK1L7SIn30Bl8gShXj) | [Anna Waronker](https://open.spotify.com/artist/4TAV6oFZ5ARdlybbpFAFri) | [Long Gone \(School Spirits Main Title Theme\)](https://open.spotify.com/album/3QaOCisCbuYcL1H2H6Ea8B) | 0:55 | 2025-01-30 |  |
 | [Mau Mau](https://open.spotify.com/track/4NjmLZhHe1THI79g0GzNG7) | [The Wailers](https://open.spotify.com/artist/3w1N6MEbGEQNw1MJabSP6M) | [The Fabulous Wailers](https://open.spotify.com/album/2VaZzkK0LOUxRWNNiVkLVy) | 2:40 | 2025-01-30 |  |
 | [Monster](https://open.spotify.com/track/2YshaAyv46ZX5PDKOpX8IH) | [Emmett Finley](https://open.spotify.com/artist/3N4XzQRo7MSxOo9BtIBQ16) | [Emmett Finley](https://open.spotify.com/album/58jfsZz5ZkcIoaacQPrH1A) | 5:22 | 2025-01-30 |  |
+| [My Body](https://open.spotify.com/track/4ThYidN9URLbpQUvOVxkRt) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra) | 2:17 | 2025-02-06 |  |
 | [My Clothes From Last Night](https://open.spotify.com/track/1EiciOsz8auDbBTEYMN1mW) | [Seb Torgus](https://open.spotify.com/artist/39fzQ0Vv8BJ3J8bkf1VFUz) | [Male Madonna](https://open.spotify.com/album/4yKwOUQFUk9619mweEsuh4) | 1:54 | 2025-01-30 |  |
 | [Mystery](https://open.spotify.com/track/7M3txFiUnjpSbSc0axEUyW) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Mystery](https://open.spotify.com/album/0tDrSXwqrCRGI8TdeJNExN) | 5:09 | 2025-01-30 |  |
 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 | 2025-01-30 |  |
@@ -43,6 +46,7 @@
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2025-01-30 |  |
 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 | 2025-01-30 |  |
 | [Straight to Hell](https://open.spotify.com/track/6yL92Zp7pprYfHR2Pq8gFW) | [H6LLB6ND6R](https://open.spotify.com/artist/5JMD4H9Smd4ijMwEoU5VQd) | [Side A](https://open.spotify.com/album/02Xc1m60b1iQdGTVcu6u0V) | 1:22 | 2025-01-30 |  |
+| [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 | 2025-02-06 |  |
 | [Swamp](https://open.spotify.com/track/1BXA1pNfvmLsV4M8DKbLy4) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Swamp](https://open.spotify.com/album/2GxiEFC1dAxDtsLQxCRuHV) | 3:20 | 2025-01-30 |  |
 | [Talk About Him Girlie](https://open.spotify.com/track/3FS2GLlTXUfPqCu4P2P6U0) | [The Hearts](https://open.spotify.com/artist/7izVf2hlyBQizC8DufiTym) | [The Original Hearts \(From Harlem\)](https://open.spotify.com/album/0TlYLyq4OkutpGLYVtVBAn) | 2:08 | 2025-01-30 |  |
 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2025-01-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 218477,
+  "num_followers": 218534,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADjR9taRhbw9P2AtklhL4MA",
+  "snapshot_id": "Z6KqAAAAAADbM7vLNWybWdyyKLLf5v+L",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ranchero Con Dinero",
-        "url": "https://open.spotify.com/album/5tTUdhDlIv1nbKVGujEZtg"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 134208,
-      "name": "Ranchero Con Dinero",
-      "url": "https://open.spotify.com/track/53iLzcP6V12oTgzqKEuLKO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romanticas",
         "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 207804,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ranchero Con Dinero",
+        "url": "https://open.spotify.com/album/5tTUdhDlIv1nbKVGujEZtg"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 134208,
+      "name": "Ranchero Con Dinero",
+      "url": "https://open.spotify.com/track/53iLzcP6V12oTgzqKEuLKO"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180436,
-      "name": "Le Pas\u00e9 a la Plebe",
-      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180436,
+      "name": "Le Pas\u00e9 a la Plebe",
+      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El cantador (En vivo)",
-        "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 200093,
-      "name": "El cantador - En vivo",
-      "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+      "duration_ms": 148093,
+      "name": "El Ejecutor (Bonus Track)",
+      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
     }
   ],
   "unique_name": "This Is El Komander",

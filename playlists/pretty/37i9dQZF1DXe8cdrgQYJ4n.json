@@ -619,22 +619,6 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 184573,
-      "name": "Let It",
-      "url": "https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
         "name": "TOAST",
         "url": "https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 184573,
+      "name": "Let It",
+      "url": "https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/12p68ehzb26xvidlV2ypur"
       },
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Drink it, Girls!",
-      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2025-01-18 02:30:10",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+      "duration_ms": 176000,
+      "name": "Drink it, Girls!",
+      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
     },
     {
       "added_at": "2025-01-18 02:30:10",

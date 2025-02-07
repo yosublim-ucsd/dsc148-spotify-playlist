@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 149597,
+  "num_followers": 149672,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 279400,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Very Special",
-        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
-      },
-      "artists": [
-        {
-          "name": "Debra Laws",
-          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "Very Special",
-      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "The Best Of Stephanie Mills",
         "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 325173,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Very Special",
+        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
+      },
+      "artists": [
+        {
+          "name": "Debra Laws",
+          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
     },
     {
       "added_at": "2025-01-03 20:45:47",

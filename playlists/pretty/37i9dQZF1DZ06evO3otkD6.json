@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 72863,
+  "num_followers": 72891,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAAAZ4rbomDIbSsZ2Apnl9GGl",
+  "snapshot_id": "Z6KqAAAAAACSA/Ji4FbPF42X03e/9GVm",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 220253,
       "name": "\u00c1ngel - Once in Your Lifetime",
       "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Ni Freud Ni Tu Mama",
+      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Encantar\u00eda",
         "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 177328,
       "name": "Me Encantar\u00eda",
       "url": "https://open.spotify.com/track/1APLK79zZo67ny370NLO4F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Ni Freud Ni Tu Mama",
-      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 164649,
-      "name": "Ll\u00f3rame Un R\u00edo",
-      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Traguito",
         "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 184185,
       "name": "Un Traguito",
       "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 164649,
+      "name": "Ll\u00f3rame Un R\u00edo",
+      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Vivo No Rio",
-        "url": "https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Meu Menino (Minha Menina) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cheetah Girls 2",
         "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 192146,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ao Vivo No Rio",
+        "url": "https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Meu Menino (Minha Menina) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W"
     },
     {
       "added_at": null,

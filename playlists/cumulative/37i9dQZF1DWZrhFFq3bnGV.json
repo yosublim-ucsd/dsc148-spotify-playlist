@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: tjdika, Tommy Pratomo",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Rahma Savitri",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 624000,
       "name": "Against The World",
       "url": "https://open.spotify.com/track/6xdE66P9m2ybnbRqWduLVF"
@@ -358,6 +358,24 @@
       "duration_ms": 192000,
       "name": "Ah Pusing!",
       "url": "https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih"
+    },
+    {
+      "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr"
+      },
+      "artists": [
+        {
+          "name": "Rahma Savitri",
+          "url": "https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz"
     },
     {
       "album": {
@@ -754,7 +772,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 263594,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/2WQI1voN9wyAqtpDwUxoIC"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 123637,
       "name": "Cukup",
       "url": "https://open.spotify.com/track/01iNsEL4mvh7L6Dn2NbUrs"
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 254666,
       "name": "Daffy",
       "url": "https://open.spotify.com/track/3JNKp9XdviZsOadURpU88i"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 202590,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3oQq33GGhk7odIXW1j6Oe6"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 344913,
       "name": "Donuts",
       "url": "https://open.spotify.com/track/1nZm5r1XiZlIng4uMVgQvu"
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 185089,
       "name": "Jetlag",
       "url": "https://open.spotify.com/track/3hBGxI7UqcR7luoO5mvlYl"
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 160088,
       "name": "Makan Teman",
       "url": "https://open.spotify.com/track/7MHKaG1rgfunhfW1bbsw1S"
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 196363,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0RwY80gFnRo9noKMipeFXi"
@@ -3288,7 +3306,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 245589,
       "name": "Padmaskara",
       "url": "https://open.spotify.com/track/5kQpYeaQvEMyCkCv3VUQod"
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 276266,
       "name": "Piccadilly",
       "url": "https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT"
@@ -4478,7 +4496,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197701,
       "name": "Waktuku Hampa",
       "url": "https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK"

@@ -11933,6 +11933,28 @@
     },
     {
       "album": {
+        "name": "Aunque Duela",
+        "url": "https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Pajarito",
+          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
+        },
+        {
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "Noche no te vayas",
+      "url": "https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC"
+    },
+    {
+      "album": {
         "name": "Noche y D\u00eda",
         "url": "https://open.spotify.com/album/1DJsKqINHySzfZDcHeFK2j"
       },
@@ -14366,7 +14388,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 273880,
       "name": "Ruka",
       "url": "https://open.spotify.com/track/4xGH1TnAIRjplERSykBNBS"

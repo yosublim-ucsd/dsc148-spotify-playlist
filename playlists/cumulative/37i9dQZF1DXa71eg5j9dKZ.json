@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Maribou State",
+  "description": "The home for alternative electronic music. Cover: Gorgon City",
   "name": "Altar",
   "tracks": [
     {
@@ -3867,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Come Towards The Light",
+        "url": "https://open.spotify.com/album/6Yo3BxsdD3xl0eApV2BVGW"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Come Towards The Light",
+      "url": "https://open.spotify.com/track/5uTaKr26OrHNGnOq1TXfs4"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/0YYKgJkUYIzyr07rUSgaia"
       },
@@ -4308,7 +4326,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 212339,
       "name": "Dafodil",
       "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
@@ -5258,6 +5276,28 @@
       "duration_ms": 236750,
       "name": "Duofade",
       "url": "https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR"
+    },
+    {
+      "album": {
+        "name": "Dusted",
+        "url": "https://open.spotify.com/album/76AiAMrcIHWRjK8kgNVy0Z"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        },
+        {
+          "name": "Leonce",
+          "url": "https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194998,
+      "name": "Dusted",
+      "url": "https://open.spotify.com/track/7pcGzNF6WLZRvSMpBwF5Ww"
     },
     {
       "album": {
@@ -14086,7 +14126,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 200294,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd"
@@ -17762,6 +17802,24 @@
       "duration_ms": 180000,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219556,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
     },
     {
       "album": {
@@ -22148,7 +22206,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 228571,
       "name": "Yoruba Riddim",
       "url": "https://open.spotify.com/track/0TrVS90gLpKq2okJ66AEfz"

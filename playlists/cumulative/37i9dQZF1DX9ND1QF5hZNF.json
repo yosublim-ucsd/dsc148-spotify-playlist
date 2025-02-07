@@ -2739,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/6nfCYAD5QYwUgwrBUqolyb"
+      },
+      "artists": [
+        {
+          "name": "D.Polo",
+          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/2OpzoqnnXQ6EyGERxGw46Z"
+    },
+    {
+      "album": {
         "name": "Open Road (feat. Nate VanDeusen)",
         "url": "https://open.spotify.com/album/0IaYkArWMwpfHgzZcBLd19"
       },
@@ -3414,7 +3432,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 199680,
       "name": "Something Beautiful - Montmartre Remix",
       "url": "https://open.spotify.com/track/1VKqsNsQvM0oCJKzUtWD2H"

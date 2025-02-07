@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUVNUz8WZk9Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVNUz8WZk9Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUVNUz8WZk9Y)
 
-### [Doraemon The Movie\-](https://open.spotify.com/playlist/37i9dQZF1DWUVNUz8WZk9Y)
+### [Doraemon The Movie](https://open.spotify.com/playlist/37i9dQZF1DWUVNUz8WZk9Y)
 
 > Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
 

@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 170178,
       "name": "Alien Cowboy",
       "url": "https://open.spotify.com/track/56nZzIw3sUhEgXfQlAeYAh"
@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178770,
+      "name": "Big Thoughts",
+      "url": "https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7"
+    },
+    {
+      "album": {
         "name": "Blood on the Stage",
         "url": "https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp"
       },
@@ -449,6 +467,42 @@
     },
     {
       "album": {
+        "name": "Calling Out Your Name",
+        "url": "https://open.spotify.com/album/7o8G8YqFdqefHY4RT3Al3U"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Calling Out Your Name",
+      "url": "https://open.spotify.com/track/67QwptDtovlQWguTfHSeR5"
+    },
+    {
+      "album": {
+        "name": "Can We Talk When It's Over",
+        "url": "https://open.spotify.com/album/5Ywk7ua8Xc6L30URTR5qpL"
+      },
+      "artists": [
+        {
+          "name": "Lotte Gallagher",
+          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215884,
+      "name": "Can We Talk When It's Over",
+      "url": "https://open.spotify.com/track/0S4ZcooG0l16yqP944jnO1"
+    },
+    {
+      "album": {
         "name": "The Child",
         "url": "https://open.spotify.com/album/4qop49ibIGQTsNVnyH3bOL"
       },
@@ -514,7 +568,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 191200,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
@@ -836,7 +890,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 149645,
       "name": "DROWNING IN MY ROOM",
       "url": "https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0"
@@ -880,7 +934,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
@@ -902,6 +956,24 @@
       "duration_ms": 176800,
       "name": "Electric Feel - Spotify Singles",
       "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
+    },
+    {
+      "album": {
+        "name": "Electric Green Lambo",
+        "url": "https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155179,
+      "name": "Electric Green Lambo",
+      "url": "https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq"
     },
     {
       "album": {
@@ -938,6 +1010,24 @@
       "duration_ms": 212841,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6"
+    },
+    {
+      "album": {
+        "name": "Everyone Will See It",
+        "url": "https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204620,
+      "name": "Everyone Will See It",
+      "url": "https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO"
     },
     {
       "album": {
@@ -1180,7 +1270,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 232978,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
@@ -1729,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
+    },
+    {
+      "album": {
         "name": "Minivan",
         "url": "https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH"
       },
@@ -2163,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "Please Don't Move To Melbourne",
+        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291153,
+      "name": "Please Don't Move To Melbourne",
+      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
+    },
+    {
+      "album": {
         "name": "Ill Times",
         "url": "https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J"
       },
@@ -2182,6 +2308,24 @@
       "duration_ms": 190410,
       "name": "Powertrippn'",
       "url": "https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN"
+    },
+    {
+      "album": {
+        "name": "Mentalized",
+        "url": "https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277499,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/4fhp9DF01CubZ3PapDjxX1"
     },
     {
       "album": {
@@ -2374,7 +2518,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 152067,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4FYqsrv2Uqa6mjuwCcqrWy"
@@ -2720,7 +2864,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 208894,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/3I6BZFdnhkpSlGDvTGLg6N"
@@ -3100,7 +3244,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 293718,
       "name": "Wish I Had a Friend",
       "url": "https://open.spotify.com/track/7ruMeQQkscgQGCtDG5XNIL"

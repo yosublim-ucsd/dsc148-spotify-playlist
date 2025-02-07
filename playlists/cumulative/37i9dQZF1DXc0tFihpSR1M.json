@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 187979,
       "name": "100 Years",
       "url": "https://open.spotify.com/track/2LdEG2fQwyFe3znpFZBxNf"
@@ -96,6 +96,24 @@
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "album": {
@@ -562,7 +580,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 211956,
       "name": "DeLorean",
       "url": "https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI"
@@ -2245,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Noe mere",
+        "url": "https://open.spotify.com/album/220NnZ6lJVzdgmY9YPr86n"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137460,
+      "name": "Noe mere",
+      "url": "https://open.spotify.com/track/4kShoXoqe2QniNPnLNHyT4"
+    },
+    {
+      "album": {
         "name": "Now and Then",
         "url": "https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up"
       },
@@ -3286,7 +3322,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 177571,
       "name": "Tur i oturen",
       "url": "https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K"

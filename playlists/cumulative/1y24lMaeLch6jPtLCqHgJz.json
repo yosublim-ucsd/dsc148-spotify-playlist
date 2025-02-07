@@ -2979,6 +2979,32 @@
     },
     {
       "album": {
+        "name": "Fire In The Sky",
+        "url": "https://open.spotify.com/album/0ndEENW3rwiqWgagqIsDd0"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clash",
+          "url": "https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "Kill The Buzz",
+          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153501,
+      "name": "Fire In The Sky",
+      "url": "https://open.spotify.com/track/1qTbKDhFTM4am7zAXk2jsp"
+    },
+    {
+      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/7GJsQ9W5MqX0as7C8xgs4G"
       },

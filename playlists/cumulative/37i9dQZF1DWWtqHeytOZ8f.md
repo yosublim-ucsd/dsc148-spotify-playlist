@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-644 songs - 2 day 10 hr 5 min
+645 songs - 2 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Escalation : Part I](https://open.spotify.com/track/6UFcyZyiznyK5opjpJXG7n) | [L8ER](https://open.spotify.com/artist/0UQ7wrLnus9Ypwyt9174zS) | [Escalation : Part I](https://open.spotify.com/album/6MzbeU9ItSlG4BZbyF4ltD) | 3:19 | 2021-10-20 | 2022-05-20 |
 | [Escape Pod](https://open.spotify.com/track/2u5SDqMeGdaij0DT5nGrz5) | [тпсб](https://open.spotify.com/artist/3Az7iIfwbhNRg8nB6cep4k) | [Laika's Revenge](https://open.spotify.com/album/5C1ZuUWPiIohp86npG2tMD) | 9:11 | 2021-10-20 | 2024-08-02 |
 | [Escape Wheel](https://open.spotify.com/track/6WwHK93jWaQ2dPRTwfvw9F) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here? \(Expanded Remaster\)](https://open.spotify.com/album/5rUs6wwi3ARImuk1iPXM4M) | 6:42 | 2023-08-29 | 2024-09-01 |
-| [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 | 2022-02-16 |  |
+| [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 | 2022-02-16 | 2025-02-07 |
 | [EveryWhen \- Bonus Track](https://open.spotify.com/track/0H8AcdcDVy6ZvuiOliNTD7) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [EveryWhen \(Bonus Track\)](https://open.spotify.com/album/1l2Zp9sLR4Y2aLrzBhhv43) | 4:37 | 2021-10-20 | 2022-07-29 |
 | [EveryWhen \- Bonus Track](https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Longest Year \(2020\)](https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC) | 4:37 | 2021-10-20 | 2024-04-19 |
 | [Existing Closer or Deeper in Space](https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [Grass and Trees](https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7) | 3:51 | 2021-10-20 |  |
@@ -292,6 +292,7 @@
 | [Into the Aether](https://open.spotify.com/track/7bVhowWWEHsCfl3dNa6cCk) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf) | 4:55 | 2022-01-14 | 2023-06-08 |
 | [Into The Blue](https://open.spotify.com/track/0elaptshYdyFIVQEuKnhSe) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/2pA1qgtYKBjH83o5z4ZELD) | 5:39 | 2022-01-07 | 2022-07-29 |
 | [Into The Blue](https://open.spotify.com/track/2Ou5fxpYTS1t0mNCDVzsKx) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ) | 5:39 | 2022-01-07 | 2023-05-05 |
+| [Into The Glare](https://open.spotify.com/track/2IylguIokLMTagCSWe0Ym6) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Into The Glare](https://open.spotify.com/album/74MdV8jqEjlPbVqhcSepdG) | 2:21 | 2025-02-06 |  |
 | [Islands](https://open.spotify.com/track/2mYDLShG42sxWjgvs8VBXS) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 3](https://open.spotify.com/album/6XFN9uEpCDmHwoRpYVzzTZ) | 7:36 | 2023-10-23 |  |
 | [IVY CHARCOAL](https://open.spotify.com/track/5cx2CdLDP2wQBDEZGWwKge) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Phantom Brickworks](https://open.spotify.com/album/3S4zFHeNv6oNLN8H9HXy2w) | 2:03 | 2021-10-20 | 2023-02-02 |
 | [IVY CHARCOAL](https://open.spotify.com/track/6h3JUAMgbshgVpYez5eyY5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS](https://open.spotify.com/album/7gfiKccZVCv9gp1KFfMDlb) | 2:03 | 2021-10-20 | 2024-04-19 |

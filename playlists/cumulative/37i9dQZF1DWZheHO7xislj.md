@@ -4,7 +4,7 @@
 
 > Perfect music for perfect food.
 
-482 songs - 1 day 7 hr 5 min
+483 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Ooo Baby Baby](https://open.spotify.com/track/7q3jpZxhLMt5YQO54zzPbB) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Stan Taylor](https://open.spotify.com/artist/0FLx5Ts7ydf1NuSsy334eU) | [Sunday's Best](https://open.spotify.com/album/1fve3JXTenvbGiZEodDqgK) | 2:46 | 2023-06-27 |  |
 | [Our Day Will Come](https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:49 | 2023-06-27 |  |
 | [Overdose of Joy](https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM) | [Eugene Record](https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM) | [The Eugene Record](https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B) | 4:17 | 2023-01-09 |  |
+| [Painted On Canvas](https://open.spotify.com/track/7J2xdeaM7LGUQmxNWlG20Z) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Be Good](https://open.spotify.com/album/2NHJtAvHTWxsiedQBlXlEH) | 4:45 | 2024-12-18 |  |
 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown 50](https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh) | 6:51 | 2024-04-16 |  |
 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 | 2023-01-09 | 2024-04-19 |
 | [Part Time Love](https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Part Time Love](https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf) | 2:54 | 2023-01-09 | 2024-04-19 |
@@ -332,7 +333,7 @@
 | [Please Love Me](https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me](https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx) | 2:57 | 2023-06-27 | 2024-04-19 |
 | [Pledging My Love](https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT) | [Johnny Ace](https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah), [Johnny Otis & His Orchestra](https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1) | [Memorial Album](https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ) | 2:28 | 2023-01-09 | 2023-06-28 |
 | [Popsicle Toes](https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [The Best Of Michael Franks: A Backward Glance](https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg) | 4:35 | 2023-08-15 | 2024-09-10 |
-| [Private Number](https://open.spotify.com/track/5sRQuVIMph2iQrg3wiw4Xj) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR), [Judy Clay](https://open.spotify.com/artist/6Bez6xFXAhRw4XTYVhUekp) | [Private Numbers](https://open.spotify.com/album/1MiQb40PHuAehsDph3oQfX) | 2:38 | 2024-07-08 |  |
+| [Private Number](https://open.spotify.com/track/5sRQuVIMph2iQrg3wiw4Xj) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR), [Judy Clay](https://open.spotify.com/artist/6Bez6xFXAhRw4XTYVhUekp) | [Private Numbers](https://open.spotify.com/album/1MiQb40PHuAehsDph3oQfX) | 2:38 | 2024-07-08 | 2025-02-07 |
 | [Private Number](https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR), [Judy Clay](https://open.spotify.com/artist/6Bez6xFXAhRw4XTYVhUekp) | [The Best Of William Bell](https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb) | 2:40 | 2023-06-27 | 2024-04-19 |
 | [Pure Love \(Single Version\)](https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [70s Classic Love Songs](https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg) | 2:35 | 2023-01-09 | 2023-06-28 |
 | [Rainy Night in Georgia](https://open.spotify.com/track/1o2qoDCK0vaEL1udkuMc8a) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Atlantic 60th: Rainy Day Refrain](https://open.spotify.com/album/5T7kRP6K0WBIe5DM4bW6i0) | 3:48 | 2023-01-09 | 2023-06-28 |

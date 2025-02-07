@@ -13459,6 +13459,28 @@
     },
     {
       "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/1h8mAy8Ijb7LCp9Qc6UUhO"
+      },
+      "artists": [
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        },
+        {
+          "name": "Natasha Ghosh",
+          "url": "https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/735qS1B80P22Z8f6SkZrbA"
+    },
+    {
+      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/1kAQMLfTYcIJbbuq2MMMc7"
       },

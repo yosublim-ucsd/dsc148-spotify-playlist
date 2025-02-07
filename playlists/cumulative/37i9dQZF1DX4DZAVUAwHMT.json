@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Bring Me The Horizon",
+  "description": "The UK's biggest rock playlist. Cover: Chloe Slater",
   "name": "The Rock List",
   "tracks": [
     {
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 191342,
       "name": "But I'll Keep Trying",
       "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
@@ -5568,7 +5568,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 265165,
       "name": "Guided Tour",
       "url": "https://open.spotify.com/track/5libQaNWi39sL1255ivVwK"
@@ -10398,7 +10398,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 205632,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
@@ -12629,6 +12629,28 @@
     },
     {
       "album": {
+        "name": "Raw Muscular Power",
+        "url": "https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM"
+      },
+      "artists": [
+        {
+          "name": "Death By Unga Bunga",
+          "url": "https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K"
+        },
+        {
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134496,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm"
+    },
+    {
+      "album": {
         "name": "Stay Blessed",
         "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
       },
@@ -12890,6 +12912,24 @@
       "duration_ms": 183246,
       "name": "Suck The Cherry",
       "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
+    },
+    {
+      "album": {
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
     },
     {
       "album": {
@@ -13586,6 +13626,24 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "album": {
+        "name": "The Night Before",
+        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154612,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
     },
     {
       "album": {
@@ -14587,6 +14645,24 @@
     },
     {
       "album": {
+        "name": "W.T.F",
+        "url": "https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207797,
+      "name": "W.T.F",
+      "url": "https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp"
+    },
+    {
+      "album": {
         "name": "Waiting On A Twist Of Fate",
         "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
       },
@@ -14660,7 +14736,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 298846,
       "name": "Wants Needs",
       "url": "https://open.spotify.com/track/6OqZgmzppG0NVx3nPwpH6W"

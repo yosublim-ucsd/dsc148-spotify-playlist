@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Rise Against",
+  "description": "The best in new rock. Cover: Amira Elfeky ",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 162805,
       "name": "ALL IN MY HEAD",
       "url": "https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 335998,
       "name": "Blutac",
       "url": "https://open.spotify.com/track/4PGMQGjWQFosqijOML0pV5"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197564,
       "name": "dancing with ayesha",
       "url": "https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8"
@@ -910,6 +910,24 @@
       "duration_ms": 95117,
       "name": "Dead, Rich or In Jail",
       "url": "https://open.spotify.com/track/7CGIuV8NJYU4XxwzcBIPeV"
+    },
+    {
+      "album": {
+        "name": "Death of Me",
+        "url": "https://open.spotify.com/album/7gZGPYadE5tXOLSI2U3puO"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191614,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI"
     },
     {
       "album": {
@@ -1155,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Dead Anthems",
+        "url": "https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225199,
+      "name": "Eye for an Eye",
+      "url": "https://open.spotify.com/track/5APpHt4Oa0bkfxPTBly78C"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },
@@ -1354,7 +1390,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 265165,
       "name": "Guided Tour",
       "url": "https://open.spotify.com/track/5libQaNWi39sL1255ivVwK"
@@ -1610,6 +1646,28 @@
       "duration_ms": 245609,
       "name": "Houndstooth Dress",
       "url": "https://open.spotify.com/track/2QoPtfqbeBzJIpqSJv3QvQ"
+    },
+    {
+      "album": {
+        "name": "hug me",
+        "url": "https://open.spotify.com/album/2QmLw1jFMCxTFrF2ATEFvu"
+      },
+      "artists": [
+        {
+          "name": "snake eyes",
+          "url": "https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91"
+        },
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120558,
+      "name": "hug me",
+      "url": "https://open.spotify.com/track/7byP16wLmQCTGG49FgQyb1"
     },
     {
       "album": {
@@ -2454,7 +2512,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 148946,
       "name": "NO",
       "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
@@ -2696,7 +2754,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 203640,
       "name": "Ok, But This Is The Last Time",
       "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
@@ -2736,6 +2794,24 @@
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+    },
+    {
+      "album": {
+        "name": "One Way Ticket",
+        "url": "https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY"
+      },
+      "artists": [
+        {
+          "name": "Tyne-James Organ",
+          "url": "https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207609,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U"
     },
     {
       "album": {
@@ -3035,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Problem",
+        "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238481,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
+    },
+    {
+      "album": {
         "name": "Rain Can't Reach Us",
         "url": "https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS"
       },
@@ -3188,7 +3282,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 238266,
       "name": "Second Skin",
       "url": "https://open.spotify.com/track/0drCxrX0iPwiT7rOVYbM2H"
@@ -3537,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+    },
+    {
+      "album": {
         "name": "Back To The Water Below (Bonus Edition)",
         "url": "https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N"
       },
@@ -3772,6 +3884,24 @@
       "duration_ms": 206706,
       "name": "The Howl",
       "url": "https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6"
+    },
+    {
+      "album": {
+        "name": "The Night Before",
+        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154612,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
     },
     {
       "album": {

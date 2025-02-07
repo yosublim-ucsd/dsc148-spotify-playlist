@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Milo j & TINI
 
-421 songs - 20 hr 57 min
+422 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 | 2024-09-19 | 2024-09-28 |
 | [ME OYES](https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:58 | 2023-05-12 | 2023-08-01 |
 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 | 2023-09-01 |  |
+| [MEJOR QUE VOS](https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [MEJOR QUE VOS](https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2) | 2:46 | 2025-02-07 |  |
 | [MELONI](https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MELONI](https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO) | 2:58 | 2023-05-12 | 2023-06-23 |
 | [MENINA \- MURA MASA REMIX \(feat\. Mura Masa\)](https://open.spotify.com/track/46xcXrJUZFMYbxnCeKTt0D) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [CLUB GRASA](https://open.spotify.com/album/72bmHBiYWuPDOZ1GphH2IR) | 3:00 | 2024-09-13 | 2024-10-19 |
 | [MENTE EN BLANCO](https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [MENTE EN BLANCO](https://open.spotify.com/album/0ikLej2WXj8Ttgl5Bc0xeb) | 2:34 | 2024-07-19 |  |

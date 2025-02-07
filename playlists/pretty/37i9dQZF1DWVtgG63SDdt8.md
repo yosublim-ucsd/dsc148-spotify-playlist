@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,375 likes - 98 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,395 likes - 98 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 12 | [Said & Done](https://open.spotify.com/track/3rftkfE7FlGjsJkrexzLTu) | [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Said & Done](https://open.spotify.com/album/72OxEannUP1Tw88FizcNc8) | 2:26 |
 | 13 | [Five Fingers, Four Corners](https://open.spotify.com/track/1BYD4Yq7aZQbHlrqDhqzn6) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Five Fingers, Four Corners](https://open.spotify.com/album/3EzUBzgpIoTfVWdM5VK2Wx) | 4:27 |
 | 14 | [jesus, jesus](https://open.spotify.com/track/0HBfyxUjBI7QZ02A6b4JQa) | [Skema Boy](https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1), [KJ TWIN](https://open.spotify.com/artist/3tAxvSAsf2WJqIL88mpHKB) | [jesus, jesus](https://open.spotify.com/album/4l4w4XBmzIBIm1IFgPQrg5) | 2:19 |
-| 15 | [Suddenly](https://open.spotify.com/track/6o7RB9NE9Mj53MUesKMSrn) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE), [Cooper Hill](https://open.spotify.com/artist/5gJx1uuP4fZ6dxIBQZ2MHB) | [Suddenly](https://open.spotify.com/album/53FjFwxrreulB81b2QWxlo) | 2:26 |
+| 15 | [Suddenly](https://open.spotify.com/track/6o7RB9NE9Mj53MUesKMSrn) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [Suddenly](https://open.spotify.com/album/53FjFwxrreulB81b2QWxlo) | 2:26 |
 | 16 | [there in me](https://open.spotify.com/track/5y8eGfapOonwWGIBPRJYVi) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [there in me](https://open.spotify.com/album/7u07qH79XZvsUO0sCrrYNB) | 2:51 |
 | 17 | [take the reins](https://open.spotify.com/track/2szuqnteaYamAD0QKedrNf) | [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL), [KamiKwazi](https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw), [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [new day](https://open.spotify.com/album/6PzGGgvyYNm2MJ1noYRjZu) | 2:26 |
 | 18 | [ETERNAL](https://open.spotify.com/track/6xp4ngYJbUKuCbabDlIjmn) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [ETERNAL](https://open.spotify.com/album/1eesb5NUO2h6RCLNKepuPD) | 3:18 |

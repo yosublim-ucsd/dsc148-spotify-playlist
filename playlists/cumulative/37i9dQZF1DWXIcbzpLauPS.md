@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: Great American Ghost
 
-1,124 songs - 2 day 21 hr 15 min
+1,125 songs - 2 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,7 +728,7 @@
 | [One More Sin](https://open.spotify.com/track/5gI2ZihOtkp62j8ulSeV67) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [One More Sin](https://open.spotify.com/album/2v91VYkGUUK5cMB4Gob8bI) | 3:21 | 2024-11-22 | 2024-12-19 |
 | [Oni](https://open.spotify.com/track/0duwzHmpcdFDDfmc7bCb0Q) | [Memorist](https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn) | [ONI//KIJO](https://open.spotify.com/album/6eSG2kq7uj7JS8QP39EckW) | 3:52 | 2021-12-17 | 2022-02-18 |
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE) | 3:02 | 2022-04-01 | 2022-07-23 |
-| [Opaline](https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Devoured by the Mouth of Hell](https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l) | 3:21 | 2024-10-18 |  |
+| [Opaline](https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Devoured by the Mouth of Hell](https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l) | 3:21 | 2024-10-18 | 2025-02-07 |
 | [Options](https://open.spotify.com/track/3gLRXqPiOus7T8eD3t9iDH) | [The Dead Rabbitts](https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6), [Chloe Ozwell](https://open.spotify.com/artist/07gFHRrAEMmxG528gTVvFO) | [Rumination](https://open.spotify.com/album/60HZVkVipEXJKr3Nbk2MSi) | 3:12 | 2022-04-01 | 2022-06-18 |
 | [Orphan \(lᴉʌǝp ǝɥʇ\)](https://open.spotify.com/track/3TEiRBBPMNu4DKgFfddMb6) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N) | [Orphan \(lᴉʌǝp ǝɥʇ\)](https://open.spotify.com/album/4vCksLpzk75HznbAd2QRBa) | 3:41 | 2024-06-10 | 2024-08-13 |
 | [Orpheus](https://open.spotify.com/track/7nppQ4aN5Df8FNzEt8SNmi) | [Traveller](https://open.spotify.com/artist/5pbEeNUv64bfDBO2BNUX9n) | [Broken Home](https://open.spotify.com/album/1LQV8P10ty18bbxMvSFSDI) | 3:40 | 2024-11-22 | 2024-12-19 |
@@ -1065,6 +1065,7 @@
 | [Vertigo](https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Vertigo](https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV) | 3:39 | 2024-01-22 | 2024-08-26 |
 | [Vertigo](https://open.spotify.com/track/4sEzO3UhMRg2DTYsC05BU8) | [Valiant Hearts](https://open.spotify.com/artist/23JfHao7GdCfsGkXw4jJl8), [Marvin Bruckwilder](https://open.spotify.com/artist/7lv6PfjpMO4LNBP4fG8dOK) | [Vertigo](https://open.spotify.com/album/0mqOucOjNP3rOcDuzzchTT) | 5:28 | 2022-01-07 | 2022-04-09 |
 | [Vestige](https://open.spotify.com/track/4aNtdkbAxm7E1gJiqA95r9) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Vestige](https://open.spotify.com/album/0YsWVz8MPLPmDHNKtjVxDS) | 3:52 | 2024-12-18 |  |
+| [Victim](https://open.spotify.com/track/2MmJg1AUWL9hFrpIEYfl8T) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Victim](https://open.spotify.com/album/2fS2HfXoGQKLuY22KOFr9p) | 4:21 | 2025-01-31 |  |
 | [Vile Genesis](https://open.spotify.com/track/3LuCXxrytnHzIldoHQXbgt) | [Inferi](https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A) | [Vile Genesis](https://open.spotify.com/album/4sBrQDIdbC4nUN5xxJPV9W) | 5:44 | 2022-07-13 | 2022-07-21 |
 | [Villain Arc](https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Villain Arc](https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8) | 3:39 | 2024-06-04 |  |
 | [VIOLENT JOY](https://open.spotify.com/track/4WsMqcjOJFnRggNYBUINQl) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [Violent Joy](https://open.spotify.com/album/55Kv93b3BrRFBzwADP6Xo7) | 3:01 | 2023-07-14 | 2024-06-05 |

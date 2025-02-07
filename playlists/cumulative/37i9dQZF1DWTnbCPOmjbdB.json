@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Oskar Cyms",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Marissa",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 161885,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/5YJy4FNzokXFaiq6QoBuka"
@@ -908,6 +908,28 @@
       "duration_ms": 159428,
       "name": "Co noc",
       "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
+    },
+    {
+      "album": {
+        "name": "Cynamonka",
+        "url": "https://open.spotify.com/album/4y9lKKeZacKyEM6tgXgAQ8"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        },
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Cynamonka",
+      "url": "https://open.spotify.com/track/2VG0jlPDbLEUsP9Xb7FNL6"
     },
     {
       "album": {
@@ -1568,7 +1590,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 220945,
       "name": "Elegia o\u2026 [ch\u0142opcu polskim] (K. K. Baczy\u0144ski)",
       "url": "https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j"
@@ -1742,10 +1764,28 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 146896,
       "name": "GAJA",
       "url": "https://open.spotify.com/track/6ByYFelThczY8YSbUpA4gV"
+    },
+    {
+      "album": {
+        "name": "GAJA (Eurovision Edit)",
+        "url": "https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N"
+      },
+      "artists": [
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180553,
+      "name": "GAJA - Eurovision Edit",
+      "url": "https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac"
     },
     {
       "album": {
@@ -1775,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Gorset",
+        "url": "https://open.spotify.com/album/2C6jNdGg4KZG0AdBJEKFuv"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Gorset",
+      "url": "https://open.spotify.com/track/5KkcaqjflHxH2MenhXxhXQ"
+    },
+    {
+      "album": {
         "name": "GOTIK LOLITA",
         "url": "https://open.spotify.com/album/6C1ICbqY31hSwmGuug4Uou"
       },
@@ -1790,6 +1848,42 @@
       "duration_ms": 183880,
       "name": "GOTIK LOLITA",
       "url": "https://open.spotify.com/track/0Xxgk9nnMhIFu5zwm6XPRW"
+    },
+    {
+      "album": {
+        "name": "No Rest",
+        "url": "https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167890,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S"
+    },
+    {
+      "album": {
+        "name": "G\u0142upi Lovesong",
+        "url": "https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM"
+      },
+      "artists": [
+        {
+          "name": "Julya",
+          "url": "https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "G\u0142upi Lovesong",
+      "url": "https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx"
     },
     {
       "album": {
@@ -2044,7 +2138,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 179991,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/2Uygcza4yZ8brl3P7Gmrd8"
@@ -2062,7 +2156,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 166270,
       "name": "In cosmic mist - Eurovision Version",
       "url": "https://open.spotify.com/track/3cqCdtuzUkZItQEiat5t4k"
@@ -2444,7 +2538,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 177013,
       "name": "Kr\u00f3lowa",
       "url": "https://open.spotify.com/track/4ZFBUfBJcY2i3Aeknc5cwK"
@@ -2688,7 +2782,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 165900,
       "name": "Let it burn",
       "url": "https://open.spotify.com/track/4hzaKHbkdIUCjfV0IOi8UA"
@@ -2760,7 +2854,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 192260,
       "name": "Lumpeksowe Serce",
       "url": "https://open.spotify.com/track/2XmLz8uhL2OWyxxd1e7LFm"
@@ -2789,6 +2883,28 @@
     },
     {
       "album": {
+        "name": "Maj 1939 (Z. Ginczanka)",
+        "url": "https://open.spotify.com/album/69lSgcOsIvRb27DwIULYEu"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196764,
+      "name": "Maj 1939 (Z. Ginczanka)",
+      "url": "https://open.spotify.com/track/3yprz1Nu7lBzOksp7bivNr"
+    },
+    {
+      "album": {
         "name": "Mamy farta",
         "url": "https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS"
       },
@@ -2804,7 +2920,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 189266,
       "name": "Mamy farta",
       "url": "https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa"
@@ -3034,7 +3150,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 170630,
       "name": "Miracle - Eurovision Version",
       "url": "https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z"
@@ -3186,7 +3302,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 188076,
       "name": "Moje miejsce",
       "url": "https://open.spotify.com/track/7KZQWqYf18O2hZrMQJGvgy"
@@ -3370,7 +3486,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 175280,
       "name": "NA ZAWSZE",
       "url": "https://open.spotify.com/track/6CrpiFbI4s1kINkvYpYgCh"
@@ -3616,6 +3732,28 @@
       "duration_ms": 201867,
       "name": "Nie ma szans",
       "url": "https://open.spotify.com/track/1kbeIj2yJYWFYD7iDEc58l"
+    },
+    {
+      "album": {
+        "name": "nie mam dla ciebie nic",
+        "url": "https://open.spotify.com/album/2SOM72XykpsANO0wWmOoU0"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        },
+        {
+          "name": "Piotr Rogucki",
+          "url": "https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "nie mam dla ciebie nic",
+      "url": "https://open.spotify.com/track/0CrP2iqI8dOZG75eLtr2LX"
     },
     {
       "album": {
@@ -4284,7 +4422,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 138260,
       "name": "Pe\u0142en Bak",
       "url": "https://open.spotify.com/track/2v9TRUcnhmH7jG51x2jtrj"
@@ -4556,7 +4694,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 165517,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt"
@@ -4778,7 +4916,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 157968,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/27eJDHiJEaRfSaflTvWpSi"
@@ -5036,7 +5174,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 115326,
       "name": "Stokrotka",
       "url": "https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax"
@@ -5148,7 +5286,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 157611,
       "name": "Szklana pu\u0142apka",
       "url": "https://open.spotify.com/track/1TIlqOiPrtEHqQyclmy2Q5"
@@ -5482,7 +5620,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 157207,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/60uIMI2rzQ6soYAiVNTWSR"
@@ -5948,6 +6086,24 @@
       "duration_ms": 268420,
       "name": "Wielka woda",
       "url": "https://open.spotify.com/track/1FPnHkCZaHLMSqc9tPXyud"
+    },
+    {
+      "album": {
+        "name": "Wiosna EP",
+        "url": "https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l"
+      },
+      "artists": [
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Wiosna",
+      "url": "https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR"
     },
     {
       "album": {

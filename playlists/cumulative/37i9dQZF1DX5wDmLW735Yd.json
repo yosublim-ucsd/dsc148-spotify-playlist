@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Skepsis, Doktor",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: [IVY]",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 199119,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/3jMf8kj5lld0CfWlzV8I4x"
@@ -4142,6 +4142,24 @@
       "duration_ms": 194482,
       "name": "Do It To It - Sub Focus Remix",
       "url": "https://open.spotify.com/track/4z78eVQBoMHg1e4XGp4rMj"
+    },
+    {
+      "album": {
+        "name": "Do U Want Me",
+        "url": "https://open.spotify.com/album/4U64nWay7C13Q1r3ExBerN"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222271,
+      "name": "Do U Want Me",
+      "url": "https://open.spotify.com/track/5sLWJEaa8YcpyOTTiNC8xf"
     },
     {
       "album": {
@@ -6131,6 +6149,32 @@
     },
     {
       "album": {
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/5vohPauW4FHvwTNkEAEm2X"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/2xRj5qPUuQJZG9xYkVdfrb"
+    },
+    {
+      "album": {
         "name": "Gideon\u2019s Charge (feat. KINGH)",
         "url": "https://open.spotify.com/album/1LV4kdReSJjYz4GrPJ6B4s"
       },
@@ -6550,7 +6594,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
@@ -12675,6 +12719,28 @@
     },
     {
       "album": {
+        "name": "ReBirth",
+        "url": "https://open.spotify.com/album/2MvjqVF0AA2vgoFy5BWtSU"
+      },
+      "artists": [
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191465,
+      "name": "ReBirth",
+      "url": "https://open.spotify.com/track/00hnBmq8Wj0Pv1c8UD4PtI"
+    },
+    {
+      "album": {
         "name": "InHer World",
         "url": "https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc"
       },
@@ -16110,6 +16176,24 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "album": {
+        "name": "To The Limit",
+        "url": "https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161206,
+      "name": "To The Limit",
+      "url": "https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI"
     },
     {
       "album": {

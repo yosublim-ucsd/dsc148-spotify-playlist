@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Nevertel",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Shoreline",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 227064,
       "name": "20/20 Vision",
       "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 160982,
       "name": "Can you make yourself believe?",
       "url": "https://open.spotify.com/track/2SwfEPQWPTxqOzTXVltmko"
@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Claws",
+        "url": "https://open.spotify.com/album/2KvlgphTuaIzqix2olKL3T"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Claws",
+      "url": "https://open.spotify.com/track/5axlcOCLztWsn3ecHGRvWT"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK"
       },
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 206722,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/2hrwryRRhar9qf9QslQFpz"
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195320,
       "name": "Don't Let Me Bring You Down",
       "url": "https://open.spotify.com/track/4k92mQm38pUHtfrFEkmZeI"
@@ -2267,6 +2285,32 @@
     },
     {
       "album": {
+        "name": "Forgive (feat. Joe Taylor)",
+        "url": "https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        },
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        },
+        {
+          "name": "Joe Taylor",
+          "url": "https://open.spotify.com/artist/6CkD3DpO2MXNoTciSNL5Cj"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193912,
+      "name": "Forgive (feat. Joe Taylor)",
+      "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
+    },
+    {
+      "album": {
         "name": "Fractured",
         "url": "https://open.spotify.com/album/6mHHYaYqTlGamBa4xrGxOH"
       },
@@ -2340,6 +2384,24 @@
       "duration_ms": 183826,
       "name": "Friends In Low Places",
       "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
+    },
+    {
+      "album": {
+        "name": "FRONTROW",
+        "url": "https://open.spotify.com/album/4sRpNarWu6ekrbq3caCbXF"
+      },
+      "artists": [
+        {
+          "name": "Blackout Problems",
+          "url": "https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "FRONTROW",
+      "url": "https://open.spotify.com/track/4LnuYEIU1fGiDmkWlhmI1q"
     },
     {
       "album": {
@@ -2941,6 +3003,28 @@
     },
     {
       "album": {
+        "name": "hug me",
+        "url": "https://open.spotify.com/album/2QmLw1jFMCxTFrF2ATEFvu"
+      },
+      "artists": [
+        {
+          "name": "snake eyes",
+          "url": "https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91"
+        },
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120558,
+      "name": "hug me",
+      "url": "https://open.spotify.com/track/7byP16wLmQCTGG49FgQyb1"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR"
       },
@@ -3198,7 +3282,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 173437,
       "name": "Immortals",
       "url": "https://open.spotify.com/track/4d3a5WyZhMsqojMU0MHJ3k"
@@ -4970,7 +5054,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 205495,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/3P3E5PHisRJ4omRhF0pbDH"
@@ -5064,6 +5148,24 @@
       "duration_ms": 223694,
       "name": "Rock N Roller",
       "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
+    },
+    {
+      "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212163,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
     {
       "album": {
@@ -5577,6 +5679,24 @@
     },
     {
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209835,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
+    },
+    {
+      "album": {
         "name": "Stay In Your Grave (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9"
       },
@@ -5773,6 +5893,24 @@
     },
     {
       "album": {
+        "name": "Dirty & Divine",
+        "url": "https://open.spotify.com/album/0ud2bmJAS87JO2eYEqkMNr"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178373,
+      "name": "Take the Power",
+      "url": "https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier"
+    },
+    {
+      "album": {
         "name": "Taking Inventory Of A Frozen Lake",
         "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
       },
@@ -5953,6 +6091,28 @@
     },
     {
       "album": {
+        "name": "The Look",
+        "url": "https://open.spotify.com/album/30z2NfJZyelYABjEhckS7w"
+      },
+      "artists": [
+        {
+          "name": "Bad Loverz",
+          "url": "https://open.spotify.com/artist/3Z4scvNZyLu70b20EEKEw1"
+        },
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177960,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/5BI0VuWtrzyMQzT9JGj5nF"
+    },
+    {
+      "album": {
         "name": "Love Will Fix It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0mz6nhh553pmgxgBsBRxBp"
       },
@@ -5982,7 +6142,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 179786,
       "name": "THE RECKONING",
       "url": "https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y"
@@ -6076,7 +6236,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 187381,
       "name": "Trance",
       "url": "https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld"
@@ -6184,7 +6344,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 171428,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/3PcruDuZZxIETy4oQp9ShM"
@@ -6224,6 +6384,32 @@
       "duration_ms": 225891,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/5IAazt3sxyynZLvBzi5gR9"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/738FbAiPwCv6o3pZYsVbim"
+      },
+      "artists": [
+        {
+          "name": "Supreme Devices",
+          "url": "https://open.spotify.com/artist/4QV9DNNho2mfqSP3mkD70z"
+        },
+        {
+          "name": "Iris Goes",
+          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
+        },
+        {
+          "name": "David Klemencz",
+          "url": "https://open.spotify.com/artist/3lEBhUslQ05bQrap8wiNZZ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/4cLll40w6xr3W4djwEZR2T"
     },
     {
       "album": {
@@ -6393,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "WE\u2019RE ALL GONNA DIE",
+        "url": "https://open.spotify.com/album/0zJhmlEFYi2tFdhrlD5Rjq"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184723,
+      "name": "WE\u2019RE ALL GONNA DIE",
+      "url": "https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B"
+    },
+    {
+      "album": {
         "name": "What If...?",
         "url": "https://open.spotify.com/album/2iE4nia3tEAoQKRex8rElL"
       },
@@ -6552,7 +6756,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"

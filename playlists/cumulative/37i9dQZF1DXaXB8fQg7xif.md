@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,191 songs - 2 day 15 hr 58 min
+1,192 songs - 2 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-01-21 | 2023-01-15 |
 | [Forgive Me](https://open.spotify.com/track/4QNHkL09PIRR9TY11blRLY) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Forgive Me](https://open.spotify.com/album/1nlXbXvDt7p0yDRT8m6bmI) | 2:41 | 2021-12-17 | 2022-04-21 |
 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/album/7ut4PfRhGtazFoK7UOMxbs) | 2:16 | 2021-07-16 | 2021-12-21 |
+| [Freak](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Freak](https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO) | 3:21 | 2025-01-31 |  |
 | [Freak \- Joe Stone 2K18 Edit](https://open.spotify.com/track/2xbRwcylUnX881qaqf5ZZJ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Freak \(Joe Stone 2K18 Edit\)](https://open.spotify.com/album/2gDbE9WrayhjpbI1gEhe0t) | 2:57 | 2020-05-22\* | 2022-04-15 |
 | [Freaks](https://open.spotify.com/track/25V0TNA8cZLVzLQpHa6rB1) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Freaks](https://open.spotify.com/album/5CvGaa7ehTBOhyxLDxRWb6) | 2:55 | 2020-09-05 | 2021-10-13 |
 | [Free](https://open.spotify.com/track/0kzhCraxTEGj5uyft6y6aD) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Free](https://open.spotify.com/album/0qfQxiLiUyGvWpz8QQs0Gd) | 3:57 | 2021-10-09 | 2022-04-17 |
@@ -1068,7 +1069,7 @@
 | [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 | 2023-01-06 | 2023-07-31 |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-22 |  |
 | [Thong Song](https://open.spotify.com/track/09JBbmL7Pmm1Zsus7BXHBG) | [Buzz Low](https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY) | [Thong Song](https://open.spotify.com/album/1ZabiqZwNMlcyO7q2kVFLs) | 2:51 | 2020-05-22\* | 2021-12-21 |
-| [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-03 |  |
+| [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-03 | 2025-02-07 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-08-14 |  |
 | [Thunder In My Heart Again](https://open.spotify.com/track/7iBHE8RK2DmkVpwUfnCqYB) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Thunder In My Heart Again](https://open.spotify.com/album/23zNUuGV7aJRLnTJz19plD) | 2:37 | 2021-10-16 | 2022-07-10 |
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2020-12-27 | 2021-10-13 |

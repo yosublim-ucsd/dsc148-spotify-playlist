@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-340 songs - 1 day 8 hr 51 min
+341 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Chayanat](https://open.spotify.com/track/0X0rm2Yz4eoRPtDmYORevR) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Chayanat](https://open.spotify.com/album/2EyvDomj1NOcjAuhtPr5Nb) | 5:24 | 2022-05-17 | 2024-02-21 |
 | [CHEHRE](https://open.spotify.com/track/0O46s6kYXJKLlxdtb4CGPE) | [Vipul Singh Verma](https://open.spotify.com/artist/1gZkFfU1aSn1idsp5XPUhV) | [CHEHRE](https://open.spotify.com/album/7qA8fbtcZh93BVlzbUeS4J) | 6:03 | 2024-07-08 | 2025-01-07 |
 | [Daavaanal](https://open.spotify.com/track/0OMT0auLkcI34yCWZE1wvT) | [Antara Ansuna](https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq), [Harsh Karmakar](https://open.spotify.com/artist/5KC5BRvLbQwTTGS1szdtrD), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X), [Mrunmay Chhavan](https://open.spotify.com/artist/1pEUFsgSuKy6VlF6cSjRzR) | [Daavaanal](https://open.spotify.com/album/18qVKvrwy14E70G2EhhLBD) | 3:32 | 2024-09-29 |  |
-| [Darbari Kanara Teen Taal](https://open.spotify.com/track/6SdKS6uQA7Cvecsibddb2f) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Tamaghna Chakraborty](https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw) | [Raag Darbari Kannada](https://open.spotify.com/album/2SeQPXLYc3Sh7IfhhLLeax) | 10:17 | 2025-01-17 |  |
+| [Darbari Kanara Teen Taal](https://open.spotify.com/track/6SdKS6uQA7Cvecsibddb2f) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Tamaghna Chakraborty](https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw) | [Raag Darbari Kannada](https://open.spotify.com/album/2SeQPXLYc3Sh7IfhhLLeax) | 10:17 | 2025-01-17 | 2025-02-07 |
 | [Dekho Saiya](https://open.spotify.com/track/66Mls8TEgZlsAQiEC4uRuP) | [Srabani Roy](https://open.spotify.com/artist/0sy9FSD4cX5gZVj9ysrx9H) | [Dekho Saiya](https://open.spotify.com/album/0ELfqU60XiASZjmLEYKkCu) | 4:45 | 2024-07-10 | 2024-10-04 |
 | [Delhi Drill](https://open.spotify.com/track/23Utm1XwZgklunyVtft0ih) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/3V0FSvHmc5ObxF1ZodKwYW) | 1:57 | 2024-02-20 | 2024-04-19 |
 | [Delhi Drill](https://open.spotify.com/track/5MUMXjnsf4UydEK8rFx8Xq) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/4KXcZoIVMzsxVVn18679Zw) | 1:57 | 2023-11-09 | 2024-02-21 |
@@ -286,6 +286,7 @@
 | [Ratiya](https://open.spotify.com/track/6FPylA81QCbV7wxCZidFqs) | [Apratim Tripathi](https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY), [Rishav Tushar](https://open.spotify.com/artist/3SFMwegvRhEllDcmoe2GTl) | [Ratiya](https://open.spotify.com/album/7pQTz2ppS7KvmcZlAwOC3y) | 3:13 | 2023-03-15 | 2023-05-19 |
 | [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-07-28 |  |
 | [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 | 2022-12-10 |
+| [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 | 2025-02-06 |  |
 | [Rut Saawan Ki](https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL), [Basudhara Roy Munshi](https://open.spotify.com/artist/2qpcBqB6sjBqr2YNaAufRd), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Rut Saawan Ki](https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6) | 4:49 | 2024-09-06 |  |
 | [Rutho Na](https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv) | [Aditya Anand](https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz), [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Rutho Na](https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy) | 3:20 | 2023-03-03 | 2023-06-03 |
 | [Saajan](https://open.spotify.com/track/2uiLL8F7KmQKnxiAXy0GkA) | [Shahid Khan](https://open.spotify.com/artist/5NCYHU9bcrR0DaOBWgIn0G), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saajan](https://open.spotify.com/album/6WCSmcdBShRPCO3uKjvihh) | 4:15 | 2024-10-03 |  |

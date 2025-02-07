@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Semicenk",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak:  Ceylan Ertem ",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Da\u011f\u0131ld\u0131m Sonunda",
+        "url": "https://open.spotify.com/album/7KmXxrr26HVzrHRw7SOhUv"
+      },
+      "artists": [
+        {
+          "name": "Mert Demir",
+          "url": "https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225833,
+      "name": "Da\u011f\u0131ld\u0131m Sonunda",
+      "url": "https://open.spotify.com/track/6WgtaLyJKnnNtfbATAt4q3"
+    },
+    {
+      "album": {
         "name": "Defterli",
         "url": "https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz"
       },
@@ -1165,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Hep Mi Leyla",
+        "url": "https://open.spotify.com/album/7wb3tD3kAQ8UQ5FZuVN72W"
+      },
+      "artists": [
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        },
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195833,
+      "name": "Hep Mi Leyla",
+      "url": "https://open.spotify.com/track/28alChPhCKQF70YsYvPWaL"
+    },
+    {
+      "album": {
         "name": "Hepsi A\u015fktan",
         "url": "https://open.spotify.com/album/0wF5iSxHrCD49n5HMnV8F2"
       },
@@ -1256,7 +1296,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 129804,
       "name": "\u0130mdad\u0131m",
       "url": "https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM"
@@ -1723,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "N'olur Anla",
+        "url": "https://open.spotify.com/album/6CEmCMIgMRC8xpscUgE8if"
+      },
+      "artists": [
+        {
+          "name": "Yasir Miy",
+          "url": "https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW"
+        },
+        {
+          "name": "Aynur Ayd\u0131n",
+          "url": "https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "N'olur Anla",
+      "url": "https://open.spotify.com/track/6qqJLxM3RLQvdINY39LFlr"
+    },
+    {
+      "album": {
         "name": "Nanik",
         "url": "https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG"
       },
@@ -1850,7 +1912,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 172154,
       "name": "Olmu\u015fum Leyla",
       "url": "https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj"
@@ -2235,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Sana Ra\u011fmen",
+        "url": "https://open.spotify.com/album/12l5mGd9dNfG2BsFYQ76gE"
+      },
+      "artists": [
+        {
+          "name": "Ceylan Ertem",
+          "url": "https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Tanr\u0131\u00e7alar Memleketi - Yenge",
+      "url": "https://open.spotify.com/track/1Ryq7tkaCuKbwNvE62Nhgm"
+    },
+    {
+      "album": {
         "name": "Tavr\u0131na Hayran",
         "url": "https://open.spotify.com/album/3gPREavRJBMFZmmin9tJ1h"
       },
@@ -2268,7 +2348,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 209136,
       "name": "Tek Ba\u015f\u0131ma",
       "url": "https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ"
@@ -2400,7 +2480,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 146086,
       "name": "Yak\u0131\u015f\u0131kl\u0131",
       "url": "https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM"

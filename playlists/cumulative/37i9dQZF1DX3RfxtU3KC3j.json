@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: \u00d6zkan U\u011fur",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Redd",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 225000,
       "name": "Ac\u0131t\u0131r gibi severek",
       "url": "https://open.spotify.com/track/4EC9KUi9fXKFzK17Or0A1a"
+    },
+    {
+      "album": {
+        "name": "AF.",
+        "url": "https://open.spotify.com/album/0iIi6muIE3RVOH7L9KAM7G"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Emre Daldal",
+          "url": "https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267574,
+      "name": "AF.",
+      "url": "https://open.spotify.com/track/2Pzee5kJnvGniV2W6egT8S"
     },
     {
       "album": {
@@ -1293,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Gelirsin Diye",
+        "url": "https://open.spotify.com/album/7xHXhT1YO0ob3Y4q9cvYhb"
+      },
+      "artists": [
+        {
+          "name": "Batuhan Kordel",
+          "url": "https://open.spotify.com/artist/53GzfAvawfKb966INeFp18"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204928,
+      "name": "Gelirsin Diye",
+      "url": "https://open.spotify.com/track/2jMCNpcvSh4b5jtemziLe8"
+    },
+    {
+      "album": {
         "name": "Gelme",
         "url": "https://open.spotify.com/album/113Rdhd0TJoywaB0QeEvLd"
       },
@@ -2040,7 +2076,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 297311,
       "name": "\u0130yi B\u00f6yle",
       "url": "https://open.spotify.com/track/6bOepoWGi8psgbPDmMq0tF"
@@ -3720,7 +3756,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 148441,
       "name": "yava\u015f \u00f6l\u00fcmler",
       "url": "https://open.spotify.com/track/4gSENX3IzHfF3ZL6ad9069"
@@ -3774,7 +3810,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 211495,
       "name": "Ya\u011fmur 2025",
       "url": "https://open.spotify.com/track/55hx5GvZW7wZqzG4th66RV"
@@ -4168,6 +4204,24 @@
       "duration_ms": 145142,
       "name": "\u00dcst\u00fc Kals\u0131n",
       "url": "https://open.spotify.com/track/35I2nufa8BdP96DbzpF8xj"
+    },
+    {
+      "album": {
+        "name": "\u00dc\u015f\u00fcyor \u0130stanbul Bug\u00fcn",
+        "url": "https://open.spotify.com/album/1nu4pWlnpWXJcrb3V5xK2l"
+      },
+      "artists": [
+        {
+          "name": "Redd",
+          "url": "https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190720,
+      "name": "\u00dc\u015f\u00fcyor \u0130stanbul Bug\u00fcn",
+      "url": "https://open.spotify.com/track/0IWkpEVDHcQV9Sa6yOVRhZ"
     },
     {
       "album": {

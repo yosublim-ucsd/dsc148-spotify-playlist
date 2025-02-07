@@ -2,7 +2,7 @@
 
 ### [Redeemed](https://open.spotify.com/playlist/37i9dQZF1DX8vgStRdrKer)
 
-> This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1?si=CN7PAyeXQ66WLw4\-XH8JbQ>Tondi Rams</a>
+> This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5?si=YqWDvSv9SaOShpozF\-Ss8w>Ealle</a>
 
 255 songs - 20 hr 35 min
 

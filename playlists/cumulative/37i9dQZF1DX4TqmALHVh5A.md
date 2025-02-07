@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : THÉA
+> La scène francophone branchée sur courant alternatif\. Photo : ELOI
 
-248 songs - 13 hr 32 min
+252 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 | 2023-11-02 | 2024-04-05 |
 | [ALLO?C MOI](https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [ALLO?C MOI](https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7) | 2:14 | 2025-01-23 |  |
 | [Aloha Baby](https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Aloha Baby](https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh) | 6:05 | 2023-09-28 | 2023-12-01 |
+| [Americanism](https://open.spotify.com/track/7Jz2D9uzzfzI21BRkLpxws) | [Biche](https://open.spotify.com/artist/1m0M7J2El2DioTfule3L41), [En Attendant Ana](https://open.spotify.com/artist/7mKMQWOBVDivOhswm33WDL) | [B.I.C.H.E.](https://open.spotify.com/album/6KuOeiMw8kO3X2xogDkVRE) | 3:08 | 2025-02-06 |  |
 | [ami imaginaire](https://open.spotify.com/track/0DuA2KLpfMq2TLgtHJ0g2b) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [ami imaginaire](https://open.spotify.com/album/0B7SOPumsN7vzJ7Ygo8Zet) | 3:31 | 2024-11-07 |  |
 | [Amour Scandaleux](https://open.spotify.com/track/0ffjGmdQAMy2JLxI3vyuHG) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Amour Scandaleux](https://open.spotify.com/album/499lMyd1cf4i5c98NkOUWF) | 3:12 | 2024-03-07 | 2024-12-06 |
 | [Apprends\-moi](https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Posthume](https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu) | 2:57 | 2024-05-30 | 2024-10-25 |
@@ -75,7 +76,7 @@
 | [Double Tap](https://open.spotify.com/track/1F8y4UfslnzBpWKDZraeD3) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Double Tap](https://open.spotify.com/album/2K13urd2pDuRzpf9OlU2rg) | 2:25 | 2023-10-19 | 2023-12-15 |
 | [doudoune northface](https://open.spotify.com/track/4gnbtbry3isjhb75nBIwLA) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [doudoune northface](https://open.spotify.com/album/3itgcSwBsO6trR75ThZCwW) | 3:14 | 2023-12-08 | 2024-02-02 |
 | [Du Faux](https://open.spotify.com/track/5YA0jwcbbjL0bS4upsd5Kq) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Du Faux](https://open.spotify.com/album/30PG6zM9Qmvarc75N7c3Vp) | 2:34 | 2023-09-28 | 2023-11-03 |
-| [du matin au matin](https://open.spotify.com/track/3DaAnP8S31hxhxgWqLCVpm) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [du matin au matin](https://open.spotify.com/album/3yZv18JRpZbih7IhOq4Lc7) | 2:29 | 2024-06-27 |  |
+| [du matin au matin](https://open.spotify.com/track/3DaAnP8S31hxhxgWqLCVpm) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [du matin au matin](https://open.spotify.com/album/3yZv18JRpZbih7IhOq4Lc7) | 2:29 | 2024-06-27 | 2025-02-07 |
 | [dénudée](https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [dénudée](https://open.spotify.com/album/3n2PoNjcnOX4QSTbZuitU2) | 2:11 | 2023-09-28 | 2023-11-03 |
 | [Dérive](https://open.spotify.com/track/3mQFiwcJVmj4NMkp17rHFX) | [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [Irréversible Part II](https://open.spotify.com/album/6VXjL1gPM0DVfHsr3lk5UN) | 3:41 | 2024-05-02 | 2024-10-25 |
 | [Désolé, mon cœur](https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5) | [Désolé, mon cœur](https://open.spotify.com/album/0P2z4rhMsoaNmOIFSbGuIl) | 3:01 | 2023-10-26 | 2023-11-24 |
@@ -95,7 +96,7 @@
 | [Girlfriend](https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:43 | 2023-09-28 | 2023-11-10 |
 | [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 | 2024-01-11 | 2024-10-04 |
 | [Géant](https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [x 1000](https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5) | 4:11 | 2024-04-18 | 2024-10-18 |
-| [Hardcore](https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Hardcore](https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV) | 3:55 | 2024-06-27 |  |
+| [Hardcore](https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Hardcore](https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV) | 3:55 | 2024-06-27 | 2025-02-07 |
 | [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 | 2024-05-10 |
 | [Human](https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [Human vs Machine](https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf) | 3:04 | 2024-02-08 | 2024-06-21 |
 | [I'm A Mess](https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [I'm A Mess](https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M) | 2:26 | 2023-11-23 | 2024-02-02 |
@@ -143,11 +144,12 @@
 | [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 | 2024-11-22 |
 | [Lune](https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Lune](https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC) | 3:45 | 2024-06-06 | 2025-01-24 |
 | [Lunettes du style](https://open.spotify.com/track/22kQGWbD8Pq8tdG1PzorJQ) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Lunettes du style](https://open.spotify.com/album/3UTwX4b6mg3wRf5qBl5wPN) | 3:35 | 2023-09-28 | 2023-11-24 |
+| [Lunettes noires](https://open.spotify.com/track/50QzsGkmFa8HlC16BRCiqe) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [Lunettes noires](https://open.spotify.com/album/3VmWWOtrsNGFAiegI2Oewu) | 2:57 | 2025-02-06 |  |
 | [LUX](https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAHA](https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7) | 3:49 | 2024-06-13 | 2025-01-31 |
 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-09-28 | 2023-11-03 |
 | [Mascu Ferme Ta Gueule](https://open.spotify.com/track/5QQlYQJuk65q8zD82KPTBN) | [Droges](https://open.spotify.com/artist/5SDTx48ndpoXdLVYixXAHd) | [Mascu Ferme Ta Gueule](https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj) | 3:08 | 2024-11-07 |  |
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 | 2024-03-29 |
-| [MELODY](https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [MELODY](https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf) | 4:20 | 2024-06-27 |  |
+| [MELODY](https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [MELODY](https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf) | 4:20 | 2024-06-27 | 2025-02-07 |
 | [Message acide](https://open.spotify.com/track/5Q3NP8mMJVcvQnpefNi3P9) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Message acide](https://open.spotify.com/album/48ivlI5AuvWGRp1EaphL6M) | 3:33 | 2025-01-09 |  |
 | [Miami](https://open.spotify.com/track/3xlzqzAs4T4LK0bsE0FEvB) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/46CCI0ZcsEnvxwMHWkZFqw) | 3:31 | 2023-11-09 | 2023-12-22 |
 | [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 | 2023-12-15 |
@@ -178,13 +180,14 @@
 | [petit escargot](https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C) | [Colas](https://open.spotify.com/artist/7gVIUgoWlvt4aXBkwqYIrc) | [petit escargot](https://open.spotify.com/album/06Nr7DJDtxzLQYrMNbnWjJ) | 3:22 | 2024-06-13 | 2025-01-31 |
 | [Plages Du Nord](https://open.spotify.com/track/1s39UIEJhtAYnpVgPkOYCt) | [Gaétan Nonchalant](https://open.spotify.com/artist/4AlnBIMrqDSEMMlAPzN6DJ) | [Changement de programme](https://open.spotify.com/album/5KqWkiMSoLMDlYwC1V50Il) | 3:10 | 2023-10-05 | 2023-12-15 |
 | [Planisphère](https://open.spotify.com/track/4JMVCc9j54W3HqWD33YG46) | [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Planisphère](https://open.spotify.com/album/6fpYPafHSYj9xRdD6vMl9x) | 3:07 | 2023-09-28 | 2023-10-27 |
+| [PLAYSTATION](https://open.spotify.com/track/2Y7pSaRip0CegkydJUtzqp) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [PLAYSTATION](https://open.spotify.com/album/229ypZccM7Mpcl12Sc1r0F) | 3:13 | 2025-02-06 |  |
 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [Premier Baiser](https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Premier Baiser](https://open.spotify.com/album/3pEJyWEz9kGVYzXE9j9MZt) | 2:50 | 2024-06-20 | 2024-11-29 |
 | [Presque un secret](https://open.spotify.com/track/5Xsu89IWIRc3s3WCP4o69p) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Presque un secret](https://open.spotify.com/album/5N9tpTQqC42sOtGeevzngE) | 3:04 | 2023-09-28 | 2023-10-06 |
 | [Primitivism](https://open.spotify.com/track/6xs3GzoTKtL0f8iYx70BpZ) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Primitivism](https://open.spotify.com/album/3TO0lDkNsERv08EJlIYmFj) | 3:34 | 2024-04-04 | 2024-10-18 |
 | [Problèmes](https://open.spotify.com/track/1se9m5r5XhNKHYOA4XS0Yd) | [Cabale](https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit) | [Cabale](https://open.spotify.com/album/3KdpOBLkuf70nhwTu1anQV) | 2:58 | 2023-10-19 | 2024-06-01 |
 | [PTSMR](https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL), [Rok.wav](https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz), [Dudu.wav](https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO) | [PTSMR](https://open.spotify.com/album/4rQL2TSwLZobwftESuhn5J) | 3:00 | 2024-06-20 | 2025-01-24 |
-| [Que la biche soit en nous](https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Que la biche soit en nous](https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd) | 3:28 | 2024-06-20 |  |
+| [Que la biche soit en nous](https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Que la biche soit en nous](https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd) | 3:28 | 2024-06-20 | 2025-02-07 |
 | [Quel dommage](https://open.spotify.com/track/7tLhOs918gmnFelUpTkVgq) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Quel dommage](https://open.spotify.com/album/3QVyFLFsxzav6hfxRYADr4) | 3:23 | 2023-10-19 | 2023-12-08 |
 | [Radio](https://open.spotify.com/track/3XDbBLoiPf3NNR4DY1wMld) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Radio](https://open.spotify.com/album/1nRoA7wDI7mraWdDMOteQ8) | 3:11 | 2023-09-28 | 2023-10-27 |
 | [Radio](https://open.spotify.com/track/7t4TKQwffyxm6VjV8xUzdP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Radio](https://open.spotify.com/album/4gjmcshJN2wyvrZZeIXO2M) | 2:50 | 2023-09-28 | 2023-11-17 |
@@ -237,6 +240,7 @@
 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 | 2024-11-21 |  |
 | [Trouble](https://open.spotify.com/track/2jWSqM1ZAUWFB0MiWvjsZs) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Trouble](https://open.spotify.com/album/4Ra0HAJtws6bcNy6bAh87v) | 3:23 | 2024-10-17 | 2024-11-22 |
 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 | 2024-01-04 | 2024-06-28 |
+| [tue moi](https://open.spotify.com/track/27KaAt4Iwwd8xhxfquYb68) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [tue moi](https://open.spotify.com/album/1YsLRmysP3u2kWbXqpzbN5) | 3:22 | 2025-02-06 |  |
 | [Turbofée](https://open.spotify.com/track/40XQBEMdfMicRK35jlnKJK) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Éclipse](https://open.spotify.com/album/4pPRjgXmc6LuO7hR2fikA9) | 3:48 | 2025-01-23 |  |
 | [Un Autre Nom](https://open.spotify.com/track/2Sftxg76IUpWf3aSH7prbl) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Un Autre Nom](https://open.spotify.com/album/1SIurxrtkXjXzxfuj2awk8) | 3:51 | 2024-09-05 | 2024-11-29 |
 | [Une dernière fois](https://open.spotify.com/track/3FWo0LZdY98cNzlJ3vkBPO) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Bella Vita](https://open.spotify.com/album/1CUDj03p5bIJMthHyrqpYZ) | 3:07 | 2023-09-28 | 2023-10-20 |

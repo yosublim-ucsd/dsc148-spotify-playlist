@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Diferentinho N\u00e3o, Diferent\u00e3o! 3.0",
+        "url": "https://open.spotify.com/album/346DeklljazfC6A3K3oynP"
+      },
+      "artists": [
+        {
+          "name": "Anderson Garotinho",
+          "url": "https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236591,
+      "name": "Apaga Apaga Apaga",
+      "url": "https://open.spotify.com/track/0J0XHQeoyM3g0UYy3fPuGu"
+    },
+    {
+      "album": {
         "name": "Apaga Apaga Apaga",
         "url": "https://open.spotify.com/album/6yEBp1FsmT0wujussaw84R"
       },

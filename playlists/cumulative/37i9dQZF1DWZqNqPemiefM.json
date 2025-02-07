@@ -4427,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "Green riot",
+        "url": "https://open.spotify.com/album/72WcSyxGyq0XFmMZWYSQwV"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Psychedelic Orchestra",
+          "url": "https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Green riot",
+      "url": "https://open.spotify.com/track/3c5vxlA25e1magSRBgYsUw"
+    },
+    {
+      "album": {
         "name": "Soundscape 1: Surround",
         "url": "https://open.spotify.com/album/1ubL48Kh0m7GmGj1MbpyOV"
       },
@@ -6200,7 +6218,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 181829,
       "name": "londonderry air",
       "url": "https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD"

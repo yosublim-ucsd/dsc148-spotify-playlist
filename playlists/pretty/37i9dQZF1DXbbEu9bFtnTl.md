@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Malcriada en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,602 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,637 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 29 | [Cruz Invertida ft\. Rojuu](https://open.spotify.com/track/4MzZhicdTzuhnY9fSDhMeL) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [Cruz Invertida](https://open.spotify.com/album/0AKJqDM2XiycnJmGVSWbA8) | 2:19 |
 | 30 | [Muñekita de Cristal](https://open.spotify.com/track/2YeiiDBoqXrhq8SdMQL6oB) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Meow](https://open.spotify.com/album/5UpOHlfix5UCaa5zjaT3O8) | 2:25 |
 | 31 | [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 |
-| 32 | [RUNNING](https://open.spotify.com/track/0M07eJ3dp9d6RtOhwGO8Nj) | [Rollie X](https://open.spotify.com/artist/1SU8GiqYbkNunacmuY7GDJ), [ANGELSWING](https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv) | [RUNNING](https://open.spotify.com/album/0agfEGjfgvWoj7sMSNN6HR) | 3:06 |
+| 32 | [RUNNING](https://open.spotify.com/track/0M07eJ3dp9d6RtOhwGO8Nj) | [Rollie X](https://open.spotify.com/artist/1SU8GiqYbkNunacmuY7GDJ), [ANGELSWING](https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI), [Carzé](https://open.spotify.com/artist/4vmwjSwJNFzywMixqnDZ2e) | [RUNNING](https://open.spotify.com/album/0agfEGjfgvWoj7sMSNN6HR) | 3:06 |
 | 33 | [Margarita](https://open.spotify.com/track/41a835ObgfBLcL7tFf22Ad) | [Hammilton Bakerr](https://open.spotify.com/artist/7vR9IezZzHgHZy1lvuSMBL) | [Margarita](https://open.spotify.com/album/05jvlnycdJdCuVHjccbLcb) | 2:38 |
 | 34 | [Si No Juego Fortnite Acabo Con Mi Vida](https://open.spotify.com/track/6fRp2k7wr7EBjGETImQ4JY) | [Young Nova](https://open.spotify.com/artist/43jMvULXIqnc5GC0Z6gxcy), [Young Dune](https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT), [x BAMBAM](https://open.spotify.com/artist/4GfoD1TNfXp6YhnmOzjAOZ) | [Si No Juego Fortnite Acabo Con Mi Vida](https://open.spotify.com/album/2U88cEFgjcHvazCDclESJU) | 2:12 |
 | 35 | [CICATRIZ](https://open.spotify.com/track/6kdfiouvVHeYbcvgUIv1eQ) | [Axel Olloqui](https://open.spotify.com/artist/5G4Gh8x14AwqhaiH9zo5qs) | [CICATRIZ](https://open.spotify.com/album/2Ko9xajDFl1MmOVcajqV8i) | 2:22 |

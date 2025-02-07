@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Meryl x Kalipsxau",
+  "description": "Les hits zouk du moment. Photo : MARVIN x L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 157053,
       "name": "Hyp\u00e9",
       "url": "https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 145568,
       "name": "RDMV",
       "url": "https://open.spotify.com/track/4QVsBN1976xZ9SKg87Y0g7"
@@ -3178,6 +3178,28 @@
       "duration_ms": 201686,
       "name": "Si tu t'en vas",
       "url": "https://open.spotify.com/track/26mX0WpDrqeTT1pjtxLnox"
+    },
+    {
+      "album": {
+        "name": "Sinc\u00e8re",
+        "url": "https://open.spotify.com/album/0mrxUNC3CCGWumGxueh8Jn"
+      },
+      "artists": [
+        {
+          "name": "Colette GAZE",
+          "url": "https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U"
+        },
+        {
+          "name": "Axel Tony",
+          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127803,
+      "name": "Sinc\u00e8re",
+      "url": "https://open.spotify.com/track/54Zqj7bYgFYCUPLJw7bzBG"
     },
     {
       "album": {
@@ -3658,6 +3680,28 @@
       "duration_ms": 172805,
       "name": "Tou Sa Ki Fo",
       "url": "https://open.spotify.com/track/3DZJQP0BrrpSWKPT8KXMQh"
+    },
+    {
+      "album": {
+        "name": "Toujours moi (Remix)",
+        "url": "https://open.spotify.com/album/2SpcVuxzycXFMuCKB7GnCj"
+      },
+      "artists": [
+        {
+          "name": "cevin",
+          "url": "https://open.spotify.com/artist/4DpPqoHHFd5CuH0t1NlgJI"
+        },
+        {
+          "name": "Locko",
+          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222804,
+      "name": "Toujours moi - Remix",
+      "url": "https://open.spotify.com/track/7JTpRHELf9c93PBclCt3AB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 112428,
+  "num_followers": 112432,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAAB47iPdPlTBfKaT5cN2n0ly",
+  "snapshot_id": "Z6KqAAAAAAAprh5F/+awEUkGf7FeBixZ",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 420453,
-      "name": "Se Eu Pudesse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 226240,
       "name": "Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 420453,
+      "name": "Se Eu Pudesse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
     },
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "M\u00e1scaras",
+      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 192402,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Jo\u00e3o Figueiredo",
-          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "M\u00e1scaras",
-      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
-        "url": "https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Carol Tauber",
-          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
-        }
-      ],
-      "duration_ms": 518306,
-      "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
-      "url": "https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -615,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+        "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
+        "url": "https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q"
       },
       "artists": [
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Carol Tauber",
+          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+      "duration_ms": 518306,
+      "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
+      "url": "https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 239946,
       "name": "Dono dos Meus Dias",
       "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Preciso Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o H\u00e1 o Que Temer",
         "url": "https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 252352,
       "name": "N\u00e3o H\u00e1 o Que Temer",
       "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Preciso Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bem Perto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 426318,
+      "name": "Bem Perto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 402811,
       "name": "Meu Filho - Ao Vivo",
       "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bem Perto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 426318,
-      "name": "Bem Perto - Ao Vivo",
-      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
     },
     {
       "added_at": null,

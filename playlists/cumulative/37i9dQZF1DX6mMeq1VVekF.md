@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Jay Prince
 
-456 songs - 23 hr 27 min
+457 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Cool Kids](https://open.spotify.com/track/1KuKl8qIrUfkvtQtGn1Awo) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Cool Kids](https://open.spotify.com/album/05IcnMq0Wn025bMmbV8J9L) | 3:26 | 2022-06-24 | 2022-07-29 |
 | [Coulda Been](https://open.spotify.com/track/1odD58TbhEsdHHhLh1Apko) | [Ajet 2F](https://open.spotify.com/artist/4Ruq98a6s75FiLSMsRYwqL) | [Coulda Been](https://open.spotify.com/album/7qm0yqA8bDIZT17wHH2gzO) | 2:53 | 2024-10-03 | 2024-10-26 |
 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 | 2024-10-25 |  |
+| [Creole](https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg) | [Creole](https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt) | 2:29 | 2025-01-31 |  |
 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 | 2022-06-24 | 2022-07-25 |
 | [dancing](https://open.spotify.com/track/1e1CgX8nZAeCMxo7fOWasc) | [tn\_490](https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X) | [dancing](https://open.spotify.com/album/6moYJaa4jE3wS62TfuIvJ4) | 2:22 | 2024-10-10 | 2024-12-20 |
 | [Dans la hess](https://open.spotify.com/track/06nMeoeJumuAenz7XKhHYw) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Gore](https://open.spotify.com/album/7e9inFYUpFSKmTFbj2xrCS) | 2:49 | 2022-06-24 | 2022-07-29 |
@@ -449,7 +450,7 @@
 | [Wesh \(feat\. Unknown T\)](https://open.spotify.com/track/2dt9ds35KPCpDuihBrEpBj) | [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Wesh \(feat\. Unknown T\)](https://open.spotify.com/album/7oZJjss1yfY89KcMnnux6w) | 2:19 | 2024-12-13 |  |
 | [What Can I Say](https://open.spotify.com/track/6HVlPPWZcwAQOtvPbNnJMI) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [What Can I Say](https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN) | 2:42 | 2025-01-17 |  |
 | [What If?](https://open.spotify.com/track/6DvGYJG51xjPfZn7JMpLSp) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:13 | 2022-07-17 | 2022-07-27 |
-| [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 | 2024-10-03 |  |
+| [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 | 2024-10-03 | 2025-02-07 |
 | [What she likes](https://open.spotify.com/track/3mKmTFmx6FbarBAilxqkvQ) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [What she likes](https://open.spotify.com/album/3qWeewV3GB67JBiMEdgXEr) | 2:37 | 2024-10-03 | 2024-10-05 |
 | [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 | 2023-08-18 | 2023-11-04 |
 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 | 2023-08-18 | 2024-04-19 |

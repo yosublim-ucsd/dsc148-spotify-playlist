@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 192000,
       "name": "909 Workout",
       "url": "https://open.spotify.com/track/7E6153wqTeIvsM5hODw3W7"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 172444,
       "name": "AHa - Edit",
       "url": "https://open.spotify.com/track/51AgcpeOyqlPOw70lEPWqB"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 213428,
       "name": "Akralium",
       "url": "https://open.spotify.com/track/7eBu1L5cwi8OMQqhuJ2kp1"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 219866,
       "name": "At Night I Think Of You - Seth Troxler & Nick Morgan Remix",
       "url": "https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh"
@@ -360,6 +360,36 @@
     {
       "album": {
         "name": "The Sound & Bassline (KMS Classics 25th Anniversary Ben Sims Remixes Part 2)",
+        "url": "https://open.spotify.com/album/6CTQlZplqItYG5G3SQV9qc"
+      },
+      "artists": [
+        {
+          "name": "Reese",
+          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Ben Sims",
+          "url": "https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423750,
+      "name": "Bassline - Joris Voorn Extended Remix / Ben Sims 25th Anniversary Extended Edit",
+      "url": "https://open.spotify.com/track/6FNekNHzAy0GrnFgFrwUy3"
+    },
+    {
+      "album": {
+        "name": "The Sound & Bassline (KMS Classics 25th Anniversary Ben Sims Remixes Part 2)",
         "url": "https://open.spotify.com/album/4OY4tttKeVH7xPOWO8ENA8"
       },
       "artists": [
@@ -472,7 +502,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 308705,
       "name": "Bop",
       "url": "https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK"
@@ -596,7 +626,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 199166,
       "name": "Bumper",
       "url": "https://open.spotify.com/track/5M5BVkJuxDLXMIabehB0z3"
@@ -670,7 +700,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 313146,
       "name": "Carry Me Higher",
       "url": "https://open.spotify.com/track/2GXOms5aOcoxqnpPVRYiIs"
@@ -739,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Chorus",
+        "url": "https://open.spotify.com/album/01xiJOx0b9pHaAFkTIFDdR"
+      },
+      "artists": [
+        {
+          "name": "Richard Cleber",
+          "url": "https://open.spotify.com/artist/1BkWTNZOi4wQ2mAZzxB6x5"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193582,
+      "name": "Chorus",
+      "url": "https://open.spotify.com/track/5tu5vrAZfNFM7pcXPh3ojW"
+    },
+    {
+      "album": {
         "name": "Circular EP",
         "url": "https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a"
       },
@@ -750,7 +798,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 370829,
       "name": "Circular",
       "url": "https://open.spotify.com/track/5wki473M05c257DxpTwfYm"
@@ -790,7 +838,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 472380,
       "name": "Come On - Luigi Madonna Remix",
       "url": "https://open.spotify.com/track/45EVIZT94DVHxwBQ9GZKUn"
@@ -834,6 +882,42 @@
       "duration_ms": 221270,
       "name": "Complex",
       "url": "https://open.spotify.com/track/1iiPTJAvwqe1TmMDEw3e2w"
+    },
+    {
+      "album": {
+        "name": "Bassis 101 EP",
+        "url": "https://open.spotify.com/album/0H6NmfDcvq2o62Xbbk0fTn"
+      },
+      "artists": [
+        {
+          "name": "Agent Orange DJ",
+          "url": "https://open.spotify.com/artist/5HARWIvaFOPEMSIMTBQ79Z"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335869,
+      "name": "Crazy Ravers",
+      "url": "https://open.spotify.com/track/3Tm4vc5jaiGEF5NuHRaUbW"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/5d6TafzSzVx9TTnWPwF70P"
+      },
+      "artists": [
+        {
+          "name": "Big Martino",
+          "url": "https://open.spotify.com/artist/4TJZ32klKGQrvdT2d3LoO7"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372923,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/3ydc0VCjXu9e5Nup7dnShZ"
     },
     {
       "album": {
@@ -935,6 +1019,32 @@
     },
     {
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/4jbL2Wjy1SzA69OgGSLx6O"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226287,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/2PDL2Spw1sTNICL9I5kM8W"
+    },
+    {
+      "album": {
         "name": "F The Disco (Javi Bora & Hatiras Remix)",
         "url": "https://open.spotify.com/album/7IdmkgUCoBDlAfgC4YNX8h"
       },
@@ -976,7 +1086,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 227470,
       "name": "Far Away - DJ Swisha Remix",
       "url": "https://open.spotify.com/track/4XzyvOWY8Nz13rYL4QiqDf"
@@ -994,7 +1104,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 203081,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2PpQ4n7hQ5AwMwK8bXj3Jg"
@@ -1030,7 +1140,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 289655,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/78KZQSIbV6NWVuW3xUlzSd"
@@ -1262,7 +1372,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195692,
       "name": "Good Life - Inner City Edit of Carl Craig Remix",
       "url": "https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL"
@@ -1314,7 +1424,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 189677,
       "name": "Good Luck - Kevin & Dantiez Saunderson Dub Mix",
       "url": "https://open.spotify.com/track/6hrYaWpU9VeKKo2LvQ0G2b"
@@ -1473,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/1V8WUoTl4f4gBweomiBelR"
+      },
+      "artists": [
+        {
+          "name": "Resonances (IT)",
+          "url": "https://open.spotify.com/artist/7qOpekyH75FVKR0T1Z2W0H"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2wfPjodFbpvR8mcdjwvKwZ"
+    },
+    {
+      "album": {
         "name": "Hey Hey",
         "url": "https://open.spotify.com/album/1cDV081Kr7TEOO2OH2RFhH"
       },
@@ -1502,7 +1630,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 341628,
       "name": "Hoods Legacy",
       "url": "https://open.spotify.com/track/0wuBfw5by5sDZuwyxM56Qo"
@@ -1568,7 +1696,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 204898,
       "name": "I Can't Stop - Joseph Capriati Deep Remix",
       "url": "https://open.spotify.com/track/2aiJPd3IBrxenIOFwybflo"
@@ -1626,7 +1754,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 317538,
       "name": "I Want",
       "url": "https://open.spotify.com/track/1vYW2gHyD6gGbCPspSFJ7u"
@@ -1666,7 +1794,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 338628,
       "name": "I.D.L.E.",
       "url": "https://open.spotify.com/track/72dfMlAj8fxhpubNXjVMyv"
@@ -1926,7 +2054,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 224322,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
@@ -2024,7 +2152,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 509155,
       "name": "LOOP (LFO VS. F.U.S.E.) (FUSE MIX)",
       "url": "https://open.spotify.com/track/4UuRMtLFrn5CSMxayUk8R2"
@@ -2108,7 +2236,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 361010,
       "name": "Mechanic Love - Kittin & The Hacker Remix",
       "url": "https://open.spotify.com/track/5Jbz63pQlR38Nu5UmhKPAU"
@@ -2203,6 +2331,28 @@
     },
     {
       "album": {
+        "name": "Techno Series No.001",
+        "url": "https://open.spotify.com/album/4lrMJnTNVY57wLU3Y4hVuN"
+      },
+      "artists": [
+        {
+          "name": "Black Rain",
+          "url": "https://open.spotify.com/artist/786fsIXgVWAjBxTyRAhqAg"
+        },
+        {
+          "name": "Jerome Sydenham",
+          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351549,
+      "name": "Morning Stars",
+      "url": "https://open.spotify.com/track/6HsxqUsxZr0fKNsnSv8GdO"
+    },
+    {
+      "album": {
         "name": "1trax : Four : Hector (Live In Tokyo)",
         "url": "https://open.spotify.com/album/2wf92Xtfu4ic7X5gO5RF1B"
       },
@@ -2218,6 +2368,28 @@
       "duration_ms": 363539,
       "name": "Mortal Trance - Original Mix",
       "url": "https://open.spotify.com/track/1KRW7yt0Z4jd7R5bIrbWql"
+    },
+    {
+      "album": {
+        "name": "Motor City Mayhem",
+        "url": "https://open.spotify.com/album/0JDd0iCabM8XvbGJetlYTw"
+      },
+      "artists": [
+        {
+          "name": "Lowdy",
+          "url": "https://open.spotify.com/artist/4N8irMhTaA2VhZiYnRv5bO"
+        },
+        {
+          "name": "Howland",
+          "url": "https://open.spotify.com/artist/4aIXwuBL4GQNgogQ453QBJ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151488,
+      "name": "Motor City Mayhem",
+      "url": "https://open.spotify.com/track/6b9fsgIWSJf1EndPJZOeVB"
     },
     {
       "album": {
@@ -2367,6 +2539,28 @@
     },
     {
       "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/43E5wY46bLZHr1Zlmn55TR"
+      },
+      "artists": [
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344133,
+      "name": "Oombah",
+      "url": "https://open.spotify.com/track/4UokiGaLvXI18GDkTBnF7z"
+    },
+    {
+      "album": {
         "name": "TRUNCEI8HT EP",
         "url": "https://open.spotify.com/album/5IpTT5HrvjYnTtnPV0vT4h"
       },
@@ -2396,7 +2590,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 312963,
       "name": "Our Bodies",
       "url": "https://open.spotify.com/track/7g3UoIM8tZinO95AAjFha5"
@@ -2414,7 +2608,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 402403,
       "name": "Peekaboo",
       "url": "https://open.spotify.com/track/5T959TzqCHhlMdkbLPelkc"
@@ -2516,7 +2710,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 434226,
       "name": "Precious",
       "url": "https://open.spotify.com/track/3whpaaaBM3YbEfjvQRGW8D"
@@ -2542,6 +2736,28 @@
       "duration_ms": 202088,
       "name": "Pump The Move",
       "url": "https://open.spotify.com/track/3WiKoTVLAK0OY7ls6W6HfX"
+    },
+    {
+      "album": {
+        "name": "Re:Generate",
+        "url": "https://open.spotify.com/album/5I2uojYFmI9dcj0x4mmuvj"
+      },
+      "artists": [
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284019,
+      "name": "Pump the Move - Bart Skils Groove Mix",
+      "url": "https://open.spotify.com/track/1JkTm0Mi2P8HEGjhwRAHrQ"
     },
     {
       "album": {
@@ -2666,7 +2882,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 393129,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/4dwdp1neURzBfkp63v1Wfj"
@@ -2702,7 +2918,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 371619,
       "name": "Rhythm Motion",
       "url": "https://open.spotify.com/track/7bkXmQVdvUyzog7rvv9uW0"
@@ -2764,7 +2980,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 446466,
       "name": "Rock to the Beat - Ben Sims Remix",
       "url": "https://open.spotify.com/track/4VT1tQFtw69IzXV60CwxZQ"
@@ -2800,7 +3016,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 318857,
       "name": "Run 2 U",
       "url": "https://open.spotify.com/track/3HHOoxI8hOSvd8SS2HwIDm"
@@ -2818,7 +3034,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 238300,
       "name": "Rush",
       "url": "https://open.spotify.com/track/2cCsTGu4VovZdDaGvBigXN"
@@ -2840,7 +3056,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 201787,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5UuAcaZlzRPLEnOKs7FtVg"
@@ -2894,7 +3110,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 442654,
       "name": "SMS",
       "url": "https://open.spotify.com/track/1HtGt5T3iwkaI7Z06TH5GD"
@@ -2916,7 +3132,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 355606,
       "name": "Soul Purpose",
       "url": "https://open.spotify.com/track/7Aj2Mk4deD0ZDriMNwsStx"
@@ -2959,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "South American Dubs",
+        "url": "https://open.spotify.com/album/36XLycJvLkNasCc8ev5yCN"
+      },
+      "artists": [
+        {
+          "name": "Samuel L Session",
+          "url": "https://open.spotify.com/artist/3FF5vlXWcGrA5SMLiibKpk"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290163,
+      "name": "South American Dubs, Pt. 1",
+      "url": "https://open.spotify.com/track/1BdbtSh1ezET8Bi5uFNGtD"
+    },
+    {
+      "album": {
         "name": "SPANK!",
         "url": "https://open.spotify.com/album/7BQX5UxtrY59OEj3TVqDpg"
       },
@@ -2970,7 +3204,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 163263,
       "name": "SPANK!",
       "url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu"
@@ -3042,7 +3276,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 141253,
       "name": "STOMP EM OUT",
       "url": "https://open.spotify.com/track/7kn2TMiBCYpiIDxqXyhhi4"
@@ -3137,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Fake This",
+        "url": "https://open.spotify.com/album/2rYKfhaavEOzLFWP1QEgZY"
+      },
+      "artists": [
+        {
+          "name": "Avision",
+          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487813,
+      "name": "Sunray",
+      "url": "https://open.spotify.com/track/2BLX3uUutGuRFqmyY5G0NB"
+    },
+    {
+      "album": {
         "name": "Sunshine (Remixes)",
         "url": "https://open.spotify.com/album/31w4LVOMzjE8JkzMb5jQDE"
       },
@@ -3192,6 +3444,28 @@
       "duration_ms": 320866,
       "name": "Telekinesis",
       "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
+    },
+    {
+      "album": {
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/3ry7awXnG0xg2k8mOF9zzN"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        },
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387692,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/7pEHOr8CglIn8xOjhrObkE"
     },
     {
       "album": {
@@ -3282,7 +3556,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 348720,
       "name": "The Human Bond",
       "url": "https://open.spotify.com/track/6TiVZE8Fgcdfiv8r091Lvd"
@@ -3383,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "Damnatio Memoriae",
+        "url": "https://open.spotify.com/album/5vgKAEl5jtJzC0QAeTYtIy"
+      },
+      "artists": [
+        {
+          "name": "George Lanham",
+          "url": "https://open.spotify.com/artist/46RYaPEcqRYy8GuQpBetk8"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360240,
+      "name": "The Topsham Ten - Mark Broom Remix",
+      "url": "https://open.spotify.com/track/1MtGnh3ypA4eEhgNsA1lCc"
+    },
+    {
+      "album": {
         "name": "The Way You Feel",
         "url": "https://open.spotify.com/album/0yMG95rlI663WB711bBZqW"
       },
@@ -3464,7 +3756,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 280600,
       "name": "Time to Change",
       "url": "https://open.spotify.com/track/1iUjlRzvpSc7pMv9AQOJb3"
@@ -3508,7 +3800,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 323650,
       "name": "Total Pleasure",
       "url": "https://open.spotify.com/track/70zP9z7PcMgcAINzqKE0qb"
@@ -3548,7 +3840,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 262734,
       "name": "TRISHA",
       "url": "https://open.spotify.com/track/3eKCphLVlWBovVgh7veu2l"
@@ -3602,7 +3894,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 291426,
       "name": "Under Control",
       "url": "https://open.spotify.com/track/1ElV5Jkfe2ZkmbJ2r1nO7Q"
@@ -3719,6 +4011,32 @@
     },
     {
       "album": {
+        "name": "We Trawl The Hurts",
+        "url": "https://open.spotify.com/album/4kD36Hey5pnQe9dmuVUHpq"
+      },
+      "artists": [
+        {
+          "name": "Man Power",
+          "url": "https://open.spotify.com/artist/13k6pNRPmiKWrRQtg1xlf3"
+        },
+        {
+          "name": "Louisahhh",
+          "url": "https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW"
+        },
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "We Trawl The Hurts - Deetron Remix",
+      "url": "https://open.spotify.com/track/6ejZrtGAoanybJ498cNtsS"
+    },
+    {
+      "album": {
         "name": "What U Doing",
         "url": "https://open.spotify.com/album/4bWkSEUT1kZdfxQO1fJBWM"
       },
@@ -3816,6 +4134,28 @@
       "duration_ms": 304887,
       "name": "Without You",
       "url": "https://open.spotify.com/track/7hi2yKmfUcLHd3ZXxETRnY"
+    },
+    {
+      "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208818,
+      "name": "World Of Deep",
+      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
     },
     {
       "album": {

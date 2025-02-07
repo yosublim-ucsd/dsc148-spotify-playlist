@@ -2,9 +2,9 @@
 
 ### [i <3 pop](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=leu2xbOLRkCnv1LhAcPrNg">Jeremy Loops</a>
+> The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri?si=VIoDkiHhRmGms0mxHnNbgw">Mars Baby</a>
 
-258 songs - 13 hr 17 min
+263 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Love Again](https://open.spotify.com/track/4BXqE1uq1flkyYuKelC3Nd) | [Tyler SA](https://open.spotify.com/artist/0pLUgqtnFq4YiCav8LzPuy) | [Love Again](https://open.spotify.com/album/4kyzclmi2N1ng3WjSCvNlp) | 2:54 | 2024-11-28 | 2025-01-24 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-06-27 | 2024-07-12 |
 | [Loveblood](https://open.spotify.com/track/4qjKjPZfxf4Q92aZOCcMRh) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [Loveblood](https://open.spotify.com/album/5rf7gkVuKOBk052oJKoF9p) | 3:49 | 2024-11-15 | 2025-01-24 |
+| [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2025-02-06 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 |  |
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2024-06-27 | 2024-07-12 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-12-05 |  |
@@ -204,7 +205,10 @@
 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-07-11 | 2024-11-08 |
 | [Slow like honey](https://open.spotify.com/track/13yLVxy7sBepTm0jqZjxO5) | [Arno](https://open.spotify.com/artist/3c71mKaBMfyaygDCHekQsl) | [Slow like honey](https://open.spotify.com/album/4SnaKo9HDIv4t3XyPK9zls) | 2:39 | 2024-11-21 |  |
 | [smile!](https://open.spotify.com/track/4Kj6k4UL9ZONI4N3kVOueV) | [Cosmic Way](https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1) | [smile!](https://open.spotify.com/album/2by1UAXBBav2CnDB0L7dQt) | 2:41 | 2024-08-15 | 2024-09-07 |
+| [SOMEBODY](https://open.spotify.com/track/5he6ljlzMhvh5MFfulFy7D) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [SOMEBODY](https://open.spotify.com/album/4iKuvdY3iTdf7pdpYCvAuC) | 2:54 | 2025-02-06 |  |
 | [Someone I Don't Know](https://open.spotify.com/track/0Qwge4aLLfVN32oVA4sVhD) | [Connor Austin](https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j) | [Someone I Don't Know](https://open.spotify.com/album/02BG7BjzYAN6Q8gB0rrt7H) | 2:47 | 2024-07-25 | 2024-08-24 |
+| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2025-02-06 |  |
+| [Spirited Boy](https://open.spotify.com/track/6t1bhrMaQ6lRNNUWJEjP8Y) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Spirited Boy](https://open.spotify.com/album/4rhBdIyqWqXCpzKpq5y0oo) | 3:42 | 2025-02-06 |  |
 | [Spotlight](https://open.spotify.com/track/4GnCkUqZxnTmCAnO5X5cZU) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Spotlight](https://open.spotify.com/album/1eQpBjbHfLEX4gsLOsbd2R) | 3:28 | 2024-10-18 | 2024-11-22 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-11 | 2024-11-22 |
 | [Stay](https://open.spotify.com/track/4HYHtmNSYYRslP6FKiKsFJ) | [MAEZTRO](https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Stay](https://open.spotify.com/album/22uHDP1dLfvNi73JQ0n8IX) | 2:47 | 2024-08-23 | 2024-11-08 |
@@ -260,6 +264,7 @@
 | [Wolves](https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Feathers And Stone](https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T) | 3:02 | 2025-01-30 |  |
 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 | 2024-11-07 | 2024-11-16 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-08-03 |
+| [Work It Out](https://open.spotify.com/track/2N7FFLLDXZup2T6f7V7X6a) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Work It Out](https://open.spotify.com/album/5BnPWKiyjmHrEfgr0t2ryg) | 2:50 | 2025-02-06 |  |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-12-05 | 2025-01-31 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-06-27 | 2024-07-12 |
 | [You Don’t Know Me](https://open.spotify.com/track/2hRIkSVcG4ORSKtxL5jnmo) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx) | [You Don’t Know Me](https://open.spotify.com/album/1umPw2JtACEyyQpvdYPZCH) | 2:14 | 2024-07-11 | 2024-07-19 |

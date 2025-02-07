@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PRETZELLE
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Billkin
 
-639 songs - 1 day 13 hr 51 min
+642 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Passcode \(รู้แค่คนเดียว\)](https://open.spotify.com/track/2KQTYwgjTEhPaxnAJo46Ta) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Passcode \(รู้แค่คนเดียว\)](https://open.spotify.com/album/6YwX8dz0KsfIpbdkpVmpZU) | 3:26 | 2023-05-26 | 2023-06-16 |
 | [Peek](https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2) | [SEENAPAT](https://open.spotify.com/artist/2dWLIzrLWSNliiLVEGNMk3) | [Peek](https://open.spotify.com/album/0UDyCbzsLPCP6AvT3TMMuO) | 2:43 | 2022-06-16 | 2022-06-24 |
 | [Perfect Match](https://open.spotify.com/track/0Ez4aGnrx0EkzhQQyME28j) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [Perfect Match](https://open.spotify.com/album/69i4434OUT1KjTcF0O86la) | 3:04 | 2024-01-18 | 2024-02-01 |
-| [Perfect Match](https://open.spotify.com/track/391UjBMVykpwcmY3v4aG3C) | [DMD Gen4](https://open.spotify.com/artist/008VCU6yhQyLNN3pEBvbne) | [Perfect Match](https://open.spotify.com/album/5GokkJiHhg9QOdguBcyBnj) | 2:48 | 2025-01-23 |  |
+| [Perfect Match](https://open.spotify.com/track/391UjBMVykpwcmY3v4aG3C) | [DMD Gen4](https://open.spotify.com/artist/008VCU6yhQyLNN3pEBvbne) | [Perfect Match](https://open.spotify.com/album/5GokkJiHhg9QOdguBcyBnj) | 2:48 | 2025-01-23 | 2025-02-07 |
 | [Pick A Card](https://open.spotify.com/track/4V2UBqg9gve2nRewvtDoP8) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [MOON](https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah) | 3:05 | 2024-12-18 |  |
 | [Pom Pom](https://open.spotify.com/track/6TMKYVnwMJDHDnkyFm2OgL) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Pom Pom](https://open.spotify.com/album/1GOElDaXMy5zfUGpmtDfGo) | 2:56 | 2023-01-26 | 2023-02-03 |
 | [Princess](https://open.spotify.com/track/47y7TZ7oibsGveg1ycSdvk) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [Princess](https://open.spotify.com/album/5hzeaOZ64k7FJQNXEaFxRe) | 4:01 | 2022-11-11 | 2022-11-18 |
@@ -160,7 +160,7 @@
 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 | 2024-10-31 |  |
 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2022-11-23 | 2023-02-11 |
 | [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2023-09-25 | 2024-09-13 |
-| [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 | 2024-10-31 |  |
+| [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 | 2024-10-31 | 2025-02-07 |
 | [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-09-29 | 2024-11-26 |
 | [TRAP U](https://open.spotify.com/track/5kHdaxW4aC2iTu6rhz7ocV) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [TRAP U](https://open.spotify.com/album/4I17f75qSQFip4K3R8s9dg) | 4:24 | 2024-08-29 | 2024-11-01 |
 | [TRY](https://open.spotify.com/track/7BKE7q7IPJMrWke7zo2ISS) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [TRY](https://open.spotify.com/album/2bv4P5pVQ83fpcjCcHCvwa) | 3:32 | 2024-04-04 | 2024-04-19 |
@@ -300,6 +300,7 @@
 | [ตอนนี้เลย \(Hurry Sickness\)](https://open.spotify.com/track/3UpJy2R1dtJXx6ESsQCG34) | [HatoBito](https://open.spotify.com/artist/7faqmODO7NSZSqbOA13nWa) | [ตอนนี้เลย \(Hurry Sickness\)](https://open.spotify.com/album/1pbWJ8pYHN41tc2DxQUuNS) | 3:07 | 2022-06-23 | 2022-07-02 |
 | [ตะเกียงวิเศษ \(One Wish\)](https://open.spotify.com/track/5MHTuKhXrorETiHPktRrBv) | [Minnie](https://open.spotify.com/artist/2x6enUQFXMXHGIg6NHkL0T), [Ai ATK](https://open.spotify.com/artist/44npKhVvoIKZBzZKOOgYHd) | [ตะเกียงวิเศษ \(One Wish\)](https://open.spotify.com/album/3PVNXYsNgkFeUklFOHDDem) | 3:50 | 2022-11-17 | 2022-12-02 |
 | [ตัวตึง \(No.1\) Feat.1Life](https://open.spotify.com/track/6nVi2WZlOE1XYhtYF4iAiQ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ตัวตึง \(No.1\) Feat.1Life](https://open.spotify.com/album/6qCGUEFcpi4tz6So90xDFy) | 3:08 | 2023-02-23 | 2023-03-03 |
+| [ตัวโดน](https://open.spotify.com/track/6PgrERReqbpJHFtOpSzdPj) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ตัวโดน](https://open.spotify.com/album/4gLGowAWp62z0BaSgC59Qf) | 3:47 | 2025-02-06 |  |
 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 | 2022-05-26 | 2022-11-12 |
 | [ตั้งใจรัก \(happy accident\)](https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ตั้งใจรัก \(happy accident\)](https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3) | 2:35 | 2022-05-26 | 2022-06-10 |
 | [ติดฝน](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-01-07 | 2024-10-04 |
@@ -396,6 +397,7 @@
 | [ยื้อเพื่อ? \(Be Honest\)](https://open.spotify.com/track/6zd7fxBsHqjV9PNw5aEs1Y) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:49 | 2023-04-12 | 2023-04-28 |
 | [ย้อนเวลา \(REDO\) \- เพลงประกอบซีรีส์ บทกวีของปีแสง Be My Favorite](https://open.spotify.com/track/6oV8h4mUCxbXKjvL6cN9lw) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l) | [เพลงประกอบซีรีส์ บทกวีของปีแสง Be My Favorite](https://open.spotify.com/album/5XeyvFYKyXA1b10qyc9GQJ) | 3:22 | 2023-06-15 | 2023-07-01 |
 | [ย้อนแย้ง \(From KinnPorsche The Series\)](https://open.spotify.com/track/7uACNnshGf5tGOj9i42irz) | [เอก Season Five](https://open.spotify.com/artist/1wM1e379Yyvtq6964zzL3G) | [ย้อนแย้ง \(From KinnPorsche The Series\)](https://open.spotify.com/album/5cF5AkUGaEfNA5LWWJ9KpY) | 3:47 | 2022-06-09 | 2022-06-24 |
+| [ย้อนไม่กลับ \(Too Late\)](https://open.spotify.com/track/7yuZulnFydCUU8IHIUipvd) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [Valencry](https://open.spotify.com/album/68cLIASGpdnXFiDPM45ykH) | 4:01 | 2025-02-06 |  |
 | [รอเก่ง \- Introvert](https://open.spotify.com/track/60lOiEJVxbn4Crv8344i1W) | [Aimzillow](https://open.spotify.com/artist/3nk2i4kSjG2qVzo0MHPSYj) | [รอเก่ง \(Introvert\)](https://open.spotify.com/album/4RQh8Pjm8rOFJKLR6awxEp) | 3:35 | 2022-07-01 | 2022-07-08 |
 | [ระวังเสียใจ \(Warning\)](https://open.spotify.com/track/2H5h25NuMFY39z7EOl28eP) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 2:54 | 2022-11-03 | 2023-02-16 |
 | [ระหว่างทาง \(Good Time\) \- เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 | 2022-09-23 | 2022-10-05 |
@@ -454,6 +456,7 @@
 | [สมัยนี้เค้าไม่แอบรัก\(Just Say You Love Me\) \- เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/track/2mBtzhDDwoGBKAsrGMYrev) | [Mook Worranit](https://open.spotify.com/artist/0WvnXNFhAbvUHTSYVXIudV) | [เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/album/0BX886v6YDSPtIbxRBTESe) | 3:11 | 2022-07-23 | 2022-07-29 |
 | [สลักจิต](https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv) | [Pop Pongkool](https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx), [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [สลักจิต \- Single](https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v) | 4:24 | 2022-07-14 | 2023-10-27 |
 | [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 | 2024-03-28 | 2024-06-21 |
+| [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 | 2025-02-06 |  |
 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/4CTgPJbgNQ031q8HzhTtq2) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/5fFOH4YGk6BS0yXc7SZWtI) | 3:08 | 2022-05-26 | 2022-07-29 |
 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/7Mcy886fsW8eUQzIwdLnVC) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/6doxtJV5kZ6Z5QBolgoCHi) | 3:08 | 2022-07-28 | 2022-09-29 |
 | [สายตาหลอกกันไม่ได้ \(Eyes Don’t Lie\)](https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/42UUZAtYzoWxysrGIPmF4Z) | 3:08 | 2022-09-23 | 2022-12-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Sonny Rave x Green Montana",
   "name": "R&Bae",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 154773,
       "name": "Abim\u00e9",
       "url": "https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ"
+    },
+    {
+      "album": {
+        "name": "Accro",
+        "url": "https://open.spotify.com/album/78MTZPkNAdevpLTUBaEsNe"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/08lHp3sHGLHjpBLpvnskqG"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144715,
+      "name": "Accro",
+      "url": "https://open.spotify.com/track/7Avaa6GKq0HUEjyDbhFMLE"
     },
     {
       "album": {
@@ -875,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Buggy",
+        "url": "https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184892,
+      "name": "Buggy",
+      "url": "https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY"
+    },
+    {
+      "album": {
         "name": "Bunker 09",
         "url": "https://open.spotify.com/album/12PLqI9BiLCPlLihhoEExV"
       },
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 160000,
       "name": "Commandante",
       "url": "https://open.spotify.com/track/6rYd1MzEmpmHquYaRLtFQ4"
@@ -1458,6 +1494,24 @@
       "duration_ms": 166000,
       "name": "COMME EUX",
       "url": "https://open.spotify.com/track/037SK54EClxv9eS01Frb4m"
+    },
+    {
+      "album": {
+        "name": "Comme moi",
+        "url": "https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148495,
+      "name": "Comme moi",
+      "url": "https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB"
     },
     {
       "album": {
@@ -3474,7 +3528,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 169000,
       "name": "J\u2019aimerais remonter le temps",
       "url": "https://open.spotify.com/track/6lGJxqSIk2aHDsaeZyUZPe"
@@ -4513,6 +4567,28 @@
     },
     {
       "album": {
+        "name": "MAYA JAMA",
+        "url": "https://open.spotify.com/album/13nHakFBkWdCFoHKS5th6V"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        },
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "MAYA JAMA",
+      "url": "https://open.spotify.com/track/7EKurcbXGq3vhsBAalwVWb"
+    },
+    {
+      "album": {
         "name": "Page blanche",
         "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
       },
@@ -5442,7 +5518,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 174186,
       "name": "Parler",
       "url": "https://open.spotify.com/track/2TfvaGmzl8Rxi9m9iQ7Ss9"
@@ -5514,7 +5590,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 133344,
       "name": "PAS LA BAS",
       "url": "https://open.spotify.com/track/6aes9nYQkopSJ96vw5nKhO"
@@ -7785,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "WIN WIN",
+        "url": "https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112039,
+      "name": "WIN WIN",
+      "url": "https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo"
+    },
+    {
+      "album": {
         "name": "Wine Slow",
         "url": "https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L"
       },
@@ -7894,7 +7988,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 134400,
       "name": "\u00c0 la Muerte ?",
       "url": "https://open.spotify.com/track/2lPN33TmTVtoJKbBC2tG1F"

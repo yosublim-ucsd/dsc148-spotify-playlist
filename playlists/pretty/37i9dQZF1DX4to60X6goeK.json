@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 68130,
+  "num_followers": 68154,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-01-31 00:00:24",
       "album": {
+        "name": "Told You (Soundboy)",
+        "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        }
+      ],
+      "duration_ms": 178971,
+      "name": "Told You (Soundboy)",
+      "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
+    },
+    {
+      "added_at": "2025-01-31 00:00:24",
+      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
       },
@@ -919,6 +935,22 @@
     {
       "added_at": "2025-01-31 00:00:24",
       "album": {
+        "name": "Relapse EP",
+        "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 268285,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
+    },
+    {
+      "added_at": "2025-01-31 00:00:24",
+      "album": {
         "name": "Rampage Anthem VIP",
         "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
       },
@@ -971,38 +1003,6 @@
       "duration_ms": 125567,
       "name": "Bass",
       "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
-    },
-    {
-      "added_at": "2025-01-31 00:00:24",
-      "album": {
-        "name": "Relapse EP",
-        "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 268285,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
-    },
-    {
-      "added_at": "2025-01-31 00:00:24",
-      "album": {
-        "name": "Told You (Soundboy)",
-        "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        }
-      ],
-      "duration_ms": 178971,
-      "name": "Told You (Soundboy)",
-      "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
     },
     {
       "added_at": "2025-01-31 00:00:24",

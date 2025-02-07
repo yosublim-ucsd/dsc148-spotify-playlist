@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Dr. Yaro",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Rema",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+    },
+    {
+      "album": {
         "name": "Baby Don't",
         "url": "https://open.spotify.com/album/6XWQIMu1aMtt2dV4Eh9XwH"
       },
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
@@ -7001,6 +7019,24 @@
     },
     {
       "album": {
+        "name": "Joggo",
+        "url": "https://open.spotify.com/album/3aHKB7ZOSuBfFT9RXszUh4"
+      },
+      "artists": [
+        {
+          "name": "LIMO",
+          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125149,
+      "name": "Joggo",
+      "url": "https://open.spotify.com/track/3gextgNvDkHs14UqZCL5TR"
+    },
+    {
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -11300,7 +11336,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 217069,
       "name": "PrAy",
       "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
@@ -13155,6 +13191,28 @@
     },
     {
       "album": {
+        "name": "Tchoutchou (feat. Naza)",
+        "url": "https://open.spotify.com/album/4Ok4R1NSMZ2KvomrwjDGd0"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169397,
+      "name": "Tchoutchou (feat. Naza)",
+      "url": "https://open.spotify.com/track/2rU1FOnkqEGgYzEJs7H7q3"
+    },
+    {
+      "album": {
         "name": "Tek Tek (feat. MHD)",
         "url": "https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85"
       },
@@ -13360,7 +13418,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 200000,
       "name": "TI TI TI",
       "url": "https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu"

@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-296 songs - 1 day 1 hr 34 min
+297 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Sauna Island](https://open.spotify.com/track/1f4elItJX2wwG1AmeVzV3O) | [Sir Garrison](https://open.spotify.com/artist/4K0TqCmpLxGqyg42qXaoGj), [Sami Leponiemi](https://open.spotify.com/artist/5B0mj0AddmNVtt03xhfNJa), [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc), [Okko Saastamoinen](https://open.spotify.com/artist/3QSSa0viaOyPtJqIby1wMz) | [Let's Call This](https://open.spotify.com/album/48O5U5LlrkYPYXSh5W0MOe) | 4:28 | 2022-09-02 | 2024-01-06 |
 | [Save This One for When You Need It](https://open.spotify.com/track/0U8dPLAIsUIWK5Aty2jByw) | [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Monkey Mind](https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO) | 5:08 | 2023-11-02 |  |
 | [Sax Guy](https://open.spotify.com/track/4LX6JMEbcpxRdU5vLZoQWf) | [JAF Trio](https://open.spotify.com/artist/4jFFUMZ8s8EWxbK4XVjVVD) | [Sax Guy](https://open.spotify.com/album/7hexYWXoVzTPxqZqF2AU29) | 3:51 | 2024-04-05 | 2024-07-06 |
+| [Sea Of Floating Dreams](https://open.spotify.com/track/2JbNdFZBiaYIJm8NBONLs6) | [Pauliina Kajanne](https://open.spotify.com/artist/1WUAGRStnNIwfD7W4aIKh8) | [Questionnaire Called Life](https://open.spotify.com/album/7lcQJUbphnkXjo7CuLadw4) | 6:04 | 2025-02-06 |  |
 | [Seesaw](https://open.spotify.com/track/3fOvRlR3w7WK2rWfzT8uSy) | [Laurell & Sun Dog](https://open.spotify.com/artist/5FxliWBKK2HlKBxOwfU79s) | [Seesaw](https://open.spotify.com/album/10K5cJcihJVtaD4NRCPCdC) | 3:37 | 2023-10-05 | 2023-10-27 |
 | [Sgr A\*](https://open.spotify.com/track/3QLXh5l26khTqOJC8VdzVZ) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/7nYDVrrDqIis4MuedOyFBZ) | 5:49 | 2023-10-13 | 2024-01-06 |
 | [Sgr A\*](https://open.spotify.com/track/5v0y5dl1jFmnLLjLsbRVlE) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/6STx4DRg71CIIy5w8mEiMC) | 5:49 | 2022-09-02 | 2023-10-19 |

@@ -4,7 +4,7 @@
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-53 songs - 2 hr 46 min
+54 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [If We Make It Through December](https://open.spotify.com/track/21Zz628YJ9Si5AJMfX7Glm) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [If We Make It Through December](https://open.spotify.com/album/6ubCw6rKArBfBKK2wuHCqa) | 3:26 | 2024-10-17 |  |
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/0LIkmGyT1ztCTyB8cjpSxp) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/16tTE4MqPmzFC9Xe7GxdTN) | 1:51 | 2024-10-17 |  |
 | [It's Christmas Once Again](https://open.spotify.com/track/3i3tBI9VHoQTU7SpTCvIKa) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [It's Christmas Once Again](https://open.spotify.com/album/3sBWTdjo4daMRXYjFGll31) | 3:00 | 2024-10-17 |  |
-| [It's the Holiday Season](https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [It's the Holiday Season](https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC) | 2:46 | 2024-10-17 |  |
+| [It's the Holiday Season](https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [It's the Holiday Season](https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC) | 2:46 | 2024-10-17 | 2025-02-07 |
 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 | 2024-10-17 |  |
 | [Jingle Bells](https://open.spotify.com/track/2KRxlv5HnqTjgwdCPTvHMf) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Jingle Bells](https://open.spotify.com/album/54ISUMSRupf0N5HNTrJDsk) | 3:10 | 2024-10-17 |  |
 | [Last Christmas](https://open.spotify.com/track/6bTev95WovVYs0JbQ8I6Vi) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol.2](https://open.spotify.com/album/70IoCLSMLnzQ5gaeABJ1qB) | 3:21 | 2024-10-17 |  |
@@ -60,6 +60,7 @@
 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 | 2024-10-17 |  |
 | [We Three Kings](https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [We Three Kings](https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc) | 2:41 | 2024-10-17 |  |
 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 | 2024-10-17 |  |
+| [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 | 2024-12-20 |  |
 | [You Make It Feel Like Christmas](https://open.spotify.com/track/45xw5Qmu7RS3EP8yDAT3Cn) | [Katerina Robbins](https://open.spotify.com/artist/0bKSKcre6jkpyXLYh44yxr) | [You Make It Feel Like Christmas](https://open.spotify.com/album/0umAlXdTuRknPUXZLchRN2) | 3:15 | 2024-10-17 |  |
 
 \*This playlist was first scraped on 2024-10-26. Prior content cannot be recovered.

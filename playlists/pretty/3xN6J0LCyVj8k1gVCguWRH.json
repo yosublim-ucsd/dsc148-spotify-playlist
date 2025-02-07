@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Obama&#x27;s Favorite Music of 2024.",
-  "num_followers": 131788,
+  "num_followers": 131782,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAtNJB0upqai2WYcakA00v28yOHmC7o",
+  "snapshot_id": "AAAtPSw+qN9Rm1R2kbBTgB1fDWN5o7gV",
   "tracks": [
     {
       "added_at": "2024-12-21 00:28:10",
@@ -1241,6 +1241,70 @@
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
     },
     {
+      "added_at": "2025-01-24 14:36:19",
+      "album": {
+        "name": "'bout time",
+        "url": "https://open.spotify.com/album/2GBFfrc1DA0gwL0hSIQ4BP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "'bout time",
+      "url": "https://open.spotify.com/track/0HzPHOXGLBp10XbIZMwBQs"
+    },
+    {
+      "added_at": "2025-01-22 14:45:26",
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/7t1Uc4xSV1lg4RWlRnmqDq"
+      },
+      "artists": [
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/2YcbriSYeDwnQcC7ltX7DT"
+    },
+    {
+      "added_at": "2025-01-28 23:27:21",
+      "album": {
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/6Vr6CdKIwoUJ1Kgrk6xbY7"
+      },
+      "artists": [
+        {
+          "name": "Calabasas",
+          "url": "https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ"
+        }
+      ],
+      "duration_ms": 173990,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/6I7rpQAaymiIZFnIpTOOhH"
+    },
+    {
+      "added_at": "2025-01-29 15:19:22",
+      "album": {
+        "name": "DROWNING IN MY ROOM",
+        "url": "https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 149645,
+      "name": "DROWNING IN MY ROOM",
+      "url": "https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0"
+    },
+    {
       "added_at": "2025-02-04 13:57:41",
       "album": {
         "name": "Falling (Into You)",
@@ -1293,22 +1357,6 @@
       "url": "https://open.spotify.com/track/32YvRwlZLQcXQ0BCrcu9xI"
     },
     {
-      "added_at": "2025-01-29 15:19:22",
-      "album": {
-        "name": "DROWNING IN MY ROOM",
-        "url": "https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR"
-      },
-      "artists": [
-        {
-          "name": "JVLY",
-          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
-        }
-      ],
-      "duration_ms": 149645,
-      "name": "DROWNING IN MY ROOM",
-      "url": "https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0"
-    },
-    {
       "added_at": "2025-01-25 17:25:22",
       "album": {
         "name": "You & I",
@@ -1329,54 +1377,6 @@
       "url": "https://open.spotify.com/track/5ir2F02MMme6aU4fiescEd"
     },
     {
-      "added_at": "2025-01-24 14:36:19",
-      "album": {
-        "name": "'bout time",
-        "url": "https://open.spotify.com/album/2GBFfrc1DA0gwL0hSIQ4BP"
-      },
-      "artists": [
-        {
-          "name": "Earl Hondo",
-          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "'bout time",
-      "url": "https://open.spotify.com/track/0HzPHOXGLBp10XbIZMwBQs"
-    },
-    {
-      "added_at": "2025-01-22 14:45:26",
-      "album": {
-        "name": "Tide",
-        "url": "https://open.spotify.com/album/7t1Uc4xSV1lg4RWlRnmqDq"
-      },
-      "artists": [
-        {
-          "name": "daste.",
-          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Tide",
-      "url": "https://open.spotify.com/track/2YcbriSYeDwnQcC7ltX7DT"
-    },
-    {
-      "added_at": "2025-01-28 23:27:21",
-      "album": {
-        "name": "Those Were The Days",
-        "url": "https://open.spotify.com/album/6Vr6CdKIwoUJ1Kgrk6xbY7"
-      },
-      "artists": [
-        {
-          "name": "Calabasas",
-          "url": "https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ"
-        }
-      ],
-      "duration_ms": 173990,
-      "name": "Those Were The Days",
-      "url": "https://open.spotify.com/track/6I7rpQAaymiIZFnIpTOOhH"
-    },
-    {
       "added_at": "2025-02-05 13:31:23",
       "album": {
         "name": "Amor de S\u00e1banas",
@@ -1395,6 +1395,70 @@
       "duration_ms": 157126,
       "name": "Amor de S\u00e1banas",
       "url": "https://open.spotify.com/track/5xTWrGQC9k7rzOGIP5ODab"
+    },
+    {
+      "added_at": "2025-02-06 06:02:42",
+      "album": {
+        "name": "Sugar Rush",
+        "url": "https://open.spotify.com/album/0oHSlmXvnRdz6llLyDIShj"
+      },
+      "artists": [
+        {
+          "name": "Honezty",
+          "url": "https://open.spotify.com/artist/4GJEgiGuXq4NaZOKKPXv5T"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/4a5zjlrFccOGX4BQB8QkYN"
+    },
+    {
+      "added_at": "2025-02-06 06:03:07",
+      "album": {
+        "name": "TODAY",
+        "url": "https://open.spotify.com/album/6FIoMz2pFsS81AhBfMpcpa"
+      },
+      "artists": [
+        {
+          "name": "Prexy Sam Ola",
+          "url": "https://open.spotify.com/artist/5iRkivmqchrmNzDst3gS3l"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "It Shall Be Well",
+      "url": "https://open.spotify.com/track/5zti4kP3wd6A2f34oB4sLG"
+    },
+    {
+      "added_at": "2025-02-06 06:03:24",
+      "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/5elT6rdNKhsu6iq0iQr7wt"
+      },
+      "artists": [
+        {
+          "name": "Sofia Blond",
+          "url": "https://open.spotify.com/artist/58pZRHrh6NWG0jH0PGtWBB"
+        }
+      ],
+      "duration_ms": 199957,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/2Fqe9wsIGCQKCvcNKC1889"
+    },
+    {
+      "added_at": "2025-02-06 06:02:27",
+      "album": {
+        "name": "NUNYA",
+        "url": "https://open.spotify.com/album/3jfkVAPpCRJCabF54k9PtG"
+      },
+      "artists": [
+        {
+          "name": "Aric B.",
+          "url": "https://open.spotify.com/artist/6Pb8sCy9rs2APFWm8tMRJl"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "NUNYA",
+      "url": "https://open.spotify.com/track/3JyoIH3uTNlYluRhsUGZvP"
     },
     {
       "added_at": "2025-02-05 12:03:39",
@@ -2429,62 +2493,6 @@
       "url": "https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn"
     },
     {
-      "added_at": "2025-01-26 23:09:38",
-      "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/1rOuHzHF7mhFKA5H5UtAlI"
-      },
-      "artists": [
-        {
-          "name": "Doble Xx",
-          "url": "https://open.spotify.com/artist/5GhCBaGHtfS7fnpkM0fzj3"
-        },
-        {
-          "name": "Bebo",
-          "url": "https://open.spotify.com/artist/2RZJw37GvJoKmeDNlUmfDq"
-        },
-        {
-          "name": "Deluxx",
-          "url": "https://open.spotify.com/artist/6dgkLkqmuaQlrArIuRHwxq"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "A Tiempo",
-      "url": "https://open.spotify.com/track/0yxkICdZGmhEXvMO9rrnmO"
-    },
-    {
-      "added_at": "2025-01-26 23:10:46",
-      "album": {
-        "name": "Camino Flex",
-        "url": "https://open.spotify.com/album/75ep8U7YgpV2NG7zuf8CMM"
-      },
-      "artists": [
-        {
-          "name": "Jonny Jonny Boy",
-          "url": "https://open.spotify.com/artist/0TDVnfS6wFphljMwKWd6ui"
-        }
-      ],
-      "duration_ms": 150911,
-      "name": "Camino Flex",
-      "url": "https://open.spotify.com/track/3gIhIUYQYePwS0YcMjgOBh"
-    },
-    {
-      "added_at": "2025-01-26 23:11:15",
-      "album": {
-        "name": "Xchel",
-        "url": "https://open.spotify.com/album/788iivoYT7Y2BDHyB3GiR4"
-      },
-      "artists": [
-        {
-          "name": "Manon Mullener",
-          "url": "https://open.spotify.com/artist/7ir5761dcvKURbEWypEKGH"
-        }
-      ],
-      "duration_ms": 329189,
-      "name": "Xchel",
-      "url": "https://open.spotify.com/track/4HYyIst3xHBTWdqfmGEKrk"
-    },
-    {
       "added_at": "2025-01-28 23:13:04",
       "album": {
         "name": "Light of a Home / Tastes Like June",
@@ -2767,26 +2775,6 @@
       "duration_ms": 192374,
       "name": "Im Pissed",
       "url": "https://open.spotify.com/track/2S9YhQT75DQ6zhe29U4BGH"
-    },
-    {
-      "added_at": "2025-01-26 23:09:34",
-      "album": {
-        "name": "Dominique",
-        "url": "https://open.spotify.com/album/6aYGYWRw9hs8GcThLQiNsv"
-      },
-      "artists": [
-        {
-          "name": "Manon Mullener",
-          "url": "https://open.spotify.com/artist/7ir5761dcvKURbEWypEKGH"
-        },
-        {
-          "name": "Lau Noah",
-          "url": "https://open.spotify.com/artist/42XHWcm6PBEAgK6JvMqGlH"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Dominique",
-      "url": "https://open.spotify.com/track/0X2KKhG5V6vL0rCNbQD5sT"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

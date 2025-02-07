@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-563 songs - 1 day 15 hr 54 min
+565 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [你存在](https://open.spotify.com/track/4o34abHrsUXOpw64ImhfjK) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [你存在](https://open.spotify.com/album/0SwyQIU4AGERP46HUUgSB0) | 4:51 | 2022-06-06 | 2022-07-29 |
 | [你就不要想起我](https://open.spotify.com/track/6AQNQq12X7SkN2VEdYhruE) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 4:40 | 2022-06-20 |  |
 | [你懂我說的嗎](https://open.spotify.com/track/2nQL1tJSOqx8mfVNJXuVNk) | [呂薔Amuyi](https://open.spotify.com/artist/2HYZy1ndUbE1sJw9zfOaEB) | [Dear Myself](https://open.spotify.com/album/5vtzx3WkGesmshvpPdJ5oC) | 5:43 | 2022-06-06 | 2022-07-22 |
+| [你是我在心中重要的那個人](https://open.spotify.com/track/0wMKfEWtVJUQMWmYlrUFGs) | [仙杜貝拉 Bella](https://open.spotify.com/artist/3fxnJU0wOgkHIHTpPdgpcd) | [你是我在心中重要的那個人](https://open.spotify.com/album/46ZeHn5S8RBBUpGLWyKMuc) | 3:47 | 2025-02-06 |  |
 | [你是我的歌 \- 《不二兄弟》電影主題曲](https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [你是我的歌 \(《不二兄弟》電影主題曲\)](https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW) | 3:37 | 2023-02-21 | 2025-02-05 |
 | [你沒懂](https://open.spotify.com/track/4dEwqpTR7vo9xWXVG4iXgZ) | [何美 Homei](https://open.spotify.com/artist/5QixSnzERRtf6ZQOFrtazj) | [你沒懂](https://open.spotify.com/album/4FaM3VgKq39yus9zkprsd8) | 4:21 | 2024-05-16 | 2024-05-24 |
 | [你留下的愛](https://open.spotify.com/track/0uigwJnb3tLUBcO2Xhzipa) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Bii WITH YOU](https://open.spotify.com/album/5EFyCMyWnQFRvlwek5z2il) | 4:13 | 2024-12-05 | 2025-01-07 |
@@ -271,9 +272,9 @@
 | [心之火 \(原創版\)](https://open.spotify.com/track/2TWvBeoEiBMw0STfZdrIF6) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [心之火 \(原創版\)](https://open.spotify.com/album/0jjL2N3spQfj5FSSLgDMfb) | 4:36 | 2024-06-20 | 2024-06-28 |
 | [心愿](https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [心愿](https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ) | 4:20 | 2022-11-07 | 2023-05-11 |
 | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/track/5vK9eZXr6rPzGMam2gM3Rb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/album/74q1Dvfb9naAGqNXwIhbTC) | 3:25 | 2023-05-01 | 2023-05-09 |
-| [忘了他](https://open.spotify.com/track/0ls4k8atwyeGfXlt55l695) | [叶斯淳](https://open.spotify.com/artist/6AII7OO4YGlwmITkksV996), [葉斯淳](https://open.spotify.com/artist/6dvG7fKwmGRBF7eJuuQz7I) | [忘了他](https://open.spotify.com/album/7tz6HEX73Oc02XOKUL6m4q) | 3:44 | 2025-01-30 |  |
+| [忘了他](https://open.spotify.com/track/0ls4k8atwyeGfXlt55l695) | [叶斯淳](https://open.spotify.com/artist/6AII7OO4YGlwmITkksV996), [葉斯淳](https://open.spotify.com/artist/6dvG7fKwmGRBF7eJuuQz7I) | [忘了他](https://open.spotify.com/album/7tz6HEX73Oc02XOKUL6m4q) | 3:44 | 2025-01-30 | 2025-02-07 |
 | [忠孝東路走九遍](https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [忠孝東路走九遍](https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw) | 4:52 | 2024-04-15 |  |
-| [念念](https://open.spotify.com/track/43KDviRyWeraTNrRkLIQ1e) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [念念](https://open.spotify.com/album/41TaF9lSOjxazsYBxxH74f) | 4:39 | 2025-01-30 |  |
+| [念念](https://open.spotify.com/track/43KDviRyWeraTNrRkLIQ1e) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [念念](https://open.spotify.com/album/41TaF9lSOjxazsYBxxH74f) | 4:39 | 2025-01-30 | 2025-02-07 |
 | [念念不忘 \- 电影《念念相忘》主题曲](https://open.spotify.com/track/0HJi9bUARUsxztKT7iHjzo) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [念念不忘 \(电影《念念相忘》主题曲\)](https://open.spotify.com/album/1TSwpFghoNHeSOjfAagTEV) | 4:06 | 2023-03-06 | 2023-08-22 |
 | [怪咖](https://open.spotify.com/track/1v8RxIy8mbxGqBaWG2bMrW) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [怪咖](https://open.spotify.com/album/0wt7vfE7K0C6rymlxXHCvt) | 4:10 | 2023-10-08 | 2024-04-19 |
 | [恰似你的溫柔](https://open.spotify.com/track/1DyhxI0WNR6vlOkkR2qSnD) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/3vrYZg4mjuu9FbK5SnAFXY) | 5:17 | 2024-03-11 | 2024-04-19 |
@@ -472,6 +473,7 @@
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-06-06 | 2023-03-05 |
 | [至少我還有勇氣唱情歌（For You） \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/5MDx1h8tSj5XfybPkyxQt2) | [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [至少我還有勇氣唱情歌（For You） \(影集《華麗計程車行》插曲\)](https://open.spotify.com/album/3GnFJTv23Qn7iFJBHRdKQo) | 4:38 | 2024-04-15 | 2024-04-22 |
 | [致遠道而來的我們 \(feat.陳華\)](https://open.spotify.com/track/6o95XPlKyjtDEmSowKncrt) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [日與夜，跟自己說晚安](https://open.spotify.com/album/6eZ6GBoYL3HAezneabIq49) | 4:03 | 2024-03-04 | 2024-06-01 |
+| [舊街](https://open.spotify.com/track/71UomceDKDdt93Tjpmyp1T) | [Bae 林采欣](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [舊街](https://open.spotify.com/album/530cMYCcs3igjeV3rCPHIk) | 3:53 | 2025-02-06 |  |
 | [花季](https://open.spotify.com/track/4meqN8UgbPZsauQRBDMqtD) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW) | [花季](https://open.spotify.com/album/1LurLgBPoD45Myy5ml3vnn) | 4:11 | 2024-11-08 |  |
 | [若等候會擁有什麼](https://open.spotify.com/track/3K8GrBr6OtZGCwVjEM3Z1X) | [TAIYO](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [若等候會擁有什麼](https://open.spotify.com/album/05kzvkASmWJs9v4BXzOjH3) | 4:08 | 2024-12-20 | 2024-12-27 |
 | [落败](https://open.spotify.com/track/4PyJC5VVTqyME6pJW32ehg) | [乔佳旭](https://open.spotify.com/artist/78YOKa8PG5fj7WR3LHwLnz) | [落败](https://open.spotify.com/album/3Qyn7aaKI3kp9KSdydV48y) | 4:11 | 2024-09-12 | 2024-09-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Recycled J",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor, Hoke",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1512,6 +1512,28 @@
       "duration_ms": 168247,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/5kqdplL2D7oVTLL12AmDcM"
+    },
+    {
+      "album": {
+        "name": "BUDOKAI",
+        "url": "https://open.spotify.com/album/6Be4jH1iThoBIDRVu5ZJi9"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "BUDOKAI",
+      "url": "https://open.spotify.com/track/0oa2eX5BeSZU11F2qC5p1v"
     },
     {
       "album": {
@@ -3700,7 +3722,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 258221,
       "name": "ENVIDIA",
       "url": "https://open.spotify.com/track/5unQXRXfrQtEn9bxK5CN6G"
@@ -5544,7 +5566,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 129679,
       "name": "Llamadas",
       "url": "https://open.spotify.com/track/5BjCOq0a6yzE3wkqxXz4qD"
@@ -10121,6 +10143,24 @@
     },
     {
       "album": {
+        "name": "EUROSLiME \u2695\ufe0f",
+        "url": "https://open.spotify.com/album/4Hgfh0CONuC4jI4ZYkNNqt"
+      },
+      "artists": [
+        {
+          "name": "Gloosito",
+          "url": "https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156603,
+      "name": "U Know I Love The Slime",
+      "url": "https://open.spotify.com/track/41aBxZwiLW8qWHRkkqPR56"
+    },
+    {
+      "album": {
         "name": "Uh Baby",
         "url": "https://open.spotify.com/album/1Z7AEeBduo3sGklQoX6eOd"
       },
@@ -10202,7 +10242,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 198621,
       "name": "Vacas y Lobos",
       "url": "https://open.spotify.com/track/5wJBwxnoAs1BmxZivpFqup"
@@ -10320,6 +10360,28 @@
       "duration_ms": 187411,
       "name": "Verg\u00fcenza",
       "url": "https://open.spotify.com/track/0WvdUGtbek5nzlbnoR8YJT"
+    },
+    {
+      "album": {
+        "name": "Vete con Tus",
+        "url": "https://open.spotify.com/album/3MJjXvfIugT1qAfMg2vX5e"
+      },
+      "artists": [
+        {
+          "name": "Midas Alonso",
+          "url": "https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW"
+        },
+        {
+          "name": "Delson Aravena",
+          "url": "https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Vete con Tus",
+      "url": "https://open.spotify.com/track/0nQhKeg2kQQ8qVhhDhre6a"
     },
     {
       "album": {

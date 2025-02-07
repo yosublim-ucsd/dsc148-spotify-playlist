@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Vera Fauna.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -20,6 +20,92 @@
       "duration_ms": 190127,
       "name": "( ali despierta )",
       "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+    },
+    {
+      "album": {
+        "name": "No lo volver\u00e9 a hacer",
+        "url": "https://open.spotify.com/album/51unLLaXe9KFEEiQ8gI3Ip"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        },
+        {
+          "name": "agosto",
+          "url": "https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK"
+        },
+        {
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+        },
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        },
+        {
+          "name": "Clara Redi",
+          "url": "https://open.spotify.com/artist/1bMeI0cqgvxC0dey9dLZMi"
+        },
+        {
+          "name": "El Buen Hijo",
+          "url": "https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr"
+        },
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        },
+        {
+          "name": "Grande Amore",
+          "url": "https://open.spotify.com/artist/1FVM2KsOjbVwhAYApEhSzQ"
+        },
+        {
+          "name": "interrogaci\u00f3n amor",
+          "url": "https://open.spotify.com/artist/5Y4irfwurTJyeavbs0dPDZ"
+        },
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        },
+        {
+          "name": "Lucy Morry",
+          "url": "https://open.spotify.com/artist/2IPRuevPK8i0XGGQFlkrNg"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        },
+        {
+          "name": "Menta",
+          "url": "https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn"
+        },
+        {
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+        },
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        },
+        {
+          "name": "Toldos Verdes",
+          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "(es posible)",
+      "url": "https://open.spotify.com/track/4CtDnjoCgSHnxwTgutzRMt"
     },
     {
       "album": {
@@ -486,7 +572,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 209153,
       "name": "Bailar y Llorar",
       "url": "https://open.spotify.com/track/2r7dqaPDXf5agh2cqFfYjp"
@@ -2208,7 +2294,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 232157,
       "name": "Famara (feat. Depedro)",
       "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
@@ -2950,7 +3036,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 125500,
       "name": "la del karma",
       "url": "https://open.spotify.com/track/2YMhovCys5Zj2I3CsUPUBp"
@@ -3410,7 +3496,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 160296,
       "name": "Mabel",
       "url": "https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh"
@@ -3703,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "ZULOA",
+        "url": "https://open.spotify.com/album/3rBmtIJmfuxfwwsf8mnqkH"
+      },
+      "artists": [
+        {
+          "name": "Merina Gris",
+          "url": "https://open.spotify.com/artist/7MoqcWOPD6BEKF85fxvwuD"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Mejor*",
+      "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
+    },
+    {
+      "album": {
         "name": "MENTIRA",
         "url": "https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR"
       },
@@ -3750,7 +3854,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 154200,
       "name": "Mi atenci\u00f3n",
       "url": "https://open.spotify.com/track/4Nos61GiLFcfQ94fkprZnD"
@@ -4155,6 +4259,28 @@
     },
     {
       "album": {
+        "name": "No he dormido nada",
+        "url": "https://open.spotify.com/album/0i3GJIFHg49QpBKGJWb0jF"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        },
+        {
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192099,
+      "name": "No he dormido nada",
+      "url": "https://open.spotify.com/track/0FyW195SVM38S5Qe7x6VFk"
+    },
+    {
+      "album": {
         "name": "Las burbujas del caj\u00f3n",
         "url": "https://open.spotify.com/album/36dpLupe8eMdmdfjPvEcqM"
       },
@@ -4370,7 +4496,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 202997,
       "name": "Nothing is Real",
       "url": "https://open.spotify.com/track/6QHhVne4FZ3bxbFdi8ggLW"
@@ -4504,7 +4630,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 156551,
       "name": "OJOS",
       "url": "https://open.spotify.com/track/7IFSzI3yMiAgUaHFPQ4Kw6"
@@ -5006,7 +5132,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 186382,
       "name": "Reventarme",
       "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
@@ -5050,6 +5176,24 @@
       "duration_ms": 235200,
       "name": "Sal a pasear",
       "url": "https://open.spotify.com/track/4Gy2K1tivOt7hOMFmA9i6n"
+    },
+    {
+      "album": {
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/7GYXSqJpHJiRkGJhrc4eqN"
+      },
+      "artists": [
+        {
+          "name": "Vera Fauna",
+          "url": "https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172925,
+      "name": "Sale el sol",
+      "url": "https://open.spotify.com/track/3lC7zx8UpCwK1Ohoyez3JE"
     },
     {
       "album": {
@@ -5143,6 +5287,24 @@
     },
     {
       "album": {
+        "name": "SI QUIERES",
+        "url": "https://open.spotify.com/album/2RxxIyw1NhReLgHtZ354gG"
+      },
+      "artists": [
+        {
+          "name": "Los Vinagres",
+          "url": "https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169557,
+      "name": "SI QUIERES",
+      "url": "https://open.spotify.com/track/1tnamj7qFl2qru2NWCtd8I"
+    },
+    {
+      "album": {
         "name": "Si Tengo Suerte",
         "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
       },
@@ -5158,6 +5320,28 @@
       "duration_ms": 174545,
       "name": "Si Tengo Suerte",
       "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
+    },
+    {
+      "album": {
+        "name": "Si t\u00fa vuelves",
+        "url": "https://open.spotify.com/album/5a777hFkZ8DdyreRYdtKvU"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        },
+        {
+          "name": "Dellachaouen",
+          "url": "https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "Si t\u00fa vuelves",
+      "url": "https://open.spotify.com/track/2XCobKSIKF6S27TCmHnAzh"
     },
     {
       "album": {
@@ -5899,6 +6083,28 @@
     },
     {
       "album": {
+        "name": "VENDAVAL",
+        "url": "https://open.spotify.com/album/3UmC1efXALsL18k4KnLtcA"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        },
+        {
+          "name": "Toni Costa",
+          "url": "https://open.spotify.com/artist/23fWHhYOBr5PQVvuBrx5l3"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209605,
+      "name": "VENDAVAL",
+      "url": "https://open.spotify.com/track/5Qus7bpzmfchnnUfPBBgfu"
+    },
+    {
+      "album": {
         "name": "Vespa Verde Agua",
         "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
       },
@@ -6058,6 +6264,24 @@
       "duration_ms": 180893,
       "name": "Y SI SE ABREN LOS CIELOS",
       "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
+    },
+    {
+      "album": {
+        "name": "Ya No Soy Esa",
+        "url": "https://open.spotify.com/album/25x72pOYBTqHP0u4HUPqTK"
+      },
+      "artists": [
+        {
+          "name": "Ona Mafalda",
+          "url": "https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140281,
+      "name": "Ya No Soy Esa",
+      "url": "https://open.spotify.com/track/0WmbQs7J39KFReyNj8r1DB"
     },
     {
       "album": {

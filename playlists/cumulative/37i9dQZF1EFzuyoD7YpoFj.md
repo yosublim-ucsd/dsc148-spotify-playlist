@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-432 songs - 23 hr 6 min
+433 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Close Your Eyes](https://open.spotify.com/track/322FDTFqNHugJnfEaL2lb9) | [Young Love](https://open.spotify.com/artist/0EbhmxFgno89aNQUnamFNW) | [Too Young To Fight It](https://open.spotify.com/album/36XBifBZoPyhczlXOiFBbk) | 3:00 | 2024-07-24 |  |
 | [Cole Porter](https://open.spotify.com/track/6rQomjLa960nRFe1A8mRJp) | [Mike Wofford](https://open.spotify.com/artist/2v3b18j2dOeJth2eidRMnU) | [It's Personal](https://open.spotify.com/album/7hqLYP7AACdkYK7aJ1XzTH) | 4:14 | 2024-08-14 |  |
 | [Cole Porter: Stereophonic Sound \(From "Silk Stockings"\)](https://open.spotify.com/track/2ppMGyJrIc2RQigVQrUKsl) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [The John Wilson Orchestra](https://open.spotify.com/artist/4FSqA5w4tlXuaxoHHQVO0J), [John Wilson](https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh), [Anna Jane Casey](https://open.spotify.com/artist/6LA5IJz8XIjmWiDIzO5lHA), [Matthew Ford](https://open.spotify.com/artist/7dJKuO0pOVK3SjlNhWk4U2) | [Cole Porter in Hollywood](https://open.spotify.com/album/3urUcnykG9cWl5DTntOjS0) | 4:06 | 2024-07-24 |  |
+| [Come Along With Me](https://open.spotify.com/track/3l7oSOoUbW38CkgcCq4Iv3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Best Of The Del Vikings](https://open.spotify.com/album/5rD1gVh3RZ6PfZLlodeWG9) | 1:59 | 2025-02-06 |  |
 | [Come Along with Me](https://open.spotify.com/track/54eums2raBC1wvFDpyBXH3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Myth of The Del\-Vikings](https://open.spotify.com/album/3vCwyGlXIqFi5z80vUVZiV) | 1:59 | 2024-11-17 | 2024-12-13 |
-| [Come Along With Me](https://open.spotify.com/track/70TGI1NO3pzQEySOklYq8z) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Don't Be a Fool](https://open.spotify.com/album/7MNhe83MSX8fYC7346vERB) | 1:59 | 2024-12-19 |  |
+| [Come Along With Me](https://open.spotify.com/track/70TGI1NO3pzQEySOklYq8z) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Don't Be a Fool](https://open.spotify.com/album/7MNhe83MSX8fYC7346vERB) | 1:59 | 2024-12-19 | 2025-02-07 |
 | [Come Along With Me](https://open.spotify.com/track/1W9YPL472FoDgEnWJzcLiO) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 1:59 | 2024-07-24 | 2024-12-20 |
 | [Come On In \- Live At Cimarron Ballroom, 1961](https://open.spotify.com/track/4MuKRLvRM2KKKX1dzdqOgc) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Live At The Cimarron Ballroom](https://open.spotify.com/album/0TG2GEHyjM6E2JD2jQPfCV) | 1:38 | 2024-07-24 |  |
 | [Come To The Supermarket \(In Old Peking\)](https://open.spotify.com/track/2ow3kvWNcnOf3DrPppaCzL) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Barbra Streisand Album: Arranged and Conducted by Peter Matz](https://open.spotify.com/album/6lJaBPh4nMloLfWh2SQI6x) | 1:55 | 2024-07-24 |  |

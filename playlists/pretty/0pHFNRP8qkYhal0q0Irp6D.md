@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain]
 
 > You should be dancing, yeah\. \(This ain't your typical disco either...\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,195 likes - 53 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,196 likes - 53 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain]
 | 16 | [Dancin' Fool](https://open.spotify.com/track/6tCk1N85t6h4v1xXI6o0Ad) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Sheik Yerbouti](https://open.spotify.com/album/4hBKoHOpEvQ6g4CQFsEAdU) | 3:42 |
 | 17 | [I Was Made for Lovin' You](https://open.spotify.com/track/1scwOPRenO71iomcms70Fc) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Sonic Boom](https://open.spotify.com/album/06TUPSt0LmDoAm3jnE93Ww) | 4:40 |
 | 18 | [Da Ya Think I'm Sexy? \- 2008 Remaster](https://open.spotify.com/track/42GthmiW6mIvcyaJHdMk30) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:29 |
-| 19 | [\(Wish I Could Fly Like\) Superman](https://open.spotify.com/track/7cG4sB7JaTikTqO4gGvc4M) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Ultimate Collection](https://open.spotify.com/album/0OW9cVAZjWakByTLSGfrd2) | 5:58 |
+| 19 | [\(Wish I Could Fly Like\) Superman](https://open.spotify.com/track/7cG4sB7JaTikTqO4gGvc4M) | [The Kinks](https://open.spotify.com/artist/3zKkJx18LPzLA8nJrBCARy) | [The Ultimate Collection](https://open.spotify.com/album/0OW9cVAZjWakByTLSGfrd2) | 5:58 |
 | 20 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 | 21 | [Another Brick In The Wall \(Part 2\) \(feat\. Layne Staley, Tom Morello, Stephen Perkins, Martyn LeNoble & Matt Serletic\)](https://open.spotify.com/track/6x3MweSQv5X7EP7tjsd7yB) | [Class of '99](https://open.spotify.com/artist/07PGalKkXqvJQCXY9cbsAd), [Layne Staley](https://open.spotify.com/artist/4j1D2HVigkZ77JDPO2EPha), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Stephen Perkins](https://open.spotify.com/artist/4ikP3KN5qKAPbhyZOQUOFp), [Martyn Lenoble](https://open.spotify.com/artist/3oQJPYWhEdU50myll0iHXK), [Matt Serletic](https://open.spotify.com/artist/2WOP7CNGZkgB3qCoLml9QH) | [The Faculty \(Music From The Dimension Motion Picture\)](https://open.spotify.com/album/2ZaFYhgOvccj2dfHW2Boxv) | 4:18 |
 | 22 | [Miss You](https://open.spotify.com/track/19guNngQSHXAqoZ1iLFKZ0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Box Set \(1971\-2006\)](https://open.spotify.com/album/0jeb7d3wCAf4K9bi3DKHzd) | 3:35 |

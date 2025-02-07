@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG?si=SsP1g9olTnyhN64rI5xQPA\"> Drega</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi?si=d_vew40_TqSrIpLSZkf7Ww\">TRESOR</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -12647,6 +12647,28 @@
     },
     {
       "album": {
+        "name": "Let's Play House (ThinkFishTank Remix)",
+        "url": "https://open.spotify.com/album/07RCuUn8lZTVZVpKvLfKaj"
+      },
+      "artists": [
+        {
+          "name": "The Godfathers Of Deep House SA",
+          "url": "https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND"
+        },
+        {
+          "name": "ThinkFishTank",
+          "url": "https://open.spotify.com/artist/39LNSOUhq3Q470ZrQsfeXW"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Let's Play House - ThinkFishTank Remix",
+      "url": "https://open.spotify.com/track/6mqRhqPGOM1WYjdrknUJQf"
+    },
+    {
+      "album": {
         "name": "Be Still",
         "url": "https://open.spotify.com/album/6js3b9XKxPET1ymIxVMRhN"
       },
@@ -23930,6 +23952,28 @@
       "duration_ms": 447973,
       "name": "Wake Them Up - Siyo'bavusa",
       "url": "https://open.spotify.com/track/6qZJoaKhQA57rYLsZ7cA65"
+    },
+    {
+      "album": {
+        "name": "Wale Wale",
+        "url": "https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1"
+      },
+      "artists": [
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317884,
+      "name": "Wale Wale",
+      "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
     },
     {
       "album": {

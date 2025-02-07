@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 
 > Things just got a little more despicable\. Listen to the music from the Despicable Me and Minions movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,974 likes - 67 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,241 likes - 67 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 | 38 | [Universal Fanfare](https://open.spotify.com/track/1OrSkn4lXO1cD1NaR7v2IG) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Minions \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5AUaqhd50uf80bWumH9HFr) | 0:32 |
 | 39 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
 | 40 | [I'm A Man \- Live](https://open.spotify.com/track/4B13Ob24YgihQovCXcLz03) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Live Anthology 1965\-1968](https://open.spotify.com/album/0oSiR632PNUV0NMHsudclS) | 3:05 |
-| 41 | [You Really Got Me](https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:13 |
+| 41 | [You Really Got Me](https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S) | [The Kinks](https://open.spotify.com/artist/3zKkJx18LPzLA8nJrBCARy) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:13 |
 | 42 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 43 | [Mellow Yellow](https://open.spotify.com/track/4cix9zymmhisLuM56RDcB7) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Mellow Yellow](https://open.spotify.com/album/0J1VCLopDIqOyU2nxK0CZ9) | 3:47 |
 | 44 | [Revolution](https://open.spotify.com/track/0ndkzkEd6LHSndLmRsEziR) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Minions \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5AUaqhd50uf80bWumH9HFr) | 2:22 |

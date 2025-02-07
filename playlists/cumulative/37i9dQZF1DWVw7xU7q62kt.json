@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 186500,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y"
@@ -2699,6 +2699,28 @@
     },
     {
       "album": {
+        "name": "Going Along With It",
+        "url": "https://open.spotify.com/album/3S63qle6fwfLmeKjWLNTwl"
+      },
+      "artists": [
+        {
+          "name": "Sem0r",
+          "url": "https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR"
+        },
+        {
+          "name": "Loyae",
+          "url": "https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92690,
+      "name": "Going Along With It",
+      "url": "https://open.spotify.com/track/4KgJmpIxPEnwagCpEgAuYc"
+    },
+    {
+      "album": {
         "name": "Goldfoil",
         "url": "https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC"
       },
@@ -4162,7 +4184,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 203743,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/3YIxQvOdOYYts92afIZpzz"
@@ -6037,6 +6059,58 @@
     },
     {
       "album": {
+        "name": "Sleeping Norboo (Moods Remix)",
+        "url": "https://open.spotify.com/album/0UU34hknNlE4KRogR8aVda"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        },
+        {
+          "name": "ALEXANDER",
+          "url": "https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor"
+        },
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230758,
+      "name": "Sleeping Norboo - Moods Remix",
+      "url": "https://open.spotify.com/track/3Fgpy0rBMZNP4vvJM4ZYEs"
+    },
+    {
+      "album": {
+        "name": "Slide Along",
+        "url": "https://open.spotify.com/album/2bUqwKMiC9EMKtwYU8DOI2"
+      },
+      "artists": [
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        },
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+        }
+      ],
+      "date_added": "2025-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Slide Along",
+      "url": "https://open.spotify.com/track/0aV3DqM7ZUhtohHz4J7hut"
+    },
+    {
+      "album": {
         "name": "Slipping Slowly",
         "url": "https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4"
       },
@@ -6842,7 +6916,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 152937,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1"

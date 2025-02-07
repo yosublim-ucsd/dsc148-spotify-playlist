@@ -2,9 +2,9 @@
 
 ### [Locker Room ](https://open.spotify.com/playlist/37i9dQZF1DX8SaiEt4OVJw)
 
-> Champion Sound\. Winners' Anthems
+> Warm up for the Halftime Show  🏈
 
-723 songs - 1 day 21 hr 2 min
+724 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [CARTIER](https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:49 | 2024-02-06 | 2024-02-24 |
 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 | 2023-07-28 | 2023-09-08 |
 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 | 2024-02-06 | 2024-07-02 |
+| [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-02-06 |  |
 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2022-11-28 | 2022-11-30 |
 | [Champion](https://open.spotify.com/track/1c7OP3XkM4djqcxsLXXe0v) | [4Leuz](https://open.spotify.com/artist/1fVoqPJYIfw4p1imdVvsI9) | [Champion](https://open.spotify.com/album/4nQl92b43x6RKg63WWBtf1) | 2:37 | 2022-11-29 | 2023-07-12 |
 | [Champion Sound](https://open.spotify.com/track/2mqNeI4vUehnhVwSkCrQnR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:57 | 2023-11-18 | 2023-12-05 |
@@ -156,7 +157,7 @@
 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 | 2023-11-18 | 2023-12-05 |
 | [Dawuma dara](https://open.spotify.com/track/3nTis5B0AbjzbYFDMqScPV) | [Wally B\. Seck](https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc), [Samba Peuzzi](https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb) | [Dawuma dara](https://open.spotify.com/album/5Ukcyz7inbjx2oIgaZUD0O) | 3:01 | 2022-11-29 | 2023-07-12 |
 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 | 2024-07-31 |  |
-| [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-09 |  |
+| [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-09 | 2025-02-07 |
 | [Dentu Kubico](https://open.spotify.com/track/3YK3HEijMQnNsBRzUtGbqR) | [CESF](https://open.spotify.com/artist/2vuYAHr48feo9PXfmvpNsW), [DJ Deekay](https://open.spotify.com/artist/74qBM24iaS5pVUCIfEvUPo) | [Dentu Kubico](https://open.spotify.com/album/3OYdyBT9vhpYaLKSTGuO4T) | 3:17 | 2024-01-12 | 2024-02-02 |
 | [Designer](https://open.spotify.com/track/7dZsdVRJOf5SVRZN2LH6EH) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 | 2024-02-02 | 2024-02-04 |
 | [Destiny](https://open.spotify.com/track/3LLE0z2HCZTN6M0ryoGz8t) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Destiny](https://open.spotify.com/album/5D0NfdNtnwBGJiPVppoXk4) | 2:50 | 2022-03-27 | 2022-11-29 |

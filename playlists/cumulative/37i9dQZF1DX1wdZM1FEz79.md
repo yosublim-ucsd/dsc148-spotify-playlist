@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Mingginyu\(밍기뉴\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-553 songs - 1 day 8 hr 50 min
+554 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A story that will turn into a poem](https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:55 | 2021-12-10 |  |
 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 | 2022-07-08 | 2022-08-10 |
 | [Abnormal Climate](https://open.spotify.com/track/67dt4RsTHDhCTbnrqKzhX9) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0XHinGNkFWk58KpzLxU5QF) | 4:06 | 2022-03-31 | 2022-07-21 |
+| [Adore You](https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Adore You](https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3) | 2:31 | 2025-02-06 |  |
 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [YEJUN](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 | 2022-03-31 | 2022-04-10 |
 | [Afterimage](https://open.spotify.com/track/1EBxEdGwWn0UhbSHYsGnn5) | [Besweet](https://open.spotify.com/artist/0grUBAiZwYyGykIxK6UjW8) | [Afterimage](https://open.spotify.com/album/3NZfQG2uEkEIdoUF8LoPa8) | 2:23 | 2022-03-31 | 2022-04-19 |
 | [All Again \(Feat\. Seungmin\)](https://open.spotify.com/track/3pkpvsH5ZyvHgLd5ga9txO) | [Jade](https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE), [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Adult Trainee, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7jwzlB23yExsaaa5b17aHh) | 3:59 | 2021-12-10 | 2022-04-06 |
@@ -449,7 +450,7 @@
 | [This Love](https://open.spotify.com/track/7iIonwGw62P7Cg82PwNBqz) | [Cha So Yeon](https://open.spotify.com/artist/3OmSRBBbXUGwj7MsMsgJpk) | [This Love](https://open.spotify.com/album/1FjXRR4fRodEIfOklIyDKI) | 4:04 | 2022-03-31 | 2022-04-19 |
 | [Though I Want To Complain \(feat\. Lee Min Hyuk\)](https://open.spotify.com/track/0KSO2jskXjBIZqfutot8VT) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Though I Want To Complain \(feat\. Lee Min Hyuk\)](https://open.spotify.com/album/5ACynX9ZoIGr9qJydtRaiU) | 3:07 | 2022-03-31 | 2022-04-20 |
 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 | 2021-12-10 |  |
-| [Time’s Up](https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Interest of Love \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao) | 3:46 | 2023-01-25 |  |
+| [Time’s Up](https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Interest of Love \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao) | 3:46 | 2023-01-25 | 2025-02-07 |
 | [To All 서른에게 \- Guitar Ver](https://open.spotify.com/track/5ssqQrQJMNCXhp6F1gXd6r) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon So Hyun](https://open.spotify.com/artist/3jMgodiEy9ze7ksHxPkc9v) | [To All 서른에게](https://open.spotify.com/album/63M6yzXRbwWH3nW8ZdRlOZ) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [To Love You More](https://open.spotify.com/track/0wnFLe7zakzjBcw12cuyyP) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [To Love You More](https://open.spotify.com/album/7Kkti9u35dqFzI9rhqTLJn) | 4:06 | 2025-01-14 | 2025-01-25 |
 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2021-12-10 | 2022-05-15 |

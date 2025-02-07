@@ -2561,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "Falling Star",
+        "url": "https://open.spotify.com/album/6LtazTYEpL1Mb7GikZi1LL"
+      },
+      "artists": [
+        {
+          "name": "Bellemule",
+          "url": "https://open.spotify.com/artist/3qHNZZTUee8CsSsCzcpTwP"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210992,
+      "name": "Falling Star",
+      "url": "https://open.spotify.com/track/1CBbIMgaxcm4dE5Mrn51Ht"
+    },
+    {
+      "album": {
         "name": "Fantasia of Salvation",
         "url": "https://open.spotify.com/album/7A2UrCNVVZMFXFQnITnz18"
       },

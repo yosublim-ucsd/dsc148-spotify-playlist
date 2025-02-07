@@ -2,12 +2,13 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Cécil Yang
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: RIMALDI, Gloria Jessica
 
-270 songs - 15 hr 45 min
+275 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 Shots](https://open.spotify.com/track/5nGbt0y1LuTmqF6z2OiW8S) | [Jibs](https://open.spotify.com/artist/5a3vFEe5TeY6dvzzLVa6cn) | [2 Shots](https://open.spotify.com/album/746mh7YjTdhdaUa0NPY7rQ) | 2:47 | 2025-02-06 |  |
 | [321 I'm Callin'](https://open.spotify.com/track/175z25mCfPPPSLKgXPYRAi) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [321 I'm Callin'](https://open.spotify.com/album/6aJRcWfTIFfNc1GB44zggV) | 2:48 | 2024-09-26 | 2024-11-29 |
 | [4ever \(We Could Be\)](https://open.spotify.com/track/2gQMIaCNRbI0n3GpVG295o) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [4ever \(We Could Be\)](https://open.spotify.com/album/77irLJ47lsUbChZ2KlGQxx) | 3:09 | 2024-06-27 | 2024-09-06 |
 | [4head](https://open.spotify.com/track/66lKXZ6uhPyH5ayIB3jdXJ) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [4head](https://open.spotify.com/album/57MhcQJOX9zXvAQKNGqpZv) | 2:48 | 2024-09-19 | 2024-11-16 |
@@ -18,6 +19,7 @@
 | [a.way \(with Jin Min Ho\)](https://open.spotify.com/track/0S9zODk7VYgZZMlfoXlypk) | [BLEUR](https://open.spotify.com/artist/7hWuIb3WTuXRN6QCYKs9L3), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [a.way \(with Jin Min Ho\)](https://open.spotify.com/album/1RPAZp71VRzy3tFQ1kx9ti) | 3:41 | 2024-10-03 | 2025-01-24 |
 | [Adam & Eve](https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Adam & Eve](https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss) | 3:25 | 2024-12-12 |  |
 | [After All](https://open.spotify.com/track/0wSdGTI9Uc8zKNSyzoyIzV) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [After All](https://open.spotify.com/album/0FXuhf7oz9QFTYKET9a5uF) | 2:35 | 2024-06-27 | 2024-09-27 |
+| [Aliens](https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Aliens](https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr) | 3:05 | 2025-02-06 |  |
 | [Amazing Grace](https://open.spotify.com/track/5zrTbyQPohSKWRBk9M7wcj) | [Edo Kondologit](https://open.spotify.com/artist/27B9bqgXcAatghbLzNrYY1) | [Amazing Grace](https://open.spotify.com/album/5mNbw4PoMtAhZ0ZR9AzjDe) | 6:29 | 2024-12-05 |  |
 | [angee song](https://open.spotify.com/track/23nDdaGHCXniwDuK1Te0cr) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [m\. album tiga](https://open.spotify.com/album/4NZUlGR0ON7wZDmczN2vqH) | 5:05 | 2024-09-26 | 2025-01-24 |
 | [Another Heartbreak](https://open.spotify.com/track/72PQZ3k0SfV1Oi10DXuWTf) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Another Heartbreak](https://open.spotify.com/album/5nxEyXGMN43tMCgFds6Kuu) | 4:05 | 2024-06-27 | 2024-08-30 |
@@ -37,9 +39,11 @@
 | [Blind to Our Plight](https://open.spotify.com/track/6eky2sCcPFxD0GC0ZIJ4DW) | [Asteriska](https://open.spotify.com/artist/24j6RDsf06YOAKudHmvPry), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Blind to Our Plight](https://open.spotify.com/album/06NCLrTmBgJaMux33NixPH) | 3:47 | 2024-10-24 | 2025-01-24 |
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-06-27 | 2024-10-11 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-27 | 2024-11-16 |
+| [Blues](https://open.spotify.com/track/6Lg7nPDnRLgtJ4n1tfvaae) | [The Rentenir](https://open.spotify.com/artist/2jclX5VpnewFBmChNZT3RY) | [Blues](https://open.spotify.com/album/05THAMxxeyyHK0w8cxbklL) | 3:54 | 2025-02-06 |  |
 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 | 2024-08-09 | 2024-11-16 |
 | [Books Of Life](https://open.spotify.com/track/2QwTLcdMlccj1uapY7yn1i) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Books Of Life](https://open.spotify.com/album/6A9exPt2uTUaXcdHcav4YG) | 3:46 | 2024-11-07 |  |
 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 | 2024-08-29 | 2025-01-24 |
+| [Brave 2 Run](https://open.spotify.com/track/03DfXnXlswkzIiQICOqtb2) | [Bertrand Tio](https://open.spotify.com/artist/4QrtjZy2Cjn9QvciYwnFYY) | [Brave 2 Run](https://open.spotify.com/album/0NDODoqmatndV5vrHejfJU) | 2:56 | 2025-02-06 |  |
 | [bruxism or, why i'm afraid of earthquakes](https://open.spotify.com/track/4UDkUxRu5l9BsMXeBPfF9I) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [bruxism or, why i'm afraid of earthquakes](https://open.spotify.com/album/2nKwkUjMCoqNyhUhK4PPCX) | 4:54 | 2024-07-25 | 2024-09-27 |
 | [Burning Room](https://open.spotify.com/track/5bHhl4whMW8AiKojst05Z8) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Burning Room](https://open.spotify.com/album/3p7A55YRoa176Cc3MhBNpG) | 3:17 | 2024-08-29 | 2025-01-24 |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 | 2025-01-24 |
@@ -161,6 +165,7 @@
 | [Love You](https://open.spotify.com/track/1YqQqj9luYbh04RbjVlRkA) | [Levxx](https://open.spotify.com/artist/7ySViX5hcAksCe8DSzb0Ko) | [Love You](https://open.spotify.com/album/4hMPPPyzFhiXYTHyrq0iLh) | 2:30 | 2024-06-27 | 2024-07-24 |
 | [Lovers Remorse](https://open.spotify.com/track/5FF93xbgT0QhZFb7LZ4sIx) | [Dhanisya](https://open.spotify.com/artist/0erHlLa1SCdRzgC8O8NAJz) | [Lovers Remorse](https://open.spotify.com/album/5YFyvhvYIqm8y2iD0l1b0P) | 3:01 | 2025-01-17 |  |
 | [Loves Hates Loves](https://open.spotify.com/track/43PIMXRQK8LD8rVPZHm1m6) | [Girl and Her Bad Mood](https://open.spotify.com/artist/6OrXXlULRd9rXVeFIzLbFr) | [Loves Hates Loves](https://open.spotify.com/album/2YlmaTrBUXKPZfz9MvKfUE) | 3:04 | 2024-06-27 | 2024-08-02 |
+| [Lullaby](https://open.spotify.com/track/5KWBdIVtqRTFvGzdUHS1NE) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Lullaby](https://open.spotify.com/album/3Zx6ahNR0dHc3mlWuErmky) | 2:39 | 2025-02-06 |  |
 | [Make Ur Move, Plz](https://open.spotify.com/track/2Emcg1SfTyZBRJ2cqPHZJQ) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Lovecycle](https://open.spotify.com/album/5qxc6Ojbm8WfekBpBm70YD) | 3:08 | 2024-07-25 | 2024-09-06 |
 | [Mango Lassi](https://open.spotify.com/track/6py6uaUQHVTEcbLkdwFbjg) | [Nap Room](https://open.spotify.com/artist/0gafAMOxET1u9oFP6JGwfl), [Mithunder](https://open.spotify.com/artist/5do4fAClPjY5A1jwJPri87) | [Mango Lassi](https://open.spotify.com/album/46eIzn0Jg24FL06xv8X4Lh) | 3:20 | 2024-07-25 | 2024-11-29 |
 | [Mantra \- Feat\. Bloodlyne](https://open.spotify.com/track/6JdzENl1wQYvHoHCEZc0AP) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2), [Dmust Akira](https://open.spotify.com/artist/29OA72cLmCZDFEn0Fk8JXl) | [Mantra](https://open.spotify.com/album/7pFR36qMcT4XYWDDLrqay1) | 3:15 | 2024-09-05 | 2024-11-29 |

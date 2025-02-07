@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Verbathim",
+        "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "coloured concrete",
+      "url": "https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru"
+    },
+    {
+      "album": {
         "name": "Barbara",
         "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
       },
@@ -283,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Goodbye to the Valley Low (Side B)",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
+    {
+      "album": {
         "name": "Ton-Ups",
         "url": "https://open.spotify.com/album/2EdRbMlMlRBR7q4cV3Dpl4"
       },
@@ -396,6 +432,24 @@
       "duration_ms": 322073,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2YshaAyv46ZX5PDKOpX8IH"
+    },
+    {
+      "album": {
+        "name": "Too Bright",
+        "url": "https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/4ThYidN9URLbpQUvOVxkRt"
     },
     {
       "album": {
@@ -652,6 +706,28 @@
       "duration_ms": 82862,
       "name": "Straight to Hell",
       "url": "https://open.spotify.com/track/6yL92Zp7pprYfHR2Pq8gFW"
+    },
+    {
+      "album": {
+        "name": "You Won't Go Before You're Supposed To",
+        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164695,
+      "name": "Suffocate (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
     },
     {
       "album": {

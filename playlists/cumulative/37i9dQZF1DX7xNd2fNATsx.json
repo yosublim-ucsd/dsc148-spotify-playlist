@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand l'indie et l'electro ne font qu'un. Photo : Else",
+  "description": "Quand l'indie et l'electro ne font qu'un. Photo : M\u00f8me",
   "name": "indelectro",
   "tracks": [
     {
@@ -530,6 +530,24 @@
       "duration_ms": 292973,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3NLRsJ6mXjxsu8CvysDeUE"
+    },
+    {
+      "album": {
+        "name": "DNA \u221e",
+        "url": "https://open.spotify.com/album/4LqWy1CjGmMs83GLG6qfMW"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203134,
+      "name": "DNA \u221e",
+      "url": "https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH"
     },
     {
       "album": {
@@ -1067,6 +1085,28 @@
     },
     {
       "album": {
+        "name": "Nox Anima",
+        "url": "https://open.spotify.com/album/5YcO7fIqw63iOxtk8GHCAQ"
+      },
+      "artists": [
+        {
+          "name": "Scratch Massive",
+          "url": "https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA"
+        },
+        {
+          "name": "Maud Geffray",
+          "url": "https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Inner Symphony",
+      "url": "https://open.spotify.com/track/2AKXYE6FPUWKAhiioxJWOz"
+    },
+    {
+      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
@@ -1426,7 +1466,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 263226,
       "name": "MEMORY FLOOD",
       "url": "https://open.spotify.com/track/4bEVf96IM1CRcJt9olj5O3"
@@ -1850,7 +1890,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 206471,
       "name": "Pills",
       "url": "https://open.spotify.com/track/4zSUNl29ds3XGzzWcgH1Rg"

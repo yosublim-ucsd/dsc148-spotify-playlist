@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2161,
+  "num_followers": 2163,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADH86Oc/9TCkp+dPbdHu49V",
+  "snapshot_id": "Z6KqAAAAAABuD+q4RptMtDjc6XXl82UT",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Casa Siempre Gana",
+        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Bombastic",
         "url": "https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 178474,
       "name": "Plastic Bombastic",
       "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Casa Siempre Gana",
-        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 140820,
-      "name": "GPI - Remix",
-      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Uno Al 7",
-        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "El Uno Al 7",
-      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do\u00f1a Soledad",
         "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
       },
@@ -531,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Uno Al 7",
+        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "El Uno Al 7",
+      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nadie Lo Hubiera Pensado",
         "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
       },
@@ -543,26 +543,6 @@
       "duration_ms": 149994,
       "name": "Nadie Lo Hubiera Pensado",
       "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Levemente Live Sessions",
-        "url": "https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh"
-      },
-      "artists": [
-        {
-          "name": "Los Pistones De Uriel Valdez",
-          "url": "https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Pariente - En Vivo",
-      "url": "https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5"
     },
     {
       "added_at": null,
@@ -587,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vago",
-        "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
+        "name": "Levemente Live Sessions",
+        "url": "https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Los Pistones De Uriel Valdez",
+          "url": "https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn"
         },
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 177050,
-      "name": "El Vago",
-      "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
+      "duration_ms": 177194,
+      "name": "El Pariente - En Vivo",
+      "url": "https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5"
     },
     {
       "added_at": null,
@@ -623,6 +603,26 @@
       "duration_ms": 124438,
       "name": "El Lic",
       "url": "https://open.spotify.com/track/47zq3s9SJbPsFLSAutzZ3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vago",
+        "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 177050,
+      "name": "El Vago",
+      "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
     },
     {
       "added_at": null,
@@ -979,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde CLN Banda Edition (En Vivo)",
+        "url": "https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 139332,
+      "name": "Hay Les Encargo - En Vivo",
+      "url": "https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Modo Freson",
         "url": "https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 154666,
       "name": "Al Modo Freson",
       "url": "https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde CLN Banda Edition (En Vivo)",
-        "url": "https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 139332,
-      "name": "Hay Les Encargo - En Vivo",
-      "url": "https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p"
     }
   ],
   "unique_name": "This Is Alex Favela",

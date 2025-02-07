@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Homesick \- Remastered](https://open.spotify.com/track/21F3fMG5BEWbUSuwC3dv5I) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 7:06 |
 | 30 | [It's Okay \(To Punch Nazis\)](https://open.spotify.com/track/24BexGKYvuQPv2W1ObGYmw) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [It's Okay \(To Punch Nazis\)](https://open.spotify.com/album/3nNCbRE0bNLmxA5YvLazKN) | 2:25 |
 
-Snapshot ID: `Z6AxMAAAAAA/45fyAUL+yZryWHeSA/Iq`
+Snapshot ID: `Z6AxMAAAAAA/KwqTFr7hxfBA5J6ayFeQ`

@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-231 songs - 14 hr 1 min
+232 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Love Language](https://open.spotify.com/track/43Q412QJxCshzh9oIjLgEF) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Love Language](https://open.spotify.com/album/6aGXPQFm5ZGZYqz1ClG6tx) | 3:18 | 2025-02-05 |  |
 | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS) | 3:04 | 2022-12-01 |  |
 | [Love Type](https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/67Uko1GwOThHjiLWdY0fZ2) | 3:35 | 2023-05-25 | 2023-07-31 |
+| [Love Type](https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/1a8RwDworIIw3nnmzEJ08C) | 3:35 | 2025-02-05 |  |
 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 | 2022-12-01 |  |
 | [Make A Move](https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:35 | 2025-02-05 |  |
 | [MDMA \(Caps Should Be A Human Right\)](https://open.spotify.com/track/6OQdZnSSapbrUhWv7Wg18Y) | [The Meeting Tree](https://open.spotify.com/artist/3wOBAJXJ4EFkcBPbaHnBPM) | [MDMA \(Caps Should Be A Human Right\)](https://open.spotify.com/album/4FnI8i77dSwbkXiDes7rhr) | 4:40 | 2022-12-01 | 2023-01-27 |
@@ -150,7 +151,7 @@
 | [Now U Do \(Carlita Remix\) \- Edit](https://open.spotify.com/track/4npDRstA1cZPDshgtC3mvv) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Now U Do \(Carlita Remix\)](https://open.spotify.com/album/7t88wDCAJBUW98FDo1imXi) | 3:33 | 2023-11-01 | 2023-11-14 |
 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 | 2022-12-01 |  |
 | [Oh My \(feat\. Moby\)](https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Oh My \(feat\. Moby\)](https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0) | 2:40 | 2023-01-13 |  |
-| [Oh No](https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Oh No](https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt) | 2:49 | 2024-08-22 |  |
+| [Oh No](https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Oh No](https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt) | 2:49 | 2024-08-22 | 2025-02-07 |
 | [On Fire](https://open.spotify.com/track/5Uy4klMydEVKvWYqoCUpqn) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [On Fire](https://open.spotify.com/album/3WfaBo5m4OjYqkLq1wQ9KT) | 4:28 | 2022-12-01 | 2023-01-27 |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2022-12-01 |  |
 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 | 2022-12-01 | 2023-11-06 |

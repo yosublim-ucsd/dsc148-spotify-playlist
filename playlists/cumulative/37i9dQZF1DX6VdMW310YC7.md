@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,728 songs - 4 day 22 hr 7 min
+1,729 songs - 4 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 | 2022-03-14 | 2022-12-01 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 | 2022-07-01 | 2023-03-21 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 | 2023-03-10 | 2024-04-19 |
-| [Essentialism.](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Essentialism.](https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ) | 3:20 | 2024-08-16 |  |
+| [Essentialism.](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Essentialism.](https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ) | 3:20 | 2024-08-16 | 2025-02-07 |
 | [Eternity](https://open.spotify.com/track/1fhcMMxjn3Gvin19Akf3Ig) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Eternity](https://open.spotify.com/album/4lJ51mNG9ZXfGyLzLSKwy6) | 6:20 | 2020-05-18 | 2020-07-03 |
 | [Europa](https://open.spotify.com/track/51CvOyizoH3LXHwrrFsptd) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Europa](https://open.spotify.com/album/06Oe9TTnOXbL4JTrqUCPvq) | 4:05 | 2022-02-11 | 2022-11-17 |
 | [Everlasting Evening \(feat\. Sea Oleena\)](https://open.spotify.com/track/4TaK6SAjHie2VGkiKzdZAc) | [Guilty Ghosts](https://open.spotify.com/artist/3pT9wrKIib4JGbSA4AOagZ), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Veils](https://open.spotify.com/album/75syGotaUKVhfDbqZ0cxT6) | 7:15 | 2020-05-18 | 2020-07-03 |
@@ -1288,6 +1288,7 @@
 | [Saint \- Shallou Remix](https://open.spotify.com/track/1lx8MpYLmarUqggBRWKcyG) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Saint \(Shallou Remix\)](https://open.spotify.com/album/5PVKmk1VgX2j7uh4FmBLqu) | 3:04 | 2022-06-24 | 2022-10-01 |
 | [Salta](https://open.spotify.com/track/5L8R2cyft2HfQ1IlfVAbcz) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Something, Everything](https://open.spotify.com/album/5o3crBnx8Z0JyXQ0rI8OE3) | 3:42 | 2022-01-21 | 2023-09-23 |
 | [Same \- Bakermat Remix](https://open.spotify.com/track/3q4zNC35eIv15Zt4cEDicP) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Same EP](https://open.spotify.com/album/6OWtLSnr98VMydbMplBgla) | 5:42 | 2020-05-22 | 2020-07-03 |
+| [Same Room](https://open.spotify.com/track/4qzcWCDOoSdbD1Kfvy2DSs) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Same Room](https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD) | 2:27 | 2025-01-31 |  |
 | [Samsara](https://open.spotify.com/track/47IREnBazixIj7MrHJHVrQ) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Samsara](https://open.spotify.com/album/7JWTINUf3HuJeUcIz9iBrG) | 2:23 | 2020-03-17 | 2021-03-06 |
 | [Sapient Dream](https://open.spotify.com/track/0mhcWPYviFvHzhrOuZiZQM) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Brain Freeze](https://open.spotify.com/album/08fLzwK3ueT7etjpdinnRW) | 4:08 | 2020-05-22 | 2020-07-03 |
 | [Satori](https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Satori](https://open.spotify.com/album/4Sc18Uhrs8qltlOo6Vh6NJ) | 5:05 | 2021-03-10 | 2022-07-23 |

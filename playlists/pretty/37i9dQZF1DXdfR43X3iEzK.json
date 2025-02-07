@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: Charli xcx",
-  "num_followers": 47379,
+  "num_followers": 47396,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "In The Living Room",
-        "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 263760,
-      "name": "In The Living Room",
-      "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+        "name": "In The Living Room",
+        "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 182685,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+      "duration_ms": 263760,
+      "name": "In The Living Room",
+      "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "I Cried, I Wept",
-        "url": "https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "I Cried, I Wept",
-      "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "Habits (Stay High) - Spotify Singles",
         "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 211153,
       "name": "Habits (Stay High) - Spotify Singles",
       "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "I Cried, I Wept",
+        "url": "https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "I Cried, I Wept",
+      "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "The Greatest Love",
-        "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 259234,
-      "name": "Fakest Bitch",
-      "url": "https://open.spotify.com/track/0REo0vbZOgwJ7efhYEXy6J"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "kinda smacks",
         "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 136601,
       "name": "kinda smacks",
       "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "The Greatest Love",
+        "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 259234,
+      "name": "Fakest Bitch",
+      "url": "https://open.spotify.com/track/0REo0vbZOgwJ7efhYEXy6J"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh"
-      },
-      "artists": [
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 178588,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/3QQ0xkLtifUsoSLjUBaVdb"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
+        "name": "little vice",
+        "url": "https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
         "name": "trespass coat",
         "url": "https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "little vice",
-        "url": "https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl"
+        "name": "a bit of a mad one",
+        "url": "https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 185346,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
+      "duration_ms": 131271,
+      "name": "god is dead",
+      "url": "https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "a bit of a mad one",
-        "url": "https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 131271,
-      "name": "god is dead",
-      "url": "https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "The Greatest Love (Deluxe)",
         "url": "https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "The Conflict Of The Mind",
         "url": "https://open.spotify.com/album/3IcTqH3eggpX1ODT8l535d"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 255800,
       "name": "The Conflict Of The Mind",
       "url": "https://open.spotify.com/track/5lxZ3KmRdRn6iW5tE1Fwjp"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
     }
   ],
   "unique_name": "alt/pop",

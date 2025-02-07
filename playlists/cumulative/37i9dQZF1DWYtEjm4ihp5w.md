@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> ElGrandeToto at the top of the biggest Moroccan rap playlist.
+> Stormy f la cover dial akbar playlist dial rap maghribi.
 
 360 songs - 19 hr 10 min
 

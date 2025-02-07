@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andrei Ursu, Andra",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Juno, Holy Molly ",
   "name": "Hiturile de azi",
   "tracks": [
+    {
+      "album": {
+        "name": "180 de grade",
+        "url": "https://open.spotify.com/album/2lXZd4s1RM51ZyiDxSXsGo"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171684,
+      "name": "180 de grade",
+      "url": "https://open.spotify.com/track/3z1U4OMI0NQyfXOlI5hGTB"
+    },
     {
       "album": {
         "name": "7 zile de 8 ori",
@@ -162,6 +184,28 @@
       "duration_ms": 151111,
       "name": "Alchimistul",
       "url": "https://open.spotify.com/track/7D2WfODZho5lLmMN6MgtIl"
+    },
+    {
+      "album": {
+        "name": "Am ales",
+        "url": "https://open.spotify.com/album/4Zhwwgl06xlit08mHlQO9X"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Am ales",
+      "url": "https://open.spotify.com/track/4mEfnVaMq552vamveh5wxO"
     },
     {
       "album": {
@@ -1091,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3pOFpjVO2oeqbzrYGcXkzP"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/240ehfrZyCqV9bAWxpA1ur"
+    },
+    {
+      "album": {
         "name": "Energia ta",
         "url": "https://open.spotify.com/album/4jCNgztTaJLqgCW0K5TEVe"
       },
@@ -1172,6 +1234,28 @@
       "duration_ms": 164502,
       "name": "Fericit",
       "url": "https://open.spotify.com/track/2fJ4vN7zgXLC5aH3KGX6En"
+    },
+    {
+      "album": {
+        "name": "Fluturi \u00een stomac",
+        "url": "https://open.spotify.com/album/1bZyw6cX4zasoGcg3x8nDY"
+      },
+      "artists": [
+        {
+          "name": "Vama",
+          "url": "https://open.spotify.com/artist/7zup4xIPjtv50lM7x3n4qW"
+        },
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254142,
+      "name": "Fluturi \u00een stomac",
+      "url": "https://open.spotify.com/track/3r9zR3cDUmdPHYKxFj0Pla"
     },
     {
       "album": {
@@ -2156,7 +2240,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197987,
       "name": "Nu Pl\u00e2nge",
       "url": "https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv"
@@ -2502,7 +2586,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 146646,
       "name": "Ploi de Tequila",
       "url": "https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT"
@@ -2828,7 +2912,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 178947,
       "name": "S\u0103 curg\u0103 \u0219ampania",
       "url": "https://open.spotify.com/track/7AOQGl6KHXylqTqrvszSie"
@@ -3268,7 +3352,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 208750,
       "name": "Viitorul sun\u0103 bine",
       "url": "https://open.spotify.com/track/3EMLxl3UmEUi27hkXcKLkZ"

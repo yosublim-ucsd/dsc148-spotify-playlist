@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-330 songs - 18 hr 39 min
+331 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 | 2022-07-22 | 2024-06-22 |
 | [After The Rain 비가 그치고 나면](https://open.spotify.com/track/6e6tVmCBpFAWopWgnclcqs) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [After The Rain 비가 그치고 나면](https://open.spotify.com/album/3KcaS52WFgBYfGenr0eAZ2) | 4:14 | 2022-05-03 | 2022-07-29 |
 | [Afternoon Calm](https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Sonatina](https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU) | 2:45 | 2024-07-02 |  |
-| [Agria](https://open.spotify.com/track/7nSmRv5o9XRQ1ZZfrcrAXF) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Agria](https://open.spotify.com/album/2GcTomwrthJ7v5Aw2PYcnV) | 1:52 | 2024-07-02 | 2025-01-11 |
+| [Agria](https://open.spotify.com/track/7nSmRv5o9XRQ1ZZfrcrAXF) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Agria](https://open.spotify.com/album/2GcTomwrthJ7v5Aw2PYcnV) | 1:52 | 2024-07-02 |  |
 | [All That Jazz](https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:58 | 2022-05-03 | 2024-07-03 |
 | [AmoneThat'sCapone \(Feat\. Sunwoojunga\)](https://open.spotify.com/track/4uUKu2XgCqX6YzM5vrqT0q) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:59 | 2022-05-03 | 2022-07-24 |
 | [Anata](https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:19 | 2024-07-02 |  |
@@ -177,13 +177,14 @@
 | [Moon Angels](https://open.spotify.com/track/720zu8RUP9Cdm2L8fCyA6a) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternity](https://open.spotify.com/album/5OnlwTuOqqJn8Ouciy3oUV) | 3:19 | 2024-07-02 | 2024-11-06 |
 | [Motorbikes in Sapa](https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Motorbikes in Sapa](https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo) | 2:52 | 2024-07-02 |  |
 | [Mountain Onsen](https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Mountain Onsen](https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n) | 2:41 | 2024-07-02 |  |
+| [Mountain Trail](https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Mountain Trail](https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv) | 2:33 | 2024-07-02 |  |
 | [Muramasa](https://open.spotify.com/track/75yKCtGs2x1rcMBiRQAdYX) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Legends of the Past](https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3) | 2:24 | 2024-07-02 |  |
 | [muse](https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [isolation](https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb) | 1:57 | 2024-07-02 |  |
 | [My Friend](https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 3:17 | 2024-07-02 |  |
 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 | 2022-06-20 | 2024-06-22 |
 | [My Universe \(Seungmin, I.N Feat\. Changbin\)](https://open.spotify.com/track/4wMKQGoS7TwkGMvPk9lcHG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:23 | 2022-05-03 | 2022-07-29 |
 | [My Universe \(Seungmin, I.N\)](https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Changbin](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:23 | 2022-07-22 | 2022-09-09 |
-| [Naevys](https://open.spotify.com/track/2MbQ2PuPkCiESkmFc0VGPZ) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Lightsaber Bar](https://open.spotify.com/album/2yPvrBHrqMxbd5U3nrC5WL) | 2:14 | 2024-07-02 |  |
+| [Naevys](https://open.spotify.com/track/2MbQ2PuPkCiESkmFc0VGPZ) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Lightsaber Bar](https://open.spotify.com/album/2yPvrBHrqMxbd5U3nrC5WL) | 2:14 | 2024-07-02 | 2025-02-07 |
 | [Nap Time in Shibuya](https://open.spotify.com/track/2kR6OrgdSFOD6nNqZxenE2) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Kitsune To Take](https://open.spotify.com/album/6iZ92G0C1TY8F3nQIy4ZNf) | 3:04 | 2024-07-02 |  |
 | [Narrow Road](https://open.spotify.com/track/5yd8kwPtXxkKpqN9PSR1Eu) | [Tosso](https://open.spotify.com/artist/0pYbYmiGEC2nEe02Npg4bp), [Yotsugi](https://open.spotify.com/artist/3nHodZxQw99Ewvb9v9x48u) | [Narrow Road](https://open.spotify.com/album/4UNTRdYFqVCz2veOtIhALs) | 2:16 | 2024-07-02 | 2024-08-21 |
 | [Natsumi](https://open.spotify.com/track/2qjyjsCWMqcbjrh7FPr56m) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Natsumi](https://open.spotify.com/album/6a1umpLyPbF6iWNl2WUS0V) | 3:05 | 2024-07-02 | 2024-07-14 |
@@ -278,7 +279,7 @@
 | [The End of a Wander \(With SUDI\)](https://open.spotify.com/track/1SeFjGdgbLAnXW5YGlvTdJ) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb), [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF) | [The End of a Wander](https://open.spotify.com/album/55oIrLyWTFPySdvdY5PP6f) | 3:28 | 2022-05-03 | 2022-07-19 |
 | [The man and the woman](https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI), [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:32 | 2022-07-22 | 2022-09-09 |
 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 | 2022-05-03 | 2024-07-03 |
-| [The Secret Road](https://open.spotify.com/track/21X8IL9mP28vq4GyCt1H8A) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Enchantments](https://open.spotify.com/album/2fWQ5iffc0EpE3zMfFhPf9) | 2:42 | 2024-07-02 |  |
+| [The Secret Road](https://open.spotify.com/track/21X8IL9mP28vq4GyCt1H8A) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Enchantments](https://open.spotify.com/album/2fWQ5iffc0EpE3zMfFhPf9) | 2:42 | 2024-07-02 | 2025-02-07 |
 | [Thermometer \- ON Team Version](https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:17 | 2022-05-03 | 2023-03-28 |
 | [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2022-05-03 | 2024-07-03 |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-06-20 | 2024-07-03 |

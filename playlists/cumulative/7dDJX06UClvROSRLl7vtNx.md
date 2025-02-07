@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-705 songs - 1 day 6 hr 39 min
+706 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Take It Slow](https://open.spotify.com/track/2gbmGcKUCyU3bifR49KMAY) | [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [Take It Slow](https://open.spotify.com/album/1Vu3BmfYbqRmNyOy3Eb7WF) | 3:01 | 2024-03-01 | 2024-07-05 |
 | [Take Me Far](https://open.spotify.com/track/05v3B4bfLHxPCb9P5BI3dV) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Take Me Far](https://open.spotify.com/album/1fgBP8xLHiTlxQ0Y0uWfDE) | 2:15 | 2024-09-23 | 2024-12-02 |
 | [Take Me Higher](https://open.spotify.com/track/7EuDg4t8Xo4Exrk7MxqPdX) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Take Me Higher](https://open.spotify.com/album/0Ijdp7RUQ4gEN0p5diiFVG) | 2:09 | 2024-06-21 | 2024-07-29 |
+| [Take You Higher](https://open.spotify.com/track/735qS1B80P22Z8f6SkZrbA) | [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Take You Higher](https://open.spotify.com/album/1h8mAy8Ijb7LCp9Qc6UUhO) | 2:14 | 2025-02-06 |  |
 | [Talk About Us](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Talk About Us](https://open.spotify.com/album/1kAQMLfTYcIJbbuq2MMMc7) | 2:17 | 2024-01-17 | 2024-08-12 |
 | [Talk To Me](https://open.spotify.com/track/2vpK9DsFJJHRNinZyoK18C) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Talk To Me](https://open.spotify.com/album/7rpfJUWZSEhx5u5mxPN0RG) | 2:00 | 2024-04-12 | 2024-06-23 |
 | [Teenage Dream](https://open.spotify.com/track/6mSJPeIzfqbQH83qkMBS7I) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Teenage Dream](https://open.spotify.com/album/5wZOs9KxbL30axtsoIoe2p) | 2:33 | 2024-06-09 | 2024-07-09 |

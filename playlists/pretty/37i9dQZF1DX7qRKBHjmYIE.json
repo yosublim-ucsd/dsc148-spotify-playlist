@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Chuwi.",
-  "num_followers": 750744,
+  "num_followers": 750755,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,26 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
+        "name": "ella brilla",
+        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "ella brilla",
+      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
         "name": "nostalgia EP",
         "url": "https://open.spotify.com/album/1fhc3XX8W5Z4fMZrEW4DzO"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 192439,
       "name": "1000 Millones",
       "url": "https://open.spotify.com/track/3VJx2G4tmT8RhHVtAqUkXS"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "PA K",
-        "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 221856,
-      "name": "PA K",
-      "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -235,22 +235,22 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "ella brilla",
-        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+        "name": "PA K",
+        "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
       },
       "artists": [
         {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         },
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 263600,
-      "name": "ella brilla",
-      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
+      "duration_ms": 221856,
+      "name": "PA K",
+      "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -311,42 +311,6 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "balearico",
-        "url": "https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 150697,
-      "name": "balearico",
-      "url": "https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "neo roneo",
-        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 166705,
-      "name": "neo roneo",
-      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -371,6 +335,26 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
+        "name": "neo roneo",
+        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 166705,
+      "name": "neo roneo",
+      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
         "name": "Omega (feat. Ralphie Choo)",
         "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
+        "name": "balearico",
+        "url": "https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 150697,
+      "name": "balearico",
+      "url": "https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
         "name": "Marigolds",
         "url": "https://open.spotify.com/album/4UaYSCoV7Vici62QSi4xmC"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Bodhiria",
-        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 164771,
-      "name": "BRUJERIA!",
-      "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
         "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
         "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 202123,
       "name": "Simple",
       "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 164771,
+      "name": "BRUJERIA!",
+      "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 201043,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
         "name": "Escudo",
         "url": "https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 171272,
       "name": "Escudo",
       "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 201043,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -991,6 +991,26 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/7ndFEP8klJsxrPA7BhD6jm"
+      },
+      "artists": [
+        {
+          "name": "Shreea Kaul",
+          "url": "https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE"
+        },
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "duration_ms": 210947,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2xsxYtcnAoJr2tFv5vGBab"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
         "name": "OBSSD",
         "url": "https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy"
       },
@@ -1019,62 +1039,6 @@
       "duration_ms": 195862,
       "name": "Luna mar",
       "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "Care For You",
-        "url": "https://open.spotify.com/album/7ndFEP8klJsxrPA7BhD6jm"
-      },
-      "artists": [
-        {
-          "name": "Shreea Kaul",
-          "url": "https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE"
-        },
-        {
-          "name": "Al\u00e9 Araya",
-          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
-        }
-      ],
-      "duration_ms": 210947,
-      "name": "Care For You",
-      "url": "https://open.spotify.com/track/2xsxYtcnAoJr2tFv5vGBab"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "que no te falte de na",
-        "url": "https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "par d ni\u00f1os",
-      "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1111,6 +1075,42 @@
       "duration_ms": 177386,
       "name": "cielo dorado",
       "url": "https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
+        "name": "que no te falte de na",
+        "url": "https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "par d ni\u00f1os",
+      "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Francisca",
-        "url": "https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D"
+        "name": "Fue un adi\u00f3s",
+        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 217717,
-      "name": "FRANCISCA",
-      "url": "https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv"
+      "duration_ms": 196000,
+      "name": "Fue un adi\u00f3s",
+      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Fue un adi\u00f3s",
-        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+        "name": "Francisca",
+        "url": "https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Fue un adi\u00f3s",
-      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
+      "duration_ms": 217717,
+      "name": "FRANCISCA",
+      "url": "https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1287,6 +1287,38 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
+        "name": "pensamientos intrusivos",
+        "url": "https://open.spotify.com/album/0v6FPU1D8KG6n5O1rDHjsG"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "duration_ms": 183548,
+      "name": "pensamientos intrusivos",
+      "url": "https://open.spotify.com/track/4gOS2BMl1hipHqDdx0C5xh"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF"
+      },
+      "artists": [
+        {
+          "name": "Sara \u00c1ngel",
+          "url": "https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
         "name": "Ata\u00fad",
         "url": "https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8"
       },
@@ -1299,46 +1331,6 @@
       "duration_ms": 189289,
       "name": "Ata\u00fad",
       "url": "https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "Toda \u00c9poca Tiene Su Encanto",
-        "url": "https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 158920,
-      "name": "Tengo Una Nota",
-      "url": "https://open.spotify.com/track/4JuwOGVCbYwoA9qWerWs5g"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "Coraz\u00f3n Extra\u00f1o",
-        "url": "https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        },
-        {
-          "name": "Diosque",
-          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
-        }
-      ],
-      "duration_ms": 176009,
-      "name": "Coraz\u00f3n Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk"
     }
   ],
   "unique_name": "Mixto",

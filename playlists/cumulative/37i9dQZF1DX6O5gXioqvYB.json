@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: Lucrezia",
+  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: GattoToro",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195222,
       "name": "Acqua e sapone (feat. Ugo Crepa)",
       "url": "https://open.spotify.com/track/7ACKNN1Mt9nVS8Gc8lE7eY"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 177192,
       "name": "CERIGNOLA CAMPAGNA",
       "url": "https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 168892,
       "name": "Correre",
       "url": "https://open.spotify.com/track/6tTSKlyqG9ZA0BVQmE59Sb"
@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "COWBOY",
+        "url": "https://open.spotify.com/album/07VYHePkAxRp8x8vZTQ6rU"
+      },
+      "artists": [
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "COWBOY",
+      "url": "https://open.spotify.com/track/7qThYAPD8ETGjXTFJR3nXn"
+    },
+    {
+      "album": {
         "name": "CREPUSCOLO",
         "url": "https://open.spotify.com/album/2ueLha9CLQK6HQPOrEHyMa"
       },
@@ -1492,6 +1510,24 @@
       "duration_ms": 162011,
       "name": "Cu'mme",
       "url": "https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx"
+    },
+    {
+      "album": {
+        "name": "Denti",
+        "url": "https://open.spotify.com/album/2Vvxn4VT3PsU0suocQOOAn"
+      },
+      "artists": [
+        {
+          "name": "frambo",
+          "url": "https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157872,
+      "name": "Denti",
+      "url": "https://open.spotify.com/track/5F7kCMxBrqnQYjkfD1s0FY"
     },
     {
       "album": {
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 199183,
       "name": "DSA",
       "url": "https://open.spotify.com/track/14aXUJEa4EheDKr007CxAh"
@@ -2102,7 +2138,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 179200,
       "name": "Fucina",
       "url": "https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB"
@@ -2160,6 +2196,24 @@
       "duration_ms": 171851,
       "name": "fuori posto",
       "url": "https://open.spotify.com/track/6Zv96JypFgMtT0b9ZovleH"
+    },
+    {
+      "album": {
+        "name": "FUTURO/tempo perso",
+        "url": "https://open.spotify.com/album/4bQ1kKUydlp1FMD0VY1Alr"
+      },
+      "artists": [
+        {
+          "name": "Schianta",
+          "url": "https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202199,
+      "name": "FUTURO/tempo perso",
+      "url": "https://open.spotify.com/track/3AyZP9CpvrlNdXzv1cpQGb"
     },
     {
       "album": {
@@ -2250,7 +2304,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197722,
       "name": "Giorni felici",
       "url": "https://open.spotify.com/track/2eTQeuQGoXSGaQ8sjpT3hr"
@@ -2625,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "La canzone che ti meriti",
+        "url": "https://open.spotify.com/album/5Vh0s2FlliJisQu71X5Hfi"
+      },
+      "artists": [
+        {
+          "name": "Ugo Crepa",
+          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130507,
+      "name": "La canzone che ti meriti",
+      "url": "https://open.spotify.com/track/3I98glKJ4mOT2j7ViAwoFS"
+    },
+    {
+      "album": {
         "name": "La canzone pi\u00f9 triste",
         "url": "https://open.spotify.com/album/0oLdb4ykACnF6Ny6u5QJOK"
       },
@@ -2762,7 +2834,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 181707,
       "name": "La vita \u00e8 brutta",
       "url": "https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG"
@@ -3601,6 +3673,24 @@
     },
     {
       "album": {
+        "name": "BAMBINI MOLOTOV",
+        "url": "https://open.spotify.com/album/5T7lIdXQlz1bdWQpyhtnuw"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "NERE PANTERE",
+      "url": "https://open.spotify.com/track/4XUBzha7zrPeqpCZLLkjid"
+    },
+    {
+      "album": {
         "name": "girammo tutto in una macchina",
         "url": "https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq"
       },
@@ -3684,7 +3774,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 147375,
       "name": "ninna nanna",
       "url": "https://open.spotify.com/track/1KGCqzJ6wkwpSxQlHPvl8E"
@@ -3760,6 +3850,24 @@
       "duration_ms": 150600,
       "name": "Non ci sei",
       "url": "https://open.spotify.com/track/2jUXlrAUWmEAhxEWuxZnJG"
+    },
+    {
+      "album": {
+        "name": "Non me ne frega un cazzo",
+        "url": "https://open.spotify.com/album/3ZA2ihJ5T8SiBIec6RVive"
+      },
+      "artists": [
+        {
+          "name": "5070",
+          "url": "https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125941,
+      "name": "Non me ne frega un cazzo",
+      "url": "https://open.spotify.com/track/2sggIlER01Q9s7sf8vUAcv"
     },
     {
       "album": {
@@ -4214,7 +4322,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 154200,
       "name": "Pasquale (guarda i cantieri)",
       "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
@@ -4322,7 +4430,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 164514,
       "name": "Perdo Il Tuo Amore",
       "url": "https://open.spotify.com/track/3HHhJGYxGTyyv6qiziryL3"
@@ -4852,7 +4960,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 211013,
       "name": "rinascere",
       "url": "https://open.spotify.com/track/4SHPlv9DqSPkNO6xYXOY6P"
@@ -4975,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "Scais",
+        "url": "https://open.spotify.com/album/1BUh9eKu2ARv5MJYXMLAcf"
+      },
+      "artists": [
+        {
+          "name": "AGA",
+          "url": "https://open.spotify.com/artist/6o1ZHc5cD5f0ob011mOkpj"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161420,
+      "name": "Scais",
+      "url": "https://open.spotify.com/track/1CcvYqGY5SUNABMvFJl58e"
+    },
+    {
+      "album": {
         "name": "Scarpe",
         "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
       },
@@ -5048,6 +5174,24 @@
       "duration_ms": 170880,
       "name": "sconosciuti",
       "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
+    },
+    {
+      "album": {
+        "name": "Scrivimi il giorno",
+        "url": "https://open.spotify.com/album/34JsXFjJhAxIwTQAc5htHc"
+      },
+      "artists": [
+        {
+          "name": "Arden",
+          "url": "https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135250,
+      "name": "Scrivimi il giorno",
+      "url": "https://open.spotify.com/track/6zMr7aBQupWp5xnbErDDch"
     },
     {
       "album": {
@@ -5174,7 +5318,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 172894,
       "name": "Senza Stelle",
       "url": "https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n"
@@ -5930,7 +6074,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 207880,
       "name": "Un cane",
       "url": "https://open.spotify.com/track/6AebymbfPmy8oKu77ZFIlN"
@@ -6151,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/7hJSwuEpEEtzJZy3cKRaqt"
+      },
+      "artists": [
+        {
+          "name": "Danxgerous",
+          "url": "https://open.spotify.com/artist/0Gt3wzw2zPVUVVAhGkeLuT"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218750,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/66h2Cz7nnOjuo5L8kiGIPa"
+    },
+    {
+      "album": {
         "name": "Ventenne",
         "url": "https://open.spotify.com/album/22DRdxNzWdBaKlzzHUPIXE"
       },
@@ -6336,7 +6498,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 212061,
       "name": "Voglia 'E Turn\u00e0",
       "url": "https://open.spotify.com/track/1m4ToLe6HU0B6zehZy17ih"

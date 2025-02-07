@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 176000,
       "name": "CUANDO SALE EL SOL",
       "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
@@ -6494,7 +6494,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 177786,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
@@ -7808,7 +7808,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 184356,
       "name": "Noche Fr\u00eda",
       "url": "https://open.spotify.com/track/36E9wb5dk5uLwb20L5g81m"
@@ -8712,6 +8712,28 @@
       "duration_ms": 190131,
       "name": "Por Alguien Como Tu",
       "url": "https://open.spotify.com/track/2NvKTwehR416f9bpEjCh7n"
+    },
+    {
+      "album": {
+        "name": "Por Mil",
+        "url": "https://open.spotify.com/album/2KE25RqiUun3oQ5qVAOVsN"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "Por Mil",
+      "url": "https://open.spotify.com/track/4l8dBNvvVfqNDxkqTvcJ4a"
     },
     {
       "album": {

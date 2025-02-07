@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-05",
-  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: Najm",
+  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: Djmubarak",
   "name": "RADAR ARABIA",
   "tracks": [
     {
@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs"
+      },
+      "artists": [
+        {
+          "name": "Djmubarak",
+          "url": "https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189904,
+      "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU"
+    },
+    {
+      "album": {
         "name": "\u062c\u0627\u064a\u064a \u0644\u0643",
         "url": "https://open.spotify.com/album/2QrMIPEdF4w9TBiaGBGio7"
       },
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 173052,
       "name": "\u0633\u0639\u0648\u062f\u064a \u0641\u0648\u0642 \u0641\u0648\u0642",
       "url": "https://open.spotify.com/track/11w6W8XFjXXoj2GOotkfLx"

@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 김승주, 고고학, 강지원, ddbb\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: LEENALCHI\(이날치\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-878 songs - 2 day 5 hr 44 min
+880 songs - 2 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-10 | 2025-01-23 |
 | [Go Back](https://open.spotify.com/track/4GhDaROSZ1HHh6qGHxBR0O) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Go Back](https://open.spotify.com/album/5nrTyyRN42maHoTsNt5veZ) | 4:13 | 2024-07-22 | 2024-08-29 |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2022-03-09 | 2022-07-19 |
+| [God of Mud](https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [God of Mud](https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7) | 4:03 | 2025-02-06 |  |
 | [Golden Time !](https://open.spotify.com/track/68cZDWKZ2tShwZDcZxE6sF) | [ahreum](https://open.spotify.com/artist/59ARBW6DM7f37HN93uOjQy) | [Golden Time !](https://open.spotify.com/album/6k102m55xMi1OheH96tfRY) | 2:53 | 2024-04-30 | 2024-05-10 |
 | [Good bye blue days](https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Good bye blue days](https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe) | 4:11 | 2021-12-12 | 2022-07-28 |
 | [Goodbye, fall](https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Goodbye, fall](https://open.spotify.com/album/2E82nqjerYIM9TrlNZeXND) | 3:41 | 2021-12-12 | 2022-07-29 |
@@ -391,6 +392,7 @@
 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 | 2024-04-30 | 2024-05-10 |
 | [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2021-12-21 | 2022-04-20 |
 | [J U S T F U N \(with george\)](https://open.spotify.com/track/0fhnZmbHlo4rdcINqvhLCb) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [J U S T F U N \(with george\)](https://open.spotify.com/album/2q0mO6x6Br2J3YVmVXMo4I) | 2:52 | 2023-10-03 | 2024-05-10 |
+| [Jane.](https://open.spotify.com/track/7eeZR0OkclxBfhAlFd9N4g) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Jane.](https://open.spotify.com/album/6z4IJIFHHEg1Cka8fWBC3E) | 2:54 | 2025-02-06 |  |
 | [Jayu 자유](https://open.spotify.com/track/5vlUplZyrXnN0bbejrKfqu) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Jayu 자유](https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH) | 3:55 | 2022-02-16 | 2022-06-22 |
 | [Jungle Bike](https://open.spotify.com/track/58NiYwHiOAsrl9ayiRYQXE) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Jungle Bike](https://open.spotify.com/album/1FkXoPtPNwDUN1Ow5iwWSW) | 2:46 | 2022-08-04 | 2022-08-24 |
 | [Just a Friend](https://open.spotify.com/track/4cRXmzPshRDVuL1NTGk5c0) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [simsong](https://open.spotify.com/artist/51MWzTgAg8ZIxqyO2Zz0c9) | [Just a Friend](https://open.spotify.com/album/4o5z8EULkN1q4wmNH6qI8W) | 3:36 | 2022-03-31 | 2022-05-13 |
@@ -408,7 +410,7 @@
 | [Koh](https://open.spotify.com/track/19Cju67oOjjRqe8KXv0bYZ) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/7N391rPsSbIRYDqrI8xP2H) | 4:59 | 2023-09-18 | 2024-04-04 |
 | [Koriga](https://open.spotify.com/track/0So5dXB9M3InMMGmxslL4L) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [Koriga](https://open.spotify.com/album/6PiN8MeW9hifmkNxVuQUGY) | 3:41 | 2022-04-12 | 2022-04-15 |
 | [Last Day](https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Last Day](https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP) | 5:36 | 2024-12-19 |  |
-| [Late Night Flaneur](https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Late Night Flaneur](https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx) | 2:27 | 2024-11-29 |  |
+| [Late Night Flaneur](https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Late Night Flaneur](https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx) | 2:27 | 2024-11-29 | 2025-02-07 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-07-01 | 2024-12-07 |
 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2021-12-21 | 2022-05-18 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7) | 3:07 | 2022-03-31 | 2022-04-14 |
@@ -427,7 +429,7 @@
 | [Like A Bird](https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Like A Bird](https://open.spotify.com/album/6cQzqYWaTGg6VLbb435eNg) | 3:00 | 2025-01-15 |  |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
 | [Like You](https://open.spotify.com/track/5o3r2FdUJQvGD5HwXzajuS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Like You](https://open.spotify.com/album/7w167b8Zpa8I6dyhMC2viC) | 3:33 | 2022-03-31 | 2022-04-19 |
-| [Little Drama](https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Bonfire](https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5) | 3:29 | 2024-11-29 |  |
+| [Little Drama](https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Bonfire](https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5) | 3:29 | 2024-11-29 | 2025-02-07 |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-08 | 2022-08-05 |
 | [Lone](https://open.spotify.com/track/1AF2rcwvxpkUCjicFY4dSd) | [evenif](https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:10 | 2025-01-30 |  |
 | [Look At Me Look At Me](https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Lesser Gods And Chimeras](https://open.spotify.com/album/7Gb4evIU7fNgPd3Gp7tXaC) | 3:24 | 2024-11-06 | 2024-11-21 |

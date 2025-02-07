@@ -2,7 +2,7 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Luk3
+> ✨giovane✨pop✨z✨ Cover: Sinomine
 
 623 songs - 1 day 4 hr 50 min
 

@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Sofiane Pamart x Youssef Swatt's
+> Les plus belles plumes rap français du moment\. Photo : Heykel
 
-128 songs - 7 hr 9 min
+130 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dans la tête](https://open.spotify.com/track/5OIxIJ1zXhylgKLJRKczgW) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:29 | 2024-12-05 |  |
 | [Dernier shift](https://open.spotify.com/track/1I4UhkZhdfzFdZhr9l21TE) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7), [CRC](https://open.spotify.com/artist/4ApeyCwNBX4vuqUNp0R9Z6) | [Dernier shift](https://open.spotify.com/album/2EJo4LgEoJJn0pSIfcjqVH) | 2:50 | 2025-01-09 |  |
 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 | 2025-01-09 |  |
+| [DU BANDIT À L'ARTISTE \(PART\. 1\)](https://open.spotify.com/track/3Fyre3w6f19hjycGVng2RK) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [DU BANDIT À L'ARTISTE \(PART\. 1\)](https://open.spotify.com/album/6sQA6PpwUBRmmdfNlH8vYD) | 2:42 | 2025-02-06 |  |
 | [Dyonysos](https://open.spotify.com/track/5B9gm49biFFkSkNfxfrx2y) | [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Dyonysos](https://open.spotify.com/album/7olzc11baB7DKtJLph5WB2) | 3:05 | 2024-12-12 |  |
 | [Défilé de mots](https://open.spotify.com/track/69p51DcIenizcU1d5WExxE) | [Mokless](https://open.spotify.com/artist/33T5kdoVSK7Vg5DXquJluL), [Scred Connexion](https://open.spotify.com/artist/5ZtIEcmzQosu8SDKWgwc86) | [Défilé de mots](https://open.spotify.com/album/5EVKpHyGlWwiBHEi1JZTS1) | 3:19 | 2024-12-12 | 2025-01-31 |
 | [Emelyne](https://open.spotify.com/track/2raEeGwUcTICrIdX6tXdru) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide 2](https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA) | 2:58 | 2024-10-17 |  |
@@ -75,7 +76,7 @@
 | [La chute des anges](https://open.spotify.com/track/7L3OWRDfgdsHtfRi1h2ISf) | [Sage Pee](https://open.spotify.com/artist/6hkah6kDDj8tNuV4OJYvGG) | [La chute des anges](https://open.spotify.com/album/2iwLwIJbbnjXsc3otpH6kI) | 2:50 | 2024-12-19 |  |
 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-06-27 | 2025-01-17 |
 | [LA HAINE \(feat\. Clara Luciani\)](https://open.spotify.com/track/5hw2tWIicbY7Kd737HZBZk) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [LA HAINE](https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT) | 3:09 | 2024-10-10 | 2024-12-06 |
-| [La nuit](https://open.spotify.com/track/0jn1yQPQRWWjnxpoTfUr4g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:56 | 2024-06-27 |  |
+| [La nuit](https://open.spotify.com/track/0jn1yQPQRWWjnxpoTfUr4g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:56 | 2024-06-27 | 2025-02-07 |
 | [La vérité](https://open.spotify.com/track/6Xi05MZvsGTf8DIWRKAkkX) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [La vérité](https://open.spotify.com/album/37HItjP0niHY1s2WTBZL9S) | 4:47 | 2024-06-27 | 2024-11-08 |
 | [le bus \- A COLORS SHOW](https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [le bus \- A COLORS SHOW](https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c) | 2:58 | 2024-06-27 |  |
 | [LE NOM DU PÈRE](https://open.spotify.com/track/4DbosJ6sBVGSjDNlUqB1se) | [Relo](https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf), [Furax Barbarossa](https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa), [Shurik’n](https://open.spotify.com/artist/6ebsq9T5h3pAg6ejkvNICv), [Deejay Venum](https://open.spotify.com/artist/6Lcm5R00ALAwcWmvjhA71g), [Sako \(Chiens de Paille\)](https://open.spotify.com/artist/5xOnfbs4fCxdmplzc4dd9J) | [DIEU MERCI ENCORE \(Réédition\)](https://open.spotify.com/album/16Iu3mwSRNqzlZybmEcmfC) | 4:54 | 2024-06-27 | 2024-10-18 |
@@ -95,6 +96,7 @@
 | [Névrose](https://open.spotify.com/track/4ZMxmaHhsZh7SoAbXj3KDF) | [Ormaz](https://open.spotify.com/artist/1p7DzCCPD24P5IUVosY850) | [Névrose](https://open.spotify.com/album/5BxvGGsp97gBZraoI5PWA4) | 3:05 | 2024-11-21 | 2025-01-24 |
 | [Okocha](https://open.spotify.com/track/6iCnRrrog1pejAaIJ3rflq) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Okocha](https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC) | 2:26 | 2024-06-27 | 2024-10-04 |
 | [Olympien](https://open.spotify.com/track/62aBHWpAqVlvXsmKDwVXfp) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Tous ces ongles rongés](https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV) | 1:47 | 2024-10-03 | 2024-11-22 |
+| [On tombe, on réessaye](https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [On tombe, on réessaye](https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4) | 3:13 | 2025-02-06 |  |
 | [Paix](https://open.spotify.com/track/3qWNQvfLnnkg9K3ZvOmYkK) | [Souli](https://open.spotify.com/artist/6j2mAzLfu9ZMjd4rwCRjjn) | [Paix](https://open.spotify.com/album/6EIhSo6iCjDUprlXSYx1Lf) | 2:59 | 2024-10-03 | 2024-11-15 |
 | [pardon](https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 2:55 | 2024-07-11 | 2024-12-20 |
 | [PHOBOS](https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv) | [Jeune Mort](https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU) | [DEMAIN EST ANNULÉ](https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR) | 2:40 | 2024-10-24 |  |
@@ -102,7 +104,7 @@
 | [Pistol Pit](https://open.spotify.com/track/7pbxOvH9Cm6ZzNfVsNFQng) | [Mr Kayz](https://open.spotify.com/artist/3j2HryhkXkBgOKlfI7ZpDs), [Just Music Beats](https://open.spotify.com/artist/5AcC1DGW2hYT1n4nu5jaWQ) | [Pistol Pit](https://open.spotify.com/album/1sRqPUY9VPf9JxpO8u0CGE) | 2:36 | 2024-09-26 | 2024-10-25 |
 | [Plaine des Asphodèles](https://open.spotify.com/track/4feZ8pmKWjttSJnq2hYxjc) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7) | [Plaine des Asphodèles](https://open.spotify.com/album/4KgrJ6VLq2xYsY7OF3wTRB) | 2:36 | 2024-08-29 | 2024-11-15 |
 | [PLAYBOI CARTI](https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [ILL'](https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX) | 2:38 | 2024-07-04 | 2024-07-27 |
-| [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 | 2024-06-27 |  |
+| [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 | 2024-06-27 | 2025-02-07 |
 | [POUR LA VIE](https://open.spotify.com/track/7c4OslPXXI2rnTka11mz4T) | [Tedax Max](https://open.spotify.com/artist/6hjoQ84QiA6LVscW9dhcmO), [Ismayyyel](https://open.spotify.com/artist/5zlBHSX5SOPPV1PzkqEob9) | [POUR LA VIE](https://open.spotify.com/album/4P2CuNGWMHjmlRziaHUzKl) | 2:04 | 2024-09-12 | 2024-09-27 |
 | [Poussez vous 5](https://open.spotify.com/track/2kHX4FsWy0dDitXd7bO9L4) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5), [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [Poussez vous 5](https://open.spotify.com/album/1iDVIDiFOJv4sZhbuiSKOO) | 4:26 | 2024-11-21 | 2025-01-17 |
 | [Psychose](https://open.spotify.com/track/3g7owEXAWIoX23gOMT709Z) | [Falcko](https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl) | [BLACK CODE TOME 4](https://open.spotify.com/album/5nzw8NtPjaK2OT5df1HLji) | 2:40 | 2024-06-27 | 2024-09-13 |

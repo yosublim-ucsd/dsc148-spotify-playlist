@@ -4023,6 +4023,28 @@
     },
     {
       "album": {
+        "name": "PICASSO: SLUFFIN SZN X SLUT SZN",
+        "url": "https://open.spotify.com/album/6hxyNJlzGAHOQWda9nTmLW"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Carey Washington",
+          "url": "https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202986,
+      "name": "Don't Walk Away (feat. Carey Washington)",
+      "url": "https://open.spotify.com/track/1RTO0oJ6wgPPsOdHugwirj"
+    },
+    {
+      "album": {
         "name": "Fly Or Die",
         "url": "https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4"
       },
@@ -4860,7 +4882,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 251357,
       "name": "Flash Back",
       "url": "https://open.spotify.com/track/27lTnhGJZr4OcXrQqO3pFe"
@@ -5712,7 +5734,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 216720,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/54SitNflDuLY4ZgrjFEubX"
@@ -11674,7 +11696,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/2f2hbFjim051DVx0o8o4rU"
@@ -17134,6 +17156,32 @@
       "duration_ms": 302400,
       "name": "U Don't Have To Call",
       "url": "https://open.spotify.com/track/5Ug91lMiLo20uV16z3x4Co"
+    },
+    {
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "album": {

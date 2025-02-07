@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,620 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,652 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 27 | [Livin' It Up](https://open.spotify.com/track/1Qm0MBLj93hLQMZOpNTQHB) | [Dizgo](https://open.spotify.com/artist/5yHeuBSsacgKk0X6fzDfHj) | [Melt](https://open.spotify.com/album/4Kr5LWl79sxFjdamzHjriN) | 8:00 |
 | 28 | [Lap Mule](https://open.spotify.com/track/2qJzXsTqPTsnE4ocGMZRa1) | [Andreas Rydman](https://open.spotify.com/artist/2cPRL66TE5ukYhnokSkzPg), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Lap Mule](https://open.spotify.com/album/2Mf5kcese7yHo1lyypZFjf) | 5:02 |
 | 29 | [Yourself](https://open.spotify.com/track/4JQkCqj2vjcsECCL37bPEL) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Yourself](https://open.spotify.com/album/2MAH1uPu3OZHwLEiHg7bhJ) | 6:22 |
-| 30 | [Can't Cut the Mustard](https://open.spotify.com/track/7BUnS98zgtwP45KSpT3C61) | [Big Shrimp](https://open.spotify.com/artist/5KEqTbaf2sEinU5lkQpFkr) | [Baked Shrimp](https://open.spotify.com/album/54drhsF5JtrFOcaxlCshsa) | 3:46 |
+| 30 | [Can't Cut the Mustard](https://open.spotify.com/track/7BUnS98zgtwP45KSpT3C61) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Baked Shrimp](https://open.spotify.com/album/54drhsF5JtrFOcaxlCshsa) | 3:46 |
 | 31 | [Fludias](https://open.spotify.com/track/094cZWfxSIguNUNADtqb9Z) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Fludias](https://open.spotify.com/album/7sZv59H1TWVzeMfnAjDfBt) | 6:55 |
 | 32 | [Bottom of the Hill](https://open.spotify.com/track/0CbCjYHs9BQgvUtVdyNsQS) | [River Spell](https://open.spotify.com/artist/15uvNDr9fxrZcvajNYYI46) | [Bottom of the Hill](https://open.spotify.com/album/2JtbjJhE3k9bn2mHHsdS0C) | 6:23 |
 | 33 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 |

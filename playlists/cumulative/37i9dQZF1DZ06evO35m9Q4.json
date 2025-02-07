@@ -606,10 +606,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 258026,
       "name": "Life Without You",
       "url": "https://open.spotify.com/track/6Z8prosDCmjU3hkgEnyId6"
+    },
+    {
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258626,
+      "name": "Life Without You",
+      "url": "https://open.spotify.com/track/125db6HkQqKHJMVB8mULlR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-296 songs - 20 hr 9 min
+297 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Signal \(Maral Remix\)](https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Signal Remixes](https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ) | 3:38 | 2023-04-15 | 2025-01-10 |
 | [Snapdragon](https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:12 | 2024-09-20 |  |
 | [Sometimes](https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob) | [Princ€ss](https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB) | [Princ€ss](https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB) | 2:53 | 2024-08-20 |  |
+| [SONAR](https://open.spotify.com/track/4Pi8sTgUqsF6axhBVcHKwV) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [SONAR](https://open.spotify.com/album/1hayEn7szkucmcDnSi1Ka1) | 3:17 | 2025-02-06 |  |
 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 | 2024-01-11 |  |
 | [Squid For A Day](https://open.spotify.com/track/129NkktWJoqa7S7PutQpYc) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Squid For A Day](https://open.spotify.com/album/0dCecSOQZTiP5Db8qxye7P) | 2:56 | 2023-10-28 | 2024-02-05 |
 | [Stems of Water](https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb) | [Isik Kural](https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ) | [Stems of Water](https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4) | 2:55 | 2024-08-12 | 2025-01-04 |
@@ -244,7 +245,7 @@
 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 | 2023-02-09 |
 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 | 2022-09-21 | 2024-04-19 |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 |  |
-| [Theta](https://open.spotify.com/track/3O6I4hF2cfElw9sHZf3U6V) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Play at Night](https://open.spotify.com/album/4qgbJb7sWnKv67QHPKXrwk) | 2:31 | 2025-01-09 |  |
+| [Theta](https://open.spotify.com/track/3O6I4hF2cfElw9sHZf3U6V) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Play at Night](https://open.spotify.com/album/4qgbJb7sWnKv67QHPKXrwk) | 2:31 | 2025-01-09 | 2025-02-07 |
 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 | 2024-04-29 |  |
 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 | 2022-09-03 | 2024-04-23 |
 | [Time Killing Killing Time](https://open.spotify.com/track/0mFBlq5k7fqIU46kn6tLL4) | [Zam Ram](https://open.spotify.com/artist/0j9YZpB0I5WDVIHEmAtQjV) | [Time Killing Killing Time](https://open.spotify.com/album/3Q7pAE46S5rBHvyBGmXIlX) | 4:22 | 2022-09-14 | 2023-04-01 |

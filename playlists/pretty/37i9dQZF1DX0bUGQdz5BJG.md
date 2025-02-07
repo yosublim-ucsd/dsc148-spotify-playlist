@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Zach John King
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,846 likes - 220 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,928 likes - 220 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 38 | [Dozen Red Flags](https://open.spotify.com/track/6ELxhwWV7fbsVUzNHMIm8R) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Dozen Red Flags](https://open.spotify.com/album/6OSGcgfHd5Mnrj4eQZCjCc) | 3:00 |
 | 39 | [Ain't Much to Write Home About](https://open.spotify.com/track/3ZXC79jRrhkHbJIRzLXMYL) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Chickahominy](https://open.spotify.com/album/6EJ4tZTotAbF6pvinvSyc5) | 2:56 |
 | 40 | [Dashboard Dreaming](https://open.spotify.com/track/3qUPhtVct2JZYzGmI1b4nR) | [Braedon Barnhill](https://open.spotify.com/artist/6havQH2xpTlwoGLDDTgd49) | [Dashboard Dreaming](https://open.spotify.com/album/3ivwbWRkaHq84sxuiifUc6) | 4:08 |
-| 41 | [Me Or The Dawn](https://open.spotify.com/track/7n3pY0rbsvj9RuOLo2Xmf1) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil](https://open.spotify.com/album/6T9rAaoXTDxE89KyDtIAUl) | 2:54 |
+| 41 | [ME OR THE DAWN](https://open.spotify.com/track/7n3pY0rbsvj9RuOLo2Xmf1) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil](https://open.spotify.com/album/6T9rAaoXTDxE89KyDtIAUl) | 2:54 |
 | 42 | [Helluva High](https://open.spotify.com/track/2yhQFaKveBg5Paxw6dpDtQ) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Helluva High](https://open.spotify.com/album/1ziOuQcuzeLbrE8QnIwyzl) | 3:17 |
 | 43 | [Somebody](https://open.spotify.com/track/1KbaYSiZybLcwH8ys6bt4L) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Somebody](https://open.spotify.com/album/2fp3bXnrZqHplAl4IX7qqP) | 2:15 |
 | 44 | [Cussin' In My Prayers](https://open.spotify.com/track/33ZGZ6JRH2L8Id9Wwx8vVt) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [Cussin' In My Prayers](https://open.spotify.com/album/3BO2pqUwxcIlySR1cNnksx) | 3:20 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 82 | [Sick of Me](https://open.spotify.com/track/22mj5LVhQn1j929r1nxVbH) | [Taylor Austin Dye](https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15) | [Sick of Me](https://open.spotify.com/album/5VeL79QgqCYUZ4tFWiRioQ) | 3:35 |
 | 83 | [Camouflage Town](https://open.spotify.com/track/6UenRuaDOW5tCsXTV353cE) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Camouflage Town](https://open.spotify.com/album/0zIln7BTY2ZuFSLLidfCEt) | 3:33 |
 | 84 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 |
-| 85 | [Call Me First](https://open.spotify.com/track/31jBbj2dl83bNXgaKOTWzL) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Prayer](https://open.spotify.com/album/2FfJKshbtiqsxaEb0ztnI0) | 3:21 |
+| 85 | [CALL ME FIRST](https://open.spotify.com/track/31jBbj2dl83bNXgaKOTWzL) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Prayer](https://open.spotify.com/album/2FfJKshbtiqsxaEb0ztnI0) | 3:21 |
 | 86 | [Drunk Again](https://open.spotify.com/track/5bcomCCyGQncVjoUVj6twa) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Rivertown](https://open.spotify.com/album/4lQXA7UFAT1d25Y8Kr3HA2) | 4:17 |
 | 87 | [Nothin' To Wear](https://open.spotify.com/track/6kNb8J6J0bTNK0WA3GcmHq) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Nothin' To Wear](https://open.spotify.com/album/3doQD854zZJkCwYKaJseXL) | 2:53 |
 | 88 | [Sorry For Nothing](https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Sorry For Nothing](https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ) | 3:18 |

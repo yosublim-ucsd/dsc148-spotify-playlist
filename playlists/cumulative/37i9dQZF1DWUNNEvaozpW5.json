@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -1508,6 +1508,28 @@
       "duration_ms": 236413,
       "name": "Cigarrito",
       "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+    },
+    {
+      "album": {
+        "name": "Cig\u00fce\u00f1as",
+        "url": "https://open.spotify.com/album/3m67gj12DgNuijCJWzoL0q"
+      },
+      "artists": [
+        {
+          "name": "Kike M",
+          "url": "https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9"
+        },
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207368,
+      "name": "Cig\u00fce\u00f1as",
+      "url": "https://open.spotify.com/track/5ui7UcsKn8439rz5fN9Ln1"
     },
     {
       "album": {
@@ -2924,7 +2946,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 201212,
       "name": "El C\u00e1liz",
       "url": "https://open.spotify.com/track/2VLoN5D6iv3j9q6E8KvR2S"
@@ -3260,6 +3282,24 @@
       "duration_ms": 174828,
       "name": "El mundo contra ti",
       "url": "https://open.spotify.com/track/5qU5u4zAke8VjKXZ1eFaBa"
+    },
+    {
+      "album": {
+        "name": "El Polvo de los D\u00edas Raros",
+        "url": "https://open.spotify.com/album/49NvBmz5ULkzTBuoVD2GLc"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247878,
+      "name": "El Polvo de los D\u00edas Raros",
+      "url": "https://open.spotify.com/track/6z98CyBiVapgBCecH98y4d"
     },
     {
       "album": {
@@ -3700,7 +3740,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 266586,
       "name": "Espejo, Espejito",
       "url": "https://open.spotify.com/track/4EUirKhyTAerYc29rWhYhP"
@@ -3824,7 +3864,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 200620,
       "name": "Extraterrestre (feat. Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/5sH0eeQR4CY2U4oNK3HZd2"
@@ -3958,7 +3998,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 480750,
       "name": "Flores de Trinchera",
       "url": "https://open.spotify.com/track/5nEbSbGi12XatVVjeoTUU8"
@@ -6188,7 +6228,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 251983,
       "name": "Marisol",
       "url": "https://open.spotify.com/track/1yvjxjNiirpqymfSTAwIjQ"
@@ -6322,6 +6362,24 @@
       "duration_ms": 288146,
       "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
       "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+    },
+    {
+      "album": {
+        "name": "Me volver\u00eda loco si estuviera cuerdo",
+        "url": "https://open.spotify.com/album/2N4dRfEx0XJwGBkTgwkR0T"
+      },
+      "artists": [
+        {
+          "name": "Les Camisetes",
+          "url": "https://open.spotify.com/artist/0NfzJL4JCERuUD6GOqacGl"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287239,
+      "name": "Me volver\u00eda loco si estuviera cuerdo",
+      "url": "https://open.spotify.com/track/3QNfvtUs1BncHajibh3iQR"
     },
     {
       "album": {
@@ -6477,6 +6535,24 @@
     },
     {
       "album": {
+        "name": "Miami 1990",
+        "url": "https://open.spotify.com/album/4EAYebe5JweiTduq6ctvdn"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236146,
+      "name": "Miami 1990",
+      "url": "https://open.spotify.com/track/7rhp1dmQkCmDlJBWmmeApS"
+    },
+    {
+      "album": {
         "name": "Sopa fria",
         "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
       },
@@ -6578,6 +6654,40 @@
       "duration_ms": 294293,
       "name": "Mis Amigos Donde Estar\u00e1n",
       "url": "https://open.spotify.com/track/4FOyMbEiJGOl4dcaoqRkqE"
+    },
+    {
+      "album": {
+        "name": "Mitos del R&R",
+        "url": "https://open.spotify.com/album/1IYXzhKmnZaNw5OjMxxsqx"
+      },
+      "artists": [
+        {
+          "name": "Sin Sentido",
+          "url": "https://open.spotify.com/artist/5KJpwjU3BsMFPA3wSgJhT7"
+        },
+        {
+          "name": "Nadye",
+          "url": "https://open.spotify.com/artist/2nhsnL9B3yy5qh5hTFjJoU"
+        },
+        {
+          "name": "Deskarte",
+          "url": "https://open.spotify.com/artist/3nym0QKmQwiUygNGPzHlLG"
+        },
+        {
+          "name": "Doxa",
+          "url": "https://open.spotify.com/artist/5ecshCbxGHRrTeqEmS2lgS"
+        },
+        {
+          "name": "Diego Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6USBDgutsptsxTbfahQrfN"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205954,
+      "name": "Mitos del R&R",
+      "url": "https://open.spotify.com/track/0R8zvoDfz1BryTuYgwnAIg"
     },
     {
       "album": {
@@ -7223,6 +7333,24 @@
     },
     {
       "album": {
+        "name": "Para llegar hasta aqu\u00ed",
+        "url": "https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233807,
+      "name": "Para llegar hasta aqu\u00ed",
+      "url": "https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4"
+    },
+    {
+      "album": {
         "name": "Para No Olvidar",
         "url": "https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy"
       },
@@ -7662,6 +7790,24 @@
       "duration_ms": 186843,
       "name": "Puede Ser",
       "url": "https://open.spotify.com/track/07kKtaDOmlcLU50s9eNqYp"
+    },
+    {
+      "album": {
+        "name": "Puede ser",
+        "url": "https://open.spotify.com/album/7obTiGolwQFcWagC4tzUUy"
+      },
+      "artists": [
+        {
+          "name": "El Drogas",
+          "url": "https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223178,
+      "name": "Puede ser",
+      "url": "https://open.spotify.com/track/4Gq8lWZjWUHjCUjyk4Mt2Q"
     },
     {
       "album": {
@@ -8218,7 +8364,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 236559,
       "name": "Rosa la Barbit\u00farica",
       "url": "https://open.spotify.com/track/6RIdIMxYzRFb5tqk0z8KNy"
@@ -8680,7 +8826,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 323120,
       "name": "SKYWALKER",
       "url": "https://open.spotify.com/track/6ncrF7D6CZrxuqqTOyTHuP"
@@ -9150,7 +9296,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 239880,
       "name": "Todo al Rev\u00e9s",
       "url": "https://open.spotify.com/track/45Id4nqps1InlRmytaA6Jl"

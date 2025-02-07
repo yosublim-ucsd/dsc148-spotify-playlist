@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Lydia Jazmin
+> East Africa queens in their music bag\. Cover: Fena
 
-155 songs - 8 hr 14 min
+156 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Omwenge](https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Omwenge](https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT) | 3:45 | 2023-09-21 |  |
 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 | 2023-09-07 |  |
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 |  |
-| [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-07-18 |  |
+| [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-07-18 | 2025-02-07 |
 | [Only Girl](https://open.spotify.com/track/6jHmMHZSDWrKLVJiYvYpir) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Only Girl](https://open.spotify.com/album/3MFIO9csbm5ogXyN0UEs7f) | 3:24 | 2023-08-17 |  |
 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 | 2023-08-17 |  |
 | [Otulo](https://open.spotify.com/track/0P1NDu5JWfCXnAA0CdLf1w) | [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw) | [Otulo](https://open.spotify.com/album/6kCT9FtonNw8R8cG7Hy4yV) | 3:37 | 2024-07-04 |  |
@@ -121,6 +121,7 @@
 | [Pwita](https://open.spotify.com/track/6y1tOPuICUUq5f5yMUphnU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Pwita](https://open.spotify.com/album/6QsCgfgZ8Z53yNlq8oXMVU) | 3:24 | 2024-08-29 |  |
 | [Ra\(Mna\)fiki](https://open.spotify.com/track/3xjATULksJEFygp6yZHXmt) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [TAKE ONE](https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D) | 3:12 | 2024-05-30 |  |
 | [Raha](https://open.spotify.com/track/5L9ABMBidJ9jzZLJEM8ShZ) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Raha](https://open.spotify.com/album/1wroced4483UjUHEPZXfzA) | 3:14 | 2023-06-01 |  |
+| [Risk It All](https://open.spotify.com/track/3Dix08cudd9BszjPeaaxME) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Fenergy](https://open.spotify.com/album/4ajMZYIrf0jKAfLz78SABl) | 2:26 | 2025-02-06 |  |
 | [Rotate](https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Rotate](https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e) | 2:49 | 2022-07-18 | 2023-10-20 |
 | [Salsa \(Ready\)](https://open.spotify.com/track/4sA3oaBmIceYBuileHFjEf) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Salsa \(Ready\)](https://open.spotify.com/album/0nrKiDxIeeLFYem4v6vae6) | 3:39 | 2022-07-18 | 2023-01-28 |
 | [SARE](https://open.spotify.com/track/6PBPQBCwEecZHzuTKoKjiq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [SARE](https://open.spotify.com/album/2dCE4ncQB0yQ0HAC1B6yyE) | 2:54 | 2022-07-18 | 2022-09-02 |

@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen: un homenaje a Violeta Parra. ",
-  "num_followers": 13961,
+  "num_followers": 13959,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
         "name": "AM + bonus Tracks (Edici\u00f3n Aniversario)",
         "url": "https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 225026,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -135,18 +135,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Cari\u00f1o Malo",
-        "url": "https://open.spotify.com/album/1Py0xymBaKzMvbAFi9I5ug"
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
       "artists": [
         {
-          "name": "D\u00fao Pajarito",
-          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Cari\u00f1o Malo",
-      "url": "https://open.spotify.com/track/2A8IWW4doAylJMntiYO7VY"
+      "duration_ms": 228213,
+      "name": "Lev\u00edtico 20:9",
+      "url": "https://open.spotify.com/track/0l3zOe0a5HH4uAw6ZS89dn"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -167,18 +167,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+        "name": "Cari\u00f1o Malo",
+        "url": "https://open.spotify.com/album/1Py0xymBaKzMvbAFi9I5ug"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "D\u00fao Pajarito",
+          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
         }
       ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
+      "duration_ms": 207813,
+      "name": "Cari\u00f1o Malo",
+      "url": "https://open.spotify.com/track/2A8IWW4doAylJMntiYO7VY"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -199,18 +199,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 228213,
-      "name": "Lev\u00edtico 20:9",
-      "url": "https://open.spotify.com/track/0l3zOe0a5HH4uAw6ZS89dn"
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
+      },
+      "artists": [
+        {
+          "name": "Nicole Bunout",
+          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
+        }
+      ],
+      "duration_ms": 252257,
+      "name": "Permiso",
+      "url": "https://open.spotify.com/track/1hs8eutktH2210mudKOo2Z"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
         "name": "Los Ojos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
@@ -359,6 +375,42 @@
       "duration_ms": 231038,
       "name": "Barquito de Papel",
       "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Tu Isla",
+        "url": "https://open.spotify.com/album/78d7xBJ5aj3JHBCHJObniR"
+      },
+      "artists": [
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        },
+        {
+          "name": "Humboldt",
+          "url": "https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6"
+        }
+      ],
+      "duration_ms": 282205,
+      "name": "Tu Isla",
+      "url": "https://open.spotify.com/track/3gDgHQ0o6d4QFGh8Uo1jSF"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 176599,
+      "name": "A la Mar Fui por Naranjas",
+      "url": "https://open.spotify.com/track/55vHYlcaslpFY3ZTSkYT48"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -387,42 +439,6 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 176599,
-      "name": "A la Mar Fui por Naranjas",
-      "url": "https://open.spotify.com/track/55vHYlcaslpFY3ZTSkYT48"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
-        "name": "Tu Isla",
-        "url": "https://open.spotify.com/album/78d7xBJ5aj3JHBCHJObniR"
-      },
-      "artists": [
-        {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
-        },
-        {
-          "name": "Humboldt",
-          "url": "https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6"
-        }
-      ],
-      "duration_ms": 282205,
-      "name": "Tu Isla",
-      "url": "https://open.spotify.com/track/3gDgHQ0o6d4QFGh8Uo1jSF"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
       },
@@ -432,25 +448,9 @@
           "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
         }
       ],
-      "duration_ms": 252257,
-      "name": "Permiso",
-      "url": "https://open.spotify.com/track/1hs8eutktH2210mudKOo2Z"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
-        "name": "Unita",
-        "url": "https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx"
-      },
-      "artists": [
-        {
-          "name": "Javiera Barreau",
-          "url": "https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6"
-        }
-      ],
-      "duration_ms": 148080,
-      "name": "Huaynito de Amor",
-      "url": "https://open.spotify.com/track/4p6Qm5fkbJaedDg1U3020S"
+      "duration_ms": 198954,
+      "name": "Ser jazm\u00edn, ser golondrina",
+      "url": "https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -487,18 +487,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Que me des tu cari\u00f1o",
-        "url": "https://open.spotify.com/album/0xbWZ29zelFd3pRliOx3K6"
+        "name": "Unita",
+        "url": "https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx"
       },
       "artists": [
         {
-          "name": "laia",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+          "name": "Javiera Barreau",
+          "url": "https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6"
         }
       ],
-      "duration_ms": 210823,
-      "name": "Que me des tu cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UFrpHowqX4yrcHuAsXem7"
+      "duration_ms": 148080,
+      "name": "Huaynito de Amor",
+      "url": "https://open.spotify.com/track/4p6Qm5fkbJaedDg1U3020S"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -531,22 +531,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Unita",
-        "url": "https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx"
+        "name": "Que me des tu cari\u00f1o",
+        "url": "https://open.spotify.com/album/0xbWZ29zelFd3pRliOx3K6"
       },
       "artists": [
         {
-          "name": "Javiera Barreau",
-          "url": "https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6"
-        },
-        {
-          "name": "sgomez",
-          "url": "https://open.spotify.com/artist/6HLvJhMwLNouctYrL6KiSN"
+          "name": "laia",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
         }
       ],
-      "duration_ms": 273880,
-      "name": "Ruka",
-      "url": "https://open.spotify.com/track/4xGH1TnAIRjplERSykBNBS"
+      "duration_ms": 210823,
+      "name": "Que me des tu cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UFrpHowqX4yrcHuAsXem7"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -599,18 +595,22 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
+        "name": "Aunque Duela",
+        "url": "https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C"
       },
       "artists": [
         {
-          "name": "Nicole Bunout",
-          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
+          "name": "D\u00fao Pajarito",
+          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
+        },
+        {
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
         }
       ],
-      "duration_ms": 198954,
-      "name": "Ser jazm\u00edn, ser golondrina",
-      "url": "https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg"
+      "duration_ms": 221826,
+      "name": "Noche no te vayas",
+      "url": "https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC"
     }
   ],
   "unique_name": "EQUAL Chile",

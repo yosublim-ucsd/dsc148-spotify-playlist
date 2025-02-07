@@ -2,9 +2,9 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG?si=SsP1g9olTnyhN64rI5xQPA"> Drega</a>
+> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi?si=d\_vew40\_TqSrIpLSZkf7Ww">TRESOR</a>
 
-1,138 songs - 4 day 5 hr 56 min
+1,140 songs - 4 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Let Me Tell You](https://open.spotify.com/track/1xWwWIs8jZ4aD55ephMEfW) | [Jonas Apollo](https://open.spotify.com/artist/7lD3p5VqwrhFUse5uzAEGq), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Let Me Tell You](https://open.spotify.com/album/007pfmehM2aiyu80BUM1cQ) | 3:12 | 2022-01-06 | 2022-02-24 |
 | [Let You Go](https://open.spotify.com/track/5ReKjq82vp8mqnY4eZFYg8) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Euphonik](https://open.spotify.com/artist/0UdSjb6EeZYK8LGxHcgkkP), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Let You Go](https://open.spotify.com/album/5XLgEZ15S3MLWsebU6WMQm) | 3:17 | 2021-11-25 | 2022-01-11 |
 | [Let You Go \- Notre Dame Remix](https://open.spotify.com/track/4hyIeyW7cd8kQZU4UIlTOA) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Euphonik](https://open.spotify.com/artist/0UdSjb6EeZYK8LGxHcgkkP), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Let You Go \(Notre Dame Remix\)](https://open.spotify.com/album/7y9bBTWfYm7LYdlKtW4PQa) | 6:53 | 2022-01-20 | 2022-02-18 |
+| [Let's Play House \- ThinkFishTank Remix](https://open.spotify.com/track/6mqRhqPGOM1WYjdrknUJQf) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND), [ThinkFishTank](https://open.spotify.com/artist/39LNSOUhq3Q470ZrQsfeXW) | [Let's Play House \(ThinkFishTank Remix\)](https://open.spotify.com/album/07RCuUn8lZTVZVpKvLfKaj) | 4:00 | 2025-02-06 |  |
 | [Let's Pray](https://open.spotify.com/track/4KdcZBeA1z24Y3iDs39fvg) | [Oddxperienc](https://open.spotify.com/artist/5RXzrByvomzrD6UFK5ao5K) | [Be Still](https://open.spotify.com/album/6js3b9XKxPET1ymIxVMRhN) | 6:05 | 2023-06-23 | 2023-08-11 |
 | [Libalele](https://open.spotify.com/track/1Y4NgoSRcJxzQgRoVX6WEQ) | [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Libalele](https://open.spotify.com/album/3B0TxLdlJen0o9TCwWTXp7) | 5:36 | 2022-09-01 | 2022-11-01 |
 | [Lie To Me \- Kenza Remix](https://open.spotify.com/track/5mHtTYySBVcQHVAOOGquvR) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Lie To Me \(Kenza Remix\)](https://open.spotify.com/album/15HtokPxisCKgnthA7Csuf) | 5:46 | 2023-08-18 | 2023-10-27 |
@@ -1070,6 +1071,7 @@
 | [Vuvuzela](https://open.spotify.com/track/28QivzTXBahunPN2l5c00w) | [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr) | [Vuvuzela](https://open.spotify.com/album/0P3I3gTJStIelLybEr2dUW) | 5:53 | 2022-09-22 | 2022-10-14 |
 | [Waiting](https://open.spotify.com/track/6iO5RXMuBM4CsLJwrzvt0r) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Waiting](https://open.spotify.com/album/6vd0Q6rHFZ2E3mJO8bn7o2) | 3:58 | 2022-09-01 | 2022-09-10 |
 | [Wake Them Up \- Siyo'bavusa](https://open.spotify.com/track/6qZJoaKhQA57rYLsZ7cA65) | [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt) | [Light](https://open.spotify.com/album/4DtFjK1yiGjvKE7YqVt5wX) | 7:27 | 2023-05-05 | 2023-05-12 |
+| [Wale Wale](https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wale Wale](https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1) | 5:17 | 2025-02-06 |  |
 | [Wanalia](https://open.spotify.com/track/1NVyVOjrTFhtAbr1siZ3bq) | [Gazzille\_Z.A](https://open.spotify.com/artist/6pxLXiRwqTibmbIQPwjDnB), [Djuma Soundsystem](https://open.spotify.com/artist/2qLMn7MWPmxYxQz14KY7MV) | [Wanalia](https://open.spotify.com/album/0J7saRGE9G5jmRHQzPezkR) | 6:24 | 2022-11-03 | 2022-12-09 |
 | [Want U Again](https://open.spotify.com/track/137KnVuHd8eN9oWr9q2cDo) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Want U Again](https://open.spotify.com/album/2s0aZNFIJiDY79ONncV56F) | 7:14 | 2023-08-03 | 2023-10-17 |
 | [Warrior \(feat\. Nomvula SA\)](https://open.spotify.com/track/36Y8bpib3Hv0CwgBpJGrlV) | [TIMANTI](https://open.spotify.com/artist/41a6BgFAvZc0eIzBIcfWMA), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY) | [Warrior \(feat\. Nomvula SA\)](https://open.spotify.com/album/4sCAUi6ujGGdEN8dUv8Fmf) | 5:29 | 2022-09-29 | 2022-11-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,000 likes - 278 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,999 likes - 278 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 32 | [Take a Giant Step \- 1969 Version](https://open.spotify.com/track/6Nf71UnBJ89Y36vn0PwY8D) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 4:15 |
 | 33 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 |
 | 34 | [Hard Rock Café](https://open.spotify.com/track/5oLObQcGpeEjrOHpPY80F5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:43 |
-| 35 | [He Hit Me](https://open.spotify.com/track/2W04ifQB9DPaUMTP47ADnW) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend](https://open.spotify.com/album/6V6UlLYj4jp7eaFCsmPY3s) | 4:23 |
-| 36 | [Some of Your Lovin'](https://open.spotify.com/track/6pIoczFbC1QaQACeUfwTdb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Going Back \(2010\)](https://open.spotify.com/album/51YI8SD0GBp3c7cavCD6Zr) | 3:20 |
+| 35 | [Some of Your Lovin'](https://open.spotify.com/track/6pIoczFbC1QaQACeUfwTdb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Going Back \(2010\)](https://open.spotify.com/album/51YI8SD0GBp3c7cavCD6Zr) | 3:20 |
+| 36 | [He Hit Me](https://open.spotify.com/track/2W04ifQB9DPaUMTP47ADnW) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend](https://open.spotify.com/album/6V6UlLYj4jp7eaFCsmPY3s) | 4:23 |
 | 37 | [No Easy Way Down](https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG) | [Na Allen](https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN) | [No Easy Way Down: Rare Soul Sides](https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa) | 2:53 |
 | 38 | [Just Once In My Life](https://open.spotify.com/track/3Qg7WE98qRezh4Jq9fCKr8) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:47 |
 | 39 | [Only Love Is Real](https://open.spotify.com/track/1nxgnG63hvc87iBLEvCuHS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:29 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 168 | [Can't You Be Real](https://open.spotify.com/track/2D9auftJn0Q6PmKzZDOyjE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 2:56 |
 | 169 | [So Many Ways](https://open.spotify.com/track/7scWRQNIqipbmrcngQfwmf) | [Crash Kings](https://open.spotify.com/artist/08QZWYiCiN62cbBoq8JR5I) | [Dark Of The Daylight](https://open.spotify.com/album/70uumErsWpotWrGrfmkqiH) | 4:06 |
 | 170 | [Look Down](https://open.spotify.com/track/0KKaTx4F9g6noYqiYeyeEH) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Only Love Me](https://open.spotify.com/album/0HfnGYuGW980ynBFAUKEqi) | 2:29 |
-| 171 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/2xW1KIGPsLf2oORmvAEsvQ) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 1:59 |
-| 172 | [Same Old Story](https://open.spotify.com/track/1NC4U3Q0PAZgpTeawDeB5P) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 4:49 |
+| 171 | [Same Old Story](https://open.spotify.com/track/1NC4U3Q0PAZgpTeawDeB5P) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 4:49 |
+| 172 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/2xW1KIGPsLf2oORmvAEsvQ) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 1:59 |
 | 173 | [Honey and Wine \- 2003 Remaster](https://open.spotify.com/track/11qM9odmMGoDOfHMOM65se) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [In The Hollies Style \(Expanded Edition\)](https://open.spotify.com/album/1juitqjWhK1iPIQ6aSiuVc) | 2:29 |
 | 174 | [No Sad Song](https://open.spotify.com/track/4GAu46qbdEu21ScQ10BkPZ) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Helen Reddy](https://open.spotify.com/album/5JcT9BxkqS2CQmMkg16lgR) | 3:11 |
 | 175 | [I'll Love You For A While](https://open.spotify.com/track/4LNzBFytMkQ4nxE2Yhxv2A) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Ooooooweeee!](https://open.spotify.com/album/1HxE0CdLFyhAAb7ysXtHjM) | 2:06 |
@@ -266,7 +266,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 256 | [Stone Cold World](https://open.spotify.com/track/56aAxTCxS2c8ZzKvS1MUKJ) | [A.l.t.](https://open.spotify.com/artist/6vFKxAcVuWQhv5J6CO9dQz) | [Stone Cold World](https://open.spotify.com/album/6TpuGCW86cAyDhCqG6WE89) | 3:33 |
 | 257 | [They're Jealous Of Me](https://open.spotify.com/track/2QGrKWSgmY1ENXWdIB0V91) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:54 |
 | 258 | [The Reunion \- Instrumental Interlude, Pt\. 1](https://open.spotify.com/track/03ZLYdHAN1IF9cFTwHrtZR) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Rare, Rarer & Rarest](https://open.spotify.com/album/4jCUaQ3CEu82w3w0EYrELn) | 1:56 |
-| 259 | [The Sheik](https://open.spotify.com/track/13RS52E25mjvFudrAA9zKR) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 2:29 |
+| 259 | [THE SHEIK](https://open.spotify.com/track/7BDZIEXyJ5xIT0dGV3v9kr) | [THE CLOVERS](https://open.spotify.com/artist/3cG0rRF1ZLzhZWyRYvskUf) | [ラヴ・ポーション・ナンバー・ナイン](https://open.spotify.com/album/73bmfm6XPyPGKJjg7GYVaB) | 2:30 |
 | 260 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
 | 261 | [The Slide](https://open.spotify.com/track/67Ae2TYDdJ3uymxLFynJmQ) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Hey Girl](https://open.spotify.com/album/1NfKXGEGEAHmYSyAfVjdK9) | 2:04 |
 | 262 | [Happy Being Fat](https://open.spotify.com/track/5pD3ZBr7iPrSxwHyPm9MsP) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:33 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 277 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 278 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AboztgAAAABsusnXsnwRpUbtBltzPfZa`
+Snapshot ID: `Abo5iAAAAAClmUS4+SMP/XbwSp+XVJNl`

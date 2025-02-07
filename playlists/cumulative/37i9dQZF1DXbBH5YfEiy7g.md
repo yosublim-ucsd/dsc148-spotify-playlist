@@ -2,9 +2,9 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H?si=eGvztXnCSdmdpTWK9eyALg">Nontokozo Mkhize</a>
+> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s?si=Ci19k6ImSzukckEeetcsEw">Mmuso Worship</a>
 
-101 songs - 10 hr 35 min
+103 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bhekani UJehova \- Live](https://open.spotify.com/track/5FZNzkJ9Csk4m9XegJRahx) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 18: One Purpose \(Live at CityHill Church, Durban 2014\)](https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr) | 7:13 | 2024-10-11 |  |
 | [Bina Moya Waka \(Live\)](https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Bina Moya Waka \(Live\)](https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP) | 6:37 | 2024-10-11 |  |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2024-10-04 |  |
+| [Ebenezer](https://open.spotify.com/track/66cf5Aufw5GxRauvzVdli7) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ebenezer](https://open.spotify.com/album/0MQ00rMj7eBh6vsbNbqZFj) | 9:28 | 2025-02-07 |  |
 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 | 2024-10-04 |  |
 | [Emmanuel \- Recorded at Studio](https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN) | [Universal Khathisma Apostolic Church In Zion](https://open.spotify.com/artist/4XMCB93O98csLnrucGLvuw) | [MOPOROFETA](https://open.spotify.com/album/6zu9UliivfrJ11NZEnXcol) | 5:03 | 2024-10-04 |  |
 | [Esandleni](https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Esandleni](https://open.spotify.com/album/4GG6rS5yCifLj4BpOzkmab) | 5:36 | 2024-12-20 |  |
@@ -63,6 +64,7 @@
 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 | 2024-10-04 |  |
 | [Ngidle](https://open.spotify.com/track/4EHnPTebdfncfJ3Qez0hFP) | [D'braz](https://open.spotify.com/artist/06l0SbL4Tz5E4GVjWJDbGL), [Msongi](https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby), [Lwami](https://open.spotify.com/artist/4ojVz3Vc0diTbr3GlZZ0y8) | [Ngidle](https://open.spotify.com/album/5edJhneY7kPAHQ2jas0tRk) | 5:45 | 2024-10-11 |  |
 | [Nginguthandiwe](https://open.spotify.com/track/5urEXwziw47MhSwePbbl4J) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Nginguthandiwe](https://open.spotify.com/album/6fdhhcKe1xHCLV4cPV3xxR) | 6:19 | 2024-10-04 |  |
+| [Nginobufakazi](https://open.spotify.com/track/3nwAv4rnjs29WbN80LnvaY) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Nginobufakazi](https://open.spotify.com/album/5T5Tzr9YcpmtUWZdahtXQT) | 8:25 | 2025-02-07 |  |
 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 | 2024-10-04 |  |
 | [Ngiyekele](https://open.spotify.com/track/4odhbXjDIOEXnNEKVzEMPb) | [Umlazi Gospel Choir](https://open.spotify.com/artist/2ZMR6Ck9Z8CbHb64yuJXbi) | [Ngiyekele](https://open.spotify.com/album/5RuRN15mbhuKihXJ0ibhi4) | 3:52 | 2024-10-11 | 2024-10-25 |
 | [Ngizobambelela Kulo](https://open.spotify.com/track/2pXymoKcSdcFqhbqQh8Dld) | [Jesus Xperience](https://open.spotify.com/artist/6az3ysrY7HVeSd9J6lcoF0) | [Ngizobambelela Kulo](https://open.spotify.com/album/1gUzP1tzPl9u1zmvucwxjK) | 6:49 | 2024-11-22 |  |

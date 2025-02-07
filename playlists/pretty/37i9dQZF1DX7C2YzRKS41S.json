@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 133243,
+  "num_followers": 133308,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+      "duration_ms": 248333,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 248333,
-      "name": "Now And Then",
-      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 194886,
       "name": "Male Fantasy",
       "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Simples",
-        "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 170409,
-      "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
-      "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
         "name": "CSN",
         "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 133960,
       "name": "Just a Song Before I Go",
       "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Simples",
+        "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 170409,
+      "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
+      "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Simples e Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/4Dm6py1rtwMJqh75XVMfnH"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Germano",
-          "url": "https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy"
-        }
-      ],
-      "duration_ms": 207115,
-      "name": "Simples e Rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 229868,
       "name": "Sim",
       "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Simples e Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/4Dm6py1rtwMJqh75XVMfnH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Germano",
+          "url": "https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy"
+        }
+      ],
+      "duration_ms": 207115,
+      "name": "Simples e Rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -971,22 +971,18 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Princess of China",
-        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Princess of China - Acoustic",
-      "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
+      "duration_ms": 234186,
+      "name": "Give Me The Reason",
+      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
     },
     {
       "added_at": "2024-12-03 22:02:31",

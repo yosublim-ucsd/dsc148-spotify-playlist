@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-223 songs - 15 hr 47 min
+225 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Fire By The River](https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 3:34 | 2021-10-20 |  |
 | [Flor do Real](https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Grandeza](https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn) | 3:34 | 2021-10-20 | 2024-01-14 |
 | [Flying Gambus](https://open.spotify.com/track/60x7wPkVFWvzszwb8KGVMq) | [Suarasama](https://open.spotify.com/artist/6AvehMD3el7PEcNRqJ7uV2) | [Flying Gambus](https://open.spotify.com/album/46N31e5QdqUOePt8ZidxQm) | 7:55 | 2024-07-05 | 2024-12-09 |
+| [Funeral for Justice \- Injustice Version](https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice \(Injustice Version\)](https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F) | 5:45 | 2025-02-06 |  |
 | [Garawek khaos](https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn) | [Cemento Atlantico](https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT) | [Dromomania](https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx) | 4:53 | 2024-07-05 |  |
 | [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 | 2021-10-20 |  |
 | [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 | 2022-08-31 |  |
@@ -180,6 +181,7 @@
 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 | 2021-10-20 |  |
 | [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 | 2021-10-20 | 2023-10-05 |
 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 | 2021-10-20 | 2024-04-19 |
+| [Tassi](https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Tassi](https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS) | 4:43 | 2025-02-06 |  |
 | [Tatalu](https://open.spotify.com/track/0WtW0M6IKRtLcbCpqo3XRo) | [LAIR](https://open.spotify.com/artist/5WB1tkUeYbCriTlg3RyBjm) | [Tatalu](https://open.spotify.com/album/788iaGG2Dt0gppAS7ltbkF) | 2:56 | 2024-02-02 | 2024-05-10 |
 | [Tayyara Warak](https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tayyara Warak \(Habibi Funk 023\)](https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t) | 2:48 | 2022-12-29 |  |
 | [Tazidert](https://open.spotify.com/track/2t67B5rLaQljQtXb7121Bp) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Sahel](https://open.spotify.com/album/2bu7BrEuunURavjRY9qkyR) | 4:56 | 2023-06-02 | 2023-11-24 |
@@ -198,7 +200,7 @@
 | [Totomami](https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU) | [Pony Bravo](https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF) | [Gurú](https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq) | 3:38 | 2021-10-20 |  |
 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 | 2023-09-25 | 2024-08-29 |
 | [Turkish Coffee](https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Turkish Coffee](https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW) | 3:37 | 2022-02-25 |  |
-| [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 | 2022-03-28 |  |
+| [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 | 2022-03-28 | 2025-02-07 |
 | [Unathi](https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:33 | 2021-10-20 | 2024-04-19 |
 | [Under No Nation \- Radio Edit](https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Under No Nation \(Radio Edit\)](https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm) | 3:04 | 2022-08-31 |  |
 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-04-22 | 2024-04-19 |
@@ -211,7 +213,7 @@
 | [W Boru Kalinka](https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie) | [Wykorzenienie](https://open.spotify.com/album/1NGak9Mv3q20g05HXik7fq) | 3:29 | 2021-10-20 | 2023-11-21 |
 | [Wakangenei](https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH) | [Ankobo + Kaboo](https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6) | [Wakangenei](https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2) | 3:52 | 2021-10-20 | 2024-07-18 |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2024-01-11 | 2024-06-06 |
-| [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 |  |
+| [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 | 2025-02-07 |
 | [Whaya](https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Whaya](https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t) | 3:46 | 2022-11-17 | 2025-01-21 |
 | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Muyun Brothers](https://open.spotify.com/artist/2y2brohJLOwREBed1LdUMF) | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR) | 3:06 | 2024-02-10 |  |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-20 |  |

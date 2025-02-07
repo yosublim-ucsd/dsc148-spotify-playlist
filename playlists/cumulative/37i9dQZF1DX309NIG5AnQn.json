@@ -2737,6 +2737,28 @@
     },
     {
       "album": {
+        "name": "Mi mu\u00f1eca me hablo",
+        "url": "https://open.spotify.com/album/79oqJE0OAoAYbEYQKSuElW"
+      },
+      "artists": [
+        {
+          "name": "Manu Choque",
+          "url": "https://open.spotify.com/artist/1YlA5Z9Jv8lbxZBNzCPKYT"
+        },
+        {
+          "name": "Emily And",
+          "url": "https://open.spotify.com/artist/5M6wUgbJZtwFojkgmm7wf1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125701,
+      "name": "Mi mu\u00f1eca me hablo",
+      "url": "https://open.spotify.com/track/1Lp4kHYiR1YJd88MkOpuOd"
+    },
+    {
+      "album": {
         "name": "Millones",
         "url": "https://open.spotify.com/album/209q6Mt9aQaZu2C1x6jwej"
       },
@@ -3710,7 +3732,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 137887,
       "name": "Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132"

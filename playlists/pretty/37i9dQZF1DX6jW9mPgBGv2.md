@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Papi Arca plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,990 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,162 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 13 | [Hallandale](https://open.spotify.com/track/50CYOTrV18phIZPiCjYW9z) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Hallandale](https://open.spotify.com/album/55MsZKMznIvPjbVGafPbq5) | 4:04 |
 | 14 | [Pensamos Rapido](https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Pensamos Rapido](https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0) | 2:15 |
 | 15 | [BIG MOVES](https://open.spotify.com/track/5V4NkldBDetisUhRsHvBfK) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [BIG MOVES](https://open.spotify.com/album/0qTmGPizxtjKohNWEIADfx) | 2:36 |
-| 16 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
+| 16 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
 | 17 | [BALENCIAGA](https://open.spotify.com/track/1ZdhuKXOw9e2YxFdAZaUhC) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [UNA SEMANA INCREÍBLE](https://open.spotify.com/album/6laF0vOsbRWsxFKDvfoAsM) | 2:52 |
 | 18 | [TU NO ENTIENDE](https://open.spotify.com/track/4OOwxGbZguIXiuRyfoPfc4) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC), [Tito Flow](https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v) | [TU NO ENTIENDE](https://open.spotify.com/album/0Uqpi5vgn3s19xMRhKdBET) | 4:13 |
 | 19 | [ASHE](https://open.spotify.com/track/5WpmiPmysOmX2UsUiAiJ6l) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [ASHE](https://open.spotify.com/album/41CH0ZtsiKifRKqbhag7Tw) | 2:36 |

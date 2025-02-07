@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Almond Milk
+> 2024 RADAR登場！持續發掘世一超新聲！Cover:Jasmine Kelly
 
-221 songs - 12 hr 46 min
+223 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-23 | 2022-10-06 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:14 | 2022-09-15 | 2023-04-14 |
 | [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 | 2023-04-13 | 2024-03-29 |
+| [Dancing in the Dark 2.0](https://open.spotify.com/track/2pVsRKazNvGhKGaRUaBu3F) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [等一下就回家](https://open.spotify.com/artist/5MPJmSm1l631HPse8wLB4z) | [Dancing in the Dark 2.0](https://open.spotify.com/album/43ySzUpBQrvjMFfWgO5qen) | 3:22 | 2025-02-06 |  |
 | [Dear Vicky](https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [Dear Vicky](https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws) | 4:05 | 2024-09-12 |  |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2023-09-15 | 2024-03-29 |
 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 |  |
@@ -81,6 +82,7 @@
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-04-13 | 2024-03-29 |
 | [Mask Off](https://open.spotify.com/track/5DWa1yu3YyOooCNOCP88M0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [Mask Off](https://open.spotify.com/album/7lPukklXy0yedXd8j68rnW) | 3:28 | 2023-04-13 | 2024-03-29 |
 | [mountain](https://open.spotify.com/track/7ymXZxnw48FcoGm27NhMlu) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [mountain](https://open.spotify.com/album/2PHjceB7h7ABJ4dWkkUkHS) | 1:42 | 2024-03-28 |  |
+| [Mountain Song](https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Mountain Song](https://open.spotify.com/album/5svETC0BXMrTyzJ3D53m8I) | 3:10 | 2025-02-06 |  |
 | [Mr\. Nobody](https://open.spotify.com/track/4BLLabgvIOkn6nJF0flywa) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [Mr\. Nobody](https://open.spotify.com/album/4BHmoJJ6w2fZOXiXgtZWmd) | 2:56 | 2024-03-28 |  |
 | [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 | 2023-04-13 | 2023-12-15 |
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2023-11-23 | 2024-03-29 |

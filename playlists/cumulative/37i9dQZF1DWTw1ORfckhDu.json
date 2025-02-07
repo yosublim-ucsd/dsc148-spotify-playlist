@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Ares.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Jore & Zpoppa.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 179076,
       "name": "100%",
       "url": "https://open.spotify.com/track/6ObAY0tHZPxcYAGkGDGQQv"
+    },
+    {
+      "album": {
+        "name": "1000H Mummolassa",
+        "url": "https://open.spotify.com/album/2U4NQUwxujHN5rpiDL5lpq"
+      },
+      "artists": [
+        {
+          "name": "ROBIN",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "1000H Mummolassa",
+      "url": "https://open.spotify.com/track/0pjCPHzuXdbHGQWMvoOcRy"
     },
     {
       "album": {
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 181716,
       "name": "Dead Presidents",
       "url": "https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA"
@@ -3983,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "H\u00e4n",
+        "url": "https://open.spotify.com/album/4f2MOfbDo4XYLKkrrmknrB"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "H\u00e4n",
+      "url": "https://open.spotify.com/track/4gmir4Q2IHvYB94pPP1TYW"
+    },
+    {
+      "album": {
         "name": "H\u00c4NES",
         "url": "https://open.spotify.com/album/4tDUIBqDZy3AmhvyMSA4Lp"
       },
@@ -4544,7 +4580,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 110810,
       "name": "Jeesus",
       "url": "https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R"
@@ -5368,7 +5404,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 156146,
       "name": "Katujen \u00c4\u00e4ni",
       "url": "https://open.spotify.com/track/2KopLIGfST6iCswFBRBrio"
@@ -6284,7 +6320,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 135998,
       "name": "Koukus",
       "url": "https://open.spotify.com/track/6P0Oi8lYdr7tdAQptCUuNZ"
@@ -9996,7 +10032,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 177233,
       "name": "Otan Kii",
       "url": "https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4"
@@ -10074,6 +10110,24 @@
       "duration_ms": 235320,
       "name": "Paa se biisi soimaan",
       "url": "https://open.spotify.com/track/1QArR7272Cv4x9SbKhZIQO"
+    },
+    {
+      "album": {
+        "name": "Paha \u00c4ij\u00e4",
+        "url": "https://open.spotify.com/album/1rXDtCewmnlLbybYx1Csgh"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144093,
+      "name": "Paha \u00c4ij\u00e4",
+      "url": "https://open.spotify.com/track/0VyEtWYB677PHsvPBaLxYS"
     },
     {
       "album": {
@@ -10454,7 +10508,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 148406,
       "name": "PEBT",
       "url": "https://open.spotify.com/track/7LokI4N18vbgXeOZ1NQVlT"
@@ -11062,7 +11116,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 166440,
       "name": "P\u00e4\u00e4henkil\u00f6",
       "url": "https://open.spotify.com/track/0GAhnbTVdovWR7jeYtmrba"
@@ -11290,6 +11344,28 @@
       "duration_ms": 192372,
       "name": "Rallikansa",
       "url": "https://open.spotify.com/track/1tE3e0tfkZ4q8wC9fMcAoP"
+    },
+    {
+      "album": {
+        "name": "Sitruunavuodet",
+        "url": "https://open.spotify.com/album/1OUPfzUZhIJ077KcahkUSw"
+      },
+      "artists": [
+        {
+          "name": "Asa",
+          "url": "https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D"
+        },
+        {
+          "name": "Ransukoira",
+          "url": "https://open.spotify.com/artist/1gEUb50O16RzLbZ63SbycQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174281,
+      "name": "Rappari",
+      "url": "https://open.spotify.com/track/76jAlykAXpiUe08iAFFvoK"
     },
     {
       "album": {
@@ -11563,6 +11639,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4qh0oqh6tSVZmgK5fEtoGM"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180101,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/1o07xfumEmwE01GeYCFz1w"
+    },
+    {
+      "album": {
         "name": "ROISTO",
         "url": "https://open.spotify.com/album/5Cp3eaVCmNQugVdFZUOvI3"
       },
@@ -11600,6 +11694,28 @@
       "duration_ms": 132860,
       "name": "ROSALIA",
       "url": "https://open.spotify.com/track/0chbJg26R6Cew7wakVJBTm"
+    },
+    {
+      "album": {
+        "name": "Roty Freestyle (feat. R\u00f6ge)",
+        "url": "https://open.spotify.com/album/5vsZDPMBacb3LoM8MbndQv"
+      },
+      "artists": [
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        },
+        {
+          "name": "R\u00f6ge",
+          "url": "https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194769,
+      "name": "Roty Freestyle (feat. R\u00f6ge)",
+      "url": "https://open.spotify.com/track/4CtssUHv3khApoiXeHKEmg"
     },
     {
       "album": {
@@ -12714,6 +12830,28 @@
       "duration_ms": 178666,
       "name": "Stunttaa",
       "url": "https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO"
+    },
+    {
+      "album": {
+        "name": "stupidcash",
+        "url": "https://open.spotify.com/album/1xOFq3UfkrHMPvG6Av4RSO"
+      },
+      "artists": [
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        },
+        {
+          "name": "pradaaslife",
+          "url": "https://open.spotify.com/artist/5cYA1LcFv2PRCrK5ZphW4L"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126181,
+      "name": "stupidcash",
+      "url": "https://open.spotify.com/track/1yu7x9xOKxnkgLh6rtMGqH"
     },
     {
       "album": {
@@ -15212,7 +15350,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 191020,
       "name": "Viimeinen kuulutus",
       "url": "https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7"

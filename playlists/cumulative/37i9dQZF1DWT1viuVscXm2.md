@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-355 songs - 20 hr 23 min
+356 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 | 2023-04-28 |  |
 | [Ven, Ven](https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Ven, Ven](https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7) | 3:28 | 2023-01-27 | 2023-03-10 |
 | [Vengo de la Casa de Ella](https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Vengo de la Casa de Ella](https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU) | 3:08 | 2021-12-24 | 2023-10-07 |
+| [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 | 2025-02-07 |  |
 | [Vivir Asi Es Morir de Amor](https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu), [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Vivir Asi Es Morir de Amor](https://open.spotify.com/album/6HLaUd8u4FScMX7yzU8p4p) | 3:31 | 2022-04-22 | 2022-07-23 |
 | [Volver A Empezar \(Versión Los Angeles Azules\)](https://open.spotify.com/track/7Hxvt9N6Y7MHU5W88Q74xn) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Volver A Empezar \(Versión Los Angeles Azules\)](https://open.spotify.com/album/480rZUweOEA6vcsuL2zAJn) | 2:36 | 2024-09-27 | 2024-11-30 |
 | [Vos de bebe](https://open.spotify.com/track/18QGtUiEkREzwBz0WbnNo6) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [EL PEPO \- SESSIONES CON PUBLICO \#10 \(SIN MIEDO: 1 "TIRO"\)](https://open.spotify.com/album/2uHThYsO36fD1sBQ47G4bT) | 2:22 | 2024-07-12 | 2024-08-17 |
@@ -354,7 +355,7 @@
 | [Yo Me Lo Busqué](https://open.spotify.com/track/1pDQSuzM9i7dgi5GKD5qJI) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Yo Me Lo Busqué](https://open.spotify.com/album/4Mca9dy70yjLL1p79ItASf) | 2:40 | 2025-01-17 |  |
 | [Yo Soy Así](https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Gastón Angrisani](https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK) | [Yo Soy Así](https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG) | 2:34 | 2022-07-15 | 2022-08-27 |
 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 | 2021-12-24 |  |
-| [Yo Te Quiero](https://open.spotify.com/track/3ogRdwXNsRj7yYp6pQHIon) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Yo Te Quiero](https://open.spotify.com/album/7FsltKZuJw6Lbd1t8eRcwp) | 3:35 | 2024-11-01 |  |
+| [Yo Te Quiero](https://open.spotify.com/track/3ogRdwXNsRj7yYp6pQHIon) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Yo Te Quiero](https://open.spotify.com/album/7FsltKZuJw6Lbd1t8eRcwp) | 3:35 | 2024-11-01 | 2025-02-07 |
 | [Yo Tomo](https://open.spotify.com/track/2J3phqO09lgu24e82siYtt) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/2rgOhgDY4o4Fy6ctcHZ69Z) | 3:24 | 2021-12-24 |  |
 | [Yo Tomo](https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm) | 3:24 | 2022-07-22 | 2024-04-19 |
 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 | 2023-03-10 | 2024-04-19 |

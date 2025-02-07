@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🥶 sikke typer <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">@Zuloo</a> x <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a>  🥶
+> ny ep rammer som en 💫 <a href="spotify:album:5vbJhFQh6zShDRuWIlaFbg">Supanova</a> 💫   <br/> <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">@Kesi</a>
 
-282 songs - 12 hr 12 min
+285 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/track/5od1j7k88aLQoLJdj4xdoq) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa), [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/album/5D5P9ieuXW4WEtprfjCj4M) | 3:11 | 2024-02-22 | 2024-05-14 |
 | [AMAL PT\. 2](https://open.spotify.com/track/7zH44zeRQPJdkNmKJyNvrL) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [AMAL PT\. 2](https://open.spotify.com/album/1fxN0kfZA3pus0HH1LfCJi) | 3:14 | 2024-01-11 | 2024-09-13 |
 | [ANDERLEDES](https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw) | [MEMZ](https://open.spotify.com/artist/6XvIKkATarRkAZppLCdLVY) | [ANDERLEDES](https://open.spotify.com/album/7azznQEPvB5GM2olU0M8X2) | 1:55 | 2023-11-10 | 2023-12-14 |
+| [ANTISOCIAL](https://open.spotify.com/track/5tAFJmTuNNrCnNbjWM2KAR) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [ANTISOCIAL](https://open.spotify.com/album/32akYgu4MkrCHLkOEi0XAv) | 2:35 | 2025-02-06 |  |
 | [Astralis](https://open.spotify.com/track/7C7PFBbwFC3e0XQF4utbQX) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [ASTRALIS](https://open.spotify.com/album/5IN3zS8PZ2uabDDKzVqJtS) | 2:36 | 2024-07-11 | 2024-09-13 |
 | [Baby Mama](https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [Baby Mama](https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf) | 2:58 | 2023-09-21 | 2024-01-19 |
 | [Bad Bitch](https://open.spotify.com/track/1B2gmZjTfSGNDUYdQeGV8w) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Bad Bitch](https://open.spotify.com/album/3M1nQVoHKBEM8uVlEHn6ON) | 2:29 | 2024-09-05 | 2024-09-13 |
@@ -109,6 +110,7 @@
 | [FEJLFRI](https://open.spotify.com/track/4AsiNZTuFAwk93V9DP7lt7) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [FEJLFRI](https://open.spotify.com/album/3Ol3v4wh1s4M1oK1xhyLpq) | 2:05 | 2025-01-09 |  |
 | [Fiesta](https://open.spotify.com/track/0bZcMRbdHEu7mJfx3233xN) | [Gio](https://open.spotify.com/artist/11WOy8bNZ7WpdX89ILYNEW), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Fiesta](https://open.spotify.com/album/0ibuiCtHWmTftzZpTZAxtD) | 2:25 | 2024-05-30 | 2024-11-01 |
 | [Fiesta](https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Fiesta](https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ) | 2:05 | 2023-10-06 | 2024-05-14 |
+| [Flad Af Grin \(feat\. Noah Carter & Benny Jamz\)](https://open.spotify.com/track/6xm5NjUzitBPdgtUUXR6P6) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Supernova](https://open.spotify.com/album/5vbJhFQh6zShDRuWIlaFbg) | 2:16 | 2025-02-06 |  |
 | [For Evigt](https://open.spotify.com/track/1Ya4w6iBrJCUWfofV31nRw) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [For Evigt](https://open.spotify.com/album/3HDRHW7uO9debf03J3s3L6) | 2:56 | 2025-01-16 |  |
 | [For God Til Mig](https://open.spotify.com/track/38Fl7rQYidn2LeaSg6hMRi) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB) | [For God Til Mig](https://open.spotify.com/album/5UsYwZWBwYGdtNyFQMv0l1) | 2:47 | 2024-10-03 | 2024-11-01 |
 | [For Life](https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:36 | 2023-11-10 | 2024-09-13 |
@@ -215,6 +217,7 @@
 | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22) | 1:53 | 2023-09-21 | 2023-12-14 |
 | [Puttin In Work](https://open.spotify.com/track/5Sk88myPHrySWHk2HfEE7C) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Puttin In Work](https://open.spotify.com/album/5LJWJ8tyD6fFMRitusW3Tr) | 2:41 | 2024-07-25 | 2024-09-13 |
 | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99) | 2:26 | 2024-10-04 |  |
+| [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:07 | 2025-02-06 |  |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-11 |  |
 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 | 2023-09-21 | 2024-02-23 |
 | [Robocop](https://open.spotify.com/track/6TT6zYIiI0nSzXMuI801zP) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Robocop](https://open.spotify.com/album/0kT4pDLex7Z2vGzjmFMxWC) | 3:03 | 2025-01-06 |  |

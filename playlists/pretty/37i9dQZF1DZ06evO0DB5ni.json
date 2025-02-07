@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 811041,
+  "num_followers": 811314,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADP4e0pcCYb6bhgxBr4M2tG",
+  "snapshot_id": "Z6KqAAAAAABRa+zrrRGI69C4P+xpQbq/",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Soy Yo",
-        "url": "https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Cuando Te Ame",
-      "url": "https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Raya M\u00e1s al Tigre",
         "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 139658,
       "name": "Una Raya M\u00e1s al Tigre",
       "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Este Soy Yo",
+        "url": "https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Cuando Te Ame",
+      "url": "https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS"
     },
     {
       "added_at": null,

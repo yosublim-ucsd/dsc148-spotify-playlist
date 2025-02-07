@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: V'ghn
 
-565 songs - 1 day 5 hr 27 min
+566 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-04-26 |  |
 | [Afro Highlife](https://open.spotify.com/track/6m6ExiV0IVR6sLPO69OczQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:07 | 2022-08-18 | 2022-09-17 |
 | [Airplane Mode \(feat\. NSG\)](https://open.spotify.com/track/1a9Tqucs04J8IUt8cww6IC) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Airplane Mode \(feat\. NSG\)](https://open.spotify.com/album/6krhhAJY1IOIU2oAZMg6IE) | 3:57 | 2021-12-20 | 2022-03-09 |
-| [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 | 2025-01-24 |  |
+| [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 | 2025-01-24 | 2025-02-07 |
 | [All For Me](https://open.spotify.com/track/5oPJE47uQBX0akLw3YjQOx) | [AdeJosh](https://open.spotify.com/artist/7vI5Bl979W5P8zRgkdZQ7k) | [All For Me](https://open.spotify.com/album/24B7kwxNISMrceYMRsXhqf) | 2:40 | 2022-07-17 | 2022-08-06 |
 | [All I Really Want](https://open.spotify.com/track/2Y2KafmW8gFf68tTLVeRYw) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [All I Really Want](https://open.spotify.com/album/5OqvebMOCWm6uRBJcIS7uD) | 3:22 | 2022-09-22 | 2022-10-13 |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-18 | 2022-09-17 |
@@ -165,6 +165,7 @@
 | [Fake Fake Fake](https://open.spotify.com/track/73aRCBN6lo8EfkScG4zyzH) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Fake Fake Fake](https://open.spotify.com/album/055UQ8MKLNrWYvnqlU6z7X) | 2:57 | 2022-07-12 | 2022-07-18 |
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-22 | 2024-01-26 |
 | [Fantasy](https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Fantasy](https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD) | 2:36 | 2022-07-21 | 2022-10-14 |
+| [Feeling Alright](https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:39 | 2025-01-31 |  |
 | [Feelings](https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Feelings](https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r) | 3:22 | 2022-02-11 | 2022-07-28 |
 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 | 2023-09-28 | 2024-11-19 |
 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 | 2024-10-17 |  |

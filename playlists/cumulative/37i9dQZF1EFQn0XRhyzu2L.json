@@ -4010,10 +4010,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 227800,
       "name": "I Choose U",
       "url": "https://open.spotify.com/track/75NpB97pPgk2OcVF8d7zgV"
+    },
+    {
+      "album": {
+        "name": "Bad For You",
+        "url": "https://open.spotify.com/album/4Ciw110gdWtwcleY7KQMRI"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185022,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/56QIi1ES8speRvNHIHaHHl"
     },
     {
       "album": {

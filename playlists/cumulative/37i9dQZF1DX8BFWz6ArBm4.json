@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Livanis, Nikiforos",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Peggy Zina",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 170000,
       "name": "Me Ponaei",
       "url": "https://open.spotify.com/track/2dK3r0Xn0GQ12ZbLIcNZ0d"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 189996,
       "name": "Odos Tsimiski",
       "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 149381,
       "name": "Sikose To Tilefono",
       "url": "https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy"
@@ -2368,6 +2368,28 @@
       "duration_ms": 167379,
       "name": "Ypervoles",
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
+    },
+    {
+      "album": {
+        "name": "\u0395\u03bb\u03b5\u03bd\u03af\u03c4\u03c3\u03b1",
+        "url": "https://open.spotify.com/album/28Pd4PfzdVo0hBuVoxkh8b"
+      },
+      "artists": [
+        {
+          "name": "George Dalaras",
+          "url": "https://open.spotify.com/artist/0eLU3EgFDZOFgd2Dwalfwo"
+        },
+        {
+          "name": "Yannis K. Ioannou",
+          "url": "https://open.spotify.com/artist/6k1TFJWflNzZIXqc1UtFmk"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219690,
+      "name": "\u0395\u03bb\u03b5\u03bd\u03af\u03c4\u03c3\u03b1",
+      "url": "https://open.spotify.com/track/4M9NG8E5hoUIBYz3kXmiAC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4"

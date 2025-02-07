@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2422124,
+  "num_followers": 2422307,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Nobela",
         "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+        "name": "Mahika",
+        "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
       },
       "artists": [
         {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
         }
       ],
-      "duration_ms": 249080,
-      "name": "Huwag Na Huwag Mong Sasabihin",
-      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+      "duration_ms": 210586,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -511,86 +527,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Mahika",
-        "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Ikaw Pa Rin",
-        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
-      },
-      "artists": [
-        {
-          "name": "mrld",
-          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
-        }
-      ],
-      "duration_ms": 191009,
-      "name": "Ikaw Pa Rin",
-      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Titig",
-        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
-      },
-      "artists": [
-        {
-          "name": "MC Einstein",
-          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        },
-        {
-          "name": "Jekkpot",
-          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        }
-      ],
-      "duration_ms": 259114,
-      "name": "Titig",
-      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Hayaan Mo Sila",
-        "url": "https://open.spotify.com/album/12DwmRcztX6NAZR0vQsYUF"
-      },
-      "artists": [
-        {
-          "name": "Ex Battalion",
-          "url": "https://open.spotify.com/artist/2iB7AJhJmkWkkehY9ccB0j"
-        },
-        {
-          "name": "O.C. Dawgs",
-          "url": "https://open.spotify.com/artist/00xU4wfephkJrjwJPDvfkf"
-        }
-      ],
-      "duration_ms": 367229,
-      "name": "Hayaan Mo Sila",
-      "url": "https://open.spotify.com/track/7MrDfa1uQGVXx0JMZ2u5tN"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -627,6 +563,70 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Titig",
+        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
+      },
+      "artists": [
+        {
+          "name": "MC Einstein",
+          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        },
+        {
+          "name": "Jekkpot",
+          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        }
+      ],
+      "duration_ms": 259114,
+      "name": "Titig",
+      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Ikaw Pa Rin",
+        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Ikaw Pa Rin",
+      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Hayaan Mo Sila",
+        "url": "https://open.spotify.com/album/12DwmRcztX6NAZR0vQsYUF"
+      },
+      "artists": [
+        {
+          "name": "Ex Battalion",
+          "url": "https://open.spotify.com/artist/2iB7AJhJmkWkkehY9ccB0j"
+        },
+        {
+          "name": "O.C. Dawgs",
+          "url": "https://open.spotify.com/artist/00xU4wfephkJrjwJPDvfkf"
+        }
+      ],
+      "duration_ms": 367229,
+      "name": "Hayaan Mo Sila",
+      "url": "https://open.spotify.com/track/7MrDfa1uQGVXx0JMZ2u5tN"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Kung Wala Ka",
+        "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Kung Wala Ka",
+      "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -659,18 +675,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Kung Wala Ka",
-        "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
+        "name": "Sila",
+        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
       },
       "artists": [
         {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
         }
       ],
-      "duration_ms": 242800,
-      "name": "Kung Wala Ka",
-      "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
+      "duration_ms": 326000,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -703,22 +719,6 @@
       "duration_ms": 284812,
       "name": "ERE",
       "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Sila",
-        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
-      },
-      "artists": [
-        {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Padaba Taka",
         "url": "https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 332406,
       "name": "panaginip",
       "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Twelve: Fifty One (International Version)",
+        "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
+      },
+      "artists": [
+        {
+          "name": "krissy & ericka",
+          "url": "https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "12:51",
+      "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
     }
   ],
   "unique_name": "OPM Favorites",

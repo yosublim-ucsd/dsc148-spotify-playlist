@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Almond Milk",
+  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover:Jasmine Kelly",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -484,6 +484,36 @@
       "duration_ms": 160000,
       "name": "Dancing in Delirium",
       "url": "https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs"
+    },
+    {
+      "album": {
+        "name": "Dancing in the Dark 2.0",
+        "url": "https://open.spotify.com/album/43ySzUpBQrvjMFfWgO5qen"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Kelly",
+          "url": "https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr"
+        },
+        {
+          "name": "Lushroom",
+          "url": "https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu"
+        },
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+        },
+        {
+          "name": "\u7b49\u4e00\u4e0b\u5c31\u56de\u5bb6",
+          "url": "https://open.spotify.com/artist/5MPJmSm1l631HPse8wLB4z"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202718,
+      "name": "Dancing in the Dark 2.0",
+      "url": "https://open.spotify.com/track/2pVsRKazNvGhKGaRUaBu3F"
     },
     {
       "album": {
@@ -1392,6 +1422,24 @@
       "duration_ms": 102608,
       "name": "mountain",
       "url": "https://open.spotify.com/track/7ymXZxnw48FcoGm27NhMlu"
+    },
+    {
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/5svETC0BXMrTyzJ3D53m8I"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190592,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL"
     },
     {
       "album": {

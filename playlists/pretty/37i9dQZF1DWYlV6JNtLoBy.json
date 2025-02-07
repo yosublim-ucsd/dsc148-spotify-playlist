@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 6697,
+  "num_followers": 6703,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,18 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+        "name": "Heaven Changes Everything",
+        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 305674,
-      "name": "This Is The Gospel",
-      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
+      "duration_ms": 211706,
+      "name": "Heaven Changes Everything",
+      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Heaven Changes Everything",
-        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
       },
       "artists": [
         {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 211706,
-      "name": "Heaven Changes Everything",
-      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
+      "duration_ms": 305674,
+      "name": "This Is The Gospel",
+      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "God Is With Us",
-        "url": "https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 226777,
-      "name": "God Is With Us",
-      "url": "https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "COAT OF MANY COLORS",
         "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 243666,
       "name": "MIRACLE CHILD",
       "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "God Is With Us",
+        "url": "https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 226777,
+      "name": "God Is With Us",
+      "url": "https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Who You Say I Am (Studio Version)",
-        "url": "https://open.spotify.com/album/0BiYW4uWeQkrIquIZ4py1K"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 198704,
-      "name": "Who You Say I Am - Studio Version",
-      "url": "https://open.spotify.com/track/2KngtvMAc2wmPipizcEnce"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Praise The Lord",
         "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 264386,
       "name": "Fall On Me (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "Who You Say I Am (Studio Version)",
+        "url": "https://open.spotify.com/album/0BiYW4uWeQkrIquIZ4py1K"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 198704,
+      "name": "Who You Say I Am - Studio Version",
+      "url": "https://open.spotify.com/track/2KngtvMAc2wmPipizcEnce"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "What Are We Waiting For? (The Single)",
-        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 194580,
-      "name": "What Are We Waiting For? (The Single)",
-      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Abandoned (Original)",
         "url": "https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo"
       },
@@ -755,22 +739,18 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB"
+        "name": "What Are We Waiting For? (The Single)",
+        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
       },
       "artists": [
         {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Ke'Erron",
-          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 243522,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8"
+      "duration_ms": 194580,
+      "name": "What Are We Waiting For? (The Single)",
+      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -791,6 +771,26 @@
       "duration_ms": 203973,
       "name": "Lead On Good Shepherd",
       "url": "https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        }
+      ],
+      "duration_ms": 243522,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8"
     },
     {
       "added_at": "2024-12-05 23:59:00",

@@ -776,7 +776,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 138750,
       "name": "Gomma",
       "url": "https://open.spotify.com/track/0wcqQ3JXI84MzCpbFfEeei"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 154536,
       "name": "Local Jackson ft. Bigson",
       "url": "https://open.spotify.com/track/1yhe3XaZ10k5AqA6oeze94"
@@ -3128,6 +3128,28 @@
       "duration_ms": 347106,
       "name": "Taxi Taxi",
       "url": "https://open.spotify.com/track/3PPKGIG8FHOpJP5yArO5E9"
+    },
+    {
+      "album": {
+        "name": "Thallu Thallu",
+        "url": "https://open.spotify.com/album/1KsLD4VKWKdei680vAgoUe"
+      },
+      "artists": [
+        {
+          "name": "Nash-te Naaku",
+          "url": "https://open.spotify.com/artist/3T2UNwrRMaW7z1qLL294cJ"
+        },
+        {
+          "name": "Ajmal Khan",
+          "url": "https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131282,
+      "name": "Thallu Thallu",
+      "url": "https://open.spotify.com/track/2tkrOWRHjbBXCKmtD91NNr"
     },
     {
       "album": {

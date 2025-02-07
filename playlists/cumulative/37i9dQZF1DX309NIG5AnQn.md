@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 Winona Riders
 
-243 songs - 13 hr 52 min
+244 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Mañana Voy](https://open.spotify.com/track/2XdnhbxTaMdqNwgw3joWfk) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Ida, Atajo y Vuelta](https://open.spotify.com/album/5f2pZrmIEq76zaDmi4wKsU) | 3:34 | 2023-03-31 | 2023-08-12 |
 | [Mejor Persona](https://open.spotify.com/track/1kEFulsxY6K8PekfjAFvaK) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 6:11 | 2023-06-16 |  |
 | [Mentiroso Miente](https://open.spotify.com/track/3mCiPbSvvOgkhwfunAqmxL) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Mentiroso Miente](https://open.spotify.com/album/6fr6AARElMTnBKHTziuWPK) | 2:46 | 2023-03-23 |  |
+| [Mi muñeca me hablo](https://open.spotify.com/track/1Lp4kHYiR1YJd88MkOpuOd) | [Manu Choque](https://open.spotify.com/artist/1YlA5Z9Jv8lbxZBNzCPKYT), [Emily And](https://open.spotify.com/artist/5M6wUgbJZtwFojkgmm7wf1) | [Mi muñeca me hablo](https://open.spotify.com/album/79oqJE0OAoAYbEYQKSuElW) | 2:05 | 2025-02-07 |  |
 | [Millones](https://open.spotify.com/track/3L1SRzZusiy1dV02HjIxVg) | [La Foca](https://open.spotify.com/artist/0pFNCx059c6q0VJwI0oFLF) | [Millones](https://open.spotify.com/album/209q6Mt9aQaZu2C1x6jwej) | 2:35 | 2022-03-25 | 2023-03-25 |
 | [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 | 2023-03-23 | 2023-06-03 |
 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 | 2022-03-25 | 2023-03-25 |
@@ -203,7 +204,7 @@
 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 | 2024-03-23 |
 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 |  |
 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-06-30 |  |
-| [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 | 2024-07-12 |  |
+| [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 | 2024-07-12 | 2025-02-07 |
 | [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 | 2024-06-06 |  |
 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 | 2023-08-25 |  |
 | [SALTEMOS MOLINETES](https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SALTEMOS MOLINETES](https://open.spotify.com/album/3BlTPafpEOmDaCLdQAoyat) | 2:46 | 2024-03-08 | 2024-07-06 |

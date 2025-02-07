@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : TH\u00c9A",
+  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : ELOI",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -186,6 +186,28 @@
       "duration_ms": 365866,
       "name": "Aloha Baby",
       "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
+    },
+    {
+      "album": {
+        "name": "B.I.C.H.E.",
+        "url": "https://open.spotify.com/album/6KuOeiMw8kO3X2xogDkVRE"
+      },
+      "artists": [
+        {
+          "name": "Biche",
+          "url": "https://open.spotify.com/artist/1m0M7J2El2DioTfule3L41"
+        },
+        {
+          "name": "En Attendant Ana",
+          "url": "https://open.spotify.com/artist/7mKMQWOBVDivOhswm33WDL"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188468,
+      "name": "Americanism",
+      "url": "https://open.spotify.com/track/7Jz2D9uzzfzI21BRkLpxws"
     },
     {
       "album": {
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 149506,
       "name": "du matin au matin",
       "url": "https://open.spotify.com/track/3DaAnP8S31hxhxgWqLCVpm"
@@ -1598,7 +1620,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 235239,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd"
@@ -2463,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Lunettes noires",
+        "url": "https://open.spotify.com/album/3VmWWOtrsNGFAiegI2Oewu"
+      },
+      "artists": [
+        {
+          "name": "Bagarre",
+          "url": "https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177001,
+      "name": "Lunettes noires",
+      "url": "https://open.spotify.com/track/50QzsGkmFa8HlC16BRCiqe"
+    },
+    {
+      "album": {
         "name": "SAHA",
         "url": "https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7"
       },
@@ -2546,7 +2586,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 260040,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W"
@@ -3105,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "PLAYSTATION",
+        "url": "https://open.spotify.com/album/229ypZccM7Mpcl12Sc1r0F"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193771,
+      "name": "PLAYSTATION",
+      "url": "https://open.spotify.com/track/2Y7pSaRip0CegkydJUtzqp"
+    },
+    {
+      "album": {
         "name": "PLUS RIEN N'EST GRAVE",
         "url": "https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg"
       },
@@ -3236,7 +3294,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 208195,
       "name": "Que la biche soit en nous",
       "url": "https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY"
@@ -4212,6 +4270,24 @@
       "duration_ms": 159985,
       "name": "tu t'es laiss\u00e9 aller",
       "url": "https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I"
+    },
+    {
+      "album": {
+        "name": "tue moi",
+        "url": "https://open.spotify.com/album/1YsLRmysP3u2kWbXqpzbN5"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "tue moi",
+      "url": "https://open.spotify.com/track/27KaAt4Iwwd8xhxfquYb68"
     },
     {
       "album": {

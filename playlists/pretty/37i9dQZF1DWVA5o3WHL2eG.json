@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Thala",
-  "num_followers": 37159,
+  "num_followers": 37271,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "Pinky Promise",
-        "url": "https://open.spotify.com/album/22i0H54dXIQPYi1cTzfRXg"
-      },
-      "artists": [
-        {
-          "name": "Ellice",
-          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "Pinky Promise",
-      "url": "https://open.spotify.com/track/530nmNKu7jq0fCTR6iyfuj"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
         "name": "Jana",
         "url": "https://open.spotify.com/album/5WPupoTApwgyWLfwf1G4Gj"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 161379,
       "name": "Jana",
       "url": "https://open.spotify.com/track/0NJ8C0C3ZXldUELdBKloX5"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
+        "name": "Pinky Promise",
+        "url": "https://open.spotify.com/album/22i0H54dXIQPYi1cTzfRXg"
+      },
+      "artists": [
+        {
+          "name": "Ellice",
+          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Pinky Promise",
+      "url": "https://open.spotify.com/track/530nmNKu7jq0fCTR6iyfuj"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "AVEC",
-        "url": "https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO"
-      },
-      "artists": [
-        {
-          "name": "AVEC",
-          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
-        }
-      ],
-      "duration_ms": 163031,
-      "name": "What's On Your Mind",
-      "url": "https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
         "name": "Lumen",
         "url": "https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp"
       },
@@ -315,34 +299,18 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "2 Flederm\u00e4use",
-        "url": "https://open.spotify.com/album/3Sad6tKY9l8WavtnypZ5JO"
+        "name": "AVEC",
+        "url": "https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO"
       },
       "artists": [
         {
-          "name": "BABYJOY",
-          "url": "https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH"
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
         }
       ],
-      "duration_ms": 199093,
-      "name": "2 Flederm\u00e4use",
-      "url": "https://open.spotify.com/track/6KbC7dIbZe6j9dM45W0PHu"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
-        "name": "Raketendicht",
-        "url": "https://open.spotify.com/album/5EtYWAAiAoFQVMwRcRWhYt"
-      },
-      "artists": [
-        {
-          "name": "Marie Bothmer",
-          "url": "https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB"
-        }
-      ],
-      "duration_ms": 133840,
-      "name": "Raketendicht",
-      "url": "https://open.spotify.com/track/33f1v9SQeiMLIa6F1J9z5G"
+      "duration_ms": 163031,
+      "name": "What's On Your Mind",
+      "url": "https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -363,6 +331,38 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
+        "name": "2 Flederm\u00e4use",
+        "url": "https://open.spotify.com/album/3Sad6tKY9l8WavtnypZ5JO"
+      },
+      "artists": [
+        {
+          "name": "BABYJOY",
+          "url": "https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "2 Flederm\u00e4use",
+      "url": "https://open.spotify.com/track/6KbC7dIbZe6j9dM45W0PHu"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
+        "name": "MADWOMAN",
+        "url": "https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
         "name": "Fremde Stadt",
         "url": "https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E"
       },
@@ -379,18 +379,18 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "Eines Tages",
-        "url": "https://open.spotify.com/album/3NMpeD6nzjGcOYUUb8gLp2"
+        "name": "Raketendicht",
+        "url": "https://open.spotify.com/album/5EtYWAAiAoFQVMwRcRWhYt"
       },
       "artists": [
         {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+          "name": "Marie Bothmer",
+          "url": "https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB"
         }
       ],
-      "duration_ms": 136784,
-      "name": "Eines Tages",
-      "url": "https://open.spotify.com/track/3Sh5PQYaMuzlRriU9b5WKo"
+      "duration_ms": 133840,
+      "name": "Raketendicht",
+      "url": "https://open.spotify.com/track/33f1v9SQeiMLIa6F1J9z5G"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -407,6 +407,38 @@
       "duration_ms": 155760,
       "name": "Are You Thinking of Me",
       "url": "https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
+        "name": "Tr\u00e4nen gefroren",
+        "url": "https://open.spotify.com/album/7vy4i1RPl2bjwTEbt743lM"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Tr\u00e4nen gefroren",
+      "url": "https://open.spotify.com/track/1JAo9PLuPoez8pwt7K43wG"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
+        "name": "Eines Tages",
+        "url": "https://open.spotify.com/album/3NMpeD6nzjGcOYUUb8gLp2"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 136784,
+      "name": "Eines Tages",
+      "url": "https://open.spotify.com/track/3Sh5PQYaMuzlRriU9b5WKo"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -431,50 +463,18 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "MADWOMAN",
-        "url": "https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4"
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz"
       },
       "artists": [
         {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
         }
       ],
-      "duration_ms": 175247,
-      "name": "Self Sabotage",
-      "url": "https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
-        "name": "Tr\u00e4nen gefroren",
-        "url": "https://open.spotify.com/album/7vy4i1RPl2bjwTEbt743lM"
-      },
-      "artists": [
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
-        }
-      ],
-      "duration_ms": 152816,
-      "name": "Tr\u00e4nen gefroren",
-      "url": "https://open.spotify.com/track/1JAo9PLuPoez8pwt7K43wG"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
-        "name": "Haven",
-        "url": "https://open.spotify.com/album/2awfGPTU1Hwk3PbT9vRuln"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 208833,
-      "name": "Haven",
-      "url": "https://open.spotify.com/track/3Ga9IAW9YXepKjjPe90QG2"
+      "duration_ms": 252319,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "ich w\u00fcrde dich nie bereuen",
-        "url": "https://open.spotify.com/album/3u7LxCDUx741Q0JLe991HL"
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/2awfGPTU1Hwk3PbT9vRuln"
       },
       "artists": [
         {
-          "name": "ELA",
-          "url": "https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb"
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
         }
       ],
-      "duration_ms": 164401,
-      "name": "ich w\u00fcrde dich nie bereuen",
-      "url": "https://open.spotify.com/track/6713t6b4uZcp7GpIM0K5Mk"
+      "duration_ms": 208833,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/3Ga9IAW9YXepKjjPe90QG2"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -527,34 +527,18 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz"
+        "name": "ich w\u00fcrde dich nie bereuen",
+        "url": "https://open.spotify.com/album/3u7LxCDUx741Q0JLe991HL"
       },
       "artists": [
         {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+          "name": "ELA",
+          "url": "https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb"
         }
       ],
-      "duration_ms": 252319,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
-        "name": "rock n roll healing",
-        "url": "https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF"
-      },
-      "artists": [
-        {
-          "name": "Eveline",
-          "url": "https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0"
-        }
-      ],
-      "duration_ms": 167978,
-      "name": "rock n roll healing",
-      "url": "https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD"
+      "duration_ms": 164401,
+      "name": "ich w\u00fcrde dich nie bereuen",
+      "url": "https://open.spotify.com/track/6713t6b4uZcp7GpIM0K5Mk"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -571,6 +555,22 @@
       "duration_ms": 165517,
       "name": "G\u00fcnlerdir",
       "url": "https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
+        "name": "rock n roll healing",
+        "url": "https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF"
+      },
+      "artists": [
+        {
+          "name": "Eveline",
+          "url": "https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0"
+        }
+      ],
+      "duration_ms": 167978,
+      "name": "rock n roll healing",
+      "url": "https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
+        "name": "A.D.H.D",
+        "url": "https://open.spotify.com/album/5TbX4x7ZtxtEaRK1QFY1J7"
+      },
+      "artists": [
+        {
+          "name": "Mina Richman",
+          "url": "https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "A.D.H.D",
+      "url": "https://open.spotify.com/track/05NRzMMliU7KUQ0ffT1grm"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/7FElDXkoXCWG1sjQVOe8tB"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 171272,
       "name": "Ugly Talk",
       "url": "https://open.spotify.com/track/08ZFbn6Z6p8C4jLwBYKdHR"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
-        "name": "A.D.H.D",
-        "url": "https://open.spotify.com/album/5TbX4x7ZtxtEaRK1QFY1J7"
-      },
-      "artists": [
-        {
-          "name": "Mina Richman",
-          "url": "https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "A.D.H.D",
-      "url": "https://open.spotify.com/track/05NRzMMliU7KUQ0ffT1grm"
     },
     {
       "added_at": "2025-02-04 23:00:39",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/6SPIl9SkURZIpxi0Kxx4OD"
-      },
-      "artists": [
-        {
-          "name": "Laini",
-          "url": "https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ"
-        }
-      ],
-      "duration_ms": 264688,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7ce8V90wpaseWbPudzbmp6"
-    },
-    {
-      "added_at": "2025-02-04 23:00:39",
-      "album": {
         "name": "Pretty Garden",
         "url": "https://open.spotify.com/album/70pjrDbm2asI2dPLiFBkP0"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2025-02-04 23:00:39",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6SPIl9SkURZIpxi0Kxx4OD"
+      },
+      "artists": [
+        {
+          "name": "Laini",
+          "url": "https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ"
+        }
+      ],
+      "duration_ms": 264688,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7ce8V90wpaseWbPudzbmp6"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
         "name": "Warten",
         "url": "https://open.spotify.com/album/6Bgxinb5nr5IshryaHlvFj"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 237798,
       "name": "Warten",
       "url": "https://open.spotify.com/track/3Jv39bT5Hrmky8GhqZ2rJW"
+    },
+    {
+      "added_at": "2025-02-04 23:00:39",
+      "album": {
+        "name": "Whatever Happens",
+        "url": "https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy"
     }
   ],
   "unique_name": "EQUAL GSA ",

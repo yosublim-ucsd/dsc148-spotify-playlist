@@ -2,9 +2,9 @@
 
 ### [indelectro](https://open.spotify.com/playlist/37i9dQZF1DX7xNd2fNATsx)
 
-> Quand l'indie et l'electro ne font qu'un\. Photo : Else
+> Quand l'indie et l'electro ne font qu'un\. Photo : Møme
 
-127 songs - 8 hr 44 min
+129 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Demolition](https://open.spotify.com/track/53OegCh40rWw0D9grp5oEo) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Demolition](https://open.spotify.com/album/3ULjJ69eZcG1bTj1cooEZz) | 5:06 | 2025-01-16 |  |
 | [Diamond Veins \(feat\. Sarah Rebecca\)](https://open.spotify.com/track/5G0oVoL309pqsvGDzhMOwx) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 4:00 | 2024-09-19 | 2025-01-17 |
 | [Discipline](https://open.spotify.com/track/3NLRsJ6mXjxsu8CvysDeUE) | [Club cheval](https://open.spotify.com/artist/3sFn8HRnBP6g4twNNy9Tzz) | [Discipline](https://open.spotify.com/album/2ZGWMH5dkJMGxRT5gM8lmZ) | 4:52 | 2023-02-07 | 2024-02-17 |
+| [DNA ∞](https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DNA ∞](https://open.spotify.com/album/4LqWy1CjGmMs83GLG6qfMW) | 3:23 | 2025-02-06 |  |
 | [Don't Turn the Lights On](https://open.spotify.com/track/2cC48Dvkkw5YK9rLIr83OG) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 4:32 | 2023-02-07 | 2023-11-16 |
 | [Don't Wait Up](https://open.spotify.com/track/18yDsGdHw4LhYMMTbNlNWS) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Don't Wait Up](https://open.spotify.com/album/4mGi7lkUGSqal4YEIKKE00) | 3:47 | 2025-01-30 |  |
 | [Don't You](https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Don't You](https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra) | 2:35 | 2024-02-23 |  |
@@ -63,6 +64,7 @@
 | [I see you up tomorrow](https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [I see you up tomorrow](https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j) | 2:46 | 2024-08-29 |  |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-02-16 | 2025-01-17 |
 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 | 2024-03-08 | 2024-04-26 |
+| [Inner Symphony](https://open.spotify.com/track/2AKXYE6FPUWKAhiioxJWOz) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Nox Anima](https://open.spotify.com/album/5YcO7fIqw63iOxtk8GHCAQ) | 4:30 | 2025-02-06 |  |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2023-10-19 |  |
 | [Is It Always Binary](https://open.spotify.com/track/6R911DBgp2NuIbOFcdhqyL) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [FROM DEEWEE](https://open.spotify.com/album/0ixwdleroFAl7fWqYZaSsA) | 3:29 | 2023-02-07 |  |
 | [It's Not Over Yet](https://open.spotify.com/track/0TRvSkiK0eQEejmiu4vBzi) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 3:35 | 2023-02-07 | 2024-02-17 |
@@ -81,7 +83,7 @@
 | [Lotus Flower](https://open.spotify.com/track/2QeutlLcJf2V1cMUUsDFT1) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 5:00 | 2023-02-07 | 2024-04-19 |
 | [Loud Places](https://open.spotify.com/track/0Sl8C9oeS3b5Kv9bSvTPDr) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I) | 4:43 | 2024-03-08 |  |
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2023-02-07 | 2024-04-19 |
-| [MEMORY FLOOD](https://open.spotify.com/track/4bEVf96IM1CRcJt9olj5O3) | [Yorina](https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC) | [MEMORY FLOOD](https://open.spotify.com/album/1jnHwN3GjzTUcw37yMClVs) | 4:23 | 2024-03-08 |  |
+| [MEMORY FLOOD](https://open.spotify.com/track/4bEVf96IM1CRcJt9olj5O3) | [Yorina](https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC) | [MEMORY FLOOD](https://open.spotify.com/album/1jnHwN3GjzTUcw37yMClVs) | 4:23 | 2024-03-08 | 2025-02-07 |
 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2023-11-29 | 2024-04-19 |
 | [Midnight City](https://open.spotify.com/track/5tMY5DJvFr9f8UGTta6KEj) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Before the Dawn Heals Us](https://open.spotify.com/album/772BNzeP2P72saAQGiDPyX) | 4:03 | 2023-11-15 |  |
 | [Mirror](https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Mirror](https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ) | 5:44 | 2023-10-19 | 2024-02-24 |
@@ -103,7 +105,7 @@
 | [OK](https://open.spotify.com/track/6CNskuICDfoju7WXRSq6ME) | [Shitdisco](https://open.spotify.com/artist/1gnKXnSL1BgGCTIrV3d4iq) | [The Emanator](https://open.spotify.com/album/1zm5jMajSrMRW5dGmSC7xO) | 4:02 | 2023-02-07 | 2023-12-13 |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-02-16 |  |
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-09-19 |  |
-| [Pills](https://open.spotify.com/track/4zSUNl29ds3XGzzWcgH1Rg) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Pills](https://open.spotify.com/album/4ej0c4lucjj8fRhTm2Nnkw) | 3:26 | 2024-04-25 |  |
+| [Pills](https://open.spotify.com/track/4zSUNl29ds3XGzzWcgH1Rg) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Pills](https://open.spotify.com/album/4ej0c4lucjj8fRhTm2Nnkw) | 3:26 | 2024-04-25 | 2025-02-07 |
 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 | 2025-01-16 |  |
 | [Reservoir](https://open.spotify.com/track/2zZW0SmKlZEoiDJwssNZqA) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Love Letters](https://open.spotify.com/album/4ncxigcuC9s3fyjiuJSfQq) | 3:14 | 2023-02-07 | 2024-09-20 |
 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2024-09-19 | 2024-12-20 |

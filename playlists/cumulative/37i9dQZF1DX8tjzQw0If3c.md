@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: COËX
+> Listen to the future\. Cover: Amir Hasan
 
-109 songs - 5 hr 59 min
+111 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Come My Way](https://open.spotify.com/track/0DokETHZlncyL1KZZ8uAvV) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:58 | 2024-12-04 |  |
 | [Come My Way](https://open.spotify.com/track/5tMRRy9BsAIFN75a3t5mky) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:58 | 2024-06-27 | 2024-12-05 |
 | [Cuma Kamu](https://open.spotify.com/track/093ekP1E7iaXhRVPnP45lK) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Cuma Kamu \("Gadis EXXtra" OST\)](https://open.spotify.com/album/3ndBfjzSP39lUw35bAYbwW) | 4:04 | 2024-06-27 |  |
+| [Delulu](https://open.spotify.com/track/0MT52aAGzFijBZYnPM28QM) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Salam](https://open.spotify.com/album/1DyCwG7jeFjHtCxqB2SD7c) | 2:44 | 2025-02-06 |  |
 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 | 2025-01-16 |  |
 | [Dengar Lagu Ini](https://open.spotify.com/track/1Z5jsrIvjR5vGaKmeBMxdU) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:56 | 2024-08-08 | 2024-12-05 |
 | [discord](https://open.spotify.com/track/6CoWj9Ord9aAKzRQfEtiNq) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [discord](https://open.spotify.com/album/35a8Ha0jY3G6M5Gjncm7Jr) | 2:29 | 2024-06-27 | 2024-12-05 |
@@ -93,6 +94,7 @@
 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-12-04 |  |
 | [SAH \- Acoustic Version](https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(Acoustic Version\)](https://open.spotify.com/album/30D0nzroAeNHica06GaB1P) | 3:49 | 2024-06-27 |  |
 | [SAH \- LoFi Version](https://open.spotify.com/track/6I02gQUsWeOVng5r7s0B60) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(LoFi Version\)](https://open.spotify.com/album/3b5eJkbzPp5bWnE0dFBZSE) | 3:10 | 2024-07-11 |  |
+| [Salam](https://open.spotify.com/track/6y1sE7uY5b1Gce5eTBpBEk) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Benzooloo](https://open.spotify.com/artist/1XoYv8r7rCgzBSgMWCsnzR) | [Salam](https://open.spotify.com/album/1DyCwG7jeFjHtCxqB2SD7c) | 3:11 | 2025-02-06 |  |
 | [Salleh Wakeup!](https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 5:05 | 2024-08-08 | 2024-12-05 |
 | [scared to lose me](https://open.spotify.com/track/2piEwJsSN0auCOQIPYhKKF) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [scared to lose me](https://open.spotify.com/album/4rThapZToG2EqGgyase84m) | 2:23 | 2024-08-29 | 2024-12-05 |
 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 107228,
+  "num_followers": 107281,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 253822,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s",
       "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "EL Gil De Tu Ex",
-      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192075,
       "name": "Yo Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "EL Gil De Tu Ex",
+      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -719,6 +719,38 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "La resaka",
+      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -755,38 +787,6 @@
       "duration_ms": 198082,
       "name": "MALAMOR",
       "url": "https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "La resaka",
-      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -871,18 +871,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
+        "name": "Feliz Con Verte",
+        "url": "https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        },
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 187546,
-      "name": "Yo Me Enamore",
-      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
+      "duration_ms": 193636,
+      "name": "Feliz Con Verte",
+      "url": "https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -903,18 +907,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "De Amor y Vacil\u00f3n",
-        "url": "https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
       "artists": [
         {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 187506,
-      "name": "Soy Feo Pero Rico",
-      "url": "https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT"
+      "duration_ms": 187546,
+      "name": "Yo Me Enamore",
+      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -951,38 +955,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Feliz Con Verte",
-        "url": "https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph"
+        "name": "De Amor y Vacil\u00f3n",
+        "url": "https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV"
       },
       "artists": [
         {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        },
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
         }
       ],
-      "duration_ms": 193636,
-      "name": "Feliz Con Verte",
-      "url": "https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Somos Parte de Tu Vida",
-        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Mujeres y Cerveza",
-      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
+      "duration_ms": 187506,
+      "name": "Soy Feo Pero Rico",
+      "url": "https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Somos Parte de Tu Vida",
+        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Mujeres y Cerveza",
+      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
+        "name": "Sin Remedio",
+        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 179813,
-      "name": "La Vecina",
-      "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
+      "duration_ms": 299426,
+      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
+      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Sin Remedio",
-        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 299426,
-      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
-      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
+      "duration_ms": 179813,
+      "name": "La Vecina",
+      "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Vive El Momento",
         "url": "https://open.spotify.com/album/6HpMKbdPtycogKmuBHerl4"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 223877,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/48oS8fgEqBEZKZwKQUJlIx"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Muero De Fr\u00edo",
+      "url": "https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/0R2QOzo02NBpqQ5QFkBl2J"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 213293,
-      "name": "Muero De Fr\u00edo",
-      "url": "https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73"
+      "duration_ms": 220369,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/45xDNypuZ1tv3JEkCXRFxG"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1375,8 +1391,8 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/0R2QOzo02NBpqQ5QFkBl2J"
+        "name": "Bebe Dame / Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
       },
       "artists": [
         {
@@ -1384,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 220369,
-      "name": "Si Tu No Estas",
-      "url": "https://open.spotify.com/track/45xDNypuZ1tv3JEkCXRFxG"
+      "duration_ms": 268518,
+      "name": "Bebe Dame / Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1403,22 +1419,6 @@
       "duration_ms": 201827,
       "name": "Amor Sobre 4 Ruedas",
       "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Grupo Hechizo",
-        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "La Temporera",
-      "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Grupo Hechizo",
+        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "La Temporera",
+      "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Vamos a La Boti",
         "url": "https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF"
       },
@@ -1459,8 +1475,8 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Bebe Dame / Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
       },
       "artists": [
         {
@@ -1468,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 268518,
-      "name": "Bebe Dame / Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
+      "duration_ms": 192073,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "De Fiesta Con Hechizo",
-        "url": "https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
-        }
-      ],
-      "duration_ms": 209867,
-      "name": "Huellas de Amor",
-      "url": "https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Teatro Monumental (En Vivo)",
         "url": "https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk"
       },
@@ -1567,38 +1567,6 @@
       "duration_ms": 516187,
       "name": "Palomita / Olguita / Enga\u00f1adora / Mi Gran Amor (En Vivo)",
       "url": "https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Despu\u00e9s De Ti",
-        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 192073,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "El Sonido Inconfundible",
-        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
-      },
-      "artists": [
-        {
-          "name": "D'Latin Sound",
-          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Ritmo Loco",
-      "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1635,18 +1603,34 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Onda Nueva",
-        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
+        "name": "De Fiesta Con Hechizo",
+        "url": "https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf"
       },
       "artists": [
         {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
         }
       ],
-      "duration_ms": 270826,
-      "name": "Una Copita M\u00e1s",
-      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
+      "duration_ms": 209867,
+      "name": "Huellas de Amor",
+      "url": "https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "El Sonido Inconfundible",
+        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
+      },
+      "artists": [
+        {
+          "name": "D'Latin Sound",
+          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Ritmo Loco",
+      "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Grupo Hechizo",
-        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+        "name": "Onda Nueva",
+        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
       },
       "artists": [
         {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
         }
       ],
-      "duration_ms": 206240,
-      "name": "T\u00edmido",
-      "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
+      "duration_ms": 270826,
+      "name": "Una Copita M\u00e1s",
+      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1699,6 +1683,22 @@
       "duration_ms": 154846,
       "name": "Maracuy\u00e1 Con Mango",
       "url": "https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Moral Distra\u00edda",
+        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
+      },
+      "artists": [
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
     }
   ],
   "unique_name": "Cumbias para carretear",

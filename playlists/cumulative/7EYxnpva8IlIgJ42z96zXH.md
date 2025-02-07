@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-957 songs - 2 day 2 hr 26 min
+958 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Dopamine](https://open.spotify.com/track/0gy6fmn47eSk1jGMw8LABx) | [Opiuo](https://open.spotify.com/artist/69Fy7EM9qAFPdKSKLFU66b) | [Dopamine](https://open.spotify.com/album/69p7kVCg3aNBBRmucC48Ge) | 5:14 | 2022-07-29 | 2022-10-07 |
 | [DOUBLE D'Z](https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:20 | 2022-11-11 | 2023-01-13 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-27 | 2022-02-04 |
+| [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-06 |  |
 | [Dreamin' \(feat\. Second Chance\)](https://open.spotify.com/track/4TBD0OjfvPLnCtpIjDmqNS) | [ROËDS](https://open.spotify.com/artist/2zXCDM9a05PtruoSYRINGM), [Second Chance](https://open.spotify.com/artist/1eSBC2sgkztFVnRUcJSODE) | [Dreamin' \(feat\. Second Chance\)](https://open.spotify.com/album/2VgzCHLqwJx9zGAFRbJcYT) | 3:07 | 2021-07-24 | 2021-07-31 |
 | [Dreaming](https://open.spotify.com/track/4aq3SYTYUlDF1CKBcSnRUq) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Dreaming](https://open.spotify.com/album/2wEX9CEEhLpnzIS9rYQ7VQ) | 3:12 | 2023-12-08 | 2024-06-07 |
 | [Dreams](https://open.spotify.com/track/2J3TcdKkdU42R9zWqWi6LJ) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Dreams](https://open.spotify.com/album/2wvHFdSUM3Q6Dtu7dowYpf) | 3:18 | 2021-05-15 | 2022-07-16 |
@@ -649,7 +650,7 @@
 | [Pleasure is the Law \(feat\. Julian Hamilton\)](https://open.spotify.com/track/1kLiDlP9XUxrwCf6IiM9Y0) | [Happiness is Wealth](https://open.spotify.com/artist/1AebRqBS8ifo5gAF6z8poy), [Julian Hamilton](https://open.spotify.com/artist/794ajzUQFiGA2hkydHIOTh) | [Pleasure is the Law \(feat\. Julian Hamilton\)](https://open.spotify.com/album/0K7fCl0OnfPRCZZiWhlkMB) | 2:15 | 2022-11-09 | 2022-12-16 |
 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-06-24 | 2022-10-07 |
 | [Polite](https://open.spotify.com/track/4JdD2un3BjFGApauSkPIMv) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Shanique Marie](https://open.spotify.com/artist/6iMJjTp6P8nIwfan6pgPuA) | [Polite](https://open.spotify.com/album/16fc4iyTTvTld5SnBZO8zH) | 3:46 | 2024-10-03 | 2024-11-29 |
-| [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 | 2024-12-16 |  |
+| [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 | 2024-12-16 | 2025-02-07 |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-27 | 2022-08-27 |
 | [Pour the Milk](https://open.spotify.com/track/3239OdTeQMBphegyNvF8F3) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS), [Keees.](https://open.spotify.com/artist/5FzFuIi6RVngFoIwTdawDd) | [Pour the Milk](https://open.spotify.com/album/1RN9XFMVqqw4BD5dgLigpP) | 2:52 | 2020-11-03\* | 2021-03-19 |
 | [Power](https://open.spotify.com/track/2PB9qohRHoU7XmRKtaEpY0) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [Power](https://open.spotify.com/album/5bmyUdQ6KHEYONPh3m2FsY) | 3:26 | 2022-07-29 | 2022-09-23 |

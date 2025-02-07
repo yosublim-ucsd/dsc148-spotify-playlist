@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 230543,
       "name": "Bless This Party",
       "url": "https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 146000,
       "name": "Bubble Up",
       "url": "https://open.spotify.com/track/7lzzzjC3NJS2Oe6x8RTp3b"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 231874,
       "name": "Carnival (feat. Machel Montano)",
       "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
@@ -1082,6 +1082,28 @@
       "duration_ms": 227880,
       "name": "Carnival Tabanca",
       "url": "https://open.spotify.com/track/7hkxLRJsB7aratKW1FvtcX"
+    },
+    {
+      "album": {
+        "name": "Carry It",
+        "url": "https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        },
+        {
+          "name": "Stemz",
+          "url": "https://open.spotify.com/artist/5jY4YgP5Ub1MMCgMhjY4Mp"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Carry It",
+      "url": "https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9"
     },
     {
       "album": {
@@ -1260,6 +1282,42 @@
       "duration_ms": 208615,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "album": {
+        "name": "Cocoa Tea",
+        "url": "https://open.spotify.com/album/4bKlTsxPKoojrBks3j7JSL"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211173,
+      "name": "Cocoa Tea",
+      "url": "https://open.spotify.com/track/1x89dD1bENfCHL6MiZurDI"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7lKoacDvRqyrPpQI8IaEts"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/7l7N33CHWxmPl2v6D69jS8"
     },
     {
       "album": {
@@ -1664,7 +1722,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 207034,
       "name": "Dingolay",
       "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
@@ -1841,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212519,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
+    },
+    {
+      "album": {
         "name": "Engine Room",
         "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
       },
@@ -1856,6 +1932,46 @@
       "duration_ms": 201594,
       "name": "Engine Room",
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
+    },
+    {
+      "album": {
+        "name": "ESKIMO",
+        "url": "https://open.spotify.com/album/59d6YjsvxMfIYOlRP1OEHW"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Killa",
+          "url": "https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216343,
+      "name": "ESKIMO",
+      "url": "https://open.spotify.com/track/4dcDJ2zxbrO6CBgpZ3lxPz"
+    },
+    {
+      "album": {
+        "name": "Alien Head Riddim",
+        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
     },
     {
       "album": {
@@ -2226,7 +2342,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 276131,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
@@ -2430,6 +2546,24 @@
       "duration_ms": 215883,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/6tYdPcVJ1tBjRj3gy7ffXa"
+    },
+    {
+      "album": {
+        "name": "Big Links Riddim",
+        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
+      },
+      "artists": [
+        {
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "Good Spirits",
+      "url": "https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS"
     },
     {
       "album": {
@@ -3141,6 +3275,28 @@
     },
     {
       "album": {
+        "name": "Heroes Riddim",
+        "url": "https://open.spotify.com/album/259CBsx920bdse65Q33ln1"
+      },
+      "artists": [
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        },
+        {
+          "name": "Coutain",
+          "url": "https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188512,
+      "name": "Jamtown",
+      "url": "https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg"
+    },
+    {
+      "album": {
         "name": "Jelly",
         "url": "https://open.spotify.com/album/1KnpGxfiGrfTlN3YOCk9Do"
       },
@@ -3280,7 +3436,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 173186,
       "name": "Jumbo Jet",
       "url": "https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg"
@@ -3614,7 +3770,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 151250,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
@@ -3746,6 +3902,24 @@
       "duration_ms": 210238,
       "name": "Mas",
       "url": "https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM"
+    },
+    {
+      "album": {
+        "name": "Mas Go Play",
+        "url": "https://open.spotify.com/album/3wm5DmlWD4sFyRcujrXVa1"
+      },
+      "artists": [
+        {
+          "name": "Erphaan Alves",
+          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171230,
+      "name": "Mas Go Play",
+      "url": "https://open.spotify.com/track/6sGDRMlfRR4czucvMo8Wu1"
     },
     {
       "album": {
@@ -4360,6 +4534,24 @@
       "duration_ms": 217756,
       "name": "PALANCE - JW AND BLAZE",
       "url": "https://open.spotify.com/track/4lNgiikm12YD6D3Eo2XbiS"
+    },
+    {
+      "album": {
+        "name": "PARDY",
+        "url": "https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222329,
+      "name": "PARDY",
+      "url": "https://open.spotify.com/track/3HgSn2nlDVwnvlStwaA19M"
     },
     {
       "album": {
@@ -5904,7 +6096,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 198671,
       "name": "Tack Back",
       "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
@@ -6002,6 +6194,28 @@
       "duration_ms": 188624,
       "name": "The Best",
       "url": "https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs"
+    },
+    {
+      "album": {
+        "name": "Big Links Riddim",
+        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "The Greatest Bend Over",
+      "url": "https://open.spotify.com/track/6mZtcDKqMyUOcG0qi11zeE"
     },
     {
       "album": {
@@ -6168,7 +6382,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 150508,
       "name": "To My Ex",
       "url": "https://open.spotify.com/track/65tYC4ksMoiJYnFhqOyDzZ"
@@ -6208,6 +6422,24 @@
       "duration_ms": 230769,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
+    },
+    {
+      "album": {
+        "name": "Too Own Way",
+        "url": "https://open.spotify.com/album/3YPl9L6cgb4vKNiNgDeg9t"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201807,
+      "name": "Too Own Way",
+      "url": "https://open.spotify.com/track/0HSfp7t9CTBjWXDAzMIqt3"
     },
     {
       "album": {
@@ -6356,7 +6588,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 181960,
       "name": "Trinidad",
       "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
@@ -6758,7 +6990,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 188372,
       "name": "Who Drinking Rum?",
       "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
@@ -6776,7 +7008,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 274000,
       "name": "Wining Queen",
       "url": "https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw"

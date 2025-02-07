@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-650 songs - 1 day 7 hr 50 min
+652 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Four Leaves](https://open.spotify.com/track/5Zx7niunyVM8pq7p3SNR5L) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Four Leaves](https://open.spotify.com/album/3MQNzbsWxRYHyhy9NiBKWQ) | 2:54 | 2024-05-20 | 2024-11-07 |
 | [Fragile](https://open.spotify.com/track/1jNuMTWsvFvPMwyJcb30FF) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Fragile](https://open.spotify.com/album/23yYxqfArgUd8RkreaCD4t) | 2:59 | 2023-03-23 | 2024-02-09 |
 | [Fragile Voices](https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO) | [Meadow Rose](https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y) | [Fragile Voices](https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v) | 3:31 | 2024-04-05 | 2025-01-09 |
+| [Fragmented Light](https://open.spotify.com/track/0CPyLkwaa3hTT0Pz9syd0l) | [Benjamin Mounfield](https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD) | [Fragmented Light](https://open.spotify.com/album/3uoMQghOUG6e3YNmJnPJl6) | 2:33 | 2025-02-04 |  |
 | [Fragments of Time](https://open.spotify.com/track/6FbX0P2bgK1L3CYVSKerC3) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Fragments of Time](https://open.spotify.com/album/6USdPUjJ2RCIcwoZ7oaWcm) | 2:12 | 2024-12-12 |  |
 | [Free Heart](https://open.spotify.com/track/20Swwc4vZdDM00QexotXce) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Completely](https://open.spotify.com/album/1i6EaebeCPg1TzIYjhFWhB) | 2:40 | 2023-03-23 | 2024-02-09 |
 | [Free Of Hesitation](https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Free Of Hesitation](https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr) | 2:40 | 2023-03-23 | 2024-06-21 |
@@ -314,7 +315,7 @@
 | [Insightful](https://open.spotify.com/track/0NlByUffMwnOmFjoGgJNCs) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Insightful](https://open.spotify.com/album/06gZhh1yRVqsA3E6By30MH) | 2:45 | 2024-03-06 | 2025-01-09 |
 | [Interbeing](https://open.spotify.com/track/4dpkVkhbNoH0tJh7EFQXF3) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Interbeing](https://open.spotify.com/album/2V1U4sx2TF1mNPPGGdPrJm) | 2:48 | 2023-03-23 | 2024-05-05 |
 | [Intermezzo](https://open.spotify.com/track/1rAv3gMViglWehdm1baqcF) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Intermezzo](https://open.spotify.com/album/5PZtdr51jXLW3oLFBFVQkg) | 2:02 | 2023-03-23 | 2024-01-18 |
-| [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 | 2024-05-04 |  |
+| [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 | 2024-05-04 | 2025-02-07 |
 | [Irenic Tone](https://open.spotify.com/track/7l6TgOi4LjuVMPOvSeHuyw) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Irenic Tone](https://open.spotify.com/album/5BkShagjCMM9xVAI1uWVWq) | 2:28 | 2023-03-23 | 2024-05-05 |
 | [Iridescent](https://open.spotify.com/track/4oFJxQJJJjcEY1jD7H7JsH) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [Iridescent](https://open.spotify.com/album/3r6Qh29VeZ9SNLuiCcBv9G) | 3:12 | 2023-03-23 | 2023-09-01 |
 | [Joys](https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Joys](https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB) | 2:40 | 2024-11-05 |  |
@@ -375,6 +376,7 @@
 | [Mindful Heights](https://open.spotify.com/track/7zGEVhbWkkwVeu15l42JCV) | [Snooze Narrator](https://open.spotify.com/artist/4AIFEMrtoaGz1z3j8OXeR3) | [Mindful Heights](https://open.spotify.com/album/6waTwZDuN0H1mFP7rZhQZK) | 3:24 | 2024-05-20 |  |
 | [Mindvibe](https://open.spotify.com/track/3aROTIlJEYc90xE8hlm4Be) | [Sir Dejvid](https://open.spotify.com/artist/0pwSi22Ps7HUNFmaAQHTJF) | [Cipher](https://open.spotify.com/album/2jBr8FtJiUIW5KuklZAaxa) | 3:03 | 2023-07-14 | 2024-07-10 |
 | [Miracle Manifestations](https://open.spotify.com/track/434O3sagPl9KLkBhGp7aP5) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Miracle Manifestations](https://open.spotify.com/album/1nqyNBtjTe6UuWdq86sB6G) | 2:08 | 2025-01-22 |  |
+| [Miravar](https://open.spotify.com/track/5iEcnvMT4iEPjDihzlq4Ns) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Miravar](https://open.spotify.com/album/0ExUh2Y2QlemMCiEtXTwDt) | 2:51 | 2025-02-04 |  |
 | [Mirno](https://open.spotify.com/track/21YSyRy6GIFkbzIoWHLbhD) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Mirno](https://open.spotify.com/album/4RAtKiZLrOx2b2PjBQjXKb) | 2:57 | 2023-03-23 | 2024-05-05 |
 | [Mist](https://open.spotify.com/track/1cDxN422npw3wU2ZfY6Qb9) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [Mist](https://open.spotify.com/album/2U7MoXvOHyKZorf993LEDt) | 2:58 | 2023-03-23 | 2024-03-21 |
 | [Mist](https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Mist](https://open.spotify.com/album/7C5hApE1qc1BDNFekhDbPt) | 3:05 | 2024-11-05 |  |
@@ -605,7 +607,7 @@
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-08 | 2024-07-16 |
 | [Tout Autour De Nous](https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT) | [Iris Guilbert](https://open.spotify.com/artist/6YR85wKc8XLYVhRaFA2ql8) | [Tout Autour De Nous](https://open.spotify.com/album/0dJGlhXqFX9sftgM17o2Xh) | 3:08 | 2023-03-23 | 2024-03-21 |
-| [Tranquil Tides](https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa) | [Kimelén Millán](https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK) | [Tranquil Tides](https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg) | 2:57 | 2024-05-04 |  |
+| [Tranquil Tides](https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa) | [Kimelén Millán](https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK) | [Tranquil Tides](https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg) | 2:57 | 2024-05-04 | 2025-02-07 |
 | [Tranquility](https://open.spotify.com/track/5ZVmS3L1zuMHJ6SsAsZe2X) | [Úrkoma](https://open.spotify.com/artist/4XWAQN3T2e2rNDlcDO0lhS) | [Tranquility](https://open.spotify.com/album/1EbCXvbGVR1ZhK3viDyNdh) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Tranquilizar el Ser](https://open.spotify.com/track/3HMptEvLblLn7DbyRVaCLw) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tranquilizar el Ser](https://open.spotify.com/album/6ZhrQdoRXpHnIapIxFfh5O) | 2:07 | 2024-03-06 | 2024-06-21 |
 | [Transformation](https://open.spotify.com/track/3Fqsx9n9qysSodg3UnEdPX) | [Stepan Korolev](https://open.spotify.com/artist/2OR4pbdpOvzVWYizSnqKQn) | [Transformation](https://open.spotify.com/album/4PJEn9Hx7L9RwY1FpNuqQR) | 3:14 | 2023-03-23 | 2024-03-21 |

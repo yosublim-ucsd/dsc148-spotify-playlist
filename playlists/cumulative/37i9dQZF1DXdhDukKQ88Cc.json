@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "\ud83e\udd76 sikke typer <a href=\"spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr\">@Zuloo</a> x <a href=\"spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP\">Lamin</a>  \ud83e\udd76",
+  "description": "ny ep rammer som en \ud83d\udcab <a href=\"spotify:album:5vbJhFQh6zShDRuWIlaFbg\">Supanova</a> \ud83d\udcab   \n <a href=\"spotify:artist:2d7AMvzFwh5wUTuqQl3BAE\">@Kesi</a>",
   "name": "100 dk",
   "tracks": [
     {
@@ -434,6 +434,24 @@
       "duration_ms": 115348,
       "name": "ANDERLEDES",
       "url": "https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw"
+    },
+    {
+      "album": {
+        "name": "ANTISOCIAL",
+        "url": "https://open.spotify.com/album/32akYgu4MkrCHLkOEi0XAv"
+      },
+      "artists": [
+        {
+          "name": "Larry",
+          "url": "https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "ANTISOCIAL",
+      "url": "https://open.spotify.com/track/5tAFJmTuNNrCnNbjWM2KAR"
     },
     {
       "album": {
@@ -2016,6 +2034,32 @@
       "duration_ms": 125538,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5vbJhFQh6zShDRuWIlaFbg"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136178,
+      "name": "Flad Af Grin (feat. Noah Carter & Benny Jamz)",
+      "url": "https://open.spotify.com/track/6xm5NjUzitBPdgtUUXR6P6"
     },
     {
       "album": {
@@ -4124,6 +4168,24 @@
       "duration_ms": 146711,
       "name": "Refleks (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98"
+    },
+    {
+      "album": {
+        "name": "Remontada",
+        "url": "https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9"
+      },
+      "artists": [
+        {
+          "name": "ZUUZ",
+          "url": "https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127133,
+      "name": "Remontada",
+      "url": "https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn"
     },
     {
       "album": {

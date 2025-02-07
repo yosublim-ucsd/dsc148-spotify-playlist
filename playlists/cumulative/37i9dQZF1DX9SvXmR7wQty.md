@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Yoa
 
-3,079 songs - 6 day 19 hr 37 min
+3,080 songs - 6 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 | 2024-02-23 | 2024-04-06 |
 | [amnezia](https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [amnezia](https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t) | 3:34 | 2023-05-05 | 2023-06-24 |
 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 | 2023-05-05 | 2023-06-19 |
-| [AMORÉ](https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AMORÉ](https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW) | 2:24 | 2024-12-13 |  |
+| [AMORÉ](https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AMORÉ](https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW) | 2:24 | 2024-12-13 | 2025-02-07 |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 | 2022-02-19 |
 | [Amour, Haine & Danger](https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Amour, Haine & Danger](https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3) | 3:18 | 2022-09-30 | 2022-10-15 |
 | [Amours et Contradictions](https://open.spotify.com/track/0QvndhdnzK1S5nDH5mBaMW) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi), [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [Amours et Contradictions](https://open.spotify.com/album/5S8FScCHYUnn7FTvU7iI1I) | 2:59 | 2024-04-19 | 2024-04-27 |
@@ -788,6 +788,7 @@
 | [Désert](https://open.spotify.com/track/5WXSQ6fdFGybbY6ZdknoLr) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:17 | 2023-06-23 | 2023-07-25 |
 | [désert alimentaire](https://open.spotify.com/track/59TJbm04rprGfGZRSzKrse) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [désert alimentaire](https://open.spotify.com/album/7vN3Q76FIrnHxPs2DElKyk) | 3:10 | 2023-05-19 | 2023-05-27 |
 | [Désirs](https://open.spotify.com/track/6AKutBSHsLtHMc5RwzUnlN) | [thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh), [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Désirs](https://open.spotify.com/album/6mFbBhGdzkUevkasEGX1JM) | 3:10 | 2024-11-08 | 2024-11-16 |
+| [Désolée](https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Désolée](https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn) | 2:44 | 2025-01-31 |  |
 | [Désolée de vous déranger](https://open.spotify.com/track/61DbsM7z2tDRvQpS6al7fG) | [Melissa Ouimet](https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth) | [Sans tomber](https://open.spotify.com/album/74EiP9IkxZgQQzRBmlIX7f) | 2:55 | 2022-05-06 | 2022-05-20 |
 | [Désordre insensé](https://open.spotify.com/track/0LG9F3iWjlzR6q6RpbyJNS) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Les souvenirs flous](https://open.spotify.com/album/2qiD7xcB164I74T1fzHb6c) | 3:30 | 2023-02-17 | 2023-03-04 |
 | [Déter \(feat\. Soolking\)](https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Déter \(feat\. Soolking\)](https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG) | 3:26 | 2024-01-19 | 2024-03-23 |

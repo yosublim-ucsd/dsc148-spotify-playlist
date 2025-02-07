@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 66744,
+  "num_followers": 66870,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,34 @@
     {
       "added_at": "2025-01-30 23:47:46",
       "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
+      },
+      "artists": [
+        {
+          "name": "DAMANTE",
+          "url": "https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 105703,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
+    },
+    {
+      "added_at": "2025-01-30 23:47:46",
+      "album": {
         "name": "Abra (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/7mgE77YtjcOFQiYKsu07ZQ"
       },
@@ -1099,34 +1127,6 @@
     {
       "added_at": "2025-01-30 23:47:46",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
-      },
-      "artists": [
-        {
-          "name": "DAMANTE",
-          "url": "https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Luca Testa",
-          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        }
-      ],
-      "duration_ms": 105703,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
-    },
-    {
-      "added_at": "2025-01-30 23:47:46",
-      "album": {
         "name": "Maracuya",
         "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-01-30 23:47:46",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
+      "added_at": "2025-01-30 23:47:46",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 120120,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
-    },
-    {
-      "added_at": "2025-01-30 23:47:46",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-01-30 23:47:46",
@@ -1587,30 +1587,6 @@
     {
       "added_at": "2025-01-30 23:47:46",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
-    },
-    {
-      "added_at": "2025-01-30 23:47:46",
-      "album": {
         "name": "Ta Sendo",
         "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
       },
@@ -1635,6 +1611,30 @@
     {
       "added_at": "2025-01-30 23:47:46",
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
+    },
+    {
+      "added_at": "2025-01-30 23:47:46",
+      "album": {
         "name": "Roots EP, Pt. 1",
         "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
       },
@@ -1647,6 +1647,26 @@
       "duration_ms": 216000,
       "name": "Hijos De La Noche",
       "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
+    },
+    {
+      "added_at": "2025-01-30 23:47:46",
+      "album": {
+        "name": "Sombrerito Blanco",
+        "url": "https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 127559,
+      "name": "Sombrerito Blanco",
+      "url": "https://open.spotify.com/track/4cjmKKcFPKflJQzXQUa1dp"
     },
     {
       "added_at": "2025-01-30 23:47:46",
@@ -1671,26 +1691,6 @@
       "duration_ms": 183310,
       "name": "Cuando Fue (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
-    },
-    {
-      "added_at": "2025-01-30 23:47:46",
-      "album": {
-        "name": "Sombrerito Blanco",
-        "url": "https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu"
-      },
-      "artists": [
-        {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 127559,
-      "name": "Sombrerito Blanco",
-      "url": "https://open.spotify.com/track/4cjmKKcFPKflJQzXQUa1dp"
     },
     {
       "added_at": "2025-01-30 23:47:46",
@@ -1751,30 +1751,6 @@
       "duration_ms": 323763,
       "name": "Toma Dale",
       "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
-    },
-    {
-      "added_at": "2025-01-30 23:47:46",
-      "album": {
-        "name": "Lindos Ojos",
-        "url": "https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "Lindos Ojos",
-      "url": "https://open.spotify.com/track/0JbwPMowbtRAeN5JGMWjXB"
     },
     {
       "added_at": "2025-01-30 23:47:46",
@@ -1843,6 +1819,30 @@
     {
       "added_at": "2025-01-30 23:47:46",
       "album": {
+        "name": "Lindos Ojos",
+        "url": "https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Lindos Ojos",
+      "url": "https://open.spotify.com/track/0JbwPMowbtRAeN5JGMWjXB"
+    },
+    {
+      "added_at": "2025-01-30 23:47:46",
+      "album": {
         "name": "CKULO",
         "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
@@ -1903,6 +1903,26 @@
       "duration_ms": 183281,
       "name": "Afloja",
       "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+    },
+    {
+      "added_at": "2025-01-30 23:47:46",
+      "album": {
+        "name": "Noche Y Dia",
+        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 152601,
+      "name": "Noche Y Dia",
+      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
     },
     {
       "added_at": "2025-01-30 23:47:46",
@@ -2035,26 +2055,6 @@
       "duration_ms": 204923,
       "name": "Give 6 Feet",
       "url": "https://open.spotify.com/track/6xG7xUwkYqOcm2xx5MMIyk"
-    },
-    {
-      "added_at": "2025-01-30 23:47:46",
-      "album": {
-        "name": "Noche Y Dia",
-        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 152601,
-      "name": "Noche Y Dia",
-      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
     },
     {
       "added_at": "2025-01-30 23:47:46",

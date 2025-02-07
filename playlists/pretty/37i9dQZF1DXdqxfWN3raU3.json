@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. E-Lhoy en portada.",
-  "num_followers": 257346,
+  "num_followers": 257366,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 370700,
-      "name": "1960",
-      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 191849,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "WYA REMIX WHITE",
         "url": "https://open.spotify.com/album/6R29zteRiORMadmQCkLLBZ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 353544,
       "name": "WYA REMIX WHITE",
       "url": "https://open.spotify.com/track/1bvWJa118mABR5vJbHpESU"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "LQMGDT",
-        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Weeknd<3",
-      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "CAE LA NOCHE",
-        "url": "https://open.spotify.com/album/3PZisBJfF9PJBt9AcX7AMX"
-      },
-      "artists": [
-        {
-          "name": "Anthony",
-          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "CAE LA NOCHE",
-      "url": "https://open.spotify.com/track/45u8AYilUFXep0i2eomu7F"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Click Clack",
         "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 178461,
       "name": "Click Clack",
       "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "CAE LA NOCHE",
+        "url": "https://open.spotify.com/album/3PZisBJfF9PJBt9AcX7AMX"
+      },
+      "artists": [
+        {
+          "name": "Anthony",
+          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "CAE LA NOCHE",
+      "url": "https://open.spotify.com/track/45u8AYilUFXep0i2eomu7F"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "LA NOCHE ENTERA",
         "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 150480,
       "name": "LA NOCHE ENTERA",
       "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Young Rich & In Love - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1079,6 +1079,30 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "real valor",
+        "url": "https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "real valor",
+      "url": "https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -1107,30 +1131,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "real valor",
-        "url": "https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "real valor",
-      "url": "https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "\u00bfQu\u00e9 Sabes De M\u00ed?",
-        "url": "https://open.spotify.com/album/2pfW9UleMSdCB98FChouuU"
-      },
-      "artists": [
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        },
-        {
-          "name": "dellapauta",
-          "url": "https://open.spotify.com/artist/1JyQjD5GZdNX3wD0rH9Nep"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "\u00bfQu\u00e9 Sabes De M\u00ed?",
-      "url": "https://open.spotify.com/track/64v6tIf0t5trbDuGXTqPOY"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Pobre Diablo",
         "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 218297,
       "name": "Pobre Diablo",
       "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "\u00bfQu\u00e9 Sabes De M\u00ed?",
+        "url": "https://open.spotify.com/album/2pfW9UleMSdCB98FChouuU"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "dellapauta",
+          "url": "https://open.spotify.com/artist/1JyQjD5GZdNX3wD0rH9Nep"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "\u00bfQu\u00e9 Sabes De M\u00ed?",
+      "url": "https://open.spotify.com/track/64v6tIf0t5trbDuGXTqPOY"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Obra de Dios",
         "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 217936,
       "name": "Obra de Dios",
       "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Se Termin\u00f3",
-        "url": "https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 213900,
-      "name": "Se Termin\u00f3",
-      "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Makin Money",
         "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 193600,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Se Termin\u00f3",
+        "url": "https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 213900,
+      "name": "Se Termin\u00f3",
+      "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 145413,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1675,26 +1675,6 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Mamma Mia",
-        "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
-      },
-      "artists": [
-        {
-          "name": "The Limba",
-          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
-        },
-        {
-          "name": "Dyce",
-          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
-        }
-      ],
-      "duration_ms": 89791,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1735,18 +1715,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+        "name": "Mamma Mia",
+        "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+        },
+        {
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
         }
       ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
+      "duration_ms": 89791,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1787,6 +1771,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "YNQNPQSD",
         "url": "https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9"
       },
@@ -1799,6 +1799,22 @@
       "duration_ms": 152876,
       "name": "Icono",
       "url": "https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1823,22 +1839,6 @@
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2025-01-31 06:00:22",

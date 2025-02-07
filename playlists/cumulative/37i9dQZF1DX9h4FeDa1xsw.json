@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Photo : Ril\u00e8s",
+  "description": "Photo : Pitt",
   "name": "Vice Versa",
   "tracks": [
     {
@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 209753,
       "name": "MAUDIT",
       "url": "https://open.spotify.com/track/460uCEB54eEUyCtoApYO8b"
@@ -1112,6 +1112,24 @@
       "duration_ms": 193880,
       "name": "Primate d\u00e9prim\u00e9",
       "url": "https://open.spotify.com/track/4g3mp0Y5G3PQ75hDO5XjqI"
+    },
+    {
+      "album": {
+        "name": "QUE LOVE",
+        "url": "https://open.spotify.com/album/3RHLPdGVkaUAnJr0OXSV9D"
+      },
+      "artists": [
+        {
+          "name": "Pitt",
+          "url": "https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "QUE LOVE",
+      "url": "https://open.spotify.com/track/4oZNP8XaXk2wiRbnTme6gH"
     },
     {
       "album": {

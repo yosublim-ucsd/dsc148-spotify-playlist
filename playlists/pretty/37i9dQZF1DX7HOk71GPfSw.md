@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring new materiaL from horsegiirL
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,775 likes - 198 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,851 likes - 198 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 12 | [lipstick 405](https://open.spotify.com/track/5PeTQFWLrtYrL7tjInjDVd) | [webcage](https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8) | [bleed / lipstick 405](https://open.spotify.com/album/78lQ2a1xUfkn7I4Fqlqhbl) | 3:50 |
 | 13 | [All My Fault](https://open.spotify.com/track/3Iu2PsD8ZWhF892DS8ffkr) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g), [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [All My Fault](https://open.spotify.com/album/7fiLM8GJ7fRrNZJiE6asBn) | 2:44 |
 | 14 | [BACKSTABBER](https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BACKSTABBER](https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs) | 3:12 |
-| 15 | [Magic Powers With Two Shell](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers With Two Shell](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
+| 15 | [Magic Powers With Two Shell](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [Magic Powers With Two Shell](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 16 | [Shrinking Violet](https://open.spotify.com/track/18LRMEMKbDoqA8WtBV0mGi) | [Oh well.](https://open.spotify.com/artist/25FTiLQemubL5MjTJ9AEXT) | [Shrinking Violet](https://open.spotify.com/album/0bsZv4zj4VpxckdZQfFm6s) | 3:06 |
 | 17 | [afraid \(feat\. nate sib\)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [afraid \(feat\. nate sib\)](https://open.spotify.com/album/3wUZg9qN8bFDXHh109BaOv) | 2:58 |
 | 18 | [Body Organic Disco Electronic](https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Body Organic Disco Electronic](https://open.spotify.com/album/1sat7HT0WjqPVnMTWYeTbI) | 3:12 |

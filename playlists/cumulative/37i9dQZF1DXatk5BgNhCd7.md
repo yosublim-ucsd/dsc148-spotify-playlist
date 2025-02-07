@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. TIMØ y Cardellino en portada.
 
-3,478 songs - 8 day 9 hr 50 min
+3,479 songs - 8 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1987,6 +1987,7 @@
 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp) | 3:49 | 2024-02-16 | 2024-03-09 |
 | [Motivo Real](https://open.spotify.com/track/2QsYfTSbyUhJ49ZVArZZh7) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Motivo Real](https://open.spotify.com/album/7wjLXfMOdzL9VawUwaBXJR) | 2:50 | 2024-05-24 | 2024-06-01 |
 | [MOTORES](https://open.spotify.com/track/4K4Z9m8xxyl3eSLMcwOPVY) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [MOTORES](https://open.spotify.com/album/4fQb1V94KtqsHbxJfauXjz) | 2:12 | 2023-11-10 | 2023-11-18 |
+| [MQSTC](https://open.spotify.com/track/1NhoEZEpxHn5bj7TmSWlV5) | [Gonzi Mathi](https://open.spotify.com/artist/3qSxmP6xnzG8tuMATCdX0R), [Cristian JS](https://open.spotify.com/artist/3vlE4er6k5ngHKWhEQa04u) | [MQSTC](https://open.spotify.com/album/3dsRJuUeblQN1PVexLlhch) | 3:41 | 2025-01-31 |  |
 | [Muchachita Consentida \(Con Buenos Aires\) \- En Vivo](https://open.spotify.com/track/5TdL3USZBYcUfRmiUw6fdO) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Muchachita Consentida \(Con Buenos Aires\) \[En Vivo\]](https://open.spotify.com/album/3ywq676egfDqQwN1L0Iwzx) | 3:15 | 2024-06-07 | 2024-06-15 |
 | [Muchachita Consentida \(En Vivo Desde Guadalajara\)](https://open.spotify.com/track/2HqLUk8t0adSaIusLE3tsx) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Muchachita Consentida \(En Vivo Desde Guadalajara\)](https://open.spotify.com/album/0I4aL2dNNU6DZRggY9XTSG) | 3:12 | 2022-08-12 | 2022-09-10 |
 | [Muchacho Malo Power](https://open.spotify.com/track/1mXTmIpSaeltrNv2vFcf1i) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tañón Con Más Power](https://open.spotify.com/album/2UBiosbTlCo6McyCCcO8ko) | 3:43 | 2023-11-17 | 2023-12-02 |

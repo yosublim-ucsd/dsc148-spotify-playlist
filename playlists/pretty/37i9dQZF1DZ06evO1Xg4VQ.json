@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 70925,
+  "num_followers": 70924,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAACA3pruL9TQ1PKxvMz1A76y",
+  "snapshot_id": "Z6KqAAAAAACGT9nMG8yHUXKHDeBlHVdt",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
     },
     {
       "added_at": null,
@@ -963,22 +963,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El \u00daltimo Trago",
-        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
+        "name": "Ra\u00edz Nunca Me Fui",
+        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        },
-        {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 207200,
-      "name": "En el \u00faltimo trago",
-      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
+      "duration_ms": 197402,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
     },
     {
       "added_at": null,
@@ -995,6 +999,26 @@
       "duration_ms": 210506,
       "name": "Balas y Chocolate",
       "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El \u00daltimo Trago",
+        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "En el \u00faltimo trago",
+      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
     },
     {
       "added_at": null,
@@ -1035,30 +1059,6 @@
       "duration_ms": 215720,
       "name": "Son del Chile Frito",
       "url": "https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ra\u00edz Nunca Me Fui",
-        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 197402,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
     }
   ],
   "unique_name": "This Is Lila Downs",

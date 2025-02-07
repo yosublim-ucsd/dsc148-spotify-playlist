@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/31qeq5W8Lq6H07GV0yJj6l"
+      },
+      "artists": [
+        {
+          "name": "Allan Tune",
+          "url": "https://open.spotify.com/artist/0XCcXANyEqw44WsvKKuqQc"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120916,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/3NKuAFk0QycmqD1Ontsg1z"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 204732,
       "name": "Pay For Me (\u05e9\u05dc\u05dd \u05e2\u05dc\u05d9\u05d9)",
       "url": "https://open.spotify.com/track/5oBfXbiGMO4YN2vahPCm2Q"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 255000,
       "name": "\u05d4\u05e9\u05d1\u05e8 \u05d4\u05e1\u05d5\u05e8\u05d9-\u05d0\u05e4\u05e8\u05d9\u05e7\u05e0\u05d9",
       "url": "https://open.spotify.com/track/7uungrCglt9t2vWRNxzpSo"
@@ -1860,6 +1878,24 @@
       "duration_ms": 235000,
       "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
       "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "album": {
+        "name": "\u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/0gjsUJ4JW0JimZdKjHeJW8"
+      },
+      "artists": [
+        {
+          "name": "Roy Rieck",
+          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130502,
+      "name": "\u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/0P5Pr6fLEhBnzeeBiY1eb6"
     },
     {
       "album": {
@@ -2493,6 +2529,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
+      },
+      "artists": [
+        {
+          "name": "Meirav Hellinger",
+          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
+        },
+        {
+          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d9\u05da \u05d4\u05d0\u05d4\u05d1\u05d4 \u05d4\u05d6\u05d0\u05ea \u05d7\u05d5\u05de\u05e7\u05ea \u05d1\u05d9\u05df \u05d4\u05d0\u05e6\u05d1\u05e2\u05d5\u05ea",
         "url": "https://open.spotify.com/album/7kO2WXy0zLHtKF49A4DwOP"
       },
@@ -2544,7 +2602,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197866,
       "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
       "url": "https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6"
@@ -3041,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "\u05e2\u05ea\u05d9\u05d3\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/470N1xG79MojOiJCenOrtZ"
+      },
+      "artists": [
+        {
+          "name": "Eran Tzur",
+          "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259328,
+      "name": "\u05e2\u05ea\u05d9\u05d3\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/2jDpuUfatm9mqMDq3OP1UT"
+    },
+    {
+      "album": {
         "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
         "url": "https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP"
       },
@@ -3074,7 +3150,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 171669,
       "name": "\u05e4\u05d5\u05e8\u05e0\u05d5\u05d2\u05e8\u05e4\u05d9\u05d4",
       "url": "https://open.spotify.com/track/4l4mOSNE3z8o4X8Nmmueet"

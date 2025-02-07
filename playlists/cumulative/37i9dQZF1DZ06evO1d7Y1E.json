@@ -503,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Sexta dos Crias, Vol. 1",
+        "url": "https://open.spotify.com/album/1zmdhjTJ9tmu6zCH0OkTnZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Ramon Sucesso",
+          "url": "https://open.spotify.com/artist/4TU1r1V7Xp6Ov2X2irfm3J"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149342,
+      "name": "BMW - Remix",
+      "url": "https://open.spotify.com/track/4pq5jYHXcCio0kK6sXTcNk"
+    },
+    {
+      "album": {
         "name": "Choppa",
         "url": "https://open.spotify.com/album/6rsTE1u8hjtHhb5TXkPAgi"
       },

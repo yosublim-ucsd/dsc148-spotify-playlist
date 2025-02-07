@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 651384,
+  "num_followers": 651600,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 314706,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "In Streams",
         "url": "https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 455000,
       "name": "The Same Place",
       "url": "https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 314706,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -707,18 +707,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Brickbat",
-        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
+        "name": "A Strangely Isolated Place",
+        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
       },
       "artists": [
         {
-          "name": "Piroshka",
-          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
         }
       ],
-      "duration_ms": 269747,
-      "name": "Everlastingly Yours",
-      "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
+      "duration_ms": 399720,
+      "name": "On My Own - 2019 remaster",
+      "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
     },
     {
       "added_at": "2024-10-15 03:39:28",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "A Strangely Isolated Place",
-        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
+        "name": "Brickbat",
+        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
       },
       "artists": [
         {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
         }
       ],
-      "duration_ms": 399720,
-      "name": "On My Own - 2019 remaster",
-      "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
+      "duration_ms": 269747,
+      "name": "Everlastingly Yours",
+      "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
     },
     {
       "added_at": "2023-01-11 15:25:58",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Raise",
-        "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
-      },
-      "artists": [
-        {
-          "name": "Swervedriver",
-          "url": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Rave Down",
-      "url": "https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Back to Land",
         "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 318560,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Raise",
+        "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
+      },
+      "artists": [
+        {
+          "name": "Swervedriver",
+          "url": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Rave Down",
+      "url": "https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Dead Cities, Red Seas & Lost Ghosts",
-        "url": "https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Run Into Flowers",
-      "url": "https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Hover",
         "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 297813,
       "name": "Dark Star",
       "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dead Cities, Red Seas & Lost Ghosts",
+        "url": "https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Run Into Flowers",
+      "url": "https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks"
-      },
-      "artists": [
-        {
-          "name": "Starflyer 59",
-          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "A House Wife Love Song",
-      "url": "https://open.spotify.com/track/57oNds15RN6allNb0YIPSD"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Mindfullness",
         "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 223013,
       "name": "It's Tomorrow Now",
       "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks"
+      },
+      "artists": [
+        {
+          "name": "Starflyer 59",
+          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "A House Wife Love Song",
+      "url": "https://open.spotify.com/track/57oNds15RN6allNb0YIPSD"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/3JYkqeNDO72o8hNPwKsD6e"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Splashdown: The Complete Creation Recordings 1990-1992",
-        "url": "https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG"
-      },
-      "artists": [
-        {
-          "name": "The Telescopes",
-          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Splashdown",
-      "url": "https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX"
-    },
-    {
       "added_at": "2023-04-12 01:14:16",
       "album": {
         "name": "Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986-1995",
@@ -1311,6 +1295,22 @@
       "duration_ms": 267666,
       "name": "Prayer Song",
       "url": "https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Splashdown: The Complete Creation Recordings 1990-1992",
+        "url": "https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG"
+      },
+      "artists": [
+        {
+          "name": "The Telescopes",
+          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Splashdown",
+      "url": "https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX"
     },
     {
       "added_at": "2021-06-03 02:39:04",

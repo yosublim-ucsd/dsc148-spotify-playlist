@@ -934,8 +934,8 @@
           "url": "https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4"
         },
         {
-          "name": "Hugo Mallet",
-          "url": "https://open.spotify.com/artist/5ys5lKRR5zOOrhE0XlwO2J"
+          "name": "Pacific",
+          "url": "https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1"
         }
       ],
       "date_added": "2025-01-31",
@@ -1824,6 +1824,24 @@
       "duration_ms": 227994,
       "name": "Doora",
       "url": "https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7"
+    },
+    {
+      "album": {
+        "name": "Doora Doora",
+        "url": "https://open.spotify.com/album/2Mcdq1eoQpkqx0BKlcHlKr"
+      },
+      "artists": [
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283771,
+      "name": "Doora Doora",
+      "url": "https://open.spotify.com/track/2kHvNJ3FUeOQP2Y6ubdQJD"
     },
     {
       "album": {
@@ -4846,7 +4864,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 159157,
       "name": "Maryade Prashne",
       "url": "https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP"
@@ -5704,7 +5722,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 223953,
       "name": "Nange Allava",
       "url": "https://open.spotify.com/track/0nqm1P0AJBaQn1mhhloB9j"
@@ -7433,6 +7451,28 @@
     },
     {
       "album": {
+        "name": "Parayana",
+        "url": "https://open.spotify.com/album/2s6eWfNhuR3WSOivc6sImq"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187448,
+      "name": "Parayana",
+      "url": "https://open.spotify.com/track/1MP109xqBHko9fqfd3OfBj"
+    },
+    {
+      "album": {
         "name": "Parichitana",
         "url": "https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp"
       },
@@ -8178,7 +8218,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 216428,
       "name": "Saniha",
       "url": "https://open.spotify.com/track/4wNFpCaaNnjZulNoOzi6Pn"
@@ -9302,6 +9342,24 @@
       "duration_ms": 168455,
       "name": "YENO AGIDHE-2",
       "url": "https://open.spotify.com/track/4hnEJMQNmphymiCNEtmx7N"
+    },
+    {
+      "album": {
+        "name": "YETHAKE",
+        "url": "https://open.spotify.com/album/1osvJxXuOInCyOKbBJuH2C"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187510,
+      "name": "YETHAKE",
+      "url": "https://open.spotify.com/track/3WLAXeHYLcmsIQrS9EUOXR"
     },
     {
       "album": {

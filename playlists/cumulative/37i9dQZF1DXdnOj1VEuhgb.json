@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: \u015eam",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Wegh",
   "name": "NKVT",
   "tracks": [
     {
@@ -98,6 +98,24 @@
       "duration_ms": 197094,
       "name": "12'lik Verse",
       "url": "https://open.spotify.com/track/1yG12cLbis6k7R6CXw8mvY"
+    },
+    {
+      "album": {
+        "name": "16-24",
+        "url": "https://open.spotify.com/album/42RLYxey9xLOaESHzuCUfO"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "16-24",
+      "url": "https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi"
     },
     {
       "album": {
@@ -338,7 +356,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 176862,
       "name": "Alpi",
       "url": "https://open.spotify.com/track/0Qswuc7isupiZ5DGxYsRvA"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 139900,
       "name": "BANANE",
       "url": "https://open.spotify.com/track/5zif4ww8uhD3aFhOPwlcw3"
@@ -1642,6 +1660,24 @@
       "duration_ms": 151826,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/22LVc4hZVIIEi0z3oB5IIA"
+    },
+    {
+      "album": {
+        "name": "BOYNA GALAVA",
+        "url": "https://open.spotify.com/album/2vpKbtKM6bbY1iYX8mVAB8"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "BOYNA GALAVA",
+      "url": "https://open.spotify.com/track/3hC2TUXhcKkVw7xgejsyiz"
     },
     {
       "album": {
@@ -2917,6 +2953,32 @@
     },
     {
       "album": {
+        "name": "6EP",
+        "url": "https://open.spotify.com/album/1xNzac76pyGW65UbQ15Jpn"
+      },
+      "artists": [
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        },
+        {
+          "name": "Berkay Duman",
+          "url": "https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6"
+        },
+        {
+          "name": "An\u0131l Piyanc\u0131",
+          "url": "https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198159,
+      "name": "ESK\u0130 OKUL",
+      "url": "https://open.spotify.com/track/0bvsV2THvrNj9tQm0yvfTn"
+    },
+    {
+      "album": {
         "name": "Esmeri Sevdim Sar\u0131\u015f\u0131nlara Kand\u0131m",
         "url": "https://open.spotify.com/album/3b2i1X8ufSYWea9POTCMdA"
       },
@@ -4094,6 +4156,24 @@
       "duration_ms": 126255,
       "name": "HAVHAVHAV",
       "url": "https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH"
+    },
+    {
+      "album": {
+        "name": "HAVLAMAYAN K\u00d6PEK",
+        "url": "https://open.spotify.com/album/72FV0fhSzvLCzTVwRQcLkg"
+      },
+      "artists": [
+        {
+          "name": "Decrat",
+          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97578,
+      "name": "HAVLAMAYAN K\u00d6PEK",
+      "url": "https://open.spotify.com/track/3PU0S5BmOUqk5MEm8421ux"
     },
     {
       "album": {
@@ -5888,7 +5968,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 198066,
       "name": "Kuklac\u0131",
       "url": "https://open.spotify.com/track/3cNQH9IDa0JAuJiAgDXFp1"
@@ -7244,7 +7324,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 217674,
       "name": "Nereye Gitsem",
       "url": "https://open.spotify.com/track/1QqqTDLV7M7ituLCDF3xUD"
@@ -7772,7 +7852,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 155744,
       "name": "PARANOYA",
       "url": "https://open.spotify.com/track/1BPPJqdXnvktKXOk77sOC9"
@@ -7888,6 +7968,24 @@
       "duration_ms": 195925,
       "name": "Peki \u00f6yle olsun",
       "url": "https://open.spotify.com/track/5c0E5xanfUrmob9WeLE1J7"
+    },
+    {
+      "album": {
+        "name": "Pelerin",
+        "url": "https://open.spotify.com/album/6gXrskn2L7Cs28U8JDe5vl"
+      },
+      "artists": [
+        {
+          "name": "Taladro",
+          "url": "https://open.spotify.com/artist/2ShoGcsu8kekluGvbggGKQ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Pelerin",
+      "url": "https://open.spotify.com/track/7CFOAqExFoOQ1M6Nrvi3Y0"
     },
     {
       "album": {
@@ -8590,7 +8688,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 95540,
       "name": "SAGOLUYORUM (BIG TERORISTA)",
       "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
@@ -9456,6 +9554,28 @@
       "duration_ms": 157021,
       "name": "SULU SULU",
       "url": "https://open.spotify.com/track/0dsfzzMxipPjIzSg2Zal7w"
+    },
+    {
+      "album": {
+        "name": "SURF",
+        "url": "https://open.spotify.com/album/0rtdeE6nzUsxXlEi1v00rp"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204181,
+      "name": "SURF",
+      "url": "https://open.spotify.com/track/1HX7FHOdN0QhVNwb0rcinx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-188 songs - 19 hr 45 min
+190 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Danger Zone](https://open.spotify.com/track/7A6YJDDaVuO03sl8Y7YFxD) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Medusa](https://open.spotify.com/album/1DGoKk76hCDu3TU9LnoPsS) | 7:23 | 2022-12-02 | 2023-03-18 |
 | [Dark Xmas](https://open.spotify.com/track/6exA8bAr3tzA3hNjFjeJMx) | [Wes Lee](https://open.spotify.com/artist/5jX2NDv1nyXv0FCEP3gqwR) | [The End Is Near EP](https://open.spotify.com/album/6h5FFPtEfRIrkzG3lujb6J) | 4:27 | 2024-05-31 | 2025-01-24 |
 | [Don't Give Up](https://open.spotify.com/track/4HeWkyuI8CoNMbRibOIj7c) | [Afro Swanky](https://open.spotify.com/artist/2WVyfkBgNUZZ3PBZb8DY7x) | [Jozi II](https://open.spotify.com/album/55IXmqj8VWQ7nnSGzE4rcd) | 6:00 | 2024-03-15 | 2025-01-24 |
+| [Electrolog](https://open.spotify.com/track/6IViguLpH79sxMUPO9RGNT) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Electrolog](https://open.spotify.com/album/5iDLYL2GCUKzFk4Tj8IhtY) | 6:25 | 2025-02-06 |  |
 | [Erro Pt II](https://open.spotify.com/track/1KLQ4j2Krqvebva7FUnBv3) | [Badbox](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [Afrokillerz](https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb) | [Erro PT II](https://open.spotify.com/album/6fLd2DiQaUuxDaQb1STnJE) | 6:21 | 2025-01-13 |  |
 | [Essensie](https://open.spotify.com/track/3HaBzrILKCnvjmabxB7LnT) | [ReMMusic](https://open.spotify.com/artist/6Q0XwlckSXlijQgDF9qe44) | [Essensie](https://open.spotify.com/album/6owsRMBu1McGPi3LP3ZMFX) | 5:48 | 2024-05-10 | 2024-06-01 |
 | [Fambai Neni](https://open.spotify.com/track/3mr5NkN0MnqpVssi5mEEI2) | [HALU!](https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z), [Reverb7](https://open.spotify.com/artist/6eWzuNjgNPDhshDsIT0NAy), [Adiona Chidzonga](https://open.spotify.com/artist/76avF7YCvtjytdxOfnd4Hw) | [Fambai Neni](https://open.spotify.com/album/1RhYjWnenPSe3e3llwX5mN) | 6:00 | 2022-09-22 | 2022-12-03 |
@@ -63,6 +64,7 @@
 | [I Want You](https://open.spotify.com/track/7c3oDw6MPSTP6qhZU0ufcL) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Szon](https://open.spotify.com/artist/7gDtr9MZnzuXBzzbeO5Of1) | [I Want You](https://open.spotify.com/album/684csa2gkBzmwUT0tMYKr3) | 5:12 | 2024-03-15 | 2025-01-24 |
 | [iFu](https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [iFu](https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f) | 5:59 | 2022-09-09 | 2024-06-14 |
 | [iKoro](https://open.spotify.com/track/1Jk4QzCrjaVv9Aw43kSHLc) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Caiiro](https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ) | 6:25 | 2025-01-13 |  |
+| [iLanga \- Samm Remix](https://open.spotify.com/track/01uHli2I60dhf2p3cKy3v2) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [iLanga \(Samm Remix\)](https://open.spotify.com/album/5URMWlfNRGISqDtaCcbaxv) | 4:04 | 2025-02-06 |  |
 | [iMali \(Ft\. Nana Atta\)](https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [iMali](https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN) | 7:16 | 2022-08-11 | 2024-01-26 |
 | [Imikhuleko](https://open.spotify.com/track/1dztH332bWfzJLWLtjseLy) | [Leo Guardo](https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Imikhuleko](https://open.spotify.com/album/6OhN5UxVkr2nR24cUkRvex) | 6:44 | 2023-04-20 |  |
 | [Iminathi](https://open.spotify.com/track/7omZhK4thI7xrGUCKRcaTe) | [The AquaBlendz](https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA) | [Hands Of Time Ep](https://open.spotify.com/album/0phvlcmXcDhNjVNtmnqt8d) | 6:30 | 2022-10-03 | 2022-11-11 |

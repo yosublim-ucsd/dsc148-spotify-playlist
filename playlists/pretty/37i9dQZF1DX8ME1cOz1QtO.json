@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 103348,
+  "num_followers": 103394,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Snowflakes Are Dancing",
-        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
-      },
-      "artists": [
-        {
-          "name": "Isao Tomita",
-          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Suite Bergamasque: Clair de Lune, No. 3",
-      "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 717706,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Snowflakes Are Dancing",
+        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
+      },
+      "artists": [
+        {
+          "name": "Isao Tomita",
+          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Suite Bergamasque: Clair de Lune, No. 3",
+      "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -471,38 +471,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Planet Voyage",
-        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -519,6 +487,22 @@
       "duration_ms": 171106,
       "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -551,6 +535,22 @@
       "duration_ms": 384133,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Planet Voyage",
+        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+      },
+      "artists": [
+        {
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+        }
+      ],
+      "duration_ms": 416026,
+      "name": "Midnight On Mars",
+      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "San",
         "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
-      },
-      "artists": [
-        {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
-        }
-      ],
-      "duration_ms": 416026,
-      "name": "Midnight On Mars",
-      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Phaedra (Deluxe Version)",
         "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 477322,
       "name": "Movements Of A Visionary - Remastered 2018",
       "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "The Third Wave - Love In The Waves",
+      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+        "name": "New Age Of Earth",
+        "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
       },
       "artists": [
         {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 317733,
-      "name": "The Third Wave - Love In The Waves",
-      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+      "duration_ms": 762666,
+      "name": "Ocean Of Tenderness",
+      "url": "https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -815,6 +831,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 347626,
+      "name": "The Fifth Wave - Water Lullaby",
+      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Valley In The Clouds",
         "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
       },
@@ -827,38 +859,6 @@
       "duration_ms": 215666,
       "name": "Valley In The Clouds",
       "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "New Age Of Earth",
-        "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
-      },
-      "artists": [
-        {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
-        }
-      ],
-      "duration_ms": 762666,
-      "name": "Ocean Of Tenderness",
-      "url": "https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Out Of Silence",
-        "url": "https://open.spotify.com/album/0G37K8IC27QEk9lNPjHjJz"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "The Mermaid",
-      "url": "https://open.spotify.com/track/121rsnNOWZusu5fTGCb1XY"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+        "name": "Out Of Silence",
+        "url": "https://open.spotify.com/album/0G37K8IC27QEk9lNPjHjJz"
       },
       "artists": [
         {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
         }
       ],
-      "duration_ms": 347626,
-      "name": "The Fifth Wave - Water Lullaby",
-      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
+      "duration_ms": 227040,
+      "name": "The Mermaid",
+      "url": "https://open.spotify.com/track/121rsnNOWZusu5fTGCb1XY"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -907,22 +907,6 @@
       "duration_ms": 114893,
       "name": "Stained-Glass Morning",
       "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Stepping Stars",
-      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -975,6 +959,22 @@
       "duration_ms": 382026,
       "name": "Zen Garden of the Soul Part III - IV",
       "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Stepping Stars",
+      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 332786,
+      "name": "Living Your Ending",
+      "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Ki",
         "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 332786,
-      "name": "Living Your Ending",
-      "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Lydglimt",
         "url": "https://open.spotify.com/album/37ixvLulBM547iKlOYXna0"
       },
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
       },
       "artists": [
         {
-          "name": "Judith Tripp",
-          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
         }
       ],
-      "duration_ms": 399560,
-      "name": "Li Sun",
-      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
+      "duration_ms": 672226,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1183,18 +1183,50 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
       },
       "artists": [
         {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+          "name": "Judith Tripp",
+          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
         }
       ],
-      "duration_ms": 672226,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+      "duration_ms": 399560,
+      "name": "Li Sun",
+      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
+      },
+      "artists": [
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Formentera Sunset Clouds",
+      "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 141613,
+      "name": "Zen Garden of the Soul Part I",
+      "url": "https://open.spotify.com/track/09s4W3bYDmwotLUgozutls"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1215,22 +1247,6 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Inter-Dimensional Music",
-        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
-      },
-      "artists": [
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Formentera Sunset Clouds",
-      "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1263,22 +1279,6 @@
       "duration_ms": 226826,
       "name": "Koto",
       "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 141613,
-      "name": "Zen Garden of the Soul Part I",
-      "url": "https://open.spotify.com/track/09s4W3bYDmwotLUgozutls"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Aum",
-        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Dragon Wings and Wizard Tales",
         "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 249960,
       "name": "Lifeforce Celebration",
       "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
     },
     {
       "added_at": "2023-08-18 14:02:54",

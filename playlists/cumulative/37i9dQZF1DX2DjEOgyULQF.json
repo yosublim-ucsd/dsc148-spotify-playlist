@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 159868,
       "name": "Corales (Forest)",
       "url": "https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 170400,
       "name": "Essence (Soundbath)",
       "url": "https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN"
@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Rumble in Peace",
+        "url": "https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N"
+      },
+      "artists": [
+        {
+          "name": "Lula Dreamer",
+          "url": "https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Rumble in Peace",
+      "url": "https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ"
+    },
+    {
+      "album": {
         "name": "Sacred Reservoir",
         "url": "https://open.spotify.com/album/6OxqSw1esboGXc8wl5etdy"
       },
@@ -3084,7 +3102,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 169482,
       "name": "Soothing Ripples",
       "url": "https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D?si=XYhP8FW8QkustwMYzqaYyQ\">Blue Pappi</a> ",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=xE4hEq1yThGBlaOtdzfpGQ\">Cassper Nyovest</a> ",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -8744,6 +8744,24 @@
       "duration_ms": 232440,
       "name": "Kuse Khaya",
       "url": "https://open.spotify.com/track/7FcVPnVNnBWpYaVnvl8nuO"
+    },
+    {
+      "album": {
+        "name": "Kusho Bani",
+        "url": "https://open.spotify.com/album/4b3dDfp7hzYtLkjlYKM2xy"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224508,
+      "name": "Kusho Bani",
+      "url": "https://open.spotify.com/track/6OY9Y4MJKoj1COWKiUyZCN"
     },
     {
       "album": {

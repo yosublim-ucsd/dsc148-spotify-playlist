@@ -2881,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Bekleyenim",
+        "url": "https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161186,
+      "name": "Bekleyenim",
+      "url": "https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR"
+    },
+    {
+      "album": {
         "name": "Bela",
         "url": "https://open.spotify.com/album/6BOm2PuwEBpXsYBB8CVT7A"
       },
@@ -11552,7 +11570,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 167523,
       "name": "Kader Sa\u011f Olsun",
       "url": "https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc"
@@ -12620,7 +12638,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 210840,
       "name": "Kumral\u0131m",
       "url": "https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx"
@@ -16534,7 +16552,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 120072,
       "name": "PRENSES",
       "url": "https://open.spotify.com/track/5V2ShCiyZiveUfhfpAs620"

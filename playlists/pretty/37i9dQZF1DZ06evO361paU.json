@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 278471,
+  "num_followers": 278513,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAAA2YZThMrB6qmYQXt1CfqOB",
+  "snapshot_id": "Z6KqAAAAAAC9iQ5614IGMXlHunusPFJG",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 384133,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 384133,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "5 More Days 'Til Summer",
+      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 255573,
       "name": "Lady",
       "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ride (Edit)",
-        "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Ride (Edit)",
-      "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+        "name": "Ride (Edit)",
+        "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 242440,
-      "name": "5 More Days 'Til Summer",
-      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
+      "duration_ms": 220310,
+      "name": "Ride (Edit)",
+      "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 290826,
-      "name": "Black Velveteen",
-      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
+      "duration_ms": 282400,
+      "name": "Here to Love",
+      "url": "https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

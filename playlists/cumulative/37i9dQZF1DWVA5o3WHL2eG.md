@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: Thala
 
-1,861 songs - 3 day 22 hr 48 min
+1,862 songs - 3 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1768,6 +1768,7 @@
 | [what if we?](https://open.spotify.com/track/3bLunJFm0B341fJ2TDQdLE) | [Faye Montana](https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b) | [what if we?](https://open.spotify.com/album/45mEiWk5PgdeQqabD0fQw3) | 2:53 | 2022-10-04 | 2022-11-08 |
 | [What's Good](https://open.spotify.com/track/655afr1nexUYljRZzlB64D) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [What's Good](https://open.spotify.com/album/3YLIB4TbUC73jhq8fhNmfU) | 2:43 | 2024-07-02 | 2024-08-07 |
 | [What's On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 | 2025-02-04 |  |
+| [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 | 2025-02-04 |  |
 | [when all is still the same](https://open.spotify.com/track/3j6FAiwDRMJsnS0r8Pi20A) | [Karo Lynn](https://open.spotify.com/artist/6kTgqFXtx6GogRc1rp81W7) | [when all is still the same](https://open.spotify.com/album/2AXUDxMSQiKMmdAWLZtLAB) | 3:34 | 2022-09-06 | 2022-10-05 |
 | [When The Kingdoms Collide](https://open.spotify.com/track/3hbO0gNFOlWOLDVU4q9het) | [Junipa Gold](https://open.spotify.com/artist/112WyAg9F5Xt0fst3k2nCL) | [When The Kingdoms Collide](https://open.spotify.com/album/3YnuKdRanL7btvGjGKzPTW) | 3:45 | 2022-03-07 | 2022-04-06 |
 | [Whenever You Want](https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Whenever You Want](https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25) | 3:59 | 2023-04-04 | 2023-05-03 |

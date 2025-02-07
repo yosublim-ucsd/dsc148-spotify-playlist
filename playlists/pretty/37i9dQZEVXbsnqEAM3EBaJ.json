@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADc15Umj1zcs+AAG24VzmAL",
+  "snapshot_id": "AAAAAAAAAACLebjkLhcuaaM95Wdz41UZ",
   "tracks": [
     {
       "added_at": "2025-01-31 03:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Don't Fear The Reaper",
-        "url": "https://open.spotify.com/album/2pRjZDIwQ3B4BkAz4fq5Ki"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Stone",
-          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
-        }
-      ],
-      "duration_ms": 220967,
-      "name": "Don't Fear The Reaper",
-      "url": "https://open.spotify.com/track/17rPVtzZsD4qnEbZ51ZyaD"
     },
     {
       "added_at": "2025-01-31 03:00:00",
@@ -375,22 +359,6 @@
     {
       "added_at": "2025-01-31 03:00:00",
       "album": {
-        "name": "Blackhole",
-        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
         "name": "To Live Deliciously",
         "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
       },
@@ -523,42 +491,6 @@
       "duration_ms": 212239,
       "name": "Even If It Kills Me",
       "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Buscando la luz",
-        "url": "https://open.spotify.com/album/1SrQXc2DsCEnqNfWfx2q6r"
-      },
-      "artists": [
-        {
-          "name": "Como Asesinar a Felipes",
-          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
-        },
-        {
-          "name": "Billy Gould",
-          "url": "https://open.spotify.com/artist/00Y4ac2cCep3TD42DBjSjs"
-        }
-      ],
-      "duration_ms": 201151,
-      "name": "Buscando la luz",
-      "url": "https://open.spotify.com/track/5Kc1j7KZ3dJj9CxUD71Lya"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Land of Immortals (Thundercross)",
-        "url": "https://open.spotify.com/album/3l7ZENnn1yM46Soc9b4GFF"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody",
-          "url": "https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY"
-        }
-      ],
-      "duration_ms": 341820,
-      "name": "Land of Immortals",
-      "url": "https://open.spotify.com/track/5AyZZniQgwuQlhpNFQjziv"
     },
     {
       "added_at": "2025-01-31 03:00:00",
@@ -883,38 +815,6 @@
       "duration_ms": 199734,
       "name": "Never Alone (from \"Brave The Dark\")",
       "url": "https://open.spotify.com/track/5e6VWJbQQ9vf3eLy2Z2lVF"
-    },
-    {
-      "added_at": "2025-01-31 03:00:00",
-      "album": {
-        "name": "Croneoss",
-        "url": "https://open.spotify.com/album/4qyA1XwqPh2GXJucuBTX9K"
-      },
-      "artists": [
-        {
-          "name": "El Oss",
-          "url": "https://open.spotify.com/artist/1ErwZDB2os60WjaLNx1rRj"
-        },
-        {
-          "name": "Cronelnegro",
-          "url": "https://open.spotify.com/artist/6RqcOLLylHAl4wjiZ9Vx9f"
-        },
-        {
-          "name": "Angelo Soliloquio",
-          "url": "https://open.spotify.com/artist/2U8i0Mn3vPa9No2BTvgdZ7"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        },
-        {
-          "name": "Macrodee",
-          "url": "https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM"
-        }
-      ],
-      "duration_ms": 188839,
-      "name": "D\u00eda Tres",
-      "url": "https://open.spotify.com/track/4DUwZUxMZaD9S0sz4RHjI1"
     },
     {
       "added_at": "2025-01-31 03:00:00",

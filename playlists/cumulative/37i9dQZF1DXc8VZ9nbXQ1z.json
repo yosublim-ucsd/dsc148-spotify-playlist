@@ -671,6 +671,28 @@
     },
     {
       "album": {
+        "name": "AmaGroovist",
+        "url": "https://open.spotify.com/album/1ta75fj12mmjEokJhCPtAY"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Cuebur",
+          "url": "https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384613,
+      "name": "AmaGroovist",
+      "url": "https://open.spotify.com/track/5ZEQi72QOBquJLPCyvybxH"
+    },
+    {
+      "album": {
         "name": "Amana",
         "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
       },

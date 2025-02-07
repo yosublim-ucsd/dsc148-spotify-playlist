@@ -2,9 +2,9 @@
 
 ### [Café Africa](https://open.spotify.com/playlist/37i9dQZF1DX4ioFWie6Zm8)
 
-> A pastoral, uplifting pan\-African café sound
+> A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
 
-229 songs - 16 hr 57 min
+230 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Sutu Kun](https://open.spotify.com/track/2apsDSuPwQ4OklRmplb6gV) | [Vieux Diop](https://open.spotify.com/artist/4eb4nhTKc0HeQmbtM7rIUo) | [Vieux Diop \(Via Jo\)](https://open.spotify.com/album/1GZJUcQ1L3KXGhquWVilzP) | 6:21 | 2022-08-05 | 2023-11-24 |
 | [Tanya](https://open.spotify.com/track/3a8TSMd9ZVUyltsnS1Ahi1) | [Kasumai](https://open.spotify.com/artist/1iSZ7PhPo0z6a8ufDAzopv) | [Senegal Urban Rhythms](https://open.spotify.com/album/7mRh3KBsnccgY39OLezlVs) | 2:25 | 2022-08-05 | 2023-03-15 |
 | [Tara](https://open.spotify.com/track/3BjfQ2umqNOTCtjv8d4JQU) | [Sourakata Koité](https://open.spotify.com/artist/1aEXvBo9XF1pXQJwKbg0aX) | [Kora](https://open.spotify.com/album/2lKpNUGOdijNQMmLxR64MN) | 3:57 | 2022-08-05 | 2024-05-08 |
+| [Tassi](https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Tassi](https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS) | 4:43 | 2025-02-06 |  |
 | [Tche Belew](https://open.spotify.com/track/2BxCRD3CZ65suyXj6KeGuU) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [The Walias](https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2) | [Tche Belew](https://open.spotify.com/album/67ZrxrYM4ZErIrGYpA13Q0) | 5:00 | 2024-05-07 |  |
 | [Tchero adari negn](https://open.spotify.com/track/3TTeWmFOLXRrJQmyHYtwkx) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ethiopiques, Vol\. 8: Swinging Addis 1969\-1974](https://open.spotify.com/album/5tNmMZUAqk6YI6z84PXWAr) | 4:28 | 2024-05-07 |  |
 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 | 2024-05-07 |  |

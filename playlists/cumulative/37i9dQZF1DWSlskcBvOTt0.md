@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-846 songs - 3 day 2 hr 5 min
+847 songs - 3 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Brisa](https://open.spotify.com/track/1LvG5zrLHfYziFPjaNGpyw) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Brisa](https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q) | 5:33 | 2023-11-17 | 2024-10-26 |
 | [BroCode](https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [BroCode](https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B) | 4:59 | 2024-01-12 | 2024-04-19 |
-| [Báilame](https://open.spotify.com/track/1PuSX4DWNVeND5BqOYehrI) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Báilame](https://open.spotify.com/album/3IVUOxF3fzVUdkeAIyo0a0) | 5:43 | 2024-12-20 |  |
+| [Báilame](https://open.spotify.com/track/1PuSX4DWNVeND5BqOYehrI) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Báilame](https://open.spotify.com/album/3IVUOxF3fzVUdkeAIyo0a0) | 5:43 | 2024-12-20 | 2025-02-07 |
 | [Bécane \- Kimotion x Quentro & Tuna Remix](https://open.spotify.com/track/2u5u9JBOCUf8jE3pUwMbhb) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Quentro](https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi), [Tuna](https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup) | [Bécane \(Kimotion x Quentro & Tuna Remix\)](https://open.spotify.com/album/2qU1STlRzIGGZ1f4oEGPiO) | 3:33 | 2024-07-05 | 2024-09-07 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
 | [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-10-27 | 2024-07-15 |
@@ -185,6 +185,7 @@
 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-07 | 2024-08-10 |
 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 | 2023-06-22 |
 | [Darling \(with Aloe Blacc\)](https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Darling \(with Aloe Blacc\)](https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg) | 4:32 | 2024-03-01 |  |
+| [Day Dreams of Beaches](https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five EP](https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA) | 7:49 | 2025-01-31 |  |
 | [Day Off](https://open.spotify.com/track/6MdctygMY16ASVbS6aEkEu) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Day Off](https://open.spotify.com/album/7qnjYeLG053eq1Dr1oqyMW) | 6:34 | 2023-11-24 | 2024-04-28 |
 | [Days Like This](https://open.spotify.com/track/51l7PA4wcyQMEJeuanHrbf) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Days Like This](https://open.spotify.com/album/0wO5kcElEfWFL0FMlehALZ) | 5:20 | 2021-04-21 | 2022-07-29 |
 | [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-09-09 | 2022-10-26 |

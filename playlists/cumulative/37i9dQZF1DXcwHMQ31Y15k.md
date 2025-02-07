@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Esa Risty
 
-444 songs - 1 day 13 hr 6 min
+447 songs - 1 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Abadi \- Dangdut Version](https://open.spotify.com/track/1D2YEPKpqCvmQOOi2xHsxX) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Abadi \(Dangdut Version\)](https://open.spotify.com/album/38wpQZfT0GMrRaw9MaAkTo) | 5:30 | 2023-09-28 | 2024-05-03 |
 | [Abadi \- Dangdut Version](https://open.spotify.com/track/3BDmcNJKjZtwaYUEo0FE96) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Abadi \(Dangdut Version\)](https://open.spotify.com/album/0k9lghtcfPTZukrevsgb9f) | 5:30 | 2023-12-08 | 2024-04-19 |
 | [Aduh Biyung \- From "Cidro Asmoro"](https://open.spotify.com/track/3cXIS43BQZtXN9CBe7s2di) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Aduh Biyung \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3OOjxTTOLXt4OodeL9jJ9A) | 4:15 | 2022-05-26 | 2023-07-14 |
+| [AJKS \- Remastered 2025](https://open.spotify.com/track/4KEwu9qvVd97MuEa8DAfPf) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [AJKS \(Remastered 2025\)](https://open.spotify.com/album/1XZxycYCdRzZOyUTRkbVen) | 4:32 | 2025-02-07 |  |
 | [Akhire Bali](https://open.spotify.com/track/1npk1egEshawzhe82opVMf) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Akhire Bali](https://open.spotify.com/album/4V61bFywMcCXHqy31ljAzr) | 4:49 | 2024-05-16 | 2024-12-13 |
 | [Akhire Lungo](https://open.spotify.com/track/2LbtLp004yRHORSdL1uTwF) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Akhire Lungo](https://open.spotify.com/album/7wMhXRZvERrbp1MBpzcjK4) | 5:13 | 2022-05-26 | 2023-08-11 |
 | [Aku Bukan Jodohnya](https://open.spotify.com/track/6rKydpFW3QTBu172RRFkKS) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Bukan Jodohnya](https://open.spotify.com/album/0Qsx7ZYhN4O64h8rSO1H94) | 5:38 | 2022-05-26 | 2023-08-11 |
@@ -132,6 +133,7 @@
 | [Kalah](https://open.spotify.com/track/0kzmveXWWN9DaMTZr3NkgT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Munif Kurnia](https://open.spotify.com/artist/5SgP9nLQpFsx6yT4TiYznC) | [Kalah](https://open.spotify.com/album/7hJjL5PmkhPZoMZxoVa0pp) | 6:46 | 2024-04-18 | 2024-07-27 |
 | [Kalah 2](https://open.spotify.com/track/1CHQEzT8SY3pPoBz9FuSgb) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Kalah 2](https://open.spotify.com/album/2XDM13lSNzlB3eIz1wJGoO) | 5:10 | 2024-02-29 |  |
 | [Kalah 2](https://open.spotify.com/track/31YjCe7pqLWsPtBXXQqVQZ) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Kalah 2](https://open.spotify.com/album/6ThWUlgnl9fn22uOB4Wo1X) | 6:39 | 2024-10-24 |  |
+| [Kalah Weton](https://open.spotify.com/track/2p1RYtG0zY8DkV2NZByNQA) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kalah Weton](https://open.spotify.com/album/1b1kyBLoIMkLqrNqg9k8aI) | 5:24 | 2025-02-07 |  |
 | [Kalih Welasku](https://open.spotify.com/track/1Ku6hA1iYecBzIW1JoIffi) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kalih Welasku](https://open.spotify.com/album/5JOZgGxjTBpBlCvcz1W0ie) | 5:04 | 2023-12-08 | 2024-04-19 |
 | [Kalih Welasku](https://open.spotify.com/track/4JRp8Wma0HjHvkHx2Ctl2d) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kalih Welasku](https://open.spotify.com/album/7ft4oHOQSoZz805ZV4bRSX) | 5:04 | 2023-03-09 |  |
 | [KALIH WELASKU](https://open.spotify.com/track/7AtjD8ykb3pROEkYwrbJ1z) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [KALIH WELASKU](https://open.spotify.com/album/6g6l8WDLfmkUnHyQKxMBXo) | 5:28 | 2023-03-15 | 2023-10-13 |
@@ -286,6 +288,7 @@
 | [Opo Anane](https://open.spotify.com/track/5q7aPA3OMkMh7pvfGsvFrg) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Opo Anane](https://open.spotify.com/album/3Ue7O6TXQ3wXoUIDFXdCUr) | 3:51 | 2022-05-26 | 2023-01-06 |
 | [Ora Iso Lali](https://open.spotify.com/track/6BE4XlljzVfCeWO5s3Vflv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Ora Iso Lali](https://open.spotify.com/album/7yoSfvIXdHpz6K20rqgXrL) | 5:45 | 2022-05-26 | 2022-09-16 |
 | [Ora Ngemis Bali](https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Ora Ngemis Bali](https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5) | 5:32 | 2024-12-19 |  |
+| [Ora Ngemis Bali](https://open.spotify.com/track/36foDN2kcoxBVPqW0NrKl2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [fafa vadesta](https://open.spotify.com/artist/0jLIu4WG4Vw5eUTnTE716F) | [Ora Ngemis Bali](https://open.spotify.com/album/2QZRcFHFmmZW0CZDdezMCB) | 5:51 | 2025-02-07 |  |
 | [Ora Ono Gunane](https://open.spotify.com/track/2wgTxy8GGMR7LNU0UMCYFx) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Ora Ono Gunane](https://open.spotify.com/album/5fiHvBaElHxwGxGUfMSpGy) | 3:50 | 2023-09-15 | 2023-11-11 |
 | [OTW \(Omong Taek We\)](https://open.spotify.com/track/3jebXtdikTKuG7m6YtEhbU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [OTW \(Omong Taek We\)](https://open.spotify.com/album/12FLfnCnXLLvqdR75ilOYW) | 4:52 | 2022-05-26 | 2023-07-29 |
 | [Padahal Aku Tulus](https://open.spotify.com/track/19BTVbtFnDAzb9BqDlQdJA) | [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Padahal Aku Tulus](https://open.spotify.com/album/6jfhow4LcnaJBttaPRgJRm) | 4:45 | 2025-01-30 |  |

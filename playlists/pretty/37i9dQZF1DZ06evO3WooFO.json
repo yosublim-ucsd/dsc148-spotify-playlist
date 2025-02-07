@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 597634,
+  "num_followers": 597690,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAADhHYue9wyNYCXjTc2XbEoA",
+  "snapshot_id": "Z6KqAAAAAACEao9U8Iva2+zc8RZ7xBgu",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 30213,
-      "name": "Brohemian Rhapsody",
-      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dude Ranch",
         "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
       },
@@ -699,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Dogs Eating Dogs",
-      "url": "https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neighborhoods (Deluxe Explicit Version)",
         "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
       },
@@ -731,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Dogs Eating Dogs",
+      "url": "https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "California (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Home Is Such a Lonely Place",
-      "url": "https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg"
+      "duration_ms": 30213,
+      "name": "Brohemian Rhapsody",
+      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
     },
     {
       "added_at": null,
@@ -763,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Another Girl Another Planet",
-      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neighborhoods (Deluxe Explicit Version)",
         "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
       },
@@ -795,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Another Girl Another Planet",
+      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "California (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 115520,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd"
+      "duration_ms": 201480,
+      "name": "Home Is Such a Lonely Place",
+      "url": "https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neighborhoods (Deluxe)",
+        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Ghost On The Dance Floor",
+      "url": "https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC"
     }
   ],
   "unique_name": "This Is blink-182",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sound from Asia. Cover: Balming Tiger (South Korea)",
+  "description": "Hottest indie sound from Asia. Cover: Ichiko Aoba (Japan)",
   "name": ".ORG",
   "tracks": [
     {
@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 225542,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 239978,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I"
@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 204466,
       "name": "Blondie",
       "url": "https://open.spotify.com/track/6LAxNhtgLMtn22KdC2d9QY"
@@ -4134,7 +4134,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 265920,
       "name": "B\u00e9ntang Sagara",
       "url": "https://open.spotify.com/track/0DUycchEJkz4qXG9KgR3Mp"
@@ -4412,7 +4412,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
@@ -7445,6 +7445,32 @@
     },
     {
       "album": {
+        "name": "dream. (\uc88b\uc740 \ubd84\uc704\uae30)",
+        "url": "https://open.spotify.com/album/0LAesrqOEXIjs2285IXVis"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        },
+        {
+          "name": "YENTED",
+          "url": "https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX"
+        },
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186807,
+      "name": "dream. (\uc88b\uc740 \ubd84\uc704\uae30)",
+      "url": "https://open.spotify.com/track/5WmamrCOl3XGANufD9WmOe"
+    },
+    {
+      "album": {
         "name": "Dreams (feat. Mandark)",
         "url": "https://open.spotify.com/album/2aMVUEYp4SKsWiVlUaOWUJ"
       },
@@ -7554,7 +7580,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 221375,
       "name": "Dumb Ass Pop Song",
       "url": "https://open.spotify.com/track/1XbUhcGNTIYGUgMKxoCZWx"
@@ -7868,7 +7894,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 263664,
       "name": "Esc",
       "url": "https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh"
@@ -8150,7 +8176,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 218993,
       "name": "Evil Gemini",
       "url": "https://open.spotify.com/track/3GUU2gxicdZ0oztGyyXYJB"
@@ -8610,7 +8636,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 175600,
       "name": "feelin'",
       "url": "https://open.spotify.com/track/4C0BzFXSBi1G9GdDzYYnnj"
@@ -10068,6 +10094,24 @@
       "duration_ms": 204240,
       "name": "GO!!!",
       "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
+    },
+    {
+      "album": {
+        "name": "God of Mud",
+        "url": "https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7"
+      },
+      "artists": [
+        {
+          "name": "LEENALCHI",
+          "url": "https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243842,
+      "name": "God of Mud",
+      "url": "https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD"
     },
     {
       "album": {
@@ -11635,6 +11679,24 @@
     },
     {
       "album": {
+        "name": "Howl's",
+        "url": "https://open.spotify.com/album/5Ceqr1e2gw83C2lxzow6uH"
+      },
+      "artists": [
+        {
+          "name": "ChuChlo\u00eb",
+          "url": "https://open.spotify.com/artist/6Asek6SyFmeSpRD0vsQYfY"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190460,
+      "name": "Howl's",
+      "url": "https://open.spotify.com/track/0afhm0LseruwDcTTFp2Y6T"
+    },
+    {
+      "album": {
         "name": "hua (0) / hua (\u221e)",
         "url": "https://open.spotify.com/album/6IQv15zGKIZ70mI9vRLv2p"
       },
@@ -11780,6 +11842,24 @@
       "duration_ms": 169800,
       "name": "I Can't Deny",
       "url": "https://open.spotify.com/track/1fp3QF4UieOKUMQFToXG7e"
+    },
+    {
+      "album": {
+        "name": "I Can't Find My Head",
+        "url": "https://open.spotify.com/album/5cn0YacIW5OyjBR6QF803J"
+      },
+      "artists": [
+        {
+          "name": "elo elo",
+          "url": "https://open.spotify.com/artist/2TJIEpDN0TLfKAcpB9yknV"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175565,
+      "name": "I Can't Find My Head",
+      "url": "https://open.spotify.com/track/7lnlHhC4VlnHcBVnHESj4t"
     },
     {
       "album": {
@@ -16219,6 +16299,24 @@
     },
     {
       "album": {
+        "name": "meaning",
+        "url": "https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224306,
+      "name": "meaning",
+      "url": "https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL"
+    },
+    {
+      "album": {
         "name": "Mejikuhibiniu",
         "url": "https://open.spotify.com/album/5ErP3mluV25TH2ncKKcWM4"
       },
@@ -16893,6 +16991,24 @@
     },
     {
       "album": {
+        "name": "Saya",
+        "url": "https://open.spotify.com/album/7MRJH6oHeOvJqEH4WKWDkU"
+      },
+      "artists": [
+        {
+          "name": "CHANMIN",
+          "url": "https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Monoamory",
+      "url": "https://open.spotify.com/track/43DcjLAWHodB5pyzfJfEAA"
+    },
+    {
+      "album": {
         "name": "Monologue",
         "url": "https://open.spotify.com/album/2vsL4FM4Qk1KbnlBt39bRn"
       },
@@ -17064,6 +17180,24 @@
       "duration_ms": 286500,
       "name": "MOSHIMO",
       "url": "https://open.spotify.com/track/6h8f6bUxH2RaxuUElQ0164"
+    },
+    {
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/5svETC0BXMrTyzJ3D53m8I"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190592,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL"
     },
     {
       "album": {
@@ -18066,7 +18200,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 269516,
       "name": "Nightglow Dreamer",
       "url": "https://open.spotify.com/track/5sLetGDxict7HFmvZDJWQr"
@@ -18630,7 +18764,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 170578,
       "name": "Oh My God!",
       "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
@@ -23085,6 +23219,24 @@
     },
     {
       "album": {
+        "name": "SONAR",
+        "url": "https://open.spotify.com/album/1hayEn7szkucmcDnSi1Ka1"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197172,
+      "name": "SONAR",
+      "url": "https://open.spotify.com/track/4Pi8sTgUqsF6axhBVcHKwV"
+    },
+    {
+      "album": {
         "name": "Lands Between",
         "url": "https://open.spotify.com/album/4h4mbD2ydvIy8wRq3J1X0k"
       },
@@ -23640,6 +23792,24 @@
       "duration_ms": 179368,
       "name": "Still TV",
       "url": "https://open.spotify.com/track/06Kowi9KHQG0Tr6xTrR9L6"
+    },
+    {
+      "album": {
+        "name": "Stoked & Stoned",
+        "url": "https://open.spotify.com/album/1425Y38SwO1e0SJ0nnDFQz"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249782,
+      "name": "Stoked & Stoned",
+      "url": "https://open.spotify.com/track/3wx419nAqLl2zB2rn1IDqg"
     },
     {
       "album": {
@@ -24910,6 +25080,28 @@
       "duration_ms": 241582,
       "name": "Take My Hug",
       "url": "https://open.spotify.com/track/4Fml95IHlQ9QE976vkyvZk"
+    },
+    {
+      "album": {
+        "name": "Take you to the moon",
+        "url": "https://open.spotify.com/album/57HpGI0su9ICrlB9KPqPFC"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Take you to the moon",
+      "url": "https://open.spotify.com/track/6pWYgWtWceKZHwxPIaP5Jg"
     },
     {
       "album": {

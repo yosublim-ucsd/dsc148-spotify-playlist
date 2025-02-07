@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gazzelle in cover della playlist con il meglio dell\u2019indie italiano \ud83d\udc1c",
+  "description": "Emma Nolde in cover della playlist con il meglio dell\u2019indie italiano \u231b",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Parole piccole",
+        "url": "https://open.spotify.com/album/7flbF51b2TJ6YfD0A3rt5n"
+      },
+      "artists": [
+        {
+          "name": "Bais",
+          "url": "https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209169,
+      "name": "Parole piccole",
+      "url": "https://open.spotify.com/track/2c5qBiURh3mowQCXKW5lCG"
+    },
+    {
+      "album": {
         "name": "passanti",
         "url": "https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU"
       },
@@ -3296,7 +3314,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 159137,
       "name": "TO / GA",
       "url": "https://open.spotify.com/track/2GHtpNPcXKSM0DOzuG2w6X"

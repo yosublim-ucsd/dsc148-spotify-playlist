@@ -1,6 +1,6 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 130129,
+  "num_followers": 130167,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
         "name": "Underneath The Pine",
         "url": "https://open.spotify.com/album/00wmVs9BwWaSjLXBAzwUPq"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 244546,
       "name": "New Beat",
       "url": "https://open.spotify.com/track/7jWIolCo1nHYaAmOvFH0Lo"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
     },
     {
       "added_at": "2024-03-18 13:18:53",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
+        "name": "Zonoscope",
+        "url": "https://open.spotify.com/album/4JTBXeHQ3n6koQtMxnWLJu"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "duration_ms": 369386,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/3TjGopIWapEoeWfRsHFRjs"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
       },
@@ -1587,6 +1603,22 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
         "name": "How Deep Is Your Love?",
         "url": "https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf"
       },
@@ -1599,38 +1631,6 @@
       "duration_ms": 387640,
       "name": "How Deep Is Your Love?",
       "url": "https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
-        "name": "Kaputt",
-        "url": "https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND"
-      },
-      "artists": [
-        {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
-        }
-      ],
-      "duration_ms": 377973,
-      "name": "Kaputt",
-      "url": "https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
     }
   ],
   "unique_name": "Best of Indie 2011",

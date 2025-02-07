@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=f0_bnzClQTq5mjpfCku6_w>Neon Adejo</a>",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q?si=3PCWTJPDT9CDxWRbH5JuRg>Yadah</a>",
   "name": "Testify",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 198687,
       "name": "AGAIN",
       "url": "https://open.spotify.com/track/6bVjIiz5rcNW4RC3JHu4cy"
@@ -1794,10 +1794,32 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 296472,
       "name": "Ese Gan Ni",
       "url": "https://open.spotify.com/track/1OpsavrgdYBlLvqtYOyx2f"
+    },
+    {
+      "album": {
+        "name": "Ever Present Help",
+        "url": "https://open.spotify.com/album/2QBRXDYPqNvpKnWm2DBh7u"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        },
+        {
+          "name": "Archbishop Benson Idahosa",
+          "url": "https://open.spotify.com/artist/5KnKKG1eEW3o6Hf159ZZh9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329038,
+      "name": "Ever Present Help",
+      "url": "https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa"
     },
     {
       "album": {
@@ -2388,6 +2410,24 @@
       "duration_ms": 189714,
       "name": "GOOD GOOD GOD",
       "url": "https://open.spotify.com/track/3tMVmejZwzphx1kjnWqYLw"
+    },
+    {
+      "album": {
+        "name": "GOOD TO ME",
+        "url": "https://open.spotify.com/album/60D5KfAsnacCxd6iDcjzia"
+      },
+      "artists": [
+        {
+          "name": "MUNGU FENI",
+          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163761,
+      "name": "GOOD TO ME",
+      "url": "https://open.spotify.com/track/5RCZQWLzAK4hGwtFEZJ5aG"
     },
     {
       "album": {
@@ -3128,7 +3168,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 354572,
       "name": "Imela (feat. Enitan Adaba)",
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
@@ -4276,7 +4316,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 162455,
       "name": "Never Fail",
       "url": "https://open.spotify.com/track/2R8U68o5C78oyhbaLNkHaZ"
@@ -5920,7 +5960,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 230505,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
@@ -6574,7 +6614,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 227169,
       "name": "You Do This One",
       "url": "https://open.spotify.com/track/5EHqWoa0odvdlXOGIvyAUS"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Tyne-James-Organ",
+  "description": "New and local indie noise. Cover: Ball Park Music",
   "name": "Local Noise",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 163800,
       "name": "a hypothetical exit",
       "url": "https://open.spotify.com/track/1CFqQAUqfI7opxQOYeY3RU"
+    },
+    {
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/50zSJov9xadQKwzew6Oyn9"
+      },
+      "artists": [
+        {
+          "name": "Gully Days",
+          "url": "https://open.spotify.com/artist/4ckltLYXntry5rsN0zavH7"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/102ije0G4zfAUBsLV5wVkW"
     },
     {
       "album": {
@@ -416,7 +434,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 148000,
       "name": "Another Reincarnation",
       "url": "https://open.spotify.com/track/7feuhV5wuR0h1lSUUFxPHL"
@@ -946,7 +964,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195120,
       "name": "can't blame yr dad",
       "url": "https://open.spotify.com/track/6ciqwVllqiTPD09Dga6NIX"
@@ -1955,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Everyone Will See It",
+        "url": "https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204620,
+      "name": "Everyone Will See It",
+      "url": "https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/6AnsD2Isj0vX1n01gaYH67"
       },
@@ -2261,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/5WVNcSNzQx8tgKxgdwZjaP"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181470,
+      "name": "Flavour",
+      "url": "https://open.spotify.com/track/2GQPWAPzRQjxqJTjAT2IA4"
+    },
+    {
+      "album": {
         "name": "flood",
         "url": "https://open.spotify.com/album/6zQ6z0C1ACh57yfZZ9rgSG"
       },
@@ -2366,6 +2420,24 @@
       "duration_ms": 195290,
       "name": "Fuck All",
       "url": "https://open.spotify.com/track/2np5tX6IeIKkUPqS8mmJiT"
+    },
+    {
+      "album": {
+        "name": "FUGH SHI.",
+        "url": "https://open.spotify.com/album/40q90FM2HDppMNorjsSVVO"
+      },
+      "artists": [
+        {
+          "name": "REDD.",
+          "url": "https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136672,
+      "name": "FUGH SHI.",
+      "url": "https://open.spotify.com/track/0cVqzNSriax6zcNW5HE9aH"
     },
     {
       "album": {
@@ -3281,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "In My Heart",
+        "url": "https://open.spotify.com/album/4L9x5lgUhZJWgRrqlCHlN3"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230975,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo"
+    },
+    {
+      "album": {
         "name": "Josh to Earth",
         "url": "https://open.spotify.com/album/1BjHQuYPd2o3FlNBvrYSNb"
       },
@@ -3364,7 +3454,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
@@ -3866,6 +3956,24 @@
       "duration_ms": 207189,
       "name": "Manila",
       "url": "https://open.spotify.com/track/2OtUyvATrWPXSVxwMNMfqX"
+    },
+    {
+      "album": {
+        "name": "Manners Street",
+        "url": "https://open.spotify.com/album/6xWTPIBqNOJ5O89J0pjAw3"
+      },
+      "artists": [
+        {
+          "name": "Bakers Eddy",
+          "url": "https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180293,
+      "name": "Manners Street",
+      "url": "https://open.spotify.com/track/1G2ilzjZWC8NHlN7B7zeL2"
     },
     {
       "album": {
@@ -4831,6 +4939,24 @@
     },
     {
       "album": {
+        "name": "Pay to Play",
+        "url": "https://open.spotify.com/album/4PQO8LT23OsfDTfcFB6Dhf"
+      },
+      "artists": [
+        {
+          "name": "Pretty Uglys",
+          "url": "https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173556,
+      "name": "Pay to Play",
+      "url": "https://open.spotify.com/track/26Os2peVmd4Q9KYmMLm8JW"
+    },
+    {
+      "album": {
         "name": "Surface World",
         "url": "https://open.spotify.com/album/5Fnd3Md7flbsdcJb2ejnsR"
       },
@@ -4860,7 +4986,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195375,
       "name": "Pessimist",
       "url": "https://open.spotify.com/track/0bJiQxzaeLKCJLLvGiHtgx"
@@ -4932,7 +5058,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197499,
       "name": "Pinkies",
       "url": "https://open.spotify.com/track/0jQNOTN94rrP2FJm5Q6mo7"
@@ -4954,6 +5080,24 @@
       "duration_ms": 285153,
       "name": "pinky boy",
       "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
+    },
+    {
+      "album": {
+        "name": "Please Don't Move To Melbourne",
+        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291153,
+      "name": "Please Don't Move To Melbourne",
+      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
     },
     {
       "album": {
@@ -5228,7 +5372,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 116760,
       "name": "Rental Girlfriend",
       "url": "https://open.spotify.com/track/6SDT43k16uUxMUqvug3zeY"
@@ -6874,7 +7018,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 213130,
       "name": "Try",
       "url": "https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN"
@@ -7324,7 +7468,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 119615,
       "name": "Young Men",
       "url": "https://open.spotify.com/track/5XlRbUkXfhTDJ4RW7WFENU"

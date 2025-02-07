@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: 4EVE
 
-2,265 songs - 5 day 5 hr 22 min
+2,266 songs - 5 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1060,6 +1060,7 @@
 | [Lesbisch](https://open.spotify.com/track/15PJXv3g9r3Q6RLkotwpWf) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lesbisch](https://open.spotify.com/album/1pbnCXnVelZ9NF1G6nJVNI) | 3:23 | 2024-06-05 | 2024-07-04 |
 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 | 2025-01-22 |  |
 | [Let It Snow](https://open.spotify.com/track/2bHGEJ7DiKvSr6iVg0d3lj) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:22 | 2024-01-10 | 2024-02-08 |
+| [Let Me Down Easy](https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Plain Girl](https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP) | 3:04 | 2025-02-05 |  |
 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 | 2024-02-07 | 2024-03-07 |
 | [Let Me In](https://open.spotify.com/track/0zVDBpbaqYg7lmBfAdX75p) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Let Me In](https://open.spotify.com/album/1QPXK7Ig0chdgC8wPHmxyI) | 3:36 | 2022-10-04 | 2022-11-03 |
 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 | 2025-02-05 |  |
@@ -2183,7 +2184,7 @@
 | [نظر عيني](https://open.spotify.com/track/1SWoEHNrMXTMVt4xlOxw1P) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [Nazar Aayni](https://open.spotify.com/album/1QwswXYVpJ31bZ4eM4mZm6) | 3:15 | 2023-01-04 | 2023-02-02 |
 | [هذا حالي من بعدك](https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [هذا حالي من بعدك](https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo) | 3:10 | 2023-08-02 | 2023-09-07 |
 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 | 2023-08-02 | 2023-09-07 |
-| [ก็พอ](https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [ก็พอ](https://open.spotify.com/album/7g2qsT0aiBFininXgePcfE) | 3:27 | 2025-01-08 |  |
+| [ก็พอ](https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [ก็พอ](https://open.spotify.com/album/7g2qsT0aiBFininXgePcfE) | 3:27 | 2025-01-08 | 2025-02-07 |
 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2022-06-01 | 2023-01-05 |
 | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \- Melatonin](https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \(Melatonin\)](https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t) | 3:15 | 2024-02-07 | 2024-03-07 |
 | [งอนละ \- Boo](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2023-01-04 | 2023-02-02 |

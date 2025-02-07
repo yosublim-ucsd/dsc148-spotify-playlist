@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Ashira Zamita ",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Anggis Devaki ",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 215738,
       "name": "1 Cinta 2 Dunia - From \"Pacarku Jinny\"",
       "url": "https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg"
@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr"
+      },
+      "artists": [
+        {
+          "name": "Rahma Savitri",
+          "url": "https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz"
+    },
+    {
+      "album": {
         "name": "Alkisah Jiwa",
         "url": "https://open.spotify.com/album/6JdprpL2BeEktoaEq7qyEV"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 235692,
       "name": "Antara Kita",
       "url": "https://open.spotify.com/track/2GU8Xs5cuFuxjvc21MQzij"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 270900,
       "name": "Aubade Untuk Ibu",
       "url": "https://open.spotify.com/track/35LKSCKPmEIWSXzOj0J6BR"
@@ -2496,7 +2514,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 241875,
       "name": "Cerita Rindu",
       "url": "https://open.spotify.com/track/4RHmDOf8MPQWLNOp8PxVjZ"
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 272309,
       "name": "Cintaku Runtuh",
       "url": "https://open.spotify.com/track/09iB7snkdDtnCU8XLsaqpj"
@@ -3816,7 +3834,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 237450,
       "name": "Habis",
       "url": "https://open.spotify.com/track/7tKSapEjEMTPeNbsOgcMY1"
@@ -5132,7 +5150,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 246000,
       "name": "Kamu Dan Aku, Lelah.",
       "url": "https://open.spotify.com/track/4wR4meOiSthcnqOKwjUt1Z"
@@ -5570,7 +5588,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 236360,
       "name": "Kehadiran",
       "url": "https://open.spotify.com/track/6MBugUCVzXWEeZdqvzLnti"
@@ -5984,7 +6002,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 197100,
       "name": "Kita Ke Masa Depan",
       "url": "https://open.spotify.com/track/51ccM90FgfwOjTHX9hjd0x"
@@ -6154,7 +6172,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 242000,
       "name": "Kurnia dan Pesona",
       "url": "https://open.spotify.com/track/2b0q54nbMgJT61fdfLdT9n"
@@ -6212,7 +6230,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 236873,
       "name": "Labuan Hati",
       "url": "https://open.spotify.com/track/0ic1OT8aHvTpDU71X5MXfP"
@@ -6230,7 +6248,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 232219,
       "name": "Lagu Cinta Untuk Mama - Lagu Cinta Untuk Mama Original Soundtrack",
       "url": "https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n"
@@ -6422,7 +6440,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 245778,
       "name": "Lanjutkan Perjuangan Kita!",
       "url": "https://open.spotify.com/track/1t3HDSnYKVW0MDyKcuUFyD"
@@ -6614,6 +6632,24 @@
       "duration_ms": 258000,
       "name": "Lewat Doa",
       "url": "https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9"
+    },
+    {
+      "album": {
+        "name": "Lewat Semesta (OST. TABAYYUN)",
+        "url": "https://open.spotify.com/album/2zGRJnutXLCACHo3LAt5ob"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247734,
+      "name": "Lewat Semesta - OST. TABAYYUN",
+      "url": "https://open.spotify.com/track/4p30SyLpRQVG3NnydGSDnu"
     },
     {
       "album": {
@@ -6918,6 +6954,28 @@
       "duration_ms": 193000,
       "name": "Luka",
       "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/3Zx6ahNR0dHc3mlWuErmky"
+      },
+      "artists": [
+        {
+          "name": "RIMALDI",
+          "url": "https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg"
+        },
+        {
+          "name": "Gloria Jessica",
+          "url": "https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159919,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5KWBdIVtqRTFvGzdUHS1NE"
     },
     {
       "album": {
@@ -7518,7 +7576,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 256107,
       "name": "Menangislah",
       "url": "https://open.spotify.com/track/1nSANw7oLqW1LP9aTQtcbr"
@@ -7728,7 +7786,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 247500,
       "name": "Mengejar Cita",
       "url": "https://open.spotify.com/track/2MEnJLahLc4WLhtc0rlmxo"
@@ -7844,6 +7902,24 @@
       "duration_ms": 394218,
       "name": "Merdeka Melaju Dari A Sampai Z",
       "url": "https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz"
+    },
+    {
+      "album": {
+        "name": "Miliki Aku",
+        "url": "https://open.spotify.com/album/3OFKmugE12oDluNxHELmry"
+      },
+      "artists": [
+        {
+          "name": "Syahravi",
+          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191344,
+      "name": "Miliki Aku",
+      "url": "https://open.spotify.com/track/6oe0zbMjH8rQAbQQUjVZ0u"
     },
     {
       "album": {
@@ -8184,7 +8260,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 196844,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/3IYwakVAhSakQgwaMN6cUK"
@@ -8242,7 +8318,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 164473,
       "name": "Obsesi",
       "url": "https://open.spotify.com/track/5O3mCKnCxlqrb5yDjZigxK"
@@ -8823,6 +8899,24 @@
     },
     {
       "album": {
+        "name": "Persetan",
+        "url": "https://open.spotify.com/album/0vlKNOHSm76vhc9Nlb3LWl"
+      },
+      "artists": [
+        {
+          "name": "Raavfy",
+          "url": "https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259755,
+      "name": "Persetan",
+      "url": "https://open.spotify.com/track/1bezVZOJ0mGm2jCG1baSUk"
+    },
+    {
+      "album": {
         "name": "Pesona",
         "url": "https://open.spotify.com/album/1p91c9Dj2Ub969VBQlIhrK"
       },
@@ -8904,6 +8998,24 @@
       "duration_ms": 301655,
       "name": "Piagam",
       "url": "https://open.spotify.com/track/04YaLZqub3fEuXC2mmiCT4"
+    },
+    {
+      "album": {
+        "name": "PILIHLAH AKU",
+        "url": "https://open.spotify.com/album/27CH3SGHz1EpTIsK8zI29c"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189029,
+      "name": "PILIHLAH AKU",
+      "url": "https://open.spotify.com/track/5WqGqgeknOAmkuucH5ytct"
     },
     {
       "album": {
@@ -9512,7 +9624,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 233544,
       "name": "Ruby Biru",
       "url": "https://open.spotify.com/track/73OEQVN2lPpL3hVoJYDINu"
@@ -9996,7 +10108,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 213059,
       "name": "Sekali Saja",
       "url": "https://open.spotify.com/track/0CR1iQSiyPUjotD7SrWs7H"
@@ -10530,7 +10642,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 277677,
       "name": "Sendiri",
       "url": "https://open.spotify.com/track/07WgdW3oqegtibITmSAPEy"
@@ -11571,6 +11683,24 @@
     },
     {
       "album": {
+        "name": "Tak Berakhir Sama",
+        "url": "https://open.spotify.com/album/40x1sWxBNDkUmvYIFdLsCX"
+      },
+      "artists": [
+        {
+          "name": "Sisca Saras",
+          "url": "https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Tak Berakhir Sama",
+      "url": "https://open.spotify.com/track/5NXaiP4tRDJzHWydzRHwQ3"
+    },
+    {
+      "album": {
         "name": "Tak Berharap Lagi",
         "url": "https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs"
       },
@@ -11939,6 +12069,24 @@
     },
     {
       "album": {
+        "name": "Tanpa Balasmu (\"Tabayyun\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258924,
+      "name": "Tanpa Balasmu (\"Tabayyun\" Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4"
+    },
+    {
+      "album": {
         "name": "Tanpa Bicara",
         "url": "https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4"
       },
@@ -12026,7 +12174,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 241846,
       "name": "Tarik Ulur",
       "url": "https://open.spotify.com/track/4geXWfWtm5WCaiXeIP28oT"
@@ -12926,7 +13074,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 260568,
       "name": "Tuhan Tolong",
       "url": "https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm"
@@ -13158,7 +13306,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 216247,
       "name": "Waking Up Together With You - Live",
       "url": "https://open.spotify.com/track/6J6mlw6HcctswDHkz1hq6r"

@@ -4,7 +4,7 @@
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-253 songs - 12 hr 40 min
+254 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Tangatutanga](https://open.spotify.com/track/4OxWepIRN3GXUxF7g4Kwvq) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua) | 1:28 | 2021-09-03 | 2022-07-29 |
 | [Tangatutanga](https://open.spotify.com/track/6jKsTrjBw58EylG0U0Pxws) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 1:28 | 2021-09-03 | 2024-04-19 |
 | [Tequila](https://open.spotify.com/track/020XZ8mDVjzbnmvjL6GKls) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Go Champs Go!](https://open.spotify.com/album/56dcDUhBf8fOnveET5B61r) | 2:15 | 2021-09-03 | 2024-04-19 |
+| [Tequila](https://open.spotify.com/track/17qIyxyDWmNP7Rn11eprMt) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Go Champ Go](https://open.spotify.com/album/2w8npBWERvFfCpOMhajy5M) | 2:15 | 2024-11-29 |  |
 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 | 2021-09-03 |  |
 | [Terremoto](https://open.spotify.com/track/57819d21abP6AB4L2jFgAy) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/26eEerapTfJvphEBK0mks5) | 3:09 | 2021-09-03 | 2022-07-29 |
 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 | 2021-09-03 |  |
@@ -245,7 +246,7 @@
 | [Tiki Surf](https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 1:56 | 2021-09-03 |  |
 | [Tsunami Tsurprise](https://open.spotify.com/track/3wMrGuCEolLgMFwco9ZbMa) | [The Space Cossacks](https://open.spotify.com/artist/1XhaaT9U8CACi8QQepcl3p) | [Never Mind The Bolsheviks \- The Best Of…](https://open.spotify.com/album/6wz7bEL4keadApTdRTYy3z) | 3:37 | 2021-09-03 | 2022-07-26 |
 | [Twin Peaks Twist](https://open.spotify.com/track/6ORuHaU0JoaI2SpdbwmNSo) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Heretic Channel](https://open.spotify.com/album/0TTC3ZnQ8BWvUGkMIiQ3Gl) | 3:23 | 2021-09-03 | 2022-10-15 |
-| [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 | 2021-09-03 |  |
+| [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 | 2021-09-03 | 2025-02-07 |
 | [Una Chica Me Dijo una Vez](https://open.spotify.com/track/1tzcfcBpgv2uaZsWwTi73f) | [Los Moustros del Espacio Exterior](https://open.spotify.com/artist/7x7xd2Q9q00hWdSYBgr8Bl), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Una Chica Me Dijo una Vez](https://open.spotify.com/album/6ezRzAQ2YzBP4CZwYEy4jn) | 3:14 | 2021-09-03 | 2022-07-28 |
 | [Vaquero](https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Death Calavera 2.2](https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW) | 2:52 | 2021-09-03 |  |
 | [Volar](https://open.spotify.com/track/3sfk92mTJYV2L9bcvW8d2Z) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sábado](https://open.spotify.com/album/7kuSs5f1rvSnxTm5Xccjiq) | 3:44 | 2021-09-03 | 2024-11-30 |

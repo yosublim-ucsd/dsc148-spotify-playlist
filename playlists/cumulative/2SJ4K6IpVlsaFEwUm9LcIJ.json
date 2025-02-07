@@ -7987,6 +7987,24 @@
     },
     {
       "album": {
+        "name": "No Cheap Grace",
+        "url": "https://open.spotify.com/album/09ZOx9IwXvXAjeiLMYK6dl"
+      },
+      "artists": [
+        {
+          "name": "Doug Ashdown",
+          "url": "https://open.spotify.com/artist/0Vy1HzvSfJ3bjbxZQxR2eZ"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256301,
+      "name": "Winter in America",
+      "url": "https://open.spotify.com/track/06taFelNWknt8fhZ2jQey1"
+    },
+    {
+      "album": {
         "name": "Paint a Room",
         "url": "https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ"
       },

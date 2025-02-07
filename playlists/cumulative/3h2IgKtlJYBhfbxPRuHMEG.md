@@ -2,7 +2,7 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
 160 songs - 9 hr 3 min
 

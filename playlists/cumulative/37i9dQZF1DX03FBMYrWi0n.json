@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: La S\u00e9curit\u00e9",
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: distraction4ever",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -56,6 +56,28 @@
       "duration_ms": 153789,
       "name": "4900$",
       "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
+    },
+    {
+      "album": {
+        "name": "Business Core",
+        "url": "https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        },
+        {
+          "name": "fish narc",
+          "url": "https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "5a7",
+      "url": "https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP"
     },
     {
       "album": {
@@ -185,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "al\u00e9pok",
+      "url": "https://open.spotify.com/track/4BHc9ds8Q67eEtHLDPjZBW"
+    },
+    {
+      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -272,6 +312,28 @@
       "duration_ms": 128186,
       "name": "Antennes",
       "url": "https://open.spotify.com/track/2IWRxRcB3MpsKptIzs4zdS"
+    },
+    {
+      "album": {
+        "name": "ANTI-GU\u00c9RISON",
+        "url": "https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi"
+      },
+      "artists": [
+        {
+          "name": "Xela Edna",
+          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
+        },
+        {
+          "name": "Eius Echo",
+          "url": "https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231043,
+      "name": "ANTI-GU\u00c9RISON",
+      "url": "https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L"
     },
     {
       "album": {
@@ -1473,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Astral 2000",
+        "url": "https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp"
+      },
+      "artists": [
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "hana",
+      "url": "https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo"
+    },
+    {
+      "album": {
         "name": "hana",
         "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
       },
@@ -2670,7 +2750,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 243950,
       "name": "OMG (oiseau)",
       "url": "https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD"
@@ -2782,7 +2862,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 154267,
       "name": "Pas tr\u00e8s perspicace",
       "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
@@ -3018,7 +3098,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 182562,
       "name": "Pretty Privilege (feat. Emma Beko)",
       "url": "https://open.spotify.com/track/0O16BMpkbPWHGgbdUk3tG8"
@@ -3108,7 +3188,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 233708,
       "name": "Romantisme",
       "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"

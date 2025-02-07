@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: C\u00e9cil Yang",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: RIMALDI, Gloria Jessica",
   "name": "Ke Seberang",
   "tracks": [
+    {
+      "album": {
+        "name": "2 Shots",
+        "url": "https://open.spotify.com/album/746mh7YjTdhdaUa0NPY7rQ"
+      },
+      "artists": [
+        {
+          "name": "Jibs",
+          "url": "https://open.spotify.com/artist/5a3vFEe5TeY6dvzzLVa6cn"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167987,
+      "name": "2 Shots",
+      "url": "https://open.spotify.com/track/5nGbt0y1LuTmqF6z2OiW8S"
+    },
     {
       "album": {
         "name": "321 I'm Callin'",
@@ -194,6 +212,24 @@
       "duration_ms": 155327,
       "name": "After All",
       "url": "https://open.spotify.com/track/0wSdGTI9Uc8zKNSyzoyIzV"
+    },
+    {
+      "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr"
+      },
+      "artists": [
+        {
+          "name": "Rahma Savitri",
+          "url": "https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz"
     },
     {
       "album": {
@@ -559,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/05THAMxxeyyHK0w8cxbklL"
+      },
+      "artists": [
+        {
+          "name": "The Rentenir",
+          "url": "https://open.spotify.com/artist/2jclX5VpnewFBmChNZT3RY"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/6Lg7nPDnRLgtJ4n1tfvaae"
+    },
+    {
+      "album": {
         "name": "BOMBAE",
         "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
       },
@@ -614,6 +668,24 @@
       "duration_ms": 224640,
       "name": "Boy",
       "url": "https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY"
+    },
+    {
+      "album": {
+        "name": "Brave 2 Run",
+        "url": "https://open.spotify.com/album/0NDODoqmatndV5vrHejfJU"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Tio",
+          "url": "https://open.spotify.com/artist/4QrtjZy2Cjn9QvciYwnFYY"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Brave 2 Run",
+      "url": "https://open.spotify.com/track/03DfXnXlswkzIiQICOqtb2"
     },
     {
       "album": {
@@ -2908,6 +2980,28 @@
       "duration_ms": 184315,
       "name": "Loves Hates Loves",
       "url": "https://open.spotify.com/track/43PIMXRQK8LD8rVPZHm1m6"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/3Zx6ahNR0dHc3mlWuErmky"
+      },
+      "artists": [
+        {
+          "name": "RIMALDI",
+          "url": "https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg"
+        },
+        {
+          "name": "Gloria Jessica",
+          "url": "https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159919,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5KWBdIVtqRTFvGzdUHS1NE"
     },
     {
       "album": {

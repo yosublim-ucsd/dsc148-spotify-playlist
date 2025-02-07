@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: LEE DAE WHI, GRASS(\uc774\ub300\ud718, \uadf8\ub798\uc4f0))",
-  "num_followers": 387527,
+  "num_followers": 387526,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2025-01-21 09:33:34",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        },
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 222415,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
-    },
-    {
-      "added_at": "2025-01-21 09:33:34",
-      "album": {
         "name": "Walk In The Night (Feat. Zion.T)",
         "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 185601,
       "name": "Walk In The Night (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
+    },
+    {
+      "added_at": "2025-01-21 09:33:34",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 222415,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
     },
     {
       "added_at": "2025-01-21 09:33:34",
@@ -451,6 +451,26 @@
     {
       "added_at": "2025-01-21 09:33:34",
       "album": {
+        "name": "The Tale of Lady Ok (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4bn8lLRe75VygKRdJ9zA3L"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        },
+        {
+          "name": "Choo young woo",
+          "url": "https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "WOODAHE",
+      "url": "https://open.spotify.com/track/5zqwFI0qVuC5sDN5v96hLp"
+    },
+    {
+      "added_at": "2025-01-21 09:33:34",
+      "album": {
         "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 213000,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
-    },
-    {
-      "added_at": "2025-01-21 09:33:34",
-      "album": {
-        "name": "I Wanna Be - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
-      },
-      "artists": [
-        {
-          "name": "KEY",
-          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
-        },
-        {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        }
-      ],
-      "duration_ms": 193263,
-      "name": "I Wanna Be",
-      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
     },
     {
       "added_at": "2025-01-21 09:33:34",
@@ -511,22 +511,22 @@
     {
       "added_at": "2025-01-21 09:33:34",
       "album": {
-        "name": "The Tale of Lady Ok (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/4bn8lLRe75VygKRdJ9zA3L"
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
       },
       "artists": [
         {
-          "name": "LIA (ITZY)",
-          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
         },
         {
-          "name": "Choo young woo",
-          "url": "https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2"
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
         }
       ],
-      "duration_ms": 210453,
-      "name": "WOODAHE",
-      "url": "https://open.spotify.com/track/5zqwFI0qVuC5sDN5v96hLp"
+      "duration_ms": 193263,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
     },
     {
       "added_at": "2025-01-21 09:33:34",
@@ -595,6 +595,26 @@
     {
       "added_at": "2025-01-21 09:33:34",
       "album": {
+        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
+        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 198749,
+      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
+      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+    },
+    {
+      "added_at": "2025-01-21 09:33:34",
+      "album": {
         "name": "Layin' Low (feat. Jooyoung)",
         "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 207056,
       "name": "Love Virus",
       "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
-    },
-    {
-      "added_at": "2025-01-21 09:33:34",
-      "album": {
-        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
-        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        },
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 198749,
-      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
-      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
     },
     {
       "added_at": "2025-01-21 09:33:34",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-01-21 09:33:34",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Complications (ft. SOLE)",
-      "url": "https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R"
-    },
-    {
-      "added_at": "2025-01-21 09:33:34",
-      "album": {
         "name": "Waves (feat. Simon Dominic & Jamie)",
         "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 164920,
       "name": "Waves (feat. Simon Dominic & Jamie)",
       "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
+    },
+    {
+      "added_at": "2025-01-21 09:33:34",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Complications (ft. SOLE)",
+      "url": "https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R"
     },
     {
       "added_at": "2025-01-21 09:33:34",

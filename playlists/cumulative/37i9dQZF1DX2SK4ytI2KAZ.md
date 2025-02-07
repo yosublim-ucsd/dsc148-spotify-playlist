@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-651 songs - 1 day 11 hr 41 min
+653 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Black Confetti](https://open.spotify.com/track/0WaTwKJGHKJQ6Tv9e2rSGk) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Black Confetti](https://open.spotify.com/album/4OzfmOuozt9Rlosxrtktzi) | 2:53 | 2022-05-27 | 2022-07-30 |
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2023-11-27 |  |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 | 2024-10-01 |
-| [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-09-15 |  |
+| [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-09-15 | 2025-02-07 |
 | [Blood Sugar](https://open.spotify.com/track/60iDIlOnohKwxEKW8yGdXg) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Blood Sugar](https://open.spotify.com/album/2UdbPu3HA7s9HljWGZAkA9) | 3:07 | 2022-03-11 | 2022-07-30 |
 | [Blue](https://open.spotify.com/track/288Xblc7ODtOtK4grOBBHs) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Blue](https://open.spotify.com/album/38XDoXHCDVxWtQgU9hLEI1) | 3:26 | 2022-03-11 | 2022-07-15 |
 | [Blue](https://open.spotify.com/track/7kpaJcRWOeknDSh2FFOUQj) | [OVERSTREET](https://open.spotify.com/artist/5TGdkTyHliaYLHPGxqcSUt) | [Blue](https://open.spotify.com/album/5wSlGI6ihtlxrvnVpskzqQ) | 2:50 | 2022-03-11 | 2022-04-21 |
@@ -100,6 +100,7 @@
 | [Caught In The Middle](https://open.spotify.com/track/1SD2TWyBiComJuvPk6PfJm) | [Half the Animal](https://open.spotify.com/artist/6oHY2GHcrGTZmLZxt2xswT) | [Not Today](https://open.spotify.com/album/7bkKiSh1CFnWkl48eY8EYd) | 3:10 | 2021-03-10 | 2022-06-22 |
 | [Ceasefire](https://open.spotify.com/track/3Te0NUMofZVs1KHQgrqXVe) | [Judas](https://open.spotify.com/artist/4oEv60GQ9pJpWoU88SMwOP) | [Ceasefire](https://open.spotify.com/album/3WStXCR8KygmiP2X28J2Q5) | 3:03 | 2022-03-11 | 2022-04-21 |
 | [Cemetery](https://open.spotify.com/track/5czZkLGepjburbkbEaCfm4) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td) | 2:57 | 2021-03-10 | 2022-05-04 |
+| [Champagne Taste](https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Champagne Taste](https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2) | 3:12 | 2025-01-31 |  |
 | [Change Your Mind](https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Change Your Mind](https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc) | 3:19 | 2024-05-05 | 2025-02-01 |
 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 | 2021-11-19 | 2023-08-08 |
 | [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 | 2023-10-13 | 2024-04-19 |
@@ -319,7 +320,7 @@
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2021-11-19 | 2024-07-19 |
 | [Level of Concern](https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Level of Concern](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY) | 3:40 | 2021-03-10 | 2024-07-19 |
 | [Lies](https://open.spotify.com/track/69L4OE9RDpoRSBbp9K1vJq) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Culture Wars](https://open.spotify.com/album/1xxaSUWq0IGLG2trGgUG20) | 3:22 | 2022-03-11 | 2022-04-20 |
-| [Life Is A Movie](https://open.spotify.com/track/7GimqRFqc3xzsJfutIxqMh) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Life Is A Movie](https://open.spotify.com/album/1Wz7j3XiGpEkvhMbrcbVHS) | 3:20 | 2024-10-18 |  |
+| [Life Is A Movie](https://open.spotify.com/track/7GimqRFqc3xzsJfutIxqMh) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Life Is A Movie](https://open.spotify.com/album/1Wz7j3XiGpEkvhMbrcbVHS) | 3:20 | 2024-10-18 | 2025-02-07 |
 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 | 2022-06-27 |  |
 | [Light On](https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Light On](https://open.spotify.com/album/7J3RuK5FVXZry7VhVU4GaU) | 3:53 | 2024-05-05 | 2024-07-19 |
 | [Lights Down](https://open.spotify.com/track/1JkOqfiFIafUmq1yrJTlfj) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Lights Down](https://open.spotify.com/album/1LgDq2kPnfRvqFYq8oIrcw) | 3:08 | 2022-02-04 | 2022-04-20 |
@@ -408,7 +409,7 @@
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-06-30 | 2024-02-19 |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-30 | 2023-07-28 |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-02-16 |  |
-| [OK Not Alright](https://open.spotify.com/track/1lAlvWYy0rcRiI41bDC6RA) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [OK Not Alright](https://open.spotify.com/album/2VE9BoA5TDvvQ7nKaW8wan) | 2:06 | 2024-09-30 | 2024-10-19 |
+| [OK Not Alright](https://open.spotify.com/track/1lAlvWYy0rcRiI41bDC6RA) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [OK Not Alright](https://open.spotify.com/album/2VE9BoA5TDvvQ7nKaW8wan) | 2:06 | 2024-09-30 |  |
 | [OK OK](https://open.spotify.com/track/0UCSqy0XuSN3FUITKjtljZ) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [OK OK](https://open.spotify.com/album/17htbKcPmAWkYatIbrwSla) | 2:17 | 2021-03-10 | 2022-04-21 |
 | [Oldies Station](https://open.spotify.com/track/7dI0mSvbdJTynUnEkWIom1) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:48 | 2024-05-24 |  |
 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 | 2021-03-10 | 2022-05-27 |
@@ -507,6 +508,7 @@
 | [Silhouettes](https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [When I Was Younger](https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN) | 2:57 | 2022-06-27 | 2024-04-19 |
 | [Simple Things](https://open.spotify.com/track/5XmLP99v54O4zV9vrlBKVS) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Simple Things](https://open.spotify.com/album/0GBbL0Npms5tBYMj8R2yXj) | 2:51 | 2021-07-16 | 2022-07-29 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-05-05 |  |
+| [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 | 2025-01-31 |  |
 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2025-01-31 |  |
 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 | 2023-06-07 | 2023-09-16 |
 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-11-27 |  |
@@ -609,7 +611,7 @@
 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 | 2024-10-18 |  |
 | [Vowels \(And the Importance of Being Me\)](https://open.spotify.com/track/2jE3wqMD0Btzsf3cxr0FhO) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Vowels \(And the Importance of Being Me\)](https://open.spotify.com/album/31igbA4aIGMPNt2JhEpLIo) | 3:04 | 2021-03-10 | 2022-07-29 |
 | [Vowels \(and the Importance of Being Me\)](https://open.spotify.com/track/2yfu1w0yFYHAHnr4p5JS7V) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Vowels \(and the Importance of Being Me\)](https://open.spotify.com/album/1OOkaBGx0j9nJS3agvXclR) | 3:04 | 2022-06-27 | 2022-07-30 |
-| [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-06-27 |  |
+| [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-06-27 | 2025-02-07 |
 | [Waking up the World](https://open.spotify.com/track/1eu9N3gFrVQa9UzffUVUC6) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Waking up the World](https://open.spotify.com/album/3X9wEOXiZRDVSafx8s2rFR) | 3:43 | 2021-03-10 | 2022-06-26 |
 | [Wallflowers](https://open.spotify.com/track/6rJSjXljtoudkJPyQS1iul) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [FELT](https://open.spotify.com/album/6LFjNLaxGgA3O4mwF0YtRd) | 3:55 | 2022-03-11 | 2022-04-21 |
 | [Wanna Start A Band?](https://open.spotify.com/track/34ZmfrVwRAgTFSgMSmifbD) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Wanna Start A Band?](https://open.spotify.com/album/7keV9C1PycJqwXce1awUwZ) | 2:53 | 2025-01-31 |  |

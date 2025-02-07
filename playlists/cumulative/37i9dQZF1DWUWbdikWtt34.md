@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-216 songs - 17 hr 1 min
+220 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bukan Cinta Biasa](https://open.spotify.com/track/0SGLXPkGAHAzmNMUZICurK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Cinta Biasa](https://open.spotify.com/album/0Zhnf3VQis3LBvnyeP2OxH) | 5:17 | 2023-09-28 |  |
 | [Bukan Karena Tak Cinta \(Dangdut Version\)](https://open.spotify.com/track/1uul36yQtUgldeT7dD29Q5) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB), [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bukan Karena Tak Cinta \(Dangdut Version\)](https://open.spotify.com/album/4IBpg15jIv31FFqOYhEZqZ) | 4:39 | 2024-07-25 |  |
 | [Bukan Ku Tak Sudi \- \(Live Ska Reggae\)](https://open.spotify.com/track/2RZJ97Bl5WfrbnBYNG9e9r) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bukan Ku Tak Sudi \(Live Ska Reggae\)](https://open.spotify.com/album/6pnHrH876sQ5cAQsHSm4I3) | 4:17 | 2024-05-02 | 2024-07-19 |
+| [Calon Jenazah](https://open.spotify.com/track/76ZWu54R9aAMQsWEW5IqPh) | [Abi Rafdi](https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi) | [Calon Jenazah](https://open.spotify.com/album/6UrKQ4AgAhGkI8x2m5KU59) | 4:19 | 2025-02-07 |  |
 | [Cincin Kepalsuan](https://open.spotify.com/track/7h16Oq3zKrQmY0NurK5DlT) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Cincin Kepalsuan](https://open.spotify.com/album/15FkTQrMpQpIsNtWsOlZH7) | 6:56 | 2023-07-21 |  |
 | [Cinta Dalam Khayalan](https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Cinta Dalam Khayalan](https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO) | 4:58 | 2022-10-13 | 2023-07-14 |
 | [Cinta Palsu](https://open.spotify.com/track/7BrsMnzb83KxyC8lvEzXqg) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [IsDa](https://open.spotify.com/album/0ricRhNidM6AMUXeF0DATq) | 3:37 | 2024-11-21 |  |
@@ -46,6 +47,7 @@
 | [Cinta Tak Berbatas](https://open.spotify.com/track/1olnVPqKIdsinSbewWQ6wt) | [Vitalia](https://open.spotify.com/artist/10sXOWX2NEAsfoPu88YEOL) | [Cinta Tak Berbatas](https://open.spotify.com/album/4uUEe2CkioiWLHrjol7dRU) | 3:56 | 2025-01-30 |  |
 | [Cinta Tak Terpisahkan \- Live Ska Reggae](https://open.spotify.com/track/5O6qQZLSMLwK7eGwAKruUH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Cinta Tak Terpisahkan \(Live Ska Reggae\)](https://open.spotify.com/album/4Rt4gtk07aN4sPJzZ18GeC) | 5:47 | 2024-05-23 | 2024-10-18 |
 | [Cinta Yang Rumit](https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Rumit](https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA) | 4:05 | 2023-11-17 | 2024-05-24 |
+| [Cinta Yang Terhenti](https://open.spotify.com/track/7lcS9giUFAV05bDS9p6iMJ) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz), [Puspa Indah](https://open.spotify.com/artist/0LYzIcn5DmkymXiqbn6Oq8) | [Cinta Yang Terhenti](https://open.spotify.com/album/5ZpE6y69xl91WE9gB0eNNg) | 5:01 | 2025-02-07 |  |
 | [Cinta Yang Tulus \- Acoustic Version](https://open.spotify.com/track/3y4Dbets2ktIyPYdkLiTPl) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Tulus \(Acoustic Version\)](https://open.spotify.com/album/2rD3h2v9YzyoVkRKFrjuMB) | 4:45 | 2024-01-26 | 2024-03-15 |
 | [Cuma Kamu](https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu](https://open.spotify.com/album/7mrO78qasVB2HQ17sywB3u) | 4:04 | 2021-08-23 |  |
 | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/track/5qfF8hoLmH6wCeHZzhqz4l) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/album/4JGs61xAzqTVHt8xURldZ8) | 4:04 | 2021-08-23 | 2024-04-19 |
@@ -116,6 +118,7 @@
 | [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 | 2024-02-09 |
 | [Manembak Di Ateh Kudo](https://open.spotify.com/track/4BDIGLwu9RMQuYewOfq1Rq) | [Iqhbal](https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M), [Fikoh](https://open.spotify.com/artist/5sxTaMmGwfeWV4MwUqyoeh) | [Manembak Di Ateh Kudo](https://open.spotify.com/album/2391Gq4TbIbCUq1zrLSpia) | 6:54 | 2024-08-04 | 2025-01-31 |
 | [Marlina](https://open.spotify.com/track/4aqSBMVmU6mYvAnIbnyOHr) | [Thomas Djorghi](https://open.spotify.com/artist/1PgpMO3k0MFsIbKT3sQFkI) | [Marlina](https://open.spotify.com/album/7myo2qt1Y3C97HsnmQCONr) | 4:05 | 2023-02-02 | 2023-08-25 |
+| [Maslahat Patah Hati](https://open.spotify.com/track/1sOZY3dJNywbmZPW9xDVJk) | [Gilang](https://open.spotify.com/artist/7pFyHVn3WLIIefKtEkTvt6) | [Maslahat Patah Hati](https://open.spotify.com/album/58ijrgCMFbgtYM1EoRPUKy) | 5:21 | 2025-02-07 |  |
 | [Mataharimu](https://open.spotify.com/track/7hrrK9IGXA1V30nLkLI7Ei) | [Sridevi](https://open.spotify.com/artist/4Ad1vLhZo1fEqoXhmHb1n3) | [Mataharimu](https://open.spotify.com/album/2vmrg3VSTLe3uMvwofdVQq) | 5:17 | 2023-02-16 | 2023-07-14 |
 | [Matamu](https://open.spotify.com/track/4567XBj0AIseDcylxH3VMD) | [Meli](https://open.spotify.com/artist/11s9ZlR5AfrRW2vXUkpBO4) | [Matamu](https://open.spotify.com/album/08kfLLPvmYHfr8Zaqcrrsf) | 3:06 | 2023-05-18 | 2023-08-25 |
 | [Matematika Cinta](https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw) | [Novi Ayla](https://open.spotify.com/artist/5mf5kk94dM7dPugSKwvxy1) | [Matematika Cinta](https://open.spotify.com/album/2R79D0s9BDN6c2Fp1pPhsK) | 4:53 | 2023-11-17 | 2024-11-29 |
@@ -177,6 +180,7 @@
 | [Satu Satunya Permaisurimu](https://open.spotify.com/track/5NgfhMk8ToGK7lHYdZtQI9) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Satu Satunya Permaisurimu](https://open.spotify.com/album/6pJq4Rti7RbDvFiZzq4ISx) | 6:11 | 2024-11-21 |  |
 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 | 2021-08-23 |  |
 | [Sebiduk Tak Searah](https://open.spotify.com/track/3shQooklj8xY9Wu5dShuyc) | [Erie Suzan](https://open.spotify.com/artist/3FL9QyW1idGhwsTomiGoOK) | [Sebiduk Tak Searah](https://open.spotify.com/album/4Y1uXuCfRJRxx0kxxx7ALs) | 5:00 | 2024-06-13 | 2025-01-31 |
+| [Selamat Malam](https://open.spotify.com/track/3uBZ0wPhnY1XuKYo8Ic1iq) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Selamat Malam](https://open.spotify.com/album/7J6K8TUps1AT0rGnXtzyM9) | 4:10 | 2025-02-06 |  |
 | [Selamat Tinggal Kasih \- From "Cidro Asmoro"](https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Selamat Tinggal Kasih \(From "Cidro Asmoro"\)](https://open.spotify.com/album/0sS6FE67HV8uJV5ceyGBp2) | 4:51 | 2023-06-01 | 2024-07-19 |
 | [Semarang Ngawi](https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Semarang Ngawi](https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y) | 4:24 | 2023-06-15 | 2023-08-25 |
 | [Sembuhkan Luka](https://open.spotify.com/track/6Ab00lWVCOskvKQMwdHnda) | [Owan](https://open.spotify.com/artist/6giTizAzwDJX3wOqcRfwTH) | [Sembuhkan Luka](https://open.spotify.com/album/5v3NSApUPB4AnzL4CbBxW5) | 6:23 | 2024-05-17 |  |

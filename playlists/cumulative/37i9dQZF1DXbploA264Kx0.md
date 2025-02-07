@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Bolly \(阮禾茜\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: HUR+
 
-339 songs - 20 hr 38 min
+340 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Ghosts](https://open.spotify.com/track/1a8Krrol95IhEDLZtutEIB) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Ghosts](https://open.spotify.com/album/3KROcodSwLEuPTUWItvY98) | 3:08 | 2024-03-14 | 2024-04-05 |
 | [Glue](https://open.spotify.com/track/3KDIlOWvgtEJUqh7T0lWBF) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/2qNilyf3KvTDmGfDXnJx9y) | 4:20 | 2024-07-11 | 2024-08-30 |
 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:10 | 2024-11-28 | 2024-12-20 |
+| [GODDESS](https://open.spotify.com/track/0mCoKv50QznRebpmdV5tOs) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [GODDESS](https://open.spotify.com/album/5y7aTOTiDXKRfrEuSbLopy) | 3:27 | 2025-02-06 |  |
 | [GOOD LOOKING](https://open.spotify.com/track/2mEk627nf8k8K7zTBYy6XI) | [POPO J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [GOOD LOOKING](https://open.spotify.com/album/4gMmT8HIwXPuDt5cwWp3S9) | 2:10 | 2024-01-25 | 2024-10-18 |
 | [Good Riddance](https://open.spotify.com/track/1ayyscg1ndJ3SpZp4HJWiE) | [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [巫詠歡HAPPY](https://open.spotify.com/artist/6QgZ4pYqYuyiwUxt42PoqK) | [Good Riddance](https://open.spotify.com/album/6LQct65jk9rTw9kLXH4bLW) | 3:21 | 2024-10-17 | 2024-12-13 |
 | [Good Time](https://open.spotify.com/track/64ENqFGrKC4k1d6CTeX0G4) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Good Time](https://open.spotify.com/album/6KZHWUwwE3B8pJM1x893Od) | 2:53 | 2024-07-25 | 2024-08-02 |
@@ -120,7 +121,7 @@
 | [If I Tell Lies](https://open.spotify.com/track/6JUheBvRFEtkq2ENhCaaZB) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [If I Tell Lies](https://open.spotify.com/album/3MmjUVfe6eqYfncDIFC0vW) | 3:37 | 2024-09-05 | 2024-09-27 |
 | [Imma Get A New One](https://open.spotify.com/track/0WSTcd9inhbtHhV9vi1jDQ) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 4:33 | 2024-03-15 | 2024-10-25 |
 | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/track/16xxMRn4v1fKbPvA9wVm1H) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/album/4N3jtleWnWAv6O9i259aTi) | 3:25 | 2024-01-25 |  |
-| [In the End of the World \(I Love You\)](https://open.spotify.com/track/3CcENn2midZIlsOmie5Nvq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [In the End of the World \(I Love You\)](https://open.spotify.com/album/1aRkkaRkSJucjtsBwCLW5S) | 3:40 | 2025-01-16 |  |
+| [In the End of the World \(I Love You\)](https://open.spotify.com/track/3CcENn2midZIlsOmie5Nvq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [In the End of the World \(I Love You\)](https://open.spotify.com/album/1aRkkaRkSJucjtsBwCLW5S) | 3:40 | 2025-01-16 | 2025-02-07 |
 | [Innocent](https://open.spotify.com/track/7bAW1H5zXBXOobKCn9IbKd) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 3:28 | 2024-06-13 | 2024-07-01 |
 | [Innocent](https://open.spotify.com/track/7jIH2PZdZwPN09sPZ8Zxj6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Innocent](https://open.spotify.com/album/0jZAVTNzifPAeyEIrnhGcj) | 3:28 | 2024-01-25 |  |
 | [Jurassic Ride](https://open.spotify.com/track/1VGYVyUsSHFDzaF8jgLwHR) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:14 | 2024-09-12 |  |

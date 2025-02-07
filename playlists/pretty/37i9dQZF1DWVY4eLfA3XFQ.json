@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring GREG (BR) \ud83e\udd16 50% techno, 50% house",
-  "num_followers": 644077,
+  "num_followers": 644161,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1669,6 +1669,22 @@
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
     },
     {
+      "added_at": "2025-01-24 05:00:51",
+      "album": {
+        "name": "Don't Touch That Dial EP",
+        "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Don't Touch That Dial",
+      "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Pressure",
@@ -1725,22 +1741,6 @@
       "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
     },
     {
-      "added_at": "2024-11-01 05:19:33",
-      "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Saving Up (Odd Mob Remix)",
@@ -1761,6 +1761,22 @@
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
     },
     {
+      "added_at": "2024-11-01 05:19:33",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Paris",
@@ -1775,22 +1791,6 @@
       "duration_ms": 146250,
       "name": "Paris",
       "url": "https://open.spotify.com/track/17mnuzuIFPEmrDciyrmdfR"
-    },
-    {
-      "added_at": "2025-01-24 05:00:51",
-      "album": {
-        "name": "Don't Touch That Dial EP",
-        "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Don't Touch That Dial",
-      "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Ready 2 Go",
-        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Ready 2 Go",
-      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "As The Beat Goes Onnn",
@@ -1867,6 +1851,22 @@
       "duration_ms": 159283,
       "name": "As The Beat Goes Onnn",
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1889,26 +1889,6 @@
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Bump Artist EP",
-        "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        },
-        {
-          "name": "Alex Peace",
-          "url": "https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Bump Artist",
-      "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
-    },
-    {
       "added_at": "2024-06-05 04:04:17",
       "album": {
         "name": "Bandit (Club Mix)",
@@ -1929,6 +1909,26 @@
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
     },
     {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Bump Artist EP",
+        "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Alex Peace",
+          "url": "https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Bump Artist",
+      "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
+    },
+    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "All My Friends Are Hot",
@@ -1943,22 +1943,6 @@
       "duration_ms": 179076,
       "name": "All My Friends Are Hot",
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Needle On The Record",
-        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Needle On The Record",
-      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1977,6 +1961,22 @@
       "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Get Stupid",
@@ -1993,20 +1993,20 @@
       "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
       },
       "artists": [
         {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -2073,6 +2073,38 @@
       "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
     },
     {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Monaco EP",
+        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Let The Bassline",
+        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 183234,
+      "name": "Let The Bassline",
+      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Run From Me",
@@ -2093,92 +2125,24 @@
       "url": "https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Let The Bassline",
-        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 183234,
-      "name": "Let The Bassline",
-      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Monaco EP",
-        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
-      },
-      "artists": [
-        {
-          "name": "Blank Sense",
-          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "GETAWAY",
-        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         },
         {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
         }
       ],
-      "duration_ms": 163871,
-      "name": "GETAWAY",
-      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
-    },
-    {
-      "added_at": "2025-01-24 05:00:51",
-      "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/3XExdzq3IxgpNLkSSLjA8s"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Jevin Julian",
-          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
-        }
-      ],
-      "duration_ms": 226406,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/7u4q2L9ralNz0A6J9P4ihL"
-    },
-    {
-      "added_at": "2024-12-27 16:48:14",
-      "album": {
-        "name": "Regulate",
-        "url": "https://open.spotify.com/album/4MecsyY4jCPfGx5wDmY6E4"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 147071,
-      "name": "Regulate",
-      "url": "https://open.spotify.com/track/0H2PMtarxegtVjNOWfegml"
+      "duration_ms": 176718,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38"
     },
     {
       "added_at": "2025-01-10 05:00:18",
@@ -2205,24 +2169,60 @@
       "url": "https://open.spotify.com/track/5lwxdOLjLqdnRie4QinJke"
     },
     {
-      "added_at": "2024-04-26 04:01:00",
+      "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M"
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/3XExdzq3IxgpNLkSSLjA8s"
       },
       "artists": [
         {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         },
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "Jevin Julian",
+          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
         }
       ],
-      "duration_ms": 176718,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38"
+      "duration_ms": 226406,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/7u4q2L9ralNz0A6J9P4ihL"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
+    },
+    {
+      "added_at": "2024-12-27 16:48:14",
+      "album": {
+        "name": "Regulate",
+        "url": "https://open.spotify.com/album/4MecsyY4jCPfGx5wDmY6E4"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 147071,
+      "name": "Regulate",
+      "url": "https://open.spotify.com/track/0H2PMtarxegtVjNOWfegml"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2243,22 +2243,6 @@
       "duration_ms": 174890,
       "name": "Jet Setter",
       "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Heard About Me",
-        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Heard About Me",
-      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2283,6 +2267,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Heard About Me",
+        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Heard About Me",
+      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
       },
@@ -2295,22 +2295,6 @@
       "duration_ms": 150000,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "While The Record Spins",
-        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "While The Record Spins",
-      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -2337,6 +2321,26 @@
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "To The Club",
+        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Spankox",
+          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "To The Club",
+      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Slow Down / Pink Dave",
@@ -2357,24 +2361,28 @@
       "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "To The Club",
-        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
+        "name": "FUKINASTY / Look, Alright",
+        "url": "https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla"
       },
       "artists": [
         {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
         },
         {
-          "name": "Spankox",
-          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "DJ Rush",
+          "url": "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
         }
       ],
-      "duration_ms": 180937,
-      "name": "To The Club",
-      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
+      "duration_ms": 177923,
+      "name": "FUKINASTY",
+      "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
     }
   ],
   "unique_name": "Tech House Operator",

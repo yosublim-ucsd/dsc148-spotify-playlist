@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Leto au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Werenoi au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -4311,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "NONCHALANT 3",
+        "url": "https://open.spotify.com/album/2iSw6vsvRZB0bmNOz232zv"
+      },
+      "artists": [
+        {
+          "name": "La Chine",
+          "url": "https://open.spotify.com/artist/1uUulBiIlV1H36pgq2QpY0"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NONCHALANT 3",
+      "url": "https://open.spotify.com/track/2XzF8Lst0VqUdHHB67lWde"
+    },
+    {
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -4832,7 +4850,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 208405,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT"

@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 238003,
       "name": "Actress",
       "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 231686,
       "name": "Don't Wait Too Long",
       "url": "https://open.spotify.com/track/6bYPgYBo2joNEdvTbKERLA"
@@ -4020,7 +4020,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 208978,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
@@ -4734,7 +4734,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 239666,
       "name": "Greatest Gift - Reimagined",
       "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
@@ -5226,7 +5226,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 227177,
       "name": "Honest Mistake",
       "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
@@ -5766,7 +5766,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 279240,
       "name": "Insecurities (feat. Moses Sumney)",
       "url": "https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31"
@@ -5942,7 +5942,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
@@ -6172,7 +6172,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 177133,
       "name": "Kiss Me Before I Forget (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/08DfXlU9bWDIlai62OJJIG"
@@ -7170,7 +7170,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 274539,
       "name": "Love Is Like A Movie",
       "url": "https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M"
@@ -11001,6 +11001,24 @@
     },
     {
       "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/705LfArn43DdhivgfDYX8q"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "album": {
         "name": "Freie Interpreten",
         "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
       },
@@ -11088,7 +11106,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 259870,
       "name": "Stellar",
       "url": "https://open.spotify.com/track/4yuMMtpVBlyKSjZeoUQumj"
@@ -11588,6 +11606,24 @@
       "duration_ms": 205091,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/59Q0Io9CKIqZfPCJhRwH79"
+    },
+    {
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/1HUGGTSeBZXBr2GsbD3qqF"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139946,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/6hjATuYdJpRSoPaJgjBIIp"
     },
     {
       "album": {
@@ -12227,6 +12263,28 @@
     },
     {
       "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/0iGnAbdVf89KdVqOTqeRad"
+      },
+      "artists": [
+        {
+          "name": "Paul Stone",
+          "url": "https://open.spotify.com/artist/18HeKUtjmfHXYsERQWbo9v"
+        },
+        {
+          "name": "The Basement Collective",
+          "url": "https://open.spotify.com/artist/1ZJPfSlG6meR8iI2xKBuyF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231727,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/6Mex55500guMpjs4LWE6NS"
+    },
+    {
+      "album": {
         "name": "Thermae",
         "url": "https://open.spotify.com/album/5uQVtjn87bGuqgQ8mHgA8O"
       },
@@ -12642,7 +12700,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 158873,
       "name": "Tuna Salad Samba",
       "url": "https://open.spotify.com/track/0wkTHSjxa25LvFpK79FGAq"
@@ -13359,6 +13417,24 @@
     },
     {
       "album": {
+        "name": "Silhouettes: A Dream Sphere Journal",
+        "url": "https://open.spotify.com/album/5HBvvp3lcKavJbw9vnHMwP"
+      },
+      "artists": [
+        {
+          "name": "MATTERS UNKNOWN",
+          "url": "https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215168,
+      "name": "What Are You About?",
+      "url": "https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh"
+    },
+    {
+      "album": {
         "name": "What Do You Do",
         "url": "https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq"
       },
@@ -13872,6 +13948,24 @@
       "duration_ms": 338040,
       "name": "Y Gwydd",
       "url": "https://open.spotify.com/track/4jH14vQY3MDSWyU5EFQuPY"
+    },
+    {
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/1PexTdqHu6pScyHcvDrFyZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2lo",
+          "url": "https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207209,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/6f1jwxWoobdY2q9zrq28nY"
     },
     {
       "album": {

@@ -32277,6 +32277,24 @@
     },
     {
       "album": {
+        "name": "Whatever Happens",
+        "url": "https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy"
+    },
+    {
+      "album": {
         "name": "when all is still the same",
         "url": "https://open.spotify.com/album/2AXUDxMSQiKMmdAWLZtLAB"
       },

@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : THEODORT
+> Le meilleur du rap français version cloud\. Photo : mademoiselle lou
 
-490 songs - 23 hr 51 min
+492 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [bank](https://open.spotify.com/track/5KRbR612c2andWTf4vvAhs) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 3:11 | 2024-04-18 | 2024-12-20 |
 | [Bataille \(Affamé \#18\)](https://open.spotify.com/track/61b4BnxFsR4RrhHBv1KZqz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Bataille \(Affamé \#18\)](https://open.spotify.com/album/5rynmiV67Wf1jp0dUazXFn) | 2:34 | 2023-04-06 | 2023-05-05 |
 | [BB APPRENDS\-MOI À FERMER LES YEUX](https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex), [Isma](https://open.spotify.com/artist/43HCKjfq0p8VwJo3LSs7H7) | [BB APPRENDS\-MOI À FERMER LES YEUX](https://open.spotify.com/album/0DV620FQXLPrwCuCq7S1Oy) | 3:10 | 2023-05-18 | 2023-06-30 |
-| [BDT \(COUP D’ÉCLAT \#2\)](https://open.spotify.com/track/6wy3SgSWm6ucKlEWj7ISeN) | [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm), [BENJAY](https://open.spotify.com/artist/3SeRKBuCtC8Q3uN93co7yK) | [BDT \(COUP D’ÉCLAT \#2\)](https://open.spotify.com/album/4j6b0qBLb2HuYkkzwh8eYD) | 2:03 | 2024-12-19 |  |
+| [BDT \(COUP D’ÉCLAT \#2\)](https://open.spotify.com/track/6wy3SgSWm6ucKlEWj7ISeN) | [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm), [BENJAY](https://open.spotify.com/artist/3SeRKBuCtC8Q3uN93co7yK) | [BDT \(COUP D’ÉCLAT \#2\)](https://open.spotify.com/album/4j6b0qBLb2HuYkkzwh8eYD) | 2:03 | 2024-12-19 | 2025-02-07 |
 | [Belle vie](https://open.spotify.com/track/1GcRUhRtcmyK9Wj792TLUN) | [Ladam](https://open.spotify.com/artist/0qHwlOY3zWDwxzTEZfa0N4), [Xabi](https://open.spotify.com/artist/2SW5KCyAv9bOynnjdJvoVj) | [Belle vie](https://open.spotify.com/album/7vd5hWrQ3VwtAobES8qsvM) | 2:43 | 2022-10-20 | 2022-10-28 |
 | [Bilan](https://open.spotify.com/track/4LX12WH82yNq6q6G6MIcmu) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:26 | 2023-04-20 | 2023-09-08 |
 | [Black Pearl](https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [Etoile Noire : Nébuleuse](https://open.spotify.com/album/2ckXqM9XfrPuuKnN39oRvw) | 3:47 | 2022-07-14 | 2023-01-13 |
@@ -78,6 +78,7 @@
 | [Boboalam](https://open.spotify.com/track/0CxkghH2XufHbbuNk5y7SX) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 2:49 | 2024-03-28 | 2024-04-19 |
 | [bohème.](https://open.spotify.com/track/4qgxoRgaWlHeFTKISGes2f) | [Idrane](https://open.spotify.com/artist/7lnlpCPA31jrYPAVNVR3JV) | [Arkoydaki](https://open.spotify.com/album/7F15V1PMXT4QPt5euw9HOf) | 2:56 | 2024-04-25 | 2024-06-07 |
 | [Bonjour quand même](https://open.spotify.com/track/1ozKwcj59fq7PYjyi3NWbe) | [Tsune](https://open.spotify.com/artist/3xQSe5wUqOUFcF5GWlziQb) | [Bonjour quand même](https://open.spotify.com/album/1pLz5qmhYnHt4kUkAW0zfr) | 3:30 | 2023-08-10 | 2023-09-29 |
+| [Bora Bora](https://open.spotify.com/track/2pN5mAxWKVWIZpUR4I6tRV) | [Ousmvne](https://open.spotify.com/artist/11znv1a9HHSUEDZb13FA39) | [Bora Bora](https://open.spotify.com/album/1dSWOhlyM8LJzAC0Ihi0bp) | 2:49 | 2025-02-06 |  |
 | [BORDEL](https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [BORDEL](https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh) | 2:47 | 2023-04-27 | 2023-05-26 |
 | [BOTTEGA](https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB) | [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [23 \-](https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI) | 3:07 | 2023-11-30 | 2024-10-25 |
 | [Boulevard des Belges](https://open.spotify.com/track/7KFpc05eZ24c3DTDwY8ER4) | [Rifa](https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv) | [Boulevard des Belges](https://open.spotify.com/album/4k6uAkPyFAcOAWIhRdgwUM) | 3:06 | 2023-03-02 | 2023-04-21 |
@@ -313,6 +314,7 @@
 | [Minimum](https://open.spotify.com/track/3B9jxMUPRpJJRTXQNpM8Jb) | [Hofmann](https://open.spotify.com/artist/4dHYnkZpHvtz8I9oXZWQue), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [Minimum](https://open.spotify.com/album/0FMHpaHU0slUQQrCJr1BTO) | 3:10 | 2024-07-11 | 2024-08-16 |
 | [Minuit](https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Minuit](https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp) | 2:33 | 2023-03-16 | 2023-06-16 |
 | [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 | 2022-09-16 |
+| [MISS PARFAITE](https://open.spotify.com/track/45UbC1pQOnOC9wo9CczzcC) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [MISS PARFAITE](https://open.spotify.com/album/600NlHR0bSCyg9zmpbZ3LV) | 2:33 | 2025-02-06 |  |
 | [MOB \(Affamé \#20\)](https://open.spotify.com/track/5GnkgCm32rsuAVQ4Uf0oF8) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [MOB \(Affamé \#20\)](https://open.spotify.com/album/3pBQLVgwHk4TL26TX39hHn) | 3:07 | 2023-05-11 | 2023-06-23 |
 | [MONEY TIME](https://open.spotify.com/track/456DJS1um0455bLuepBH9J) | [Dgeogo](https://open.spotify.com/artist/7GGX4fMS8PPJ3n3ftcmfbE) | [Outrenoir](https://open.spotify.com/album/4zpwEmrb5Y50cXzDbYzo9Y) | 2:34 | 2022-09-29 | 2022-11-25 |
 | [MONEYBAG](https://open.spotify.com/track/4o68P6N8JucUg9apYhAtF9) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [YEYEYE](https://open.spotify.com/album/4cYBgxMkPwZ73VNC4Uy5Jv) | 3:09 | 2022-07-28 | 2022-10-28 |

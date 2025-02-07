@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 87156,
+  "num_followers": 87209,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        }
-      ],
-      "duration_ms": 170649,
-      "name": "Corpo Sensual (feat. Mateus Carrilho)",
-      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 234893,
       "name": "Chega Mais",
       "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        }
+      ],
+      "duration_ms": 170649,
+      "name": "Corpo Sensual (feat. Mateus Carrilho)",
+      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Cole\u00e7\u00e3o Nacional",
+        "url": "https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu"
+      },
+      "artists": [
+        {
+          "name": "Instituto",
+          "url": "https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o"
+        },
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Cabe\u00e7a de N\u00eago",
+      "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Brazilian Compilation Series, Vol. 2",
         "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
@@ -1047,22 +1067,6 @@
       "duration_ms": 304144,
       "name": "Nao Force",
       "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Para\u00edso da Miragem",
-        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
-      },
-      "artists": [
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        }
-      ],
-      "duration_ms": 228895,
-      "name": "Paraquedas",
-      "url": "https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1087,6 +1091,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Para\u00edso da Miragem",
+        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
+      },
+      "artists": [
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 228895,
+      "name": "Paraquedas",
+      "url": "https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Feiti\u00e7o Caboclo",
         "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
       },
@@ -1103,22 +1123,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Cole\u00e7\u00e3o Nacional",
-        "url": "https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu"
+        "name": "Pad\u00ea",
+        "url": "https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU"
       },
       "artists": [
         {
-          "name": "Instituto",
-          "url": "https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o"
-        },
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+          "name": "Ju\u00e7ara Mar\u00e7al e Kiko Dinucci",
+          "url": "https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m"
         }
       ],
-      "duration_ms": 237426,
-      "name": "Cabe\u00e7a de N\u00eago",
-      "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
+      "duration_ms": 185280,
+      "name": "S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1135,22 +1151,6 @@
       "duration_ms": 297573,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/5bYc3SytNlaeXiprYUrPK1"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Pad\u00ea",
-        "url": "https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU"
-      },
-      "artists": [
-        {
-          "name": "Ju\u00e7ara Mar\u00e7al e Kiko Dinucci",
-          "url": "https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
     },
     {
       "added_at": "2022-09-22 18:13:04",

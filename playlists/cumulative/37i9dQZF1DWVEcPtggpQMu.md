@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D?si=XYhP8FW8QkustwMYzqaYyQ">Blue Pappi</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=xE4hEq1yThGBlaOtdzfpGQ">Cassper Nyovest</a>
 
-906 songs - 2 day 0 hr 25 min
+907 songs - 2 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Koko](https://open.spotify.com/track/58Tnb3VVqcXsAqiYzf4QgZ) | [Dali Danger](https://open.spotify.com/artist/5uS7Vl0LAEz2Rj7oDeeM4Y), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [Koko](https://open.spotify.com/album/4JCZikiBZGUuSlddU5z2jX) | 3:28 | 2022-03-31 | 2022-08-19 |
 | [KUMBAYA](https://open.spotify.com/track/44JKlW14QaUbXtWNWPZ2en) | [YoungT](https://open.spotify.com/artist/4C43Ce0K8CdTNpizXxe7vv) | [KUMBAYA](https://open.spotify.com/album/1aqOupCxQrGP5oOmt8pTt9) | 4:07 | 2022-01-20 | 2022-02-11 |
 | [Kuse Khaya](https://open.spotify.com/track/7FcVPnVNnBWpYaVnvl8nuO) | [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Tribal](https://open.spotify.com/artist/1CgTePmoEDljQKfgfH7Xox) | [Kuse Khaya](https://open.spotify.com/album/263P4iNAG9EsQoDg9xVlTi) | 3:52 | 2024-04-12 | 2024-05-24 |
+| [Kusho Bani](https://open.spotify.com/track/6OY9Y4MJKoj1COWKiUyZCN) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Kusho Bani](https://open.spotify.com/album/4b3dDfp7hzYtLkjlYKM2xy) | 3:44 | 2025-02-06 |  |
 | [Kutsa](https://open.spotify.com/track/23PRC1Q2VFbIx6sCOCgLQu) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Kutsa](https://open.spotify.com/album/11ktlA1YvImtKaFzT4hPNh) | 5:05 | 2024-08-02 | 2024-10-23 |
 | [Kutsa](https://open.spotify.com/track/6agL67tYcLo0pBkowC0i9q) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Makwa](https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59) | [Kutsa](https://open.spotify.com/album/5ho2gBJW7krfpIQDDLZim6) | 4:13 | 2023-10-05 | 2024-04-26 |
 | [Kwenzekile](https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Chang Cello](https://open.spotify.com/artist/0Fy0LMkScL5OMShfg3UM1i) | [Kwenzekile](https://open.spotify.com/album/5c7Pf0109qPClzjeVClEqE) | 3:57 | 2022-12-12 | 2023-02-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Jesse Reyez",
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : GIV\u0112ON",
   "name": "Douces Vibes",
   "tracks": [
     {
@@ -3219,6 +3219,32 @@
     },
     {
       "album": {
+        "name": "Hey Girl(s)",
+        "url": "https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Hey Girl(s)",
+      "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
+    },
+    {
+      "album": {
         "name": "Hide & Seek (FLO Remix)",
         "url": "https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv"
       },
@@ -3874,7 +3900,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 254500,
       "name": "je t'aime",
       "url": "https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql"
@@ -4660,7 +4686,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 168720,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0"
@@ -4762,6 +4788,24 @@
       "duration_ms": 175495,
       "name": "Luv Songs (Unruly)",
       "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
+    },
+    {
+      "album": {
+        "name": "lvl 1 - HOME ALONE",
+        "url": "https://open.spotify.com/album/5gsTwlcGGuSOTQxR6pCcVN"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210465,
+      "name": "lvl 1 - HOME ALONE",
+      "url": "https://open.spotify.com/track/7mB570CbgjVlrTVvJtr6tn"
     },
     {
       "album": {
@@ -5252,7 +5296,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 279746,
       "name": "NARCISSIST?",
       "url": "https://open.spotify.com/track/1MwXXI0buiiwEsZ9d6RBZ9"
@@ -6328,7 +6372,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 176978,
       "name": "Preference",
       "url": "https://open.spotify.com/track/51dVDANsWbXKQ5Y95gX6DH"
@@ -7670,7 +7714,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 186550,
       "name": "Something",
       "url": "https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf"
@@ -8741,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "TWENTIES",
+        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171955,
+      "name": "TWENTIES",
+      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
+    },
+    {
+      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN"
       },
@@ -9038,6 +9100,24 @@
       "duration_ms": 199945,
       "name": "Walk Through The Fire (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/0Abt1QbqiLu45RN3VPECM6"
+    },
+    {
+      "album": {
+        "name": "WANDERER",
+        "url": "https://open.spotify.com/album/0t7A5PFJ9BEkMTjUWsqLVm"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260488,
+      "name": "WANDERER",
+      "url": "https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs"
     },
     {
       "album": {
@@ -9366,6 +9446,24 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/4YifDTwEMK7yBB5vvR72yf"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154618,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/48Aaun4BxBWZFZbIJeAlpM"
     },
     {
       "album": {

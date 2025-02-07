@@ -4,7 +4,7 @@
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-124 songs - 7 hr 48 min
+125 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Apretaito al Pickup](https://open.spotify.com/track/5A3dCPrg1suWtFZs6CHYe1) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [15 Años Maquinando](https://open.spotify.com/album/6lSheRHavdGGTFpwYmca0v) | 3:41 | 2023-12-15 | 2024-04-19 |
 | [Asómate a la Ventana \- Remix](https://open.spotify.com/track/1MoXIcWrVK6LvUTW7tFMuf) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [La Supremacía](https://open.spotify.com/album/3xp7ThCCttw1tliBPWkqjA) | 3:28 | 2023-12-15 |  |
 | [Asómate a la Ventana \- Remix](https://open.spotify.com/track/4Gm7anWU6jrLaaloWnyWcc) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Rey de la Champeta Urbana](https://open.spotify.com/album/4aMBLeJPJiwHMPoNZxqoCj) | 3:28 | 2023-12-15 | 2024-04-19 |
+| [Bailame](https://open.spotify.com/track/4rjA7iv288p1SGuhIEYn7G) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Elenco de Champeta: El ritmo de la Tierra](https://open.spotify.com/artist/0aCs1drO5wJ42U7kqQKyBp) | [Champeta: El ritmo de la Tierra \(Banda Sonora Original\)](https://open.spotify.com/album/6G1MRLt3VTxy3hSWZHN0z2) | 3:23 | 2025-02-07 |  |
 | [Bala Perdida](https://open.spotify.com/track/5ndUSa5Cg9S25lvHDV5YQT) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [Bala Perdida](https://open.spotify.com/album/4lxY5rJhMAN19FRt2mFYxL) | 3:48 | 2023-12-15 |  |
 | [Bala Perdida](https://open.spotify.com/track/4aYVhTtBkulyIn2OOJkmst) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [Bala Perdida](https://open.spotify.com/album/5eKrpxM6a6n4QfrqZJRDMA) | 3:48 | 2023-12-15 | 2024-04-19 |
 | [Borracho Bailando Champeta](https://open.spotify.com/track/0YvLeotyvjHwoyDo7R7Fx9) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Borracho Bailando Champeta](https://open.spotify.com/album/5f6MzSlF9a3KjI3BNwqnOa) | 3:39 | 2023-12-15 |  |
@@ -78,7 +79,7 @@
 | [La Chica Gucci](https://open.spotify.com/track/6HcUJlwTxlp4LRYXiADKEf) | [Big Deivis](https://open.spotify.com/artist/1L1bWPM2pNBpTEEZLLRMbs), [Dandy Bway](https://open.spotify.com/artist/5n9IfOk764XMPUoMQtk6Ue) | [La Chica Gucci](https://open.spotify.com/album/2w6WAVaUHzDakWpXEwPvJu) | 3:16 | 2023-12-15 | 2024-04-19 |
 | [La Chica Guchi \- Sin Placas](https://open.spotify.com/track/2z45JhiXGGmlXZmene3iiO) | [Big Deivis](https://open.spotify.com/artist/1L1bWPM2pNBpTEEZLLRMbs), [Dandy Bway](https://open.spotify.com/artist/5n9IfOk764XMPUoMQtk6Ue) | [La Chica Guchi \(Sin Placas\)](https://open.spotify.com/album/73DRxjKOrk0Hvr8qbcqrvm) | 3:14 | 2023-12-15 |  |
 | [La Condena](https://open.spotify.com/track/1GzbeDWwCGc8jYGU3a6ixx) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [La Condena](https://open.spotify.com/album/2P34iXQ1y9DBWvzU9Q86JX) | 4:22 | 2023-12-15 | 2024-04-19 |
-| [La Condena](https://open.spotify.com/track/54ZY5mcqIhHFJEzo78CegT) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Champeta Sin Límites](https://open.spotify.com/album/3rca5yHcL2lh1eKhIDqlBz) | 4:22 | 2023-12-15 |  |
+| [La Condena](https://open.spotify.com/track/54ZY5mcqIhHFJEzo78CegT) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Champeta Sin Límites](https://open.spotify.com/album/3rca5yHcL2lh1eKhIDqlBz) | 4:22 | 2023-12-15 | 2025-02-07 |
 | [La Espelucá](https://open.spotify.com/track/36d8uosAAyY4PNSEITEaVJ) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx), [Mr Steve](https://open.spotify.com/artist/0TgEaSmA1DuHClb6dblt3Z) | [La Espelucá](https://open.spotify.com/album/1SaExsIeidGacFT3gnVdtX) | 4:04 | 2023-12-15 | 2024-04-19 |
 | [La Espelucá](https://open.spotify.com/track/5hsooFA9KcUMCnfrDxJghI) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx), [Mr Steve](https://open.spotify.com/artist/0TgEaSmA1DuHClb6dblt3Z) | [La Espelucá](https://open.spotify.com/album/0HiT10T6wjoxHoYZ6jcv8D) | 4:05 | 2023-12-15 |  |
 | [La Invité a Bailar](https://open.spotify.com/track/1KqbEgwOZrAI36yBnGkZ94) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [El Rey de la Champeta Urbana](https://open.spotify.com/album/6YSMVg5CsdVgSL2vjSgZNP) | 4:02 | 2023-12-15 |  |

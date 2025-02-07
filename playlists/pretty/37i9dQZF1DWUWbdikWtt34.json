@@ -1,12 +1,12 @@
 {
   "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
-  "num_followers": 191268,
+  "num_followers": 191264,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5uwIAAAAAD6ADFsn6HHGDUUTlYmQWjj",
+  "snapshot_id": "Z6VPLgAAAAC4QGuIWFAdvA6FhRnlfU+k",
   "tracks": [
     {
       "added_at": "2025-01-30 17:00:16",
@@ -23,6 +23,74 @@
       "duration_ms": 241744,
       "name": "Insan Yang Tersakiti - Live Ska Reggae",
       "url": "https://open.spotify.com/track/0dV0JWMHsxGwAZyXclrpqy"
+    },
+    {
+      "added_at": "2025-02-06 18:07:42",
+      "album": {
+        "name": "Selamat Malam",
+        "url": "https://open.spotify.com/album/7J6K8TUps1AT0rGnXtzyM9"
+      },
+      "artists": [
+        {
+          "name": "Riri Chantika",
+          "url": "https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX"
+        }
+      ],
+      "duration_ms": 250555,
+      "name": "Selamat Malam",
+      "url": "https://open.spotify.com/track/3uBZ0wPhnY1XuKYo8Ic1iq"
+    },
+    {
+      "added_at": "2025-02-07 00:06:12",
+      "album": {
+        "name": "Maslahat Patah Hati",
+        "url": "https://open.spotify.com/album/58ijrgCMFbgtYM1EoRPUKy"
+      },
+      "artists": [
+        {
+          "name": "Gilang",
+          "url": "https://open.spotify.com/artist/7pFyHVn3WLIIefKtEkTvt6"
+        }
+      ],
+      "duration_ms": 321562,
+      "name": "Maslahat Patah Hati",
+      "url": "https://open.spotify.com/track/1sOZY3dJNywbmZPW9xDVJk"
+    },
+    {
+      "added_at": "2025-02-07 00:09:18",
+      "album": {
+        "name": "Cinta Yang Terhenti",
+        "url": "https://open.spotify.com/album/5ZpE6y69xl91WE9gB0eNNg"
+      },
+      "artists": [
+        {
+          "name": "Aprilian",
+          "url": "https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz"
+        },
+        {
+          "name": "Puspa Indah",
+          "url": "https://open.spotify.com/artist/0LYzIcn5DmkymXiqbn6Oq8"
+        }
+      ],
+      "duration_ms": 301302,
+      "name": "Cinta Yang Terhenti",
+      "url": "https://open.spotify.com/track/7lcS9giUFAV05bDS9p6iMJ"
+    },
+    {
+      "added_at": "2025-02-07 00:09:18",
+      "album": {
+        "name": "Calon Jenazah",
+        "url": "https://open.spotify.com/album/6UrKQ4AgAhGkI8x2m5KU59"
+      },
+      "artists": [
+        {
+          "name": "Abi Rafdi",
+          "url": "https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi"
+        }
+      ],
+      "duration_ms": 259691,
+      "name": "Calon Jenazah",
+      "url": "https://open.spotify.com/track/76ZWu54R9aAMQsWEW5IqPh"
     },
     {
       "added_at": "2025-01-30 17:00:16",

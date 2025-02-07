@@ -1,12 +1,12 @@
 {
   "description": "Music from Travis Scott, Latto and Playboi Carti.",
-  "num_followers": 16126953,
+  "num_followers": 16127701,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6Is3gAAAACm6gZirEOT8p3w3IImNTQr",
+  "snapshot_id": "Z6RB2wAAAACc1DAONIrmGDzrb/qWkZz0",
   "tracks": [
     {
       "added_at": "2025-02-04 15:06:06",
@@ -167,6 +167,26 @@
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
       "added_at": "2025-02-04 15:06:06",

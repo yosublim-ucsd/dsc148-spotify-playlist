@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uae40\uc2b9\uc8fc, \uace0\uace0\ud559, \uac15\uc9c0\uc6d0, ddbb) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: LEENALCHI(\uc774\ub0a0\uce58)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -5087,6 +5087,24 @@
     },
     {
       "album": {
+        "name": "God of Mud",
+        "url": "https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7"
+      },
+      "artists": [
+        {
+          "name": "LEENALCHI",
+          "url": "https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243842,
+      "name": "God of Mud",
+      "url": "https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD"
+    },
+    {
+      "album": {
         "name": "Golden Time !",
         "url": "https://open.spotify.com/album/6k102m55xMi1OheH96tfRY"
       },
@@ -7199,6 +7217,24 @@
     },
     {
       "album": {
+        "name": "Jane.",
+        "url": "https://open.spotify.com/album/6z4IJIFHHEg1Cka8fWBC3E"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174242,
+      "name": "Jane.",
+      "url": "https://open.spotify.com/track/7eeZR0OkclxBfhAlFd9N4g"
+    },
+    {
+      "album": {
         "name": "Jayu \uc790\uc720",
         "url": "https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH"
       },
@@ -7520,7 +7556,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 147596,
       "name": "Late Night Flaneur",
       "url": "https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul"
@@ -7886,7 +7922,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 209200,
       "name": "Little Drama",
       "url": "https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m"

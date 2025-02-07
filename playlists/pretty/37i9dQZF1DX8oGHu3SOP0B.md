@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,003 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,013 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 17 | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/track/0MEYCRC6mdoKNPkkVAR5k6) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/album/1lx08G8uQTWeX1hYy3rgWb) | 3:16 |
 | 18 | [ชวนฝัน](https://open.spotify.com/track/4fFQWVUKymNCKR7IsCZy71) | [Pearpilincys](https://open.spotify.com/artist/3Htj1ew5zqwv3nJNNFfXxP) | [ชวนฝัน](https://open.spotify.com/album/6U0xmVMuhABWOLt81urPby) | 3:14 |
 | 19 | [เข้าใจว่าไม่เข้าใจ \(INVERTED\)](https://open.spotify.com/track/2phhqdmCi0p8XFVFJZ4Tju) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [เข้าใจว่าไม่เข้าใจ \(INVERTED\) \- Single](https://open.spotify.com/album/1OHOyC5QsRdRIhg6VVg9sD) | 4:26 |
-| 20 | [ห่างออกไป](https://open.spotify.com/track/7HFHVsdpurZMDhgwFIFfmj) | [Mhuenploy](https://open.spotify.com/artist/7Dcde8WEjjR1YW1e1lDvai) | [ห่างออกไป](https://open.spotify.com/album/1M5TBM4YYApubk58Xqvefp) | 4:33 |
+| 20 | [ห่างออกไป](https://open.spotify.com/track/7HFHVsdpurZMDhgwFIFfmj) | [mhuenploy](https://open.spotify.com/artist/6lO1YhcMpNzqMqmYQwKsB4) | [ห่างออกไป](https://open.spotify.com/album/1M5TBM4YYApubk58Xqvefp) | 4:33 |
 | 21 | [ไม่เคยได้เห็นตัวเองที่ยิ้มได้มากแบบนี้ \(Glad\)](https://open.spotify.com/track/7vgDg9Zz5nGQ6FycmPhzvR) | [LADIIPRANG](https://open.spotify.com/artist/5bAPqOCPEHPnrJWCbiA6SC) | [ไม่เคยได้เห็นตัวเองที่ยิ้มได้มากแบบนี้ \(Glad\)](https://open.spotify.com/album/0PsYW5qxWeBQYUJi9t0yW1) | 3:12 |
 | 22 | [LIKE THAT I LIKE YOU](https://open.spotify.com/track/76BKLb2dUj11V2cv4pJ7Sk) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [LIKE THAT I LIKE YOU](https://open.spotify.com/album/5wudHOnjaCavoYLJWGKPno) | 3:25 |
 | 23 | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [GEE](https://open.spotify.com/artist/4XvJZRnsThtRqESBoxcjjs) | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/album/0RbpoYMuNgKKZDDnBJNdiE) | 3:36 |

@@ -4,7 +4,7 @@
 
 > festival music 2025 \- festival songs \- festival mix \- music festival \- music mix \- mainstage mix \- mainstage music \- tiesto \- david guetta \- swedish house maffia \- avicii
 
-394 songs - 19 hr 57 min
+395 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Filthy Rich](https://open.spotify.com/track/5ksui6de0U50Rc6PikEBu1) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Filthy Rich](https://open.spotify.com/album/6cFccsLrrlJreLTA23pVzc) | 2:27 | 2024-06-06 | 2024-11-30 |
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-30 |  |
 | [Find A Way](https://open.spotify.com/track/7zM4RlICmXyA7TyEPigVZq) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Find A Way](https://open.spotify.com/album/7a3JWPQfnxDKkDYVn7oSJ1) | 3:08 | 2022-07-29 | 2023-09-02 |
+| [Fire In The Sky](https://open.spotify.com/track/1qTbKDhFTM4am7zAXk2jsp) | [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI) | [Fire In The Sky](https://open.spotify.com/album/0ndEENW3rwiqWgagqIsDd0) | 2:33 | 2025-02-06 |  |
 | [Flame](https://open.spotify.com/track/5K3dTaVxbZUOzJwFJhbj2A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Flame](https://open.spotify.com/album/7GJsQ9W5MqX0as7C8xgs4G) | 2:51 | 2022-07-29 | 2022-08-20 |
 | [Flight](https://open.spotify.com/track/67keGyFWWzCELxtVSBi1em) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Flight](https://open.spotify.com/album/1sLPzmdbfT9UvHuOvBe9yE) | 2:30 | 2023-08-24 | 2024-10-12 |
 | [Fly Apart](https://open.spotify.com/track/6RXPW7XKoR4SqSogstTzsY) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [Sam Noton](https://open.spotify.com/artist/1Ma2cokH15saLZiU2eKrdj) | [Fly Apart](https://open.spotify.com/album/6Wba9nMjwQqkSCDsCcpDb2) | 2:47 | 2023-09-21 |  |

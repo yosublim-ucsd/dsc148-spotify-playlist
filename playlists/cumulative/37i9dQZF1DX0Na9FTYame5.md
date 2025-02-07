@@ -2,9 +2,9 @@
 
 ### [Rap in deep](https://open.spotify.com/playlist/37i9dQZF1DX0Na9FTYame5)
 
-> Deutschrap für die emotions\. Cover: Trettmann, MAJAN
+> Deutschrap für die emotions\. Cover: badchieff
 
-172 songs - 7 hr 48 min
+173 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 |  |
 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 | 2024-06-28 |  |
 | [Gott weiß wie](https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Gott weiß wie](https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY) | 2:22 | 2024-10-10 | 2024-12-17 |
-| [Haare trocknen](https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Haare trocknen](https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF) | 2:52 | 2024-08-26 |  |
+| [Haare trocknen](https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Haare trocknen](https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF) | 2:52 | 2024-08-26 | 2025-02-07 |
 | [Happy Birthday](https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Happy Birthday](https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580) | 3:36 | 2024-06-28 | 2025-01-27 |
 | [Happy ohne dich](https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Happy ohne dich](https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV) | 2:13 | 2024-09-16 |  |
 | [Herzfeind \- Titelsong zum Film „Trauzeugen“](https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzfeind \(Titelsong zum Film „Trauzeugen“\)](https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ) | 2:30 | 2024-06-28 |  |
@@ -95,6 +95,7 @@
 | [Lautlos](https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Lautlos](https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW) | 2:53 | 2024-06-28 |  |
 | [Let me love you](https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Let me love you](https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX) | 2:47 | 2024-06-28 |  |
 | [LEUCHTTURM](https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [LEUCHTTURM](https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus) | 2:33 | 2024-12-09 |  |
+| [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-02-06 |  |
 | [Liebe = Schmerz](https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Liebe = Schmerz](https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK) | 2:37 | 2024-06-28 |  |
 | [Liebe ist ein Dieb](https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Liebe ist ein Dieb](https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW) | 3:11 | 2024-06-28 |  |
 | [Liebst du mich](https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Liebst du mich](https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd) | 2:57 | 2024-06-28 | 2025-01-19 |

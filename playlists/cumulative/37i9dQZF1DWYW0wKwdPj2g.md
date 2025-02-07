@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Mercy Chinwo
 
-176 songs - 23 hr 15 min
+177 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Goliathi \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/5cVaaESVeWB9bTMLXaC6KZ) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Goliathi \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2) | 6:49 | 2024-05-03 | 2024-11-08 |
 | [Habadiliki \- Live](https://open.spotify.com/track/3QWUUdnGaIpsiJIDdTgT4x) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Habadiliki \(Live\)](https://open.spotify.com/album/0d6dkI00atJmMDl21u8G55) | 4:20 | 2025-01-17 |  |
 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2024-02-23 |  |
-| [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 | 2025-01-10 |  |
+| [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 | 2025-01-10 | 2025-02-07 |
 | [He Reigns](https://open.spotify.com/track/0lCysHEilSagB1wvg2IW4S) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [He Reigns](https://open.spotify.com/album/5jhjBD8PUSfYOXnJVMVoMa) | 5:41 | 2024-10-04 | 2025-01-31 |
 | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4vET4sXpDK2XZpSTzBqm2V) | 5:16 | 2024-03-29 | 2024-04-12 |
 | [Hold On](https://open.spotify.com/track/01H2VrG6M1Mi6NQGvSZqNK) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/1D0i8SNNKxHHf4EhuKNQsE) | [Gratitude](https://open.spotify.com/album/3JSITBuRn2vwJ5I0fwWIic) | 6:47 | 2025-01-03 | 2025-01-31 |
@@ -111,6 +111,7 @@
 | [Never seen \- Live](https://open.spotify.com/track/2chS8q9WHvYzt6Jui4tSfu) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Never seen \(Live\)](https://open.spotify.com/album/4o26uOP0J3WDXtQAdE2FX2) | 10:21 | 2024-04-19 |  |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-03-01 |  |
 | [Ngeke Ng'suke Kuwe \(Reprise\)](https://open.spotify.com/track/745RBWUsOh6awyKAehigkT) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Be Still \(He is God\)](https://open.spotify.com/album/0cSgKbP6SYCKNzxuPIQ60g) | 1:51 | 2024-02-23 |  |
+| [Nginobufakazi](https://open.spotify.com/track/3nwAv4rnjs29WbN80LnvaY) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Nginobufakazi](https://open.spotify.com/album/5T5Tzr9YcpmtUWZdahtXQT) | 8:25 | 2025-02-07 |  |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2024-02-23 | 2024-11-22 |
 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 | 2024-03-01 |  |
 | [No Name \- Live](https://open.spotify.com/track/2XezacK0BDNXfBtZfpWYad) | [WISDOM K](https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd) | [I Do Worship \(Live\)](https://open.spotify.com/album/6zEW3FcmWLMTpoGZdKzgxC) | 10:38 | 2024-12-27 | 2025-01-31 |

@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-417 songs - 1 day 2 hr 3 min
+418 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 | 2023-03-17 | 2023-06-19 |
 | [Farewell Party](https://open.spotify.com/track/06OO9hB9riQOLRGNCsZiQl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:08 | 2021-12-10 | 2022-07-26 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-24 |  |
-| [Feathered Indians](https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Feathered Indians](https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL) | 3:10 | 2022-07-29 |  |
+| [Feathered Indians](https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Feathered Indians](https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL) | 3:10 | 2022-07-29 | 2025-02-07 |
 | [Feeling Whitney](https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Feeling Whitney](https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw) | 3:37 | 2022-10-03 | 2024-02-17 |
 | [Fishin' in the Dark](https://open.spotify.com/track/6DV9CGdFzQeF4CIFZ2cFtl) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [Fishin' in the Dark](https://open.spotify.com/album/3Ns6oLKSrW8DDVG4FAC2pH) | 3:55 | 2022-01-07 | 2022-07-29 |
 | [Five O'Clock World](https://open.spotify.com/track/1zO50Yb6j9DaNiGQewJAq7) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 3:04 | 2021-12-10 | 2022-07-28 |
@@ -307,6 +307,7 @@
 | [Six Days On The Road](https://open.spotify.com/track/032sAei1X5MdodhFWfTwE2) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2022-03-11 | 2022-04-20 |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/4BdJ29tKViIvXhSKoB2dSS) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/25Kg2AqcqSY4FtrUtXc1s7) | 3:54 | 2023-10-27 | 2024-03-30 |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/5lc6hhwOvfNJjZy5EyrbxG) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/0lxxrZlnRP8K7gIqspSDjU) | 3:54 | 2023-09-29 | 2023-11-01 |
+| [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-06 |  |
 | [Someone Like You](https://open.spotify.com/track/1DjDt7ngqk7r1vpcV7d9sx) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Someone Like You/Run](https://open.spotify.com/album/6xkhaMcs6Esu7gfHW1TGK5) | 4:15 | 2024-09-20 |  |
 | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 | 2024-09-13 |  |
 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 | 2021-12-10 |  |

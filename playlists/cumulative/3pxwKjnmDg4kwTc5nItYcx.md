@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-819 songs - 1 day 19 hr 56 min
+822 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Against The Water](https://open.spotify.com/track/2sklRaFgfN1YdB687RIGgi) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Against The Water](https://open.spotify.com/album/1RsQtWgxryiFLtckF3Fasd) | 3:37 | 2020-02-21 | 2021-05-12 |
 | [Ain't My Fault](https://open.spotify.com/track/6lcepxLWU2sbLVXaJL46qS) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Things I Never Said](https://open.spotify.com/album/1NptmZZTnGyDq1ZKQZEcVj) | 2:25 | 2020-05-22 | 2021-05-12 |
 | [All Falls Down \(feat\. Moelogo\)](https://open.spotify.com/track/5cCrpNniPn2ao1BEuAsl6P) | [Reece](https://open.spotify.com/artist/3WGVmCEiJc8xYBZWZWAg5b), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [All Falls Down \(feat\. Moelogo\)](https://open.spotify.com/album/78LmdhDljkaQVUAqBSHU5r) | 3:45 | 2019-12-18 | 2020-04-06 |
+| [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-02-07 |  |
 | [All I Need](https://open.spotify.com/track/3eZYlTn1GGbRJyPXsfk3qT) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [All I Need](https://open.spotify.com/album/56ubyM0z2MoYr4BveRFWtH) | 2:47 | 2023-09-22 |  |
 | [ALL MINE](https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ALL MINE](https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb) | 2:59 | 2023-05-17 |  |
 | [All My Friends](https://open.spotify.com/track/0XKeX2a57RKZrYikf5tmPa) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [All My Friends](https://open.spotify.com/album/2vIpHxPa1g5KQvIlrR1FGK) | 2:48 | 2020-05-22 | 2021-05-12 |
@@ -788,6 +789,7 @@
 | [We All Have \(feat\. Matt Berninger\)](https://open.spotify.com/track/3cabEB5HG1oocs574S4icH) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [We All Have \(feat\. Matt Berninger\)](https://open.spotify.com/album/7muvMsqEbqB2YmsX4ONcHE) | 2:39 | 2021-02-06 | 2022-07-30 |
 | [We Are Warriors](https://open.spotify.com/track/15fb3LJiJbuc5s272jXdUq) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [We Are Warriors](https://open.spotify.com/album/6tHvL1cUXtz3IzXgGhqlZz) | 3:45 | 2020-04-24 | 2021-05-12 |
 | [We Don't Talk About It](https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [We Don't Talk About It](https://open.spotify.com/album/2fg8nUZnoXnoTK3bmQWdqk) | 2:52 | 2023-11-17 |  |
+| [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 | 2025-02-07 |  |
 | [Wear My Heart Out \(feat\. Pearl\)](https://open.spotify.com/track/6CX9CaAS6KTOo6Iq1NL9j0) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61), [Pearl](https://open.spotify.com/artist/4glqVTS8QrVGh4DNuXNu9b) | [Wear My Heart Out \(feat\. Pearl\)](https://open.spotify.com/album/2xPYrMxfsdT2Wdea5tvPTG) | 3:16 | 2022-06-17 |  |
 | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/track/50I4Px0ip8mYOT2TwUZT8k) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/album/6ESCsWmTref0L1BpRlOUQJ) | 2:52 | 2020-09-18 | 2022-06-17 |
 | [WELCOME TO THE GLOW UP](https://open.spotify.com/track/14h1m51SKRdeLwFfbrvJK3) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [WELCOME TO THE GLOW UP](https://open.spotify.com/album/0JyvBDN61cKnJfGrlbAxQZ) | 2:40 | 2021-11-04 |  |
@@ -825,6 +827,7 @@
 | [You Know Wassup](https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Know Wassup](https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt) | 3:21 | 2019-11-25 | 2020-03-25 |
 | [You Lately](https://open.spotify.com/track/6vL2NVGXWg3KZXfeRXNtVy) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ) | [You Lately](https://open.spotify.com/album/4QjsHYzsVdcjvmlzY3HaaQ) | 3:07 | 2019-08-27\* | 2019-11-11 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2019-08-27\* | 2019-11-11 |
+| [You're a Liar \(You Love Me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [You're a Liar \(You Love Me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-02-07 |  |
 | [Young & Alive](https://open.spotify.com/track/5RsKelNxucrDxgMbZ3vd3W) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Young & Alive](https://open.spotify.com/album/4UoEi8sYhfBkFEkvZDfb74) | 2:40 | 2020-03-06 | 2021-05-12 |
 | [Zombie \(feat\. LAUF\)](https://open.spotify.com/track/4QmTyWBkweHWUCyrBl8n7l) | [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY), [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Zombie \(feat\. LAUF\)](https://open.spotify.com/album/0g0KAy1S6lLxbL84HL6C6V) | 2:38 | 2021-09-24 |  |
 

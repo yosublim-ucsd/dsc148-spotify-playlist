@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Keep your finger on the pulse of pop. Cover: Alisa Xayalith",
+  "description": "Keep your finger on the pulse of pop. Cover: Doja Cat, LISA, RAYE",
   "name": "Pop n' Fresh",
   "tracks": [
     {
@@ -570,6 +570,24 @@
       "duration_ms": 212213,
       "name": "A World Without You",
       "url": "https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "album": {
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 156149,
       "name": "am i even on ur mind?",
       "url": "https://open.spotify.com/track/7edI3HGMPRPaDnDHR5Hmku"
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 241881,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D"
@@ -2879,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178770,
+      "name": "Big Thoughts",
+      "url": "https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7"
+    },
+    {
+      "album": {
         "name": "BIG UP",
         "url": "https://open.spotify.com/album/0iTK7j6vohHdBI7DwdUf1d"
       },
@@ -2984,6 +3020,24 @@
       "duration_ms": 165799,
       "name": "Bitter Sweet Love",
       "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
+    },
+    {
+      "album": {
+        "name": "Bitterness",
+        "url": "https://open.spotify.com/album/3Z4tbdCzbTQopMRtgvElL7"
+      },
+      "artists": [
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161258,
+      "name": "Bitterness",
+      "url": "https://open.spotify.com/track/33S5R4m52NhtO8L0WALM8b"
     },
     {
       "album": {
@@ -3298,6 +3352,32 @@
       "duration_ms": 220625,
       "name": "boring",
       "url": "https://open.spotify.com/track/6SSC7khdu8qXT1PRQrNpmT"
+    },
+    {
+      "album": {
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
     },
     {
       "album": {
@@ -3732,7 +3812,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 179437,
       "name": "Burning Down (with Joe Jonas)",
       "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
@@ -5924,7 +6004,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 195859,
       "name": "DELUSIONAL",
       "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
@@ -7652,7 +7732,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 153409,
       "name": "Employee",
       "url": "https://open.spotify.com/track/6BlJYH5UurT8xhmBZZtIfC"
@@ -8450,7 +8530,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 140199,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5XfYc3a3W2Hr6ifxKjyUXP"
@@ -8642,7 +8722,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 166390,
       "name": "Fix Myself",
       "url": "https://open.spotify.com/track/0C9feVe779VL2vknuuZbXP"
@@ -8812,7 +8892,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 199363,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ"
@@ -10377,6 +10457,24 @@
     },
     {
       "album": {
+        "name": "No Rest",
+        "url": "https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167890,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S"
+    },
+    {
+      "album": {
         "name": "SENESCENCE 05 + 06",
         "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
       },
@@ -11820,7 +11918,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 185687,
       "name": "Hold You Again",
       "url": "https://open.spotify.com/track/1VkdCrPTVWbavtu1Jg59U5"
@@ -12397,6 +12495,24 @@
     },
     {
       "album": {
+        "name": "Songs I Cry 2",
+        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
+    },
+    {
+      "album": {
         "name": "How Long (Is This Gonna Take)?",
         "url": "https://open.spotify.com/album/493HS1lMuydf1NfU59mZcA"
       },
@@ -12700,7 +12816,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 224093,
       "name": "I Can\u2019t Believe We Never Went Out Dancing",
       "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
@@ -16042,6 +16158,24 @@
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+    },
+    {
+      "album": {
+        "name": "Lost Your Faith",
+        "url": "https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Lost Your Faith",
+      "url": "https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm"
     },
     {
       "album": {
@@ -19503,6 +19637,24 @@
     },
     {
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "album": {
         "name": "Ordinary Girl",
         "url": "https://open.spotify.com/album/4ihF0Au6FTBrJtJjVrVKUE"
       },
@@ -22228,7 +22380,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 151698,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
@@ -22553,6 +22705,24 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/2DSoFrQTRaIxTonBgko2HL"
+      },
+      "artists": [
+        {
+          "name": "Alisya Rae",
+          "url": "https://open.spotify.com/artist/3FtD8ginawjseVwkf0GhFL"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198823,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/0pr31h2m6Z9seMfnlD5RBC"
+    },
+    {
+      "album": {
         "name": "Shudder",
         "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
       },
@@ -22676,6 +22846,24 @@
       "duration_ms": 166976,
       "name": "Simmer",
       "url": "https://open.spotify.com/track/1RGf1doCMTg9vgUd9FTl2O"
+    },
+    {
+      "album": {
+        "name": "Simple Girl",
+        "url": "https://open.spotify.com/album/7KLoamm2umtzMqtIgcfln7"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199404,
+      "name": "Simple Girl",
+      "url": "https://open.spotify.com/track/7lpKJD0Zg0eOr3enxwlZTk"
     },
     {
       "album": {
@@ -23952,7 +24140,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 259959,
       "name": "Stay Baby",
       "url": "https://open.spotify.com/track/2Ho4QtGcGgxwpti7N8Zsuw"
@@ -26377,6 +26565,24 @@
     },
     {
       "album": {
+        "name": "THINK OF ME",
+        "url": "https://open.spotify.com/album/4aJWqEswzebwxDSCkVzTEt"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149415,
+      "name": "THINK OF ME",
+      "url": "https://open.spotify.com/track/510ZpiTU4fNXTlnrFFx5Yt"
+    },
+    {
+      "album": {
         "name": "Think of You",
         "url": "https://open.spotify.com/album/4AXpf220CHkgip6J4lDtD6"
       },
@@ -27572,7 +27778,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 171066,
       "name": "Ultra Love feat. Ella Rosa",
       "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
@@ -28263,6 +28469,24 @@
     },
     {
       "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/5WnzFQMZnCenPaMmkjQ7J1"
+      },
+      "artists": [
+        {
+          "name": "Royston Noell",
+          "url": "https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/4iVtDkLB9g20svdICYKNyp"
+    },
+    {
+      "album": {
         "name": "Way We Move",
         "url": "https://open.spotify.com/album/0esnJlYUVMGwyowszBnKQa"
       },
@@ -28402,6 +28626,24 @@
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
+    },
+    {
+      "album": {
+        "name": "We're Not The Same",
+        "url": "https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196814,
+      "name": "We're Not The Same",
+      "url": "https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw"
     },
     {
       "album": {

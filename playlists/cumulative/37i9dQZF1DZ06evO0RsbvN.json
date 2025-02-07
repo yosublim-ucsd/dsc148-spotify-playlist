@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Too Late, Too Late Vol. 13 (1921-1940)",
+        "url": "https://open.spotify.com/album/0L3heoL0mB5S7jtt4nunda"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178469,
+      "name": "Jealousy Blues (Take 4)",
+      "url": "https://open.spotify.com/track/5cTydpuMFogmvG3vKJxhnK"
+    },
+    {
+      "album": {
         "name": "Ma Rainey",
         "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 181106,
       "name": "Night Time Blues",
       "url": "https://open.spotify.com/track/1LAlTTH6AEK8zcL6WZAbCU"

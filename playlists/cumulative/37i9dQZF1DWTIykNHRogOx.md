@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo : Ben Mazué
+> Les  meilleures nouveautés de la chanson française\. Photo : Terrenoire
 
-135 songs - 7 hr 23 min
+137 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,14 +79,15 @@
 | [Le sud](https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Le sud](https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW) | 3:45 | 2024-06-27 | 2024-08-30 |
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |
 | [Les Anges](https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:38 | 2024-11-08 | 2024-11-29 |
-| [Les années lumière](https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les années lumière](https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W) | 5:06 | 2024-10-03 |  |
+| [Les années lumière](https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les années lumière](https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W) | 5:06 | 2024-10-03 | 2025-02-07 |
 | [Les astres](https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Les astres](https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg) | 4:00 | 2024-09-26 |  |
 | [Les battements du cœur](https://open.spotify.com/track/3TJb4Bi0FFec1NSf3SWQz6) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Les battements du cœur](https://open.spotify.com/album/7i5WbGyIr7aqoGL5g673kv) | 3:14 | 2024-10-17 | 2024-10-23 |
 | [Les battements du cœur](https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Rêveur, Rêveur](https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB) | 3:14 | 2025-01-23 |  |
-| [Les derniers jours de pluies \- Edit Version](https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Les derniers jours de pluies \(Edit version\)](https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT) | 2:57 | 2024-10-03 |  |
+| [Les derniers jours de pluies \- Edit Version](https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Les derniers jours de pluies \(Edit version\)](https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT) | 2:57 | 2024-10-03 | 2025-02-07 |
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2024-11-28 |  |
 | [Les rois du désespoir](https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Les rois du désespoir](https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s) | 2:48 | 2024-09-05 | 2024-11-22 |
+| [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM), [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 | 2025-02-06 |  |
 | [Longtemps](https://open.spotify.com/track/4CBquCNpWBMWSF1hzlLBtv) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:55 | 2024-10-17 | 2024-11-22 |
 | [Luxembourg](https://open.spotify.com/track/392kafx6I9FFgx0eUNHA1n) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Saint\-Valentin](https://open.spotify.com/album/4K9Gdg4S0RSzy8IhfU32Cd) | 4:00 | 2024-10-24 |  |
 | [Ma jeunesse](https://open.spotify.com/track/4V35BujGypFe8OzBwmSsbS) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Ma jeunesse](https://open.spotify.com/album/2RCuQSryCXllyUPREA6DzR) | 3:00 | 2024-10-10 | 2025-01-17 |
@@ -127,6 +128,7 @@
 | [Syracuse](https://open.spotify.com/track/4a9SKqxRA9geKc5YoPnAf9) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Syracuse](https://open.spotify.com/album/4c0WzbUK3R4b1CeAsErd2M) | 2:48 | 2025-01-16 |  |
 | [Sémaphore](https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Sémaphore](https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY) | 2:44 | 2024-06-27 | 2024-10-11 |
 | [Tempo](https://open.spotify.com/track/4T35yNYrx1CKgy5xghD4aE) | [ICI](https://open.spotify.com/artist/3WHh5pUavDApGmUcpC389V) | [Tempo](https://open.spotify.com/album/3AgM6WhCUcITGdaDKnblSf) | 3:24 | 2024-12-19 |  |
+| [Toi là\-bas](https://open.spotify.com/track/1M1Zd745JBEteL4kWvknkG) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Toi là\-bas](https://open.spotify.com/album/6aJpWeCK0o8oTonGKWpUOb) | 4:09 | 2025-02-06 |  |
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 |  |
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |

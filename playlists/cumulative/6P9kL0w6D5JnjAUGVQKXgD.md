@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,579 songs - 3 day 11 hr 1 min
+1,580 songs - 3 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1391,7 +1391,7 @@
 | [Tight](https://open.spotify.com/track/1CnMonW2jPjo4OvGEw6esf) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Tight](https://open.spotify.com/album/7hWPpbNPacEwcNFzjkgBE0) | 3:08 | 2020-05-26 | 2020-05-27 |
 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 | 2022-05-01 | 2022-05-26 |
 | [Titans \(feat\. Sia & Labrinth\) \- Imanbek Remix](https://open.spotify.com/track/1Tbw9dVAUDFYCflw3Ng9Is) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Titans \(feat\. Sia & Labrinth\) \[Imanbek Remix\]](https://open.spotify.com/album/6i8WBV4dZrGNx7qyAdZVqa) | 2:48 | 2021-06-05 | 2021-11-12 |
-| [To Die For \- Madism Remix](https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [To Die For \(Madism Remix\)](https://open.spotify.com/album/3xJHO62lLfAXbOu4t1z14c) | 2:41 | 2023-03-22 |  |
+| [To Die For \- Madism Remix](https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [To Die For \(Madism Remix\)](https://open.spotify.com/album/3xJHO62lLfAXbOu4t1z14c) | 2:41 | 2023-03-22 | 2025-02-07 |
 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 | 2020-11-27 | 2020-12-10 |
 | [Together](https://open.spotify.com/track/10TsrSj7gYuj5eSZtlSYy8) | [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu) | [Together](https://open.spotify.com/album/6KVzcXOjgeOpT21j3753v2) | 3:04 | 2022-05-27 | 2022-12-01 |
 | [Together We Stand](https://open.spotify.com/track/1l9mDToBxR3qWMDnyukqRN) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Together We Stand](https://open.spotify.com/album/7E4LyXvbmzO99SpInfi93I) | 3:34 | 2020-06-30 | 2020-07-13 |
@@ -1552,6 +1552,7 @@
 | [XYZ](https://open.spotify.com/track/7cbsuVHDGO1QWG15TUOOtp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [XYZ](https://open.spotify.com/album/3w9iuZp9kg9WxPLOw6myZu) | 9:35 | 2022-06-22 | 2022-12-07 |
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-05-26 | 2022-01-28 |
 | [YaYa](https://open.spotify.com/track/5wjbycoA8X9C0HKphtnSZC) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [YaYa](https://open.spotify.com/album/2Vf0qZJTYfleWAAmxmQbnc) | 3:27 | 2022-06-22 | 2022-07-07 |
+| [Yebo](https://open.spotify.com/track/4msB74kX6iJEdkOsR8ZwyG) | [Konstantin Maria](https://open.spotify.com/artist/0BYDX1VH4XzYbzy9uRFbaQ), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Yebo](https://open.spotify.com/album/2lM4w1InDDi0cwnq6XaBxS) | 2:13 | 2025-02-07 |  |
 | [Yellow \- Martin Jensen Edit](https://open.spotify.com/track/6nNP9VB5thT0G42JZFA4XX) | [Giiants](https://open.spotify.com/artist/0L57c1GtgWcYzJ7fvgBIBE), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Yellow \(Martin Jensen Edit\)](https://open.spotify.com/album/1ime8T1NnZq2GJnC7hcpFs) | 2:50 | 2021-01-29 | 2023-03-06 |
 | [Yellow Lights](https://open.spotify.com/track/6rl9L5jRlxd3QUMznmtm0q) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Yellow Lights](https://open.spotify.com/album/422cd3EJOE2btQLGdSD7I8) | 3:14 | 2019-09-29\* | 2020-05-26 |
 | [You](https://open.spotify.com/track/4vrnHICJfoguGfzLkQeyy5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w) | [You](https://open.spotify.com/album/4RE02XZPC2HudccO2yKKeP) | 3:48 | 2021-02-02 | 2021-02-16 |

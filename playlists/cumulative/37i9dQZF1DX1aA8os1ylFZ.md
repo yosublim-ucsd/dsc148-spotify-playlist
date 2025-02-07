@@ -2,7 +2,7 @@
 
 ### [R&B Magic](https://open.spotify.com/playlist/37i9dQZF1DX1aA8os1ylFZ)
 
-> get into your feels with some r&b magic
+> feel the magic with the gems in r&b right now
 
 580 songs - 1 day 5 hr 55 min
 

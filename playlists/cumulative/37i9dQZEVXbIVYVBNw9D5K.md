@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,130 songs - 2 day 8 hr 40 min
+1,131 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-13 | 2021-10-20 |
 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 | 2024-07-06 | 2024-10-11 |
 | [Beklenen Gemi](https://open.spotify.com/track/1yjz7O1MxIpaShmSBiCjfD) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Beklenen Gemi](https://open.spotify.com/album/0HyEvN6FLJzN5D3i9sKoPC) | 2:46 | 2022-02-12 | 2022-03-18 |
+| [Bekleyenim](https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bekleyenim](https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x) | 2:41 | 2025-02-06 |  |
 | [Bela](https://open.spotify.com/track/0pIa1YAqWLOP7gFpDKzqlo) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Bela](https://open.spotify.com/album/6BOm2PuwEBpXsYBB8CVT7A) | 3:02 | 2022-10-01 | 2022-10-03 |
 | [Belki](https://open.spotify.com/track/5ATwkalJ9FnLp7Zcvxo1rl) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Belki](https://open.spotify.com/album/62fDebT76lyROboN5cha72) | 2:43 | 2022-09-19 | 2023-06-04 |
 | [Belki \- Akustik](https://open.spotify.com/track/5nH1QRipfAJ8Pd9rFu3xHh) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Belki](https://open.spotify.com/album/62fDebT76lyROboN5cha72) | 3:00 | 2022-09-22 | 2023-04-02 |
@@ -598,7 +599,7 @@
 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/14y1hmMvxwpDLbZnY5i0Ne) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/7jSFXGgz5Yx96tTnshqitQ) | 2:26 | 2024-07-27 | 2024-09-14 |
 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 | 2024-08-09 | 2024-09-06 |
 | [Kader](https://open.spotify.com/track/3F0f7Sn5dKdUHJUcyh38mY) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kader](https://open.spotify.com/album/1WqBaT9UT7Q1onJHbplcWt) | 3:09 | 2021-07-18 | 2021-07-30 |
-| [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 | 2024-08-10 | 2024-10-19 |
+| [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 | 2024-08-10 |  |
 | [Kafa Tatili](https://open.spotify.com/track/365h8PI7fkpQMYWpk4HHC1) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kafa Tatili](https://open.spotify.com/album/1kj82OlvIWJcIOx4LupuuF) | 2:59 | 2022-06-11 | 2022-06-16 |
 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 | 2024-06-04 | 2024-09-05 |
 | [Kafeste](https://open.spotify.com/track/6R4VTadPfb4GaYAMFg9lSl) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Kafeste](https://open.spotify.com/album/7B3NWvte3Yq5SD8ArkT9En) | 2:59 | 2021-04-26 | 2021-05-09 |
@@ -652,7 +653,7 @@
 | [Kufi](https://open.spotify.com/track/7AbbuiP5vKiuyFl47Z5jY3) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/5Y2a9iCvO8nflR7838wkrz) | 4:25 | 2024-12-14 |  |
 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 | 2024-06-25 | 2024-09-08 |
 | [KUM SAATİ](https://open.spotify.com/track/7dC9xFO2FYKmnRwJsa936V) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ) | [KUM SAATİ](https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8) | 1:56 | 2023-04-10 | 2023-05-31 |
-| [Kumralım](https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:30 | 2023-05-22 |  |
+| [Kumralım](https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:30 | 2023-05-22 | 2025-02-07 |
 | [KURSUN DELIKLERI](https://open.spotify.com/track/7f7u6tinuOcJhY7mDpEYTq) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:42 | 2022-09-10 | 2022-09-12 |
 | [Kusura Bakma](https://open.spotify.com/track/7ng3MkDXpSUVFQEhN6vtqG) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Kusura Bakma](https://open.spotify.com/album/2wQTy5lZxRCArc6UScs8zt) | 2:35 | 2021-03-27\* | 2021-12-19 |
 | [Kuytu Köşelerde](https://open.spotify.com/track/145jqpXnJcombk47TB8305) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Kuytu Köşelerde](https://open.spotify.com/album/66fQ1OfL3g4o2aOzLn247q) | 3:55 | 2021-04-15 | 2021-04-20 |
@@ -853,7 +854,7 @@
 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 | 2024-10-05 | 2025-02-03 |
 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 | 2023-08-12 | 2023-09-02 |
 | [Porselen Kalbim](https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Porselen Kalbim](https://open.spotify.com/album/2TYt9I16VcjqPaSxJXYTLD) | 5:15 | 2022-06-01 | 2022-09-11 |
-| [PRENSES](https://open.spotify.com/track/5V2ShCiyZiveUfhfpAs620) | [Hewal C5](https://open.spotify.com/artist/1UXt6YZc5XfZ8Li5LbaJPh), [Uralxlr](https://open.spotify.com/artist/4L8XrSpW2bBZ50Isfi6Oyr) | [PRENSES](https://open.spotify.com/album/4WlC7RtOP22nfIijaVU30B) | 2:00 | 2025-02-05 |  |
+| [PRENSES](https://open.spotify.com/track/5V2ShCiyZiveUfhfpAs620) | [Hewal C5](https://open.spotify.com/artist/1UXt6YZc5XfZ8Li5LbaJPh), [Uralxlr](https://open.spotify.com/artist/4L8XrSpW2bBZ50Isfi6Oyr) | [PRENSES](https://open.spotify.com/album/4WlC7RtOP22nfIijaVU30B) | 2:00 | 2025-02-05 | 2025-02-07 |
 | [Promilim Yüksek](https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Promilim Yüksek](https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC) | 2:13 | 2023-09-02 | 2023-09-08 |
 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 | 2024-12-21 |  |
 | [Puşt](https://open.spotify.com/track/0jTT901BlxBFF86h6W6pbZ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Puşt](https://open.spotify.com/album/0T8UhoxD9S7LfMfWpRIkLS) | 1:53 | 2021-03-27\* | 2021-05-09 |

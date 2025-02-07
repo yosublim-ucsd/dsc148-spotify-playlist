@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "COMO ESTRELLA",
+        "url": "https://open.spotify.com/album/1WYKM4nrEjzDH1iXfxsFYN"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155423,
+      "name": "COMO ESTRELLA",
+      "url": "https://open.spotify.com/track/5joTJbm9LkcqVwLPkYlhkl"
+    },
+    {
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },

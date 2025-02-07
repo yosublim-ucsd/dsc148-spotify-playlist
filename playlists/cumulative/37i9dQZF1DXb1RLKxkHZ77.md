@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Noh Salleh
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Tenxi, Jemsii, Naykilla
 
 622 songs - 1 day 15 hr 3 min
 

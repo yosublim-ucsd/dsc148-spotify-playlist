@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-324 songs - 14 hr 22 min
+325 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Green Noise \- Busy Waves](https://open.spotify.com/track/45kPJRDQzTrD1yzXFlp9iz) | [Sleep Recorders](https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:05 | 2022-12-09 |  |
 | [Green Noise \- Calm Waves](https://open.spotify.com/track/6nGG05J1C33eYMvf5WXixT) | [The Noise Generator](https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj) | [Soft Green Noise](https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w) | 2:08 | 2022-12-09 |  |
 | [Green Noise \- Calming River](https://open.spotify.com/track/3mfuVtyA5eIznfVoRPgUcq) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Green Noise \- Calming River](https://open.spotify.com/album/6nniJZ6ELOsNGc4vvyYiNy) | 3:39 | 2023-10-05 |  |
-| [Green Noise \- Calming Winds](https://open.spotify.com/track/12PjKkkUQHtGT4AqLKxxMU) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Green Noise \- Calming Winds Green Noise \- Calming Winds](https://open.spotify.com/album/7bQSYc5T5PfqBO2bhiyfkJ) | 2:58 | 2023-10-05 |  |
+| [Green Noise \- Calming Winds](https://open.spotify.com/track/12PjKkkUQHtGT4AqLKxxMU) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Green Noise \- Calming Winds Green Noise \- Calming Winds](https://open.spotify.com/album/7bQSYc5T5PfqBO2bhiyfkJ) | 2:58 | 2023-10-05 | 2025-02-07 |
 | [Green Noise \- Cascade](https://open.spotify.com/track/3ivb6w3eGniig9ICfKmQA0) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [The Sound of Nature](https://open.spotify.com/album/4rx0xAvGRQlQ2ailLzflJS) | 2:08 | 2022-12-09 | 2023-10-06 |
 | [Green Noise \- Cave](https://open.spotify.com/track/2YNGpfcY2oGFBBHLemqLDK) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Nature Green Noise](https://open.spotify.com/album/5hlSLZCjcNUscWpB7mRbYF) | 2:11 | 2023-02-03 |  |
 | [Green Noise \- Chill River](https://open.spotify.com/track/1T2xOgiJfsCC1zesVZ7kQm) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Green Noise \- Chill River](https://open.spotify.com/album/0qUoqFY9dQtDukyFjUQuJj) | 2:59 | 2023-11-24 |  |
@@ -174,6 +174,7 @@
 | [Green Noise Sea](https://open.spotify.com/track/2a9SOcUOk6FHs8SUod7foX) | [Auplaudios](https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4) | [Relaxing Green Noise](https://open.spotify.com/album/2mzdebneyQf4dEJWuI07ZF) | 2:14 | 2022-12-09 |  |
 | [Green Noise Serenity](https://open.spotify.com/track/7JhdQFqrw5JJebkys3Dcnr) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Green Noise Healing](https://open.spotify.com/album/4L5cJcmF6kDoDDmYuM0oOe) | 3:24 | 2023-03-10 | 2023-07-08 |
 | [Green Noise Shoreline](https://open.spotify.com/track/0aNShMq3wv7AVtVRWtBxIU) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Green Noise Shoreline](https://open.spotify.com/album/2gSgGthgtn39tk11Ax6iv3) | 2:45 | 2023-03-10 | 2023-10-06 |
+| [Green Noise Sleep](https://open.spotify.com/track/6b2hUYz4fV20w85EwV4BCX) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Green Noise Sleep](https://open.spotify.com/album/56vtZvivsQTJVbdK8sOViu) | 2:09 | 2025-02-06 |  |
 | [Green Noise Sleep Aid](https://open.spotify.com/track/4bExCFIxEw8UTb0bzf8o7I) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Green Noise Relaxing Waves](https://open.spotify.com/album/2FPduFcR5LEfTzR8wz7mcz) | 2:18 | 2023-03-10 |  |
 | [Green Noise Slow Rain](https://open.spotify.com/track/7vUgN5Xd2P5DHLI0fpIFCK) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Green Relax](https://open.spotify.com/album/10kiGHY22ARlW2kPuxAt3P) | 3:02 | 2023-02-03 |  |
 | [Green Noise Sound Mask](https://open.spotify.com/track/4DemBjpIT8jGyk8XZMILy5) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Green Noise Relaxation](https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd) | 3:24 | 2023-02-03 | 2023-10-21 |
@@ -256,7 +257,7 @@
 | [Rainy Forest Green Noise](https://open.spotify.com/track/7BqBXrO7Mx0uK2llp5Mqyy) | [Bona Nochy](https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL) | [Green Noise Landscape](https://open.spotify.com/album/7zo6kRrAxIv3PIy36BYrLd) | 2:26 | 2023-11-24 |  |
 | [Rainy Green Nights](https://open.spotify.com/track/7sxP7ymbxWdoLtYUkAxwAH) | [Myrs](https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y) | [Washing Noise](https://open.spotify.com/album/3mf1uu8hYWMXjDlGNW9SNU) | 1:34 | 2023-02-03 | 2023-06-17 |
 | [Rainy Green Noise](https://open.spotify.com/track/34NreTkNZvefJirZTpMh1d) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Benefitial Green Noise](https://open.spotify.com/album/6oz26icls7R9tS5xDgPb8a) | 1:52 | 2022-12-09 | 2023-06-17 |
-| [Rainy Green Serenity \- Green Noise](https://open.spotify.com/track/3d7AFvilPf1pfT6n02j2oI) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Green Noise Serenity](https://open.spotify.com/album/0TbYBU4BdPGxRIY0wjyRrt) | 3:36 | 2023-10-05 |  |
+| [Rainy Green Serenity \- Green Noise](https://open.spotify.com/track/3d7AFvilPf1pfT6n02j2oI) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Green Noise Serenity](https://open.spotify.com/album/0TbYBU4BdPGxRIY0wjyRrt) | 3:36 | 2023-10-05 | 2025-02-07 |
 | [Rainy Moment \(Green Noise\)](https://open.spotify.com/track/1HTBRF6AoBZLhHho0PdOW7) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Worldwide Green Noise](https://open.spotify.com/album/0FRzMGKvSbn98TvZvrqJc2) | 2:19 | 2023-05-05 |  |
 | [Rainy Night \- Sweet Spot Green Noise](https://open.spotify.com/track/4K1TQrctzubFO1My5EiyMh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Soothing Green Noise](https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg) | 2:16 | 2023-05-05 |  |
 | [Rainy River \- Green Noise](https://open.spotify.com/track/0RBFDD0fACb1dnJaKrpV16) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:38 | 2023-03-10 |  |

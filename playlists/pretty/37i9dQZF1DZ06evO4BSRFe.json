@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 62933,
+  "num_followers": 62950,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6AHAAAAAACUN+S/T9CGmXQ2WxGIUMHv",
+  "snapshot_id": "Z6KqAAAAAAAmXLOj9qCpBK7+DtZwThW0",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 185146,
-      "name": "No soy monedita de oro",
-      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
+      "duration_ms": 165106,
+      "name": "G\u00fcerita",
+      "url": "https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 165106,
-      "name": "G\u00fcerita",
-      "url": "https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL"
+      "duration_ms": 185146,
+      "name": "No soy monedita de oro",
+      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
       "duration_ms": 173546,
       "name": "La secretaria",
       "url": "https://open.spotify.com/track/2T9QzIh3CekfE1HyG8R8Qa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Cumbia torera",
+      "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Cumbia torera",
-      "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -343,38 +343,6 @@
       "duration_ms": 190200,
       "name": "Escuadras del sur",
       "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La reina de las bandas Vol. I",
-        "url": "https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 154546,
-      "name": "Mi chica ideal",
-      "url": "https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Te lo debo a ti",
-      "url": "https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo"
     },
     {
       "added_at": null,
@@ -395,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+        "name": "La reina de las bandas Vol. I",
+        "url": "https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2"
       },
       "artists": [
         {
@@ -404,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 155400,
-      "name": "Y la quiere Paco",
-      "url": "https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi"
+      "duration_ms": 154546,
+      "name": "Mi chica ideal",
+      "url": "https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF"
     },
     {
       "added_at": null,
@@ -427,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Y la quiere Paco",
+      "url": "https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sentimientos",
         "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
       },
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 172666,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY"
+      "duration_ms": 215200,
+      "name": "Te lo debo a ti",
+      "url": "https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo"
     },
     {
       "added_at": null,
@@ -475,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A prueba de balas",
-        "url": "https://open.spotify.com/album/0dXYdDDNYFOdR0fLzMnlVx"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "A prueba de balas",
-      "url": "https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi chica ideal (Lo B\u00e1sico)",
         "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
@@ -507,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias Mujer",
         "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 178506,
       "name": "Mu\u00e9vete morena",
       "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A prueba de balas",
+        "url": "https://open.spotify.com/album/0dXYdDDNYFOdR0fLzMnlVx"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "A prueba de balas",
+      "url": "https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las movidas de los machos",
-        "url": "https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "El puchoncito",
-      "url": "https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias Mujer",
         "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+        "name": "Las movidas de los machos",
+        "url": "https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu"
       },
       "artists": [
         {
@@ -596,57 +580,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 231453,
-      "name": "Vivir sin ella",
-      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pr\u00f3ximo Tonto",
-        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "El Pr\u00f3ximo Tonto",
-      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Est\u00e1s Seleccionada",
-        "url": "https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
-      "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Mi otra mitad",
-      "url": "https://open.spotify.com/track/1KWSYDvZaPJMB3YYTgRWEj"
+      "duration_ms": 158293,
+      "name": "El puchoncito",
+      "url": "https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4"
     },
     {
       "added_at": null,
@@ -667,6 +603,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "El Pr\u00f3ximo Tonto",
+      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Mi otra mitad",
+      "url": "https://open.spotify.com/track/1KWSYDvZaPJMB3YYTgRWEj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Est\u00e1s Seleccionada",
+        "url": "https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
+      "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Vivir sin ella",
+      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Estrellas de la Musica Mexicana (USA)",
         "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
       },
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me llamo Raquel",
+        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/4LWNMFGhh76bv1Q6JIwlJu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 135333,
       "name": "El biling\u00fce",
       "url": "https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me llamo Raquel",
-        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "La roncona",
-      "url": "https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me llamo Raquel",
+        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "La roncona",
+      "url": "https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pr\u00f3ximo Tonto",
         "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 189093,
       "name": "La Novia Coja",
       "url": "https://open.spotify.com/track/27PkP7nu6jxF0mJ0SxRYXR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me llamo Raquel",
-        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/4LWNMFGhh76bv1Q6JIwlJu"
     },
     {
       "added_at": null,

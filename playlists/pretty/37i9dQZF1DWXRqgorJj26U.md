@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,419,088 likes - 200 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,420,525 likes - 200 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 | 92 | [Old Time Rock & Roll](https://open.spotify.com/track/1lhpxZT57yw5toGJtt8fGE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/3IqhO2ukdUkAs83DzamqIJ) | 3:14 |
 | 93 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 94 | [Layla \- 40th Anniversary Version / 2010 Remastered](https://open.spotify.com/track/3k9i7UzeSUYWIfUZFeFDUd) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(40th Anniversary / 2010 Remastered\)](https://open.spotify.com/album/5IJXJ6OL7wtN8nc3EyQj4N) | 7:03 |
-| 95 | [All Day and All of the Night](https://open.spotify.com/track/3okPiJwW5nCLpug12sCL4p) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/3hbGLP1XTH7lNFJ3oHtswQ) | 2:22 |
+| 95 | [All Day and All of the Night](https://open.spotify.com/track/3okPiJwW5nCLpug12sCL4p) | [The Kinks](https://open.spotify.com/artist/3zKkJx18LPzLA8nJrBCARy) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/3hbGLP1XTH7lNFJ3oHtswQ) | 2:22 |
 | 96 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 | 97 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 |
 | 98 | [Sunshine Of Your Love](https://open.spotify.com/track/5y4761pjcksXs1hNsCmc4n) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/0w6X3DvUlwvxIx2cSJ2L7E) | 4:10 |
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 | 123 | [Money \- 2011 Remastered Version](https://open.spotify.com/track/3aoDEt6zSuYQ47gzarlaVo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/3a0UOgDWw2pTajw85QPMiz) | 6:22 |
 | 124 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
 | 125 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
-| 126 | [You Really Got Me](https://open.spotify.com/track/1oG2vWELiGjIqxwqGcyqwF) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Super Deluxe Edition\)](https://open.spotify.com/album/3hXXoaAA09avxBSSxtPIaL) | 2:13 |
+| 126 | [You Really Got Me](https://open.spotify.com/track/1oG2vWELiGjIqxwqGcyqwF) | [The Kinks](https://open.spotify.com/artist/3zKkJx18LPzLA8nJrBCARy) | [Kinks \(Super Deluxe Edition\)](https://open.spotify.com/album/3hXXoaAA09avxBSSxtPIaL) | 2:13 |
 | 127 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 128 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
 | 129 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |

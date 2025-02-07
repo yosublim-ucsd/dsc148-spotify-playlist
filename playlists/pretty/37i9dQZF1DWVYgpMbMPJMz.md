@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Aohdán King
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,589 likes - 110 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,934 likes - 110 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 36 | [Firm Foundation \(He Won't\) \[feat\. Cody Carnes\]](https://open.spotify.com/track/6KY6K2UVCcYHkQyI4ePMSx) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:45 |
 | 37 | [The Blessing \- Live](https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [The Blessing \(Live\)](https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE) | 8:34 |
 | 38 | [Holy Spirit \- Live from Pretoria](https://open.spotify.com/track/3ikAtB81cBPRxZmMAwCHvz) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Holy Spirit](https://open.spotify.com/album/5IBGHoFzGPbzEYhOm2ZtbX) | 7:30 |
-| 39 | [The King Is Coming \(Live\)](https://open.spotify.com/track/3AR2Tp3BJlJh4Fwdn9RAcz) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Tyler Roberts](https://open.spotify.com/artist/68Sjp48hN3vviXfeLkb16p) | [The King Is Coming \(Live\)](https://open.spotify.com/album/3WGGL4tDZx05hHJkgb4Dw5) | 6:30 |
+| 39 | [The King Is Coming \(Live\)](https://open.spotify.com/track/3AR2Tp3BJlJh4Fwdn9RAcz) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Tyler Roberts](https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0) | [The King Is Coming \(Live\)](https://open.spotify.com/album/3WGGL4tDZx05hHJkgb4Dw5) | 6:30 |
 | 40 | [Miracle Worker \- Live](https://open.spotify.com/track/30wjheQzye2Jwtiy0pOT8D) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Miracle Worker \(Live\)](https://open.spotify.com/album/5KCKJqJbOk50ZvEuhh3DAN) | 6:29 |
 | 41 | [Anything Can Happen \- Live](https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Mayra Alvarez](https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg) | [Anything Can Happen \(Live\)](https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz) | 4:01 |
 | 42 | [Good Shepherd](https://open.spotify.com/track/0qunForAChEb3cxRJ0KIZK) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [The Good Shepherd](https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5) | 4:24 |

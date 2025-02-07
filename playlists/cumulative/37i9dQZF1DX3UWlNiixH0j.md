@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: brkfstblend
 
-2,142 songs - 5 day 13 hr 48 min
+2,143 songs - 5 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [MAJIC](https://open.spotify.com/track/07pGTcfzbu0jtG6aoAfKhM) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [INORI](https://open.spotify.com/album/3jDrLQ2fCCjBgF3IC5wP0D) | 4:01 | 2023-04-04 | 2023-05-24 |
 | [Make a Move](https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Make a Move](https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7) | 2:37 | 2024-10-22 |  |
 | [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 | 2023-06-02 | 2023-08-31 |
+| [Malam Suci](https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Malam Suci](https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff) | 4:19 | 2025-02-05 |  |
 | [MAMA](https://open.spotify.com/track/7DYc43XssbSVwwHAKpZBNU) | [MO MOMA](https://open.spotify.com/artist/3lsRzCymTaeWHU0x2tVbSr) | [MAMA](https://open.spotify.com/album/73QpJly29X4DyQbTDVU5HH) | 2:56 | 2023-08-08 | 2023-08-16 |
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2023-01-24 | 2023-02-08 |
 | [Manifest Girl](https://open.spotify.com/track/5AD6qHY3vZtSEZqzan9EeW) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Manifest Girl](https://open.spotify.com/album/7L8m54pVt46SzHAKPLAZEG) | 2:23 | 2023-10-31 | 2023-11-08 |
@@ -2094,7 +2095,7 @@
 | [退屈](https://open.spotify.com/track/4CulQYytgZ04x0VmOiiEMm) | [岩方禄郎](https://open.spotify.com/artist/3jEq7JbIjF58eWoJq4v7jw) | [ナイーブ](https://open.spotify.com/album/6r5L5o6kNLqut9amywovT2) | 2:32 | 2024-04-09 | 2024-04-17 |
 | [逃亡生活](https://open.spotify.com/track/46xFVj1wuk00nmSC5JlC4j) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/1MZlqLkh5VcVNdaUYxQ5zf) | 4:28 | 2023-04-04 | 2023-04-06 |
 | [逆さの目](https://open.spotify.com/track/2V9L9vWjKkNHFMEOTVfwx7) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [逆さの目](https://open.spotify.com/album/5puAlxlPiYU6pt7zZ5Mghu) | 4:14 | 2024-04-16 | 2024-05-01 |
-| [逆らう羽](https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [逆らう羽](https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU) | 3:15 | 2024-11-05 |  |
+| [逆らう羽](https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [逆らう羽](https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU) | 3:15 | 2024-11-05 | 2025-02-07 |
 | [透明](https://open.spotify.com/track/2eJcQPq8NIdPw0ijl1lZRu) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [透明 / リグレットベイビーズ](https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU) | 4:45 | 2024-04-16 | 2024-09-18 |
 | [透明なぬくもり](https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [中川 理沙](https://open.spotify.com/artist/777vRijuj99nwWotZD3D5y) | [透明なぬくもり](https://open.spotify.com/album/4XO6MTetKMR09jeqTb0M0m) | 3:17 | 2023-06-20 | 2023-06-22 |
 | [逢った](https://open.spotify.com/track/1xBY50tTkPCVzL2rjj94g3) | [Mama Rag](https://open.spotify.com/artist/7cd0xzKKsg2SrTZ2FPjRL8) | [いつも折々](https://open.spotify.com/album/2OinCGOZxDckSelKGBcX6m) | 2:59 | 2024-02-13 | 2024-02-28 |

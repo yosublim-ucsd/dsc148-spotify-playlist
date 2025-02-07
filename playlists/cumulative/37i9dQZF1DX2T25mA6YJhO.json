@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: El \u00daltimo Vecino, arrec\u00ed0.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: shego.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/4mzquVGH20iTnFjmDEEklN"
+      },
+      "artists": [
+        {
+          "name": "BERNARDA",
+          "url": "https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206874,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/01bQAmMz0ShvNyUtwkji4e"
+    },
+    {
+      "album": {
         "name": "D\u00edas de Mierda",
         "url": "https://open.spotify.com/album/3jIgaXquTKKxqakXLhubAO"
       },
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 207539,
       "name": "El Bala",
       "url": "https://open.spotify.com/track/58W2NxqvhXYmSof6MYLgba"
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 183264,
       "name": "el beso que nunca nos dimos",
       "url": "https://open.spotify.com/track/7gmOM0OWCWpV7UVwDsXhcK"
@@ -1425,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "El ingl\u00e9s se ense\u00f1a mal",
+        "url": "https://open.spotify.com/album/7vcBeGFtsPQvLJ435FdcJg"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203037,
+      "name": "El ingl\u00e9s se ense\u00f1a mal",
+      "url": "https://open.spotify.com/track/5hNsJPvi6kSFUUWwDuN1rN"
+    },
+    {
+      "album": {
         "name": "EN EL FEST\u00cdN",
         "url": "https://open.spotify.com/album/4GmcslgP7KlsZ0loxXfm5G"
       },
@@ -1490,7 +1526,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 155592,
       "name": "Entre las nubes",
       "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
@@ -1798,7 +1834,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 184941,
       "name": "Gormiti",
       "url": "https://open.spotify.com/track/40kItumDEImsTETv6umVOg"
@@ -2044,6 +2080,28 @@
       "duration_ms": 181000,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
+    },
+    {
+      "album": {
+        "name": "La batalla final",
+        "url": "https://open.spotify.com/album/3mWHJ42U15jnObX3pCDNJN"
+      },
+      "artists": [
+        {
+          "name": "Caballo Prieto Azabache",
+          "url": "https://open.spotify.com/artist/3lldEYxABJZKVPL9NRWcq3"
+        },
+        {
+          "name": "Ama Ia",
+          "url": "https://open.spotify.com/artist/5myr2gHvqlEkktvZioElER"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220153,
+      "name": "La batalla final",
+      "url": "https://open.spotify.com/track/2ADGnVlRK5FHUuoS5pOGcD"
     },
     {
       "album": {
@@ -2637,6 +2695,24 @@
     },
     {
       "album": {
+        "name": "No lo volver\u00e9 a hacer",
+        "url": "https://open.spotify.com/album/51unLLaXe9KFEEiQ8gI3Ip"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Manifesting",
+      "url": "https://open.spotify.com/track/3Lqygn1Bx76OdUwcWABT7t"
+    },
+    {
+      "album": {
         "name": "Creo que soy de porcelana",
         "url": "https://open.spotify.com/album/2PikfseVD2fRDD7tVDcFv2"
       },
@@ -3028,7 +3104,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 144947,
       "name": "Morir en primavera",
       "url": "https://open.spotify.com/track/4jaBKeI5bJbOZOTajiCNJt"
@@ -3050,6 +3126,24 @@
       "duration_ms": 137344,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233751,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo"
     },
     {
       "album": {
@@ -3468,7 +3562,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 184293,
       "name": "Parkour",
       "url": "https://open.spotify.com/track/1ow2OEydv1F9ljW62daTH5"
@@ -3786,7 +3880,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 205116,
       "name": "Puedo conducir toda la noche",
       "url": "https://open.spotify.com/track/0AA79c66RoiwdZAa8eBfri"
@@ -4364,7 +4458,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 140546,
       "name": "Te lo mereces",
       "url": "https://open.spotify.com/track/7g04mQF5f1Uo2IvpifAbxV"
@@ -4855,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "Viernes con Rufus T. Firefly",
+        "url": "https://open.spotify.com/album/1GVKFgxvOHTi8uKpX2Z9nv"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172042,
+      "name": "Viernes con Rufus T. Firefly",
+      "url": "https://open.spotify.com/track/4foBjqNMLRtSgTHpK458hR"
+    },
+    {
+      "album": {
         "name": "Esta historia ya no est\u00e1 disponible",
         "url": "https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O"
       },
@@ -4956,7 +5068,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-07",
       "duration_ms": 187816,
       "name": "WTF",
       "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
@@ -5000,6 +5112,24 @@
       "duration_ms": 181975,
       "name": "Ya Estoy Mayor",
       "url": "https://open.spotify.com/track/6bwh3lirkVVXAeGDSmAY6q"
+    },
+    {
+      "album": {
+        "name": "Ya no me duele mal",
+        "url": "https://open.spotify.com/album/2cPrx0zF9cy34OWngW5Mqf"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ya no me duele mal",
+      "url": "https://open.spotify.com/track/6S7XyK2Ao38xtVG21dy3uk"
     },
     {
       "album": {

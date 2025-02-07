@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-668 songs - 1 day 16 hr 11 min
+669 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [beat of a slow dance](https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [beat of a slow dance](https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d) | 3:54 | 2023-02-24 | 2023-12-02 |
 | [Beautiful Day \[Feat\. PJ Morton\]](https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Beautiful Day](https://open.spotify.com/album/0FvGcQA1xOmV1DwSAJiHes) | 3:27 | 2024-01-19 | 2024-12-14 |
 | [Bedroom Bully](https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:11 | 2024-08-30 |  |
+| [been a minute](https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi) | [Lily Agnes](https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ), [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [been a minute](https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p) | 3:36 | 2025-01-31 |  |
 | [been away.](https://open.spotify.com/track/11iSQ6pus3eE5bzyU8491F) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 4:10 | 2022-11-18 | 2023-02-04 |
 | [Beggin'](https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Beggin'](https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk) | 3:57 | 2024-03-22 | 2024-12-14 |
 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 | 2023-06-02 | 2024-12-14 |
@@ -222,7 +223,7 @@
 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 | 2023-06-02 | 2024-09-28 |
 | [GPS](https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:56 | 2024-05-31 |  |
 | [Gratitudes](https://open.spotify.com/track/7t5fVlHWLM2fGM9eIICVon) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Gratitudes](https://open.spotify.com/album/5yAzxuffvIYzatSiyrvodj) | 3:16 | 2024-07-26 | 2024-09-10 |
-| [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 | 2023-07-07 |  |
+| [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 | 2023-07-07 | 2025-02-07 |
 | [Greatest Gift \- Reimagined](https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Greatest Gift \(Reimagined\)](https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi) | 3:59 | 2024-04-19 |  |
 | [Greedy](https://open.spotify.com/track/4DceZ7xpWHNsqdhT4M3jtY) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Greedy](https://open.spotify.com/album/19ujwTsmepDqQVw3bfOCIZ) | 5:01 | 2024-06-14 | 2024-07-10 |
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2022-03-11 | 2024-04-19 |
